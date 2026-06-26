@@ -64,6 +64,24 @@ def write(path: Path, content: str):
     path.write_text(content, encoding="utf-8")
 
 
+def paginate(current: int, total: int) -> list:
+    """Return page numbers with None for ellipsis gaps.
+    e.g. [1, 2, None, 5, 6, 7, None, 38, 39] for page 6 of 39."""
+    if total <= 9:
+        return list(range(1, total + 1))
+    pages = set()
+    pages |= {1, 2}                          # first two
+    pages |= {total - 1, total}              # last two
+    pages |= {current - 1, current, current + 1}  # neighbours
+    pages = sorted(p for p in pages if 1 <= p <= total)
+    result = []
+    for p in pages:
+        if result and p > result[-1] + 1:
+            result.append(None)  # ellipsis
+        result.append(p)
+    return result
+
+
 def fix_body_images(body_html: str) -> str:
     """Prefix /wp-content/ image srcs with BASE_PATH for GitHub Pages subpath hosting."""
     return body_html.replace('src="/wp-content/', f'src="{BASE_PATH}/wp-content/')
@@ -95,7 +113,11 @@ def build(recipes: list[dict], env: Environment):
     for page_num in range(1, total_pages + 1):
         start = (page_num - 1) * RECIPES_PER_PAGE
         chunk = recipes[start : start + RECIPES_PER_PAGE]
-        html = index_tmpl.render(recipes=chunk, page=page_num, total_pages=total_pages, **ctx)
+        pages = paginate(page_num, total_pages)
+        html = index_tmpl.render(
+            recipes=chunk, page=page_num, total_pages=total_pages,
+            pages=pages, total_recipes=len(recipes), **ctx,
+        )
         if page_num == 1:
             write(PUBLIC_DIR / "index.html", html)
         write(PUBLIC_DIR / "page" / str(page_num) / "index.html", html)
@@ -183,6 +205,7 @@ nav .spacer { flex: 1; }
 .pagination a, .pagination span { padding: .4rem .75rem; border: 1px solid #ddd; border-radius: 6px; color: #b85c2c; font-size: .9rem; }
 .pagination a:hover { background: #f0e6d6; text-decoration: none; }
 .pagination .current { background: #b85c2c; color: #fff; border-color: #b85c2c; }
+.pagination .ellipsis { padding: .4rem .3rem; color: #aaa; border: none; }
 
 /* Category pill */
 .pill { display: inline-block; background: #f0e6d6; color: #b85c2c; border-radius: 20px; padding: .2rem .7rem; font-size: .78rem; margin: .2rem .2rem 0 0; }
@@ -300,7 +323,7 @@ INDEX_HTML = """\
 {% block content %}
 <div class="container">
   <div class="index-header">
-    <h1>Công thức nấu ăn</h1>
+    <h1>{{ total_recipes }} công thức nấu ăn</h1>
   </div>
   <div class="recipe-grid" id="recipe-grid">
     {% for r in recipes %}
@@ -323,8 +346,9 @@ INDEX_HTML = """\
   <p id="no-results">Không tìm thấy công thức nào.</p>
   <div class="pagination" id="pagination">
     {% if page > 1 %}<a href="{{ base }}/page/{{ page - 1 }}/">«</a>{% endif %}
-    {% for p in range(1, total_pages + 1) %}
-      {% if p == page %}<span class="current">{{ p }}</span>
+    {% for p in pages %}
+      {% if p is none %}<span class="ellipsis">…</span>
+      {% elif p == page %}<span class="current">{{ p }}</span>
       {% else %}<a href="{{ base }}/page/{{ p }}/">{{ p }}</a>{% endif %}
     {% endfor %}
     {% if page < total_pages %}<a href="{{ base }}/page/{{ page + 1 }}/">»</a>{% endif %}

@@ -53,6 +53,7 @@ nav .spacer { flex: 1; }
 .pagination a, .pagination span { padding: .4rem .75rem; border: 1px solid #ddd; border-radius: 6px; color: #b85c2c; font-size: .9rem; }
 .pagination a:hover { background: #f0e6d6; text-decoration: none; }
 .pagination .current { background: #b85c2c; color: #fff; border-color: #b85c2c; }
+.pagination .ellipsis { padding: .4rem .3rem; color: #aaa; border: none; }
 
 /* Category pill */
 .pill { display: inline-block; background: #f0e6d6; color: #b85c2c; border-radius: 20px; padding: .2rem .7rem; font-size: .78rem; margin: .2rem .2rem 0 0; }
