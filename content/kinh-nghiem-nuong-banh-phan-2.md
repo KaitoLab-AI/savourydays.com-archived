@@ -17,10 +17,7 @@ description: "tại sao bánh xẹp, bánh lõm, bánh ẩm, bết đặc, chọ
 <li><em>Khay nướng được đặt sao cho <strong>khuôn bánh ở chính giữa lò (</strong>có nghĩa là nếu khuôn cao  thì khay bánh cần phải hạ thấp xuống để khuôn ở chính giữa)</em></li>
 <li><em>Luôn để chế độ hai lửa, trừ phi có ghi chú đặc biệt trong công thức</em></li>
 </ol>
-<p>Nhưng có lẽ sẽ có nhiều bạn thắc mắc rằng có rất nhiều trường hợp các nguyên tắc này không được áp dụng. Chẳng hạn như nhiều khi bánh cần nướng ở rãnh thấp nhất của lò, nướng lửa dưới trước rồi mới đến lửa trên..vv.. Nguyên nhân  là bởi các lò nướng gia đình thường không được “mạnh khỏe” mà hay có bệnh nọ bệnh kia. Đặc biệt là các lò nướng có kích thước nhỏ (từ 42 Lít trở xuống). Một số “bệnh” rất thường gặp của các lò nướng gia đình là:</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Nhưng có lẽ sẽ có nhiều bạn thắc mắc rằng có rất nhiều trường hợp các nguyên tắc này không được áp dụng. Chẳng hạn như nhiều khi bánh cần nướng ở rãnh thấp nhất của lò, nướng lửa dưới trước rồi mới đến lửa trên..vv.. Nguyên nhân  là bởi các lò nướng gia đình thường không được “mạnh khỏe” mà hay có bệnh nọ bệnh kia. Đặc biệt là các lò nướng có kích thước nhỏ (từ 42 Lít trở xuống). Một số “bệnh” rất thường gặp của các lò nướng gia đình là:</p>
 <ol>
 <li><strong>Nhiệt độ trong lò khác với nhiệt độ điều chỉnh bên ngoài</strong>: Ví dụ nhiệt độ chỉnh bên ngoài là 150 độ C, nhưng nhiệt độ thực tế trong lò là 180 độ C. Lò bị lệch nhiều nhất mà mình biết là 40 – 50 độ C :-| Cũng có trường hợp nhiệt độ thực tế trong lò thấp hơn nhiệt độ điều chỉnh bên ngoài. Nhưng qua trao đổi trên Savoury Days thì mình thấy trường hợp nhiệt cao hơn có vẻ nhiều hơn.</li>
 <li><strong>Lửa trên cao hơn lửa dưới hoặc ngược lại</strong>.</li>
@@ -50,10 +47,7 @@ description: "tại sao bánh xẹp, bánh lõm, bánh ẩm, bết đặc, chọ
 <p><em>Khuôn sẫm màu truyền nhiệt nhanh hơn khuôn sáng màu</em>. Thông thường khi nướng với các khuôn sẫm màu, nhiệt độ nướng nên giảm khoảng 10 độ C so với nhiệt độ ghi trong công thức.</p>
 <p>Vậy tóm lại <strong>nên làm thế nào để nướng bánh cho chuẩ</strong>n? Mình thì hoàn toàn không phải là chuyên gia về lò nướng nhưng từ kinh nghiệm của bản thân (lò nhà mình cũng có một vài vấn đề) và từ rất nhiều trao đổi và thảo luận với các bạn khác tại Savoury Days, có một vài điểm liên quan đến việc nướng bánh mà mình rút ra được là:</p>
 <p>1. <strong>Cố gắng chuẩn bị dụng cụ tốt nhất có thể,</strong> ví dụ: đầu tư một chiếc lò nướng tốt, có đồng hồ đo nhiệt… Và <strong>hiểu lò nướng của mình</strong>, đặc biệt là các “bệnh” có thể mắc phải để có cách khắc phục.</p>
-<p>2. <strong>Nắm được các nguyên tắc cơ bản khi nướng bánh</strong> (gồm 3 nguyên tắc) và các yếu tố quyết định thời gian và nhiệt độ khi nướng bánh là <strong>Kích thước lò, kích thước khuôn/ lò và màu sắc khuôn.</strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>2. <strong>Nắm được các nguyên tắc cơ bản khi nướng bánh</strong> (gồm 3 nguyên tắc) và các yếu tố quyết định thời gian và nhiệt độ khi nướng bánh là <strong>Kích thước lò, kích thước khuôn/ lò và màu sắc khuôn.</strong></p>
 <p>Thông thường v<em>ới các lò nhỏ, nhiệt độ nên được giảm so với nhiệt độ ghi trong công thức</em>. Như đã giải thích ở trên, do nhiệt tác động đến bột trong lò nhỏ nhanh hơn nên nướng ở nhiệt độ thấp sẽ là một cách giúp bạn hạn chế việc mặt bánh chín quá nhanh trong khi bên trong bánh chưa chín hẳn. Điều này đặc biệt đúng khi các bạn nướng các loại bánh nở nhờ bọt khí trong trứng như Genoise, Chiffon, gateau HK, gateau Nhật Bản. Vì vấn đề thường gặp của các loại bánh này là nở rất nhanh và xẹp nhanh do nhiệt trong lò quá cao.</p>
 <p>Tuy nhiên, có một lưu ý rất quan trọng là <em>nướng ở nhiệt độ quá thấp sẽ dẫn đến kết quả là bánh của bạn có một lớp vỏ khô và dày (do nướng lâu)</em>, ruột bánh có thể không chín được vì nhiệt độ thấp.</p>
 <p>Nếu có thể tìm được nhiệt độ nướng phù hợp cho bánh nằm trong khoảng giữa mức nhiệt cao (làm cho bánh nở nhanh, cháy mặt và xẹp) với mức nhiệt thấp (làm cho bánh vỏ dày khô, còn mùi trứng..) là tốt nhất. Còn nếu không thì mình nghĩ <em>nên chỉnh ở gần mức nhiệt độ cao sẽ tốt hơn</em>. Ví dụ nếu bánh của bạn xẹp và cháy ở 160 độ C, nhưng vỏ dày và khô ở 130 độ C thì bạn có thể chỉnh ở mức nhiệt 145- 150 độ C. Sau khoảng 2/3 thời gian nướng, nếu thấy mặt bánh chuyển sang màu vàng nâu thì mở cửa lò thật nhanh tay và đậy một miếng giấy bạc (có chọc lỗ để bánh không bị hấp hơi) lên mặt bánh. Giấy bạc này sẽ hạn chế nhiệt tiếp xúc với mặt bánh và giúp mặt bánh không bị cháy nhiều, trong khi bánh vẫn tiếp tục chín bình thường. Ngoài ra, với hiện tượng bánh xẹp lõm hay ẩm bết bên trong, nên kéo dài thời gian nướng hơn một chút để bánh có thời gian ổn định kết cấu, cứng cáp hơn và phần lõi bánh khô hơn.</p>
@@ -67,9 +61,6 @@ description: "tại sao bánh xẹp, bánh lõm, bánh ẩm, bết đặc, chọ
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

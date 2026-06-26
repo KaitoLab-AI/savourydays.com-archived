@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2020/05/cach-lam-banh-pho-mai-sau-rieng-nuong-chay-b
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <div class="" data-block="true" data-editor="bpop0" data-offset-key="1oqc7-0-0">
 <div class="_1mf _1mj" data-offset-key="1oqc7-0-0"><span data-offset-key="1oqc7-0-0"><span style="color: #ff0000;"><strong>NHẮN NHẮN: Các lớp học làm bánh Online của SD đang ưu đãi giảm 15 – 20% nhân dịp khai giảng lớp mới “Tráng miệng mùa hè”. Chi tiết mời các bạn xem ở đây nhé:</strong></span> <a href="/lop-hoc-lam-banh/">/lop-hoc-lam-banh/</a></span></div>
 </div>
@@ -42,9 +41,6 @@ description: ""
 <ul>
 <li><span style="color: #000000;"><strong>Lưu ý</strong></span></li>
 </ul>
-<p><span style="color: #000000;">–  Nếu lò không có 2 chế độ nhiệt, có thể nướng ở khoảng 220-230 độ và để bánh gần lửa trên để mặt bánh có phần cháy đẹp mà không bị nướng quá lâu làm khô bên trong. Nhiệt và thời gian có thể thay đổi tuỳ lò, cần theo dõi để không bị nướng quá. </span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">–  Nếu lò không có 2 chế độ nhiệt, có thể nướng ở khoảng 220-230 độ và để bánh gần lửa trên để mặt bánh có phần cháy đẹp mà không bị nướng quá lâu làm khô bên trong. Nhiệt và thời gian có thể thay đổi tuỳ lò, cần theo dõi để không bị nướng quá. </span></p>
 <p><span style="color: #000000;">–  Cần cho bột vào đánh cùng cream cheese và đường, không trộn bột sau khi đã cho hết các nguyên liệu khác vì khi đó hỗn hợp khá lỏng, phần bột ngô sẽ khó hòa quyện và dễ gây ra hiện tượng lợn cợn</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

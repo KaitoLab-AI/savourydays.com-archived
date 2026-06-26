@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2015/03/NKHLBDatSach-610x350.jpg"
 description: "nhật ký học làm bánh, savoury days"
 ---
 
-
 <p>Mấy hôm nay ngồi làm việc mà chẳng thể tập trung nổi. Mắt nhìn vào luận án mà đầu thì vẩn vơ ở Hà Nội, đợi tin sách từ Nhã Nam. Ngày nào cũng hóng cùng một câu hỏi “sách đã về chưa?”. Lần xuất bản này trùng với Tết, sách dày hơn, lại là bìa cứng, sách thay vì dán gáy thì được khâu tay, lật mở dễ dàng mà lại tránh được nỗi lo long bìa hay trang giấy bất chợt rời khỏi gáy, mọi thứ đều tỉ mẩn cẩn thận như vậy nên thời gian đợi cũng dài hơn so với <em>Nhật ký học làm bánh</em> tập 1. Nhưng cuối cùng thì những cuốn đầu tiên cũng đã về đến kho của Nhã Nam rồi. Bản thân mình đã ăn ngủ cùng “nó” đến cả năm trời, mà khi nhìn thấy ảnh chụp từ Nhã Nam gửi vẫn thấy hồi hộp xốn xang đến lạ. Cảm xúc y hệt như khi nhìn thấy bản in của <em>Nhật ký học làm bánh</em> tập 1 từ đúng một năm trước ấy.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/16495013320/" title="bannersd-1 by LinhTrang9185, on Flickr"><img alt="bannersd-1" class="aligncenter" height="263" loading="lazy" src="https://farm9.staticflickr.com/8673/16495013320_ac6d111733.jpg" width="500"/></a></p>
 <p>Tập 2 này có gì? Hẳn là rất rất nhiều bạn cùng thắc mắc một câu hỏi như thế. Trả lời ngắn gọn là “có rất nhiều thứ và (quan trọng hơn là) nhiều thứ mới” ;) Cũng như <em>Nhật ký học làm bánh</em> tập 1, trong tập 2 này mình tiếp tục giới thiệu về các dòng bánh lớn, mỗi chương đều có các kiến thức cơ bản, mẹo mực và bí quyết thành công, rồi đến các công thức cụ thể.</p>
 <p>Nhưng điểm khác biệt là….</p>
-<p>… thứ nhất, các công thức trong tập 2 có đầy đủ cả hình minh họa các bước và hình thành phẩm. Có nghĩa là, y hệt như tại blog, nhưng được trình bày đẹp hơn, mạch lạc và rõ ràng hơn.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>… thứ nhất, các công thức trong tập 2 có đầy đủ cả hình minh họa các bước và hình thành phẩm. Có nghĩa là, y hệt như tại blog, nhưng được trình bày đẹp hơn, mạch lạc và rõ ràng hơn.</p>
 <p style="text-align: center;"><em>hướng dẫn làm Vol-au-vent</em></p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/16682426575/" title="2 by LinhTrang9185, on Flickr"><img alt="2" class="aligncenter" height="397" loading="lazy" src="https://farm9.staticflickr.com/8583/16682426575_5a370f18d6.jpg" width="500"/></a></p>
 <p>… thứ hai, không chỉ có số lượng công thức nhiều hơn hẳn quyển 1 mà phần lớn các công thức này đều là công thức mới, chưa bao giờ được đăng tại blog.</p>
@@ -34,10 +30,7 @@ description: "nhật ký học làm bánh, savoury days"
 <li><strong>Entremet</strong>: là loại bánh gồm nhiều tầng gateau kết hợp với mousse, kem, jelly xen kẽ… đã “đốn tim” của mình ngay từ lần “gặp gỡ” đầu tiên. Trong chương này mình có giới thiệu một số kỹ thuật cơ bản khi xử lý bánh để trang trí, và các cách trang trí bánh đơn giản :)</li>
 </ul>
 <p style="text-align: center;"><em>Thiên đường nhiệt đới (tropical paradise) với sự hòa quyện của gateau vani xốp mềm, mousse dừa kem tươi, mousse dứa caramel và hoa dứa khô trang trí</em></p>
-<p><a href="https://www.flickr.com/photos/55490207@N05/16682412475/" title="9 by LinhTrang9185, on Flickr"><img alt="9" class="aligncenter" height="397" loading="lazy" src="https://farm9.staticflickr.com/8615/16682412475_3c54d3d67b.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a href="https://www.flickr.com/photos/55490207@N05/16682412475/" title="9 by LinhTrang9185, on Flickr"><img alt="9" class="aligncenter" height="397" loading="lazy" src="https://farm9.staticflickr.com/8615/16682412475_3c54d3d67b.jpg" width="500"/></a></p>
 <p style="text-align: center;"><em>Foret Noire – một phiên bản “rừng đen” mới mang đậm sắc màu của nước Bỉ :)</em></p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/16681405822/" title="5 by LinhTrang9185, on Flickr"><img alt="5" class="aligncenter" height="397" loading="lazy" src="https://farm9.staticflickr.com/8637/16681405822_05e9296d87.jpg" width="500"/></a></p>
 <p>Vì nội dung của sách khá dài nên lần này sách được làm với khổ lớn hơn (16 x 24 cm) và trình bày đơn giản, sử dụng font chữ rõ ràng để dễ nhìn, dễ đọc hơn so với <em>Nhật ký học làm bánh</em> tập 1. Sách cũng được làm bìa cứng để thuận tiện cho việc lật mở và có thể đặt ngửa trên bàn mà không cần chèn vật gì để giữ sách :)</p>
@@ -70,7 +63,6 @@ description: "nhật ký học làm bánh, savoury days"
 <p>Nhiều cửa hàng sách khác tại Hà Nội (chẳng hạn khu vực Đinh Lễ), TP. HCM, Hải Phòng v.v… cũng sẽ có sách, mình sẽ cập nhật tại Facebook và website của Savoury Days sớm trong tuần tới nhé.</p>
 <p>(*) <strong>Các bạn muốn mua cả tập 1 của Nhật ký học làm bánh cũng có thể đặt qua website Nhã Nam tại link này nhé:</strong> <a href="http://nhanam.vn/sach/nhat-ky-hoc-lam-banh">http://nhanam.vn/sach/nhat-ky-hoc-lam-banh </a></p>
 
-
  <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
 <a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
@@ -78,9 +70,6 @@ description: "nhật ký học làm bánh, savoury days"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

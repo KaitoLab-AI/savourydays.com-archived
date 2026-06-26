@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2013/05/GateauFlan.jpg"
 description: "chocolate gateau flan, cách làm caramel"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
 <p>——————————————</p>
 <p>Đợt tháng 3 lúc mình đang ở Việt Nam, có một thời gian thấy trên FB ngập tràn loại bánh này, nhà nhà làm, người người làm. Làm cho “có một đứa” cứ phải ngồi nhìn rồi thèm vì muốn lắm mà không bon chen được (tại ở VN nhà mình không có lò nướng). Cho nên qua bên này có cơ hội là phải thử ngay.</p>
-<p>Nếu chấm điểm thì mình nghĩ loại bánh này sẽ nhận được ít nhất là điểm 8 trên 10. Bởi vì ý tưởng rất sáng tạo và “lạ”, tầng dưới là gateau, trên là flan (kem caramel), nhìn thì cảm giác phức tạp nhưng làm lại không hề khó, chỉ cần nướng trong một khuôn, có lẽ còn nhanh hơn nướng gateau rồi trét kem, hương vị tất nhiên là không chê vào đâu được vì flan và gateau đều là các món ngon, và hợp nhau nữa.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Nếu chấm điểm thì mình nghĩ loại bánh này sẽ nhận được ít nhất là điểm 8 trên 10. Bởi vì ý tưởng rất sáng tạo và “lạ”, tầng dưới là gateau, trên là flan (kem caramel), nhìn thì cảm giác phức tạp nhưng làm lại không hề khó, chỉ cần nướng trong một khuôn, có lẽ còn nhanh hơn nướng gateau rồi trét kem, hương vị tất nhiên là không chê vào đâu được vì flan và gateau đều là các món ngon, và hợp nhau nữa.</p>
 <p>Bánh lần này mình làm sử dụng cốt Gateau chocolate cà phê, là cốt bánh biến tấu từ cốt Sponge cơ bản (đánh trứng nguyên quả), thay đổi nguyên liệu để thành cốt bánh có vị chocolate và cà phê. Phần trên là công thức Flan cơ bản. Cá nhân mình rất thích sự kết hợp này vì mình cảm giác nó tạo cho miếng bánh có một sự cân bằng hoàn hảo. Đế bánh đậm vị Chocolate, cảm giác hơi “nặng” một chút được bù lại bằng phần Flan mềm nhẹ bên trên. Cách làm cốt bánh và Flan mình đều đã đăng bài rồi, nhưng để mọi người tiện theo dõi thì mình copy &amp; paste lại ở đây nhé.</p>
 <p>(*) <em>Về nguyên tắc thì loại bánh này chỉ cần một phần Flan và một phần cốt Gateau, các bạn có thể sử dụng công thức khác cho phần Flan. Nhưng với cốt Gateau, nên dùng cốt Sponge (Gateau cơ bản), tránh dùng các cốt bánh có lượng ẩm nhiều như Chiffon hay Gateau Nhật Bản vì sẽ có thể làm cho phần Flan bị lỏng (nếu muốn dùng các cốt này, có lẽ cần điều chỉnh lượng nước trong phần Flan).</em></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8747805900/" title="Chocolate coffee gateau &amp; Flan (Creme Caramel) by LinhTrang9185, on Flickr"><img alt="Chocolate coffee gateau &amp; Flan (Creme Caramel)" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7292/8747805900_a28d157373_z.jpg" width="449"/></a></p>
@@ -40,10 +36,7 @@ description: "chocolate gateau flan, cách làm caramel"
 <li><em>1 thìa cafe/ teaspoon (5ml) vanilla extract (vani dạng lỏng)</em></li>
 <li><em>1 nhúm muối</em></li>
 </ul>
-<p><strong>B. Phần Chocolate Gateau</strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong>B. Phần Chocolate Gateau</strong></p>
 <ul>
 <li><em>55gram bột mì đa dụng (all purpose flour)</em></li>
 <li><em>15gram bột cacao nguyên chất không đường</em></li>
@@ -76,7 +69,6 @@ description: "chocolate gateau flan, cách làm caramel"
 <p>– Lọc hỗn hợp kem sữa qua rây để loại hết các lợn cợn trứng nếu có. Cho muối và vani. Quấy đều, để sang một bên.</p>
 <p><strong>B. Làm cốt bánh Gateau Chocolate</strong></p>
 
-
 <p>Làm nóng lò ở 165 độ C – hai lửa.</p>
 <p>1. Rây bột mì &amp; bột cacao vào bát, dùng phới lồng cầm tay trộn thật đều.</p>
 <p>2. Cho dầu ăn, sữa (hoặc nước), vanilla &amp; cà phê vào một cái bát khác, quấy đều.</p>
@@ -96,4 +88,4 @@ description: "chocolate gateau flan, cách làm caramel"
 <p>3. Đặt khay để nướng cách thủy vào trong lò. Đổ nước sôi vào khay. Đặt khuôn vào lò. Nướng ở nhiệt độ 160 – 165 độ C trong khoảng 40-50 phút, đến khi ấn nhẹ lên mặt bánh thấy vết lõm lập tức phồng trở lại.</p>
 <p>4. Lấy khuôn ra khỏi lò. Để nguội rồi cho cả khuôn bánh vào tủ lạnh để tối thiểu 4 tiếng, hoặc tốt nhất là qua đêm.</p>
 <p>Dùng dao nhọn và mảnh rọc quanh thành khuôn. Úp đĩa lên mặt khuôn rồi lật ngược lại để lấy bánh ra. Bánh bảo quản lạnh, dùng trong 2-3 ngày.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

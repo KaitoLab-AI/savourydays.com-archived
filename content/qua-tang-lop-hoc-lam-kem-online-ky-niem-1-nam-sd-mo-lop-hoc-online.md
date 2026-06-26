@@ -12,10 +12,7 @@ description: ""
 <p><span style="color: #000000;">Chuyện vui về lớp học thì nhiều, nhưng chắc để từ từ mình sẽ xin phép kể sau. Bài hôm nay phải dành để nói việc chính của hôm nay đã: Món quà mà tụi mình gửi tặng các học viên của SD và tất cả các bạn bè của SD nhân dịp kỉ niệm đặc biệt này – <span style="color: #800000;"><strong>Khoá học làm kem tại nhà, dùng máy và không cần máy</strong></span>. Khoá học này là tình cảm của toàn team, và cũng là rất nhiều công sức của tụi mình trong tháng qua, để thử công thức, quay, dựng video (và ăn hết số kem mà tụi mình làm để test công thức nữa :D), nên rất hi vọng nó sẽ giúp cho mùa hè của các bạn mát mẻ hơn, “thơm ngon” hơn và thú vị hơn nhiều nhiều nhiều.</span></p>
 <p><span style="color: #000000;"><img alt="" class="aligncenter size-large wp-image-8598" height="1024" loading="lazy" sizes="(max-width: 730px) 100vw, 730px" src="/wp-content/uploads/2020/07/Poster-lớp-làm-kem-2_2_Mesa-de-trabajo-1-730x1024.jpg" width="730"/></span></p>
 <p><span style="color: #000000;">Tất cả các video bài học sẽ được đăng tại nhóm facebook “Lớp học làm bánh Savoury days”. Các bạn vào link này: <a href="https://www.facebook.com/groups/lophoclambanhsd/"><strong>https://www.facebook.com/groups/lophoclambanhsd/</strong></a>, bấm yêu cầu tham gia nhóm và chờ admin duyệt nhé. Trong lớp đã có video hướng dẫn cách xem bài học và chương trình học cụ thể rồi.</span></p>
-<p><span style="color: #000000;">Dự kiến chương trình học có 3 phần và tụi mình sẽ đăng thành 3 đợt từ giờ đến hết tháng 7, kèm theo các công thức biến tấu kem nhiều vị khác nhau và các món tráng miệng có dùng kem nữa. Nhóm “Lớp học làm bánh SD” cũng là nơi mà tụi mình thường xuyên tổ chức các hoạt động để cung cấp thêm kiến thức làm bánh cơ bản, có khoa học… nên sẽ không chỉ có đợt này mà trong tương lai còn nhiều thứ hay ho nữa ạ.</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">Dự kiến chương trình học có 3 phần và tụi mình sẽ đăng thành 3 đợt từ giờ đến hết tháng 7, kèm theo các công thức biến tấu kem nhiều vị khác nhau và các món tráng miệng có dùng kem nữa. Nhóm “Lớp học làm bánh SD” cũng là nơi mà tụi mình thường xuyên tổ chức các hoạt động để cung cấp thêm kiến thức làm bánh cơ bản, có khoa học… nên sẽ không chỉ có đợt này mà trong tương lai còn nhiều thứ hay ho nữa ạ.</span></p>
 <p><span style="color: #000000;">Các video bài học đầu tiên sẽ được đăng vào ngày mai (thứ bảy ngày 4/7), chúc các bạn học vui, làm thật nhiều kem ngon và đừng quên trả bài trong lớp nha!!! ;)</span></p>
 <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
@@ -24,9 +21,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

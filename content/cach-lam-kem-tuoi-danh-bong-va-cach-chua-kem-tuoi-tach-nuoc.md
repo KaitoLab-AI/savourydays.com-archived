@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2016/04/cach-lam-kem-tuoi-banner.jpg"
 description: "Cách làm kem tươi đánh bông chuẩn nhất, kèm theo cách chữa kem tươi nếu bị tách nước và mẹo làm kem tươi bông cứng. Công thức kèm video"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Kem tươi (whipping cream) là nguyên liệu được sử dụng rất rất rất phổ biến trong làm bánh. Kem tươi bình thường ở dạng lỏng, có màu trắng đục như sữa nhưng sánh đặc hơn sữa khá nhiều nhờ trong kem có một lượng chất béo tương đối lớn (nếu như sữa thông thường có chứa khoảng 1 – 3% chất béo thì lượng chất béo trong kem tươi dao động trong khoảng từ 10 – 45%).</p>
 <p>Tuy bình thường thì ở dạng lỏng vậy nhưng khi được đánh bông lên kem tươi sẽ chuyển thành dạng đặc và mịn mượt và dùng phổ biến trong trang trí bánh kem: để phủ ngoài bánh hay để bắt bông kem. Ngoài ra, kem tươi đánh bông còn là một nguyên liệu rất quan trọng để làm nhiều loại mousse, giúp cho mousse có độ bông xốp mềm và nhẹ.</p>
 <p>Vấn đề mà mọi người thường gặp nhất khi dùng kem tươi chính là đánh bông kem thế nào để kem được bông cứng mà không bị tách nước. Khi mình mới học làm bánh cũng “sợ” tiết mục đánh bông kem này lắm. Bởi vì đọc thấy rất nhiều tài liệu nói rằng khi đánh kem cần phải rất cẩn thận vì ranh giới từ chỗ kem đang bông cứng tới chỗ kem bị tách nước và hỏng là rất mong manh. Quá một tí thôi là … xong rồi, kem không còn mịn mượt nữa mà chuyển sang dạng lổn nhổn, lợn cợn. Mà kem bị tách nước thì trong suốt một thời gian dài với mình là bỏ đi (sau này mới học được <a href="/video-cach-tu-lam-bo-tai-nha-va-tan-dung-kem-tuoi-tach-nuoc/" target="_blank"><strong>cách dùng kem tách nước để làm bơ</strong></a> thì không lo phí phạm nguyên liệu nữa).</p>
 <p>Chính vì lí do này mà tuy đánh bông kem tươi không phải là kĩ thuật rất khó nhưng mình vẫn muốn viết bài này để dành cho các bạn mới học làm bánh hoặc các bạn vẫn đang gặp vấn đề khi đánh bông kem tươi nhé. Ở trong bài viết này, ngoài hướng dẫn đánh bông kem thì còn có cả cách khắc phục  nếu chẳng may đánh quá tay làm kem bị tách nước và cách giúp kem ổn định và bông cứng, lâu hơn một chút nữa.</p>
 <h3><strong>CÁCH LÀM KEM TƯƠI ĐÁNH BÔNG</strong></h3>
-<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <ul>
 <li><em>120 ml (1/2 cup) kem tươi có chứa 30% béo trở lên</em></li>
 <li><em>10 – 15 gram đường hạt mịn tuỳ khẩu vị</em></li>
@@ -37,10 +33,7 @@ description: "Cách làm kem tươi đánh bông chuẩn nhất, kèm theo cách
 <p>– Dùng đường hạt mịn tốt hơn đường hạt to vì đường tan trong kem dễ hơn. Ngoài ra, nếu có đường bột (icing sugar/ powdered sugar) thì <strong>nên dùng đường bột</strong>, vì trong đường bột có một phần tinh bột ngô sẽ giúp kem bông và “đứng” tốt hơn.</p>
 <p>– Có thể dùng thêm các loại hương liệu như vani để tăng thêm mùi vị cho kem.</p>
 <p>– <strong>Âu và que dùng để đánh kem nên được giữ lạnh trong suốt quá trình đánh</strong>. Đây là điều kiện rất rất quan trọng, không chỉ giúp kem tươi bông tốt hơn mà còn giúp cho kem chậm bị tách nước hơn. Mình để ý thấy khi âu đánh được giữ lạnh (bằng cách ngâm trong âu nước đá trong cả quá trình đánh) thì kem tách nước chậm hơn khi âu không được giữ lạnh.</p>
-<p>Vì lí do này mà: <strong>dùng âu kim loại sẽ tốt hơn</strong> âu thuỷ tinh hay nhựa do kim loại dẫn nhiệt tốt hơn. Trong khi đánh nên ngâm âu đựng kem trong nước đá để giữ lạnh cho âu. Nếu dùng máy để bàn, không ngâm âu trong nước được thì trước khi đánh kem, để âu và que đánh vào ngăn đá tối thiểu 15 phút để âu và que đánh được làm lạnh sâu.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Vì lí do này mà: <strong>dùng âu kim loại sẽ tốt hơn</strong> âu thuỷ tinh hay nhựa do kim loại dẫn nhiệt tốt hơn. Trong khi đánh nên ngâm âu đựng kem trong nước đá để giữ lạnh cho âu. Nếu dùng máy để bàn, không ngâm âu trong nước được thì trước khi đánh kem, để âu và que đánh vào ngăn đá tối thiểu 15 phút để âu và que đánh được làm lạnh sâu.</p>
 <p>– Để đánh kem tươi, tốt nhất là <strong>dùng máy đánh trứng có công suất không quá thấp</strong>. Máy xay sinh tố cũng có thể đánh bông được kem nhưng nếu dùng máy xay sinh tố, cần phải rất cẩn thận trong thời gian cuối vì kem sẽ dễ bị tách nước (do tốc độ của máy xay thường lớn).</p>
 <p>Nhược điểm khi dùng máy đánh trứng công suất thấp hoặc đánh kem bằng tay với phới lồng không chỉ là kem chậm bông cứng mà còn làm kem dễ tách nước hơn. Do đánh kem trong thời gian dài sẽ làm nhiệt độ trong kem tăng lên. Nếu nhiệt độ phòng cao và âu không được giữ lạnh thì kem sẽ rất dễ bị tách nước ngay cả khi chưa kịp bông cứng. Đôi khi mình hay nhận được câu hỏi của các bạn là tại sao đánh kem một lúc thì kem bị tách nước luôn mặc dù kem chưa bông đặc. Mình nghĩ có thể đây chính là nguyên nhân: đánh kem quá lâu + âu không đủ lạnh + nhiệt độ phòng cao.</p>
 <p>2. <strong>Cách đánh bông kem tươi </strong></p>
@@ -62,5 +55,3 @@ description: "Cách làm kem tươi đánh bông chuẩn nhất, kèm theo cách
 <p>6. <strong>Kem tươi và kem topping </strong></p>
 <p>– Kem topping/ topping cream hay top whip là sản phẩm “nhân tạo”, không được làm từ sữa bò như kem tươi <em>whipping cream. </em>Ưu điểm của kem topping là giá thành rẻ và có độ bông rất tốt, lại chậm chảy hơn so với kem tươi <em>whipping cream. </em>Nhược điểm là ai quen với vị thơm ngậy của kem tươi <em>whipping cream </em>rồi thì ăn kem topping sẽ thấy rất chán vì không thấy có vị gì cả. Ngoài ra, vì là kem nhân tạo nên topping cũng không có “chất” gì mấy, còn có hại cho sức khoẻ hay không thì vẫn đang tranh cãi. Cá nhân mình thì không dùng kem topping bao giờ (ở bên này cũng không thấy có chỗ nào bán kem topping hết). Nhưng nếu không tìm mua được kem tươi <em>whipping cream </em>thì kem topping là sự thay thế không tồi.</p>
 
-
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2019/07/cách-làm-crepe-sầu-riêng-lá-dứa-bann
 description: "Cách làm crepe sầu riêng lá dứa ngàn lớp: món tráng miệng không cần lò này chắc chắn sẽ khiến các fan sầu riêng phải ngất ngây nhờ hương vị thơm ngon, quyến"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Mình muốn làm món crepe này từ rất lâu rồi, có lẽ từ hồi khám phá ra sự “ngon thần thánh siêu cấp” của <a href="/video-cach-lam-banh-mousse-sau-rieng/"><strong>mousse sầu riêng</strong></a> và <a href="/cach-lam-banh-crepe-sau-rieng-vi-dua-la-dua-kem-video/"><strong>crepe sầu riêng kem tươ</strong></a>i. Nhưng mỗi năm tới mùa sầu đều mải làm cái này cái kia, tới lúc nhớ ra thì chẳng kịp. Năm nay thật ra cũng đang vào cuối mùa sầu rồi, nhưng vẫn còn nhiều sầu ngon lắm nên tranh thủ làm nốt. </span></p>
 <p><span style="color: #000000;">Món crepe này làm giống kiểu <a href="/cach-lam-banh-crepe-sau-rieng-vi-dua-la-dua-kem-video/"><strong>crepe sầu riêng kem tươ</strong></a>i và <a href="/cach-lam-banh-crepe-xoai-ngan-lop/"><strong>crepe xoài ngàn lớp</strong></a>, thực ra không có gì khó, chỉ hơi mất thời gian tráng crepe một chút thôi. Nếu bạn chưa đổ bánh crepe bao giờ thì lời khuyên của mình là nên làm tăng công thức vỏ crepe lên khoảng 1/4 lượng ghi ở dưới, vì chắc sẽ cần tráng khoảng 2 – 3 cái để quen tay rồi mới làm đẹp, mỏng đều được. Còn phần kem của món này giống với nhân bánh crepe sầu riêng, nhưng nếu có thời gian, bạn có thể thử kem mousse sầu riêng ở trong công thức <a href="/video-cach-lam-banh-mousse-sau-rieng/"><strong>mousse sầu</strong></a> này. Phần kem đó rất ngon và cũng rất hợp với crepe. Chỉ có điều vì mousse hơi lỏng và cần thời gian để đông, nên nếu làm mousse thì nên dùng khuôn, giống như cách làm <a href="/cach-lam-banh-crepe-xoai-ngan-lop/"><strong>crepe xoài ngàn lớp</strong></a> nhé. </span></p>
 <h2><span style="color: #000000;">CÁCH LÀM CREPE SẦU RIÊNG – LÁ DỨA NGÀN LỚP </span></h2>
@@ -20,10 +19,7 @@ description: "Cách làm crepe sầu riêng lá dứa ngàn lớp: món tráng m
 <li><em><span style="color: #000000;">30 gram đường</span></em></li>
 <li><em><span style="color: #000000;">2 gram bột thạch rau câu</span></em></li>
 </ul>
-<p><span style="color: #800000;"><strong>B. Bánh crepe lá nếp</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>B. Bánh crepe lá nếp</strong></span></p>
 <ul>
 <li><em><span style="color: #000000;">3 quả trứng gà (60 gram/quả cả vỏ hoặc 50 gram/quả không tính vỏ)</span></em></li>
 <li><em><span style="color: #000000;">320 ml sữa tươi không đường</span></em></li>
@@ -46,10 +42,7 @@ description: "Cách làm crepe sầu riêng lá dứa ngàn lớp: món tráng m
 <p><span style="color: #000000;">2. Trộn bột rau câu với đường.</span></p>
 <p><span style="color: #000000;">3. Đun sôi phần nước lá nếp. Khi nước sôi thì hạ nhỏ lửa, cho phần bột thạch và đường vào, dùng phới khuấy nhanh cho bột thạch tan hết. Tiếp tục khuấy thêm khoảng 1 phút thì tắt bếp</span></p>
 <p><span style="color: #000000;">4. Đổ thạch vào khuôn, hớt hết bọt trên mặt thạch. Để thạch vào tủ lạnh khoảng 1 giờ đến khi thạch đông cứng.</span></p>
-<p><strong><span style="color: #000000;">B. Bánh crepe lá nếp</span></strong><span style="color: #000000;"> </span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong><span style="color: #000000;">B. Bánh crepe lá nếp</span></strong><span style="color: #000000;"> </span></p>
 <p><span style="color: #000000;">Các bước thực hiện và lưu ý cụ thể để tráng bánh đều và đẹp mình đã ghi rất rõ lại bài <a href="/video-cach-lam-banh-crepe-tra-xanh-ngan-lop-matcha-mille-crepe/" style="color: #000000;"><strong>Crepe ngàn lớp trà xanh</strong></a><strong>, </strong>các bạn xem giúp mình nhé.</span></p>
 <p><span style="color: #000000;">Lưu ý: Nếu bạn không có chiết xuất lá nếp, có thể xay lá nếp tươi với nước, lọc lấy phần nước lá nếp để thay sữa tươi trong công thức với lượng tương đương.</span></p>
 <p><strong><span style="color: #000000;">C. Kem sầu riêng</span></strong></p>
@@ -61,4 +54,4 @@ description: "Cách làm crepe sầu riêng lá dứa ngàn lớp: món tráng m
 <p><span style="color: #000000;">Lưu ý: Phần tiếp xúc với 2 mặt của thạch phải là bánh crepe để giữ thạch không bị trượt.</span></p>
 <p><span style="color: #000000;">3. Để bánh vào tủ lạnh khoảng 1 giờ cho phần kem cứng cáp hơn. Đến bước này các bạn có thể dùng bánh luôn hoặc đánh bông khoảng 200 – 250 ml kem tươi với 25 gram đường, rồi dùng phần kem tươi này để phủ bên ngoài. Phần này không bắt buộc, nếu muốn làm, các bạn tham khảo thêm hướng dẫn trong video nhé. </span></p>
 <p><span style="color: #000000;">Chúc các bạn thành công!</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

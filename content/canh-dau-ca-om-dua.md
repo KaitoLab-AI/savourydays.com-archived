@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2011/12/CanhCaOmDua1.jpg"
 description: "Canh đầu cá om dưa"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Viết bài này thì nhất định là phải kể chuyện về cái đầu cá ở Bỉ :P</p>
 <p>“Khoai Tây” nhìn chung – theo mình thấy – là không có khái niệm ăn đầu cá. Với khoai Tây, đầu cá không chỉ là thứ không ăn được mà còn là một thứ “đáng sợ” để ăn. Hồi xưa khi ở Hà Lan, mình ở trong Kí túc xá sinh viên, dùng chung bếp với mấy chục đứa khác, có lần nấu canh đầu cá, có mấy đứa đi qua nhìn thấy rồi phát biểu là “tội nghiệp con cá” :-| (trong khi chúng nó ăn nguyên phần thịt thì chả sao). Chính bởi vì không ai ăn cho nên đầu cá ở đây rất khó kiếm nhưng nếu kiếm được thì quả là một món hời :P</p>
 <p>Hồi ở Hà Lan thì trong trung tâm thành phố có một cái chợ mở, có mấy hàng bán thủy hải sản tươi, mình hay mua đầu cá ở đây với giá 1EUR/ cái. Thường là đầu cá hồi, hoặc con cá gì đấy không biết tên nhưng cực to, có khi khuyến mại cho thêm cả phần xương sống kèm theo nữa. Về nấu canh hay súp thì phải nói là tuyệt vời. Sang bên này cũng có chợ mở, cũng có hàng bán thủy hải sản nhưng không có bán đầu cá. Mấy lần mình ngó đi ngó lại đều không thấy người ta bày đầu cá, nghĩ chắc bên này thành phố to hơn, chả ai ăn cái đồ đấy. Đến một hôm buộc phải nấu một món mà không thể không dùng đầu &amp; xương cá là <a href="/?p=1429">Bouillabaisse</a>, sau khi mua xong đủ thứ hải sản rồi, mình mới rón rén hỏi chị bán hàng có đầu với xương cá không. Chị ý ra dấu hiệu nói đợi chút và quay vào lục tủ, 10 giây sau giơ ra cho mình 2 bộ xương kèm đầu cá to đùng. Mình – l<em>úc đấy tràn trề sung sướng vì kiếm được đầu cá để nấu ăn</em> – mới hỏi là “hết mấy xiền” thì nhận được câu trả lời – <em>làm mình sướng hơn cả lúc nhìn thấy đầu cá</em> – là “cái này <strong>miễn phí</strong>” :D Sau đấy chị bán hàng tốt bụng gói cho mình cả hai bộ mang về, còn hỏi là như này đã đủ chưa nữa chứ :”&gt;</p>
 <p>Từ sau phát hiện vĩ đại ý thì mình chăm mua hải sản hơn với mục đích chính là xin đầu cá :”&gt; <em>Mình ngờ là sau khoảng vài tuần nữa là chắc mấy người ở cửa hàng sẽ nhớ mặt mình vì lần nào cũng thấy xin đầu cá</em> :”&gt; Nhưng mà lần nào cũng được cho rất là nhiệt tình ý, thường là kiểu mua 2 lạng tôm và xách vể thêm 3 cái đầu cá khuyến mại (cơ mà cũng tốt vì như vậy thì sẽ không phải đi xin quá nhiều lần trong một tháng :D).</p>
-<p>Thế, cho nên là dạo này nhà mình hay có “đầu cá 7 món”, nhưng chủ yếu là canh thôi, canh riêu cá, canh đầu cá om dưa… Bữa trong hình là vì nhân tiện cá hồi giảm giá nên “sang” hơn mọi khi, có thêm miếng cá cải thiện và cũng làm đạo cụ chụp hình luôn (vì nói thật là đầu cá thì ngon nhưng chụp ảnh tìm cách nào cũng khó mà làm cho bớt kinh dị được ý :”&gt;)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Thế, cho nên là dạo này nhà mình hay có “đầu cá 7 món”, nhưng chủ yếu là canh thôi, canh riêu cá, canh đầu cá om dưa… Bữa trong hình là vì nhân tiện cá hồi giảm giá nên “sang” hơn mọi khi, có thêm miếng cá cải thiện và cũng làm đạo cụ chụp hình luôn (vì nói thật là đầu cá thì ngon nhưng chụp ảnh tìm cách nào cũng khó mà làm cho bớt kinh dị được ý :”&gt;)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6564899177/" title="IMG_0579-1 by LinhTrang9185, on Flickr"><img alt="IMG_0579-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7141/6564899177_26d81405cd_z.jpg" width="421"/></a></p>
 <p><span id="more-1510"></span></p>
 <p><strong>Nguyên liệu</strong></p>
@@ -36,10 +32,7 @@ description: "Canh đầu cá om dưa"
 <p>Đầu cá rán xong gắp ra để cho ráo mỡ.</p>
 <p>3. Rửa sạch chảo hoặc dùng một cái chảo khác để xào dưa. Đun nóng 1 thìa dầu ăn trong chảo, cho hành vào phi thơm. Để lửa to, cho cà chua vào xào cùng hành và một thìa café bột nêm (mình dùng gia vị Hải Châu, các bạn có thể thay bằng Knorr hoặc muối) trong khoảng 2 phút.</p>
 <p>Hạ lửa vừa, cho dưa vào cùng một thìa đường (để trung hòa vị mặn của dưa, nhưng không nên cho quá nhiều đường, sẽ làm canh bị ngọt lợ). Xào dưa cùng với cà chua thêm khoảng 4-5 phút.</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/6564899461/" title="2011-12-041 by LinhTrang9185, on Flickr"><img alt="2011-12-041" class="aligncenter" height="512" loading="lazy" src="http://farm8.staticflickr.com/7154/6564899461_d2e737c9a3_z.jpg" width="640"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6564899461/" title="2011-12-041 by LinhTrang9185, on Flickr"><img alt="2011-12-041" class="aligncenter" height="512" loading="lazy" src="http://farm8.staticflickr.com/7154/6564899461_d2e737c9a3_z.jpg" width="640"/></a></p>
 <p>4. Cho đầu cá vào nồi, đổ dưa và cà chua phủ lên trên cá. Cho thêm nước nóng vào ngập dưa &amp; cá. Vặn lửa to, đun sôi, hớt sạch bọt nếu có. Hạ nhỏ lửa đun thêm 5-10 phút cho nước canh ngấm, nêm lại gia vị cho vừa ăn.</p>
 <p><strong>Ghi chú:</strong></p>
 <p><em>– Không nên đun quá lâu sẽ làm dưa mất giòn.</em></p>
@@ -50,4 +43,4 @@ description: "Canh đầu cá om dưa"
 <p><em>Ôi giời ơi thèm quá, mà tuần này hàng cá lại nghỉ nên chẳng xin được đầu để nấu canh :-( </em></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6564899177/" title="IMG_0579-1 by LinhTrang9185, on Flickr"><img alt="IMG_0579-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7141/6564899177_26d81405cd_z.jpg" width="421"/></a></p>
 <p> </p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2019/01/bapbongammam_banner.jpg"
 description: "Cách làm bắp bò ngâm mắm: Một món ăn không còn lạ lẫm gì với nhiều người Việt nữa phải không? Thịt bò giòn, chua chua ngòn ngọt, thơm vị tỏi ớt, nhậu rất ổn"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Một món ăn không còn lạ gì nữa với ngày Tết nhỉ? Cùng với ba chỉ ngâm mắm, đây là kiểu món ăn đa dụng, vừa có thể nhâm nhi nhắm rượu, vừa có thể trộn với các loại rau dưa làm gỏi, vừa có thể ăn kèm các món xôi, bánh chưng như một món mặn. Đây cũng là món ăn tiết kiệm thời gian trong ngày Tết, bởi bạn có thể ngâm từ sớm hẳn. Mỗi khi có khách chỉ cần thái miếng là có thể dùng luôn.</span><span style="color: #000000;"> </span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7922" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/bapbongammam_final-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #800000;"><strong>Nguyên liệu:</strong></span></p>
@@ -30,10 +29,7 @@ description: "Cách làm bắp bò ngâm mắm: Một món ăn không còn lạ 
 <li><em><span style="color: #000000;">200 gram đường</span></em></li>
 </ul>
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
-<p><span style="color: #000000;">1. Sơ chế nguyên liệu:</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">1. Sơ chế nguyên liệu:</span></p>
 <p><span style="color: #000000;">– Bắp bò rửa thật sạch, lạng bỏ bớt phần gân, mỡ thừa. Dùng dây bó lại cho tròn.</span></p>
 <p><span style="color: #000000;">– Sả bỏ lá già, đập dập, thái khúc dài</span></p>
 <p><span style="color: #000000;">– Gừng cạo vỏ, đập dập</span></p>
@@ -43,13 +39,10 @@ description: "Cách làm bắp bò ngâm mắm: Một món ăn không còn lạ 
 <p><span style="color: #000000;">2. Bắc nồi nước lên bếp, cho gừng, sả, ½ chỗ hành khô, thảo quả, quế, hồi vào nồi cùng với 10 gram đường và 5 gram (1 thìa cafe) bột canh. Cho bắp bò vào nồi, khi nước sôi hạ lửa vừa luộc trong vòng 35 – 45’, gắp ra cho bắp bò vào bát nước đá lạnh, để ráo</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7926" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/bapbongammam2-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">3. Nấu nước mắm đường: </span><span style="color: #000000;">Trong 1 nồi con, đun sôi 200ml nước, khi nước sôi cho vào nồi 200gram đường khuấy cho tan, sau đó cho vào 300ml nước mắm, đun sôi lại và tắt bếp, để nguội.</span></p>
-<p><span style="color: #000000;">4. Thấm khô miếng bắp bò, tháo dây, cắt thành 4 miếng. Xếp thịt bò vào trong lọ đã tiệt trùng, lau khô, sau đó cho tỏi, ớt, chỗ hành khô còn lại, hạt tiêu sọ vào lọ, đổ nước mắm đường vào, dùng que tre hoặc phên tre chặn sao cho miếng thịt luôn ngập trong nước mắm.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">4. Thấm khô miếng bắp bò, tháo dây, cắt thành 4 miếng. Xếp thịt bò vào trong lọ đã tiệt trùng, lau khô, sau đó cho tỏi, ớt, chỗ hành khô còn lại, hạt tiêu sọ vào lọ, đổ nước mắm đường vào, dùng que tre hoặc phên tre chặn sao cho miếng thịt luôn ngập trong nước mắm.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7927" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/bapbongammam4-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">5. Ngâm thịt trong khoàng 2 tuần là có thể ăn được.</span></p>
 <p><span style="color: #000000;">* Lưu ý: Nên dùng lọ thủy tinh đã được tiệt trùng, lau khô để đảm bảo vệ sinh và khi cọ rửa cũng hết mùi dễ dàng hơn. </span><span style="color: #000000;">Bắp bò luôn phải ngập trong nước mắm và nắp đậy phải kín nếu không phần thịt bắp hở ra rất dễ mốc.</span></p>
 <p><span style="color: #000000;"><strong>Yêu cầu thành phẩm</strong>: Thịt bò săn, giòn , đậm đà vị mặn ngọt. Thái lát mỏng ăn kèm với dưa món hoặc củ kiệu rất ngon.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7928" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/bapbongammam5-1024x683.jpg" width="1024"/></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

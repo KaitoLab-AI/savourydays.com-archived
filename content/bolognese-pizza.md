@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/06/BolognesePizza.jpg"
 description: "tự làm pizza đơn giản, sốt bò bằm kiểu Ý, Bolognese sauce, pho mát Mozzarella"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết, các phản hồi và các <a href="/cung-hoc-lam-banh/"><span style="color: #ff0000;">kiến thức cơ bản về làm bánh mì</span></a><a href="/cung-hoc-lam-banh/"><span style="color: #ff0000;"> </span></a>trước khi đặt câu hỏi.</strong></span></p>
 <p><span style="color: #ff0000;">* <strong>Toàn bộ nội dung bài viết và hình ảnh thuộc bản quyền của Savoury Days (trừ các hình ảnh &amp; nội dung có ghi nguồn trích dẫn). Vui lòng không sao chép, đăng tải hoặc sử dụng lại dưới bất kì hình thức nào nếu không có sự đồng ý của tác giả.</strong></span></p>
 <p>———————————-</p>
 <p>Đây là một trong những loại Pizza làm khá nhanh, nguyên liệu không quá cầu kì nhưng vẫn ngon và mang hương vị đặc trưng Italia. Để làm Bolognese Pizza thì các bạn sẽ cần 1 <strong><a href="/de-pizza-co-ban-phan-2-cong-thuc/">đế Pizza</a>, <a href="/pizza-sauce-sot-ca-chua-kieu-y-cho-pizza-pasta/">Pizza sauce</a></strong> và topping là Bologneses sauce. Cách làm Pizza sauce và đế Pizza mình đã viết rất kĩ trong các bài trước rồi. Còn Bolognese sauce, nếu có thời gian thì các bạn có thể làm theo <a href="/my-y-sot-thit-bo-bam-pasta-with-bolognese-sauce/"><strong>công thức này</strong></a>, nhưng làm đặc hơn một chút nhé. Còn nếu không có nhiều thời gian thì dùng công thức mà mình giới thiệu dưới đây cũng không có vấn đề gì, mùi vị đảm bảo là vẫn thơm ngon và chất lượng ;)</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/7418870472/" title="IMG_4981-1 by LinhTrang9185, on Flickr"><img alt="IMG_4981-1" class="aligncenter" height="640" loading="lazy" src="http://farm6.staticflickr.com/5118/7418870472_2acee9340e_z.jpg" width="450"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7418870472/" title="IMG_4981-1 by LinhTrang9185, on Flickr"><img alt="IMG_4981-1" class="aligncenter" height="640" loading="lazy" src="http://farm6.staticflickr.com/5118/7418870472_2acee9340e_z.jpg" width="450"/></a></p>
 <p><span style="color: #800000;"><strong>Nguyên liệu (1 Pizza đế mỏng đường kính 23-25cm)</strong></span></p>
 <ul>
 <li><em>1/2 <a href="/de-pizza-co-ban-phan-2-cong-thuc/">công thức đế Pizza</a></em></li>
@@ -47,11 +43,8 @@ description: "tự làm pizza đơn giản, sốt bò bằm kiểu Ý, Bolognese
 <li>Ớt chuông, hành tây &amp; lá basil tươi (nếu có)</li>
 <li>Một lớp pho mát bào sợi lên trên cùng.</li>
 </ul>
-<p>Phần sốt thịt bò với ớt chuông, hành tây và basil các bạn xếp xen kẽ sao cho nhân có màu sắc xanh đỏ hài hòa nhé :)</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Phần sốt thịt bò với ớt chuông, hành tây và basil các bạn xếp xen kẽ sao cho nhân có màu sắc xanh đỏ hài hòa nhé :)</p>
 <p>4. Chuyển Pizza vào lò nướng. Lò đã được bật trước từ 30-40 phút, 2 lửa, nhiệt độ 250 độ C. Khay nướng đặt ở nấc chính giữa hoặc thấp hơn một nấc (nếu lửa trên cao hơn lửa dưới). Thường là mình tạo hình Pizza trên 1 lớp giấy nến. Khi đưa bánh vào lò thì kéo cả lớp giấy nến này theo Pizza, lớp giấy này vừa giúp dễ di chuyển Pizza và cũng tránh cho Pizza bị dính vào Pizza stone (hoặc như mình dùng khay nướng bánh để thay thế) (Hinh 9).</p>
 <p>Nướng Pizza ở nhiệt độ 250 độ C trong khoảng 12-15 phút, đến khi bánh chín vàng, pho mát hơi sôi lăn tăn là được. Dùng nóng. Pizza ăn không hết có thể bảo quản trong hộp kín, để ngăn mát tủ lạnh trong khoảng 1 ngày. Khi ăn thì nướng lại ở 190-200độ C trong khoảng 5 phút, Pizza sẽ giòn trở lại.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7418870570/" title="IMG_4980-2 by LinhTrang9185, on Flickr"><img alt="IMG_4980-2" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7120/7418870570_d204961673_z.jpg" width="430"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

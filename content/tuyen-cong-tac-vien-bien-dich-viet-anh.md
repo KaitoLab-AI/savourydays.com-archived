@@ -12,10 +12,7 @@ description: ""
 <p>Trong thời gian tới Savoury Days có một vài dự án cần sử dụng các thông tin tại blog nhưng bằng tiếng Anh. Khối lượng công việc khá lớn, một mình mình làm không xuể, nên cần tìm thêm một vài bạn cộng tác viên để cùng làm công việc biên dịch Việt – Anh này.</p>
 <p>Bản thân công việc trong giai đoạn đầu tiên sẽ chỉ đơn giản là biên dịch. Các bạn hoàn toàn có thể chủ động trong việc thu xếp thời gian với khối lượng bài vở. Nhìn chung sẽ rất thoải mái và không có nhiều áp lực ;)</p>
 <p>Nói là công việc nhưng mình không xem đây là quan hệ giống như boss với nhân viên, mà mình hi vọng đây sẽ là khởi đầu cho việc thành lập một team của SD, có thể cùng làm việc với nhau lâu dài và chia sẻ nhiều công việc khác nhau của SD. Nên kĩ năng dịch thuật chỉ là một phần, phần còn lại mà mình hi vọng và chờ đợi là sự nhiệt tình và say mê với bếp và công việc nấu nướng :)</p>
-<p>Một vài thông tin cụ thể về yêu cầu, hồ sơ và thời gian dự tuyển:</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Một vài thông tin cụ thể về yêu cầu, hồ sơ và thời gian dự tuyển:</p>
 <p>* <span style="color: #800000;"><strong>Yêu cầu</strong></span>:</p>
 <p>– Thành thạo tiếng Anh, đặc biệt là kĩ năng viết.</p>
 <p>– Kĩ năng soạn thảo văn bản bằng máy tính tốt</p>
@@ -25,10 +22,7 @@ description: ""
 <p>– Biên dịch các nội dung bài viết và công thức nấu ăn của Savoury Days từ Việt sang Anh.</p>
 <p>– Cách thức làm việc: Online.</p>
 <p>Vì mình cũng ở nước ngoài nên sẽ làm việc với các bạn qua mạng là chủ yếu. Cho nên không phân biệt nơi sinh sống, vùng miền, độ tuổi, giới tính… Điều quan trọng nhất là chất lượng bản dịch và sự nhiệt tình và khả năng hợp tác, làm việc nhóm của các bạn :)</p>
-<p>* <span style="color: #800000;"><strong>Thù lao:</strong></span> Thỏa thuận theo khối lượng và chất lượng công việc.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>* <span style="color: #800000;"><strong>Thù lao:</strong></span> Thỏa thuận theo khối lượng và chất lượng công việc.</p>
 <p><del>* <span style="color: #800000;"><strong>Hồ sơ đăng tuyển</strong></span>:</del></p>
 <p><del>– 01 Letter of Motivation: thư tự giới thiệu bản thân và nêu rõ lí do tại sao muốn làm công việc này  (tối đa 300 từ).</del></p>
 <p><del>– 01 CV</del></p>
@@ -49,9 +43,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

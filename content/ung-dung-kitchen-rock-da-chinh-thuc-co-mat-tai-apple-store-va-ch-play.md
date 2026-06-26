@@ -13,10 +13,7 @@ description: "Ứng dụng Kitchen Rock là app chia sẻ công thức nấu ăn
 <p>* Apple store: <a href="https://itunes.apple.com/us/app/kitchen-rock-công-thức-món-ăn-ngon/id1086540349">https://itunes.apple.com/us/app/kitchen-rock-công-thức-món-ăn-ngon/id1086540349</a><br/>
 * Google Play: <a href="https://play.google.com/store/apps/details?id=vn.kitchenrock.androidapp">https://play.google.com/store/apps/details?id=vn.kitchenrock.androidapp</a></p>
 <p>Nếu tìm kiếm trực tiếp trên Apple Store thì các bạn có thể dùng từ khoá/ keyword là “Kitchen rock” hoặc “khanh linh doan” (là tên của developer tại store). Nếu tìm trên Google Play thì các bạn dùng từ khoá “kitchenrock” (viết liền, không dấu cách) nha.</p>
-<p>Hôm qua mình cũng đã đăng một video ngắn giới thiệu về các tính năng chính của Kitchen Rock, hi vọng sẽ giúp các bạn sử dụng app được thuận tiện và dễ dàng hơn :) Nếu không xem được video tại blog thì các bạn có thể xem ở <a href="https://youtu.be/ZdXuDnz0E1M"><strong>kênh YouTube của SD nhé</strong></a>.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Hôm qua mình cũng đã đăng một video ngắn giới thiệu về các tính năng chính của Kitchen Rock, hi vọng sẽ giúp các bạn sử dụng app được thuận tiện và dễ dàng hơn :) Nếu không xem được video tại blog thì các bạn có thể xem ở <a href="https://youtu.be/ZdXuDnz0E1M"><strong>kênh YouTube của SD nhé</strong></a>.</p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/ZdXuDnz0E1M" width="560"></iframe></div>
 <p> </p>
 <p> </p>
@@ -29,9 +26,6 @@ description: "Ứng dụng Kitchen Rock là app chia sẻ công thức nấu ăn
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

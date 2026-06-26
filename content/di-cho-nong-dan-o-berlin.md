@@ -12,10 +12,7 @@ description: "Đi chợ nông dân ở Berlin, cùng hoà mình vào trong nhị
 <p>Berlin thật ra cũng có rất nhiều chợ họp cuối tuần. Chỉ có điều khu chợ nào cũng xa, nhiều khi đi chợ chỉ mất một giờ nhưng đi lại thì tốn tới tận hai tiếng. Nên dù tiếc ơi là tiếc nhưng mình vẫn phải ngậm ngùi từ bỏ thói quen đi chợ nông dân. Cứ như vậy qua gần hai năm rồi. Tới ngày hôm qua thì chuyện “ngoại lệ” đã tới.</p>
 <p>Berlin đã vào giữa thu. Ở bên này có hai khoảng thời gian mà mình yêu kinh khủng, đấy là khoảng hai đến ba tuần giữa tháng tư và hai đến ba tuần cuối tháng mười. Hai khoảng thời gian này đi ngoài đường, dù là người khô khan, kém mơ mộng nhất cũng không thể tránh khỏi việc ngơ ngẩn với khung cảnh trước mắt. Nếu như trong tháng tư, đường phố bỗng chốc khoác lên mình một chiếc áo màu xanh non căng tràn nhựa sống, xen lẫn sắc hồng của hoa anh đào nở rộ thì vào cuối tháng mười, nơi nơi lại bừng lên dưới sắc vàng óng ả và đỏ rực của lá mùa thu. Berlin có rất nhiều cây, thậm chí nhiều công viên chẳng khác nào một khu rừng nhỏ, nên vào thời điểm này lại càng đẹp, càng nên thơ và lãng mạn. Buổi sáng sớm, khi những chiếc máy quét lá còn chưa kịp làm việc, đi dạo trên phố sẽ ngỡ như mình lạc trong một thế giới khác. Những khi ấy việc duy nhất mình có thể làm là cố gắng giữ cho đầu óc trống rỗng, để tận hưởng hết vẻ đẹp của thời khắc chuyển mùa này, nghe tiếng lá vàng khô giòn vỡ vụn theo từng bước chân, và đón nhận cảm giác mát lạnh của gió lùa trong mái tóc.</p>
 <p>Mùa thu đẹp như thế nhưng mấy tuần gần đây đều chẳng có lúc nào tận hưởng được bởi cả hai vợ chồng đều bận. Và quan trọng hơn là trời dạo này vô cùng u ám, gió lạnh và mưa cũng nhiều. Tới hôm nay mới hửng chút nắng nên hai vợ chồng tranh thủ ra đường trước khi ông trời “suy nghĩ lại” :P. Và điểm đến được lựa chọn là chợ ở Winterfeldplatz – một trong những khu chợ nông dân lớn và nổi tiếng bậc nhất ở Berlin – vừa đi mua sắm, vừa nhân thể đi chơi và ngó nghiêng luôn.</p>
-<p>Chợ Winterfeldplatz nằm ở một khu vực của Berlin mà mình hầu như chẳng bao giờ đặt chân tới, nên dù vẫn trong thành phố nhưng khi xuống bus để đi bộ vào vẫn có cảm giác hơi kì lạ. Ở đây có lẽ có nhiều người Thổ sinh sống nên hai bên đường phố các siêu thị của Thổ khá nhiều, có cả mấy cửa hàng bán bánh mì kẹp thịt Kebap. Nhà cửa thì toàn kiểu chung cư cá hộp, cả trăm nhà giống nhau như một, nhà nào cũng lắp ăng ten Parabol to đùng và một số nhà treo cờ Thổ ngay trước cửa.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Chợ Winterfeldplatz nằm ở một khu vực của Berlin mà mình hầu như chẳng bao giờ đặt chân tới, nên dù vẫn trong thành phố nhưng khi xuống bus để đi bộ vào vẫn có cảm giác hơi kì lạ. Ở đây có lẽ có nhiều người Thổ sinh sống nên hai bên đường phố các siêu thị của Thổ khá nhiều, có cả mấy cửa hàng bán bánh mì kẹp thịt Kebap. Nhà cửa thì toàn kiểu chung cư cá hộp, cả trăm nhà giống nhau như một, nhà nào cũng lắp ăng ten Parabol to đùng và một số nhà treo cờ Thổ ngay trước cửa.</p>
 <p>Đi trên đường lớn với một kiểu cảnh vật như thế, qua hai ngã tư, rẽ phải theo chỉ đường trên điện thoại, thấy mình như vừa bước qua khỏi lằn ranh, sang một khu vực hoàn toàn mới. Không còn bóng dáng của những khu chung cư với hàng trăm căn nhà hình hộp chen chúc nhau nữa mà là một con đường nhỏ, hai bên trồng rất nhiều cây cổ thụ đang rụng lá. Trên vỉa hè, một vài chiếc xe đạp tựa vào hàng rào sắt đã xỉn màu. Còn dưới chân và trước mắt mình là cả một thảm lá khô thi thoảng lại được cơn gió thổi tung phát ra những âm thanh giòn khô rụm. Bỗng nhiên lại cảm thấy may quá vì chợ nằm trong góc khuất này chứ không bị lẫn vào mớ cá hộp treo cờ Thổ ngoài kia.</p>
 <p>Còn gần trăm mét nữa mới tới nơi nhưng không khí chợ thì đã cảm nhận được rõ lắm rồi. Kiểu âm thanh quen thuộc mà lâu rồi mình mới lại nghe thấy. Những bóng người đi ngược chiều với chiếc giỏ mây bên trong chất đầy nào là bánh mì nâu giòn kiểu Đức, xúc xích căng bóng, pho-mát <em>blue cheese </em>điểm mốc xanh rì, thêm một bó hoa tươi rói bên trên. Và cả mùi thơm nữa chứ: Mùi của một thứ đồ ăn nào đó đang cháy xèo xèo trên than hồng, kiểu mà tất cả mọi người ở trong vòng bán kính mấy chục mét đều có thể ngửi thấy và “bị dụ dỗ” ấy.</p>
 <p>Cũng như mọi khu chợ nông dân khác, chợ ở đây có đủ mọi quầy hàng bán thực phẩm chủ đạo: từ các loại cơ bản như rau củ tươi, thịt và hải sản, pho-mát, mỳ ống cho tới những thứ đặc sản từ các vùng và các nước xung quanh như dầu Olive và rượu ngâm các loại thảo mộc từ Pháp và Ý, hoa quả khô của Hungary, bánh kẹo Đông Âu và cả một số quầy hàng đến từ những nơi xa tít tắp của châu Phi, châu Á và châu Mỹ nữa.</p>
@@ -25,10 +22,7 @@ description: "Đi chợ nông dân ở Berlin, cùng hoà mình vào trong nhị
 <p><img alt="img_2046" class="aligncenter size-full wp-image-7218" height="1068" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2046.jpg" width="1600"/></p>
 <p><img alt="img_2047" class="aligncenter size-full wp-image-7219" height="1065" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2047.jpg" width="1600"/></p>
 <p><em>bạn đã bao giờ thấy quả bí mặc áo vàng quần xanh như thế này chưa? :P</em></p>
-<p><img alt="img_2051" class="aligncenter size-full wp-image-7220" height="1069" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2051.jpg" width="1600"/></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><img alt="img_2051" class="aligncenter size-full wp-image-7220" height="1069" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2051.jpg" width="1600"/></p>
 <p><em>Đang là mùa thu nên nhất định phải có táo </em></p>
 <p><img alt="img_1991" class="aligncenter size-full wp-image-7212" height="1067" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_1991.jpg" width="1600"/></p>
 <p><img alt="img_2062" class="aligncenter size-full wp-image-7222" height="1069" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2062.jpg" width="1600"/></p>
@@ -44,7 +38,6 @@ description: "Đi chợ nông dân ở Berlin, cùng hoà mình vào trong nhị
 <p><img alt="img_1978" class="aligncenter size-full wp-image-7210" height="1068" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_1978.jpg" width="1600"/></p>
 <p><em>hoa tươi </em></p>
 <p><img alt="img_2074" class="aligncenter size-full wp-image-7224" height="1067" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2074.jpg" width="1600"/></p>
-
 
 <p><img alt="img_2079" class="aligncenter size-full wp-image-7225" height="1066" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2079.jpg" width="1600"/></p>
 <p><em>cùng hoa khô để trang trí </em></p>
@@ -75,9 +68,6 @@ description: "Đi chợ nông dân ở Berlin, cùng hoà mình vào trong nhị
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

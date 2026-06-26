@@ -12,10 +12,7 @@ description: "cách làm bánh su kem"
 <p>Chụp ảnh và viết công thức mấy năm rồi, giờ chuyển sang video thấy hóa ra cũng không dễ như mình tưởng, sẽ phải học nhiều và làm nhiều để clip mượt mà hơn, đẹp nhưng vẫn hữu ích :) Video thử nghiệm lần này là về bánh Su kem – một trong những loại bánh cực kì cơ bản, cực kì quen thuộc, và chắc chắn là được cực kì cực kì nhiều bạn yêu thích (nhỉ ;) )</p>
 <p><a href="/banh-su-kem-choux-a-la-creme-demo-mot-so-luu-y-khi-lam-choux/" target="_blank">Công thức bánh Su kem</a> tại SD cũng là một trong những công thức có lượng phản hồi tích cực/ thành công nhiều nhất. Nên mình “mạnh dạn” mang đi làm “chuột bạch” để luyện tay nghề làm clip. Hi vọng nó sẽ tiếp tục có ích cho các bạn đang tập làm bánh :)</p>
 <p>Nhà mình muốn thêm video kiểu gì thì nhờ mọi người để lại ý kiến luôn nhé. Vì làm video mất nhiều thời gian nên mình sẽ ưu tiên các công thức/ kĩ thuật được nhiều bạn đề nghị nha.</p>
-<p>Còn đây là clip của ngày hôm nay, nếu không xem được tại blog thì các bạn có thể xem trực tiếp tại kênh YouTube của Savoury Days, ở đây: <a href="https://youtu.be/RAjLI-_FOUI" target="_blank">https://youtu.be/RAjLI-_FOUI</a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Còn đây là clip của ngày hôm nay, nếu không xem được tại blog thì các bạn có thể xem trực tiếp tại kênh YouTube của Savoury Days, ở đây: <a href="https://youtu.be/RAjLI-_FOUI" target="_blank">https://youtu.be/RAjLI-_FOUI</a></p>
 <p>À, nhớ chuyển chế độ HD để xem hình được rõ và đẹp nhất nhé ;)</p>
 <p></p><div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/RAjLI-_FOUI" width="560"></iframe></div><br/>
 <!--<iframe src="https://www.youtube.com/embed/RAjLI-_FOUI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>-->
@@ -36,9 +33,6 @@ description: "cách làm bánh su kem"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

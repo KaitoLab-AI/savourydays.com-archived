@@ -12,10 +12,7 @@ description: "máy làm bánh mì"
 <p>————–</p>
 <p>Nằm trong chuyên mục giới thiệu dụng cụ bếp, lại là quà tặng cho mùa hè. Nói đến đây hẳn nhiều bạn sẽ nghĩ tới các loại máy như máy làm kem, máy làm sữa chua, hay làm sữa đậu nành nhỉ?</p>
 <p>Câu trả lời đúng, thật ra, là <strong>máy làm bánh mì</strong> :-)</p>
-<p>Mùa nóng, hai chữ “bánh mì” được nhắc tới ít hơn hẳn, nhất là nếu so với các loại đồ uống hay tráng miệng lạnh. Chẳng phải do bánh mì ăn kém ngon hơn, mà có lẽ phần nhiều là bởi làm bánh mì mùa hè cực quá. Tưởng tượng trời nóng 36, 37 độ C mà phải đứng hì hục nhồi bột, đập bột, chưa kể tới cái lò 200 độ C ở bên cạnh. Nghĩ thôi đã thấy rùng rợn rồi ấy chứ :P</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Mùa nóng, hai chữ “bánh mì” được nhắc tới ít hơn hẳn, nhất là nếu so với các loại đồ uống hay tráng miệng lạnh. Chẳng phải do bánh mì ăn kém ngon hơn, mà có lẽ phần nhiều là bởi làm bánh mì mùa hè cực quá. Tưởng tượng trời nóng 36, 37 độ C mà phải đứng hì hục nhồi bột, đập bột, chưa kể tới cái lò 200 độ C ở bên cạnh. Nghĩ thôi đã thấy rùng rợn rồi ấy chứ :P</p>
 <p>Và đây chính là lúc ta cần đến chàng hiệp sĩ mang tên “máy làm bánh mì” ;)</p>
 <p>Nói thật là mình chẳng bao giờ nghĩ sẽ có ngày mình tậu hay dùng máy để làm bánh mì cả. Bởi mình luôn nghĩ bánh mì nhồi tay và làm thủ công mới là số 1, máy chỉ để giải quyết các tình thế theo kiểu mì ăn liền thôi. Thế rồi được tặng chiếc máy này, không thể để không nên một ngày rảnh rỗi lôi ra nghiên cứu và dùng thử. Và thử, và thử, và thử… Ban đầu cứ nghĩ dùng cho khỏi phí chiếc máy thôi, thế mà giờ nó là cái máy được dùng gần như thường xuyên nhất trong bếp, chỉ sau nồi cơm và máy đánh trứng (ngang với lò nướng vì dạo này trời nóng nên mình ngại sờ tới lò).</p>
 <p>Có quá nhiều thứ ở chiếc máy này làm mình cảm thấy ưng ý. Dùng chính xác từ ngữ thì phải là “cực cực thích”. Nên thời gian vừa rồi đã mang đi giới thiệu búa xua đến bạn bè, và phát hiện ra hóa ra cũng có khá nhiều bạn của mình dùng cùng loại máy y xì. Thế là có thêm chuyện để buôn. Và mình nghĩ tại sao không giới thiệu nó trong chuyên mục “Dụng cụ bếp” của Savoury Days nhỉ, khi mà nó được nhiều bạn bè của mình khen hết lời như thế?! (và để cho các bạn của SD biết thêm một loại dụng cụ bếp rất hữu ích nữa ;) ).</p>
@@ -46,10 +43,7 @@ description: "máy làm bánh mì"
 <p>Sơ sơ là như vậy… Nhìn chung thì bạn máy này làm mình thay đổi cách suy nghĩ rất nhiều về các loại máy móc. Quả thực là nếu chọn đúng loại máy thì bản thân mình sẽ đỡ đi được nhiều việc hơn hẳn, như máy làm mì lần trước hay máy làm bánh mì lần này, đều là kiểu sản phẩm đã có rồi thì không dứt ra được.</p>
 <p>Nhân đã giới thiệu thì giới thiệu luôn cụ thể cho đầy đủ. Còn hai thông tin nữa là “giá cả” và “mua ở đâu”? Mình có tham khảo một vài nơi và thấy máy có tại <a href="http://www.amazon.com/dp/B000G32H84/?tag=savodays-20"><strong>Amazon US</strong></a>, (đang giảm giá từ 233$ xuống còn 168$, hình như chỉ có trong ngày 15/7) và ở Việt Nam thì có tại đại lý của Zojirushi (<a href="http://www.zojirushi.vn">www.zojirushi.vn</a>). Amazon JP thì không hiểu sao không tìm ra. Giá thành không phải là rẻ nhưng mình nghĩ là một khoản đầu tư rất rất xứng đáng. À, tên đầy đủ của máy là Home Bakery Mini BB-HAQ10 nha.</p>
 <p style="text-align: center;"><em>Cho tất cả nguyên liệu vào </em></p>
-<p style="text-align: center;"><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19715814511/in/datetaken/" title="IMG_9314"><img alt="IMG_9314" class="aligncenter" height="427" loading="lazy" src="https://farm1.staticflickr.com/513/19715814511_740480e552_z.jpg" width="640"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p style="text-align: center;"><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19715814511/in/datetaken/" title="IMG_9314"><img alt="IMG_9314" class="aligncenter" height="427" loading="lazy" src="https://farm1.staticflickr.com/513/19715814511_740480e552_z.jpg" width="640"/></a></p>
 <p style="text-align: center;"><em>chọn chế độ, bật nút và đi làm việc khác ;)</em></p>
 <p style="text-align: center;"><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19524608259/in/datetaken/" title="Making bread"><img alt="Making bread" class="aligncenter" height="427" loading="lazy" src="https://farm1.staticflickr.com/474/19524608259_1e8542f752_z.jpg" width="640"/></a></p>
 <p style="text-align: center;"><em>bột sau khi nhồi xong </em></p>
@@ -66,7 +60,6 @@ description: "máy làm bánh mì"
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19704024332/in/datetaken/" title="Apricot jam - In progress"><img alt="Apricot jam - In progress" height="427" loading="lazy" src="https://farm1.staticflickr.com/287/19704024332_c1f1e2504a_z.jpg" width="640"/></a></p>
 <p style="text-align: center;"><em>thành phẩm</em></p>
 
-
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19704013482/in/datetaken/" title="IMG_9416"><img alt="IMG_9416" height="427" loading="lazy" src="https://farm1.staticflickr.com/317/19704013482_214156664a_z.jpg" width="640"/></a></p>
 <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
@@ -75,9 +68,6 @@ description: "máy làm bánh mì"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

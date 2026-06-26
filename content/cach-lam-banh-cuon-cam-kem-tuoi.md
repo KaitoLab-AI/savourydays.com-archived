@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2019/03/Cach-lam-banh-cuon-cam-banner.jpg"
 description: "Cách làm bánh cuộn cam: Bạt bánh mềm xốp ẩm với phần kem béo ngậy, thơm lựng hương cam thanh mát là món tráng miệng tuyệt vời sau các bữa ăn hay trà chiều"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Làm món bánh này chỉ vì mua được túi cam xinh ơi là xinh, quả nào quả nấy tròn xoe căng mọng, giá lại “hạt dẻ”. Chỉ vắt nước uống thì tiếc quá nên quyết định phải làm gì đấy cho “xứng đáng với túi cam”.</span></p>
 <p><span style="color: #000000;">Thật ra bánh cuộn mình vẫn làm đều cho gia đình và tặng bạn bè. Vì bánh cuộn cũng dễ làm, dễ ăn mà bánh cuộn ngon ở ngoài hàng, những quán bán bánh kiểu Hàn Quốc, thì đắt kinh khủng khiếp. Nên mình ban đầu cũng không định viết lại công thức này đâu. Nhưng xong làm xong thấy “ưng cả con mắt lẫn cái bụng quá”. Thế rồi hôm qua đăng ảnh vào group “Món ngon nhà làm” được các bạn quan tâm quá trời, nên hôm nay viết vào blog cho mọi người dễ xem và dễ lưu lại. May là lúc làm, mặc dù nghĩ là chỉ thử để ăn thôi, nhưng đội SD vẫn chụp mấy cái ảnh các bước để “lưu lại cho chắc” nên có đủ tư liệu để viết bài. </span></p>
 <p><span style="color: #000000;">Cách làm cơ bản là giống với <strong><a href="/banh-bong-lan-cuon-kem-tuoi-hoa-qua-japanese-fruit-roll-cake/">món bánh cuộn hoa quả kiểu Nhật </a> </strong>này<strong>. </strong></span><span style="color: #000000;">Mình biến tấu một chút để bánh có vị cam tươi bằng cách thay sữa bằng nước cam, thêm vỏ cam bào nhỏ (vỏ cam làm tăng mùi thơm lên đáng kể, làm bánh rõ vị cam the mát, rất rất nên có nha). Bạt bánh cuộn mềm ẩm, bông xốp, vàng ươm với nhân kem tươi hợp với vị cam vô cùng tận, kiểu tươi mát ngọt ngào ấy. À và phần cam sau khi xử lí thì nướng lên mình cũng thấy không đắng tẹo nào, chỉ thơm thơm giòn giòn thôi. Cách làm như sau nhé:</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8293" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/03/cach-lam-banh-cuon-cam-1024x683.jpg" width="1024"/></p>
 <h2><strong><span style="color: #000000;">CÁCH LÀM BÁNH CUỘN CAM KEM TƯƠI</span></strong></h2>
-<p><strong><span style="color: #000000;">* Phần cam thái lát dưới bánh</span></strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong><span style="color: #000000;">* Phần cam thái lát dưới bánh</span></strong></p>
 <ul>
 <li><em><span style="color: #000000;">Khoảng 3 quả cam cỡ trung bình</span></em></li>
 <li><em><span style="color: #000000;">30 gram đường</span></em></li>
@@ -50,10 +46,7 @@ description: "Cách làm bánh cuộn cam: Bạt bánh mềm xốp ẩm với ph
 <p><span style="color: #000000;">2. Sau khi cam đã khô, xếp các lát cam so le vào trong khuôn bánh cuộn đã được lót giấy chống dính. Lưu ý chừa khoảng 2 cm mỗi cạnh vì sau này sẽ cắt bỏ phần riềm bánh đi.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8295" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/03/IMG_8882-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">3. Phần bạt bánh: Phần này các bạn xem cách làm trong video của <strong><a href="/banh-bong-lan-cuon-kem-tuoi-hoa-qua-japanese-fruit-roll-cake/">món bánh cuộn hoa quả kiểu Nhật</a></strong> sẽ hình dung được tốt hơn nhiều, mình chỉ tóm tắt các bước chính tại đây thôi nhé: </span></p>
-<p><span style="color: #000000;">– Trộn hỗn hợp lòng đỏ, làm <strong>theo trình tự</strong>: </span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">– Trộn hỗn hợp lòng đỏ, làm <strong>theo trình tự</strong>: </span></p>
 <ul>
 <li><span style="color: #000000;">Đánh 5 lòng đỏ với 15 đường đến khi lòng đỏ chuyển màu vàng nhạt. </span></li>
 <li><span style="color: #000000;">Cho 50 g dầu ăn vào trộn đều</span></li>
@@ -81,4 +74,4 @@ description: "Cách làm bánh cuộn cam: Bạt bánh mềm xốp ẩm với ph
 <li><span style="color: #000000;">Để kem vào tủ lạnh khoảng 10 – 15 phút cho kem đặc hơn rồi dùng (không để kem trong tủ lạnh quá lâu) </span></li>
 </ul>
 <p><span style="color: #000000;">5. Cuộn bánh: Thao tác cuộn bánh này các bạn xem trong video <a href="/video-banh-cuon-kem-dau/"><strong>cách làm “Bánh cuộn kem dâu”</strong></a> nhé, sẽ dễ hình dung hơn là mô tả. </span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

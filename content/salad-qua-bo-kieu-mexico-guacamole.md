@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2011/08/Guacamole2.jpg"
 description: "Học cách làm salad quả bơ kiểu Mexico cùng Savoury Days. Thay vì làm món ngọt, thử dùng quả bơ để chế biến món salad ngon nổi tiếng Guacamole của Mexico nhé"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Hồi ở nhà mỗi lần đến mùa bơ là mình vật vã với quả này lắm. Nguyên nhân là mẹ mình đọc báo thấy người ta nói bơ là loại Queen or King gì đấy của các loại hoa quả, ăn rất bổ và đặc biệt tốt cho làn da con gái. Thế là ngày nào mami cũng xay cho một cốc vại đầy bơ sữa chua hoặc bơ sữa tươi, ép uống hết cho bằng được. Sinh tố bơ sữa thì ngon, nhưng ngày nào cũng một vại to tướng thì lại là vấn đề hoàn toàn khác :-| Cho nên nói chung là tuy quả này tốt nhưng nói thật là hồi xưa mình chả có cảm tình với nó lắm :( :(</p>
 <p>Thế xong rồi, tự nhiên đến một ngày mình biết được là quả bơ ngoài việc dầm với sữa ra còn có thể trộn với muối, tiêu, tỏi, chanh, rau mùi.. để tạo thành một món salad ngon “dã man” thì mình thay đổi hoàn toàn thái độ với quả bơ :”&gt; Giờ thì chỉ ước giá mà bơ bên này cũng rẻ như ở nhà để mua thoải mái mà không phải suy nghĩ thôi :-&lt;</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6008300884/" title="Guacamole by LinhTrang9185, on Flickr"><img alt="Guacamole" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6128/6008300884_a055a9fbb5.jpg" width="360"/></a><a href="http://www.flickr.com/photos/55490207@N05/6008300968/" title="Guacamole by LinhTrang9185, on Flickr"><br/>
 </a></p>
 <p>Món salad làm mình thay đổi thái độ với quả bơ ấy tên là Guacamole, có nguồn gốc từ Mexico, nhưng mình nghĩ ở châu Âu chắc cũng rất phổ biến. Thành phần chính của Guacamole là quả bơ dầm nhuyễn với một số loại gia vị như hành tỏi, rau mùi, muối, chanh và cà chua với ớt <a href="http://en.wikipedia.org/wiki/Jalapeno">Jalapeno</a>. Ở bên này thì mình thấy Guacamole hay được dùng làm món khai vị, ăn với <a href="http://en.wikipedia.org/wiki/Tortilla_chip">Tortilla chip</a> hoặc <a href="http://en.wikipedia.org/wiki/Taco">Taco</a>. Nhưng mình thì hay trộn sẵn một tô, bỏ vào tủ lạnh một tí cho mát rùi ăn nguyên cả tô. Nói chung là thích hơn sinh tố bơ sữa nhiều :D</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/6008301106/" title="Guacamole by LinhTrang9185, on Flickr"><img alt="Guacamole" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6140/6008301106_3dc0430ca7.jpg" width="333"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6008301106/" title="Guacamole by LinhTrang9185, on Flickr"><img alt="Guacamole" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6140/6008301106_3dc0430ca7.jpg" width="333"/></a></p>
 <p>CÁCH LÀM SALAD QUẢ BƠ KIỂU MEXICO – GUACAMOLE</p>
 <p><strong>Nguyên liệu</strong></p>
 <p style="padding-left: 30px;"><span id="more-510"></span></p>
@@ -33,10 +29,7 @@ description: "Học cách làm salad quả bơ kiểu Mexico cùng Savoury Days.
 <p><a href="http://www.flickr.com/photos/55490207@N05/6011267314/" title="Guacamole 1 by LinhTrang9185, on Flickr"><img alt="Guacamole 1" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6005/6011267314_6182fd9540.jpg" width="500"/></a></p>
 <p> </p>
 <p>2. Cà chua rửa sạch, cắt đôi, bỏ phần ruột. Thái hạt lựu. Rau mùi rửa sạch thái nhỏ.</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/6011267362/" title="Guacamole 2 by LinhTrang9185, on Flickr"><img alt="Guacamole 2" class="aligncenter" height="375" loading="lazy" src="http://farm7.static.flickr.com/6016/6011267362_8ed4907bcb.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6011267362/" title="Guacamole 2 by LinhTrang9185, on Flickr"><img alt="Guacamole 2" class="aligncenter" height="375" loading="lazy" src="http://farm7.static.flickr.com/6016/6011267362_8ed4907bcb.jpg" width="500"/></a></p>
 <p> </p>
 <p>3. Bơ gọt vỏ, cắt miếng vừa. Cho vào bát trộn với ½ tablespoon nước cốt chanh. Lấy nĩa dầm nát nhưng không quá nhuyễn.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6011267386/" title="Guacamole 3 by LinhTrang9185, on Flickr"><img alt="Guacamole 3" class="aligncenter" height="375" loading="lazy" src="http://farm7.static.flickr.com/6026/6011267386_3c199fc40d.jpg" width="500"/></a></p>
@@ -48,4 +41,4 @@ description: "Học cách làm salad quả bơ kiểu Mexico cùng Savoury Days.
 <p> </p>
 <p>Ghi chú: Trong công thức không có ớt Jalapeno vì mình không mua được loại ớt này nên đành bỏ qua, các bạn có thể cho thêm nhé. Ngoài ra, nếu có thể thì nên thử ăn món này với Tortilla chip, rất hay (chip này có thể mua trong các siêu thị tại đây, tên ghi ngay ngoài vỏ bao, rất dễ tìm, ở VN thì mình không rõ lắm)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6008300968/" title="Guacamole by LinhTrang9185, on Flickr"><img alt="Guacamole" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6004/6008300968_f7b0b3b526.jpg" width="355"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

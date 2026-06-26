@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2011/12/SupHaiSanPhap.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Cuối năm, chẳng hiểu một đống việc từ đâu bỗng dưng xuất hiện và đồng loạt đổ ụp một cái lên đầu – đúng kiểu “oánh hội đồng” ý, làm mình chẳng kịp trở tay :-( Cả ngày quay cuồng với một mớ dữ liệu và lý thuyết, deadlines chui cả vào giấc ngủ. Thời gian nấu ăn bị hạn chế đi, bài lên blog ít hơn, đến cả thời gian và đầu óc để viết một bài giới thiệu món mới cho ra hồn cũng chẳng có nữa :-(((((</p>
 <p>Thôi thì vì đằng nào cũng không thể nghĩ được ra câu chữ gì hay ho nên nói nhanh cho nó vuông vậy. Món ăn này mình nấu để giới thiệu trên chuyên mục <em>Hương vị bốn phương</em> của báo Bếp Gia Đình. Nấu từ lâu lắm lắm rồi mà đợi mãi mới thấy báo ra để đăng lên blog. Chờ đợi “mòn mỏi” như vậy là bởi vì đây có lẽ là món Âu ngon nhất mà mình nấu được từ trước đến giờ. Khi nấu xong thậm chí là mình còn thấy ngạc nhiên vì không nghĩ là mình có thể “làm” ra được hương vị như thế. Cảm giác giống như là mọi hương vị của biển cả đều nằm trong bát súp ấy :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6476603387/" title="Bouillabaisse by LinhTrang9185, on Flickr"><img alt="Bouillabaisse" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7160/6476603387_14a42e5931.jpg" width="500"/></a></p>
 <p>Đây cũng là một trong số ít các món ăn mà mình làm hoàn toàn theo chỉ dẫn của công thức gốc mà không thêm thắt chỉnh sửa tí tẹo nào. Bởi vì nó đến từ một nguồn mà mình đặc biệt tin tưởng, cuốn <em>Mastering the Art of French cooking </em>của Julia Child. Món này về nguyên liệu và cách chế biến mình cảm giác hơi giống món lẩu của nhà mình, tức là có rất nhiều thứ phải chuẩn bị, nhưng đến công đoạn nấu thì chẳng có gì, chỉ tống tất cả vào nồi và ngồi đợi, vậy thôi :) Có một vài thứ ở nhà hơi khó kiếm, mình có ghi chú thích ở bên cạnh về nguyên liệu có thể thay thế, cả nhà tham khảo nhé.</p>
-<p><strong>Nguyên liệu (4 phần ăn) </strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>Nguyên liệu (4 phần ăn) </strong></p>
 <p><em><strong>Phần nước dùng</strong></em></p>
 <ul>
 <li><em>2 thìa canh (30ml) dầu olive</em></li>
@@ -51,10 +47,7 @@ description: ""
 <p>1. Chuẩn bị nguyên liệu:</p>
 <p>– Hành tây, cần tây, tỏi bóc vỏ, bằm nhỏ. Fennel nếu có thì thái hạt lựu.</p>
 <p>– Cà chua bổ múi cau.</p>
-<p>– Lá húng quế (basil) và mùi tây (parsley) bằm nhuyễn.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>– Lá húng quế (basil) và mùi tây (parsley) bằm nhuyễn.</p>
 <p>– Hải sản làm sạch, tôm cắt râu và phần ngạnh cứng ở đầu, giữ nguyên đầu và vỏ, cá và mực thái miếng vừa ăn.</p>
 <p>– Xương và đầu cá rửa sạch xếp vào nồi.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6476603075/" title="2011-10-22 by LinhTrang9185, on Flickr"><img alt="2011-10-22" class="aligncenter" height="354" loading="lazy" src="http://farm8.staticflickr.com/7031/6476603075_35626f27d8.jpg" width="500"/></a></p>
@@ -65,4 +58,4 @@ description: ""
 <p>3. Cho nước dùng vào nồi, đun sôi rồi thả hải sản vào, nấu đến khi các nguyên liệu vừa chín tới. Nêm lại muối tiêu cho vừa ăn. Múc ra bát, dùng nóng với bánh mỳ.</p>
 <p><em>Cuối cùng: Một phút dành cho “quẳng cáo” ;)<br/>
 </em><a href="http://www.flickr.com/photos/55490207@N05/6476602963/" title="Bouillabaisse (on Family Kitchen Magazine 24 Nov 2011) by LinhTrang9185, on Flickr"><img alt="Bouillabaisse (on Family Kitchen Magazine 24 Nov 2011)" class="aligncenter" height="339" loading="lazy" src="http://farm8.staticflickr.com/7025/6476602963_9e0f74fbea.jpg" width="500"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

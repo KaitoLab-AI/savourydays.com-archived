@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2015/08/BanhNuongHoaCuc.jpg"
 description: "cách làm bánh nướng, bánh trung thu nhiều màu"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Hưởng ứng phong trào nhuộm màu vỏ bánh trung thu năm nay, bạn Trang cũng chui vào bếp nghịch thử tí chút. Thật ra thì mới đầu mình không hào hứng với việc biến bánh trung thu thành xanh đỏ tím vàng lắm, vì thấy phong vị cổ truyền được lưu lại từ cả bao đời nay vẫn tuyệt vời hơn cả. Nhưng sau khi làm thử thì thấy rất vui. Một phần là ở các <a href="/tu-lam-mau-thuc-pham-tu-rau-cu-qua-tu-nhien/" target="_blank">màu sắc tự nhiên làm từ rau củ </a>quả, khi làm đã thấy thích rồi mà cho vào màu bánh còn đẹp hơn. Một phần khác là bánh trộn kiểu mới này có thể tạo ra nhiều hương vị ngon và thú vị hơn mình nghĩ.</p>
 <p>Như vỏ bánh nướng màu vàng này. Theo mình biết thì một trong những màu vàng tự nhiên đẹp nhất là từ củ nghệ, hoặc cao cấp hơn là nhuỵ hoa nghệ (saffron). Nhưng nghệ mà dùng nhiều một tí là hay có mùi. Saffron đỡ hơn chút nhưng mà saffron thì đắt lắm (saffron là nhụy hoa nghệ, thu hoạch thủ công bằng tay, mỗi hoa lấy được một nhúm nên giá đắt như vàng, mình có mua 1 – 2 gram ở Istanbul mà mãi vẫn chưa dám dùng vì tiếc :P).</p>
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20354006228/in/album-72157657196264731/" title="IMG_3067-1"><img alt="IMG_3067-1" height="584" loading="lazy" src="https://farm6.staticflickr.com/5657/20354006228_596fea605e_z.jpg" width="640"/></a></p>
 <p>Mình dùng bột nghệ để làm bánh này, và để át bớt mùi nghệ mình thử cho thêm một nhúm vỏ chanh vàng, bào rất vụn vào bột vỏ bánh. Vỏ chanh cũng có thể tạo thêm một chút màu vàng cho bánh nữa. Làm thử vậy thôi mà không ngờ khi ăn thấy mùi vị vỏ bánh thơm ngon quá thể. Hầu như không thấy mùi nghệ, chỉ có vị the mát từ chanh, và vỏ bánh thì cứ vàng óng lên như nắng :) Thừa thắng xông lên, mình làm lại một mẻ mới, thay phần nhân thành vị chanh leo đậu xanh. Bánh có vị chua nhẹ và thơm của chanh leo, pha với hương cam từ vỏ bánh (nhà hết chanh nên mình thay bằng cam vàng), dễ ăn và rất ngon – chắc sẽ rất hợp cho những ai không quen ăn nhiều đồ ngọt. Cách làm phần vỏ và nhân mình dựa trên <a href="/banh-trung-thu-cach-lam-banh-nuong/" target="_blank">công thức vỏ bánh nướng cơ bả</a>n và <a href="/video-cach-sen-nhan-dau-xanh-banh-trung-thu/" target="_blank">nhân đậu xanh</a>, đều đã có hướng dẫn tại blog rồi. Các bạn xem thêm cụ thể tại các bài này, dưới đây mình sẽ viết công thức vắn tắt thôi nha.</p>
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19919397824/in/album-72157657196264731/" title="IMG_3053-1"><img alt="IMG_3053-1" height="385" loading="lazy" src="https://farm6.staticflickr.com/5795/19919397824_8aa63ed92b_z.jpg" width="640"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19919397824/in/album-72157657196264731/" title="IMG_3053-1"><img alt="IMG_3053-1" height="385" loading="lazy" src="https://farm6.staticflickr.com/5795/19919397824_8aa63ed92b_z.jpg" width="640"/></a></p>
 <p><span style="color: #800000;"><strong>Nguyên liệu </strong></span></p>
 <p><strong>A. Nhân chanh leo</strong></p>
 <ul>
@@ -40,10 +36,7 @@ description: "cách làm bánh nướng, bánh trung thu nhiều màu"
 <p>– Nước đường cho bánh này nên dùng loại nấu hoàn toàn từ đường trắng (màu nước cũng vàng nhưng không sậm như nước nấu từ đường vàng/ nâu)</p>
 <p>– Dùng chanh hay cam là tùy khẩu vị nhưng mình thích mùi chanh vàng hơn</p>
 <p><span style="color: #800000;"><strong>Cách làm</strong> </span></p>
-<p>Về lượng nguyên liệu, từ 1 công thức trên sẽ làm được:</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Về lượng nguyên liệu, từ 1 công thức trên sẽ làm được:</p>
 <ul>
 <li>550 gram nhân bánh</li>
 <li>225 gram vỏ bánh</li>
@@ -67,7 +60,6 @@ description: "cách làm bánh nướng, bánh trung thu nhiều màu"
 <p>1. Rây bột và bột nghệ, bào vụn vỏ cam/ chanh, trộn đều. Sau khi trộn xong thì bột sẽ hơi có ánh vàng.</p>
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20515751886/in/album-72157657196264731/" title="IMG_9710"><img alt="IMG_9710" height="428" loading="lazy" src="https://farm6.staticflickr.com/5712/20515751886_0681b84134_z.jpg" width="640"/></a></p>
 <p>2. Vét bột để trống một lỗ ở chính giữa bát. Cho các nguyên liệu còn lại vào phần trống này.</p>
-
 
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20533112872/in/album-72157657196264731/" title="IMG_9712"><img alt="IMG_9712" height="427" loading="lazy" src="https://farm6.staticflickr.com/5785/20533112872_b0b44ba37c_z.jpg" width="640"/></a></p>
 <p>Nhẹ nhàng dùng thìa quấy từ trong ra ngoài đến khi các nguyên liệu hòa quyện.</p>
@@ -132,4 +124,4 @@ description: "cách làm bánh nướng, bánh trung thu nhiều màu"
 <li><a href="/banh-trung-thu-chia-se-kinh-nghiem-lam-banh-deo/" target="_blank">Giải đáp các thắc mắc/ vấn đề thường gặp khi làm bánh dẻo</a></li>
 </ol>
 <p> </p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

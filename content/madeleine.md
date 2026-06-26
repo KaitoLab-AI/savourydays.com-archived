@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2013/02/Madeleine.jpg"
 description: "Madeleine, bánh con sò, tự học làm bánh"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi</span> </strong></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
 <p>——————————————</p>
 <p>Chẳng hiểu sao nhưng Madeleine luôn mang đến cho mình một cảm giác rất… lãng mạn và mơ màng. Thật ra với một đứa giàu trí tưởng bở như mình thì việc “bánh ngọt” và “lãng mạn” có liên quan đến nhau hoàn toàn không phải là chuyện gì lạ lắm. Nhưng riêng với Madeleine thì mức độ lãng mạn này có vẻ cao hơn rất nhiều. Có thể một phần là do hình thù đặc trưng của bánh, và cả xuất xứ nữa, nên Madeleine luôn gợi cho mình liên tưởng đến một khung cửa sổ ngập nắng, một chiếc bàn gỗ nhỏ, một bình trà có hoa hồng trắng li ti trang trí, vài chiếc tách sứ, và ở chính giữa là một chiếc đĩa cũng hình con sò trắng muốt, đựng rất nhiều những chiếc “vỏ sò” vàng ươm be bé xinh xinh, thơm ngọt ngào. :)</p>
-<p>Madeleine là loại bánh khá phổ biến, nên chắc không cần phải giới thiệu nhiều nữa. Về cơ bản thì Madeleine là một dạng sponge cake (gateau cơ bản), cách làm cũng theo kiểu Sponge, nhưng thành phần có rất nhiều bơ. Cho nên bánh rất mềm, rất nhẹ kiểu Sponge, nhưng cũng rất ẩm (ẩm chứ không ướt) và khi cắn vào thì cảm nhận được rất rõ vị bơ ngậy tan trên đầu lưỡi.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Madeleine là loại bánh khá phổ biến, nên chắc không cần phải giới thiệu nhiều nữa. Về cơ bản thì Madeleine là một dạng sponge cake (gateau cơ bản), cách làm cũng theo kiểu Sponge, nhưng thành phần có rất nhiều bơ. Cho nên bánh rất mềm, rất nhẹ kiểu Sponge, nhưng cũng rất ẩm (ẩm chứ không ướt) và khi cắn vào thì cảm nhận được rất rõ vị bơ ngậy tan trên đầu lưỡi.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8510275732/" title="IMG_9595-1 by LinhTrang9185, on Flickr"><img alt="IMG_9595-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8366/8510275732_9b52461e2d_z.jpg" width="479"/></a></p>
 <p><strong><span style="color: #800000;">Nguyên liệu</span><br/>
 </strong></p>
@@ -46,10 +42,7 @@ description: "Madeleine, bánh con sò, tự học làm bánh"
 <p>1. Rây bột mì, bột ngô, bột nở và muối vào bát. Dùng phới lồng trộn thật đều.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8509166573/" title="IMG_9571 by LinhTrang9185, on Flickr"><img alt="IMG_9571" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8365/8509166573_47a2033346.jpg" width="500"/></a></p>
 <p>2. Đun chảy bơ (bằng lò vi sóng hoặc đun cách thủy). Cho mật ong, sữa tươi hoặc nước và vỏ chanh (nếu có) vào, trộn đều với bơ. Giữ ấm.</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/8510275914/" title="IMG_9572 by LinhTrang9185, on Flickr"><img alt="IMG_9572" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8392/8510275914_3d9185eca8.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8510275914/" title="IMG_9572 by LinhTrang9185, on Flickr"><img alt="IMG_9572" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8392/8510275914_3d9185eca8.jpg" width="500"/></a></p>
 <p>3. Cho trứng và đường vào âu. Đặt máy ở tốc độ chậm, đánh đến khi trứng bắt đầu tan và hòa quyện với đường thì tăng dần lên tốc độ cao nhất. Đánh đến khi trứng bông, thể tích tăng gấp khoảng 3 lần so với ban đầu, bọt khí nhỏ dần và biến mất. Hạ dần tốc độ, tiếp tục đánh đến khi trứng bông, rất mịn và rất đặc. Dùng que đánh hay spatula xúc thử thì không có cảm giác lồng phồng mà thấy trứng mịn gần như kem, chảy xuống thành dòng như thả dây ruy băng xuống.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8510275888/" title="IMG_9574 by LinhTrang9185, on Flickr"><img alt="IMG_9574" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8102/8510275888_09995eaf23.jpg" width="500"/></a></p>
 <p>Trong công thức Madeleines này, <span style="color: #ff0000;"><strong>đánh trứng là khâu quan trọng nhất</strong> </span>và <strong>có thể sẽ mất khá nhiều thời gian</strong>. Mình dùng máy cầm tay công suất 450W đánh hết gần 15 phút. Trong đó khoảng 8-9 phút đầu là đánh đến giai đoạn trứng đặc mịn, không còn bọt khí (với tốc độ cao). 5-6 phút còn lại là hoàn toàn đánh ở tốc độ thấp nhất để bọt khí trong trứng được đều và trứng đặc hơn, chuyển sang dạng kem. Nếu muốn có chiếc bánh nhẹ và mềm thì nhất định phải đánh trứng đến đây, nếu đánh không đủ thì có khả năng bạn sẽ gặp khó khăn trong các bước tiếp theo và sản phẩm có thể sẽ đặc, cứng.</p>
@@ -66,7 +59,6 @@ description: "Madeleine, bánh con sò, tự học làm bánh"
 <p>7. Chống dính khuôn bằng cách quét một lớp bơ mỏng lên lòng khuôn. Rắc một lớp bột mỏng phủ đều lên khắp lòng khuôn rồi úp ngược khuôn, gõ nhẹ cho bột thừa rơi hết. <strong>Kể cả dùng khuôn silicon cũng nên chống dính để lấy bánh ra được dễ và lớp vỏ bánh có màu vàng đẹp hơn.</strong></p>
 <p>Làm nóng lò trước khi nướng bánh khoảng 10-15 phút, nhiệt độ 180 độ C (hai lửa).</p>
 
-
 <p>Chia bột vào các khuôn, chỉ đổ tối đa 2/3 khuôn vì bánh sẽ tiếp tục nở trong quá trình nướng. Nướng bánh ở nhiệt độ 175-180 độ C trong 10-12 phút đến khi bánh chín vàng, rìa bánh hơi nâu. <strong>Không nướng quá lâu, bánh có thể sẽ bị khô</strong>.</p>
 <p>Lấy bánh ra khỏi lò, để bánh trong khuôn khoảng 5-7 phút rồi lấy ra, để nguội hẳn trên rack.</p>
 <p>* <span style="text-decoration: underline; color: #ff0000;"><strong>Lưu ý:</strong></span></p>
@@ -82,4 +74,4 @@ description: "Madeleine, bánh con sò, tự học làm bánh"
 <p><strong>A-Z: Lò nướng – Kinh nghiệm chọn lò – Cách chỉnh lò để bánh không bị xẹp, lõm, thắt eo, ẩm, cháy…</strong> <a href="/lo-nuong-kinh-nghiem-nuong-banh/">Phần 1</a> – <a href="/kinh-nghiem-nuong-banh-phan-2/">Phần 2</a></p>
 <p>Chúc các bạn thành công :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8510275814/" title="IMG_9590-1 by LinhTrang9185, on Flickr"><img alt="IMG_9590-1" class="aligncenter" height="335" loading="lazy" src="http://farm9.staticflickr.com/8520/8510275814_bc23b8dc76.jpg" width="500"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

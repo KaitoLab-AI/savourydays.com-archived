@@ -12,10 +12,7 @@ description: "savoury days"
 <p>Mình không có thói quen tổng kết lại những kỉ niệm cũ hay đặt ra mục tiêu cho hành trình mới. Bởi điều quan trọng hơn với những thứ đã đạt được và những thứ còn cần phải cố gắng để đạt được có lẽ là quá trình, sự trải nghiệm và sự trưởng thành, niềm vui, niềm hạnh phúc có được qua những hành trình ấy.</p>
 <p>Nếu có một thứ muốn nhắc đến nhất trong những ngày cuối năm này, vì nó liên quan đến nhiều trải nghiệm thú vị, sự trưởng thành và tiếng cười, sự hạnh phúc thì đó có lẽ là Savoury Days. Mặc dù năm vừa qua mình không vào bếp được thật nhiều như năm trước đó, nhưng bếp dường như không có ngày nào nguội lạnh, nhờ lúc nào cũng có bàn tay chăm sóc của rất nhiều bạn bè : Hồng Phúc, Oriole, Poppi_Muffin, nhỏ Gà… và rất rất nhiều cô bác, anh chị em khác nữa. Thật vui khi biết rằng mỗi khi cần một sự chia sẻ, hay động viên, hay cảm hứng, hay động lực để làm một cái gì đó, mình đều có một nơi để tìm đến, và ở nơi đó mình sẽ luôn tìm được thứ mình cần. Mong là trong năm 2014 bếp sẽ càng ấm áp hơn và là tiếp tục là căn bếp chung của tất cả những ai có cùng một niềm đam mê với ăn uống, bánh trái và cùng có mong ước tự tay mình làm ra những món ăn thật ngon, chiếc bánh thật đẹp cho những người thân yêu của mình.</p>
 <p>Cũng trong dịp cuối năm này, xin gửi tặng các bạn của Savoury Days một món quà nhỏ là bộ lịch Wallpapers (hình nền máy tính) 12 tháng với 12 món ăn khác nhau. Món quà tuy không lớn nhưng là lời cảm ơn mà mình muốn gửi đến tới tất cả các bạn đã luôn yêu mến Savoury Days cũng như lời chúc cho một năm mới ấm áp và ngọt ngào. Mong là những hình ảnh trong bộ lịch này sẽ luôn mang đến cho bạn cảm hứng vào bếp trong cả 365 ngày của năm :)</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/11584522544/" title="Calendar set 2014 by LinhTrang9185, on Flickr"><img alt="Calendar set 2014" class="aligncenter" height="250" loading="lazy" src="http://farm4.staticflickr.com/3742/11584522544_873748d12d.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/11584522544/" title="Calendar set 2014 by LinhTrang9185, on Flickr"><img alt="Calendar set 2014" class="aligncenter" height="250" loading="lazy" src="http://farm4.staticflickr.com/3742/11584522544_873748d12d.jpg" width="500"/></a></p>
 <p>Các bạn có thể download Wallpapers từ hai link sau đây:</p>
 <p>Wallpapers HD (kích thước 16 : 9):</p>
 <p><a href="http://www.mediafire.com/download/3maqvbg1dngrkox/Savourydays+wall+2014_HD.rar">http://www.mediafire.com/download/3maqvbg1dngrkox/Savourydays+wall+2014_HD.rar</a></p>
@@ -25,10 +22,7 @@ description: "savoury days"
 <p><del>Thông báo danh sách nhận quà tặng (<em><strong>lựa chọn ngẫu nhiên bằng cách “quay xổ số”</strong></em>) sẽ được đăng trong ngày đầu tiên của năm mới nhé. </del></p>
 <p>* Danh sách nhận quà tặng đã được đăng tại: /chuc-mung-nam-moi-va-rat-nhieu-tin-vui/</p>
 <p>Có một ghi chú nhỏ là lịch này mình làm để dành làm quà tặng, không phải để bán nên chỉ in một số lượng rất có hạn. Cũng vì vậy nên hi vọng là nó sẽ có ý nghĩa hơn nhiều món quà có thể mua bằng tiền khác.</p>
-<p>Chúc cả nhà một mùa Giáng sinh an lành và Năm mới hạnh phúc, bình an! :x</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Chúc cả nhà một mùa Giáng sinh an lành và Năm mới hạnh phúc, bình an! :x</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/11584522334/" title="car3 by LinhTrang9185, on Flickr"><img alt="car3" class="aligncenter" height="500" loading="lazy" src="http://farm8.staticflickr.com/7459/11584522334_997b001c50.jpg" width="500"/></a></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/11584190965/" title="Car2 by LinhTrang9185, on Flickr"><img alt="Car2" class="aligncenter" height="313" loading="lazy" src="http://farm8.staticflickr.com/7390/11584190965_723919257c.jpg" width="500"/></a></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/11584190975/" title="Car1 by LinhTrang9185, on Flickr"><img alt="Car1" class="aligncenter" height="439" loading="lazy" src="http://farm6.staticflickr.com/5480/11584190975_a4e19f0ddc.jpg" width="500"/></a></p>
@@ -41,9 +35,6 @@ description: "savoury days"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

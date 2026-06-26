@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2020/10/Cách-làm-bánh-mì-dừa-Hokkaido-banner.j
 description: "Cách làm bánh mì dừa rất thơm ngon mà không quá khó. Phần vỏ bánh mình dùng bánh mì sữa Hokkaido, siêu mềm và thơm, rất hợp với phần nhân dừa."
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;"><span style="color: #000000;">Trời lạnh dần rồi, mấy hôm nay ngoài Hà Nội còn mưa nữa. Trời này thích nhất là được ở trong căn bếp với ánh đèn vàng rất ấm và hít hà mùi thơm của bánh mì đang chín. Làm bánh mì không khó. Nhưng chọn làm món bánh mì nào thì khó :D Bởi vì có quá nhiều công thức mà món nào cũng ngon. Những lúc không nghĩ ra nên làm món gì mình thường sẽ…. nhắm mắt lại và ngồi thật yên tĩnh, rồi để trái tim tự lên tiếng :D :D :D  hihi, kiểu như là ngồi yên lặng và cảm nhận xem giờ mình sẽ thích hương vị nào nhất ý ;) Và lần này thì vị dừa lên ngôi!!!</span></span></p>
 <p><span style="color: #000000;">Nhân sữa dừa trong bánh mì lúc nào cũng ngon. Điển hình là món bánh mì dừa hot từ năm ngoái đến năm nay vẫn chưa hết hot (món này trong lớp học bánh mì ngọt mềm thấy mọi người hay khoe là đắt hàng lắm, chắc sau bánh mì hoa cúc thôi). Nhưng mà một ổ bánh mì dừa to bự thì hơi “cũ” rồi nên hôm nay mình đổi kiểu một chút, cho bánh thêm … hay hay hơn 1 tí :) Vỏ bánh là công thức bánh mì Hokkaido “trong truyền thuyết”, vị ngon đã được kiểm chứng từ nhiều năm nay nên không cần quảng cáo nữa :D Nhân dừa rất dễ làm, và nếu cả nhà thích có thể thêm nho khô (ngâm rượu Rum), hoặc chocolate bẻ miếng nhỏ, hoặc xíu bột quế cũng rất hợp nhé. Ngoài ra, nhân dừa này còn hợp với vỏ trà xanh (thêm bột trà xanh vào công thức) hoặc vỏ bánh lá dứa (thêm pandan paste/ paste lá dứa vào phần chất lỏng của bánh mì) nữa. </span></p>
 <h2><span style="color: #000000;">CÁCH LÀM BÁNH MÌ DỪA HOKKAIDO </span></h2>
@@ -25,10 +24,7 @@ description: "Cách làm bánh mì dừa rất thơm ngon mà không quá khó. 
 <li><em><span style="color: #000000;">125 gram sữa tươi không đường</span></em></li>
 <li><em><span style="color: #000000;">75 gram kem tươi (whipping cream hàm lượng béo tối thiểu 30%)</span></em></li>
 </ul>
-<p><strong><span style="color: #000000;">* Lưu ý về nguyên liệu:</span></strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong><span style="color: #000000;">* Lưu ý về nguyên liệu:</span></strong></p>
 <p><span style="color: #000000;">– Nếu không có bột làm bánh ngọt, bạn có thể thay thế bằng bột mì đa dụng hoặc dùng toàn bột bột làm bánh mì.</span></p>
 <p><span style="color: #000000;">– Sữa bột là nguyên liệu không bắt buộc nhưng nếu có sẽ thơm ngon hơn nhiều.</span></p>
 <p><span style="color: #000000;">– Kem tươi là nguyên liệu quan trọng tạo nên hương vị đặc trưng và độ mềm của bánh, không thay kem tươi (whipping cream) bằng topping cream. Nếu không có kem tươi có thể dùng toàn bộ sữa tươi nhưng bánh sẽ kém ngon hơn rất nhiều.</span><span style="color: #000000;"> </span></p>
@@ -45,10 +41,7 @@ description: "Cách làm bánh mì dừa rất thơm ngon mà không quá khó. 
 <p><span style="color: #000000;">– Cần dùng đường bột để đường tan vào nhân dễ hơn. Nếu dùng đường kính, bạn nên xay nhỏ đường ra nhé.</span></p>
 <p><strong><span style="color: #000000;">Cách làm</span></strong></p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/q846d-vxe9c" width="560"></iframe></div>
-<p><span style="color: #000000;"><strong>A. Phần vỏ bánh</strong></span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;"><strong>A. Phần vỏ bánh</strong></span></p>
 <p><span style="color: #000000;">Cách làm bánh mì sữa hokkaido mình đã ghi rất chi tiết trong bài viết này, trong đó có cả những điều cần lưu ý nếu bạn là người mới tập làm bánh mì, các bạn đọc giúp mình nhé:</span></p>
 <p><span style="color: #000000;"><a href="/banh-mi-sua-hokkaido-hokkaido-milky-bread/" style="color: #000000;">/banh-mi-sua-hokkaido-hokkaido-milky-bread/</a></span></p>
 <p><span style="color: #000000;"><strong>B. Nhân bánh</strong></span></p>
@@ -75,4 +68,4 @@ description: "Cách làm bánh mì dừa rất thơm ngon mà không quá khó. 
 <li><span style="color: #000000;">Khi lò đã nóng đủ (mất khoảng 15 – 20 phút), đánh tan 1 quả trứng, lọc qua rây, dùng chổi phết 1 lớp trứng mỏng lên bánh. Nướng bánh ở 175 – 180 độ C trong khoảng 15 – 18 phút.</span></li>
 <li><span style="color: #000000;">Bánh sau khi nướng để nguội hoàn toàn ở nhiệt độ phòng, sau đó cho vào túi nilon buộc kín, bảo quản ở nhiệt độ phòng khoảng 2 ngày và trong ngăn mát tủ lạnh khoảng 5 – 7 ngày. Khi ăn có thể nướng lại ở 170 độ C trong khoảng 5 – 7 phút bánh sẽ nóng mềm trở lại.</span></li>
 </ol>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

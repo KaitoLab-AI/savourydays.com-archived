@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2018/02/cách-làm-lạp-xưởng-banner.jpg"
 description: "cách làm lạp xưởng tươi tại nhà, rất đơn giản, nhanh gọn và thơm ngon. Công thức có kèm theo video hướng dẫn và lưu ý chi tiết để thành công"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Thú thực là sau khi về Việt Nam và ăn thử lạp xưởng ở nhà mình thấy cực kì thất vọng. Lạp xưởng sản xuất công nghiệp thì ngại chất bảo quản, chất điều vị còn các loại lạp xưởng homemade thì tuy đã thử rất nhiều nhưng mình không tìm thấy mùi vị phù hợp. Thế nhưng nghĩ tới chuyện tự làm lại ngại, hơn nữa đã tham khảo thử một số cách làm thì mình thấy quá phức tạp, nào là phải làm lòng non, rồi dồn thịt vào lòng, rồi phơi trên bếp củi, những thứ mà ở Hà Nội rất khó hay hầu như không thể tìm được. Cứ như vậy, đã nghĩ là Tết này sẽ mua lạp xưởng ở siêu thị rồi. Vậy mà cách đây khoảng một tháng lại nhận được tin cực vui, cực tốt lành từ bạn Thu Quỳnh – một thành viên của SD team, thông báo đã thử nghiệm thành công lạp xưởng. Cách làm của Quỳnh siêu đơn giản, không cần mấy thứ lòng non hay hun khói gì cả, có thể dồn lạp xưởng bằng tay rất dễ nữa. Quả thực là một “phát minh” xứng đáng được cấp bằng khen đấy ;)</span></p>
 <p><span style="color: #000000;">Vấn đề duy nhất của công thức của Quỳnh là khi thử mình nhận thấy vị chưa thật sự giống với lạp xưởng Mai Quế Lộ mà mình ăn. Nhưng riêng vụ hương vị này, mình nghĩ hoàn toàn là do khẩu vị cá nhân, ai đã quen với kiểu mùi vị nào thì sẽ thích mùi vị đó. Chẳng hạn như có nhiều cửa hàng lạp xưởng homemade, mình thấy rất nhiều người mua và khen nhưng khi mình thử lại không ưng ý. Hoặc như các loại lạp xưởng Tây Bắc hay Điện Biên, thường có thêm một số loại gia vị miền núi mà mình không thích vì quá hắc. Vậy nên mấy chị em trong nhóm lại tiếp tục thử nghiệm trên công thức ban đầu của Quỳnh, và kết quả cuối cùng là công thức ở dưới đây. Mùi vị mặn ngọt rất vừa phải, hơi chua nhẹ, hơi có vị rượu và các gia vị khác, rất giống loại lạp xưởng Mai Quế Lộ mà mình vẫn thích.</span></p>
 <p><span style="color: #000000;">Với cả nhóm Savoury Days thì việc tìm ra được công thức ở dưới này là một điều mà bọn mình rất tự hào, giống như khó khăn thử thách đã được chinh phục vậy. Bọn mình rất hi vọng là công thức này sẽ giúp cho các chị em bớt được khoản đau đầu trong việc tìm mua loại lạp xưởng chất lượng và an toàn vệ sinh thực phẩm, cũng như giúp cho các bạn tiết kiệm được nhiều tiền bạc, thời gian và công sức hơn để có được món lạp xưởng ưng ý đón Tết (và dành cho cả các ngày khác trong năm.</span></p>
 <p><span style="color: #ff0000;"><strong>TẤT CẢ CÁC LƯU Ý ĐỀU RẤT QUAN TRỌNG, CÁC BẠN NHỚ ĐỌC KĨ TRƯỚC KHI LÀM NHÉ </strong></span></p>
 <h1>Cách làm lạp xưởng</h1>
-<p><strong><span style="color: #800000;">Nguyên liệu</span></strong>:</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong><span style="color: #800000;">Nguyên liệu</span></strong>:</p>
 <ul>
 <li><span style="color: #000000;"><em>500 gram thịt lợn xay</em></span></li>
 <li><span style="color: #000000;"><em>120 gram mỡ lợn</em></span></li>
@@ -42,10 +38,7 @@ description: "cách làm lạp xưởng tươi tại nhà, rất đơn giản, n
 <p><span style="color: #000000;">– Bột gừng, hành, tỏi có thể mua tại <strong><a href="https://abby.vn" style="color: #000000;">Abby.vn</a></strong> hoặc mua ở siêu thị Vinmart. Những gia vị này sẽ tạo mùi vị kiểu “Mai Quế Lộ” đặc trưng, nếu thiếu sẽ mất vị. Nếu không có bột, có thể dùng gừng, hành khô và tỏi tươi băm rất nhuyễn trộn cùng với nguyên liệu, nhưng mùi vị có thể khác đi ít nhiều.</span></p>
 <p><span style="color: #000000;">– Phẩm đỏ mình dùng loại nhập khẩu của Mỹ, hay dùng trong làm bánh. Với mình thì loại này an toàn hơn dùng màu điều không rõ xuất xứ của Việt Nam, có thể bỏ qua nếu bạn không thích.</span></p>
 <p><span style="color: #000000;">* <em><strong>Như đã nói ở trên, mùi vị lạp xưởng ngon sẽ tuỳ thuộc ở thói quen và khẩu vị ở mỗi gia đình. Nên định lượng nguyên liệu ở trên chỉ để tham khảo, các bạn có thể tự điều chỉnh theo ý mình nhé</strong></em>.</span></p>
-<p style="text-align: center;"><span style="color: #000000;"><em>Lạp xưởng tươi chiên lên 5p thôi, dùng với cơm hay xôi trắng đều rất tuyệt </em></span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p style="text-align: center;"><span style="color: #000000;"><em>Lạp xưởng tươi chiên lên 5p thôi, dùng với cơm hay xôi trắng đều rất tuyệt </em></span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7500" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/02/IMG_0215-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <p><span style="color: #000000;">Video cách làm lạp xưởng tươi đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" rel="noopener noreferrer" style="color: #000000;" target="_blank"><span style="color: #0000ff;">kênh YouTube của Savoury Days</span>.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo<span style="color: #0000ff;"> <a href="https://youtu.be/RJKsUOLPOgE" rel="noopener noreferrer" style="color: #0000ff;" target="_blank"><strong>link này</strong></a></span> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="https://youtu.be/AhsvW5TjQfc" rel="noopener noreferrer" style="color: #000000;" target="_blank"><span style="color: #0000ff;">cách làm bánh flan này</span>.</a> </strong></span></p>
@@ -61,7 +54,6 @@ description: "cách làm lạp xưởng tươi tại nhà, rất đơn giản, n
 <p><span style="color: #000000;">8. Xếp lạp xưởng lên khay có khe hở (để hơi nước thoát ra). Ở phía dưới đặt một khay khác có lót giấy bạc để hứng nước mỡ chảy ra, tránh bị bẩn lò. Sấy lạp xưởng ở 90 – 100 độ C trong lò có bật quạt hoặc 110 độ C nếu lò không có quạt trong 2 giờ.</span></p>
 <p><span style="color: #000000;">Nếu bạn ở nơi có trời nắng và khô ráo, thoáng gió thì có thể treo lạp xưởng trên dây, phơi trong 2 – 3 ngày đến khi lạp xưởng cứng lại.</span></p>
 <p><span style="color: #000000;">Còn nếu trời nồm, ẩm hoặc nhiều bụi bặm thì sau khi sấy 2 giờ trong lò, hạ nhiệt xuống 60 – 70 độ C (có bật quạt) hoặc 80 độ C (không bật quạt), sấy thêm 2 – 3 giờ, tới khi vỏ lạp xưởng nhăn nhiều hơn, nắn thử thấy chỉ còn hơi mềm một chút xíu.</span></p>
-
 
 <p><span style="color: #000000;">9. <span class="m_4646922044377195535s1">Nếu không có lò, bạn có thể xông khói lạp xưởng. Việc xông khói sẽ giúp hút ẩm khỏi thực phẩm, chống sự lên men của vi khuẩn và nấm mốc. Nhưng bên cạnh đó, lạp xưởng sẽ hơi có mùi của khói, bạn nào không thích mùi khói thì nên cân nhắc trước khi dùng cách này, hoặc căn ngày có nắng để phơi lạp xưởng.</span></span></p>
 <p><span style="color: #000000;"><strong><span class="m_4646922044377195535s1">Dụng cụ xông khói:</span></strong></span></p>
@@ -93,4 +85,4 @@ description: "cách làm lạp xưởng tươi tại nhà, rất đơn giản, n
 <p><span style="color: #000000;">– Độ chua nói trên tuỳ thuộc vào thời gian sấy, và nhiệt độ sấy hay phơi. Bởi vậy, nếu trời nóng hay lò nóng thì nên phơi trong thời gian vừa phải, đừng để quá lâu lạp xưởng sẽ khô và cứng.</span></p>
 <p><span style="color: #000000;">– Sau khi làm xong nên chia túi nhỏ, để ngăn đá dùng dần (được 2 tháng). Khi dùng rã đông trong ngăn mát tủ lạnh, Ngon nhất là rán (cho một xíu mỡ trong chảo chống dính) hoặc nướng. Có thể hấp nhưng nên hấp nhanh. Thời gian rán, hấp hay nướng chỉ khoảng 3 – 5 phút, lâu hơn lạp xưởng sẽ càng chua nhiều.</span></p>
 <p> </p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

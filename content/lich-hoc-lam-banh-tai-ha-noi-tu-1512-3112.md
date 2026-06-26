@@ -12,10 +12,7 @@ description: ""
 <p><span style="color: #000000;">Đã có lịch học làm bánh cho 2 tuần cuối tháng 12 tại Hà Nội. Các bạn xem lịch học tại đây nhé: </span><a href="/lop-hoc-lam-banh/"><strong>/lop-hoc-lam-banh/</strong></a></p>
 <p><img alt="" class="aligncenter size-full wp-image-7729" height="651" loading="lazy" sizes="(max-width: 461px) 100vw, 461px" src="/wp-content/uploads/2018/12/Lớp-học-tháng-12-01.png" width="461"/></p>
 <p><span style="color: #000000;">Tháng 12 dự kiến sẽ có lớp bánh kem với kiểu trang trí đặc biệt dành riêng cho Giáng sinh, Năm mới, và tất nhiên cả những bữa tiệc như sinh nhật nữa :) Và lớp bánh quy để phục vụ Giáng sinh và Tết. Riêng lớp bánh quy rất phù hợp với các bạn nào muốn làm với số lượng lớn cho gia đình, để biếu tặng hoặc kinh doanh ah.</span></p>
-<p><span style="color: #000000;">Hẹn gặp các bạn tại lớp học! :)</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">Hẹn gặp các bạn tại lớp học! :)</span></p>
 <p style="text-align: center;"><span style="color: #000000;"><em>Một số loại bánh học tại lớp </em></span></p>
 <p style="text-align: center;"><img alt="" class="aligncenter size-large wp-image-7726" height="680" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/06/lớp-học-làm-bánh-quy-hà-nội-1024x680.jpg" width="1024"/></p>
 <p style="text-align: center;"><img alt="" class="aligncenter size-large wp-image-7725" height="823" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/06/lớp-học-làm-bánh-kem-hà-nội-1024x823.jpg" width="1024"/></p>
@@ -28,9 +25,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

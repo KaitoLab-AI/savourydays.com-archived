@@ -8,15 +8,11 @@ image: ""
 description: "Cách làm bánh xíu páo Nam ĐỊnh với nồi chiên không dầu rất đơn giản, dễ thành công. Video hướng dẫn chi tiết"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="font-weight: 400; color: #000000;">Đây là một món mà ngày xưa mình cực kì mê. Lớp vỏ tách nhiều lớp mỏng giòn rụm, béo béo bùi bùi, bên trong là nhân thịt nướng xá xíu mằn mặn ngọt ngọt, ngon lắm luôn. Đến bây giờ vẫn mê nhưng tìm mãi không thấy chỗ nào vừa ý, thường là vỏ bánh tách lớp không tốt, ăn bị bứ và nồng mùi dầu mỡ, nhân bánh càng ngày càng ít đi nữa. </span></p>
 <p><span style="font-weight: 400; color: #000000;">Đến một ngày bỗng ngộ ra, “Ô bánh này có gì khó đâu nhỉ?”, vỏ ngàn lớp và nhân xá xíu thì đều có công thức ngon rồi, thế là lao vào làm ngay. Thành quả thì cực kì cực kì ưng ý, đặc biệt là lúc ăn nóng, vỏ bánh thì tách lớp giòn tan, nhân xá xíu mặn ngọt vừa đủ, dù để qua vài ngày thì nướng lại ăn vẫn ngon như mới ;)</span></p>
 <p><span style="font-weight: 400; color: #000000;">Phần vỏ bánh thì mọi người dùng vỏ ngàn lớp trong công thức Bánh Trung thu xôi xéo, </span></p>
 <p><span style="font-weight: 400; color: #000000;">Với riêng học viên lớp Bánh Trung thu Đài Loan thì cả nhà dùng CT vỏ bánh chuẩn Đài Loan trong lớp học nha. </span></p>
-<p><span style="font-weight: 400; color: #000000;">——————–</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">——————–</span></p>
 <p><span style="font-weight: 400; color: #ff0000;"> GÓC NHẮC NHẸ: Chương trình HỖ TRỢ HỌC PHÍ mùa dịch cực sâu (lên tới 30%) CHỈ CÒN VÀI NGÀY NỮA thôi ạ.</span></p>
 <p><span style="font-weight: 400; color: #000000;">Đây cũng là cơ hội cuối cùng để bạn được học từ A – Z những loại bánh Trung thu hot nhất với mức học phí cực tốt nên mọi người nhanh chân nhanh tay lên nha </span></p>
 <p><span style="color: #000000;"><span style="font-weight: 400;"> Bạn xem chi tiết chương trình học tại đây: </span><span style="color: #0000ff;"><strong><a href="https://bit.ly/chuongtrinhhocSD" style="color: #0000ff;">https://bit.ly/chuongtrinhhocSD</a></strong></span></span></p>
@@ -54,10 +50,7 @@ CÁCH LÀM BÁNH XÍU PÁO</h2>
 </ul>
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/NLZ_hHnDZuA" width="560"></iframe></div>
-<p><strong><span style="color: #000000;">A. Nhân bánh</span></strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong><span style="color: #000000;">A. Nhân bánh</span></strong></p>
 <p><span style="font-weight: 400; color: #000000;">1. Thịt xá xíu:</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Chần thịt trong nước sôi 2 – 3 phút rồi rửa sạch. Trộn đều các nguyên liệu sốt, điều chỉnh tùy theo khẩu vị.</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Ướp thịt tối thiểu 8 giờ.</span></p>
@@ -74,7 +67,6 @@ CÁCH LÀM BÁNH XÍU PÁO</h2>
 <p><strong><span style="color: #000000;">B. Vỏ bánh</span></strong></p>
 <p><span style="font-weight: 400; color: #000000;">1. Phần vỏ bánh thì mọi người dùng vỏ ngàn lớp trong công thức Bánh Trung thu xôi xéo:</span></p>
 
-
 <p><span style="color: #0000ff;"><a href="/video-cach-lam-banh-trung-thu-xoi-xeo-vo-banh-pia/" style="color: #0000ff;"><span style="font-weight: 400;">/video-cach-lam-banh-trung-thu-xoi-xeo-vo-banh-pia/</span></a></span></p>
 <p><span style="font-weight: 400; color: #000000;">Với riêng học viên lớp Bánh Trung thu Đài Loan thì cả nhà dùng CT vỏ bánh chuẩn Đài Loan trong lớp học nha. </span></p>
 <p><span style="font-weight: 400; color: #000000;">2. Chia bột vỏ thành các phần 30 gram, bột ruột 18 gram.</span></p>
@@ -90,4 +82,4 @@ CÁCH LÀM BÁNH XÍU PÁO</h2>
 <p><span style="font-weight: 400; color: #000000;">– Thao tác lật bánh là không bắt buộc nếu nồi chiên nhà bạn có nhiệt dưới tốt. Tuy nhiên khi lật thì phần sốt xá xíu sẽ chảy một chút ra ngoài mặt bánh, giúp mặt bánh xém vàng khá hấp dẫn.</span></p>
 <p><span style="font-weight: 400; color: #000000;">7. Bánh mới nướng xong vỏ sẽ giòn, ăn cảm giác hơi bột, tuy nhiên để qua ngày vỏ bánh sẽ tách lớp rõ hơn, ăn cũng ngon hơn. Nếu bạn muốn ăn giòn thì có thể nướng lại ở 170 – 180 độ C trong khoảng 7 – 8 phút bánh sẽ lại giòn ngon nhé.</span></p>
 <p><span style="font-weight: 400; color: #000000;">Bánh bảo quản hộp kín trong ngăn mát tủ lạnh được 4 – 5 ngày.</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

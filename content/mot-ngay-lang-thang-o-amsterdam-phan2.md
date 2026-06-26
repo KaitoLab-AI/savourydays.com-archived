@@ -12,10 +12,7 @@ description: "du lịch, amsterdam, hà lan, châu âu"
 <p>Nơi đầu tiên mà mình gặp lại (<em>nếu không tính phố đèn đỏ</em> :P) là một khu chợ hoa</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7220900700/" title="2012-05-172 by LinhTrang9185, on Flickr"><img alt="2012-05-172" class="aligncenter" height="500" loading="lazy" src="http://farm6.staticflickr.com/5240/7220900700_e0b963bd5c.jpg" width="500"/></a></p>
 <p>Ở đây ngoài hoa được trồng thành cây, bạn còn có thể tìm thấy rất nhiều loại hạt giống và “củ giống” của cực cực nhiều loài cây khác nhau nữa. Gọi là “củ giống” bởi vì đa phần các củ giống này đều trông rất giống… củ chứ không giống hạt gì cả, như thế này này (<em>Lần đầu tiên mình nhìn thấy mấy củ này, không biết nó sẽ lên thành hoa đâu, cứ nghĩ là củ gừng hay hành gì đó ấy :”&gt; )</em></p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/7220899850/" title="IMG_4625 by LinhTrang9185, on Flickr"><img alt="IMG_4625" class="aligncenter" height="331" loading="lazy" src="http://farm8.staticflickr.com/7224/7220899850_6b1d7dd61a.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7220899850/" title="IMG_4625 by LinhTrang9185, on Flickr"><img alt="IMG_4625" class="aligncenter" height="331" loading="lazy" src="http://farm8.staticflickr.com/7224/7220899850_6b1d7dd61a.jpg" width="500"/></a></p>
 <p>Đi sâu vào bên trong chợ, mình gặp lại cả mấy cửa hàng bán pho mát nằm dưới hầm. Pho mát được đóng thành từng tảng to (<em>kiểu giống như miếng pho mát trong phim hoạt hình Tom &amp; Jerry</em> ;) ) với đủ loại mùi vị, từ pho mát nguyên chất đến pho mát với các loại gia vị như tỏi, hành, mùi, húng tây, xạ hương… và có cả những miếng pho mát đã.. lên mốc xanh mốc đỏ nữa (<em>nhưng pho mát vầy mới là ngon</em> :) ).</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7220899698/" title="IMG_4628 by LinhTrang9185, on Flickr"><img alt="IMG_4628" class="aligncenter" height="500" loading="lazy" src="http://farm8.staticflickr.com/7245/7220899698_60ce9e01e4.jpg" width="338"/></a></p>
 <p>rồi một cửa hàng bán đồ chơi rất dễ thương mà hai năm trước mình có tạt vào..</p>
@@ -29,10 +26,7 @@ description: "du lịch, amsterdam, hà lan, châu âu"
 <div>nơi có cửa hàng sườn nướng yêu thích của mình ;)</div>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7220898698/" title="IMG_4642 by LinhTrang9185, on Flickr"><img alt="IMG_4642" class="aligncenter" height="354" loading="lazy" src="http://farm8.staticflickr.com/7234/7220898698_67a1615ebb.jpg" width="500"/></a></p>
 <p>Lần trước khi đến Amsterdam mình ghé qua cửa hàng này 2 hay 3 lần. Sườn ở đây khá ngon, mềm, róc xương, gia vị ướp cũng ngon, và giá thì siêu rẻ. <strong>All you can ea</strong>t, có nghĩa là chỉ với 1 số tiền nhất định (cụ thể là 9,95EUR), bạn có thể ăn bao nhiêu cũng được, đến khi nào no không ăn nổi nữa thì thôi. Mà sườn ở đây siêu bự, một đĩa cho một người phải to bằng suất loại lớn của sườn bán tại Al fresco nhà mình ấy, cho nên mình đặc biệt khoái cửa hàng này :D</p>
-<p>Đi qua khu ăn uống này thì cũng gần đến đích cuối cùng của chuyến lang thang lắm rồi. Nơi mình muốn đến ấy là Museum plein, nơi tập trung rất nhiều bảo tàng nổi tiếng của Amsterdam, và cả một dòng chữ mà chắc khách du lịch nào ghé qua Amsterdam cũng phải chạy qua đây để… chụp ảnh với nó ;) Thật ra để đến đây thì rất dễ, vì chỉ cần đi tram số 5, từ ga mất khoảng 10 phút thôi là đến nơi. Nhưng vì lần trước, khi đến đây có một con đường để đi bộ khá là thú vị, với cả có một “đứa” cũng muốn thử xem trí nhớ của nó tốt đến đâu, cho nên nhất quyết không thèm đi tram mà đi bộ, tự dò đường bằng…kỉ niệm.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Đi qua khu ăn uống này thì cũng gần đến đích cuối cùng của chuyến lang thang lắm rồi. Nơi mình muốn đến ấy là Museum plein, nơi tập trung rất nhiều bảo tàng nổi tiếng của Amsterdam, và cả một dòng chữ mà chắc khách du lịch nào ghé qua Amsterdam cũng phải chạy qua đây để… chụp ảnh với nó ;) Thật ra để đến đây thì rất dễ, vì chỉ cần đi tram số 5, từ ga mất khoảng 10 phút thôi là đến nơi. Nhưng vì lần trước, khi đến đây có một con đường để đi bộ khá là thú vị, với cả có một “đứa” cũng muốn thử xem trí nhớ của nó tốt đến đâu, cho nên nhất quyết không thèm đi tram mà đi bộ, tự dò đường bằng…kỉ niệm.</p>
 <p>Ai đó “dạy” rằng: <strong>Nhiệt tình + ngu dốt = phá hoại</strong> quả là không sai!!!</p>
 <p>Không nhớ đường, không có bản đồ trong tay, nhưng lại cứ thích tự đi, hậu quả là thế nào có lẽ ai cũng đoán được <em>(chỉ có một đứa cứng đầu là không thể nhìn thấy trước thôi</em> :-&lt;).</p>
 <p>Chuyện xảy ra tiếp theo đó, cụ thể là như này:</p>
@@ -48,7 +42,6 @@ description: "du lịch, amsterdam, hà lan, châu âu"
 <p>không phải là kiểu bảng chỉ đường cho khách du lịch đi bộ, là bảng chỉ hướng cho ô tô (kiểu như là đi hướng nào về phía Đông hay Tây của thành phố ý) :-| :((</p>
 <p>Và cuối cùng, mình cũng bắt đầu… hoảng, vì nếu có bảng chỉ đường cho ô tô thì nhiều khả năng là đã xa trung tâm thật rồi… :'( :'( Lúc này đã là quá trưa, bánh mang theo từ sáng đã hết, chân thì cảm giác như sắp rời ra đến nơi. Giờ quay lại đường cũ thìa quá dở vì sẽ mất thêm nửa tiếng nữa, nhưng cứ đi tiếp, thì chẳng biết liệu có chạy ra đến ngoại ô thành phố không.. :-s :-s</p>
 <p>Đành phải đi hỏi vậy :-&lt; (<em>haizzz…</em> h<em>óa ra đi lang thang cũng chẳng dễ chút nào, và mình thật ra cũng không “siêu” như mình tưởng</em> :-&lt; )</p>
-
 
 <p>Nghĩ như vậy rồi, thậm chí là cả ngó nghiêng xem có ai mặt mũi đủ tin cậy không để hỏi đường rồi, thì bỗng nhiên, mình thấy… cổng công viên ở ngay đằng trước, và mình đang đứng ở nơi mà mình quyết định đi theo người lạ cách đây nửa tiếng</p>
 <p>:-| :-D :-| :-D :-| :-| :-D :-| :-D :-|</p>
@@ -67,9 +60,6 @@ description: "du lịch, amsterdam, hà lan, châu âu"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

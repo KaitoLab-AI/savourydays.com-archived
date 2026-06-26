@@ -12,10 +12,7 @@ description: ""
 <p><a href="http://www.flickr.com/photos/55490207@N05/6988880674/" title="1 by LinhTrang9185, on Flickr"><img alt="1" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7081/6988880674_ef36aed1df.jpg" width="500"/></a></p>
 <p>Thật ra khi bắt đầu mở blog tại wordpress, mình không có kế hoạch hay mục đích gì to lớn, chỉ là vì thích nấu ăn và mới “lên đời” máy ảnh, chuyển từ chiếc máy kiểu Point ‘n Shot nhanh gọn sang một chiếc máy khác, tuy cũng chỉ là hàng bình dân thôi, nhưng cũng giúp ảnh thay đổi nhiều, có nhiều động lực “luyện tập” chụp choẹt hơn, cho nên muốn có một nơi để lưu lại công thức cũng như ảnh chụp, sau này nếu cần thì mở ra xem lại. Và lập nên Savoury Days từ mục đích rất chi là cá nhân ấy.</p>
 <p>Nhưng mà, như mình có viết trong lời <a href="/?page_id=5">Giới thiệu</a> đầu tiên của Savoury Days, “cuộc đời luôn có nhiều điều thú vị và không thể lường trước”. Nếu như vào thời điểm đó, mình chỉ có 2 điều “không thể lường trước” được là ngoài học, hóa ra mình còn biết làm thêm 2 việc tử tế là “nấu” và “chụp”, thì sau khi lập nên Savoury Days, có thêm một việc mà mình trước đây không thể nào và “không dám” nghĩ đến là sự phát triển rất nhanh của blog và sự quan tâm cũng như yêu mến của mọi người dành cho Savoury Days.</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/7134965637/" title="2 by LinhTrang9185, on Flickr"><img alt="2" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7076/7134965637_6999ef4644.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7134965637/" title="2 by LinhTrang9185, on Flickr"><img alt="2" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7076/7134965637_6999ef4644.jpg" width="500"/></a></p>
 <p>Trong hơn 4000 comments trên blog trong suốt thời gian vừa qua, có rất nhiều comments “báo cáo” thành quả và gửi lời cảm ơn dành cho một công thức dễ hiểu hay những bức ảnh giúp truyền tải nhiều cảm hứng để lăn vào bếp. Nhưng thật ra, mình nghĩ mình mới là người cần phải nói lời cảm ơn đến tất cả các cô chú, anh chị, bạn bè và các em đã dành thời gian theo dõi, thử nghiệm công thức, phản hồi và có cả góp ý cùng chia sẻ kinh nghiệm nữa :) Nếu không có 4000 comments kia chắc Savoury Days sẽ không “lớn” nhanh được như thế này. Và có một điều quan trọng hơn, là từ những chia sẻ của các bạn, về niềm vui khi con gái ăn hết chiếc bánh mẹ làm, hay một món ăn được chồng tấm tắc khen ngon, mà mình hiểu và cảm nhận được nhiều hơn giá trị của việc nấu ăn. Không chỉ là một món ăn hay một chiếc bánh ngon dành cho chồng con sau một ngày học và làm việc vất vả, mà là rất nhiều yêu thương được gửi gắm. Mình cũng nhận ra là thật ra nấu ăn không chỉ là vào bếp, “nghịch ngợm” một chút với nồi niêu xoong chảo, mà nhiều hơn thế, là chăm sóc những người xung quanh. Bởi vì hầu hết các comments trên Savoury Days trong năm vừa rồi đều là “nấu vì chồng/ bạn trai/ bé con…” thích những món ăn như thế :)</p>
 <p><span id="more-2453"></span></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6988880568/" title="3 by LinhTrang9185, on Flickr"><img alt="3" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7191/6988880568_d9ed8044ff.jpg" width="500"/></a></p>
@@ -25,10 +22,7 @@ description: ""
 <p>Sách có tên gọi (rất đơn giản và ngắn gọn) là “Food ‘n Craft”, dày khoảng 80 trang, định dạng pdf. Hiện tại toàn bộ phần nội dung đã xong, bọn mình đang hoàn tất những khâu cuối cùng và dự kiến là trong khoảng 2-3 tuần nữa sẽ chính thức giới thiệu đến các bạn. Cụ thể nội dung thế nào thì tạm thời chưa thể bật mí nhiều vì bọn mình vẫn đang trong khâu chỉnh sửa hoàn thiện, xin phép giới thiệu đến cả nhà bìa sách (ở trên) và một vài trang nội dung nhé ;)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7134982875/" title="Print by LinhTrang9185, on Flickr"><img alt="Print" class="aligncenter" height="253" loading="lazy" src="http://farm9.staticflickr.com/8013/7134982875_898fbc23f8.jpg" width="500"/></a></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6988907384/" title="Print by LinhTrang9185, on Flickr"><img alt="Print" class="aligncenter" height="250" loading="lazy" src="http://farm8.staticflickr.com/7071/6988907384_c0047172d6.jpg" width="500"/></a></p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/6988897902/" title="Print by LinhTrang9185, on Flickr"><img alt="Print" class="aligncenter" height="262" loading="lazy" src="http://farm9.staticflickr.com/8008/6988897902_82540d99a7.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6988897902/" title="Print by LinhTrang9185, on Flickr"><img alt="Print" class="aligncenter" height="262" loading="lazy" src="http://farm9.staticflickr.com/8008/6988897902_82540d99a7.jpg" width="500"/></a></p>
 <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
 <a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
@@ -36,9 +30,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

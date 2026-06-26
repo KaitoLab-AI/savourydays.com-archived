@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2012/04/BanhMyQue1.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><em><span style="color: #ff0000;">Các kiến thức và kĩ thuật cơ bản trong làm bánh mì (<strong>nhờ cả nhà đọc kĩ trước khi đặt câu hỏi nha</strong> :) )</span></em></p>
 <ol>
 <li>Phân biệt các loại bột làm bánh, cách sử dụng, thay thế các loại bột : <a href="/?p=1997">Phần 1</a> – <a href="/?p=2022">Phần 2</a></li>
@@ -25,10 +24,7 @@ description: ""
 <p style="text-align: center;">————————————————————</p>
 <p>Hôm qua mình mới để ý là tất cả các bài đăng trên Savoury Days từ đầu tuần đến giờ đều là về bánh mì. Không biết mọi người đã chán vì “bị” mời ăn bánh mì cả tuần chưa :D Nhưng mà đằng nào cũng trót rồi, thôi thì làm thành tuần lễ bánh mì luôn nhé ;) Sau bài này chắc mình cũng tạm nghỉ với bánh mì một chút để quay lại với Gateau và một vài loại tráng miệng khác (có sẵn cả mớ ý tưởng trong đầu rồi, mà thời gian thì chả có, chán thế :( ).</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7118008035/" title="IMG_3698-002 by LinhTrang9185, on Flickr"><img alt="IMG_3698-002" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8141/7118008035_515451cf61_z.jpg" width="434"/></a></p>
-<p>Công thức bánh mì que này mình học được từ tạp chí Dish của New Zealand, là một tạp chí ẩm thực mà mình rất thích, nhưng khi làm thì có sửa đi kha khá để cho hợp với khẩu vị của người Việt, và cho dễ làm hơn :) Đây cũng là một món bánh mì có thể dễ dàng biến tấu, tùy theo điều kiện nguyên liệu sẵn có. Công thức mà mình giới thiệu ở đây thì sử dụng hoàn toàn các gia vị kiểu Ý, kèm theo  pho mát Parmesan và dầu Olive loại nguyên chất, làm cho bánh mì có vị rất… kiểu Ý :P Các gia vị khô kiểu Ý này, ở Việt Nam theo mình biết thì các cửa hàng bán đồ nguyên liệu làm bánh hầu như đều có bán (địa chỉ cửa hàng tại Hà Nội các bạn có thể tham khảo tại <strong><a href="/?p=1623">đây</a></strong>). Tiện nhất là mua một lọ gia vị Italian mixed herbs đã trộn sẵn (gồm thyme, rosemary, oregano..), hoặc các bạn có thể tự trộn tùy theo ý thích (nếu tự trộn thì mình nghĩ những gia vị cơ bản và nên có là oregano, rosemary và parsley, những thứ khác nếu không có thì có thể bỏ qua). Pho mát Parmesan thì rất nên có vì nó làm cho bánh có vị thơm béo nhưng không ngấy, khác với bơ nhiều lắm. Còn nếu không thể kiếm được các loại gia vị của Ý thì các bạn có thể chỉ dùng bơ với tỏi (thêm dầu Olive &amp; Parmesan, nếu có) bánh cũng rất thơm, kiểu bánh mì bơ tỏi :)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Công thức bánh mì que này mình học được từ tạp chí Dish của New Zealand, là một tạp chí ẩm thực mà mình rất thích, nhưng khi làm thì có sửa đi kha khá để cho hợp với khẩu vị của người Việt, và cho dễ làm hơn :) Đây cũng là một món bánh mì có thể dễ dàng biến tấu, tùy theo điều kiện nguyên liệu sẵn có. Công thức mà mình giới thiệu ở đây thì sử dụng hoàn toàn các gia vị kiểu Ý, kèm theo  pho mát Parmesan và dầu Olive loại nguyên chất, làm cho bánh mì có vị rất… kiểu Ý :P Các gia vị khô kiểu Ý này, ở Việt Nam theo mình biết thì các cửa hàng bán đồ nguyên liệu làm bánh hầu như đều có bán (địa chỉ cửa hàng tại Hà Nội các bạn có thể tham khảo tại <strong><a href="/?p=1623">đây</a></strong>). Tiện nhất là mua một lọ gia vị Italian mixed herbs đã trộn sẵn (gồm thyme, rosemary, oregano..), hoặc các bạn có thể tự trộn tùy theo ý thích (nếu tự trộn thì mình nghĩ những gia vị cơ bản và nên có là oregano, rosemary và parsley, những thứ khác nếu không có thì có thể bỏ qua). Pho mát Parmesan thì rất nên có vì nó làm cho bánh có vị thơm béo nhưng không ngấy, khác với bơ nhiều lắm. Còn nếu không thể kiếm được các loại gia vị của Ý thì các bạn có thể chỉ dùng bơ với tỏi (thêm dầu Olive &amp; Parmesan, nếu có) bánh cũng rất thơm, kiểu bánh mì bơ tỏi :)</p>
 <p><strong>Nguyên liệu (16-20 que dài 15-18cm)</strong></p>
 <p><strong><span style="color: #800000;">Vỏ bánh</span></strong></p>
 <ul>
@@ -59,10 +55,7 @@ description: ""
 <p>(**) Có thể thay bread flour bằng bột mỳ đa dụng (all purpose flour)</p>
 <p>(***) Italian mixed herbs mà mình dùng là loại khô, gồm các loại gia vị để nấu các món Ý, như thyme, oregano, rosemary, parsley… Nếu không có loại trộn sẵn, các bạn có thể tự trộn tùy theo khẩu vị (nên có oregano, rosemary và parsley). <strong>Nếu không có hoặc không quen sử dụng các loại gia vị này,</strong> các bạn tăng lượng tỏi trong phần “quét mặt bánh” lên 8gram, và thêm 10 gram bơ (để ở nhiệt độ phòng cho mềm) rồi trộn đều. Phần nhân bánh có thể chỉ có Pho mát parmesan trộn với chút tiêu.</p>
 <p>(****) vỏ chanh <strong>bào rất rất vụn</strong>, nếu không sẽ dễ bị đắng, không bắt buộc nhưng có thì ngon hơn :)</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/6971930356/" title="IMG_3717-1 by LinhTrang9185, on Flickr"><img alt="IMG_3717-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7200/6971930356_e51a511934_z.jpg" width="437"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6971930356/" title="IMG_3717-1 by LinhTrang9185, on Flickr"><img alt="IMG_3717-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7200/6971930356_e51a511934_z.jpg" width="437"/></a></p>
 <p><span id="more-2398"></span> <strong>Cách làm</strong></p>
 <p><strong><span style="color: #800000;">Phần vỏ bánh</span></strong></p>
 <p>1. Cho đường, men, nước và sữa vào âu trộn. Hòa đều. Trong một âu/ bát to khác, cho bột, muối, Italian herbs, dùng phới lồng đánh trứng cầm tay trộn đều.</p>
@@ -79,7 +72,6 @@ description: ""
 <p>Chuẩn bị khay nướng lót giấy nướng hoặc tấm nướng (baking mat(.</p>
 <p>7. Dùng chổi quết hỗn hợp dầu Olive và tỏi lên mặt bột (hình 10). Rắc “nhân” lên trên (hình 11). Dùng dao sắc cắt bột thành các dải bột dài khoảng 20 cm, rộng 0.8 – 1cm (hình 12). Hoặc có một cách đơn giản hơn là cắt bột thành các dải 10 x 2cm rồi vê cho dải bột thuôn dài &amp; thon hơn.</p>
 
-
 <p><a href="http://www.flickr.com/photos/55490207@N05/7118008189/" title="3 by LinhTrang9185, on Flickr"><img alt="3" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7237/7118008189_04d10c4a8d.jpg" width="500"/></a></p>
 <p>8. Gấp đôi dải bột rồi xoắn lại (hình 13). Đặt dải bột lên khay. Cách nhau khoảng 2cm. Nếu muốn làm que “gầy” thì các bạn có thể không cần gấp đôi, chỉ cần xoắn que bột lại là xong. Bột ở giai đoạn này đã được nghỉ đủ nên thường là rất dễ xoắn, không bị co rút. Nếu bột bị co rút thì các bạn để bột nghỉ thêm 5 phút rồi tiếp tục tạo hình nhé.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6971930776/" title="4 by LinhTrang9185, on Flickr"><img alt="4" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7077/6971930776_feca3b9330.jpg" width="500"/></a></p>
@@ -91,4 +83,4 @@ description: ""
 <p>Chúc các bạn một kì nghỉ lễ vui vẻ :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7118008419/" title="IMG_3691-1 by LinhTrang9185, on Flickr"><img alt="IMG_3691-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8006/7118008419_1598087885_z.jpg" width="426"/></a></p>
 <p> </p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

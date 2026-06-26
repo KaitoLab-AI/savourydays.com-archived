@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2013/01/MamTomChua1.jpg"
 description: "mắm tôm chua, tôm chua huế, cách làm tôm chua"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi</span> </strong></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
 <p><span style="color: #000000;">——————————————</span></p>
 <p>Vốn dĩ là mình định đợi lọ tôm đang ủ ngấu hẳn để chụp một vài tấm hình tử tế, nhưng vì đã hứa với khá nhiều bạn sẽ đăng công thức sớm để mọi người kịp chuẩn bị cho Tết nên riêng về phần hình ảnh trong bài này chỉ mang tính “phóng sự” thôi nhé ;)</p>
-<p>Nói thật là mình chưa bao giờ nghĩ rằng có một ngày mình có thể tự làm được Tôm chua Huế hay Mắm tôm chua. Đây là một trong những món ăn mà khi ở nhà mình rất rất rất thích. Sang bên này trong chợ châu Á cũng có nhưng xuất xứ sản phẩm không rõ từ Việt Nam hay Trung Quốc nên mình không dám ăn. Giờ thì thoải mái rồi, tôm nhà tự làm, vừa to vừa ngon mà mùi vị thì tuyệt cú mèo. Sau thịt bò khô, có lẽ đây là món thứ hai làm cho mình có cảm giác “hạnh phúc” như thế khi làm thành công :) Cách làm này hoàn toàn không khó và không yêu cầu quá nhiều nguyên liệu cầu kì, khả năng thành công rất cao nên kể cả bạn nào không thạo viêc bếp núc lắm thì cũng yên tâm nhé.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Nói thật là mình chưa bao giờ nghĩ rằng có một ngày mình có thể tự làm được Tôm chua Huế hay Mắm tôm chua. Đây là một trong những món ăn mà khi ở nhà mình rất rất rất thích. Sang bên này trong chợ châu Á cũng có nhưng xuất xứ sản phẩm không rõ từ Việt Nam hay Trung Quốc nên mình không dám ăn. Giờ thì thoải mái rồi, tôm nhà tự làm, vừa to vừa ngon mà mùi vị thì tuyệt cú mèo. Sau thịt bò khô, có lẽ đây là món thứ hai làm cho mình có cảm giác “hạnh phúc” như thế khi làm thành công :) Cách làm này hoàn toàn không khó và không yêu cầu quá nhiều nguyên liệu cầu kì, khả năng thành công rất cao nên kể cả bạn nào không thạo viêc bếp núc lắm thì cũng yên tâm nhé.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8404325343/" title="IMG_8988 by LinhTrang9185, on Flickr"><img alt="IMG_8988" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8506/8404325343_95df659494.jpg" width="500"/></a></p>
 <p>Có một lưu ý mình muốn nhấn mạnh ngay từ đầu là mùi vị của tôm chua phụ thuộc rất nhiều vào tỉ lệ các loại mắm đường trong nước ngâm tôm. Nhưng <strong>tỉ lệ này không cố định do nước mắm có thể mặn nhạt khác nhau và khẩu vị của mỗi gia đình cũng khác nhau</strong>. Cho nên p<strong>hần định lượng trong công thức của mình chỉ là để tham khảo</strong>. <strong>Ngoài công thức, các bạn đọc kĩ những phần ghi chú bổ sung và giải thích đi kèm của mình nhé.</strong></p>
 <p>Có nhiều cách làm tôm chua. Mình dùng Google và cả đi hỏi bạn bè nữa thì tìm được khoảng vài chục trang công thức + kinh nghiệm. Sau khi đọc hết thì có mấy điểm chính trong cách làm tôm chua mà mình rút ra được là:</p>
@@ -26,10 +22,7 @@ description: "mắm tôm chua, tôm chua huế, cách làm tôm chua"
 <p>– Phơi tôm ở nơi <strong>ấm áp</strong> nhưng <strong>khô ráo và thoáng.</strong> Cách phổ biến nhất là phơi nắng. Mùa này ở nơi mình ở thì hoàn toàn không có nắng, cho nên mình đã thử thay phơi nắng bằng việc <strong>đặt lọ tôm cạnh lò sưởi</strong>, kết quả rất mĩ mãn. Có một số cách tương tự là dùng đèn trong lò nướng hoặc dùng bóng đèn vàng có công suất lớn để chiếu vào lọ tôm.</p>
 <p>– Dùng <strong>rượu mạnh</strong> pha kèm nước ngâm tôm. Ví dụ: <strong>Vodka</strong>. Nhà mình không có Vodka nhưng Rum thì rất sẵn (để làm bánh), nên mình <strong>dùng Rum thay thế</strong>. Rum có vị ngọt và thơm nên mình thấy rất ổn :)</p>
 <p>– Dùng <strong>xôi nếp hoặc bột nếp quấy chín</strong> pha kèm nước ngâm tôm. Cách này có một số công thức làm, một số không. Mình đã thử cả hai cách, thì thấy là bột nếp có vẻ giúp cho tôm lên men nhanh hơn rất nhiều. Mùi vị cũng hấp dẫn hơn so với khi không dùng bột nếp. Và cách dùng bột nếp với các gia vị nóng này làm mình liên tưởng đến <a href="/cach-lam-kim-chi/">cách làm kim chi</a>, cũng với các nguyên liệu tương tự, cho nên mặc dù không hiểu thật rõ nguyên lý lên men nhưng mình cảm thấy khá là yên tâm.</p>
-<p>3. Về tỉ lệ pha mắm đường trong nước ngâm tôm. Như đã nói ở trên, tỉ lệ này không cố định vì còn phụ thuộc vào độ mặn nhạt của loại nước mắm bạn dùng và khẩu vị của gia đình. Cho nên chắc sẽ cần làm 1, 2 lần để điều chỉnh. Bản thân mình sau khoảng 4 lần thử thì mình thấy <strong>với 500gram tôm, dùng khoảng 110-130gram đường, 100-120ml nước mắm là vừa phải.</strong> Đường tối thiểu nên bằng với lượng nước mắm để tôm có vị mặn ngọt vừa ăn.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>3. Về tỉ lệ pha mắm đường trong nước ngâm tôm. Như đã nói ở trên, tỉ lệ này không cố định vì còn phụ thuộc vào độ mặn nhạt của loại nước mắm bạn dùng và khẩu vị của gia đình. Cho nên chắc sẽ cần làm 1, 2 lần để điều chỉnh. Bản thân mình sau khoảng 4 lần thử thì mình thấy <strong>với 500gram tôm, dùng khoảng 110-130gram đường, 100-120ml nước mắm là vừa phải.</strong> Đường tối thiểu nên bằng với lượng nước mắm để tôm có vị mặn ngọt vừa ăn.</p>
 <p style="text-align: center;"><em>Lọ tôm (không dùng bột nếp) sau 15 ngày :)</em></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8405418628/" title="IMG_9188 by LinhTrang9185, on Flickr"><img alt="IMG_9188" class="aligncenter" height="500" loading="lazy" src="http://farm9.staticflickr.com/8092/8405418628_206c815911.jpg" width="418"/></a></p>
 <p><b><span style="color: #800000;">Nguyên liệu</span> </b></p>
@@ -69,7 +62,6 @@ description: "mắm tôm chua, tôm chua huế, cách làm tôm chua"
 <p>Dùng nan tre hoặc vật tương tự để gài cho tôm và riềng tỏi ngập trong nước ngâm. Hàng ngày mang lọ tôm ra phơi nắng (hoặc để cạnh lò sưởi, dùng đèn lò nướng… như giải thích ở trên).</p>
 <p>Nếu làm theo cách này thì sang ngày thứ 2 đã có thể thấy mùi tôm chua rất thơm và trong lọ bắt đầu có hiện tượng lên men (bong bóng khí nổi liên tục lên bề mặt). Nếu có thêm điều kiện về nhiệt độ thì sau khoảng 7 ngày là tôm có thể ăn được rồi. Nhưng mình thấy ngon nhất là sau khoảng 10-12 ngày, tôm rất ngấu, thịt giòn chắc, vỏ mềm, thơm phức mùi riềng tỏi và vị chua mặn ngọt dịu dàng :)</p>
 
-
 <p>Sau khi tôm đã đủ chua, các bạn có thể để trong tủ lạnh, ăn dần trong khoảng 1-2 tháng. Lưu ý là tôm càng phơi nắng nhiều thì sẽ chua càng nhiều nên sau khi tôm bắt đầu đỏ các bạn nên kiểm tra liên tục, tránh để tôm bị chua quá nhé.</p>
 <p>* <strong>Lưu ý quan trọng</strong>: <em><strong>Để tránh tôm bị mốc thì</strong></em>:</p>
 <ul>
@@ -79,4 +71,4 @@ description: "mắm tôm chua, tôm chua huế, cách làm tôm chua"
 <li><span style="color: #ff0000;">Hỗn hợp luôn ngập trong nước ngâm</span></li>
 <li><span style="color: #ff0000;">Nếu không dùng tôm trong một lần thì mỗi lần lấy tôm phải dùng đũa sạch, sau khi lấy xong lại gài nan tre để phần còn lại không bị nổi lên.</span></li>
 </ul>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

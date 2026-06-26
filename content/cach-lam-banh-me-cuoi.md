@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2020/04/cách-làm-bánh-mè-cười-banner.jpg"
 description: "Cách làm bánh mè cười thơm ngon, không cần lò nướng, rất đơn giản. Bánh có lớp vỏ vàng giòn rụm, bên trong mềm xốp, béo bùi nhờ bí đỏ, trứng và sữa"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #ff0000;"><strong>NHẮN: ƯU ĐÃI GIẢM 25% học phí các lớp học làm bánh Online của SD chỉ kéo dài đến hết thứ tư tuần sau (ngày 15.4). Các bạn xem thêm chi tiết ở đây nhé: <a href="/lop-hoc-lam-banh/">/lop-hoc-lam-banh/</a></strong></span></p>
 <p>————-</p>
 <p><span style="color: #000000;">Nàng Bân lại quay trở lại với miền Bắc. Sáng nay dậy nghe tiếng gió rít ngoài cửa thôi là khỏi cần mở cũng biết bên ngoài thế nào rồi. Trời lạnh lại còn vẫn đang “dãn cách xã hội”, ở nhà làm cái gì vừa ấm vừa thơm là thích nhất phải không?</span></p>
 <p><span style="color: #000000;">Món bánh này là do cả team SD cùng làm, không nhớ lý do vì sao nhưng làm xong rồi ai cũng thích. Nhìn bên ngoài thì thấy be bé xinh xinh đáng yêu, nếm thử sẽ thấy trong lớp vỏ giòn và thơm bùi mùi vừng là lớp bánh mềm xốp, ngọt ngậy của bơ và sữa. Bánh lại có màu vàng đẹp tự nhiên nhờ bí đỏ (và cũng nhờ bí đỏ nên món bánh này <em>healthy</em> hơn mấy loại bánh rán khác nữa). Cách làm đơn giản, không có nhiều lưu ý và gần như không thể hỏng. Nhà ai đang có sẵn nguyên liệu thì tối nay triển luôn cũng được ạ ;)</span></p>
-<p><img alt="" class="aligncenter size-large wp-image-8545" height="1024" loading="lazy" sizes="(max-width: 744px) 100vw, 744px" src="/wp-content/uploads/2020/04/cách-làm-bánh-mè-cười-2-744x1024.jpg" width="744"/></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><img alt="" class="aligncenter size-large wp-image-8545" height="1024" loading="lazy" sizes="(max-width: 744px) 100vw, 744px" src="/wp-content/uploads/2020/04/cách-làm-bánh-mè-cười-2-744x1024.jpg" width="744"/></p>
 <h2><strong>CÁCH LÀM BÁNH MÈ CƯỜI </strong></h2>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <ul>
@@ -38,10 +34,7 @@ description: "Cách làm bánh mè cười thơm ngon, không cần lò nướng
 <p><span style="color: #000000;">3. Tạo một lỗ giữa âu bột, cho phần chất lỏng ở bước 1 vào, trộn đều đến khi bột hòa quyện thành 1 khối. Đậy kín âu và để bột nghỉ trong 30 – 45 phút.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8534" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2020/04/Cách-làm-bánh-mè-cười-bước-3-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">4. </span><span style="color: #000000;">Chuẩn bị một bát nước nhỏ, một đĩa vừng trắng. Chia bột thành các viên bằng nhau, mỗi viên nặng 20 – 25 gram, vê tròn.</span></p>
-<p><img alt="" class="aligncenter size-large wp-image-8535" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2020/04/Cách-làm-bánh-mè-cười-bước-4-1024x683.jpg" width="1024"/></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><img alt="" class="aligncenter size-large wp-image-8535" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2020/04/Cách-làm-bánh-mè-cười-bước-4-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">5. Đun nóng dầu ở lừa vừa đến khi nhúng đũa vào thấy đầu đũa có bong bóng nổi lên nhưng không quá nhiều, không đun đến khi dầu sôi. Để lửa ở mức thấp – trung bình. Với bếp điện thì là mức lửa 4 – 5/10.</span></p>
 <p><span style="color: #000000;"><strong>Lưu ý: Dầu cần đủ nóng để bánh nở, nhưng không quá sôi sẽ làm bánh bị cháy trong khi bên trong chưa chín</strong>.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8536" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2020/04/Cách-làm-bánh-mè-cười-bước-6-1024x683.jpg" width="1024"/></p>
@@ -58,9 +51,8 @@ description: "Cách làm bánh mè cười thơm ngon, không cần lò nướng
 <p><em>Bánh sẽ tự “cười toe toét” thế này ;) </em></p>
 <p><img alt="" class="aligncenter size-large wp-image-8542" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2020/04/Cách-làm-bánh-mè-cười-bước-7c-1024x683.jpg" width="1024"/></p>
 
-
 <p><em>Bánh thành phẩm có lớp vỏ giòn thơm, vàng đều. Dùng nóng rất ngon </em></p>
 <p><img alt="" class="aligncenter size-large wp-image-8543" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2020/04/cách-làm-bánh-mè-cười-1-1024x683.jpg" width="1024"/></p>
 <p>Ruột bánh chín mềm xốp, thơm béo bùi. Nếu ruột bánh chưa chín, còn mùi bột hay nguyên liệu sống thì chỉ có 1 nguyên nhân là bạn để lửa hơi cao quá làm bên ngoài chín nhưng trong chưa chín hết. Nên rán thử vài cái để thử nhiệt độ dầu rồi rán nhiều  thì an toàn hơn.</p>
 <p><img alt="" class="aligncenter size-large wp-image-8544" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2020/04/cách-làm-bánh-mè-cười-3-1024x683.jpg" width="1024"/></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

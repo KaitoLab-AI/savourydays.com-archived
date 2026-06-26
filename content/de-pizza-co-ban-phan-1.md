@@ -12,10 +12,7 @@ description: "cách làm pizza tại nhà, công thức pizza đơn giản, pizz
 <p><span style="color: #ff0000;">*</span> <strong><span style="color: #ff0000;">Toàn bộ nội dung bài viết và hình ảnh thuộc bản quyền của Savoury Days (trừ các hình ảnh &amp; nội dung có ghi nguồn trích dẫn). Vui lòng không sao chép, đăng tải hoặc sử dụng lại dưới bất kì hình thức nào nếu không có sự đồng ý của tác giả.</span></strong></p>
 <p>———————————-</p>
 <p>Tiếp tục về Pizza nhé :)</p>
-<p>Trong số các loại bánh mà mình đã học và làm thì Pizza là một trong những loại bánh mang lại cho mình nhiều thú vị và bất ngờ nhất. Nói thật là lúc đầu khi tập làm Pizza mình cực kì chủ quan, vì đọc qua một vài công thức thấy khá là đơn giản, cũng không khác với bánh mì mấy, thậm chí là còn dễ hơn nhiều loại bánh mì. Cho nên cứ thế lao vào làm. Mà có lẽ là vì tự làm được Pizza tại nhà, cho nên lần đầu tiên làm Pizza xong thì thấy… sướng kinh khủng, kiểu như mình vừa làm được một điều gì rất “vĩ đại” ý :D Xong rồi còn đi khoe ầm ỹ là đã tự sản xuất được Pizza Italia tại nhà nữa chứ :”&gt;</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Trong số các loại bánh mà mình đã học và làm thì Pizza là một trong những loại bánh mang lại cho mình nhiều thú vị và bất ngờ nhất. Nói thật là lúc đầu khi tập làm Pizza mình cực kì chủ quan, vì đọc qua một vài công thức thấy khá là đơn giản, cũng không khác với bánh mì mấy, thậm chí là còn dễ hơn nhiều loại bánh mì. Cho nên cứ thế lao vào làm. Mà có lẽ là vì tự làm được Pizza tại nhà, cho nên lần đầu tiên làm Pizza xong thì thấy… sướng kinh khủng, kiểu như mình vừa làm được một điều gì rất “vĩ đại” ý :D Xong rồi còn đi khoe ầm ỹ là đã tự sản xuất được Pizza Italia tại nhà nữa chứ :”&gt;</p>
 <p>Nhưng sau một vài lần đầu tiên “nông nổi &amp; dại khờ” như vậy thì mình bắt đầu cảm thấy Pizza của mình làm có cái gì đó không ổn. Đế vẫn chưa được giòn, chưa được thật ngon, nướng xong thì tạm ổn chứ để nguội một chút là mềm và dai. Thế là mình bắt tay vào “làm nghiên cứu” về Pizza, đọc tài liệu, xem clip dạy thực hành, tìm các mẹo dạy làm Pizza…. rồi áp dụng vào thực hành, rồi phát hiện ra là cái Pizza đầu tiên mà mình đã từng rất tự hào ý chắc giỏi lắm chỉ đạt điểm 3/10 là cùng (ngượng thế chứ :”&gt; :”&gt;)</p>
 <p>Nhưng mà quả thực là càng ngồi xem các tài liệu hướng dẫn cách làm Pizza và mẹo làm Pizza thì mình càng thấy thích và hứng thú hơn, vì không chỉ là học được thêm rất nhiều kiến thức mới mà còn sửa được kha khá lỗi sai và hiểu lầm về Pizza nữa. Hóa ra để làm được Pizza ngon hoàn toàn không đơn giản, vấn đề không chỉ là một công thức chuẩn, mà còn cần cả các yếu tố khác như là nhiệt độ lò nướng, dụng cụ nướng, và đặc biệt là tay nghề của người làm nữa (giá mà có thể được vào bếp làm Pizza trong một nhà hàng chuyên về Pizza để học các bí kíp từ đầu bếp thì thích biết mấy :&gt;).</p>
 <p style="text-align: center;"><em>Pizza với Pizza sauce, thịt gà, nấm tươi, Olive, pho mát Mozzarella và rau Rucola tươi</em></p>
@@ -25,10 +22,7 @@ description: "cách làm pizza tại nhà, công thức pizza đơn giản, pizz
 <p>Để làm ra được Pizza như vậy thì có một vài điểm cần lưu ý trong quá trình nhồi bột và nướng đế như sau:</p>
 <p><span id="more-2770"></span><strong><span style="color: #800000;">1. Bột nhồi làm đế Pizza nên ẩm, ướt, nhão (tỉ lệ chất lỏng: bột cao)</span>.</strong></p>
 <p>Thường thì bột đế Pizza có thành phần nguyên liệu rất đơn giản, chỉ gồm các nguyên liệu cơ bản như bột mì, muối, men nở, nước, đường hoặc mật ong, cho nên độ ẩm của bột bánh ở đây được thể hiện qua tỉ lệ nước: bột trong công thức. Thông thường, nếu dùng bột làm bánh mì (bread flour) thì <strong>tỉ lệ giữa tổng lượng nước: tổng lượng bột trong công thức = 60%</strong> là tỉ lệ gần như được coi là chuẩn và cân bằng, thấp hơn (tức là ít nước hơn) sẽ làm bánh bị khô cứng. Cho nên <strong>với Pizza, tỉ lệ nước: bột ít nhất cũng phải bằng tỉ lệ 60% này. Tốt hơn nữa là tỉ lệ nước: bột dao động trong khoảng <span style="color: #800000;">65-68%</span>.</strong></p>
-<p>Thật ra khi nước bằng 65% bột hoặc nhiều hơn là bột bắt đầu khá ướt và nhão rồi. Nhào bằng máy thì không vấn đề gì, chứ nhào bằng tay, nhất là bạn nào không quen sẽ thấy khá là vất vả. Cũng có một số mẹo để nhào bột có nhiều nước dễ hơn, mình sẽ viết cụ thể hơn trong phần công thức sau. Nhìn chung thì mình thấy <strong>nếu nhồi bột bằng máy, nên cho nước khoảng 67-68% bột, còn nhồi tay thì thấp hơn một chút: 63-65%, cố gắng giữ không để xuống thấp hơn 62% nhé. </strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Thật ra khi nước bằng 65% bột hoặc nhiều hơn là bột bắt đầu khá ướt và nhão rồi. Nhào bằng máy thì không vấn đề gì, chứ nhào bằng tay, nhất là bạn nào không quen sẽ thấy khá là vất vả. Cũng có một số mẹo để nhào bột có nhiều nước dễ hơn, mình sẽ viết cụ thể hơn trong phần công thức sau. Nhìn chung thì mình thấy <strong>nếu nhồi bột bằng máy, nên cho nước khoảng 67-68% bột, còn nhồi tay thì thấp hơn một chút: 63-65%, cố gắng giữ không để xuống thấp hơn 62% nhé. </strong></p>
 <p><span style="color: #800000;"><strong>2. Tạo hình đế Pizza bằng tay, không dùng cây lăn bột để cán</strong></span></p>
 <p>Trong tất cả các hướng dẫn làm Pizza mà mình đọc, cùng các video clip hướng dẫn làm Pizza của nước ngoài, mình không thấy có ai tạo hình Pizza bằng cách cán bột. Tất cả đều dùng tay để tạo hình đế Pizza (tròn hoặc chữ nhật…). Một số thợ chuyên nghiệp còn biểu diễn cả cách tạo hình Pizza theo kiểu xoay tròn trên tay hoặc tung lên không trung, kiểu như thế này:</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7185994357/" title="6a00e008c8a98388340120a5c02d15970b-800wi by LinhTrang9185, on Flickr"><img alt="6a00e008c8a98388340120a5c02d15970b-800wi" class="aligncenter" height="336" loading="lazy" src="http://farm9.staticflickr.com/8156/7185994357_be9080e158.jpg" width="500"/></a></p>
@@ -45,7 +39,6 @@ description: "cách làm pizza tại nhà, công thức pizza đơn giản, pizz
 <p style="text-align: center;"><em>Hình minh họa lấy từ: http://www.3-2-1-pizza.co.uk/contents/en-uk/contactus.html</em></p>
 <p>Nói là vậy, nhưng không phải ai cũng có điều kiện mua Pizza stone. Mình cũng không kiếm được nên mình thay thế bằng cách dùng <strong>đế của khuôn nướng bánh (khuôn rời, gỡ phần đế ra</strong>). Các bạn cũng có thể dùng một chiếc chảo kim loại chịu và dẫn nhiệt tốt, hoặc khay nướng bánh dạng chữ nhật chẳng hạn. Lưu ý là các vật này sẽ được làm nóng cùng với lò, khi đưa Pizza vào nướng thì các vật này đã rất nóng rồi, nên tuy không hoàn hảo được như Pizza stone nhưng chắc chắn vẫn tốt hơn rất nhiều là không dùng gì ;)</p>
 
-
 <p>Đây là một vài điểm cần chú ý cơ bản khi nướng Pizza đế giòn. Phần tiếp theo mình sẽ viết công thức và cách làm cụ thể đế Pizza giòn nhé.</p>
 <p style="text-align: center;"><em>Bolognese Pizza (Pizza với sốt bò bằm cà chua kiểu Ý, ớt chuông xanh và pho mát Parmesan)</em></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7371228710/" title="Bolognese pizza by LinhTrang9185, on Flickr"><img alt="Bolognese pizza" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7229/7371228710_6ef2604c60_z.jpg" width="450"/></a></p>
@@ -57,9 +50,6 @@ description: "cách làm pizza tại nhà, công thức pizza đơn giản, pizz
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

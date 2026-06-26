@@ -10,17 +10,20 @@
 <header>
   <nav>
     <a class="site-title" href="/savourydays.com-archived/"><span>Savoury</span> Days</a>
-    <a href="/savourydays.com-archived/">Trang chủ</a>
+    <span class="spacer"></span>
+    <input id="search-box" type="search" placeholder="Tìm công thức…" autocomplete="off">
   </nav>
 </header>
 <main>
 <div class="container">
-  <h1 style="margin-bottom:1.5rem;">Công thức nấu ăn</h1>
-  <div class="recipe-grid">
+  <div class="index-header">
+    <h1>Công thức nấu ăn</h1>
+  </div>
+  <div class="recipe-grid" id="recipe-grid">
     
-    <a class="recipe-card" href="/savourydays.com-archived/quay-nong/">
+    <a class="recipe-card" href="/savourydays.com-archived/quay-nong/" data-title="quẩy nóng – cách làm có & không dùng bột khai">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/10/QuayNong.jpg" alt="Quẩy nóng – Cách làm có & không dùng bột khai" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/10/QuayNong.jpg" alt="Quẩy nóng – Cách làm có & không dùng bột khai" loading="lazy">
       
       <div class="card-body">
         <h2>Quẩy nóng – Cách làm có & không dùng bột khai</h2>
@@ -29,9 +32,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/banh-cuon-chiffon/">
+    <a class="recipe-card" href="/savourydays.com-archived/banh-cuon-chiffon/" data-title="bánh cuộn chiffon – vị chocolate">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/10/banhcuonChocolate.jpg" alt="Bánh cuộn Chiffon – vị Chocolate" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/10/banhcuonChocolate.jpg" alt="Bánh cuộn Chiffon – vị Chocolate" loading="lazy">
       
       <div class="card-body">
         <h2>Bánh cuộn Chiffon – vị Chocolate</h2>
@@ -40,9 +43,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/tai-sao-3-trung-chi-duoc-5cm/">
+    <a class="recipe-card" href="/savourydays.com-archived/tai-sao-3-trung-chi-duoc-5cm/" data-title="tại sao 3 trứng chỉ nở được 5cm?">
       
-      <div style="height:160px;background:#f0e6d6;"></div>
+      <div class="thumb-placeholder">🍜</div>
       
       <div class="card-body">
         <h2>Tại sao 3 trứng chỉ nở được 5cm?</h2>
@@ -53,9 +56,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/banh-bao-nhan-xa-xiu/">
+    <a class="recipe-card" href="/savourydays.com-archived/banh-bao-nhan-xa-xiu/" data-title="cách làm bánh bao – bánh bao nhân xá xíu">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/09/BanhBaoXaXiu1.jpg" alt="Cách làm bánh bao – Bánh bao nhân xá xíu" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/09/BanhBaoXaXiu1.jpg" alt="Cách làm bánh bao – Bánh bao nhân xá xíu" loading="lazy">
       
       <div class="card-body">
         <h2>Cách làm bánh bao – Bánh bao nhân xá xíu</h2>
@@ -64,9 +67,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/kham-pha-am-thuc-istanbul/">
+    <a class="recipe-card" href="/savourydays.com-archived/kham-pha-am-thuc-istanbul/" data-title="khám phá ẩm thực istanbul">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/09/IstanbulAmThuc.jpg" alt="Khám phá ẩm thực Istanbul" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/09/IstanbulAmThuc.jpg" alt="Khám phá ẩm thực Istanbul" loading="lazy">
       
       <div class="card-body">
         <h2>Khám phá ẩm thực Istanbul</h2>
@@ -77,9 +80,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/red-velvet-cake/">
+    <a class="recipe-card" href="/savourydays.com-archived/red-velvet-cake/" data-title="red velvet cake">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/09/RedVelvetCake1.jpg" alt="Red Velvet Cake" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/09/RedVelvetCake1.jpg" alt="Red Velvet Cake" loading="lazy">
       
       <div class="card-body">
         <h2>Red Velvet Cake</h2>
@@ -88,9 +91,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/banh-phu-si-va-cach-lam-banh-ga-to-voi-noi-hap-2/">
+    <a class="recipe-card" href="/savourydays.com-archived/banh-phu-si-va-cach-lam-banh-ga-to-voi-noi-hap-2/" data-title="bánh phú sĩ và cách làm bánh ga-tô với nồi hấp">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/09/BanhPhuSi.jpg" alt="Bánh Phú Sĩ và Cách làm bánh ga-tô với nồi hấp" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/09/BanhPhuSi.jpg" alt="Bánh Phú Sĩ và Cách làm bánh ga-tô với nồi hấp" loading="lazy">
       
       <div class="card-body">
         <h2>Bánh Phú Sĩ và Cách làm bánh ga-tô với nồi hấp</h2>
@@ -99,9 +102,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/istanbul-bazzzaaaaaarrrrrrr-va-chuyen-mua-sam/">
+    <a class="recipe-card" href="/savourydays.com-archived/istanbul-bazzzaaaaaarrrrrrr-va-chuyen-mua-sam/" data-title="istanbul – bazzzaaaaaarrrrrrr và chuyện mua sắm">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/08/IstanbulBazaar.jpg" alt="Istanbul – Bazzzaaaaaarrrrrrr và Chuyện mua sắm" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/08/IstanbulBazaar.jpg" alt="Istanbul – Bazzzaaaaaarrrrrrr và Chuyện mua sắm" loading="lazy">
       
       <div class="card-body">
         <h2>Istanbul – Bazzzaaaaaarrrrrrr và Chuyện mua sắm</h2>
@@ -112,9 +115,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/istanbul-choi/">
+    <a class="recipe-card" href="/savourydays.com-archived/istanbul-choi/" data-title="istanbul – chơi">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/08/IstanbulChoi.jpg" alt="Istanbul – Chơi" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/08/IstanbulChoi.jpg" alt="Istanbul – Chơi" loading="lazy">
       
       <div class="card-body">
         <h2>Istanbul – Chơi</h2>
@@ -125,9 +128,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/thong-bao-v-v-nang-cap-server-tam-nghi-va-kiem-duyet-phan-hoi/">
+    <a class="recipe-card" href="/savourydays.com-archived/thong-bao-v-v-nang-cap-server-tam-nghi-va-kiem-duyet-phan-hoi/" data-title="thông báo: v/v nâng cấp server, tạm nghỉ, và kiểm duyệt phản hồi">
       
-      <div style="height:160px;background:#f0e6d6;"></div>
+      <div class="thumb-placeholder">🍜</div>
       
       <div class="card-body">
         <h2>Thông báo: v/v Nâng cấp Server, Tạm nghỉ, và Kiểm duyệt phản hồi</h2>
@@ -138,9 +141,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/summer-berry-sponge-cake-gateau-dau-va-kem-tuoi/">
+    <a class="recipe-card" href="/savourydays.com-archived/summer-berry-sponge-cake-gateau-dau-va-kem-tuoi/" data-title="summer berry sponge cake – gateau dâu và kem tươi">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/08/StrawberryCake.jpg" alt="Summer berry sponge cake – Gateau dâu và kem tươi" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/08/StrawberryCake.jpg" alt="Summer berry sponge cake – Gateau dâu và kem tươi" loading="lazy">
       
       <div class="card-body">
         <h2>Summer berry sponge cake – Gateau dâu và kem tươi</h2>
@@ -149,9 +152,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/cuoi-tuan-lien-khuc-nuong/">
+    <a class="recipe-card" href="/savourydays.com-archived/cuoi-tuan-lien-khuc-nuong/" data-title="cuối tuần: liên khúc… nướng">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/08/LienKhucNuong.jpg" alt="Cuối tuần: Liên khúc… nướng" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/08/LienKhucNuong.jpg" alt="Cuối tuần: Liên khúc… nướng" loading="lazy">
       
       <div class="card-body">
         <h2>Cuối tuần: Liên khúc… nướng</h2>
@@ -160,9 +163,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/passion-fruit-delight/">
+    <a class="recipe-card" href="/savourydays.com-archived/passion-fruit-delight/" data-title="passion fruit delight">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/08/PassionFruitDelight.jpg" alt="Passion fruit delight" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/08/PassionFruitDelight.jpg" alt="Passion fruit delight" loading="lazy">
       
       <div class="card-body">
         <h2>Passion fruit delight</h2>
@@ -171,9 +174,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/cho-va-com-cuoi-tuan/">
+    <a class="recipe-card" href="/savourydays.com-archived/cho-va-com-cuoi-tuan/" data-title="chợ (và cơm) cuối tuần">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/08/ChoCuoiTuan.jpg" alt="Chợ (và cơm) cuối tuần" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/08/ChoCuoiTuan.jpg" alt="Chợ (và cơm) cuối tuần" loading="lazy">
       
       <div class="card-body">
         <h2>Chợ (và cơm) cuối tuần</h2>
@@ -184,9 +187,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/black-forest-trifle-mini-black-forest-cakes/">
+    <a class="recipe-card" href="/savourydays.com-archived/black-forest-trifle-mini-black-forest-cakes/" data-title="black forest trifle & mini black forest cakes">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/08/BlackForestTriffle.jpg" alt="Black forest trifle & Mini black forest cakes" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/08/BlackForestTriffle.jpg" alt="Black forest trifle & Mini black forest cakes" loading="lazy">
       
       <div class="card-body">
         <h2>Black forest trifle & Mini black forest cakes</h2>
@@ -195,9 +198,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/privacy-policy/">
+    <a class="recipe-card" href="/savourydays.com-archived/privacy-policy/" data-title="privacy policy">
       
-      <div style="height:160px;background:#f0e6d6;"></div>
+      <div class="thumb-placeholder">🍜</div>
       
       <div class="card-body">
         <h2>Privacy policy</h2>
@@ -206,9 +209,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/tart-hoa-qua-fruit-tart-ct-de-cua-gordon-ramsay/">
+    <a class="recipe-card" href="/savourydays.com-archived/tart-hoa-qua-fruit-tart-ct-de-cua-gordon-ramsay/" data-title="tart hoa quả (fruit tart) – ct đế bánh của gordon ramsay">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/07/FruitTart.jpg" alt="Tart hoa quả (Fruit tart) – CT đế bánh của Gordon Ramsay" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/07/FruitTart.jpg" alt="Tart hoa quả (Fruit tart) – CT đế bánh của Gordon Ramsay" loading="lazy">
       
       <div class="card-body">
         <h2>Tart hoa quả (Fruit tart) – CT đế bánh của Gordon Ramsay</h2>
@@ -217,9 +220,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/cheesecake-so-co-la-chuoi-vertical-cheesecake/">
+    <a class="recipe-card" href="/savourydays.com-archived/cheesecake-so-co-la-chuoi-vertical-cheesecake/" data-title="cheesecake sô-cô-la chuối (vertical cheesecake)">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/07/CheeseCakeChuoi.jpg" alt="Cheesecake sô-cô-la chuối (Vertical cheesecake)" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/07/CheeseCakeChuoi.jpg" alt="Cheesecake sô-cô-la chuối (Vertical cheesecake)" loading="lazy">
       
       <div class="card-body">
         <h2>Cheesecake sô-cô-la chuối (Vertical cheesecake)</h2>
@@ -228,9 +231,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/them-mot-tam-ao-moi/">
+    <a class="recipe-card" href="/savourydays.com-archived/them-mot-tam-ao-moi/" data-title="thêm một tấm “áo” mới">
       
-      <div style="height:160px;background:#f0e6d6;"></div>
+      <div class="thumb-placeholder">🍜</div>
       
       <div class="card-body">
         <h2>Thêm một tấm “áo” mới</h2>
@@ -241,9 +244,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/gioi-thieu-sach/">
+    <a class="recipe-card" href="/savourydays.com-archived/gioi-thieu-sach/" data-title="giới thiệu sách">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/07/gioi-thieu-sach.jpg" alt="Giới thiệu sách" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/07/gioi-thieu-sach.jpg" alt="Giới thiệu sách" loading="lazy">
       
       <div class="card-body">
         <h2>Giới thiệu sách</h2>
@@ -252,9 +255,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/savoury-days-voi-bao-chi/">
+    <a class="recipe-card" href="/savourydays.com-archived/savoury-days-voi-bao-chi/" data-title="savoury days với báo chí">
       
-      <img src="/savourydays.com-archivedhttp://farm8.staticflickr.com/7077/7165663037_17b3a3716c_z.jpg" alt="Savoury Days với báo chí" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archivedhttp://farm8.staticflickr.com/7077/7165663037_17b3a3716c_z.jpg" alt="Savoury Days với báo chí" loading="lazy">
       
       <div class="card-body">
         <h2>Savoury Days với báo chí</h2>
@@ -263,9 +266,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/thong-bao-sua-bep/">
+    <a class="recipe-card" href="/savourydays.com-archived/thong-bao-sua-bep/" data-title="thông báo sửa “bếp”">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/07/05.jpg" alt="Thông báo sửa “bếp”" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/07/05.jpg" alt="Thông báo sửa “bếp”" loading="lazy">
       
       <div class="card-body">
         <h2>Thông báo sửa “bếp”</h2>
@@ -276,9 +279,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/vit-om-sau/">
+    <a class="recipe-card" href="/savourydays.com-archived/vit-om-sau/" data-title="vịt om sấu">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/07/VitOmSau.jpg" alt="Vịt om sấu" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/07/VitOmSau.jpg" alt="Vịt om sấu" loading="lazy">
       
       <div class="card-body">
         <h2>Vịt om sấu</h2>
@@ -287,9 +290,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/chao-thang-7-va-ban-trang-da-quay-tro-lai/">
+    <a class="recipe-card" href="/savourydays.com-archived/chao-thang-7-va-ban-trang-da-quay-tro-lai/" data-title="chào tháng 7 (và bạn trang đã quay trở lại :)">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/07/001-220x300.jpg" alt="Chào tháng 7 (và bạn Trang đã quay trở lại :)" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/07/001-220x300.jpg" alt="Chào tháng 7 (và bạn Trang đã quay trở lại :)" loading="lazy">
       
       <div class="card-body">
         <h2>Chào tháng 7 (và bạn Trang đã quay trở lại :)</h2>
@@ -301,7 +304,8 @@
     </a>
     
   </div>
-  <div class="pagination">
+  <p id="no-results">Không tìm thấy công thức nào.</p>
+  <div class="pagination" id="pagination">
     <a href="/savourydays.com-archived/page/23/">«</a>
     
       <a href="/savourydays.com-archived/page/1/">1</a>
@@ -386,6 +390,44 @@
     <a href="/savourydays.com-archived/page/25/">»</a>
   </div>
 </div>
+<script>
+(function(){
+  const box = document.getElementById('search-box');
+  const grid = document.getElementById('recipe-grid');
+  const noRes = document.getElementById('no-results');
+  const pagination = document.getElementById('pagination');
+  if (!box) return;
+
+  let allRecipes = null;
+  const BASE = '/savourydays.com-archived';
+
+  box.addEventListener('input', async function() {
+    const q = this.value.trim().toLowerCase();
+    if (!q) {
+      if (allRecipes) { grid.innerHTML = originalHTML; }
+      noRes.style.display = 'none';
+      pagination.style.display = '';
+      return;
+    }
+    if (!allRecipes) {
+      const r = await fetch(BASE + '/search.json');
+      allRecipes = await r.json();
+    }
+    const matches = allRecipes.filter(r => r.title.toLowerCase().includes(q));
+    pagination.style.display = 'none';
+    if (!matches.length) { grid.innerHTML = ''; noRes.style.display = 'block'; return; }
+    noRes.style.display = 'none';
+    grid.innerHTML = matches.map(r =>
+      `<a class="recipe-card" href="${BASE}/${r.slug}/">
+        <div class="thumb-placeholder">🍜</div>
+        <div class="card-body"><h2>${r.title}</h2><div class="date">${r.date ? r.date.slice(0,10) : ''}</div></div>
+      </a>`
+    ).join('');
+  });
+
+  const originalHTML = grid.innerHTML;
+})();
+</script>
 </main>
 <footer style="text-align:center;padding:2rem;color:#aaa;font-size:.85rem;">
   © Savoury Days · Lưu trữ

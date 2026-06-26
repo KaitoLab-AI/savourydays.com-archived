@@ -12,10 +12,7 @@ description: ""
 <p>Các bạn thân mến</p>
 <p><span style="color: #000000;">Vậy là Savoury days kitchen &amp; studio đã hoàn tất được hơn nửa tháng rồi. Với Savoury Days thì đây không chỉ là việc có “trụ sở” chính thức, mà sự kiện này còn đánh dấu mốc quan trọng hơn, ghi nhận sự trưởng thành của SD. Từ giờ, SD không chỉ là căn bếp ảo của riêng một mình Linh Trang nữa, mà sẽ hoạt động như một tổ chức, tập hợp cuả nhiều thành viên. </span><span style="color: #000000;">Sứ mệnh mà SD xác định cho quãng đường sắp tới, sẽ vẫn là <em>mang niềm vui và cảm hứng nấu nướng tới tất cả mọi người</em>. Chúng mình sẽ tiếp tục thực hiện sứ mệnh này thông qua các công thức cụ thể và chi tiết, để ai cũng làm thành công ngay từ lần đầu tiên, qua các bức ảnh và video được edit bài bản hơn, cũng như các workshop, lớp học và hoạt động offline khác. Mọi thứ cơ bản vẫn như trước, chỉ chuyên nghiệp với chất lượng ngày một nâng cao hơn.</span></p>
 <p><span style="color: #000000;">Để có thể thực hiện được sứ mệnh trên, mình rất cần có thêm các thành viên mới, những người có thể cùng đồng hành với mình trên con đường rất thơm ngon nhưng không hề dễ đi này. Nếu bạn cũng say mê nấu nướng nhưng mặt khác, không muốn chỉ làm việc bếp núc mà muốn tham gia cả vào các hoạt động kinh doanh và xây dựng chiến lược cho một startup mới thì hãy đến với SD nhé. Ở SD các bạn sẽ được thoải mái nấu nướng những món mình thích, và một mặt khác, cùng với cả nhóm xây dựng các kế hoạch và chiến lược để giúp cho hoạt động của SD ngày một trôi chảy, vững mạnh hơn.</span></p>
-<p><span style="color: #000000;">Vì SD đang ở giai đoạn bắt đầu – với tư cách là một tổ chức – nên công việc sẽ có nhiều khó khăn, nhưng đổi lại, nếu bạn là người thích sáng tạo, thích thử thách và luôn muốn vươn lên để đạt được những thành quả cao hơn thì SD chính là nơi dành cho bạn. SD team không tuyển nhân viên mà cần những <strong>người đồng hành</strong>, cùng chung tay và góp sức để thực hiện mục tiêu chung.</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">Vì SD đang ở giai đoạn bắt đầu – với tư cách là một tổ chức – nên công việc sẽ có nhiều khó khăn, nhưng đổi lại, nếu bạn là người thích sáng tạo, thích thử thách và luôn muốn vươn lên để đạt được những thành quả cao hơn thì SD chính là nơi dành cho bạn. SD team không tuyển nhân viên mà cần những <strong>người đồng hành</strong>, cùng chung tay và góp sức để thực hiện mục tiêu chung.</span></p>
 <p><span style="color: #000000;">Cụ thể công việc và các vị trí mình cần người phụ trách như sau nhé:</span></p>
 <ol>
 <li><span style="color: #800000;"><strong> Phụ trách phát triển app Kitchen Rock </strong></span></li>
@@ -69,10 +66,7 @@ description: ""
 <li><span style="color: #000000;">Có thể đọc hiểu tốt tiếng Anh hoặc một ngoại ngữ khác trong số Trung, Nhật, Pháp.</span></li>
 </ul>
 <p><span style="color: #000000;">=&gt; Công việc phù hợp với các bạn yêu thích nấu nướng và làm việc liên quan tới các ngành quản trị, giáo dục, marketing, sale &amp; chăm sóc khách hàng.</span></p>
-<p><span style="color: #000000;">* <strong>Thời gian làm việc</strong>: LINH HOẠT, toàn thời gian hoặc bán thời gian. Kể cả làm toàn thời gian cũng không nhất thiết phải có mặt ở studio 8h/ngày. <strong>Chỉ cần hoàn thành công việc hiệu quả là được</strong>. Tuy nhiên, vì tính chất lớp học nên sẽ thường xuyên phải làm việc vào cuối tuần hoặc sau 18h các ngày trong tuần.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">* <strong>Thời gian làm việc</strong>: LINH HOẠT, toàn thời gian hoặc bán thời gian. Kể cả làm toàn thời gian cũng không nhất thiết phải có mặt ở studio 8h/ngày. <strong>Chỉ cần hoàn thành công việc hiệu quả là được</strong>. Tuy nhiên, vì tính chất lớp học nên sẽ thường xuyên phải làm việc vào cuối tuần hoặc sau 18h các ngày trong tuần.</span></p>
 <p><span style="color: #000000;"><strong>* Quyền lợi</strong>: lương thoả thuận + thưởng theo <strong>hiệu quả công việc</strong>.  </span></p>
 <ol start="3">
 <li><span style="color: #800000;"><strong> Phụ trách phát triển Savoury Days (web, youtube và Facebook)</strong></span></li>
@@ -126,7 +120,6 @@ description: ""
 <p><span style="color: #000000;"><strong>* Quy trình xét tuyển</strong>: Các bạn có hồ sơ phù hợp sẽ được mời tới SD studio để trò truyện trực tiếp với Linh Trang. Sau đó sẽ có 1 – 2 buổi cùng làm việc trong bếp để các bạn hiểu hơn về công việc tại SD studio.</span></p>
 <p><span style="color: #000000;"><strong>* Thời gian xét tuyển</strong>: Mình sẽ để thông báo tuyển dụng này tại website cho tới khi tìm được đủ người phù hợp.</span></p>
 
-
  <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
 <a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
@@ -134,9 +127,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

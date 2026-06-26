@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2019/02/cách-làm-phở-chiên-phồng-banner.jpg"
 description: "Cách làm PHỞ CHIÊN PHỒNG: Bánh phở giòn rụm ăn kèm với thịt bò xào và các loại rau, thêm nước chấm chua cay mặn ngọt là món ăn ngon mà nhiều người Hà Nội yê"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Phở chiên phồng, nếu mình nhớ không nhầm thì xuất hiện cùng thời gian với <a href="/cach-lam-pho-cuon/"><strong>phở cuốn</strong></a>. Không phải là món truyền thống nhưng nhờ hương vị thơm ngon mà cho tới giờ, đã hơn chục năm rồi, vẫn là món ăn phổ biến được nhiều người Hà Nội yêu thích. Và cùng với món phở cuốn, đây cũng là món ăn cả nhà mình rất thích, thi thoảng vẫn hay làm vì tự làm ở nhà thì phần “nhân rau thịt xào” vừa miệng hơn, cũng đầy đặn hơn khi đi ăn hàng nữa. Còn chuyện làm sao để bánh phở giòn rụm như ở ngoài hàng thì không hề khó đâu. Như sau nhé:</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8205" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/phochienphong_final-1024x683.jpg" width="1024"/></p>
 <h2><span style="color: #000000;">CÁCH LÀM PHỞ CHIÊN PHỒNG </span></h2>
@@ -32,10 +31,7 @@ description: "Cách làm PHỞ CHIÊN PHỒNG: Bánh phở giòn rụm ăn kèm 
 <li><em><span style="color: #000000;">200 ml dầu ăn</span></em></li>
 </ul>
 <p><span style="color: #800000;"><strong>Cách làm:</strong></span></p>
-<p><span style="color: #000000;">1. Chuẩn bị bánh phở:</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">1. Chuẩn bị bánh phở:</span></p>
 <p><span style="color: #000000;">– Để làm món ăn này, bạn cần chọn loại bánh phở cuốn, loại còn nguyên miếng/ nguyên tệp, chưa thái thành sợi. Để nguyên cả tệp bánh phở, cắt thành các khối vuông cỡ 4 x 4cm, tách thành từng miếng có độ dày 3-4 lá phở.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8207" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/phochienphong1-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">2. Chuẩn bị các nguyên liệu khác:</span></p>
@@ -45,10 +41,7 @@ description: "Cách làm PHỞ CHIÊN PHỒNG: Bánh phở giòn rụm ăn kèm 
 <p><span style="color: #000000;">– Hành tây bóc vỏ, rửa sạch, thái mỏng</span></p>
 <p><span style="color: #000000;">– Tỏi tây, cần tây, hành lá bỏ rễ, rửa sạch, cắt khúc dài 4cm</span></p>
 <p><span style="color: #000000;">– Cà chua rửa sạch, bổ múi cau</span></p>
-<p><span style="color: #000000;">– Hành, tỏi bóc bỏ, đập dập, băm nhỏ.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">– Hành, tỏi bóc bỏ, đập dập, băm nhỏ.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8208" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/phochienphong2-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">3. Chiên bánh phở</span></p>
 <p><span style="color: #000000;">– Đun sôi 200 ml dầu ăn trong chảo sâu lòng, nhúng 1 chiếc đũa khô vào giữa chảo dầu, thấy dầu sủi tăm xung quanh đũa nghĩa là dầu đã đủ nóng.</span></p>
@@ -65,6 +58,5 @@ description: "Cách làm PHỞ CHIÊN PHỒNG: Bánh phở giòn rụm ăn kèm 
 <p><span style="color: #000000;">6. Bày thành phẩm</span></p>
 <p><span style="color: #000000;">Dùng đĩa to, xếp phở chiên phồng vào đĩa, đổ thịt và rau xào lên trên, ăn nóng kèm nước chấm chua ngọt và tương ớt.</span></p>
 
-
 <p><span style="color: #000000;">* Bạn có thể tham khảo cách pha nước chấm trong món <a href="/cach-lam-pho-cuon/"><strong>phở cuốn</strong></a> nhé.</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

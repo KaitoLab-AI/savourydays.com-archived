@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2013/06/TiramisuTraXanh1.jpg"
 description: "tiramisu trà xanh, món có trà xanh, tiramisu đơn giản"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Những ngày này cảm giác thời gian trôi như tên lửa. Chuyển nhà ngay sát với thời gian dự hội nghị (với hai báo cáo khác nhau phải chuẩn bị), gần với hạn chỉnh sửa nghiên cứu và vô số thứ khác. Lần chuyển nhà này so với lần chuyển của 2 năm về trước thì không chỉ đồ đạc cá nhân đã “phình” ra gấp 3 với đủ thứ đồ làm bếp, đồ làm bánh, … mà còn phải mua lại gần như tất cả các thứ đồ dùng trong nhà từ cái bóng đèn trở đi, do nhà cũ có sẵn đồ còn nhà mới thì hoàn toàn trống trơn. Trong một khoảnh khắc “ngồi thở” giữa tất cả những bộn bề giấy tờ, số liệu, thùng carton, … tự nhiên thấy nhớ và thèm cái cảm giác được cầm phới trộn bột và mùi bánh mới nướng thế. Thế mới biết, sự thư giãn và bình yên mà làm bánh mang đến cho mình lớn đến chừng nào.</p>
 <p>Những ngày này mình cũng hầu như không có thời gian vào Savoury Days, việc trả lời phản hồi của các bạn đều phải nhờ cả vào Hồng Phúc và Oriole. Biết là giữa chị em mình mà nói lời cảm ơn thì thật khách sáo nhưng vẫn muốn cảm ơn hai em rất nhiều vì đã giúp chị cùng với các bạn khác giữ cho bếp luôn được ấm :x :x :x Hi vọng là mọi thứ sẽ sớm ổn định để lại có thể quay lại bếp cùng với cả nhà.</p>
 <p>Có một món bánh mình làm từ tuần trước với mục đích “dọn tủ”, làm xong chụp ảnh và đăng lên Facebook từ cuối tuần trước nên tranh thủ ghi lại công thức luôn, không có để lâu cũng quên mất. Ý tưởng ban đầu chỉ là Tiramisu trà xanh bình thường thôi, nhưng đến lúc mở tủ ra mới phát hiện là gói Lady fingers cũ không còn đủ bánh để dùng nữa. Cho nên mình đổi sang làm cốt sponge trà xanh, và làm cốt bánh khá mỏng để “nghịch” nhiều lớp. Lúc làm cũng hồi hộp tí xíu vì mình chưa bao giờ làm kiểu này. Nhưng đến lúc cắt bánh ra thì thấy sản phẩm đẹp hơn mong đợi rất nhiều ^.^</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/9032498255/" title="IMG_0962-1 by LinhTrang9185, on Flickr"><img alt="IMG_0962-1" class="aligncenter" height="335" loading="lazy" src="http://farm6.staticflickr.com/5345/9032498255_4131ea7c0d.jpg" width="500"/></a></p>
-<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khay nướng 20x30cm</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khay nướng 20x30cm</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <p><strong>A. Bạt ga-tô trà xanh</strong></p>
 <ul>
@@ -53,10 +49,7 @@ description: "tiramisu trà xanh, món có trà xanh, tiramisu đơn giản"
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <p><strong>A. Bạt ga-tô trà xanh</strong></p>
 <p>1. Làm nóng lò nướng ở 175 độ C (hai lửa). Lót giấy nướng hoặc giấy trắng ở đáy khuôn. Không cần chống dính thành khuôn.</p>
-<p>2. Cho lòng đỏ trứng &amp; đường vào âu. Dùng phới lồng nhẹ nhàng quấy đều cho trứng và đường hòa quyện. Cho dầu ăn &amp; sữa tươi vào âu, quấy đều. Cuối cùng, rây bột mì, bột ngô và bột trà xanh. Dùng phới lồng quấy nhẹ nhàng theo một chiều đến khi các nguyên liệu hòa quyện.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>2. Cho lòng đỏ trứng &amp; đường vào âu. Dùng phới lồng nhẹ nhàng quấy đều cho trứng và đường hòa quyện. Cho dầu ăn &amp; sữa tươi vào âu, quấy đều. Cuối cùng, rây bột mì, bột ngô và bột trà xanh. Dùng phới lồng quấy nhẹ nhàng theo một chiều đến khi các nguyên liệu hòa quyện.</p>
 <p>3. Đánh bông lòng trắng trứng với muối, cream of tartar và đường đến khi lòng trắng trứng bông cứng, bóng dẻo, nhấc que đánh lên thấy tạo chóp.</p>
 <p><span style="text-decoration: underline;"><strong>Lưu ý:</strong></span></p>
 <p><em>– Lòng trắng trứng, que đánh &amp; âu đánh phải sạch, không được dính các chất béo như dầu, mỡ, bơ, lòng đỏ..</em></p>
@@ -77,10 +70,9 @@ description: "tiramisu trà xanh, món có trà xanh, tiramisu đơn giản"
 <p>3. Cho cả âu đựng kem vào tủ lạnh, để 20-30 phút. <em><strong>Việc này sẽ giúp kem đặc hơn, rất nên làm, đặc biệt là trong những ngày trời nóng.</strong></em></p>
 <p><strong>C. Hoàn thiện</strong></p>
 
-
 <p>1. Hâm nóng sữa tươi, cho mật ong, quấy đều đến khi mật ong tan hết.</p>
 <p>2. Chia bánh làm 3 phần – cắt theo chiều ngang. Vì bánh làm trong khuôn 20 x 30cm, nên sau khi cắt ta sẽ có 3 phần bạt bánh với kích thước 20 x 10cm.</p>
 <p>3. Dùng chổi quết 1 lớp sữa mật ong lên mặt bánh. Phết 1/3 số kem Tiramisu trà xanh lên. Đặt lớp bánh thứ 2, lặp lại các bước quết sữa và phết kem. Đặt lớp bánh thứ 3, quết sữa mật ong, phết phần kem còn lại lên mặt.</p>
 <p>Vì phần kem khá đặc nên bánh này không nhất thiết phải có khuôn. Các bạn có thể để dư một chút kem để phủ lên cả bên ngoài bánh. Sau khi làm xong nên để bánh trong tủ lạnh thêm 4-6 tiếng, tốt nhất là qua đêm. Phần Tiramisu sẽ đặc hơn, cốt bánh cũng ẩm hơn.</p>
 <p>Khi cắt bánh, các bạn chuẩn bị dao thật sắc (dao bình thường, không cần dao răng cưa), và 1 chiếc khăn ẩm. Cắt bánh dứt khoát, dùng khăn lau sạch dao sau mỗi lần cắt. Bột trà xanh chỉ nên rắc lên mặt bánh ngay trước khi dùng (tránh cho bột trà hút ẩm sẽ bị bết).</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2012/04/ComBinhDan.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Đi chợ mua đậu để xử lí nốt mấy quả trứng muối rồi còn “dọn lọ” để muối mẻ mới thì nhìn thấy cả một dàn cải cúc xanh rờn nằm trên giá của quầy bán rau. Kết quả là ngày hôm sau, cả hai bữa giống y xì nhau, chỉ gồm 2 món theo kiểu “cơm bình dân”, nhiều rau ít thịt là <em>Đậu chiên trứng muối </em>và <em>Canh cải cúc nấu thịt bằm.</em> Dưng mà siêu siêu siêu ngon ấy. Đậu thì khỏi nói rồi, còn cải cúc đến 2 năm rồi mới lại được ăn, cho nên cứ gọi là “thun thút” :”&gt; Hai món này đều đơn giản và dễ làm, đậu nếu mua được loại đậu non mềm là ngon nhất, không thì đậu phụ thường cũng không sao, cách làm món đậu gần giống với cách làm món<a href="/tom-chien-trung-muoi/"> tôm chiên trứng muối</a> mình đã giới thiệu cách đây.. một số hôm :) Còn cách muối trứng thì ở <a href="/trung-muoi/">ĐÂY</a>, bạn nào muốn tự muối thì tham khảo nhé :)</p>
 <p><span style="color: #800000;"><strong>Đậu chiên trứng muối</strong></span></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7087141355/" title="IMG_3210 by LinhTrang9185, on Flickr"><img alt="IMG_3210" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7185/7087141355_141c7c92e8_z.jpg" width="493"/></a></p>
@@ -21,10 +20,7 @@ description: ""
 <li><em>Muối hoặc bột nêm, đường, bột ngọt</em></li>
 <li><em>Dầu ăn </em></li>
 </ul>
-<p><span id="more-2319"></span><img alt="" src="/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif" title="More..."/><strong>Cách làm</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span id="more-2319"></span><img alt="" src="/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif" title="More..."/><strong>Cách làm</strong></p>
 <p>1. Trứng muối luộc chín rồi tách lấy lòng đỏ. Thời gian luộc trứng muối khá lâu, lâu hơn trứng thường, nếu muốn nhanh hơn các bạn có thể đập trứng lấy riêng lòng đỏ rồi hấp chín. Lòng trắng trứng muối rất mặn, không phải là không ăn được nhưng các chất bổ cũng tập trung chủ yếu trong lòng đỏ nên thường là mình bỏ phần lòng trắng đi.</p>
 <p>2. Đậu xắt miếng vừa ăn. Chuẩn bị một bát bột chiên, mình dùng bột chiên giòn đóng gói sẵn, các bạn có thể tự pha bột bằng cách trộn bột gạo với bột năng (bột đao) theo tỉ lệ 1 bột gạo: 1 bột năng.</p>
 <p>3. Bắc chảo lên bếp, cho dầu vào chảo, đun nóng. Lăn đậu qua bột chiên rồi rán chín vàng. Nếu dùng đậu non thì các bạn chiên lửa to và ngập dầu, chỉ cần lớp vỏ ngoài của đậu vàng giòn thì vớt ra luôn nhé, và khi chiên thì đảo đũa hoặc thìa nhẹ tay, tránh cho đậu khỏi bị nát hay vỡ.</p>
@@ -43,12 +39,9 @@ description: ""
 <li><em>Nước sôi </em></li>
 </ul>
 <div><strong><em>Cách làm</em></strong></div>
-<p>1. Rau cải nhặt bỏ lá sâu, héo úa và phần gốc cứng, cắt thành các khúc vừa ăn, rửa sạch. Hành khô bóc vỏ, băm nhuyễn. Thịt ướp với chút nước mắm hoặc bột gia vị, tiêu.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>1. Rau cải nhặt bỏ lá sâu, héo úa và phần gốc cứng, cắt thành các khúc vừa ăn, rửa sạch. Hành khô bóc vỏ, băm nhuyễn. Thịt ướp với chút nước mắm hoặc bột gia vị, tiêu.</p>
 <p>2. Bắc nồi lên bếp, đun nóng 1 thìa canh dầu ăn. Cho hành vào phi thơm, rồi cho thịt bằm vào, xào đến khi thịt chín khoảng 80%. Đổ khoảng 1 – 1.5 bát to nước nóng vào nồi (các bạn tự điều chỉnh lượng nước cho vừa ăn nhé). Để lửa to, đun sôi.</p>
 <p>3. Đợi nước sôi thì hớt sạch bọt trong nồi (để bát canh sạch và trong, vừa ngon mắt &amp; vừa ngon miệng hơn :)). Cho rau cải vào, nêm nước mắm hoặc muối/ bột nêm/ bột gia vị cho vừa ăn. Cải cúc chín khá nhanh, thường mình ăn thì thích rau cải còn chín tái nên mình chỉ canh khoảng 1 phút là bắc xuống luôn. Ngoài ra, rau cải sẽ tiếp tục chín nhờ nước canh nóng, nên nếu chưa ăn ngay, các bạn có thể vớt rau ra bát trước, khi ăn thì đun lại nước canh rồi đổ vào bát, rau sẽ không bị quá nát.</p>
 <p style="text-align: center;"><em>Cơm bình dân toàn cảnh :P</em></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6941071708/" title="IMG_3194 by LinhTrang9185, on Flickr"><img alt="IMG_3194" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7178/6941071708_31cc6c00ca.jpg" width="500"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

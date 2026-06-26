@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2014/11/Grissini1.jpg"
 description: "bánh mì que giòn, grissini, cách làm bánh mì"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><em><span style="color: #ff0000;">Các kiến thức và kĩ thuật cơ bản trong làm bánh mì (<strong>nhờ cả nhà đọc kĩ trước khi đặt câu hỏi nha</strong></span>  <img alt=":-)" class="wp-smiley" src="/wp-includes/images/smilies/1-2.gif"/> )</em></p>
 <ol>
 <li>Phân biệt các loại bột làm bánh, cách sử dụng, thay thế các loại bột : <a href="/?p=1997">Phần 1</a> – <a href="/?p=2022">Phần 2</a></li>
@@ -26,10 +25,7 @@ description: "bánh mì que giòn, grissini, cách làm bánh mì"
 <div><a href="/banh-mi-que-voi-pho-mat-parmesan-toi-gia-vi-y/">Công thức bánh mì que </a>đã được giới thiệu tại blog từ lâu nhưng que kiểu giòn thiệt là giòn thì chưa có. Grissini – hay bánh mì que giòn – có nguồn gốc từ nước Ý nhưng đến giờ đã trở thành một trong những món khai vị hay món ăn chơi (kiểu <em>snack</em>) rất được ưa chuộng ở nhiều nước phương Tây. Bánh giòn rụm, lại có thể biến tấu với nhiều mùi vị khác nhau hay dùng với các loại <em>dipping sauce</em> khác nhau nên thực sự là món nhấm nháp hay mồi nhậu hết sảy với bia hoặc sâm-panh trước khi bắt đầu một bữa ăn hay buổi tiệc.</div>
 <p><a href="https://www.flickr.com/photos/55490207@N05/15663884437/" title="IMG_9084-1 by LinhTrang9185, on Flickr"><img alt="IMG_9084-1" class="aligncenter" height="640" loading="lazy" src="https://farm8.staticflickr.com/7487/15663884437_4e7861888c_z.jpg" width="441"/></a></p>
 <p>Lần này làm Grissini mình áp dụng phương pháp lên men chậm, chuẩn bị một phần Sponge trước rồi mới làm bánh. Tuy thời gian lâu hơn thông thường nhưng khi nhồi bột dễ hơn mà mùi vị bánh cũng ngon hơn hẳn. Một công thức làm được kha khá bánh, lại tạo cơ hội để chia nhỏ và nghịch: phần nhào với pho-mát và các loại gia vị hành, tỏi, ớt, làm nên một hương vị thơm nức ngậy béo, “điếc mũi” không thể tả. Phần chỉ lăn qua ít vừng đen, nướng lên giòn rụm thêm vị bùi bùi của vừng, ăn bánh Ý mà chẳng hiểu sao lại nhớ Việt Nam quá! Bột không làm hết thì để ngăn đá, khi nào cần chỉ việc tạo hình và nướng lên thôi – công chắc là bằng chạy ra siêu thị mà về độ kinh tế và chất lượng thì hơn hẳn, nên tội gì mà không “nhào vào bếp”, nhỉ? :)</p>
-<p><strong><span style="color: #800000;">Nguyên liệu</span> </strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong><span style="color: #800000;">Nguyên liệu</span> </strong></p>
 <p>* <strong>Phần A</strong>:</p>
 <ul>
 <li><em>80 gr bột làm bánh mì (bread flour/ hàm lượng protein 11.5 – 12.5%)</em></li>
@@ -58,10 +54,7 @@ description: "bánh mì que giòn, grissini, cách làm bánh mì"
 <p><a href="https://www.flickr.com/photos/55490207@N05/15662140138/" title="IMG_7263 by LinhTrang9185, on Flickr"><img alt="IMG_7263" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7484/15662140138_0087496bb1.jpg" width="500"/></a></p>
 <p>2. Trộn bột và men trong phần B.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/15663893697/" title="IMG_7261 by LinhTrang9185, on Flickr"><img alt="IMG_7261" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7531/15663893697_4d1e2df82b.jpg" width="500"/></a></p>
-<p>Rắc hoặc rây phần bột &amp; men này phủ đều lên trên mặt của hỗn hợp vừa có ở bước (1).</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Rắc hoặc rây phần bột &amp; men này phủ đều lên trên mặt của hỗn hợp vừa có ở bước (1).</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/15230002543/" title="IMG_7264 by LinhTrang9185, on Flickr"><img alt="IMG_7264" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7501/15230002543_df55cb46b2.jpg" width="500"/></a></p>
 <p>Dùng nilon hoặc khăn phủ kín mặt âu. Để hỗn hợp nghỉ ở nhiệt độ phòng trong khoảng 1 – 1.5 giờ rồi dùng. Nếu sau 1h chưa thể tiếp tục làm ngay thì có thể bảo quản hỗn hợp trong ngăn mát tủ lạnh và dùng trong khoảng 20 giờ tiếp theo.</p>
 <p style="text-align: center;"><em>Hỗn hợp sau khi rây hết bột khô </em></p>
@@ -77,7 +70,6 @@ description: "bánh mì que giòn, grissini, cách làm bánh mì"
 <p>6. Ủ đến khi bột nở gấp 2 – 2.5 lần. Thời gian ủ bột phụ thuộc vào nhiệt độ ủ và chất lượng men nên không có con số chính xác, nhưng thường thì dao động trong khoảng 45 – 65 phút.</p>
 <p style="text-align: center;"><em>Bột sau khi ủ xong, ấn thử ngón tay vào thấy vết lõm sâu rõ, không phồng trở lại, bột không bị xẹp </em></p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/15662297890/" title="IMG_7278 by LinhTrang9185, on Flickr"><img alt="IMG_7278" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7572/15662297890_d64358860c.jpg" width="500"/></a></p>
-
 
 <p>7.  Sau khi ủ bột xong, dùng mu bàn tay ấn nhẹ cho bột xẹp, hơi khí thoát ra ngoài. Nhồi bột lại nhẹ nhàng.</p>
 <p>8. Một công thức làm được khá nhiều bánh nên mình chia bột làm 2 phần, mỗi phần khoảng 170 – 180 gram. Phần bột chưa dùng đến có thể để ngăn mát tủ lạnh (nếu nướng ngay) hoặc bảo quản trong ngăn đá, khi nào dùng thì rã đông, để bột về nhiệt độ phòng là có thể tạo hình và nướng như bình thường.</p>
@@ -121,4 +113,4 @@ description: "bánh mì que giòn, grissini, cách làm bánh mì"
 <p>– Bột dai khó vê thành que: có thể vê bột thành dạng thỏi dài rồi để bột nghỉ một vài phút, bột sẽ bớt dai và dễ vê dài hơn.</p>
 <p>– Bánh bị cứng sau khi nướng: do bột bánh quá khô, nướng ở nhiệt hơi thấp và khi nướng không xịt nước (thiếu độ ẩm).</p>
 <p>– Bánh mềm chứ không giòn: nướng chưa đủ thời gian, nhiệt độ không đủ cao</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

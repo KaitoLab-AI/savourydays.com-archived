@@ -13,10 +13,7 @@ Thi thoảng vẫn có bạn hỏi mình mua dụng cụ và nguyên liệu làm
 <p>1. Hàng Thiếc – số 21 và 26: Các loại khuôn và dụng cụ làm bánh. Chất liệu chắc chủ yếu của VN và TQ. Hôm nay mình có qua 21 mua ít khuôn, thấy chủng loại cũng tương đối đa dạng. Có thể mặc cả (mình thấy có 1 ng mua cùng mình mặc cả được, nhưng vì mình ko có khả năng mặc cả nên chỉ được bớt 15k thôi :( ).</p>
 <p>2. Dụng cụ và nguyên liệu làm bánh, giá cả phải chăng: <a href="http://www.dolambanh.com" rel="nofollow" target="_blank">www.dolambanh.com</a>.</p>
 <p>3. Jolischef: số 22 ngõ 1 Hoàng Quốc Việt – <a href="http://www.jolischefs.com" rel="nofollow" target="_blank">www.jolischefs.com</a>. Có một người bạn của mình đã mua ở đây và phản hồi là các thứ khá được, đủ nguyên liệu cần thiết, cô bé chủ cửa hàng rất nhiệt tình và vui vẻ :)</p>
-<p>4. Baking zoo: có cả nguyên liệu lẫn dụng cụ làm bánh: <a href="http://muare.vn/an-uong/3404491" rel="nofollow" target="_blank">http://muare.vn/an-uong/3404491</a>.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>4. Baking zoo: có cả nguyên liệu lẫn dụng cụ làm bánh: <a href="http://muare.vn/an-uong/3404491" rel="nofollow" target="_blank">http://muare.vn/an-uong/3404491</a>.</p>
 <p>5. Kokotaru: nguyên liệu &amp; dụng cụ: <a href="http://bakery.kokotaru.com/gia-nguyen-lieu-lam-banh/" rel="nofollow" target="_blank"> http://bakery.kokotaru.com/gia-nguyen-lieu-lam-banh/</a></p>
 <p>6. Kiwi food: 21 Lý Nam Đế – Nguyên liệu làm bánh, giá cả có vẻ rẻ, nhưng hình như chỉ bán với số lượng nhiều</p>
 <p>7. Dan’s shop: có các loại nguyên liệu làm bánh: trước ở bãi đỗ xe Ngọc Khánh, giờ chuyển ra phố Linh Lang (nhưng mà mình ko biết cụ thể địa chỉ là bao nhiêu)</p>
@@ -26,10 +23,7 @@ Thi thoảng vẫn có bạn hỏi mình mua dụng cụ và nguyên liệu làm
 <p>11. Big C đường Trần Duy Hưng: các loại bơ, sữa, kem tươi.. Hình như có giấy nướng bánh khá ổn nữa.</p>
 <p>12. Siêu thị đồng giá Daiso: 37  Trần Quốc Toản: có mấy thứ kiểu phơi đánh trứng, dao cắt bánh, khuôn bánh có vẻ rất ổn, đồng giá 40k</p>
 <p>13. Cửa hàng Việt – Bỉ: số 7 Tuệ Tĩnh: Chocolate giá rẻ</p>
-<p>Tạm thời là như thế, có gì nhờ cả nhà bổ sung hộ mình với nhé :)</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Tạm thời là như thế, có gì nhờ cả nhà bổ sung hộ mình với nhé :)</p>
 <p>—–</p>
 <p>Cập nhật ngày 28/1/2013 – ĐỊA CHỈ CÁC CỬA HÀNG TẠI TP HỒ CHÍ MINH</p>
 <p>* Cảm ơn bạn Oanh nhiều vì đã chia sẻ thông tin :x</p>
@@ -63,9 +57,6 @@ Thi thoảng vẫn có bạn hỏi mình mua dụng cụ và nguyên liệu làm
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

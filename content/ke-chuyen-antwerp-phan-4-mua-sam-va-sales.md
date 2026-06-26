@@ -12,10 +12,7 @@ description: ""
 <p><a href="/?p=264"><em><strong>Phần 2: Thành phố và con ngườ</strong></em>i</a></p>
 <p><em><strong><a href="/?p=357">Phần 3: Đi lại và nhà ở</a></strong></em></p>
 <p>Chờ mãi mới đến phần này :D :D</p>
-<p>Nhưng mà… thật sự là viết về cái này hơi có tí hồi hộp. Biết nói thế nào nhỉ, vừa đúng mà vừa không đúng “sở trường” của mình. Tại vì cũng như nhiều chị em khác, mình cũng thích shopping. Nhưng mình lại không phải là một người rành về các loại shops và chuyện đi mua sắm ở đây lắm. Lý do là một năm mình chỉ tập trung “chinh chiến” và “oanh tạc” các shops vào hai đợt “cao điểm” là giảm giá mùa đông và mùa hè. Và thường thì mình cũng chỉ mua ở một số nhãn hiệu nhất định mà mình thích, cho nên phần ở dưới đây chắc sẽ mang quan điểm cá nhân rất nhiều :D Dù sao thì vẫn hi vọng là những dòng ghi chép dưới đây của mình sẽ cung cấp cho các bạn một phần thông tin về chuyện xốp-binh ở Antwerp :)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Nhưng mà… thật sự là viết về cái này hơi có tí hồi hộp. Biết nói thế nào nhỉ, vừa đúng mà vừa không đúng “sở trường” của mình. Tại vì cũng như nhiều chị em khác, mình cũng thích shopping. Nhưng mình lại không phải là một người rành về các loại shops và chuyện đi mua sắm ở đây lắm. Lý do là một năm mình chỉ tập trung “chinh chiến” và “oanh tạc” các shops vào hai đợt “cao điểm” là giảm giá mùa đông và mùa hè. Và thường thì mình cũng chỉ mua ở một số nhãn hiệu nhất định mà mình thích, cho nên phần ở dưới đây chắc sẽ mang quan điểm cá nhân rất nhiều :D Dù sao thì vẫn hi vọng là những dòng ghi chép dưới đây của mình sẽ cung cấp cho các bạn một phần thông tin về chuyện xốp-binh ở Antwerp :)</p>
 <p>Nói về mua sắm ở Antwerp không thể không nhắc đến phố Meir (đọc là Me-r, nên nhớ cái này vì chẳng may lạc đường thì nhờ người ta chỉ đến đây, chắc ai cũng biết :D). Con phố này dài tầm 1 km, nằm trên trục đường chính từ ga đi vào trung tâm, và tập trung rất rất nhiều shops. Chỗ này có nhà dân không thì mình không rõ  (chắc là không vì giá thuê nhà ở đây hình như rất cao), nhưng chẳng hạn nếu đi dọc phố thì hai bên đường bạn sẽ thấy chỉ toàn là cửa hiệu. Các cửa hàng này phần lớn là bán quần áo, và có rất nhiều loại nhãn mác cho bạn lựa chọn, từ bình dân cho đến cao cấp (nhưng đồ bình dân nhiều hơn). Còn đồ rất rất cao cấp thì có mấy khu phố xung quanh – mình không nhớ tên phố :”&gt; – nhưng đi một hồi thì sẽ biết hết ấy mà. Ngoài cửa hàng quần áo thì có một số cửa hàng chuyên về mỹ phẩm và nước hoa, nơi mà chị em (và cả anh em) có thể tìm thấy hầu hết các loại nước hoa và mỹ phẩm của các hãng nổi tiếng thế giới. Trên phố Meir có 2 cửa hàng kiểu này là ICI Paris XL và Parfum Planet. Ngoài ra ở đây cũng có đại lý riêng của một số công ty chuyên về mỹ phẩm như Yves Roches, L’Occitane, The body shop, etc.</p>
 <p><a href="http://savourydays.files.wordpress.com/2011/07/antwerpen-kerstmis5.jpg"><img alt="" class="aligncenter" height="335" loading="lazy" src="http://savourydays.files.wordpress.com/2011/07/antwerpen-kerstmis5.jpg" title="antwerpen-kerstmis5" width="502"/></a></p>
 <p style="text-align: center;"><em>Ảnh: “Phố mua sắm” Meir ở Antwerp</em></p>
@@ -26,10 +23,7 @@ description: ""
 <p><a href="http://savourydays.files.wordpress.com/2011/07/stadsfeestzaal03.jpg"><img alt="" class="aligncenter" height="437" loading="lazy" src="http://savourydays.files.wordpress.com/2011/07/stadsfeestzaal03.jpg" title="stadsfeestzaal03" width="600"/></a><a href="http://savourydays.files.wordpress.com/2011/07/picture-021.jpg"><br/>
 </a></p>
 <p style="text-align: center;"><em>Ảnh: bên trong Stadsfeestzaal – shopping mall ở giữa phố Meir</em></p>
-<p style="text-align: center;"><em>Nguồn: http://www.skyscrapercity.com/showthread.php?t=736926&amp;page=4</em></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p style="text-align: center;"><em>Nguồn: http://www.skyscrapercity.com/showthread.php?t=736926&amp;page=4</em></p>
 <p>Sẽ là một sự thiếu sót rất to lớn nếu không nhắc đến IKEA, nơi mà bạn có thể tìm thấy hầu như tất cả các thứ đồ nội thất + đồ trang trí các thể loại trong và ngoài nhà :) Nếu muốn biết thêm về IKEA và các loại đồ đạc bán tại đây thì các bạn có thể xem thêm tại website của IKEA là <a href="http://www.ikea.be">www.ikea.be</a> nhé. Ở Antwerp có 1 cửa hàng IKEA duy nhất, nằm khá xa trung tâm. Tuy nhiên bạn có thể đến đây bằng xe bus, chẳng hạn như bus 21 hoặc bus 500. Điểm mà mình thích ở IKEA là đồ đạc rất đa dạng và phong phú, hầu như cần đồ gì cũng có. Chủng loại, mẫu mã và cả giá cả đều có nhiều lựa chọn. Riêng về đồ dùng trong bếp, so với Blokker và Casa, đồ tại IKEA nhìn chung là rẻ hơn, nhưng nếu muốn có nhiều thứ đồ trang trí hay ho lạ mắt thì mình vẫn thích Blokker và Casa hơn.</p>
 <p>Cuối cùng, nếu muốn mua đồ điện tử thì có 2 chuỗi cửa hàng cho bạn lựa chọn là Saturn và Media Markt (1 cái nằm cạnh ga trung tâm, 1 cái nằm trong shopping mall ở giữa phố Meir). Ở đây bạn có thể tìm thấy các mặt hàng như ti vi, tủ lạnh, máy giặt, đồ dùng trong bếp như lò vi sóng, lò nướng, máy xay sinh tố, …, máy tính, điện thoại, máy ảnh, … tóm lại là đồ điện tử và đồ điện gia dụng. Ngoài ra cũng có một số website bán các mặt hàng này nhưng là đồ secondhand nên giá sẽ rẻ hơn bình thường khá nhiều. Tuy nhiên về khoản này thì mình không thực sự rành lắm.</p>
 <p><a href="http://savourydays.files.wordpress.com/2011/07/14228096.jpg"><img alt="" class="aligncenter" height="450" loading="lazy" src="http://savourydays.files.wordpress.com/2011/07/14228096.jpg" title="14228096" width="600"/></a></p>
@@ -48,9 +42,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

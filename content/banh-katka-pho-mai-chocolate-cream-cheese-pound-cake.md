@@ -8,16 +8,11 @@ image: "/wp-content/uploads/2019/09/cach-lam-banh-katka-banner-610x350.jpg"
 description: "Cách làm bánh Katka Hải Phòng, thêm hương vị của kem phô-mai và chocolate rất thơm ngon, mềm ẩm, tan trên đầu lưỡi."
 ---
 
-
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Bánh hôm qua làm không chỉ có bánh chả, mà còn có cả món này nữa.</span></p>
 <p><span style="color: #000000;">Dạo này mình càng lúc càng ít thích các loại bánh bông lan, chiffon, ga-tô kem. Cảm giác kiểu cốt bánh thì hơi nhạt nhẽo trong khi phần kem lại quá chất lượng, đi với nhau cứ không hợp thế nào. Cũng không hẳn là vì sợ béo hay ngại đồ ngọt vì đợt này mình thi thoảng lại thấy thèm điên cuồng một miếng bánh thật là “chất” kiểu như cheesecake hay buttercake chẳng hạn, ăn miếng bánh thấy vị bơ, vị phô-mai tan chảy trên đầu lưỡi, thấy “đã” làm sao! :D</span></p>
 <p><span style="color: #000000;">Buttercake – bánh bông lan bơ từ bao lâu nay vẫn chịu tiếng xấu là thứ bánh vừa khô vừa đặc bứ. Mọi người vẫn mặc định là nhìn bánh phải bông, tơi, xốp mới là bánh ngon. Thực ra thì không phải thế. Mỗi loại bánh có một kiểu ngon riêng. Buttercake nếu làm chuẩn, dùng nguyên liệu ngon thì cũng chẳng khô hay bứ tí tẹo nào. Cái tên đã nói lên tất cả – bánh bông lan <strong>bơ </strong>nên một trong số các nguyên liệu chủ đạo chính là bơ. Mà có nhiều bơ thì bánh không thể khô được, do chất béo có nướng lâu thì cũng không bay hơi như nước, vẫn ở trong bánh để mang tới mùi thơm ngậy cũng như độ tan mịn trên đầu lưỡi khi nếm thử.</span></p>
 <p><span style="color: #000000;"><em>Tóm lại, bánh không ngon là do người làm chứ không phải tại cái bánh nó thế, nhé! :D </em></span></p>
-<p><span style="color: #000000;">Một minh chứng khác của việc bánh bông lan bơ không hề dở là sự phổ biến của bánh Katka Hải Phòng. Mình chưa ăn món bánh này bao giờ, nhưng dựa trên các công thức và theo mô tả thì Katka có lẽ chỉ đơn giản là bánh bông lan bơ theo công thức cơ bản thôi. Bánh bán chạy và được nhiều người ưa chuộng như vậy hẳn là không hề tệ rồi, vậy nên đừng “đổ tội” cho dòng bánh này nhé.</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">Một minh chứng khác của việc bánh bông lan bơ không hề dở là sự phổ biến của bánh Katka Hải Phòng. Mình chưa ăn món bánh này bao giờ, nhưng dựa trên các công thức và theo mô tả thì Katka có lẽ chỉ đơn giản là bánh bông lan bơ theo công thức cơ bản thôi. Bánh bán chạy và được nhiều người ưa chuộng như vậy hẳn là không hề tệ rồi, vậy nên đừng “đổ tội” cho dòng bánh này nhé.</span></p>
 <p><span style="color: #000000;">Chắc sắp tới mình cũng sẽ làm các  món bánh trong dòng bánh này nhiều hơn, cùng với bánh mì – vẫn là “nàng thơ” yêu thích của mình. Buttercake nói vậy thôi chứ cũng có nhiều loại lắm, có thể biến tấu nhiều cả về mùi vị lẫn các kiểu tạo hình. Mà vài tháng nữa tới Giáng sinh, làm buttercake với bánh quy mang tặng cũng rất hợp vì có thể làm cỡ nhỏ, lại để được lâu, mà nhâm nhi trong trời rét với thứ đồ uống nào cũng tuyệt.</span></p>
 <p><span style="color: #000000;">Bánh ngày hôm nay mình làm gần như theo công thức pound cake truyền thống – bánh bông lan bơ kiểu cổ điển, nguyên liệu chỉ có bột, bơ, đường, trứng, mỗi thứ 1 pound nên gọi là <em>pound cake. </em>Bánh không có tí nước hay sữa nào nhưng vẫn rất ngon nhờ có nhiều bơ (nên không sợ khô nhé). Tuy nhiên mình có chỉnh sửa đi một chút là thay một ít bơ bằng kem phô-mai cream cheese (tại đang thèm vị pho-mai :D) và làm thêm 1 phần chocolate nữa do nhà đang dư hơi nhiều chocolate, mà vị chocolate thì lúc nào cũng quyến rũ cả.</span></p>
 <p><span style="color: #000000;">Thành phẩm ra lò rất ổn, có một vài điểm cần chỉnh sửa nhưng rất nhỏ thôi, không ảnh hưởng tới chất lượng bánh nhiều, nên công thức mới có thể “vác” lên đây được.</span></p>
@@ -37,10 +32,7 @@ description: "Cách làm bánh Katka Hải Phòng, thêm hương vị của kem 
 <p><span style="color: #000000;">1. Trước khi làm khoảng 45 – 50 phút, lấy bơ và cream cheese ra ngoài tủ lạnh, cắt miếng vừa cho vào âu, để ở nhiệt độ phòng tới khi bơ mềm, miết được bằng thìa như trong hình dưới, nhưng không quá mềm vì khi đánh bột có thể bị chảy.</span></p>
 <p><span style="color: #000000;">Lấy trứng gà ra khỏi tủ lạnh, để về nhiệt độ phòng.</span></p>
 <p><span style="color: #000000;"><img alt="" class="aligncenter size-large wp-image-8401" height="684" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/09/IMG_8601-1024x684.jpg" width="1024"/></span></p>
-<p><span style="color: #000000;">2. Làm nóng lò ở 190 độ C cả lửa trên và dưới. Cân bột mì và bột nở vào bát riêng. Nếu dùng chocolate thì chưng cách thuỷ hoặc quay vi sóng cho chocolate tan chảy, lưu ý để lửa nhỏ và kiểm tra thường xuyên, tránh để chocolate bị cháy.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">2. Làm nóng lò ở 190 độ C cả lửa trên và dưới. Cân bột mì và bột nở vào bát riêng. Nếu dùng chocolate thì chưng cách thuỷ hoặc quay vi sóng cho chocolate tan chảy, lưu ý để lửa nhỏ và kiểm tra thường xuyên, tránh để chocolate bị cháy.</span></p>
 <p><span style="color: #000000;">3. Rây đường vào âu đựng bơ và cream cheese. Nếu dùng đường kính hạt to, nên xay mịn. Ở nước ngoài các bạn có thể mua granulated hoặc superfine sugar.</span></p>
 <p><span style="color: #000000;">4. Đánh bơ và cream cheese với đường ở tốc độ vừa trong 1 – 2 phút rồi tăng tốc độ lên cao nhất, đánh đén khi đường hoà quyện với bơ và cream cheese, hỗn hợp hơi bông đặc và chuyển màu nhạt hơn. Dừng máy, lấy phới vét bơ bám trên thành âu.</span></p>
 <p><span style="color: #000000;"><img alt="" class="aligncenter size-large wp-image-8402" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/09/IMG_8605-1024x683.jpg" width="1024"/></span></p>
@@ -57,10 +49,9 @@ description: "Cách làm bánh Katka Hải Phòng, thêm hương vị của kem 
 <p><span style="color: #000000;">8. Nướng bánh ở 185 – 190 độ C trong 40 – 45 phút, tới khi dùng que xiên hoặc tăm cắm vào chính giữa bánh, rút tăm lên thấy tăm sạch, không dính vụn bánh.</span></p>
 <p><span style="color: #000000;">* Ghi chú: Mặt bánh sẽ tự nứt rãnh như trong hình. Thật ra lần này mình có thử chạy 1 đường bơ mềm ở giữa bánh xem mặt bánh có nứt tốt hơn không, nhưng không thấy có tác dụng gì lắm, nên các bạn cứ nướng, bánh nở tốt, tự khắc sẽ nứt mặt theo đúng kiểu nhé :)</span></p>
 
-
 <p><span style="color: #000000;">9. Bánh chín để trong khuôn khoảng 3 phút rồi mới lấy khỏi khuôn, để nguội hoàn toàn trên rack. Bảo quản bánh trong tủ lạnh, bánh sẽ cứng lại do có nhiều bơ nhưng để ra nhiệt độ phòng sẽ mềm trở lại, hoặc quay vi sóng 1 xíu là bánh mềm. Bảo quản trong ngăn mát tủ lạnh được 1 tuần.</span></p>
 <p style="text-align: center;"><span style="color: #000000;"><em>bánh sau khi lấy ra khỏi lò </em></span></p>
 <p><span style="color: #000000;"><img alt="" class="aligncenter size-large wp-image-8408" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/09/IMG_8632-1024x683.jpg" width="1024"/></span></p>
 <p style="text-align: center;"><span style="color: #000000;"><em>và sau khi lấy ra khỏi khuôn </em></span></p>
 <p><span style="color: #000000;"><img alt="" class="aligncenter size-large wp-image-8409" height="684" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/09/IMG_8637-1024x684.jpg" width="1024"/></span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

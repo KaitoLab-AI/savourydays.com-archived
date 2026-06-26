@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2014/02/MoltenLava.jpg"
 description: "cách làm bánh sô-cô-la núi lửa (molten lava cake) tuyệt ngon với phần nhân sô-cô-la lỏng ngọt ngào và ấm nóng, công thức kèm video hướng dẫn chi tiết"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><em>Chiếc bánh chocolate thơm lừng mềm mại nằm trên đĩa, mới nhìn qua thì tưởng chẳng hề khác những chiếc chocolate muffin hay cupcake thông thường. Nhưng bất ngờ sẽ đến ngay khi thực khách xắn miếng bánh đầu tiên: một dòng chocolate nâu bóng ngọt ngào trào ra từ nhân bánh, giống như nham thạch nóng bỏng ẩn sâu trong lòng núi lâu ngày vậy….</em></p>
 <p>….hihi…. với mình thì chỉ tưởng tượng ra thế kia cũng đã thấy thích rồi, nên nếu như cần một món tráng miệng để ghi điểm trong mắt khách mời, thì Molten Lava Cake hoàn toàn không phải là một sự lựa chọn tồi, nhỉ? :)</p>
 <p>Năm ngoái mình có giới thiệu <a href="/chocolate-souffle-va-lava-cake/">Chocolate Souffle Lava Cake</a>, mặc dù ăn rất ngon nhưng vì là Souffle nên phải ăn ngay sau khi lấy ra khỏi lò nướng, không thể để lâu và bánh cũng không úp ngược để lấy ra đĩa (cho đẹp :P) được. Nên năm nay mình thử nghiệm một công thức khác để khắc phục những điểm này.</p>
 <p><a href=" https://www.flickr.com/photos/savourydays/24835084042/" title="molten lava cake by LinhTrang9185, on Flickr"><img alt="molten lava cake" class="aligncenter" height="427" loading="lazy" src=" https://farm2.staticflickr.com/1463/24835084042_5a25aef097_z.jpg " width="640"/></a></p>
-<p>Công thức mới này có hai phần: Vỏ bánh I<a href="/incredibly-easy-chocolate-cake/">ncredibly Easy chocolate cake</a> và nhân Chocolate Ganache. Việc dùng Ganache giúp cho phần nhân bánh không chỉ ngon hơn mà còn lỏng hơn, dễ “phun trào” hơn so với cách làm chỉ dùng chocolate cake và nướng trong thời gian ngắn để ruột bánh còn ẩm. Ngoài ra, cả hai phần vỏ và nhân đều rất dễ làm, nên bạn nào chưa thạo làm bánh lắm cũng có thể mạnh dạn “thử tay nghề” được :) Bánh cũng có thể làm trước và “để dành” đến cuối bữa ăn mới lấy ra làm đồ tráng miệng.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Công thức mới này có hai phần: Vỏ bánh I<a href="/incredibly-easy-chocolate-cake/">ncredibly Easy chocolate cake</a> và nhân Chocolate Ganache. Việc dùng Ganache giúp cho phần nhân bánh không chỉ ngon hơn mà còn lỏng hơn, dễ “phun trào” hơn so với cách làm chỉ dùng chocolate cake và nướng trong thời gian ngắn để ruột bánh còn ẩm. Ngoài ra, cả hai phần vỏ và nhân đều rất dễ làm, nên bạn nào chưa thạo làm bánh lắm cũng có thể mạnh dạn “thử tay nghề” được :) Bánh cũng có thể làm trước và “để dành” đến cuối bữa ăn mới lấy ra làm đồ tráng miệng.</p>
 <p>(*) <strong><em>Tháng 2/2016 mình làm lại món bánh này và quay video clip để các bạn dễ hình dung quy trình làm bánh. Trong video mình vẫn dùng công thức dưới đây, chỉ điều chỉnh lại nguyên liệu một chút để giúp cho công thức đơn giản hơn. Để tránh nhầm lẫn, ở phần dưới này mình đăng công thức mới nhất, sau khi đã chỉnh sửa nhé.</em></strong></p>
 <p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: 12 khuôn Cupcake, mình dùng loại <a href="http://www.amazon.com/Wilton-Heart-Silicone-Baking-Count/dp/B000NBNHKQ/ref=sr_1_3?ie=UTF8&amp;qid=1455176746&amp;sr=8-3&amp;keywords=wilton+heart+silicone+cupcake" target="_blank">khuôn trái tim này của Wilton</a></p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
@@ -50,10 +46,7 @@ description: "cách làm bánh sô-cô-la núi lửa (molten lava cake) tuyệt 
 <p>Mời các bạn xem cách làm chi tiết trong video đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank"><strong>kênh YouTube của Savoury Days</strong></a> (các bạn nhớ đăng kí/ subscribe kênh để nhận được thông báo ngay khi video mới vừa đăng nhé). Các bạn có thể xem cụ thể trong video dưới hoặc trực tiếp tại <a href="https://youtu.be/Ac8-Gi9KodI" target="_blank"><strong>link này</strong></a>.</p>
 <p>Video có phụ đề tiếng Anh và tiếng Việt, các bạn có thể bấm nút CC và chọn Ngôn ngữ/ Language trong Setting để chọn phụ đề. Ngoài ra, nhớ chọn HD để xem video rõ nét và đẹp nhất nhé :)</p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/Ac8-Gi9KodI" width="560"></iframe></div>
-<p> </p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p> </p>
 <p>TÓM TẮT CÁC BƯỚC LÀM BÁNH</p>
 <p><strong>A. Nhân Chocolate Ganache</strong></p>
 <p><span style="color: #ff0000;"><em>Chuẩn bị Ganache trước khi làm bánh tối thiểu 12 tiếng để Ganache có thời gian đông lại.</em></span></p>
@@ -70,7 +63,6 @@ description: "cách làm bánh sô-cô-la núi lửa (molten lava cake) tuyệt 
 <p>1. Chống dính khuôn bằng xịt chống dính hoặc quét một lớp bơ mỏng khắp lòng khuôn, rắc một lớp bột mỏng lên rồi úp ngược khuôn, gõ nhẹ cho bột thừa rơi ra ngoài. Làm nóng lò trước khi nướng từ 10-15 phút, nhiệt độ 190 độ C (hai lửa).</p>
 <p>2. Rây bột mì, bột cacao, đường, bột nở vào âu trộn. Trộn đều.</p>
 
-
 <p>3. Trong một âu khác, trộn đều bơ, trứng gà, sữa chua, sữa tươi và vanilla.</p>
 <p>4. Nhẹ nhàng đổ hỗn hợp ướt ở (3) vào hỗn hợp khô ở (2). Dùng thìa hoặc phới trộn nhanh tay đến khi hai hỗn hợp vừa đủ hòa quyện thì dừng lại. Lưu ý vét cả thành và đáy âu. Quá trình này sẽ mất khoảng 15-25 giây. <em>Chỉ trộn đến khi hỗn hợp vừa đủ ướt, bột có thể sẽ hơi lổn nhổn. Nhưng không trộn quá lâu đến khi bột mịn mượt, sẽ làm bánh nở kém, chai cứng và có nhiều ống khí rỗng bên trong. <a href="/nhat-ky-lam-banh-phan-2-muffins/">Xem thêm lưu ý trong bài về Muffin method</a>.</em></p>
 <p>5. Chia bột vào các khuôn như sau: Đổ bột bánh đầy khoảng 1/4 – 1/3 khuôn, sau đó đặt một viên Ganache vào chính giữa rồi phủ thêm một phần bột lên trên. Cần đổ bột làm sao để Ganache nằm hoàn toàn bên trong bột. Bột cao tối đa 4/5 khuôn để chừa chỗ cho bánh nở khi nướng.</p>
@@ -81,4 +73,4 @@ description: "cách làm bánh sô-cô-la núi lửa (molten lava cake) tuyệt 
 <p>2. Ganache nhiều sẽ giúp bánh có lượng chất lỏng trào ra nhiều hơn. Nhưng không nên làm Ganache quá to so với phần vỏ bánh vì Ganache sẽ trào lên trong khi nướng nhiều hơn.</p>
 <p>Bánh ngon nhất là ăn ngay sau khi nướng, khi bánh còn nóng ấm. Có thể để bánh trong hộp kín ở nơi thoáng mát, nhiệt độ dưới 20 độ C (nếu dùng trong ngày hôm sau) hoặc bảo quản trong ngăn mát tủ lạnh từ 1 – 2 ngày. Khi dùng cho bánh vào lò vi sóng quay khoảng 15 – 30 giây (tùy công suất lò) cho bánh ấm nóng và phần Ganache lỏng trở lại.</p>
 <p>Bánh ngon hơn nếu dùng kèm kem tươi đánh bông (whipped cream), kem lạnh (ice cream) hoặc hoa quả ..</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

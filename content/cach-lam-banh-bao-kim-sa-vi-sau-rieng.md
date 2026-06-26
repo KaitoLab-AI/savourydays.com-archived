@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2015/10/banh-bao-sau-rieng.jpg"
 description: "cách làm bánh bao kim sa vị sầu riêng thơm ngon, có video minh họa"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Nhiều người có thể cho rằng nấu ăn thật là buồn chán và tẻ nhạt Nhưng mình lại nghĩ nấu nướng là công việc có nhiều đất để sáng tạo cực kì. Thêm nữa là cảm hứng đôi khi xuất hiện kiểu bắc cầu theo một cách không lường trước được. Kiểu như đang làm món A, tự nhiên liên hệ tới món B, và kết quả là có món X Y Z nào đấy do A và B kết hợp lại. Như món bánh bao này, mình nghĩ ra nó lúc đang làm bánh trung thu sầu riêng. Thấy vị bánh trung thu có sầu riêng, trứng muối, thoảng vị ngậy cốt dừa, hợp ơi là hợp. Vậy là nghĩ sao không chuyển sự kết hợp hoàn hảo này qua bánh bao nhỉ?</p>
 <p>Và thế là món bánh bao Kim Sa vị sầu riêng ra đời :D</p>
 <p>Vỏ bánh vẫn là công thức mọi khi thôi. Mình có thêm ít màu vàng và màu đỏ (màu gel của Wilton) để làm cho vỏ bánh rực rỡ hơn một chút. Nói thật là trước khi làm thử vỏ bánh màu vàng thì mình cũng không quan tâm lắm tới chuyện màu sắc của vỏ bánh đâu. Nhưng sau khi làm rồi lại thấy cũng xinh, nhất là khi nặn vỏ bánh, nhìn mấy cái bánh con con yêu kinh khủng.</p>
 <p>Phần nhân bánh thì mình chỉnh sửa một chút để có thêm vị sầu riêng và đảm bảo là vẫn đủ lỏng để nhân chảy đẹp như công thức gốc. Lúc hấp xong, bẻ bánh ra cứ gọi là thơm nức mũi: nào là sữa, là vị ngậy của bơ, vị hơi cát cát, mằn mặn, bùi bùi của trứng muối tán nhuyễn, và sầu riêng ngây ngất nữa (các “con nghiện” sầu riêng đảm bảo là sẽ chết đứ đừ :D).</p>
-<p><img alt="IMG_4104-1" class="aligncenter size-full wp-image-6769" height="1068" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2015/10/IMG_4104-1.jpg" width="1600"/></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><img alt="IMG_4104-1" class="aligncenter size-full wp-image-6769" height="1068" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2015/10/IMG_4104-1.jpg" width="1600"/></p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <p><strong>A. Nhân bánh</strong></p>
 <ul>
@@ -49,10 +45,7 @@ description: "cách làm bánh bao kim sa vị sầu riêng thơm ngon, có vide
 <p>Cách làm bánh về cơ bản giống với <a href="/video-banh-bao-kim-sa-banh-bao-trung-muoi-liu-sha-bao/" target="_blank">cách làm bánh bao Kim Sa trong bài viết này </a>(các bạn xem video và đọc cả các lưu ý trong bài nhé). Có một vài thay đổi như sau:</p>
 <p>1. Nhân bánh:</p>
 <p>– Hấp hoặc nướng chín trứng muối như trong vide o- để nguội.</p>
-<p>– Cho tất cả các nguyên liệu trong phần “nhân bánh” vào máy xay (sinh tố)/ <em>food processor. </em>Xay tới khi các nguyên liệu hòa quyện và thành một hỗn hợp đặc sệt, chia vào khuôn. Để tủ đá qua đêm cho nhân cứng hoàn toàn. Chúng ta sẽ có 15 phần nhân, mỗi phần nặng khoảng 13 – 15 gram.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>– Cho tất cả các nguyên liệu trong phần “nhân bánh” vào máy xay (sinh tố)/ <em>food processor. </em>Xay tới khi các nguyên liệu hòa quyện và thành một hỗn hợp đặc sệt, chia vào khuôn. Để tủ đá qua đêm cho nhân cứng hoàn toàn. Chúng ta sẽ có 15 phần nhân, mỗi phần nặng khoảng 13 – 15 gram.</p>
 <p>2. Vỏ bánh:</p>
 <p>– Mình dùng màu gel của Wilton để tạo màu vàng cho vỏ bánh. Mình trộn màu với sữa trong “phần nguyên liệu thứ nhất” trong vỏ bánh. Trước tiên là pha một ít màu vàng (khoảng nửa thìa cỡ 1/8 teaspoon vì màu gel rất đậm nên không cần quá nhiều). Sau đó cho thêm một ít màu đỏ, vừa cho vừa quấy đều tới khi sữa có màu vàng cam đậm. Nên pha màu đậm một chút, khi trộn với bột sẽ thành vừa.</p>
 <p>– Ngoài Wilton ra, các bạn có thể dùng màu của các hãng lớn như Americon color. Màu thực phẩm ở VN không có nhãn mác thì không nên dùng.</p>
@@ -71,4 +64,4 @@ description: "cách làm bánh bao kim sa vị sầu riêng thơm ngon, có vide
 <li><a href="/video-cach-lam-banh-bao-a-z-va-cach-bat-mui-banh-bao/" target="_blank">Cách làm bánh bao A-Z cùng các công thức bánh bao trứng muối lạp sườn, bánh bao sữa chay, bánh bao nhân cade, bánh bao kim sa …</a></li>
 <li><a href="/banh-bao-nhan-xa-xiu/" target="_blank">Cách làm bánh bao – Công thức làm bánh bao nhân xá xíu</a></li>
 </ul>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

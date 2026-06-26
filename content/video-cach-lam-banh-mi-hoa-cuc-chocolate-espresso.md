@@ -8,17 +8,13 @@ image: "/wp-content/uploads/2019/01/cách-làm-bánh-mì-hoa-cúc-chocolate-bann
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;"><em>“<span style="color: #000000;">Nothing is better than a friend, unless it is a friend with chocolate”</span></em> – Không có gì tuyệt vời hơn một người bạn, trừ khi là một người bạn đi kèm với chocolate :D</span></p>
 <p><span style="font-weight: 400; color: #000000;">Biết là mùa đông ăn gì cũng ngon, nhưng chocolate và cafe thì mình xin phép “ưu tiên” hơn một bậc. Biết là bánh mì nướng vào mùa nào cũng thơm, nhưng mùa đông thì mình xin phép “yêu thích” hơn nhiều chút. Bánh mì kết hợp với chocolate, tụi mình gọi nó là “siu phẩm” của mùa đông ;)</span></p>
 <div class="" data-block="true" data-editor="128o7" data-offset-key="6im0h-0-0">
 <p class="_1mf _1mj" data-offset-key="6im0h-0-0"><span style="color: #000000;">Khi chưa làm món này, mình chỉ nghĩ nó sẽ là một món bánh mì hoa cúc “kiểu mới”, thêm vị chocolate và cà phê thôi. Nhưng làm rồi thì mới thấy kết quả hơn cả sức tưởng tượng luôn. Thớ bánh mì hoa cúc chocolate này siêu mềm, siêu siêu xốp, mềm và xốp hơn cả món bánh mì sữa đặc rất ngon mà mình giới thiệu tháng trước. Mình đoán có thể bột cacao đã có tác dụng làm gluten yếu hơn, khiến cho ruột bánh mềm hơn. Đồng thời tính chất acid trong bột cacao cũng là một nhân tố giúp bánh thơm hơn. Tuy nhiên vì gluten bị yếu đi nên so với bánh truyền thống thì bánh hoa cúc vị chocolate có vị hơi kém dai hơn một xíu. Nhưng bù lại thì bánh rất thơm vị chocolate quyện với cà phê, lại hơi ngòn ngọt, hơi đăng đắng. Hấp dẫn tới mức mà lần nào nướng xong, bánh ra khỏi lò chưa kịp nguội hẳn đã bị các thành viên của SD team tranh nhau xử lí hết sạch.</span></p>
 </div>
 <p><span style="color: #000000;">Khá lâu rồi SD mới lại có thêm công thức bánh mì mới, nhưng đều là những món mà mình ưng ý vô cùng. Lần trước là <strong><a href="/video-banh-mi-sua-nhat-ban/">bánh mì sữa đặc Nhật bản</a></strong>, lần này là bánh mì hoa cúc chocolate… hihi… Tuy biết là Tết sắp đến rồi nhưng trước khi giới thiệu các món cho ngày Tết, tụi mình cứ làm một vài ổ để thoả mãn cái dạ dày trong những ngày giá rét này nhé. </span></p>
-<p><img alt="" class="aligncenter size-large wp-image-7822" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/cách-làm-bánh-mì-hoa-cúc-chocolate-1024x683.jpg" width="1024"/></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><img alt="" class="aligncenter size-large wp-image-7822" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/cách-làm-bánh-mì-hoa-cúc-chocolate-1024x683.jpg" width="1024"/></p>
 <h2><span style="color: #000000;">CÁCH LÀM BÁNH MÌ HOA CÚC CHOCOLATE </span></h2>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <ul>
@@ -45,10 +41,7 @@ description: ""
 <p><span style="color: #000000;">2. Hòa tan bột cafe trong sữa ấm, sau đó cho kem tươi vào trộn đều.</span></p>
 <p><span style="color: #000000;">3. Cho chất lỏng gồm sữa, trứng và vanilla và âu bột khô, trộn đến khi các nguyên liệu hòa quyện. Che kín mặt âu và để bột nghỉ trong 20 phút. <span style="font-weight: 400;">Bước để nghỉ này không bắt buộc nhưng sẽ giúp cho công đoạn nhồi dễ dàng hơn.</span></span></p>
 <p><span style="font-weight: 400; color: #000000;">4. Sau khi bột nghỉ đủ thời gian. Để máy ở tốc độ thấp. Vừa nhồi bột vừa cho từng phần nhỏ bơ vào. Khi bơ hoà quyện với nguyên liệu mới cho phần tiếp theo. </span></p>
-<p><span style="font-weight: 400; color: #000000;">Lưu ý: Nếu nhồi bằng tay thì nên cho bột vào tủ lạnh để nghỉ ở bước 3 và cần thao tác rất nhanh để tránh làm chảy bơ. </span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">Lưu ý: Nếu nhồi bằng tay thì nên cho bột vào tủ lạnh để nghỉ ở bước 3 và cần thao tác rất nhanh để tránh làm chảy bơ. </span></p>
 <p><span style="color: #000000;">5. Sau khi cho hết bơ vào nhồi cùng bột, tăng máy lên tốc độ vừa, nhồi đến khi bột tương đối mịn hơn, dẻo dai hơn (mất khoảng 10 – 12 phút tuỳ tốc độ máy). </span></p>
 <p><span style="color: #000000;">6. Rắc bột khô lên mặt bàn để chống dính. Nhẹ nhàng nhồi và đập bột thêm 3 – 4 phút, giúp cho bột dẻo dai và mịn màng hơn. Bột đạt là khi có thể kéo thành màng mỏng mà không rách. Chi tiêt về thao tác và cách kiểm tra bột, các bạn xem trong video nhé. </span></p>
 <p><span style="color: #000000;"><span style="font-weight: 400;">7</span><span style="font-weight: 400;">. Đặt bột vào âu hoặc nồi lớn. Dùng nilon hoặc khăn che kín miệng âu để tránh bột bị khô. Ủ bột ở nơi ấm áp</span> (nhiệt độ lí tưởng là khoảng 30℃) đến khi bột nở gấp đôi (khoảng 45 – 60 phút tùy vào nhiệt độ). Trời mùa đông lạnh, các bạn có thể bật lò một chút xíu cho bên trong lò hơi ấm ấm, khoảng 30 – 35 độ C thì tắt lò rồi cho bột vào ủ. </span></p>
@@ -65,5 +58,3 @@ description: ""
 <p><span style="font-weight: 400; color: #000000;"> Sau khi bánh chín lập tức đổ ra khỏi khuôn (để tránh đế bánh bị hấp hơi). Để nguội bánh hoàn toàn trên rack rồi mới xé/cắt, nếu xé bánh quá sớm khi bánh còn nóng, hơi nóng này sẽ bị “kẹt” lại trong ruột bánh, làm ruột bánh bị bết. </span></p>
 <p><span style="color: #000000;">Chúc các bạn có một ổ bánh thơm ngon như ý :)</span></p>
 
-
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

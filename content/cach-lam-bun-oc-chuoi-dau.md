@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2019/02/cách-làm-bún-ốc-chuối-đậu-banner.j
 description: "Cách làm bún ốc chuối đậu: một món ăn ngon dành cho những ngày trời chớm lạnh, cả gia đình quây quần xì xụp bên nồi ốc nóng hổi, chẳng cần sơn hào hải vị nh"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p> </p>
 <p><span style="color: #000000;">Nếu bạn đã quen với món bún riêu ốc hay bún ốc với nước dùng thanh, chua nhẹ, thì hãy thử đổi món này một lần xem sao nhé (đảm bảo bạn sẽ thích ngay ấy ;) ). Món ăn này tuy nguyên liệu trông nhiều vậy thôi chứ cách làm không phức tạp lắm đâu. Cuối tuần rồi, bỏ một chút thời gian là có một món mới cực kì hấp dẫn để chiêu đãi cả nhà, dù là dùng với bún hay nấu với ít nước để ăn kèm cơm đều ngon. </span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8114" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocchuoidau_final-1024x683.jpg" width="1024"/></p>
@@ -39,10 +38,7 @@ description: "Cách làm bún ốc chuối đậu: một món ăn ngon dành cho
 <li><em><span style="color: #000000;">80 ml dầu ăn</span></em></li>
 <li><em><span style="color: #000000;">1 kg bún sợi nhỏ</span></em></li>
 </ul>
-<p><span style="color: #800000;"><strong>Cách làm</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <p><span style="color: #000000;"> 1. Ốc mua về ngâm trong nước với vài quả ớt thái lát trong ít nhất 2h hoặc qua đêm cho ốc nhả hết chất bẩn. Rửa lại nhiều lần bằng nước sạch.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8116" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocchuoidau1-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">2. Xương lợn rửa thật sạch,  cho vào nồi ngập nước với một thìa cafe muối, đun sôi khoảng 1 phút rồi đổ nước đi, rửa sạch hết bọt bẩn. Cho xương vào nồi với khoảng 1 lít nước. Đun sôi rồi hớt bọt nếu có. Cho vào nồi 3 – 4 củ hành khô, hầm xương trong khoảng 1h (dùng nồi áp suất thì nhanh hơn).</span></p>
@@ -52,10 +48,7 @@ description: "Cách làm bún ốc chuối đậu: một món ăn ngon dành cho
 <p><span style="color: #000000;">4. Chuẩn bị các nguyên liệu còn lại:</span></p>
 <p><span style="color: #000000;">– Chuối xanh tước vỏ, thái lát dày cỡ 0,5cm, ngâm 15’ trong chậu nước muối và 1 thìa dấm cho hết nhựa.</span></p>
 <p><span style="color: #000000;">– Cà chua rửa sạch, bổ múi cau</span></p>
-<p><span style="color: #000000;">– Hành khô bóc vỏ, thái mỏng</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">– Hành khô bóc vỏ, thái mỏng</span></p>
 <p><span style="color: #000000;">– Sả rửa sạch, đập dập, cắt khúc dài 3cm.</span></p>
 <p><span style="color: #000000;">– Hành, tía tô, lá lốt rửa sạch, thái nhỏ.</span></p>
 <p><span style="color: #000000;">– Rau sống rửa sạch, vẩy khô, thái nhỏ vừa ăn.</span></p>
@@ -71,7 +64,6 @@ description: "Cách làm bún ốc chuối đậu: một món ăn ngon dành cho
 <p><img alt="" class="aligncenter size-large wp-image-8121" height="681" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocchuoidau7-1024x681.jpg" width="1024"/></p>
 <p><span style="color: #000000;">8. Đun nóng 30ml dầu ăn, cho ¼ chỗ hành khô thái mỏng vào phi thơm. Cho ốc vào xào săn trong vòng 5’ trên lửa to. Trút ra bát, để riêng.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8122" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocchuoidau8-1024x683.jpg" width="1024"/></p>
-
 
 <p><span style="color: #000000;">9. Cho thêm 1 thìa canh dầu ăn vào chảo, phi thơm ½ chỗ hành khô, cho chuối vào </span><span style="color: #000000;">xào khoảng 5’. Sau đó cho đậu phụ đã rán vào xào cùng thêm 2’, lưu ý đảo nhẹ nhàng tránh đậu bị nát. Cho khoảng 1 bát con nước xương hầm vào chảo, om thêm khoảng 5’ đến khi chuối, đậu chín mềm (nhưng không nát), ngấm đều các gia vị, trút ra bát, để riêng. Nếu nước cạn nhanh có thể cho thêm.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8123" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocchuoidau9-1024x683.jpg" width="1024"/></p>
@@ -100,4 +92,4 @@ description: "Cách làm bún ốc chuối đậu: một món ăn ngon dành cho
 <p><span style="color: #000000;">– Đến khi dầu nguội bớt và không còn nổi bong bóng nữa thì vớt bỏ lá nguyệt quế và hồi.</span></p>
 <p><span style="color: #000000;">– Cho ớt chưng vào lọ thủy tinh và bảo quản ở ngăn mát tủ lạnh.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8127" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocchuoidau14-1024x683.jpg" width="1024"/></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

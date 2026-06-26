@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2017/07/IMG_7123-002.jpg"
 description: "Cách làm bánh mì chà bông nhân phô mai với phần vỏ bánh mì không cần nhồi bột và nhân phô-mai thơm ngon, ngậy béo, chảy tràn khi cắt bánh"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Nếu từ giờ tới cuối năm mà không có thêm công thức bánh mì nào đặc biệt nữa thì bạn bánh mì này chắc chắn sẽ đạt danh hiệu “huê hậu bánh mì toàn xã Savoury Days” :D</p>
 <p>Lý do không phải nằm ở phần nhân phô-mai chảy, thứ làm cho món bánh này đang đặc biệt “hot” hiện tại, mà là nằm ở phần vỏ bánh. Công thức bánh mì này hoàn toàn không cần nhồi, và nó là công thức bánh mì ngọt không cần nhồi ổn nhất mà mình từng thử qua: không phải đợi quá lâu và chất lượng bánh thì cực kì ổn, mềm, xốp, có thể để khá lâu, sau 3 ngày vẫn ăn được.</p>
 <p>Còn với phần nhân bánh thì mình dùng cách đơn giản nhưng hiệu quả là làm nhân riêng rồi bơm vào bánh sau khi đã nướng xong. Nhân bánh này khá đơn giản, không cần nhiều nguyên liệu cầu kì và đắt tiền như cream cheese hay mozzarella nhưng vẫn rất thơm ngon nhờ trứng, sữa và pho-mai bò cười. Các kiểu nhân cho vào bánh rồi nướng sẽ ít nhiều đều có hạn chế ở chỗ là làm cho bánh rất dễ bị bục trong khi nướng, hoặc nhân chuyển lợn cợn hay đặc do nhiệt độ cao làm chín nhân, hoặc tạo ra khoảng hở bên trong bánh. Làm nhân riêng rồi phun vào bánh sau không chỉ khắc phục được tất cả những vấn đề này mà còn nhàn và đơn giản hơn rất nhiều. Ngoài ra, nhân cũng đảm bảo luôn ở trạng thái lỏng kể cả khi bạn để qua ngày.</p>
 <p><span style="color: #ff0000;">Cách làm đã có video nhưng có <strong>khá nhiều chú ý quan trọng giúp cho bánh ngon hơn, </strong>mình liệt kê ở dưới, các bạn đừng bỏ qua nhé.</span></p>
 <h2>CÁCH LÀM BÁNH MÌ CHÀ BÔNG NHÂN PHÔ-MAI (KHÔNG CẦN NHỒI BỘT)</h2>
-<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn 20 x 20 cm hoặc khuôn tròn đường kính 18 – 20 cm (xem chú thích cuối bài nếu không có khuôn)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn 20 x 20 cm hoặc khuôn tròn đường kính 18 – 20 cm (xem chú thích cuối bài nếu không có khuôn)</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span> (làm được 9 miếng nhỏ) (<em>công thức tham khảo và điều chỉnh từ <a href="http://www.recipetineats.com/soft-no-knead-dinner-rolls/">Recipe Tin Eats</a>)</em></p>
 <p><strong>A. Phần bánh mì </strong></p>
 <ul>
@@ -68,10 +64,7 @@ description: "Cách làm bánh mì chà bông nhân phô mai với phần vỏ b
 <li>Cho 3 viên pho-mai bò cười vào trộn cùng hỗn hợp kem trứng. Thêm va-ni và quấy đều (va-ni không bắt buộc). Để nguội về nhiệt độ phòng.</li>
 <li>Cho kem trứng pho-mai vào túi bắt kem. Lồng vào túi có đui (không cần đui phun kem như trong video, đui đầu nhỏ là được). Phun nhân vào các miếng bánh. Phủ ruốc lên trên. Lượng kem trong công thức vừa đủ cho 9 bánh. Nếu muốn ăn rất nhiều nhân thì các bạn có thể tặng công thức lên gấp rưỡi hoặc gấp đôi.</li>
 </ol>
-<p><strong>C. Các lưu ý quan trọng</strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong>C. Các lưu ý quan trọng</strong></p>
 <ol>
 <li><strong>Cách bảo quản bánh: </strong>Cho bánh vào túi hoặc hộp đậy kín. Bảo quản ở nơi thoáng mát, khô hoặc để trong ngăn mát tủ lạnh. Khi ăn quay vi sóng khoảng 15 giây để bánh hơi ấm. Bánh sẽ mềm trở lại. Lưu ý khi quay bánh trong lò vi sóng cần có nắp che đậy tránh bánh bị khô. Nếu để lâu thì không nên phun nhân vào bánh mà tới khi ăn mới cho nhân.</li>
 <li>Vì bánh không cần nhồi bột nên thớ của loại bánh này sẽ không dai nhiều như các loại bánh nhồi kĩ như bánh  mì Hokkaido, bánh mì hoa cúc… Nếu muốn bánh có thớ dai một chút thì sau khi ủ bột lần 1, bạn có thể nhồi bột nhẹ nhàng trong âu khoảng 2 – 3 phút rồi mới chia và tạo hình.</li>
@@ -80,4 +73,4 @@ description: "Cách làm bánh mì chà bông nhân phô mai với phần vỏ b
 <li>Việc dùng sữa và trứng lạnh sẽ giúp cho thời gian ủ lần 1 dài hơn, hỗ trợ việc hình thành gluten và giúp cho bánh có thớ kiểu bánh mì.</li>
 <li>Nếu muốn làm nhân trứng muối, bạn có thể tham khảo cách làm nhân ở món <a href="/video-cach-lam-cupcake-trung-muoi-tinh-than-tre/"><strong>bánh bông lan phô-mai trứng muối tinh than tre này nhé.</strong></a></li>
 </ol>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

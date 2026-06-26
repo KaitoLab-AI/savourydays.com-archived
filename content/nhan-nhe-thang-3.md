@@ -13,10 +13,7 @@ Cả nhà yêu quý,</p>
 <p>Thế là đã sang tháng 3 rồi – tháng có rất nhiều kế hoạch và dự định quan trọng của mình, hi vọng mọi thứ sẽ suôn sẻ và tốt đẹp, đặc biệt là với buổi gặp mặt cả nhà vào cuối tháng :)</p>
 <p>Thật ra khoảng thời gian sắp tới có lẽ cũng sẽ là một đợt rất rất bận nữa của mình, chắc ngang với đợt cuối năm ngoái, khi mà mình cùng một lúc “ôm” cả việc nghiên cứu, lẫn học tiếng Hà Lan, lẫn viết sách và viết blog. Vì đợt này mình về nhà cũng vì việc gia đình chứ không hẳn là về chơi, cho nên trong khoảng thời gian từ giờ đến giữa tháng 4, thời gian dành cho Savoury Days có lẽ sẽ hạn chế hơn rất nhiều, có thể sẽ có một vài đợt mình không có thời gian hoặc điều kiện để lên mạng. Nhưng cả nhà yên tâm, vì kể cả khi mình đi vắng thì vẫn sẽ có các bạn khác giúp mình giữ cho bếp “ấm”. Nếu mọi người để ý chắc sẽ thấy gần đây có 3 “cái tên” rất quen thuộc là <strong>Oriole</strong>, <strong>Hong Phuc</strong> và <strong>Poppi_Muffin</strong>, thường xuyên xuất hiện trong phần phản hồi, và luôn rất nhiệt tình, đưa ra câu trả lời cực đầy đủ và chuẩn xác (mình cũng không thể trả lời tốt hơn được ). Mình cũng hi vọng là thời gian tới đây, khi mình không “vào bếp” được thường xuyên thì ngoài Oriole, Hong Phuc và Poppi_Muffin, sẽ có thêm cả nhiều bạn khác cùng chia sẻ kiến thức và giúp đỡ trả lời câu hỏi của các bạn khác trong bếp :)<span id="more-3809"></span></p>
 <p>Tiếp theo, về buổi gặp mặt tháng 3 thì đến thời điểm này mình đã nhận được khoảng 90 đăng kí. Cảm ơn cả nhà rất nhiều :) Mình sẽ cố gắng tìm một địa điểm đủ rộng rãi và thoải mái. À, riêng về việc đăng kí thì mình nhờ các bạn đăng kí để biết số lượng vậy thôi, còn mình <strong>không giới hạn số người tham dự</strong>, nên vào ngày đó ai có thời gian thì cứ ghé qua nhé, càng đông càng vui mà :)</p>
-<p>Cuối cùng, việc quan trọng nhất liên quan đến mua đồ làm bánh và mang về. Trước hết là mình rất xin lỗi cả nhà vì <span style="color: #ff0000;">sẽ không mua được hết đồ theo đề xuất của các bạn.</span> Một số lí do chính là đồ làm bánh tại Bỉ thực ra không có nhiều, và đặt trên mạng thì rủi ro khá cao vì không biết bao giờ đồ mới chuyển được đến nơi (trong ngày về nhà của mình thì gần lắm rồi). Ngoài ra, đồ làm bánh tại châu Âu nhìn chung là đắt, nếu so với giá bán tại US vì phải cộng thêm thuế và các loại phí vận chuyển khác. Nên mình sẽ cố gắng chọn một vài món đồ phù hợp mà nhiều bạn cần như đui bắt kem, khuôn silicon, và một ít Chocolate làm bánh loại ngon để mang về nhé :)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Cuối cùng, việc quan trọng nhất liên quan đến mua đồ làm bánh và mang về. Trước hết là mình rất xin lỗi cả nhà vì <span style="color: #ff0000;">sẽ không mua được hết đồ theo đề xuất của các bạn.</span> Một số lí do chính là đồ làm bánh tại Bỉ thực ra không có nhiều, và đặt trên mạng thì rủi ro khá cao vì không biết bao giờ đồ mới chuyển được đến nơi (trong ngày về nhà của mình thì gần lắm rồi). Ngoài ra, đồ làm bánh tại châu Âu nhìn chung là đắt, nếu so với giá bán tại US vì phải cộng thêm thuế và các loại phí vận chuyển khác. Nên mình sẽ cố gắng chọn một vài món đồ phù hợp mà nhiều bạn cần như đui bắt kem, khuôn silicon, và một ít Chocolate làm bánh loại ngon để mang về nhé :)</p>
 <p>Các thông tin khác về buổi gặp mặt mình sẽ cập nhật sau. Hẹn gặp các bạn sớm !!!!!</p>
 <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
@@ -25,9 +22,6 @@ Cả nhà yêu quý,</p>
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

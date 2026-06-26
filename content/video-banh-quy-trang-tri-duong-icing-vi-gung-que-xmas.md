@@ -8,16 +8,12 @@ image: ""
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Giáng sinh đang gõ cửa “ầm ầm” rồi ;) Và bánh quy gừng có lẽ là món bánh thích hợp nhất trong tiết trời giá lạnh của mùa Đông này.  Một món bánh không mới nhưng lúc nào cũng được đón nhận nhiệt tình bởi hương vị thơm ngon và rất rất hợp với không khí lễ hội, không khí mùa đông. Năm nay tụi mình làm mới món bánh này với đường icing, kiểu trang trí đơn giản, dễ làm để ngay cả những bạn có ít kinh nghiệm trong bếp nhất cũng có thể làm được. Mong là video sẽ tiếp thêm thật nhiều cảm hứng cho các bạn trong khi chuẩn bị quà tặng Giáng sinh, hay cả năm mới nữa ;) </span></p>
 <p>Với món bánh này, phần bánh quy mình dùng công thức của bánh quy gừng trong <a href="/cach-lam-nha-banh-gung-cong-thuc-moi-kem-video/"><strong>“Nhà bánh gừng”</strong></a>. Một công thức ghi trong bài sẽ làm được 35 – 40 cái bánh. Chọn công thức này vì nó rất dễ làm, lại dễ ăn, kiểu giòn xốp và thơm mùi gừng quế. Nó cũng giữ hình dáng khá tốt nên bánh không lo bị biến dạng nhiều sau khi nướng. Với một món bánh ngon như thế thì kể cả không vẽ trang trí gì vẫn có thể là một món quà tặng thật tuyệt dành cho gia đình và bạn bè ;)</p>
 <p>Nếu các bạn muốn xem phần hướng dẫn cách làm bánh quy thì tụi mình cũng có video, nhưng đăng trong nhóm Facebook “<a href="https://www.facebook.com/groups/lophoclambanhsd"><strong>Lớp học làm bánh Savoury Days</strong></a>“. Các bạn có thể yêu cầu vào nhóm rồi xem trong phần video của nhóm nhé.</p>
 <p>Còn phần đường Icing và trang trí thì có trong video ở dưới rồi (hoặc xem trên Youtube cũng đươc). Các lưu ý cũng ở dưới luôn.</p>
 <h2><span style="color: #800000;">Cách làm đường Royal Icing cookie</span></h2>
-<p><strong><span style="color: #000000;">Nguyên liệu</span></strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong><span style="color: #000000;">Nguyên liệu</span></strong></p>
 <ul>
 <li><em><span style="color: #000000;">170 – 180 gram đường bột (icing sugar)</span></em></li>
 <li><em><span style="color: #000000;">1 thìa canh (tbsp)  bột lòng trắng trứng</span></em></li>
@@ -38,10 +34,7 @@ description: ""
 <li><span style="color: #000000;">Chia đường ra các bát nhỏ, cho màu thực phẩm vào trộn đều tới khi thấy màu đạt. Thường sau khi để khoảng 5 – 10 phút thì màu sẽ lên đậm và đẹp hơn.</span></li>
 </ol>
 <p><span style="color: #000000;">* Lưu ý:</span></p>
-<p><span style="color: #000000;">– Lượng nguyên liệu như trên chỉ để tham khảo, tùy từng loại đường hay bột lòng trắng trứng mà hỗn hợp sẽ có độ đặc/loãng khác nhau. Nếu hỗn hợp quá đặc, cho từ từ, mỗi lần khoảng ½ tsp nước vào, đánh đều tới khi đường loãng ra. Nếu hỗn hợp quá loãng, cho thêm đường xay vào, đánh đều tới khi đường đạt.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">– Lượng nguyên liệu như trên chỉ để tham khảo, tùy từng loại đường hay bột lòng trắng trứng mà hỗn hợp sẽ có độ đặc/loãng khác nhau. Nếu hỗn hợp quá đặc, cho từ từ, mỗi lần khoảng ½ tsp nước vào, đánh đều tới khi đường loãng ra. Nếu hỗn hợp quá loãng, cho thêm đường xay vào, đánh đều tới khi đường đạt.</span></p>
 <p><span style="color: #000000;">– Phần đường này sau đây sẽ dùng để pha màu, tùy độ sở thích và loại màu và lượng màu cho vào sẽ khác nhau. Tốt nhất nên làm đường đặc một chút, khi pha thêm màu đường sẽ còn loãng ra bớt, pha xong nếu thấy đường vẫn đặc quá thì cho nước sau.</span></p>
 <p><span style="color: #000000;">– Để vẽ icing cookie đẹp thì nên dùng 1 loại đường đặc hơn để vẽ viền, sau đó “tô” bên trong bằng đường loãng hơn, như vậy sẽ được phần hình vẽ nét hơn. Để làm điều này thì rất đơn giản. Phần CT đường ghi trên bài là dùng để vẽ viền, sau khi pha màu xong, bạn cho 1 phần nhỏ mỗi màu vào túi bắt kem. Với phần đường còn lại trong bát, cho thêm 1 vài giọt nước, khuấy tới khi đường loãng ra bớt, khi đường chảy xuống bát chỉ mất khoảng 4 – 5 giây để hòa quyện là được, bạn cho mỗi màu vào túi bắt kem, và phần đường này sẽ dùng để tô màu.</span></p>
 <p><span style="color: #000000;">Sau khi pha màu xong cần chanh chóng cho màu vào trong túi bắt kem, gói kín, tránh để đường tiếp xúc với không khí sẽ bị khô rất nhanh.</span></p>
@@ -54,4 +47,4 @@ description: ""
 <ol start="6">
 <li><span style="color: #000000;">Sau khi vẽ xong, để đường khô hoàn toàn ở nhiệt độ phòng, không được để trong tủ lạnh sẽ làm đường bị chảy nước. Với phần đường chưa dùng hết, có thể bọc kín để ở nhiệt độ phòng khoảng 2 – 3 ngày, sau khi để qua ngày thấy đường hơi chảy nước, các bạn nên đánh đều lại (hoặc cho thêm đường khô nếu cần) trước khi dùng.</span></li>
 </ol>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

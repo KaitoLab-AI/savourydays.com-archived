@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2013/02/MatchaCoconutSquare.jpg"
 description: "bánh phú sĩ, gateau trà xanh, tự học làm bánh, kem bánh su"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
 <p>——————————————</p>
 <p>“Cảm hứng” cho món bánh này đến từ bánh Phú Sĩ, một loại bánh có lẽ là rất phổ biến với người Việt mình nhỉ? Thật ra mình chưa ăn bánh Phú Sĩ bao giờ (hoặc có thể đã ăn rồi nhưng từ rất lâu nên đến giờ cũng không nhớ được). Nhưng khi nghe tả về loại bánh này thì mình đặc biệt ấn tượng với phần kem bánh: “… <em>thơm mùi lá dứa và nước dừa, mát lạnh và đặc biệt là ăn vào lại có vị hơi dai dai, nhìn chung là thơm ngon khó cưỡng</em>”. Tuy nhiên, khi làm thử theo CT tìm được từ mạng thì mình hơi thất vọng một chút vì độ dai của phần kem này không được như mong đợi. Nói đúng hơn là mình thấy không khác nhiều so với nhân kem của bánh Choux, chỉ khác là có thêm vị lá dứa và cốt dừa thôi. Nên mình tự thay đổi công thức một chút và sản phẩm là món bánh trong hình. Công thức kem này làm không khó và với mình thì rất ngon. Kem thơm mát vị trà xanh và dừa, ngon hơn khi để lạnh và hơi dai theo đúng yêu cầu. À, kem này dùng làm nhân bánh Su cũng rất ngon.</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/8475232961/" title="IMG_9176-1 by LinhTrang9185, on Flickr"><img alt="IMG_9176-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8383/8475232961_13048f0fc0_z.jpg" width="429"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8475232961/" title="IMG_9176-1 by LinhTrang9185, on Flickr"><img alt="IMG_9176-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8383/8475232961_13048f0fc0_z.jpg" width="429"/></a></p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <p><strong>A. Bạt bánh</strong> <strong>(khuôn/ khay làm bánh cuộn kích thước 20x30cm)</strong></p>
 <p>Các bạn có thể chọn 1 trong các công thức sau đây</p>
@@ -42,10 +38,7 @@ description: "bánh phú sĩ, gateau trà xanh, tự học làm bánh, kem bánh
 <p><strong>A. Bạt bánh</strong></p>
 <p>Với phần bạt bánh này, các bạn có thể chọn một trong các công thức như mình gợi ý trong phần nguyên liệu, tùy theo sở thích và khẩu vị của gia đình. Trong 3 công thức gợi ý ở trên thì Gateau cơ bản dễ làm và khả năng thành công cao nhất. Tất cả các công thức đều cho bánh mềm, nhẹ và xốp, nhưng Gateau cơ bản nhiều bột nhất nên “chắc” hơn hai loại bánh còn lại một chút.</p>
 <p>Mình dùng khuôn dạng khay, cỡ 20x30cm. Mục đích là sau khi nướng xong chỉ cần cắt đôi là có 2 bạt bánh cỡ 20x15cm, không mất công xẻ ngang bánh. Các bạn có thể thay bằng khuôn vuông 20x20cm (bạt bánh sẽ mỏng hơn một chút) hoặc khuôn tròn đường kính 22cm.</p>
-<p>Bánh sau khi nướng để nguội hẳn trên rack rồi mới tiếp tục trang trí với phần kem.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Bánh sau khi nướng để nguội hẳn trên rack rồi mới tiếp tục trang trí với phần kem.</p>
 <p><strong>B. Kem dừa trà xanh (Coconut Matcha custard)</strong></p>
 <p>1. Cân bột năng và bột trà xanh. Dùng phới lồng trộn thật đều (hình 1).</p>
 <p>2. Cho trứng và đường vào âu. Dùng phới lồng cầm tay đánh đến khi trứng bông nhẹ, chuyển màu vàng nhạt, bọt khí tương đối nhỏ (hình 2-3).</p>
@@ -62,7 +55,6 @@ description: "bánh phú sĩ, gateau trà xanh, tự học làm bánh, kem bánh
 <p>Do đó, khi làm <span style="color: #ff0000;"><strong>không nên thay đổi thứ tự hoặc ghép các bước lại</strong>.</span> Ví dụ: cho bột, trứng, đường, sữa… vào trộn cùng một lúc.</p>
 <p>2. Bột sau khi nguội sẽ tiếp tục đặc thêm nên các bạn nên dừng lại khi thấy bột gần đặc như mong muốn, tránh để bột chín quá, kem sẽ đặc và có thể hơi bứ.</p>
 
-
 <p>3. Nếu trong quá trình quấy thấy bột có dấu hiệu bị vón thì bắc nồi ra khỏi bếp và quấy thật mạnh và nhanh tay, bột sẽ mịn mượt trở lại.</p>
 <p>4. Nếu hỗn hợp đặc quá nhanh và nếm thử vẫn còn thấy vị bột sống thì cho thêm 1-2 thìa canh sữa, giảm lửa xuống mức nhỏ nhất, tiếp tục quấy đến khi bột chín hẳn, nếm thử không còn thấy vị bột nữa.</p>
 <p><strong>C. Hoàn thiện</strong></p>
@@ -71,4 +63,4 @@ description: "bánh phú sĩ, gateau trà xanh, tự học làm bánh, kem bánh
 <p>Bảo quản trong tủ lạnh. Dùng trong 1-2 ngày.</p>
 <p>Khi cắt bánh, nên chuẩn bị một bát nước sôi và 1 chiếc khăn ẩm. Dùng dao rất sắc. Vì phần kem khá dính nên khi cắt cần cắt nhanh và dứt khoát. Lau dao sau mỗi lần cắt.</p>
 <p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/8476321544/" title="IMG_9141-1 by LinhTrang9185, on Flickr"><img alt="IMG_9141-1" height="500" loading="lazy" src="http://farm9.staticflickr.com/8385/8476321544_1c2698a8f9.jpg" width="416"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

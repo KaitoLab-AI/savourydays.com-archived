@@ -12,10 +12,7 @@ description: "tự học làm bánh, đánh bông trứng, chóp nhọn, soft pe
 <p><span style="color: #ff0000;">* <strong>Toàn bộ nội dung bài viết và hình ảnh thuộc bản quyền của Savoury Days (trừ các hình ảnh &amp; nội dung có ghi nguồn trích dẫn). Vui lòng <span style="text-decoration: underline;">không sao chép, đăng tải hoặc sử dụng lại dưới bất kì hình thức</span> nào nếu không có sự đồng ý của tác giả.</strong></span></p>
 <p>————————————</p>
 <p>Lòng trắng trứng đánh bông là nguyên liệu khá phổ biến và gần như không thể thiếu trong nhiều công thức cả bánh lẫn… không phải là bánh. Một vài ví dụ điển hình là Chiffon, Angel food cake, Macarons, Pavlova, Souffle, Meringue, kem bơ trang trí bánh, đường Icing (royal icing)… Đánh bông lòng trắng trứng thế nào cho đúng cách, và sử dụng lòng trắng trứng sau khi đánh bông như thế nào cho hiệu quả, có lẽ cũng là một trong những kiến thức cơ bản với người làm bánh. Ở trong bài viết này, mình chia thành các phần chính liên quan đến quy trình đánh bông và sử dụng lòng trắng trứng sau khi đánh bông, bao gồm cả các chú ý từ việc chuẩn bị nguyên liệu, dụng cụ cho đến quá trình đánh trứng… Hi vọng cách chia phần này sẽ giúp các bạn tiện theo dõi và thực hành hơn :) Cụ thể các phần chính sẽ gồm có:</p>
-<p style="padding-left: 30px;">1. Chuẩn bị nguyên liệu và dụng cụ</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p style="padding-left: 30px;">1. Chuẩn bị nguyên liệu và dụng cụ</p>
 <p style="padding-left: 30px;">2. Quy trình đánh bông lòng trắng trứng</p>
 <p style="padding-left: 30px;">3. Sử dụng lòng trắng trứng sau đánh bông &amp; các chú ý khác</p>
 <p><strong>I. <span style="text-decoration: underline;">Chuẩn bị</span></strong></p>
@@ -38,10 +35,7 @@ description: "tự học làm bánh, đánh bông trứng, chóp nhọn, soft pe
 <ul>
 <li>dùng dụng cụ tách trứng</li>
 </ul>
-<p style="text-align: center;"><a href="/wp-content/uploads/2012/07/IMG_0388.jpg"><img alt="" class="aligncenter wp-image-2928" height="355" loading="lazy" sizes="(max-width: 472px) 100vw, 472px" src="/wp-content/uploads/2012/07/IMG_0388-1024x768.jpg" title="IMG_0388" width="472"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p style="text-align: center;"><a href="/wp-content/uploads/2012/07/IMG_0388.jpg"><img alt="" class="aligncenter wp-image-2928" height="355" loading="lazy" sizes="(max-width: 472px) 100vw, 472px" src="/wp-content/uploads/2012/07/IMG_0388-1024x768.jpg" title="IMG_0388" width="472"/></a></p>
 <p style="text-align: center;"><em>Hình minh họa (nguồn: http://pacificthyme.blogspot.fr/2010/11/martha-washingtons-great-cake.html)</em></p>
 <ul>
 <li>đập trứng lên tay, dùng các ngón tay giữ lại lòng đỏ và để lòng trắng chảy qua khe hở giữa các ngón tay xuống dưới</li>
@@ -64,7 +58,6 @@ description: "tự học làm bánh, đánh bông trứng, chóp nhọn, soft pe
 <p><a href="/wp-content/uploads/2012/07/10-25mauviel-copper-bowl.jpg"><img alt="" class="aligncenter size-full wp-image-2929" height="275" loading="lazy" sizes="(max-width: 275px) 100vw, 275px" src="/wp-content/uploads/2012/07/10-25mauviel-copper-bowl.jpg" title="10-25mauviel copper bowl" width="275"/></a></p>
 <p>Một lưu ý rất quan trọng khác với dụng cụ đánh trứng là <span style="color: #800000;"><strong>âu đánh và que đánh phải rất sạch</strong></span>, đặc biệt là <span style="color: #800000;"><strong>không được dính chất béo</strong> </span>như lòng đỏ, dầu mỡ, bơ, kem tươi… Lý do như mình đã giải thích ở trên, trong phần tách lòng trắng trứng. Tốt nhất là sau khi rửa sạch âu, các bạn có thể tráng lại một lần nữa bằng nước sôi, lau khô rồi mới sử dụng (nhất là những khi nào làm nhiều thứ liên tục, chẳng hạn như đánh lòng đỏ hoặc đánh kem trước, rồi đánh lòng trắng thì lưu ý nhé).</p>
 <p><strong><span style="color: #800000;">3. Đường</span></strong></p>
-
 
 <p>Đường là nguyên liệu quan trọng trong đánh bông lòng trắng trứng. Nếu không có đường, lòng trắng trứng sẽ rất khó đạt đến tình trạng đàn hồi, bóng dẻo, và sẽ rất nhanh chuyển sang trạng thái khô, lồng phồng như bọt xà phòng.</p>
 <p>Nếu công thức không ghi đánh lòng trắng trứng với đường thì các bạn có thể lấy một phần đường trong công thức để cho vào trong khi đánh bông, nhưng đừng cho quá nhiều nhé, tối đa là <strong>lượng đường ngang bằng với </strong><strong>lượng của lòng trắng </strong>thôi.</p>
@@ -91,9 +84,6 @@ description: "tự học làm bánh, đánh bông trứng, chóp nhọn, soft pe
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

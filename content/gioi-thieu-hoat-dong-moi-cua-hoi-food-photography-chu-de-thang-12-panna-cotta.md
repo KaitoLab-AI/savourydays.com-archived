@@ -12,10 +12,7 @@ description: ""
 <p>Chắc là trước hết sẽ cần phải giới thiệu một chút về Hội Food Photography. Tên đầy đủ của hội là “Hội những người thích Food Photography và ăn uống” (rất rõ ràng nhỉ :) ) – tổng hành dinh ở <a href="http://www.facebook.com/groups/179901282024560/">ĐÂY</a> . Hội được thành lập từ đầu năm ngoái từ ý tưởng của chị White Poplar (Anh Nguyen – tại <a href="http://www.lanvaobep.org/">Lăn Vào Bếp</a>) và sau đấy thì nhanh chóng thu hút được rất nhiều các bạn thích nấu ăn (hay là ăn uống nói chung) và chụp ảnh đồ ăn nữa :). Từ tháng 12 này thì bọn mình (tức chị White Poplar và mình) cùng nhau tổ chức một hoạt động mới theo tháng cho hội mang tên là “Cùng nấu ăn – Cùng chụp ảnh”. Ý tưởng của bọn mình – hay đúng hơn là hi vọng và mong muốn của cả hai chị em khi tổ chức hoạt động này là tạo ra một sân chơi cho các bạn cũng yêu thích nấu ăn và chụp ảnh (giống bọn mình) :). Và sau đấy là tạo điều kiện để mọi người cùng luyện tập để nâng cao tay nghề trong cả nấu lẫn chụp.</p>
 <p>Sơ qua là như vậy, còn chi tiết cụ thể hơn thì cả nhà thêm phần thông báo ở dưới nha (công thức Panna Cotta cơ bản cũng ở dưới luôn).</p>
 <p>———————–</p>
-<p>Dear cả nhà,</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Dear cả nhà,</p>
 <p>Vậy là sau hai năm, từ ý tưởng ban đầu của White Poplar (Lăn vào bếp) về một sân chơi cho những ai thích nấu ăn và chụp ảnh đồ ăn, hội Food Photography của chúng mình đã phát triển lớn mạnh nhanh chóng, với gần 500 thành viên và rất rất nhiều các tấm ảnh đẹp, đồ ăn ngon được các bạn chia sẻ. Với hi vọng sẽ giúp cho hoạt động nấu &amp; chụp xôm tụ hơn nữa, cũng như tạo cơ hội luyên tập, chia sẻ và học hỏi lẫn nhau giữa các thành viên, bọn mình (White Poplar tại <a href="http://www.lanvaobep.org/">Lăn Vào Bếp</a> và Linh Trang tại <a href="/">Savoury Days</a>) xin giới thiệu hoạt động mới của hội bắt đầu từ tháng 12/2011 với tên gọi:  “Cùng nấu ăn – Cùng chụp ảnh”.</p>
 <p>Về cơ bản thì hoạt động mới này khá gần với hoạt động chụp ảnh theo tháng cũ của hội. Tức là mỗi tháng chúng mình sẽ có một chủ đề để nấu – chụp và thảo luận (hay là “888” :)). Điểm mới của hoạt động lần này là chủ đề sẽ hẹp hơn và sẽ có nhiều yếu tố giúp nâng cao tay nghề chụp ảnh hơn. Cụ thể là đầu mỗi tháng bọn mình sẽ “ra đề” bằng một công thức. Ngoài công thức này bọn mình sẽ có gợi ý thêm về ý tưởng chụp ảnh, và có thể một vài lưu ý và mẹo mực khác để giúp bức ảnh đẹp hơn nữa. Các thành viên sẽ theo công thức chính này để nấu, chụp và chia sẻ ảnh sản phẩm trên Facebook của Hội. Cuối tháng bọn mình sẽ tổng kết lại bằng cách lựa chọn những tấm ảnh xuất sắc nhất của mỗi thành viên và cùng rút ra kinh nghiệm để mọi người cùng học hỏi và tiến bộ :-)</p>
 <p>Mong muốn của bọn mình khi khởi xướng hoạt động này là tạo một sân chơi cho các chị em (và cả anh em) thích nấu ăn và chụp ảnh. Công thức sẽ được lựa chọn cực kì đơn giản, sao cho ai cũng có thể làm được, và phần ảnh thì không câu nệ máy “xịn” hay “không xịn”, miễn là có một niềm đam mê, sở thích và mong muốn tiến bộ :) Bọn mình cũng hi vọng hoạt động này sẽ giúp anh chị em trong Hội gắn bó hơn và cùng nhau chia sẻ, đóng góp ý kiến trên mỗi bức ảnh để cùng tiến bộ. Và cuối cùng là mong mọi người sẽ luôn ủng hộ và tích cực tham gia vào các chủ đề mỗi tháng để hoạt động này có thể được duy trì lâu dài nhé.</p>
@@ -32,10 +29,7 @@ description: ""
 <p><span id="more-1359"></span></p>
 <p><strong>Cách làm</strong></p>
 <p><span style="text-decoration: underline;">* Với Gelatin dạng bột</span></p>
-<p>1. Cho kem tươi, sữa tươi và đường vào nồi. Đun lửa vừa, vừa đun vừa quấy đến khi hỗn hợp mấp mé sôi và đường tan hết.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>1. Cho kem tươi, sữa tươi và đường vào nồi. Đun lửa vừa, vừa đun vừa quấy đến khi hỗn hợp mấp mé sôi và đường tan hết.</p>
 <p>2. Đun sôi khoảng 4 thìa canh nước. Rắc gelatin bột vào, khuấy đều cho tan. Lọc qua rây vào hỗn hợp kem tươi trên. Nhanh tay quấy đều</p>
 <p>3. Chia hỗn hợp vào các khuôn, cốc… Để nguội rồi cho vào tủ lạnh để tối thiểu 4 tiếng.</p>
 <p><span style="text-decoration: underline;">* Với Gelatin dạng lá:</span></p>
@@ -66,7 +60,6 @@ description: ""
 <p><a href="http://www.flickr.com/photos/55490207@N05/6412126223/" title="IMG_0052-1 by LinhTrang9185, on Flickr"><img alt="IMG_0052-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7032/6412126223_7ea7701114_z.jpg" width="437"/></a></p>
 <p>Set up để chụp món ăn:</p>
 
-
 <p><a href="http://www.flickr.com/photos/55490207@N05/6425669691/" title="IMG_0068-1 by LinhTrang9185, on Flickr"><img alt="IMG_0068-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7147/6425669691_20c9a5c7be_z.jpg" width="437"/></a><br/>
 Cuối cùng, có một số bài viết chia sẻ về chụp ảnh đồ ăn do bọn mình viết trong thời gian vừa qua, hi vọng sẽ giúp ích cho các bạn.</p>
 <p><em><strong>Các bài viết của White Poplar</strong></em></p>
@@ -87,9 +80,6 @@ Cuối cùng, có một số bài viết chia sẻ về chụp ảnh đồ ăn d
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

@@ -13,10 +13,7 @@ description: ""
 <p>Năm nay, thật trùng hợp là tập 2 của Nhật ký học làm bánh ra đời sau tập 1 đúng một năm. Nhân niềm vui mới này, và cũng nhân dịp SD sắp tròn 4 năm tuổi, chúng mình lại mở một bữa tiệc bánh nữa nhé ;)</p>
 <p>Cách thức tham dự vẫn như năm ngoái: mời các bạn gửi hình chụp thành quả từ bếp (kèm theo một vài dòng giới thiệu hay chia sẻ cảm xúc) tới địa chỉ mail của SD. Mình sẽ tổng hợp và đăng lại tại Facebook của Savoury Days, để tất cả các bạn bè yêu bếp và bánh khác của SD có thể cùng chiêm ngưỡng và có thêm nguồn cảm hứng cũng như động lực xắn tay áo, lăn vào bếp :)</p>
 <p>Để các bạn mới có thể hiểu rõ hơn về “Niềm vui từ bếp”, mình xin trích đăng lại một vài đoạn viết từ phần giới thiệu <a href="/moi-binh-chon-cho-cuoc-thi-nhat-ki-hoc-lam-banh-niem-vui-tu-bep/">cuộc thi năm ngoái</a>, về tinh thần chung của trò chơi nhé:</p>
-<blockquote><p><em>Ý tưởng của cuộc thi này xuất phát từ rất nhiều những chia sẻ mà mình nhận được tại SD trong 3 năm vừa qua – đôi khi chỉ là những dòng phản hồi rất ngắn nhưng đã mang lại cho mình bao nhiêu niềm vui và cả cảm hứng để tiếp tục vào bếp. Và mình nghĩ tại sao không thể nhân rộng niềm vui và những sự chia sẻ này hơn, để cảm hứng sẽ được lan truyền đến rất nhiều các bạn bè khác của Savoury Days nữa. Mỗi người chúng ta hẳn đều có những đoạn nhật kí trong bếp của riêng mình. Nếu có thể cùng chia sẻ những trang nhật kí đầy ắp niềm vui và sự tự hào khi tự tay mình làm ra những món ăn, mẻ bánh xinh đẹp, tiếp thêm động lực và cả sự tự tin vào bếp cho nhiều bạn khác, hẳn là sẽ rất tuyệt, nhỉ?</em></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<blockquote><p><em>Ý tưởng của cuộc thi này xuất phát từ rất nhiều những chia sẻ mà mình nhận được tại SD trong 3 năm vừa qua – đôi khi chỉ là những dòng phản hồi rất ngắn nhưng đã mang lại cho mình bao nhiêu niềm vui và cả cảm hứng để tiếp tục vào bếp. Và mình nghĩ tại sao không thể nhân rộng niềm vui và những sự chia sẻ này hơn, để cảm hứng sẽ được lan truyền đến rất nhiều các bạn bè khác của Savoury Days nữa. Mỗi người chúng ta hẳn đều có những đoạn nhật kí trong bếp của riêng mình. Nếu có thể cùng chia sẻ những trang nhật kí đầy ắp niềm vui và sự tự hào khi tự tay mình làm ra những món ăn, mẻ bánh xinh đẹp, tiếp thêm động lực và cả sự tự tin vào bếp cho nhiều bạn khác, hẳn là sẽ rất tuyệt, nhỉ?</em></p>
 <p><em>Vì tiêu chí chung của cuộc thi là chia sẻ niềm vui từ bếp nên món ăn ngon, bức ảnh đẹp sẽ chỉ chiếm 1 phần thôi, còn lại là cảm hứng, câu chuyện mà bạn chia sẻ, và các yếu tố khác nữa. Mình luôn nghĩ là sự say mê và tình yêu chiếm phần lớn trong sự thành công của bất kì công việc gì, làm bánh cũng không là ngoại lệ. Cho nên kể cả khi bạn không có máy ảnh “xịn” hay mới bắt đầu làm bánh, thì cũng đừng ngại ngần trong việc tham gia nhé.</em></p></blockquote>
 <p>Còn bây giờ là thông tin cụ thể về cách thức tham dự và (tất nhiên là cả) cách bình chọn, xét duyệt “giải thưởng” ;) (<span style="color: #ff0000;"><strong>nhờ cả nhà đọc kĩ trước khi gửi bài nha</strong></span>)</p>
 <p>(*) <span style="text-decoration: underline;"><strong>Hình thức tham gia &amp; Thời gian gửi bài dự thi</strong></span></p>
@@ -31,10 +28,7 @@ description: ""
 <li>Địa chỉ facebook (không bắt buộc)</li>
 </ul>
 <p>– <strong>Thời gian gửi bài dự thi</strong>: <span style="color: #0000ff;">Từ ngày 7/4 đến hết ngày 20/4/2015</span>.</p>
-<p>– Tất cả bài dự thi (gồm ảnh thành phẩm và phần chia sẻ, kèm theo số thứ tự và họ tên người tham gia) sẽ được đăng tại Facebook của Savoury Days trong ngày 21/4/2015.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>– Tất cả bài dự thi (gồm ảnh thành phẩm và phần chia sẻ, kèm theo số thứ tự và họ tên người tham gia) sẽ được đăng tại Facebook của Savoury Days trong ngày 21/4/2015.</p>
 <p>–<strong> Thời gian bình chọn cho các bài dự th</strong>i: <span style="color: #0000ff;">Từ ngày 21/4 đến hết ngày 30/4/2015</span>.</p>
 <p>– <strong>Công bố kết qu</strong>ả: <span style="color: #0000ff;">ngày 2/5/2015</span>.</p>
 <p>(*) <span style="text-decoration: underline;"><strong>Giải thưởng</strong></span>:</p>
@@ -57,7 +51,6 @@ description: ""
 <li><em>Muffin xúc xích &amp; rau củ</em></li>
 </ul>
 <p><strong>II. Butter cake</strong></p>
-
 
 <ul>
 <li><em>Bánh bông lan bơ &amp; quả khô</em></li>
@@ -171,9 +164,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

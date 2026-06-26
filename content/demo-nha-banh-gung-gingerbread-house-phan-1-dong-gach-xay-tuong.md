@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2011/11/NhaBanhGung1.jpg"
 description: "nhà bánh gừng"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Sau khi đăng bài “<a href="/nha-banh-gung-gingerbread-house-ngoi-nha-khong-chi-cua-the-gioi-co-tich/">phát biểu cảm xúc của em trong lần đầu tiên làm nhà bánh gừng</a>” lên Savoury Days và Facebook thì mình nhận được khá nhiều phản hồi tích cực và khen ngợi của bạn bè. Phải nói là ngượng ơi là ngượng ấy :”&gt; :”&gt; :”&gt; Cho nên điều đầu tiên mà mình muốn nói trong phần Demo nhà bánh này là cả nhà đừng coi nhà bánh gừng là một cái gì đấy hoành tráng, cao siêu và phức tạp. Về bản chất thì xây nhà bánh gừng cũng giống như mình làm bánh quy (cookies) vậy thôi, chỉ khác là sau khi cán bột xong, thay vì cắt bằng khuôn cắt bánh quy (cookie cutters) thì mình dùng dao và thước kẻ để cắt bột thành hình miếng tường, mà cái này thì cũng giống như trẻ con lớp 1 tập vẽ nhà cửa ấy :) Baking Challenge lần này cũng có nhiều chị em mới tham gia lần đầu (mình cũng nằm trong số này luôn), nhưng tất cả đều làm được và làm đẹp, cho nên đừng ngại là nó khó hay cầu kì nhé, chỉ cần làm theo chỉ dẫn là ổn hết ý mà ;)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6370284369/" title="1 by LinhTrang9185, on Flickr"><img alt="1" class="aligncenter" height="332" loading="lazy" src="http://farm7.staticflickr.com/6099/6370284369_899fb1b242.jpg" width="500"/></a></p>
 <p>Công thức mà mình giới thiệu trong phần Demo này là công thức của Baking Challenge 27, do chị Cáo ở <a href="http://foxkitchen.blogspot.com/">Fox Kitchen</a> chọn. Cá nhân mình cảm thấy công thức này ổn, nguyên liệu dễ kiếm, các bước làm nhà đơn giản và bánh sau khi nướng khá là cứng cáp, màu đẹp. Ăn cũng được, không phải là rất ngon nhưng không tệ. Ngoài phần khung công thức  của chị Cáo thì mình có thêm một số chú ý và kinh nghiệm của bản thân cũng như tổng hợp từ kinh nghiệm của các chị em tham gia Baking Challenge lần này. Demo nhà bánh gừng của mình sẽ gồm ba phần chính (để mô tả chi tiết chứ không phải vì cái này nó phức tạp nên phải mất ba bài mới xong đâu nha):</p>
@@ -18,10 +17,7 @@ description: "nhà bánh gừng"
 <li>Trang trí &amp; một vài ý tưởng</li>
 </ol>
 <p>Đầu tiên, với việc đóng gạch xây tường thì như mình đã nói ở trên, nó đơn giản chỉ là nhào bột làm bánh rồi cắt theo mẫu tường nhà và nướng như bánh quy bình thường thôi. Mẫu nhà mà mình sử dụng là mẫu do BTC Baking Challenge cung cấp, mọi người có thể download từ <strong><a href="/download/Template_gingerbread_house.pdf">ĐÂY</a></strong>. Mẫu nhà này khi in lên khổ giấy A4 thì sẽ nhỏ hơn thực tế một chút, các bạn nhớ chỉnh sửa lại cho các miếng tường bằng nhau về chiều dài, chiều rộng nhé. Tất nhiên là mọi người cũng có thể sáng tạo mẫu nhà riêng của mình nữa, nhưng nếu tự vẽ mẫu thì có hai điều chú ý là:</p>
-<p>–  Nếu không quen làm nhà bánh kiểu này thì không nên xây quá cao, về sau dựng khó, dễ gẫy hoặc sập</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>–  Nếu không quen làm nhà bánh kiểu này thì không nên xây quá cao, về sau dựng khó, dễ gẫy hoặc sập</p>
 <p>–  Phần định lượng công thức trong bài này là dành cho mẫu nhà này (vừa đủ) nên nếu các bạn muốn làm nhà to hơn thì tăng thêm lượng nguyên liệu nhé.</p>
 <p>(*) <span style="color: #ff0000;">Mùa Giáng sinh năm 2015 mình có “xây” một ngôi nhà bánh gừng khác, chỉnh sửa lại công thức cho phần bánh quy ngon hơn và quay video lại toàn bộ quá trình làm bánh, làm đường dính các mảnh tường và dựng, trang trí nhà. <a href="/cach-lam-nha-banh-gung-cong-thuc-moi-kem-video/" target="_blank"><strong>Cách làm nhà gừng mới tại ĐÂY</strong></a>. Có cả công thức và mẫu nhà, các bạn tham khảo nha :)</span></p>
 <p>Các nguyên liệu cần chuẩn bị để làm bánh gừng là</p>
@@ -47,10 +43,7 @@ description: "nhà bánh gừng"
 </ul>
 <p><strong>Cách làm</strong></p>
 <p>1. Cho các nguyên liệu vào nồi, khuấy đều.</p>
-<p>2. Bắc nồi lên bếp, đun lửa vừa đến khi hỗn hợp sôi.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>2. Bắc nồi lên bếp, đun lửa vừa đến khi hỗn hợp sôi.</p>
 <p>3. Hạ lửa nhỏ, đậy vung đun thêm khoảng 2-3 phút đén khi hỗn hợp chuyển trong suốt.</p>
 <p>4. Bắc xuống, để nguội, rót vào chai đậy kín.</p>
 <p>Bảo quản syrup ở nhiệt độ phòng trong 2 tháng. Lượng nguyên liệu trên làm được khoảng 240ml Corn Syrup (đủ dùng cho công thức bánh gừng ở trên).</p>
@@ -67,7 +60,6 @@ description: "nhà bánh gừng"
 <p>Các bạn có thể cán dầy hơn nhưng mình thấy 0,5-0,7cm là vừa phải, tường dầy quá cũng không đẹp. Bột của mình cán thì khoảng 0,5cm.</p>
 <p>6. Đặt các tấm giấy mẫu hình nhà lên mặt bột đã cán. Dùng thước kẻ và dao sắc mũi nhọn cắt theo mẫu, rồi tỉa lại lần nữa cho sắc nét. Chỗ bột chưa cán nhớ đậy kín, tránh bị khô. Nếu bột ướt và dính các bạn có thể để tủ lạnh hoặc nơi khô ráo &amp; mát cũng được.</p>
 
-
 <p>7. Cẩn thận chuyển các tấm đã cắt sang khay nướng đã lót giấy nến/ silpad bằng cách đặt cây cán bột kề vào miếng bột vừa cắt hình, nhẹ nhàng dùng mũi dao vén và quấn miếng bột vào cây cán bột, chuyển sang khay nướng. Nhẹ nhàng bóc và giữ lại các tấm mẫu. Các miếng bột to nướng cùng một mẻ, các miếng nhỏ nướng riêng một mẻ.</p>
 <p>8. Bọc kín cả khay nướng, để lại vào tủ lạnh khoảng 30 phút (phần này sẽ giúp nhà của các bạn khi nướng xong giữ được form đẹp).</p>
 <p>9. Bật lò trước 10 phút, hai lửa trên và dưới, 160 độ C.  Đặt khay nướng ở nấc chính giữa, nướng bánh 15-20 phút cho khay miếng to, 10-12 phút cho khay miếng nhỏ.</p>
@@ -79,4 +71,4 @@ description: "nhà bánh gừng"
 <p>Hết phần 1 – Mai hoặc ngày kia sẽ úp tiếp phần 2: Trộn vữa &amp; dựng nhà ;)</p>
 <p>PS: Ảnh như ở trên có bị nhỏ quá ko hở cả nhà? Vì phần này mình nghĩ là đơn giản nên ghép ảnh thành 1 tấm như vậy, nếu mọi người thấy ảnh nhỏ quá khó theo dõi thì bài sau mình sẽ ghép thành nhiều cái to hơn :)</p>
 <p>Phần tiếp theo: <a href="/demo-nha-banh-gung-gingerbread-house-phan-2-tron-vua-dung-nha/">Nhà bánh gừng phần 2 – Trộn vữa &amp; Dựng nhà</a> và <a href="/demo-nha-banh-gung-gingerbread-house-phan-3-trang-tri-va-mot-vai-y-tuong/">Nhà bánh gừng phần 3 – Trang trí</a>.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

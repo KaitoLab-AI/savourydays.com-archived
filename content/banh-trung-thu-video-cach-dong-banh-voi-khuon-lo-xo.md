@@ -12,10 +12,7 @@ description: "cách làm bánh nướng, bánh trung thu, khuôn bánh trung thu
 <p>Dùng khuôn lò xo khá thích vì bánh ấn ra rất chắc , hoa văn sắc nét, mình thích dùng hơn khuôn không lò xo và khuôn gỗ. Chỉ có một vấn đề là do viên bánh hình cầu nên đôi khi bánh không tràn ra hết khuôn. Làm cho mặt bánh bị vồng cao trong khi các góc lại thiếu hụt, cong vào, làm cho  bánh không được vuông vắn.</p>
 <p>Cách khắc phục của mình là ép bánh 2 lần. Lần thứ nhất ép nhẹ xuống để bánh dàn đều. Lần thứ hai mới ép mạnh để tạo hình cho bánh. Lưu ý trong suốt quá trình ép cần giữ chặt khuôn để khuôn không bị xê dịch và bánh tràn ra ngoài. Cụ thể hơn các bạn có thể xem trong video nhé.</p>
 <p>Ngoài ra, mình có nhận được phản hồi của một số bạn về việc bột vỏ bánh sau khi trộn xong quá khô hoặc quá ướt. Mình xin nêu lại cách khắc phục như sau:</p>
-<p><em>Bản thân công thức không làm cho vỏ khô hay ướt (nên đừng đổ tại công thức mà vỏ bánh sau khi trộn bị ướt, tội nghiệp công thức lắm :( ). Có thể do nước đường hơi loãng, hoặc hơi non, hoặc bột hút ẩm kém, hoặc nhiệt độ phòng ẩm, hoặc … nhiều lí do khác mà bột sau khi trộn xong có thể khô hoặc ướt. Thường thì ngay sau khi trộn xong bột sẽ khá dính. Nhưng sau khi để nghỉ khoảng 30 – 60 phút, bột sẽ khô và dẻo hơn. Nếu lúc này bột vẫn còn dính thì các bạn có thể cho thêm ít bột mì khô vào nhồi cùng, đến khi cảm thấy bột không còn ướt nữa, và đủ dẻo để cán thành miếng mỏng (đừng trộn nhiều bột quá, vỏ bánh sẽ bị khô). Ngược lại, nếu bột quá khô và bở, hãy thêm chút nước hoặc dầu ăn, và nhồi đến khi thấy bột ẩm và dẻo trở lại</em>.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><em>Bản thân công thức không làm cho vỏ khô hay ướt (nên đừng đổ tại công thức mà vỏ bánh sau khi trộn bị ướt, tội nghiệp công thức lắm :( ). Có thể do nước đường hơi loãng, hoặc hơi non, hoặc bột hút ẩm kém, hoặc nhiệt độ phòng ẩm, hoặc … nhiều lí do khác mà bột sau khi trộn xong có thể khô hoặc ướt. Thường thì ngay sau khi trộn xong bột sẽ khá dính. Nhưng sau khi để nghỉ khoảng 30 – 60 phút, bột sẽ khô và dẻo hơn. Nếu lúc này bột vẫn còn dính thì các bạn có thể cho thêm ít bột mì khô vào nhồi cùng, đến khi cảm thấy bột không còn ướt nữa, và đủ dẻo để cán thành miếng mỏng (đừng trộn nhiều bột quá, vỏ bánh sẽ bị khô). Ngược lại, nếu bột quá khô và bở, hãy thêm chút nước hoặc dầu ăn, và nhồi đến khi thấy bột ẩm và dẻo trở lại</em>.</p>
 <p>À, còn về việc chống dính khuôn, thường thì chống dính bằng dầu ăn mình thấy rất rất ổn. Nếu bánh vân bị dính các bạn có thể quét thêm dầu (hoặc quét dầu kĩ hơn). Nhớ kiểm tra xem có vụn bột bánh dính ở bên trong khuôn, nhất là ở phần mặt khuôn thì dùng que tăm, lấy các vụn bột này ra hết, rồi mới đóng bánh tiếp theo nhé.</p>
 <p>Vậy thôi, giờ là video. Mai mình sẽ đăng nốt quá trình quét trứng của mình nha :)</p>
 <p>Nếu không xem được video tại blog, các bạn có thể xem trực tiếp tại YouTube theo link: <a href="https://www.youtube.com/watch?v=BirFNV1irYA%20">https://www.youtube.com/watch?v=BirFNV1irYA </a></p>
@@ -48,9 +45,6 @@ description: "cách làm bánh nướng, bánh trung thu, khuôn bánh trung thu
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

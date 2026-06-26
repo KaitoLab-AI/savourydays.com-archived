@@ -29,10 +29,7 @@ description: ""
 <li>Đặng Thị Bích Hoàn (0984989xxx)</li>
 </ol>
 <p>BTC lớp học đã gửi mail hướng dẫn hoàn tất thủ tục đăng kí tới email của các bạn. Với các bạn đã đăng kí nhưng chưa được nhận vào lớp lần này, BTC cũng đã gửi mail thông báo về việc ưu tiên cho các bạn tham gia vào lớp trong thời gian sắp tới.</p>
-<p>Một lần nữa cảm ơn các bạn. Tháng 12 mình sẽ có các lớp mới, nếu quan tâm, mời các bạn theo dõi thông tin tại website này hoặc facebook page của Savoury Days nhé.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Một lần nữa cảm ơn các bạn. Tháng 12 mình sẽ có các lớp mới, nếu quan tâm, mời các bạn theo dõi thông tin tại website này hoặc facebook page của Savoury Days nhé.</p>
 <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
 <a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
@@ -40,9 +37,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

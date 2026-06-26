@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/10/FlorentineSquares.jpg"
 description: "cách làm bánh ga-tô phủ kem sô-cô-la và mứt dâu mềm mịn thơm ngon"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Món bánh này làm mình nhớ thời cấp 3 của mình ghê gớm. Chả là hồi ấy học buổi chiều, đến 5h30 mới tan học. Các lớp học thêm thì 6h bắt đầu, nên thường tan học một cái là mình chạy ra hàng bánh ngọt ở gần trường, nạp năng lượng để học tiếp ca tối. Cửa hàng bánh có nhiều loại, nhưng chỉ có hai loại bánh mình hay ăn nhất là bánh cuộn và một loại bánh hình chữ nhật, cũng có khi hình tam giác, trên mặt có phủ một lớp đặc đặc, sệt sệt, màu trắng ngà, thêm các đường vân chocolate để trang trí, ăn khá ngọt nhưng kèm với bánh và sữa thì không vấn đề gì. Cả mấy năm đều ăn một loại bánh như thế nên lúc nhìn thấy hình của Florentine squares trong sách mình mừng lắm, bụng bảo dạ nhất định phải thử ngay, tại vì nhớ cái vị ngọt ngọt thơm thơm của cái lớp màu trắng trên mặt ấy quá mà, bao nhiêu năm không ăn rồi.</p>
 <p>Thế mà cuối cùng đến lúc làm, mở tủ ra mới phát hiện là hết sạch chocolate trắng, còn mỗi chocolate đen, thành ra phải đổi lại thành Black Florentine Squares như thế này :P Nhưng cũng không sao vì bánh rất ngon. Phần bạt bánh trong công thức gốc là Genoise nhưng mình muốn thử công thức mới nên tự thay đổi và rất ưng ý với thử nghiệm mới. Bánh mềm và siêu mịn, xốp nhẹ nữa. Phần nhân xen giữa hai lớp bánh thì mình dùng mứt cam mua sẵn. Mứt chua chua ngọt ngọt, cũng ngon nhưng sau này mình thử với nhân kem tươi thì thấy còn ngon hơn, cho nên khi làm ở nhà các bạn có thể thay thế tùy thích nhé. Còn lớp phủ trên mặt bánh là Ganache thì rất quen thuộc rồi :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8124360266/" title="IMG_7651-1 by LinhTrang9185, on Flickr"><img alt="IMG_7651-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8323/8124360266_492fca2163_z.jpg" width="427"/></a></p>
 <p><strong><span style="color: #000000;">Nguyên liệu (8 miếng nhỏ – như trong hình)</span></strong></p>
-<p><span style="color: #800000;"><strong>A. </strong></span><span style="text-decoration: underline;"><strong><span style="color: #800000; text-decoration: underline;">Bạt bánh</span></strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>A. </strong></span><span style="text-decoration: underline;"><strong><span style="color: #800000; text-decoration: underline;">Bạt bánh</span></strong></span></p>
 <ul>
 <li><em>3 lòng đỏ trứng gà (khoảng 20gram/ lòng đỏ)</em></li>
 <li><em>10 gram đường</em></li>
@@ -57,10 +53,7 @@ description: "cách làm bánh ga-tô phủ kem sô-cô-la và mứt dâu mềm 
 <p><span style="color: #800000;"><strong>A. Đế bánh</strong></span></p>
 <p>1. Bật lò nướng 2 lửa – 165 độ C. Lót giấy nến hoặc giấy A4 ở đáy khuôn. Không chống dính thành khuôn.</p>
 <p>2. Cho lòng đỏ trứng, 10gram đường, bột mì, bột ngô, dầu ăn, sữa tươi và vanilla vào âu. Dùng phới lồng nhẹ nhàng trộn đều theo một chiều. Ta sẽ có một hỗn hợp mịn và khá đặc sệt. * <span style="text-decoration: underline;"><strong>Lưu ý</strong></span>: <em>bột mì, bột ngô và đường<strong> cần phải rây mịn</strong>, nếu không sẽ dễ bị vón cục khi trộn.</em></p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/8124360664/" title="IMG_7632 by LinhTrang9185, on Flickr"><img alt="IMG_7632" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8050/8124360664_225139e8a1.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8124360664/" title="IMG_7632 by LinhTrang9185, on Flickr"><img alt="IMG_7632" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8050/8124360664_225139e8a1.jpg" width="500"/></a></p>
 <p>3. Cho lòng trắng trứng và muối vào một cái âu khác. Dùng máy đánh trứng, đánh ở tốc độ thấp trong khoảng 30 – 45 giây, đến khi bắt đầu nổi bọt khí lớn thì cho cream of tartar. Tăng dần tốc độ máy, đánh đến khi bọt khí trở nên nhỏ li ti, hơi giống bọt xà phòng cạo râu hay bọt xà phòng giặt thì cho đường. Đánh đến khi lòng trắng trứng đạt gần chóp cứng (stiff peak).</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8124360610/" title="IMG_7633 by LinhTrang9185, on Flickr"><img alt="IMG_7633" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8323/8124360610_66df8ee1ed.jpg" width="500"/></a></p>
 <p>* <span style="text-decoration: underline;"><strong>Lưu ý:</strong></span></p>
@@ -76,7 +69,6 @@ description: "cách làm bánh ga-tô phủ kem sô-cô-la và mứt dâu mềm 
 <p>7. Nướng bánh ở nhiệt độ 165 độ C trong khoảng 30-35 phút. Bánh chín là khi có mùi thơm tỏa ra từ lò, mặt bánh vàng nâu, ấn nhẹ lên mặt bánh thấy vết lõm phồng trở lại ngay lập tức.</p>
 <p>* Thời gian nướng có thể thay đổi tùy theo lò, các bạn có thể xem thêm hướng dẫn về việc chỉnh nhiệt độ tại <a href="/chiffon-phan-4-cong-thuc-chiffon-co-ban/">ĐÂY (bước 5) </a></p>
 <p>8. Bánh chín lấy ra khỏi lò. Dùng dao mỏng rọc quanh thành khuôn, lấy bánh ra rack, bóc bỏ lớp giấy lót đế bánh. Để bánh trên rack cho nguội hẳn.</p>
-
 
 <p>B.<span style="color: #800000;"><strong> Nhân bánh &amp; Ganache phủ mặt bánh</strong></span></p>
 <p>1. <strong>Nhân bánh</strong>: Như mình đã nói ở trên, nhân bánh các bạn có thể dùng mứt quả tùy ý thích, hoặc một loại kem như kem tươi đánh bông, kem cream cheese, kem mascarpone…</p>
@@ -97,4 +89,4 @@ description: "cách làm bánh ga-tô phủ kem sô-cô-la và mứt dâu mềm 
 <p>——-</p>
 <p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ mail <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi trường hợp cố tình vi phạm sẽ chịu sự xử lí theo pháp luật.</span></strong></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

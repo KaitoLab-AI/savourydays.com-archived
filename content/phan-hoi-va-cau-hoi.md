@@ -12,10 +12,7 @@ description: "savoury days"
 <p>Đợt vừa rồi vì bận nên bài vở tại Savoury Days mình không có nhiều thời gian để viết, nên để bù lại thì đợt tới đây mình sẽ có một số món ăn cho Tết Nguyên Đán. Sáng nay mình mới “trưng cầu dân ý” để chọn món ăn tại Facebook của Savoury Days: http://www.facebook.com/savourydays. Các bạn muốn mình thử công thức nào thì đề xuất ý kiến thoải mái nha :) Mình không hứa là sẽ làm được hết nhưng dựa theo lựa chọn của các bạn, mình sẽ chọn ra các công thức mà sẽ có ích cho nhiều bạn nhất. Ngoài ra, sắp tới Savoury Days sẽ có một món quà rất rất đặc biệt tặng các bạn, đặc biệt hơn tất cả những thứ có trên SD từ trước tới giờ. Cụ thể “quà” là gì thì mình hứa sẽ bật mí trong thời gian rất sớm, tin là cả nhà sẽ thích ;)</p>
 <p>Cũng vì bận rộn nên thời gian vừa rồi mình không trả lời các phản hồi được nhanh. Mặc dù vẫn có các bạn khác giúp đỡ nhưng nhiều lúc vẫn cảm thấy mình để phản hồi và câu hỏi dồn lại nhiều quá, hi vọng là cả nhà không thấy phiền vì phải đợi mình trả lời lâu. Lý do chính là vì mình bận thôi chứ còn phản hồi của các bạn lúc nào mình cũng muốn trả lời hết, kể cả không phải là câu hỏi thì mình cũng sẽ có vài từ hồi đáp để các bạn biết là mình đã đọc. Nhưng thời gian vừa rồi vì quá nhiều (có những ngày mình mất đến 1 tiếng rưỡi đồng hồ chỉ để trả lời hết phản hồi tại blog) nên có thể trong lúc trả lời mình bỏ sót một vài câu hỏi, mong các bạn đừng giận và nếu là câu hỏi cần thiết thì các bạn cứ nhắc lại nhé. Ngoài ra, thi thoảng blog hơi “chập cheng” nên một số phản hồi bị mất. Cái này mình cũng không kiểm soát được nên nhờ các bạn báo cho mình nếu không thấy có phản hồi hiện ra nha.</p>
 <p>Tuy nhiên, về các phản hồi và câu hỏi tại Savoury Days thì mình cũng có vài điều muốn chia sẻ một chút với các bạn. Mình biết là tâm lí ai khi thử công thức mới cũng mong sẽ thành công và để chắc chắn thành công thì hỏi han kĩ càng là một cách chuẩn bị rất tốt. Nhưng mà, nếu đọc Savoury Days các bạn sẽ thấy là mình luôn cố gắng viết ra hết tất cả những gì mình biết, hoàn toàn không có ngoại lệ. Cho nên <em><span style="color: #ff0000;">mong mọi người giúp đỡ bằng cách đọc bài viết thật kĩ trước khi đặt câu hỏi nhé</span>.</em></p>
-<p>Ngoài ra, <em><span style="color: #ff0000;">có rất nhiều vấn đề mình đã giải đáp hoặc có bài viết trên Savoury Day</span></em>s rồi. Một vài ví dụ điển hình là:</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Ngoài ra, <em><span style="color: #ff0000;">có rất nhiều vấn đề mình đã giải đáp hoặc có bài viết trên Savoury Day</span></em>s rồi. Một vài ví dụ điển hình là:</p>
 <ul>
 <li><em>Chọn lò nướng thế nào cho tốt? Có nướng bánh bằng lò vi sóng/ nồi nướng/ lò thủy tinh được không?</em></li>
 <li><em>Tại sao nướng xong bánh bị xẹp, thắt eo?</em></li>
@@ -43,9 +40,6 @@ description: "savoury days"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

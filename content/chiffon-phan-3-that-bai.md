@@ -12,10 +12,7 @@ description: "tự học làm bánh, cách làm chiffon, bánh xẹp, bánh lõm
 <p><span style="color: #ff0000;">* <strong>Toàn bộ nội dung bài viết và hình ảnh thuộc bản quyền của Savoury Days (trừ các hình ảnh &amp; nội dung có ghi nguồn trích dẫn). <span style="text-decoration: underline;">Không sao chép, đăng tải hoặc sử dụng lại dưới bất kì hình thức nào </span>nếu không có sự đồng ý của tác giả.</strong></span></p>
 <p><span style="color: #000000;">———————————</span></p>
 <p><em>Xem các phần trước tại: <a href="/chiffon-phan-1/"><strong>Phần 1</strong></a> – <a href="/chiffon-phan-2-phuong-phap-tron-bot-danh-cho-chiffon-chiffon-method/"><strong>Phần 2</strong></a> </em></p>
-<p>Chiffon là một loại bánh đỏng đảnh và khó chiều. Thật ra không chỉ Chiffon mà các loại bánh thuộc nhóm Foam Cake có cách làm gần giống với Chiffon, như Angel Food Cake, <a href="/nhat-ky-hoc-lam-banh-phan-5-gateau-hong-kong-cong-thuc/">Gateau Hồng Kông</a>, <a href="/japanese-cotton-sponge-cake-hay-la-ga-to-nhat-ban-mem-nhu-bong-nhe-nhu-may/">Gateau Nhật Bản</a>, và cả <a href="/demo-genoise-cot-banh-bong-lan-ga-to-co-ban/">Genoise/ Sponge Cake</a> đều có “tính cách” bất ổn cả.<em> Làm cả chục lần hỏng, đi hỏi khắp nơi và thu về đủ mọi nguyên nhân lẫn cách khắc phục, thử thêm chục lần nữa vẫn hỏng. Đến một ngày đẹp giời chán chả thèm áp dụng phương pháp nào nữa, cứ thế làm, thế mà tự nhiên lại thành công</em> – <strong>đó chính là Chiffon :D</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Chiffon là một loại bánh đỏng đảnh và khó chiều. Thật ra không chỉ Chiffon mà các loại bánh thuộc nhóm Foam Cake có cách làm gần giống với Chiffon, như Angel Food Cake, <a href="/nhat-ky-hoc-lam-banh-phan-5-gateau-hong-kong-cong-thuc/">Gateau Hồng Kông</a>, <a href="/japanese-cotton-sponge-cake-hay-la-ga-to-nhat-ban-mem-nhu-bong-nhe-nhu-may/">Gateau Nhật Bản</a>, và cả <a href="/demo-genoise-cot-banh-bong-lan-ga-to-co-ban/">Genoise/ Sponge Cake</a> đều có “tính cách” bất ổn cả.<em> Làm cả chục lần hỏng, đi hỏi khắp nơi và thu về đủ mọi nguyên nhân lẫn cách khắc phục, thử thêm chục lần nữa vẫn hỏng. Đến một ngày đẹp giời chán chả thèm áp dụng phương pháp nào nữa, cứ thế làm, thế mà tự nhiên lại thành công</em> – <strong>đó chính là Chiffon :D</strong></p>
 <p>Khi đọc các bài viết hướng dẫn làm Chiffon cùng các phản hồi, cảm giác của mình là đây là loại bánh mà khi làm cần nhiều may mắn, cũng là loại bánh gây ra nhiều sự “ám ảnh” cho người làm :P “Ám ảnh” ở chỗ là tại sao cùng một công thức, có người làm ngay lần đầu tiên đã thành công, có người thử cả chục lần vẫn hỏng. Người làm thành công thì không hiểu tại sao người kia lại làm hỏng, và người hỏng thì có đủ thứ câu hỏi trong đầu, tại mình đánh trứng chưa đúng, tại mình trộn bột chưa đủ,… , tại mình đoảng hay không?</p>
 <p>Thật ra, mình luôn nghĩ rằng làm bánh cũng là một môn khoa học. Và bởi vì là khoa học cho nên mọi thứ đều có thể giải thích, kể cả nguyên nhân tại sao Chiffon bị xẹp. Cho nên không có cái gì gọi là “may mắn” trong khi làm Chiffon cả, chỉ cần nắm được vấn đề, thì sẽ có cách giải quyết thôi ;)</p>
 <p style="text-align: center;"><em>Chiffon bị xẹp đôi khi có thể trở thành nỗi ám ảnh to nhớn :P</em><br/>
@@ -26,10 +23,7 @@ description: "tự học làm bánh, cách làm chiffon, bánh xẹp, bánh lõm
 <p><span style="color: #800000;"><strong>1. Quá trình hình thành bánh trong lò &amp; Những điểm đặc biệt trong kết cấu của Chiffon</strong></span></p>
 <p>Các loại bánh nói chung, nếu nướng trong khuôn thường (khuôn tròn, vuông… không có lõi giữa) sẽ trải qua quá trình hình thành như sau:</p>
 <p>– Thông thường trong hỗn hợp bột bánh sẽ có các hơi khí, hơi khí này có thể sinh ra nhờ bột nở, cũng có thể có sẵn trong bọt khí từ trứng đánh bông. Nhiệt độ cao trong lò nướng sẽ làm cho khí này phồng lên, giúp bánh nở. Đồng thời protein (từ bột mì và trứng) cứng lại tạo ra các thớ bánh, hay nói cách khác là hình thành kết cấu vững chắc cho bánh.</p>
-<p>Vì nhiệt độ bao giờ cũng cần thời gian để truyền từ ngoài vào bên trong bánh, cho nên quá trình trên sẽ không diễn ra đồng đều ở mọi vị trí bên trong chiếc bánh, mà là từ ngoài vào trong. Cụ thể hơn là các phần tiếp xúc với nhiệt trước như thành và mặt bánh sẽ nở và cứng lại trước, rồi mới đến phần ở giữa bánh. Nếu các bạn quan sát bánh nở trong lò thì sẽ thấy điều này rất rõ. Bánh phồng lên ở phần quanh thành bánh trước, trong khi phần giữa hơi lõm xuống. Sau một khoảng thời gian, phần lõm ở giữa mới nở tiếp và tiếp tục phồng lên. Vào lúc này, phần xung quanh thành bánh đã đủ chín, và thậm chí có thể đã cứng lại và bám chặt vào thành khuôn.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Vì nhiệt độ bao giờ cũng cần thời gian để truyền từ ngoài vào bên trong bánh, cho nên quá trình trên sẽ không diễn ra đồng đều ở mọi vị trí bên trong chiếc bánh, mà là từ ngoài vào trong. Cụ thể hơn là các phần tiếp xúc với nhiệt trước như thành và mặt bánh sẽ nở và cứng lại trước, rồi mới đến phần ở giữa bánh. Nếu các bạn quan sát bánh nở trong lò thì sẽ thấy điều này rất rõ. Bánh phồng lên ở phần quanh thành bánh trước, trong khi phần giữa hơi lõm xuống. Sau một khoảng thời gian, phần lõm ở giữa mới nở tiếp và tiếp tục phồng lên. Vào lúc này, phần xung quanh thành bánh đã đủ chín, và thậm chí có thể đã cứng lại và bám chặt vào thành khuôn.</p>
 <p><span id="more-2992"></span>– Chiffon cũng trải qua quá trình nở như vậy. Tuy nhiên, so với các loại như bánh bơ, thì bột bánh Chiffon khá đặc biệt ở chỗ <em>lượng bột thường khá ít, trong khi chất lỏng và chất béo (nước, sữa, dầu ăn..) tương đối nhiều</em>. Điều này làm cho bánh khi chín sẽ có kết cấu xốp nhẹ, mềm và ẩm, nhưng cũng làm cho quá trình nở của bánh trong lò bất ổn hơn. Do có nhiều chất lỏng trong khi lại quá ít bột, nên Chiffon thường được nướng trong khuôn có lõi ở giữa (tube pan/ Angel Food Cake pan). Nhờ phần lõi kim loại này mà <em>nhiệt độ sẽ được truyền vào phần trung tâm của bánh nhanh hơn</em>, giúp cho bánh chín đồng đều và lượng chất lỏng trong bánh cũng được “tiêu thụ” nhanh hơn, làm cho bánh chín đều, tơi xốp và đủ ẩm mà không bị bết. Mặt khác, phần lõi này cùng với thành khuôn sẽ tạo ra một cái “giá đỡ” để bánh có thể bám vào và leo lên cao. Điều này khá là quan trọng với Chiffon và các loại bánh có ít bột tương tự. Cũng chính vì yêu cầu “bám và leo” này mà khuôn Chiffon thường không bao giờ được chống dính thành, để bánh có thể bám vào dễ dàng hơn.</p>
 <p><span style="color: #800000;"><strong>2. Các thất bại thường gặp với Chiffon – Nguyên nhân và cách khắc phục. </strong></span></p>
 <p>Có hai nhóm thất bại mà mình thấy thường gặp nhất ờ Chiffon là:</p>
@@ -46,7 +40,6 @@ description: "tự học làm bánh, cách làm chiffon, bánh xẹp, bánh lõm
 <p style="text-align: center;"><em>Nếu mặt bánh bị cháy như trong hình dưới thì khả năng do nhiệt độ quá cao càng nhiều hơn </em></p>
 <p style="text-align: center;"><em>(Hình minh hoạ lấy từ Internet)</em></p>
 
-
 <p><em><a href="/wp-content/uploads/2012/07/1632789.jpg"><img alt="" class="aligncenter" height="272" loading="lazy" src="/wp-content/uploads/2012/07/1632789.jpg" title="1632789" width="331"/></a></em></p>
 <p>Ở hiện tượng số (2), nguyên nhân hơi ngược lại với hiện tượng số (1) là do nhiệt độ hơi thấp hơn bình thường, hoặc thời gian nướng bánh chưa đủ, làm cho phần bên ngoài bánh đủ chín nhưng phần lõi bánh chưa chín hết, chất lỏng vẫn còn nhiều, bánh còn ẩm nhiều. Sau khi lấy ra khỏi lò, lượng ẩm này không thoát được hết nên đọng lại trong lõi của bánh, kéo mặt bánh xuống, hoặc làm lõm đáy bánh, thắt eo quanh thành bánh.</p>
 <p style="text-align: center;"><em>Hình minh hoạ (lấy từ Internet)</em></p>
@@ -61,9 +54,6 @@ description: "tự học làm bánh, cách làm chiffon, bánh xẹp, bánh lõm
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

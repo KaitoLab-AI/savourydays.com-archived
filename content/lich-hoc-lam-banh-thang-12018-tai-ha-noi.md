@@ -20,10 +20,7 @@ description: "Lịch học làm bánh quy và bánh mì tháng 1 của Linh Tran
 <li><strong>Cách đăng ký: xem thông tin ở dưới </strong></li>
 <li><strong>Tóm tắt nội dung: </strong></li>
 </ul>
-<p>Khoá học này hướng tới các bạn yêu thích làm bánh và mong muốn có thể tự làm ra các loại bánh mì ngon cho gia đình của mình. Trong 3 buổi, học viên sẽ được cung cấp đầy đủ các kiến thức và kĩ năng cơ bản để làm các loại bánh mì phổ biến như:</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Khoá học này hướng tới các bạn yêu thích làm bánh và mong muốn có thể tự làm ra các loại bánh mì ngon cho gia đình của mình. Trong 3 buổi, học viên sẽ được cung cấp đầy đủ các kiến thức và kĩ năng cơ bản để làm các loại bánh mì phổ biến như:</p>
 <ul>
 <li>bánh mì ngọt mềm (milk bun)</li>
 <li>Papparoti, bánh mì sữa Hokkaido</li>
@@ -58,10 +55,7 @@ description: "Lịch học làm bánh quy và bánh mì tháng 1 của Linh Tran
 <h2>3. <strong>CÁCH ĐĂNG KÝ &amp; CÁC LƯU Ý CHUNG</strong></h2>
 <p>– Học viên tới học chỉ cần mang sổ và bút để ghi chép. Nguyên liệu và dụng cụ sẽ có đầy đủ tại lớp. Thành phẩm làm xong ( bánh mì và 1 hộp bánh quy to :) ) học viên được mang về.</p>
 <p>– Lớp chỉ nhận học viên từ 17 tuổi trở lên để đảm bảo sự đồng đều trong tiến độ học tập.</p>
-<p>– Học phí chuyển khoản trước khoá học, theo hướng dẫn được gửi từ email <strong>hoclambanhsd@gmail.com. </strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>– Học phí chuyển khoản trước khoá học, theo hướng dẫn được gửi từ email <strong>hoclambanhsd@gmail.com. </strong></p>
 <p>– Nếu báo huỷ/ hoãn trước 3 ngày trước buổi học thì được hoàn lại 90% học phí (10% là phí giáo vụ). Nếu báo huỷ/ hoãn trong vòng 3 ngày trước buổi học thì được hoàn lại 80% học phí <strong>nếu tìm được người thay thế. </strong>Nếu lớp nghỉ học vì lý do của giáo viên hay BTC thì BTC sẽ có trách nhiệm thu xếp buổi học bù, nếu bạn không tham gia được buổi học bù này thì sẽ được hoàn lại 100% học phí của buổi đó.</p>
 <p>– <strong>CÁCH ĐĂNG KÝ: Mẫu đơn đăng ký cho cả 2 lớp học bánh mì và bánh quy sẽ được đăng lên website và <a href="https://www.facebook.com/savourydays/">Facebook SD </a>vào 20.30 ngày thứ Ba (19/12)</strong>. Trong lần đăng ký khoá tháng 12, chỉ sau hơn 5 phút đã có gần 100 bạn đăng ký nên nếu muốn tham gia học, các bạn theo dõi và nhanh tay nhé. Mẫu đơn đăng ký sẽ tự động đóng khi đã có đủ số người học.</p>
 <p><strong>Lưu ý: mỗi người chỉ đăng ký 1 lần </strong></p>
@@ -72,9 +66,6 @@ description: "Lịch học làm bánh quy và bánh mì tháng 1 của Linh Tran
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2016/03/banh-nuong-lo-vi-song.jpg"
 description: "Bài viết giới thiệu cách làm bánh bằng lò vi sóng, với 7 công thức bánh khác nhau rất thơm ngon và mềm xốp, cùng các bí quyết để làm bánh thành công"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Đầu bài viết có hai câu truyện ngăn ngắn xin phép được kể lại với các bạn</p>
 <p>Truyện thứ nhất:</p>
 <p>Có một đứa nhóc rất thích mày mò những thứ đồ thủ công kiểu con gái. Hồi năm tuổi có lần nó đã bị tét đít vì tội cắt te tua mảnh vải may áo của mẹ ra để tự làm thỏ nhồi bông theo sách. Năm chín tuổi, tình cờ một lần nó đọc được công thức làm bánh trên báo Nhi đồng. Nó rất phấn khích đòi bà nội giúp mua nguyên liệu rồi tự làm, hí hửng nghĩ tới viễn cảnh buổi tối sẽ có bánh ngon để bố mẹ lác mắt. Thế mà… chẳng hiểu sao, kết quả chỉ là một món dai ngoách và cứng quèo, xẹp lép như trứng rán. “Nỗi đau đầu đời ấy” hai chục năm sau vẫn chưa quên được, may mà chưa thành “dớp” ám lên những món bánh sau này của nó :P</p>
 <p>Truyện thứ hai:</p>
-<p>Có một cô bé nọ đang học lớp 2 và rất mê đọc sách. Sau khi đọc chán chê tủ sách của mình, cô bé quay sang lục tủ sách của mẹ, tình cờ tìm thấy “Nhật kí học làm bánh” và đã nhanh chóng “bị đầu độc”. Bố mẹ thấy con gái ham quá cũng muốn ủng hộ cho sở thích của con. Nhưng tìm được chỗ để đặt lò nướng trong căn bếp nhỏ là cả một vấn đề không hề nhỏ chút nào, chưa kể tới tủ đựng đồ làm bánh và trăm thứ linh tinh khác… Thế là mỗi lần gọi điện về là một lần mẹ cô bé trách móc cô Trang vì tội “đầu độc” cháu, hại bố mẹ cháu cũng điên đầu theo :P</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Có một cô bé nọ đang học lớp 2 và rất mê đọc sách. Sau khi đọc chán chê tủ sách của mình, cô bé quay sang lục tủ sách của mẹ, tình cờ tìm thấy “Nhật kí học làm bánh” và đã nhanh chóng “bị đầu độc”. Bố mẹ thấy con gái ham quá cũng muốn ủng hộ cho sở thích của con. Nhưng tìm được chỗ để đặt lò nướng trong căn bếp nhỏ là cả một vấn đề không hề nhỏ chút nào, chưa kể tới tủ đựng đồ làm bánh và trăm thứ linh tinh khác… Thế là mỗi lần gọi điện về là một lần mẹ cô bé trách móc cô Trang vì tội “đầu độc” cháu, hại bố mẹ cháu cũng điên đầu theo :P</p>
 <p>……</p>
 <p>…</p>
 <p>Hai tất nhiên không phải là đại diện cho đa số, nhưng cũng không phải là thiểu số nữa. Mình luôn băn khoăn tự hỏi không biết còn có bao nhiêu cô bé khác cũng mong chờ được đặt chân vào thế giới bánh ngọt để được thoả thích nghịch bột, bơ, đường, trứng, sữa và cho ra đời những chiếc bánh đẹp và ngon hơn cả tiệm, nhưng lại bị cản trở bởi vô số thứ ngại ngần. Như là, chẳng biết liệu rồi làm có được không, mà mua dụng cụ nguyên liệu làm bánh lại cần một khoản tiền không nhỏ.</p>
@@ -27,10 +23,7 @@ description: "Bài viết giới thiệu cách làm bánh bằng lò vi sóng, v
 <p>Và trong khoảng 1 tuần tới đây mình sẽ giới thiệu với các bạn 7 công thức bánh mà mình ưng ý nhất, kèm theo <em>một số</em> công thức bánh khác mình sẽ thử nghiệm và chia sẻ dựa trên sự đề xuất của chính các bạn nhé :)</p>
 <p>Cách làm và các lưu ý chi tiết mời các bạn xem trong video tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank"><strong>kênh YouTube của Savoury Days</strong></a>. Nếu không xem được tại blog, các bạn có thể xem trực tiếp trong <a href="https://youtu.be/norNIcUWKNY" target="_blank"><strong>link này</strong></a>. Video có chế độ HD (chỉnh ở nút hình bánh xe, góc phải dưới của màn hình video) và phụ đề tiếng Việt (xem bằng cách nhấn nút CC).</p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/norNIcUWKNY" width="560"></iframe></div>
-<p> </p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p> </p>
 <p> </p>
 <p>Danh sách dụng cụ, nguyên liệu và các lưu ý khi làm bánh</p>
 <p>* <strong>DỤNG CỤ</strong>:</p>
@@ -46,7 +39,6 @@ description: "Bài viết giới thiệu cách làm bánh bằng lò vi sóng, v
 <p>– Bánh dai, có nhiều lỗ khí rỗng bên trong: do trộn bột quá kĩ hoặc quay bánh quá lâu trong lò vi sóng</p>
 <p>– Bánh khô, dai, cứng: quay bánh quá lâu trong lò vi sóng, xem lại lưu ý ở trên</p>
 <p>– Bánh còn mùi trứng: chưa chín hẳn, cần quay thêm vài giây hoặc đong sai, cho hơi nhiều trứng quá</p>
-
 
 <p>– Bánh có vị hơi chát hoặc có mùi bột nở: có thể do sự chênh lệch trong cân đo bột nở, lần sau làm nên giảm bớt khoảng 1/8 thìa cafe bột nở so với lần đầu.</p>
 <p>*<strong> CÁC CÔNG THỨC TRONG VIDEO</strong></p>
@@ -129,4 +121,4 @@ description: "Bài viết giới thiệu cách làm bánh bằng lò vi sóng, v
 <p>* Làm phần kem như sau:  Cho cream cheese vào âu cùng đường, đánh ở tốc độ chậm nhất của máy tới khi kem mềm mịn mượt. Cho kem tươi và vanilla vào âu, đánh ở tốc độ cao tới khi kem chuyển đặc, chạy máy thấy có vân hiện trên mặt kem thì chuyển về tốc độ thấp nhất, đánh tới khi kem bông đặc, nhấc que đánh lên thấy chóp không rung rinh.</p>
 <p>Nếu không có máy, có thể đánh bằng que đánh trứng cầm tay nhưng sẽ hơi mất thời gian một chút. Sau khi đánh xong, để kem vào âu bọc kín, để ngăn mát tủ lạnh tới khi dùng.</p>
 <p>* Bánh ngon nhất là khi vừa làm xong và còn hơi ấm nóng. Nếu muốn để nguội dùng sau, cần đậy kín mặt bánh vì bánh sẽ bị khô khá nhanh nếu hở ra ngoài. Có thể bảo quản trong tủ lạnh trong 1 – 2 ngày (với điều kiện bánh được bọc kín).</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -20,10 +20,7 @@ description: "Loạt bài về cách làm sữa chua tại nhà với các công
 </ul>
 <hr/>
 <p>Làm sữa chua tại nhà đã từng là một trong những “công trình ăn uống” vật vã và “tuyệt vọng” nhất của mình.</p>
-<p>Từ khi sang bên này, tuy nấu nướng nhiều món Việt Nam để giải quyết sự “nhớ nhung”, nhưng chưa bao giờ mình nghĩ sẽ tự làm sữa chua. Vì sữa chua trong siêu thị khá sẵn, có nhiều loại để lựa chọn, lại rất ngon. Cho đến một hôm tự nhiên nổi hứng muốn làm thử, nhân tiện đọc qua mấy công thức thấy đều có vẻ rất đơn giản. Có khi chẳng cần đong đếm gì, chỉ trộn trộn, mang đi ủ là có sữa chua. Thế là làm!</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Từ khi sang bên này, tuy nấu nướng nhiều món Việt Nam để giải quyết sự “nhớ nhung”, nhưng chưa bao giờ mình nghĩ sẽ tự làm sữa chua. Vì sữa chua trong siêu thị khá sẵn, có nhiều loại để lựa chọn, lại rất ngon. Cho đến một hôm tự nhiên nổi hứng muốn làm thử, nhân tiện đọc qua mấy công thức thấy đều có vẻ rất đơn giản. Có khi chẳng cần đong đếm gì, chỉ trộn trộn, mang đi ủ là có sữa chua. Thế là làm!</p>
 <p>Và hỏng!!!</p>
 <p>Sữa rất đặc, vị rất ngon, nhưng bị nhớt. Nhớt theo kiểu dính dính, nhầy nhầy, hơi giống lòng trắng trứng. Vị vẫn ngon nhưng rõ ràng là không bình thường. Sữa chua mà mẹ mình làm, trong trí nhớ của mình, thì nó đặc, mềm và có thể xúc thành miếng cơ.</p>
 <p>Thế là thử lại, nghiêm túc hơn, có đong đếm cẩn thận hơn. Nhưng sữa chua vẫn nhớt!</p>
@@ -33,10 +30,7 @@ description: "Loạt bài về cách làm sữa chua tại nhà với các công
 <p>Cuối cùng, mình quyết định đi tìm các tài liệu có giải thích rõ ràng và khoa học hơn về quy trình làm sữa chua, những điều cần chú ý… Thời gian bỏ ra để đọc quả là đáng công. Không chỉ khắc phục được vấn đề nhớt, mà giờ mình còn có thể tự làm các loại sữa chua theo khẩu vị, hay thử nghiệm các loại sữa chua mới, có thể kiểm soát quá trình làm sữa chua mà không cần đến bất kì công thức mẫu nào.</p>
 <p>Cũng từ sau khi tự làm sữa chua, mình không mua sữa chua bán sẵn nữa, vì tự thấy là sữa chua của mình… ngon hơn hẳn ;) Về mùi vị, về độ ngậy béo, chua ngọt, hương thơm,… lại có men tươi mới nên có khi còn tốt hơn so với sữa sản xuất công nghiệp. Và cách làm sữa chua thì đúng là rất nhanh và đơn giản, chỉ cần nắm được những nguyên tắc chính thôi, là làm kiểu gì cũng thành công. Nên bạn nào còn chần chừ, hay do dự lo hỏng thì mạnh dạn thử một vài mẻ nhé (khéo làm xong rồi lại nghiện, ngày nào cũng làm đấy ;) ).</p>
 <p style="text-align: center;"><em>Sữa chua thành phẩm: đặc mịn, không nhớt, chua ngọt vừa phải, có thể úp ngược mà không đổ </em></p>
-<p><a href="https://www.flickr.com/photos/55490207@N05/14310904813/" title="IMG_6712-1 by LinhTrang9185, on Flickr"><img alt="Cách làm sữa chua tại nhà" class="aligncenter" height="349" loading="lazy" src="https://farm4.staticflickr.com/3720/14310904813_c60cde9786.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14310904813/" title="IMG_6712-1 by LinhTrang9185, on Flickr"><img alt="Cách làm sữa chua tại nhà" class="aligncenter" height="349" loading="lazy" src="https://farm4.staticflickr.com/3720/14310904813_c60cde9786.jpg" width="500"/></a></p>
 <p>Sữa chua là một chủ đề tương đối dài, nên mình sẽ tách loạt bài về cách làm sữa chua tại nhà ra làm nhiều phần để các bạn tiện theo dõi (và không mệt vì đọc nhiều ;) ). Trong bài này, mình sẽ viết về các bước chính trong cách làm sữa chua tại nhà, các điều Nên và Không nên làm trong từng bước. Bài tiếp theo mình sẽ giới thiệu công thức mà mình hay dùng để làm sữa chua có đường, không đường và sữa chua uống. Tiếp đó sẽ là cách làm sữa chua dẻo, sữa chua phô mai/ nguyên kem, sữa chua Hy Lạp… và một số sản phẩm khác từ sữa chua, có thể tự làm tại nhà và đảm bảo “ngon, bổ, rẻ” nhé.</p>
 <p>————-</p>
 <p>Quy trình làm sữa chua thường gồm các bước chính là:</p>
@@ -64,7 +58,6 @@ description: "Loạt bài về cách làm sữa chua tại nhà với các công
 </ul>
 <p>– Men hoạt động tốt nhất trong khoảng 32 – 48 độ C, và sẽ chết nếu gặp nhiệt độ từ 54 độ C (130) độ F trở lên. Vì vậy nên cần phải để sữa nguội về khoảng 32 – 48 độ C mới dùng (tốt nhất là 40 – 43 độ C).</p>
 <p>– Một số tài liệu cho rằng sữa tươi thanh trùng (loại bảo quản lạnh, dùng trong khoảng 10 – 14 ngày) tốt hơn sữa tươi diệt khuẩn (UHT – loại có thể để ở nhiệt độ phòng trong khoảng 1 năm). Mình đã dùng cả hai loại và thấy không có gì khác nhau. Kể cả khi dùng UHT thì vẫn nên đun sữa đến 80 – 85 độ C nhé.</p>
-
 
 <p><strong>* Chọn men còn TƯƠI MỚI. </strong></p>
 <p><strong>* Trước khi làm, để men ở nhiệt độ phòng cho men bớt lạnh rồi mới dùng</strong></p>
@@ -115,9 +108,6 @@ description: "Loạt bài về cách làm sữa chua tại nhà với các công
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

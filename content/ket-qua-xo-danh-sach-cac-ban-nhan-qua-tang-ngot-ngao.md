@@ -12,10 +12,7 @@ description: "quà tặng ngọt ngào"
 <p>Và đây là kết quả sau vòng quay sổ xố tại random.org.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8447768334/" title="PR by LinhTrang9185, on Flickr"><img alt="PR" class="aligncenter" height="375" loading="lazy" src="http://farm9.staticflickr.com/8503/8447768334_9aa1bcd79b.jpg" width="500"/></a></p>
 <p style="text-align: left;">Tổng số phản hồi trong bài viết là 107, chia làm 4 trang, mỗi trang có 30 phản hồi. Mình chọn được 5 số ngẫu nhiên như trên, và nếu mình đếm phản hồi chính xác thì đây là chủ nhân của các phản hồi được lựa chọn:</p>
-<p style="text-align: left;">1. vulanphuong (email: s3342298@….)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p style="text-align: left;">1. vulanphuong (email: s3342298@….)</p>
 <p style="text-align: left;">2. Hồng Hoa (email: honghoa3836@……)</p>
 <p style="text-align: left;">3. nhinhi (email: chipchip_2805@….)</p>
 <p style="text-align: left;">4. Chị Bui Le Thuy Linh (Email: linhblt@….)</p>
@@ -28,9 +25,6 @@ description: "quà tặng ngọt ngào"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

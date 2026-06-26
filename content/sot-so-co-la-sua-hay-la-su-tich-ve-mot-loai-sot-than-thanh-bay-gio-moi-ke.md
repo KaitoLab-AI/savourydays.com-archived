@@ -17,10 +17,7 @@ description: ""
 <div><span style="color: #000000;">Tóm tắt các bước làm như sau: </span></div>
 <div><span style="color: #000000;"> </span></div>
 <div><span style="color: #000000;"><strong>* Bước 1: Làm sốt Dulce de leche</strong></span></div>
-<p><span style="color: #000000;">Đây là một loại sốt vị sữa caramel có nguồn gốc từ Tây Ban Nha, cách làm siêu dễ nhưng thành phẩm lại rất hấp dẫn. Để làm loại sốt này, bạn chỉ cần nguyên liệu duy nhất là 1 lon sữa đặc và thao tác cụ thể như sau:</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">Đây là một loại sốt vị sữa caramel có nguồn gốc từ Tây Ban Nha, cách làm siêu dễ nhưng thành phẩm lại rất hấp dẫn. Để làm loại sốt này, bạn chỉ cần nguyên liệu duy nhất là 1 lon sữa đặc và thao tác cụ thể như sau:</span></p>
 <ul>
 <li><span style="color: #000000;">Cách 1: Đổ sữa vào khay nướng. Bọc giấy bạc kín khay. Đổ nước sôi vào ngập nửa khay. Nướng trong lò ở nhiệt độ 200 độ C trong 2 – 3 giờ tới khi sữa đặc lại và chuyển màu nâu caramel hấp dẫn. Lưu ý cần theo dõi để đổ thêm nước sôi nếu cần và khi mở lò thì tránh sang một bên vì hơi nước toả ra rất nóng, có thể gây bỏng.</span></li>
 <li><span style="color: #000000;">Cách 2: Cho lon vào nồi sâu lòng. Đổ nước sôi ngập lon, cao hơn lon khoảng 2 cm. Nấu sôi rồi hạ lửa, đậy vung, đun liu riu khoảng 2 – 3 giờ. Để nguội hẳn rồi dùng. Với cách làm này cần<strong> canh để nước luôn ngập lon và phải để sữa nguội hẳn mới mở lon, nếu không lon sữa có thể sẽ nổ.</strong></span></li>
@@ -48,9 +45,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

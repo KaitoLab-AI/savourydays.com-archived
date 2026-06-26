@@ -20,10 +20,7 @@ description: ""
 <p class="_1mf _1mj" data-offset-key="atqdo-0-0" style="text-align: center;">Ảnh từ: https://charlieandjo.wordpress.com/2011/10/24/trip-to-france-e-dehillerin/</p>
 <div class="_1mf _1mj" data-offset-key="atqdo-0-0"><img alt="" class="aligncenter size-full wp-image-7348" height="630" loading="lazy" sizes="(max-width: 840px) 100vw, 840px" src="/wp-content/uploads/2017/04/copper-pót.jpg" width="840"/></div>
 <p class="_1mf _1mj" data-offset-key="entot-0-0">
-</p><p class="_1mf _1mj" data-offset-key="entot-0-0">Dòng khuôn thứ hai mà mình đặc biệt ấn tượng là các khuôn silicon. Trước đó mình có dùng silicon nhưng chỉ có mỗi khuôn cupcake với tấm nướng bánh thôi nên lần đi mua đồ mùa hè năm ấy cũng là lần đầu tiên mà được biết tới nhiều loại khuôn silicon như thế: khuôn cơ bản, làm thạch, làm chocolate thì không nói làm gì vì cũng tương đối phổ biến nhưng còn nhiều khuôn khác mà mình chưa thấy bao giờ cả. Đầu tiên là một số khuôn để làm bánh dạng entremet đẹp ơi là đẹp. Bánh mà hệt như tác phẩm nghệ thuật ấy, không phải chỉ đổ chồng các tầng lên nhau mà có lớp trong, lớp ngoài. Hồi xưa mình cứ thắc mắc làm sao mà người ta làm được cả cái bánh với bao nhiêu lớp đẹp thế. Hoá ra là có sự hỗ trợ rất lớn từ khuôn. Tất nhiên không phải cứ có khuôn là làm được nhưng rõ ràng cái khuôn làm cho công việc đơn giản và nhẹ nhàng hơn rất rất nhiều. Bên cạnh các khuôn lớn thì cũng có cả tá, à có lẽ là nhiều hơn 1 tá các khuôn để làm dạng bánh mini hay individual cake mà mình vốn rất thích với đủ mọi loại hình dáng nữa.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+</p><p class="_1mf _1mj" data-offset-key="entot-0-0">Dòng khuôn thứ hai mà mình đặc biệt ấn tượng là các khuôn silicon. Trước đó mình có dùng silicon nhưng chỉ có mỗi khuôn cupcake với tấm nướng bánh thôi nên lần đi mua đồ mùa hè năm ấy cũng là lần đầu tiên mà được biết tới nhiều loại khuôn silicon như thế: khuôn cơ bản, làm thạch, làm chocolate thì không nói làm gì vì cũng tương đối phổ biến nhưng còn nhiều khuôn khác mà mình chưa thấy bao giờ cả. Đầu tiên là một số khuôn để làm bánh dạng entremet đẹp ơi là đẹp. Bánh mà hệt như tác phẩm nghệ thuật ấy, không phải chỉ đổ chồng các tầng lên nhau mà có lớp trong, lớp ngoài. Hồi xưa mình cứ thắc mắc làm sao mà người ta làm được cả cái bánh với bao nhiêu lớp đẹp thế. Hoá ra là có sự hỗ trợ rất lớn từ khuôn. Tất nhiên không phải cứ có khuôn là làm được nhưng rõ ràng cái khuôn làm cho công việc đơn giản và nhẹ nhàng hơn rất rất nhiều. Bên cạnh các khuôn lớn thì cũng có cả tá, à có lẽ là nhiều hơn 1 tá các khuôn để làm dạng bánh mini hay individual cake mà mình vốn rất thích với đủ mọi loại hình dáng nữa.</p>
 <p class="_1mf _1mj" data-offset-key="entot-0-0" style="text-align: center;"><em>Một ví dụ… ;) </em><br/>
 Ảnh từ: www.silikomart.com</p>
 <p class="_1mf _1mj" data-offset-key="entot-0-0"><img alt="" class="aligncenter size-full wp-image-7349" height="400" loading="lazy" sizes="(max-width: 600px) 100vw, 600px" src="/wp-content/uploads/2017/04/25.988.87.0065_33.jpg" width="600"/></p>
@@ -43,10 +40,7 @@ description: ""
 </ul>
 <p class="_1mf _1mj" data-offset-key="entot-0-0">Ở Việt Nam thì đơn vị nhập khẩu chính hãng duy nhất là <a href="http://bakerland.vn"><strong>Bakerland</strong></a>.</p>
 <p class="_1mf _1mj" data-offset-key="entot-0-0">Silikomart là loại khuôn nếu đã dùng rồi, đặc biệt là dùng cho bánh lạnh thì sẽ không muốn đổi sang loại khác nữa vì chất liệu tốt, kiểu đáng đẹp, ra mẫu mới thường xuyên mà quan trọng nhất là an toàn. Silicon thật ra cũng có rất nhiều dòng, hồi xưa một trong những lí do mình đắn đo khi dùng silicon là không biết có tốt không và có bền không, nhưng với Silikomart thì hoàn toàn yên tâm luôn. 100% sản xuất tại Italia, giá không rẻ nhưng chất lượng thuộc hàng hảo hạng và tin là bền nên “đắt nhưng quả thực là xắt ra được rất nhiều miếng”. Thật ra cũng may là ở Việt Nam có đại lý vì trước khi về nhà mình đã nghĩ tới chuyện nhờ người quen ở Pháp hay Ý mua rồi, nhưng giờ có thể tự chọn vẫn thích hơn.</p>
-<p class="_1mf _1mj" data-offset-key="entot-0-0">Chắc vậy đã, mình đi ngắm bánh tiếp để xem nên làm gì đây ^.^</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p class="_1mf _1mj" data-offset-key="entot-0-0">Chắc vậy đã, mình đi ngắm bánh tiếp để xem nên làm gì đây ^.^</p>
 <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
 <a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
@@ -54,9 +48,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

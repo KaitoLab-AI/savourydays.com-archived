@@ -12,10 +12,7 @@ description: ""
 <p>——————–</p>
 <p>Thế là cuối cùng cũng có “hắn” trong tay.</p>
 <p>“Hắn” chẳng phải là quyển sách đầu tiên mà mình đứng tên tác giả, nhưng là quyển sách mà mình đã mất nhiều thời gian để hoàn thành nhất, tận bốn năm liền, với rất nhiều mồ hôi, có cả nước mắt, chỉ thiếu máu là chưa đổ thôi :P</p>
-<p>So với 3 quyển sách trước, hắn cũng là quyển có số bản in ít nhất. Nhưng ngày được tận tay cầm hắn lên, lật từng trang giấy – cảm giác lúc ấy, quả thực không từ nào có thể diễn tả được.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>So với 3 quyển sách trước, hắn cũng là quyển có số bản in ít nhất. Nhưng ngày được tận tay cầm hắn lên, lật từng trang giấy – cảm giác lúc ấy, quả thực không từ nào có thể diễn tả được.</p>
 <p>Hắn chỉ toàn những chữ là chữ, với các bảng biểu. Ngay cả mấy bức hình minh họa ít ỏi – cũng chỉ toàn là loằng ngoằng với hai màu đen trắng. Túm lại thì hắn rất xù xì, thô ráp, không hấp dẫn tẹo nào. Thế mà chẳng hiểu sao cứ mỗi lần nhìn thấy hắn, chạm vào hắn là tim mình lại cứ đập rộn lên, lạ thế :”&gt;</p>
 <p>Phần Preface (<em>lời mở đầu</em>) của hắn được bắt đầu bằng một đoạn nhật kí (lại nhật kí) như thế này:</p>
 <blockquote><p><em>January 2011</em>,</p>
@@ -25,19 +22,13 @@ description: ""
 <p>Thật ra đường vẫn còn dài lắm, trước mắt là phải chuẩn bị đương đầu với một hội đồng toàn những cao thủ giang hồ để bảo vệ hắn. Và sau đó sẽ là một chặng đường dài hơi hơn, có khi là vô tận. Nhưng không hề gì, bởi khi ấy mình đã có thêm một người bạn đồng hành là “hắn” rồi :)</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/16770699183" title="IMG_8557 by Trang Linh, on Flickr"><img alt="IMG_8557" class="aligncenter" height="519" loading="lazy" src="https://farm9.staticflickr.com/8836/16770699183_9d1209c8ac_z.jpg" width="640"/></a>————–</p>
 <p>* P.s.: Linh Trang là bút danh mà mình hay sử dụng tại blog và các ấn phẩm như sách, báo chí. Còn tên thật thì như trong ảnh, là luận án nên không được phép dùng bút danh :P</p>
-<div align="center" id="google-ads-body-post-end">
-
-
-</div> <div class="ac advertise-end">
+ <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
 <a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
 <br/><br/>
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

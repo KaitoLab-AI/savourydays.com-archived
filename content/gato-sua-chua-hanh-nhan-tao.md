@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2020/08/IMG_2395.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <div class="" data-block="true" data-editor="d3n0j" data-offset-key="e3ha6-0-0">
 <div class="_1mf _1mj" data-offset-key="e3ha6-0-0">
 <div class="" data-block="true" data-editor="d3n0j" data-offset-key="lkqn-0-0">
@@ -34,10 +33,7 @@ description: ""
 </ul>
 <p><span style="color: #800000;"><strong>Lưu ý về nguyên liệu và dụng cụ:</strong></span></p>
 <p><span style="font-weight: 400; color: #000000;">– Công thức bánh này ít đường, dễ ăn, tuy nhiên lại hơi nhạt so với khẩu vị nhiều người, các bạn có thể cân nhắc cho thêm khoảng 10 gram đường đánh bông cùng lòng trắng, hoặc thay sữa chua không đường thành sữa chua có đường hoặc sữa chua hoa quả. Nếu dùng sữa chua hoa quả, dùng loại sữa chua mua sẵn trong siêu thị (ví dụ như sữa chua chanh leo, việt quất,v.v.. của các hãng lớn như Vinamilk), như vậy bánh sẽ có vị thơm của hoa quả cũng như ngọt hơn một chút. Tuy nhiên, nếu dùng sữa chua hoa quả thì cũng không được bớt đường trong CT đi nữa vì sẽ làm ảnh hưởng đến độ bông của trứng.</span></p>
-<p><span style="font-weight: 400; color: #000000;">– Nếu không có bột làm bánh ngọt có thể thay bằng 30 gram bột mì đa dụng và 10 gram tinh bột ngô, tuy nhiên dùng toàn bộ bột làm bánh ngọt sẽ ngon hơn.</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">– Nếu không có bột làm bánh ngọt có thể thay bằng 30 gram bột mì đa dụng và 10 gram tinh bột ngô, tuy nhiên dùng toàn bộ bột làm bánh ngọt sẽ ngon hơn.</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Táo và hạnh nhân lát trong công thức này mình chỉ dùng để trang trí trên mặt bánh, vì vậy không bắt buộc, tuy nhiên phần vỏ táo đỏ sau khi nướng lên trông rất đẹp, vị chua ngọt quyện với hạnh nhân lát nướng giòn rất ngon, không nên bỏ qua nhé ;). Nếu muốn trộn táo vào bột bánh thì tương tự với bánh đào, bạn cũng thái hạt lựu, lăn qua bột mì rồi trộn bằng thao tác fold ở bước cuối cùng.</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Nếu không có khuôn chiffon, có thể dùng khuôn tròn đế rời đường kính 16cm, tuy nhiên nướng bằng khuôn chiffon sẽ tránh được khả năng bánh bị xẹp, lõm, thắt eo,..</span></p>
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
@@ -59,4 +55,4 @@ description: ""
 <li><span style="font-weight: 400; color: #000000;"> Sau khi lấy bánh ra khỏi lò, úp ngược bánh trên rack và để bánh nguội hoàn toàn trong khuôn sau đó mới lấy ra. Nếu bạn dùng khuôn tròn đế liền, dùng dao mỏng rạch quanh thành bánh và lấy bánh ra ngay sau khi bánh chín, để bánh nguồi hoàn toàn trên rack.</span></li>
 </ol>
 <p><span style="color: #000000;"><span style="font-weight: 400;">* Lưu ý: vì đây là một kiểu bánh gato nên kĩ thuật và các lưu ý khi làm bánh đều là các lưu ý khi làm bánh gato. Trong đó, ngoài việc cần trộn bột đúng cách để không vỡ bọt khí trong trứng đánh bông, thì còn cần lưu ý nhiệt nướng và thời gian nướng cho phù hợp, để bánh ra lò không bị xẹp, lõm… Các bạn có thể tham khảo thêm chi tiết trong bài viết này nhé: </span><span style="color: #0000ff;"><a href="/tong-hop-cac-nguyen-nhan-lam-banh-ga-to-lom-mat-day-that-eo-va-cach-khac-phuc/" style="color: #0000ff;"><span style="font-weight: 400;">/tong-hop-cac-nguyen-nhan-lam-banh-ga-to-lom-mat-day-that-eo-va-cach-khac-phuc/</span></a></span></span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2015/12/nha-gung.jpg"
 description: "Hướng dẫn chi tiết kèm video cách tự làm nhà bánh  gừng từ A-Z, cùng rất nhiều ý tưởng trang trí"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #ff0000;">THÔNG BÁO QUAN TRỌNG: Từ 0h ngày thứ Ba (8/12/2015) đến hết thứ Năm (10/12)- giờ Việt Nam, SD sẽ tạm ngưng hoạt động để bảo trì và khắc phục sự cố kĩ thuật. Trong khoảng thời gian này việc truy cập xem bài tại SD có thể sẽ rất chậm hoặc hoàn toàn không xem được. Chức năng gửi phản hồi tại SD cũng sẽ được khóa từ hôm nay (thứ Hai – 7/12) đến hết thứ Năm. Thay mặt ban điều hành SD, mình xin thông báo để các bạn được biết và có sự chuẩn bị trước nếu cần tìm công thức trong khoảng này. Mong các bạn thông cảm và hỗ trợ SD nhé. Cảm ơn các bạn nhiều nhiều</span>.</p>
 <p>—————–<br/>
 Sau bốn năm tạm nghỉ, năm nay lại mừng Giáng sinh với nhà bánh gừng. Đã bốn năm rồi nhưng sự háo hức (hí hửng) thì vẫn y nguyên như thế, có điều nội công đã thâm hậu hơn kha khá nên nhà bánh  năm nay có nhiều tiết mục bày bừa hơn :P</p>
 <p>Làm nhà gừng không khó, chỉ hơi mất công do phải chuẩn bị nhiều thứ. Nhưng tới lúc bày ra rồi thì kiểu như bị cuốn vào ấy, cho nên không thấy mất công hay thời gian gì cả, chỉ thấy vui thôi :) Nhà của mình năm nay phần mẫu nhà vẫn khá đơn giản, mình chỉnh lại từ mẫu cũ một chút để nhà cao ráo hơn, nhưng không xây thêm tầng hay tăng phòng gì hết. Do mình muốn tập trung vào các chi tiết trang trí nhà nên để dành thời gian cho khâu này nhiều hơn. Bánh gừng để làm nhà năm nay mình cũng chỉnh lại công thức cũ một tí tẹo. Bánh rất thơm và ngon, cũng cứng cáp đủ để dựng nhà, và mặt bánh cực mịn nữa, khi nướng không bị thay đổi hình dạng nhiều nên dựng lên khá là nhanh. Nhưng kinh nghiệm sau lần này là nếu làm thì sẽ làm gấp rưỡi so với công thức, để một phần dựng nhà, phần còn lại ăn trong lúc dựng nhà. Chứ ngồi trang trí, bị cái mùi thơm ngọt ngào ấm áp tỏa ra từ tường với mái nhà quyến rũ, mà lại không được ăn thì quả thực là không gì khó chịu bằng.</p>
 <p><a href=" https://www.flickr.com/photos/savourydays/23217785589/" title=" Nha banh gung by LinhTrang9185, on Flickr"><img alt=" Nha banh gung " class="aligncenter" height="419" loading="lazy" src=" https://farm6.staticflickr.com/5686/23217785589_21ffedf60a_z.jpg " width="640"/></a></p>
-<p>Năm nay có nhiều thời gian nên mình bày vẽ nhiều tiết mục trang trí, vẽ vời hoa lá quanh nhà hơn. Nhưng các nguyên liệu để dùng trang trí thì cũng không có gì đặc biệt, phần lớn là đường icing và thêm ít kẹo dẻo, kẹo đường thôi. Nhìn chung là những thứ đồ ăn phổ biến mà bạn có thể tìm thấy ở bất kì cửa hàng hay siêu thị nào. Mình nghĩ không nhất thiết phải là thứ đắt tiền hay lạ mắt, miễn là sử dụng hợp lí thì kiểu gì cũng có sản phẩm đẹp.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Năm nay có nhiều thời gian nên mình bày vẽ nhiều tiết mục trang trí, vẽ vời hoa lá quanh nhà hơn. Nhưng các nguyên liệu để dùng trang trí thì cũng không có gì đặc biệt, phần lớn là đường icing và thêm ít kẹo dẻo, kẹo đường thôi. Nhìn chung là những thứ đồ ăn phổ biến mà bạn có thể tìm thấy ở bất kì cửa hàng hay siêu thị nào. Mình nghĩ không nhất thiết phải là thứ đắt tiền hay lạ mắt, miễn là sử dụng hợp lí thì kiểu gì cũng có sản phẩm đẹp.</p>
 <p>Giới thiệu sơ qua là như vậy, giờ vào công thức chính nhé. Tuy năm nay có video nhưng vẫn có một số chú ý quan trọng, mình ghi ở dưới, các bạn nhớ đọc kĩ nha.</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <p><strong>A. Phần bánh gừng (tường, mái nhà….)</strong></p>
@@ -46,10 +42,7 @@ Sau bốn năm tạm nghỉ, năm nay lại mừng Giáng sinh với nhà bánh 
 <p>* <strong>Mẫu bản vẽ nhà</strong> (template) như ở dưới. Các bạn vẽ lại theo đúng tỉ lệ này trên bìa cứng nhé, khi cắt bột sẽ dễ dàng hơn.</p>
 <p><img alt="Slide1a" class="aligncenter size-full wp-image-6839" height="540" loading="lazy" sizes="(max-width: 720px) 100vw, 720px" src="/wp-content/uploads/2015/12/Slide1a.jpg" width="720"/></p>
 <p><img alt="Slide2" class="aligncenter size-full wp-image-6840" height="540" loading="lazy" sizes="(max-width: 720px) 100vw, 720px" src="/wp-content/uploads/2015/12/Slide2.jpg" width="720"/></p>
-<p>* <strong>Về ý tưởng trang trí nhà</strong>: Mình có thu thập khá nhiều mẫu nhà bánh đẹp và để tại <a href="https://www.pinterest.com/RicenFlour/" target="_blank"><strong>Pinterest của mình</strong></a>, cả nhà có thể xem ở <a href="https://www.pinterest.com/RicenFlour/gingerbread-house-ideas-and-inspiration/" target="_blank"><strong>link nà</strong></a>y nha.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>* <strong>Về ý tưởng trang trí nhà</strong>: Mình có thu thập khá nhiều mẫu nhà bánh đẹp và để tại <a href="https://www.pinterest.com/RicenFlour/" target="_blank"><strong>Pinterest của mình</strong></a>, cả nhà có thể xem ở <a href="https://www.pinterest.com/RicenFlour/gingerbread-house-ideas-and-inspiration/" target="_blank"><strong>link nà</strong></a>y nha.</p>
 <p>*<strong> Cách làm nhà bánh</strong>, từ khâu chuẩn bị bột, cán và cắt bột cho tới khâu hoàn thiện mình đã đăng video tại <strong><a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days</a></strong>. Nếu các bạn không xem được link tại blog thì cả nhà có thể xem trực tiếp tại YouTube nhé (vì đợt này SD đang trục trặc, đôi khi theo dõi hơi khó nên các bạn có thể Subscribe/ Đăng kí kênh YouTube của SD và xem trực tiếp tại đây sẽ tiện hơn).</p>
 <p>Video có phụ đề tiếng Anh và tiếng Việt. Khi xem các bạn bật CC và chỉnh Language trong Setting để chọn ngôn ngữ. Ngoài ra, nhớ chọn chế độ 720p (HD) để xem video được rõ nét nhất nha.</p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/mhkKdekiHP0" width="560"></iframe></div>
@@ -67,8 +60,7 @@ Sau bốn năm tạm nghỉ, năm nay lại mừng Giáng sinh với nhà bánh 
 <p>8. Khi dựng nhà hay làm bất kì việc gì có sử dụng đường royal icing, vd như làm cây như trong video, cần dành một khoảng thời gian để đường khô cứng lại rồi mới tiếp tục. Đặc biệt ở những nơi nhiệt độ nóng và ẩm thì thời gian để đường khô sẽ dài hơn (có thể dùng quạt để giúp cho đường khô nhanh).</p>
 <p>9. Nhà bánh giữ được bao lâu? Nếu để ăn thì nên dùng sớm trong khoảng 1 tuần. Trứng trong đường icing tuy đã được diệt khuẩn (bằng cách đun nóng tới 60 – 70 độ C) nhưng cũng không nên để lâu quá 3 ngày (nếu lâu hơn, khi ăn nên bỏ phần đường đi). Nếu chỉ để trưng bày và không ăn và bảo quản trong điều kiện tốt (khô ráo, thoáng mát, tầm quanh 20 độ C) thì có thể giữ nhà được rất rất lâu (nhà cũ của mình để được gần nửa năm, nếu mình nhớ không nhầm)</p>
 
-
 <p>Chúc các bạn có những khoảng thời gian thật vui với nhà bánh gừng :)</p>
 <p><a href=" https://www.flickr.com/photos/savourydays/23217800119/" title=" IMG_5078 by LinhTrang9185, on Flickr"><img alt=" IMG_5078" class="aligncenter" height="419" loading="lazy" src=" https://farm1.staticflickr.com/664/23217800119_d3c2fc8d95_z.jpg " width="640"/></a></p>
 <p><a href=" https://www.flickr.com/photos/savourydays/22957562694/" title=" IMG_2706 by LinhTrang9185, on Flickr"><img alt=" IMG_2706" class="aligncenter" height="419" loading="lazy" src=" https://farm1.staticflickr.com/641/22957562694_ccc1129d32_z.jpg " width="640"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

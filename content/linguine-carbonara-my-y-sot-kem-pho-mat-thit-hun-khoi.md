@@ -8,16 +8,11 @@ image: "/wp-content/uploads/2011/09/carbonara1.jpg"
 description: ""
 ---
 
-
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><a href="http://www.flickr.com/photos/55490207@N05/6151966659/" title="Linguine Carbonara  by LinhTrang9185, on Flickr"><img alt="Linguine Carbonara " class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6068/6151966659_311da80fe6.jpg" width="322"/></a></p>
 <p> </p>
 <p>Bên cạnh Bolognese thì Carbonara cũng là một loại sốt rất phổ biến để ăn kèm với pasta. Carbonara sauce cơ bản thường sẽ có thịt xông khói xào với hành tây và chút tiêu cho thơm và thịt ra bớt mỡ. Tiếp theo xào mỳ với thịt và cuối cùng trộn với sauce gồm trứng, kem tươi và pho mát (thường là Parmigiano Reggiano và Pecorino romano). Carbonara nấu theo cách này thì bao giờ cũng cho sợi mỳ săn bóng, chín vừa mềm mà không bị nát, lại ngấm sốt đều và có hương vị đặc trưng của thịt xông khói với hành tây, cùng với vị ngậy béo của kem trứng nữa. Từ công thức cơ bản này, người nấu cũng có thể biến tấu, thêm thắt một vài loại nguyên liệu tạo ra các loại Carbonara mới, mà không làm thay đổi hương vị  ban đầu, chẳng hạn như thêm các loại hải sản như tôm, cá hồi hun khói, hoặc một vài loại rau như zucchini (bí ngòi) hay đậu Hà Lan.</p>
 <p>Công thức mà mình giới thiệu dưới đây là Carbonara cơ bản (và đơn giản nhất :)) Thao tác nhìn chung là đơn giản và cực kì nhanh gọn, bởi vì thời gian làm sauce gần bằng thời gian luộc mỳ (khoảng 8-10 phút) cho nên tổng thời gian dành cho một đĩa mỳ chắc chỉ mất khoảng 15 phút là cùng ;)</p>
-<p><strong>Nguyên liệu (2 phần ăn)</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>Nguyên liệu (2 phần ăn)</strong></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6152515370/" title="Linguine Carbonara - Ingredients by LinhTrang9185, on Flickr"><img alt="Linguine Carbonara - Ingredients" class="aligncenter ngang500" src="http://farm7.static.flickr.com/6163/6152515370_c7ae132eff.jpg"/></a></p>
 <ul>
 <li><em>250 gram thịt ba chỉ hun khói</em></li>
@@ -40,10 +35,7 @@ description: ""
 <p>2. Đánh tan lòng đỏ trứng với kem tươi và pho mát, để sang một bên.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6151966789/" title="Linguine Carbonara - method 1 by LinhTrang9185, on Flickr"><img alt="Linguine Carbonara - method 1" class="aligncenter ngang500" src="http://farm7.static.flickr.com/6165/6151966789_4f64ed2ba6.jpg"/></a></p>
 <p> </p>
-<p>3. Đun nóng 1 thìa dầu olive trong chảo. Cho hành tây vào xào thơm (khoảng 1 – 2 phút). Tiếp theo cho thịt vào đảo với hành tây &amp; một chút hạt tiêu. Thường thì thịt hun khói đã mặn sẵn rồi nên mình không cho thêm muối, chỉ cho hạt tiêu cho thơm thôi.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>3. Đun nóng 1 thìa dầu olive trong chảo. Cho hành tây vào xào thơm (khoảng 1 – 2 phút). Tiếp theo cho thịt vào đảo với hành tây &amp; một chút hạt tiêu. Thường thì thịt hun khói đã mặn sẵn rồi nên mình không cho thêm muối, chỉ cho hạt tiêu cho thơm thôi.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6152511844/" title="Linguine Carbonara - method 2 by LinhTrang9185, on Flickr"><img alt="Linguine Carbonara - method 2" class="aligncenter ngang500" src="http://farm7.static.flickr.com/6167/6152511844_7d26124d1d.jpg"/></a></p>
 <p> </p>
 <p>4. Khi thịt bắt đầu săn lại thì cho mỳ vào xào cùng thịt. Bước này nếu các bạn cảm thấy trong chảo quá khô thì có thể cho thêm dầu olive hoặc nước luộc mỳ nhé.</p>
@@ -54,4 +46,4 @@ description: ""
 <p>6. Cho mùi tây vào chảo. Đảo đều lần nữa. Nêm lại gia vị cho vừa ăn.</p>
 <p>7. Gắp mỳ ra đĩa. Dùng nóng với pho mát bào vụn.</p>
 <p>Enjoy! ;)</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

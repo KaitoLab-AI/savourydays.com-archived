@@ -17,10 +17,7 @@ description: "savoury days, nhật ký học làm bánh"
 3. Dieu-Trinh Nguyen (https://www.facebook.com/trinhnippon?fref=ufi)<br/>
 4. Lê Trâm (https://www.facebook.com/le.tram.186?fref=ufi)<br/>
 5. Nam In (https://www.facebook.com/mrbanhngot?fref=ufi)</p>
-<p>Mời các bạn liên hệ với mình theo địa chỉ mail savourydaysvn@gmail.com để trao đổi về cách gửi sách nhé :)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Mời các bạn liên hệ với mình theo địa chỉ mail savourydaysvn@gmail.com để trao đổi về cách gửi sách nhé :)</p>
 <p>Cũng nhân dịp đầu năm mới, xin chia sẻ một vài thông tin về sách “mới” chuẩn bị ra mắt trong tháng 3 tới đây :) Tập 2 của “Nhật ký học làm bánh” được khởi động từ ngay khi tập 1 hoàn thành và chuẩn bị ra mắt. Cả một năm trời ấp ủ ý tưởng, lên khung nội dung, chuẩn bị về hình ảnh… tất cả ê-kíp làm sách gồm biên tập viên, họa sỹ của Nhã Nam và Linh Trang với vai trò “lon ton” (làm các việc còn lại gồm mua đồ, nướng bánh, chụp ảnh, rửa bát…) rất vui vì có thể cho ra mắt “cô em” sau đúng 1 năm từ ngày “cô chị” ra đời.</p>
 <p style="text-align: center;"><em>Bìa trước và bìa sau của sách </em></p>
 <p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/16405565089/" title="nhatkyhoclambanhbiacung-01 by LinhTrang9185, on Flickr"><img alt="nhatkyhoclambanhbiacung-01" class="aligncenter" height="448" loading="lazy" src="https://farm9.staticflickr.com/8648/16405565089_0a5b21be3f_z.jpg" width="640"/></a></p>
@@ -33,9 +30,6 @@ description: "savoury days, nhật ký học làm bánh"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

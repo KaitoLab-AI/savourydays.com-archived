@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2019/01/cách-làm-bóng-xào-banner.jpg"
 description: "cách làm bóng bì xào thập cẩm: Một món ăn ngon không chỉ trong ngày Tết mà kể cả ngày thường, hoặc mỗi khi gia đình tụ tập. Rau củ các loại luôn là thứ nguy"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Một trong những món ăn truyền thống gần như “phải có” trong mâm cơm ngày tết, mâm cỗ giỗ chạp hoặc đám cưới. Về cơ bản, nguyên liệu và cách làm của món này cũng giống với các món rau xào thập cẩm khác, chỉ khác là có thêm món bóng giòn sần sật rất ngon. Ngày Tết bận rộn, bạn có thể thay đổi nguyên liệu cho phù hợp với quỹ thời gian eo hẹp của mình, và theo cả khẩu vị của gia đình nữa: ví dụ rau củ xào tôm, thịt nạc thăn, thịt bò… đều rất ngon cả. </span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7973" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/bongxaofinal-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #800000;"><strong>Nguyên liệu:</strong></span></p>
@@ -32,10 +31,7 @@ description: "cách làm bóng bì xào thập cẩm: Một món ăn ngon không
 <li><em><span style="color: #000000;">30 ml dầu ăn</span></em></li>
 </ul>
 <p><span style="color: #800000;"><strong>Cách làm:</strong></span></p>
-<p><span style="color: #000000;">1. Sơ chế bóng bì :</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">1. Sơ chế bóng bì :</span></p>
 <p><span style="color: #000000;">– Ngâm bóng bì trong nước đến khi hơi mềm rồi rửa sạch, cắt chéo thành các miếng hình quả trám cỡ 4 cm. Gừng cạo vỏ, băm nhỏ. Cho gừng, rượu vào bóng bì đã thái, bóp nhẹ nhàng khoảng 2’ để khử mùi hôi của bóng, rửa sạch lại với nước, để ráo.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7961" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/canhbong2-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;"> 2. </span><span style="color: #000000;">Sơ chế các nguyên liệu khác</span></p>
@@ -45,10 +41,7 @@ description: "cách làm bóng bì xào thập cẩm: Một món ăn ngon không
 <p><span style="color: #000000;">– Hành tây bóc vỏ, thái lát mỏng</span></p>
 <p><span style="color: #000000;">– Thịt thăn lợn thái mỏng, ướp với 1 thìa cafe nước mắm, ½ thìa cafe hạt tiêu, để 15’ cho thấm</span></p>
 <p><span style="color: #000000;">– Hành lá, rau mùi bỏ rễ, rửa sạch, thái khúc dài 3cm</span></p>
-<p><span style="color: #000000;">– Hành khô bóc vỏ, thái lát mỏng</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">– Hành khô bóc vỏ, thái lát mỏng</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7969" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/bongxao2-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">3. Đun sôi 1 nồi nước, lần lượt trụng sơ cà rốt, su hào, súp lơ, rồi vớt ra thả ngay vào bát nước lạnh để rau giữ được màu tươi và giòn.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7970" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/bongxao3-1024x683.jpg" width="1024"/></p>
@@ -58,4 +51,4 @@ description: "cách làm bóng bì xào thập cẩm: Một món ăn ngon không
 <p><img alt="" class="aligncenter size-large wp-image-7972" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/bongxao5-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">6. Trút ra đĩa, rắc thêm hạt tiêu lên trên, ăn nóng.</span></p>
 <p><span style="color: #000000;">Yêu cầu thành phẩm: Bóng bì thơm, chín giòn, không bì mềm bở. Rau chín vừa tới, giữ được màu sắc tươi tắn.</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

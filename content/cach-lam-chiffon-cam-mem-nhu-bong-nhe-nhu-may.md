@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2016/09/cách-làm-chiffon-cam-banner.jpg"
 description: "Cách làm Chiffon cam ngon, siêu mềm và siêu nhẹ, với video hướng dẫn kèm theo các mẹo và lưu ý để nướng bánh thành công, bánh không bị xẹp lõm"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Có lẽ với đa số người mới học làm bánh, Chiffon được xem như loại bánh “cao cấp” trong dòng bánh bông lan, là thứ bánh vừa mềm, vừa xốp, vừa nhẹ, vừa mịn, lại đủ ẩm, có thể ăn nhiều mà không ngấy, cũng không có cảm giác bị nghẹn bứ như một số loại bông lan cơ bản khác. Nhưng đồng thời, Chiffon cũng là loại bánh không dễ làm thành công. Để có một chiếc bánh Chiffon ngon, mềm mịn xốp và không xẹp, không lõm, ta sẽ cần cả ba yếu tố:</p>
 <ul>
 <li>tỉ lệ nguyên liệu trong công thức hợp lý</li>
@@ -18,10 +17,7 @@ description: "Cách làm Chiffon cam ngon, siêu mềm và siêu nhẹ, với vi
 <p>Nếu như hai yếu tố đầu tiên là thứ chúng ta có thể tự rèn luyện thì yếu tố thứ ba lại hơi “khó chơi” hơn một chút. Tuy rằng công thức nào cũng có nhiệt độ và thời gian nướng đi kèm, nhưng những con số này không phải áp dụng vào lò nào cũng thành công. Lý do ư? Đa phần lò nướng tại gia, đặc biệt là các lò nhỏ với dung tích dưới 30 lít thường có nhiệt độ không được ổn định. Lửa trên quá cao so với lửa dưới, hoặc nhiệt độ thực tế trong lò chênh lệch nhiều so với nhiệt chỉnh bên ngoài, làm cho bánh có thể nở quá đà rồi xẹp (vì kết cấu quá yếu không đỡ nổi), hoặc bánh chưa chín hết bên trong, còn nhiều hơi ẩm nên khi lấy ra ngoài, phần hơi ẩm này kéo cho bánh bị xẹp gãy.</p>
 <p>Vì lí do kể trên mà việc nướng Chiffon có thành công hay không phụ thuộc ở việc chúng ta có hiểu lò nhà mình hay không, và biết cách nướng cho đúng hay không. Nếu là bạn đọc lâu năm của SD thì hẳn bạn đã rất quen với việc cứ nghe mình nhắc đi nhắc lại vụ lò nướng này rồi nhỉ :) Nhưng thừa còn hơn thiếu. Riêng với việc làm quen và tìm hiểu lò để chỉnh nhiệt và thời gian nướng cho chuẩn này, bạn nào chưa có nhiều kinh nghiệm thì tham khảo thêm ở các link dưới nhé.</p>
 <p>(*) <strong>cách chỉnh nhiệt độ và thời gian nướng để bánh không bị xẹp lõm <a href="/lo-nuong-kinh-nghiem-nuong-banh/" target="_blank">Phần 1</a> và <a href="/kinh-nghiem-nuong-banh-phan-2/" target="_blank">Phần 2</a></strong></p>
-<p>Quay về với Chiffon. Trong mấy năm vừa qua mình đã thử khá nhiều công thức Chiffon khác nhau. Đúng hơn là các công thức bánh với cùng một cách làm (trộn lòng đỏ với bột, sữa, dầu ăn… đánh bông lòng trắng riêng rồi trộn hai hỗn hợp với nhau), nhưng khác nhau về tỉ lệ các nguyên liệu. Hầu hết các công thức này đều ổn cả – tức là cho bánh ra lò ngon (với điều kiện được nướng ở nhiệt độ và thời gian thích hợp). Sự khác nhau cơ bản, mình nghĩ có thể chia thành hai nhóm: <strong>Chiffon nhiều bột</strong> và <strong>Chiffon ít bột.</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Quay về với Chiffon. Trong mấy năm vừa qua mình đã thử khá nhiều công thức Chiffon khác nhau. Đúng hơn là các công thức bánh với cùng một cách làm (trộn lòng đỏ với bột, sữa, dầu ăn… đánh bông lòng trắng riêng rồi trộn hai hỗn hợp với nhau), nhưng khác nhau về tỉ lệ các nguyên liệu. Hầu hết các công thức này đều ổn cả – tức là cho bánh ra lò ngon (với điều kiện được nướng ở nhiệt độ và thời gian thích hợp). Sự khác nhau cơ bản, mình nghĩ có thể chia thành hai nhóm: <strong>Chiffon nhiều bột</strong> và <strong>Chiffon ít bột.</strong></p>
 <p>Chiffon nhiều bột thường có tỉ lệ khoảng 25 – 35 gram bột cho một quả trứng (trọng lượng 50 gram, không tính vỏ), trong khi Chiffon ít bột thì có thể chỉ dùng 10 – 20 gram bột cho một quả trứng. Ưu điểm của Chiffon nhiều bột là bánh nở khá ổn định và tốt, ít bị xẹp sau khi lấy ra khỏi lò nhưng vì có nhiều bột nên độ mềm, nhẹ và xốp không được bằng Chiffon ít bột. Tất nhiên, nếu so với bánh bông lan bơ hay bông lan cơ bản theo công thức cổ điển, chỉ dùng trứng, đường, bột thì loại Chiffon nhiều bột này vẫn mềm, ẩm và ngon hơn khá nhiều, nhưng vẫn chưa thể so được với độ mềm nhẹ của Chiffon ít bột.</p>
 <p>Loại nào ngon hơn? Việc này là tuỳ vào khẩu vị và cảm nhận của người ăn. Mình có cảm giác là người châu Á có xu hướng thích các loại siêu mềm, siêu nhẹ như kiểu Chiffon ít bột hơn, trong khi người phương Tây lại thích miếng bánh có nhiều vị bột và đậm đà một chút. Ăn Chiffon ít bột nhiều khi có cảm giác như ăn mây, rất mềm, rất nhẹ nhưng ăn xong có thể cảm giác như kiểu chưa ăn gì :P</p>
 <p>Nếu bạn muốn tự mình thử nghiệm và quyết định thì có thể tham khảo công thức <a href="/chiffon-cam/"><strong>cách làm Chiffon cam</strong> </a>cũ – là một kiểu Chiffon nhiều bột. Còn món Chiffon cam trong post này là đại diện cho kiểu ít bột, siêu nhẹ siêu mềm.</p>
@@ -47,10 +43,7 @@ description: "Cách làm Chiffon cam ngon, siêu mềm và siêu nhẹ, với vi
 <p>* <strong>Lưu ý:</strong></p>
 <p>– Các chất lỏng đều có thể đong trên cân, vì vậy nên đơn vị đo của dầu ăn và nước là “gram”</p>
 <p>– Có thể thay nước cam bằng sữa tươi không đường để làm chiffon cơ bản</p>
-<p>– Nếu muốn dùng bột làm bánh ngọt (bột mì số 8/ cake flour) hoặc không có bột ngô, xem cách thay thế trong video.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>– Nếu muốn dùng bột làm bánh ngọt (bột mì số 8/ cake flour) hoặc không có bột ngô, xem cách thay thế trong video.</p>
 <p>– Cân lượng lòng trắng trứng và lòng đỏ chính xác, mỗi lòng đỏ mình dùng nặng khoảng 18 – 20 g, mỗi lòng trắng nặng 30 – 35 g (tương đương trứng cỡ M ở châu Âu &amp; Mỹ). Trứng ở VN có thể có lòng đỏ rất nhỏ và lòng trắng rất to, nếu làm quá nhiều lòng trắng, bánh có thể sẽ khá dai và dễ xẹp.</p>
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <p>Video hướng dẫn cách làm chiffon cam đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo <a href="https://youtu.be/Tyu7COGvLXQ" target="_blank"><strong>link này</strong></a> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="/demo-flan-creme-caramel-kem-caramel/" target="_blank">cách làm bánh flan này.</a> </strong></p>
@@ -67,7 +60,6 @@ description: "Cách làm Chiffon cam ngon, siêu mềm và siêu nhẹ, với vi
 <p>7. Đổ bột từ độ cao khoảng 10 – 15 cm cách mặt khuôn để bột chảy từ từ vào khuôn, giúp làm vỡ các bọt khí lớn. Sau khi đổ xong, lắc nhẹ khuôn cho bột dàn đều, có thể đập khuôn vài cái xuống bàn.</p>
 <p>8. Nướng bánh ở nhiệt 160 độ C trong 40 phút. Nhiệt độ và thời gian này có thể thay đổi tuỳ vào lò (xem giải thích ở đầu bài). Bánh sẽ nở khá cao trong lò, thậm chí có thể nứt mặt và xẹp một chút ở thời gian cuối. Lấy bánh ra khỏi lò khi mặt bánh nâu vàng, ấn nhẹ lên bánh thấy vết lõm lập tức đàn hồi.</p>
 <p>9. Lấy bánh ra khỏi lò. Lót khăn lên mặt bàn. Thả cho khuôn bánh rơi từ độ cao khoảng 30 cm xuống bàn. Làm 2 – 3 lần. Bánh sẽ xẹp một chút nhưng việc này sẽ giúp cho hơi ẩm trong bánh thoát nhanh hơn và không tiếp tục xẹp khi úp ngược để nguội. Nếu không làm khâu này, hơi nóng trong bánh có thể thoát chậm làm cho bánh bị xẹp nhiều. Mẹo này mình học được từ các bạn trong <a href="https://www.facebook.com/groups/monngonnhalam/" target="_blank"><strong>Group “Món ngon nhà làm”</strong></a> (tại Facebook), ngoài Chiffon còn có thể áp dụng khi làm các loại bánh dễ xẹp như bông lan cơ bản (bất bại), ga-tô Hồng Kông…</p>
-
 
 <p>10. Úp ngược bánh và để nguội hẳn trong 1 – 2 giờ. Nên úp bánh lên rack kê cao để hơi nước có thể thoát ra ngoài dễ dàng.</p>
 <p>11. Khi bánh đã nguội hẳn, dùng dao lách quanh thành trong của bánh và rút bánh ra ngoài. Bánh rất nhẹ nên cần làm nhẹ tay, khi cắt bánh dùng động tác đưa dao qua lại như cưa gỗ thay vì ấn thẳng xuống. Bọc bánh bằng ni-lon bọc thực phẩm, bảo quản ở nhiệt độ phòng nếu trời mát (dưới 20 độ C) hoặc ngăn mát tủ lạnh, dùng trong 3 ngày. Bánh rất ngon và có thể để tới 3 ngày mà vẫn đủ ẩm, có thể ăn vã được mà không cần thêm kem.</p>
@@ -87,4 +79,4 @@ description: "Cách làm Chiffon cam ngon, siêu mềm và siêu nhẹ, với vi
 </ul>
 <p style="text-align: justify;">4. Nếu bánh nở kém, bột bánh loãng, có nhiều bọt khí to: do đánh trứng chưa đủ bông hoặc trộn chưa đúng kĩ thuật làm bọt khí bị vỡ nhiều.</p>
 <p style="text-align: justify;">5. Bánh này nở nhờ trứng đánh bông (trong trứng có rất nhiều bọt khí, khi gặp nhiệt độ, không khí “phình” ra giúp bánh nở), không cần phải thêm bột nở hay muối nở.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

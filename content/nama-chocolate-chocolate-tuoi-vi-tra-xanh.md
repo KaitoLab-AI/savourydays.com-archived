@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2013/02/NamaChocolate1.jpg"
 description: "nama chocolate, nama chocolate trà xanh, matcha chocolate, chocolate tươi, chocolate Nhật"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng k<span style="color: #ff0000;">hông được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
 <p>——————————————<br/>
 Cả nhà ah, trước hết về tình hình phát hành sách trong TPHCM và các tỉnh thành phía Nam, thật sự xin lỗi các bạn rất nhiều vì không biết có trục trặc gì trong khâu vận chuyển mà đến giờ sách vẫn chưa được chuyển đến nơi. Mình ở xa nên mặc dù đã cố gắng hỏi thông tin nhưng cũng không cập nhật được thêm gì về việc vận chuyển và phát hành của sách. Hi vọng các bạn ở phía Nam sẽ không thất vọng về điều này và mong là mọi người vẫn sẽ ủng hộ sau Tết nhé…</p>
 <p>Quay về món của ngày hôm nay: Nama chocolate hình như đang là món rất được ưa chuộng ở Việt Nam nhỉ? Mà nghe “quảng cáo” cũng hấp dẫn nữa: <em>ngọt ngào, thơm phức, mát rượi và tan trên đầu lưỡi</em> :x Mình có hứa với khá nhiều bạn về việc thử nghiệm công thức Nama chocolate, nhưng mãi đến giờ mới làm được, hi vọng là vẫn kịp để làm “tài liệu tham khảo” cho các bạn nào muốn làm để ăn Tết hay làm quà tặng cho ngày lễ tình yêu sắp tới :)</p>
-<p>Về Nama chocolate thì ấn tượng lớn nhất của mình qua các phản hồi của các bạn là “tại sao làm mà không giống với Nama chocolate của Nhật”. Thật ra mình nghĩ là không nên so sánh, vì kể cả khi bạn làm y xì như công thức, thì Chocolate mà bạn làm ra có thể vẫn khác với Chocolate mà mình làm ra, và khác với Chocolate làm tại Nhật. Không phải do “tay nghề”, mà đơn giản chỉ là vì nguyên liệu khác nhau, Chocolate khác nhau, kem tươi khác nhau… hoặc điều kiện bảo quản khác nhau sẽ cho sản phẩm khác nhau, chỉ vậy thôi.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Về Nama chocolate thì ấn tượng lớn nhất của mình qua các phản hồi của các bạn là “tại sao làm mà không giống với Nama chocolate của Nhật”. Thật ra mình nghĩ là không nên so sánh, vì kể cả khi bạn làm y xì như công thức, thì Chocolate mà bạn làm ra có thể vẫn khác với Chocolate mà mình làm ra, và khác với Chocolate làm tại Nhật. Không phải do “tay nghề”, mà đơn giản chỉ là vì nguyên liệu khác nhau, Chocolate khác nhau, kem tươi khác nhau… hoặc điều kiện bảo quản khác nhau sẽ cho sản phẩm khác nhau, chỉ vậy thôi.</p>
 <p>Có rất nhiều công thức Nama chocolate khác nhau trên mạng. Nhưng từ những gì mình đọc được thì nhìn chung là không có bí kíp nào lớn (hoặc có nhưng chưa thấy ai tiết lộ :P), cách làm chỉ là pha trộn chocolate, kem tươi, bơ… rồi để lạnh. Vì công thức rất ngắn gọn nên mình sẽ viết kĩ hơn với phần ghi chú và lưu ý để các bạn có thể tự điều chỉnh khi làm tại nhà nhé. Ngoài ra, trong bài viết này mình cũng chỉ giới thiệu cách làm Nama chocolate vị trà xanh, vì nguyên liệu chính là Chocolate trắng dễ chọn và dễ sử dụng hơn. Còn vị Cacao hay Chocolate đắng thì hơi phức tạp hơn một chút vì có một vài lưu ý liên quan đến việc chọn lựa và dùng Chocolate và Cacao nào cho phù hợp… nên mình sẽ giới thiệu trong một bài khác, nhân tiện giới thiệu luôn món Chocolate truffle rất nổi tiếng theo kiểu Bỉ nữa.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8450995864/" title="IMG_9474-1 by LinhTrang9185, on Flickr"><img alt="IMG_9474-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8226/8450995864_24441f4683_z.jpg" width="440"/></a></p>
 <p><span style="color: #800000;"><strong>Mức độ</strong></span>: Dễ</p>
@@ -35,10 +31,7 @@ Cả nhà ah, trước hết về tình hình phát hành sách trong TPHCM và 
 <p>1. Bẻ chocolate trắng thành miếng nhỏ (hoặc bào vụn).</p>
 <p>2. Cho bơ và sữa vào nồi. Đun lửa nhỏ, vừa đun vừa quấy. Đến khi bơ sữa hơi âm ấm thì cho bột trà vào. Tiếp tục quấy đến khi bột trà tan hết, hỗn hợp mấp mé sôi.</p>
 <p>3. Bắc nồi ra khỏi bếp. Cho Chocolate vào nồi. Quấy đều đến khi Chocolate tan hết, hỗn hợp hòa quyện và mịn mượt. Cho mật ong, quấy đều.</p>
-<p>4. Chuẩn bị hộp hoặc khay đựng. Mình dùng hộp vuông kích thước khoảng 10 x 10cm. Lót nilon thực phẩm (nilon bọc thức ăn) hoặc giấy nến ở đáy hộp, mép nilon nên chườm ra ngoài thành hộp để rút lên cho dễ. Đổ Chocolate vào hộp, để nguội rồi bọc kín bằng nilon, hoặc đậy kín, để tủ lạnh từ 4-6h hoặc qua đêm cho Chocolate đông lại.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>4. Chuẩn bị hộp hoặc khay đựng. Mình dùng hộp vuông kích thước khoảng 10 x 10cm. Lót nilon thực phẩm (nilon bọc thức ăn) hoặc giấy nến ở đáy hộp, mép nilon nên chườm ra ngoài thành hộp để rút lên cho dễ. Đổ Chocolate vào hộp, để nguội rồi bọc kín bằng nilon, hoặc đậy kín, để tủ lạnh từ 4-6h hoặc qua đêm cho Chocolate đông lại.</p>
 <p>5. Chuẩn bị dao sắc, khăn ẩm và bát đựng bột trà xanh (để phủ ngoài Chocolate). Phủ một lớp mỏng bột trà xanh lên mặt thớt (hoặc có thể dùng nilon, để tránh cho Chocolate dính vào thớt). Lấy Chocolate ra khỏi hộp. Lúc này Chocolate đã đông lại thành miếng nhưng vẫn rất mềm, dẻo và khá dính. Dùng dao cắt dứt khoát thành các miếng nhỏ. Sau mỗi nhát cắt có thể dùng khăn lau sạch rồi tiếp tục cắt đến hết.</p>
 <p>Lăn các viên Chocolate qua bột trà. Giữ lạnh, dùng trong khoảng 3-4 ngày.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8450995830/" title="IMG_9483-2 by LinhTrang9185, on Flickr"><img alt="IMG_9483-2" class="aligncenter" height="500" loading="lazy" src="http://farm9.staticflickr.com/8505/8450995830_4c5d2f911d.jpg" width="400"/></a></p>
@@ -47,4 +40,4 @@ Cả nhà ah, trước hết về tình hình phát hành sách trong TPHCM và 
 <p>2. Như đã nói ở trên, để có sản phẩm ngon thì <strong>nguyên liệu ngon là điều kiện quan trọng hàng đầu</strong>. Ngoài Chocolate ngon ra thì các bạn nên chọn sữa nguyên kem, và nếu mua được bơ tươi là tốt nhất.</p>
 <p>3. Bột trà xanh hơi khó hòa tan nên làm theo cách trên là an toàn nhất. Cẩn thận hơn nữa thì ở bước 2, các bạn có thể lọc qua rây và hòa tan bột trà hoàn toàn, rồi mới trộn cùng Chocolate.</p>
 <p>4. Nếu nơi bạn ở có nhiệt độ nóng và ẩm thì mọi thao tác cắt và phủ bột lên Chocolate phải làm rất nhanh, tránh để Chocolate chảy nhão nhé.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

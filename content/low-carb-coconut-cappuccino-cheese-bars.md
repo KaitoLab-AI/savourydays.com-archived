@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2014/01/CapuccinoCheeseBars1.jpg"
 description: "bánh low-carb, low-carb cheese cake"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>(*) <strong>Lưu ý chung cho các công thức Low-carb tại Savoury Days:</strong></p>
 <p>1. Mình không ăn kiêng, nhưng mình quan tâm và mong muốn có một chế độ ăn hợp lý, khoa học, cân bằng và tốt cho sức khỏe. Vì vậy nên mình muốn tìm hiểu và giới thiệu các công thức món ăn theo kiểu low-carb. Còn tại sao lại tập trung vào đồ ngọt vì có lẽ tài liệu tham khảo cho cách nấu các món tráng miệng <em>low-carb </em> ít hơn món mặn nhiều. Và kể cả với các bạn không ăn kiêng thì những món ăn này vẫn có thể dùng như là một thứ đồ ăn ngon và thân thiện với sức khỏe :)</p>
 <p>2. Nguyên liệu mà mình lựa chọn để dùng trong các món ăn low-carb tại SD được dựa theo <a href="http://www.atkins.com/Program/Phase-1.aspx">danh sách thực phẩm của Atkins diet</a>, là một trong những chế độ ăn kiêng low-carb rất được ưa chuộng trên thế giới, cũng là một trong những phương pháp rất khắt khe trong việc lựa chọn thực phẩm. Ngoài ra, mình có tham khảo thêm các tài liệu về <em>Healthy food &amp; healthy eating </em>của Jonny Bowden, Dana Carpender… Lý do vì tác giả của những tài liệu này đều là các chuyên gia dinh dưỡng, có kinh nghiệm nhiều năm về ăn uống theo <em>low-carb</em>, mặt khác, các thông tin mà họ đưa ra cũng đã được kiểm nghiệm bởi nhiều đối tượng khác nhau, và có cơ sở khoa học hợp lý, nên độ tin cậy tương đối cao.</p>
@@ -20,10 +19,7 @@ description: "bánh low-carb, low-carb cheese cake"
 <li>Sữa đậu nành, đậu phụ, sữa chua không đường, kem chua</li>
 <li>Bột cacao nguyên chất, bột trà xanh, chocolate (80% cacao trở lên)</li>
 </ul>
-<p>Vì các mỗi chế độ ăn kiêng low-carb có một quy trình và yêu cầu về loại thực phẩm  khác nhau, nên có thể một vài thành phần trong công thức sẽ không phù hợp trong một số trường hợp cụ thể. Các bạn có thể điều chỉnh công thức tùy theo phương pháp ăn kiêng mà bạn áp dụng, mình cũng sẽ ghi chú thêm trong công thức về cách thay thế hoặc loại bỏ nguyên liệu.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Vì các mỗi chế độ ăn kiêng low-carb có một quy trình và yêu cầu về loại thực phẩm  khác nhau, nên có thể một vài thành phần trong công thức sẽ không phù hợp trong một số trường hợp cụ thể. Các bạn có thể điều chỉnh công thức tùy theo phương pháp ăn kiêng mà bạn áp dụng, mình cũng sẽ ghi chú thêm trong công thức về cách thay thế hoặc loại bỏ nguyên liệu.</p>
 <p>Riêng với các chất tạo ngọt, vì mua và dùng đường ăn kiêng ở bên này khá phức tạp nên mình sử dụng đường bình thường, đường mía, đường thốt nốt hoặc mật ong. Các bạn có thể thay bằng đường ăn kiêng mà bạn dùng, nhưng lưu ý rằng một số loại đường ăn kiêng có thể thay đổi mùi vị khi gặp nhiệt độ cao. Riêng với đường, mình sẽ có đơn vị đo theo thể tích (volume), vd: đong bằng đơn vị <em>cup,</em> để các bạn tiện chuyển đổi tương đương. VD, các bạn có thể dùng <a href="http://www.splenda.com/cooking-baking/conversion-charts"><strong>bảng chuyển đổi này</strong></a> để chuyển từ đường kính trắng sang đường Splenda.</p>
 <p>3. Mình hoan nghênh tất cả các chia sẻ, đóng góp để hoàn thiện và làm đa dạng các công thức hơn. <span style="color: #ff0000;">Tuy nhiên, mình sẽ không trả lời các phản hồi như: “Low-carb thì không ăn A, B, C..” hoặc “tại sao Low-carb mà lại có … “. Lý do như đã giải thích trong mục (2).</span></p>
 <p>——————————————-</p>
@@ -43,10 +39,7 @@ description: "bánh low-carb, low-carb cheese cake"
 <li><em>50 – 60gr dừa tấm/ vụn dừa sấy khô (<a href="http://www.google.com/search?q=desiccated+coconut&amp;client=safari&amp;rls=en&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ei=m-HbUu3RL8qrhQeal4CwCg&amp;ved=0CAcQ_AUoAQ&amp;biw=1280&amp;bih=626">desicated coconut)</a> </em></li>
 <li><em>50 – 60gr bột hạnh nhân (almond powder)</em></li>
 </ul>
-<p><strong>B. Phần Cheesecake</strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong>B. Phần Cheesecake</strong></p>
 <ul>
 <li><em>200 gr cream cheese – để mềm ở nhiệt độ phòng</em></li>
 <li><em>50 gr kem tươi (hàm lượng béo 35 – 40%)</em></li>
@@ -75,7 +68,6 @@ description: "bánh low-carb, low-carb cheese cake"
 <p><a href="http://www.flickr.com/photos/55490207@N05/6485555405/" title="IMG_0210 by LinhTrang9185, on Flickr"><img alt="IMG_0210" class="aligncenter" height="334" loading="lazy" src="http://farm8.staticflickr.com/7028/6485555405_109d4b8b8b.jpg" width="500"/></a></p>
 <p>3. Cho dừa vào trộn đều, tiếp theo cho bột hạnh nhân, trộn cho hòa quyện. Ta sẽ có một hỗn hợp tương đối đặc và kết dính. Vì dừa và hạnh nhân có thể hút ẩm khác nhau, khi làm các bạn hãy cho khoảng 2/3 lượng dừa và bột hạnh nhân vào trước, để theo dõi độ kết dính của hỗn hợp. Nếu thấy hỗn hợp đã tương đối đặc thì dừng lại. Tránh trường hợp dừa hút ẩm quá nhiều sẽ làm hỗn hợp bị khô và rời rạc, khó tạo hình đế bánh.</p>
 
-
 <p><a href="http://www.flickr.com/photos/55490207@N05/12068567275/" title="IMG_4552 by LinhTrang9185, on Flickr"><img alt="IMG_4552" class="aligncenter" height="333" loading="lazy" src="http://farm6.staticflickr.com/5473/12068567275_96c21ec5a5.jpg" width="500"/></a></p>
 <p>4. Cho bột vào khuôn, dùng đầu ngón tay dàn đều và ép bột vào đáy khuôn để tạo thành đế bánh.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/12068858773/" title="IMG_4553 by LinhTrang9185, on Flickr"><img alt="IMG_4553" class="aligncenter" height="334" loading="lazy" src="http://farm6.staticflickr.com/5480/12068858773_58c6348d2c.jpg" width="500"/></a></p>
@@ -97,4 +89,4 @@ description: "bánh low-carb, low-carb cheese cake"
 <p>– Với các loại cheesecake nói chung, không nướng bánh quá khô (ăn sẽ rất chán và bứ)</p>
 <p>– Nếu bánh có hiện tượng nứt mặt, nguyên nhân có thể do nhiệt trong lò quá cao hoặc bánh quá gần với lửa trên (=&gt; cách khắc phục: hạ nhiệt hoặc hạ thấp khay nướng…)</p>
 <p>5. Bánh chín lấy ra khỏi lò, để nguội trong khuôn rồi cho vào tủ lạnh để tối thiểu 2h. Khi ăn dùng dao sắc cắt dứt khoát, sau mỗi lần cắt nên dùng giấy hoặc khăn ẩm lau sạch dao rồi mới cắt tiếp. Bánh để lạnh, dùng trong 2 – 4 ngày.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

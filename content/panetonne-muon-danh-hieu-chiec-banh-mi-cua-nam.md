@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2014/12/Panetonne.jpg"
 description: "bánh mì ngọt, bánh mì mềm, bánh mì nho khô"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Mình biết đến Panettone từ khá lâu rồi, cách đây chắc khoảng hơn 2 năm qua lời kể của một người bạn. Chị nói Panettone là món bánh mì ngon nhất mà chị từng ăn. Bánh hơi ngọt, thêm vị chua của quả khô, thoang thoảng hương thơm của rượu, và đặc biệt là rất mềm, rất rất nhẹ, bánh mì mà như gối bông ấy :) Panettone không phải là loại bánh có quanh năm, như ở đây thì thường chỉ dịp Giáng sinh mới có bán thôi – cho nên lại càng đặc biệt. Vì bị hấp dẫn bởi lời mô tả của người bạn mà mình có đi tìm hiểu và tập làm – nhưng trong 2 năm vẫn chưa có công thức nào đủ ưng ý để giới thiệu tại blog. Lí do đầu tiên là đa phần các công thức Panettone đều rất mất thời gian, có khi đến 2 – 3 ngày để đợi ủ bột và lên men chậm. Ngoài ra, nhiều công thức có tỉ lệ độ ẩm rất rất cao, trộn bằng máy thì ổn chứ nhồi tay thì phải biết cách. Vì hai điều này mà mình vẫn tiếp tục đi tìm kiếm công thức mới, đảm bảo cho bánh ngon mà không quá mất thời gian hay không quá khó làm.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/15923870788/" title="IMG_9656 by LinhTrang9185, on Flickr"><img alt="IMG_9656" class="aligncenter" height="640" loading="lazy" src="https://farm8.staticflickr.com/7553/15923870788_d36263c21e_z.jpg" width="442"/></a></p>
 <p>Giáng sinh năm nay, một lần nữa mình lại muốn thử sức với Panettone. Vì hai năm trước đã thử quá nhiều các công thức thuộc kiểu “truyền thống” rồi, nên năm nay mình không đi tìm công thức mới nữa, mà thay vào đó là tự viết cách làm của riêng mình. Kết cấu bánh mềm mịn, nhẹ như gối bông của Panettone làm mình nhớ đến một kĩ thuật rất được các food blogger người châu Á ưa chuộng khi làm bánh mì ngọt – là dùng Tangzhong. Tangzhong cũng có thể cho phần ruột bánh mềm mịn nhẹ và để được lâu ngày. Dùng tangzhong thì không phải lo ủ bột trong 2 – 3 ngày nữa, mà bột cũng ít ẩm, dễ nhào trộn hơn. Và thế là mình thử làm với công thức mới. Tuy là công thức tự viết nhưng chẳng hiểu sao rất tự tin khi thực hiện, và bánh ra lò thì thực sự hơn cả mong đợi. Bản thân mình không chuộng các loại bánh ngọt lại có thêm quả khô, nhưng đây chắc chắn là chiếc bánh mì ngọt với quả khô ngon nhất mà mình từng ăn. Bánh rất mềm và nhẹ, trong ruột thì dai và xốp, lại ẩm, đậm đà và rất thơm, đúng kiểu bánh mì <em>homemade</em>, loại mà bạn sẽ không thể nào tìm thấy ở siêu thị hay những nơi sản xuất bánh đại trà kiểu công nghiệp. Tuy không thực sự là Panettone theo kiểu truyền thống nhưng mình vẫn cảm thấy rất ưng ý với “thành quả” này, rất xứng đáng là “chiếc bánh mì của năm”.</p>
 <p><span style="color: #800000;"><strong>Độ khó</strong></span>: Trung bình</p>
-<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn nướng có lõi giữa (Angel Food Pan/ Chiffon pan hoặc Bundt pan) – đường kính 20 cm</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn nướng có lõi giữa (Angel Food Pan/ Chiffon pan hoặc Bundt pan) – đường kính 20 cm</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <p><strong>A. Phần Tangzhong</strong></p>
 <ul>
@@ -44,10 +40,7 @@ description: "bánh mì ngọt, bánh mì mềm, bánh mì nho khô"
 <p>1. Chuẩn bị phần bột Tangzhong:</p>
 <p>– Cho các nguyên liệu trong phần A vào nồi, quấy đều.</p>
 <p>– Đun hỗn hợp ở lửa vừa. Vừa đun vừa quấy. Đến khi hỗn hợp đạt nhiệt độ khoảng 65 đến 68 °C thì bắc khỏi bếp. Đổ hỗn hợp ra bát, để nguội.</p>
-<p>* Ghi chú: Nếu không có nhiệt kế đo nhiệt độ, các bạn có thể quan sát sự thay đổi của bột. Khi đạt đến 65 °C, hỗn hợp bột sẽ trở nên sệt hơn và chuyển màu trắng đục như hồ dán. Khi nhấc thìa lên sẽ thấy bột đọng lại ở thìa, quệt thử ngón tay qua sẽ thấy tạo vết đọng lại trên thìa.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>* Ghi chú: Nếu không có nhiệt kế đo nhiệt độ, các bạn có thể quan sát sự thay đổi của bột. Khi đạt đến 65 °C, hỗn hợp bột sẽ trở nên sệt hơn và chuyển màu trắng đục như hồ dán. Khi nhấc thìa lên sẽ thấy bột đọng lại ở thìa, quệt thử ngón tay qua sẽ thấy tạo vết đọng lại trên thìa.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/15923873628/" title="3.1 by LinhTrang9185, on Flickr"><img alt="3.1" class="aligncenter" height="334" loading="lazy" src="https://farm8.staticflickr.com/7472/15923873628_666800628c.jpg" width="500"/></a></p>
 <p>2. Cho bột, muối, đường (nếu dùng thay mật ong) và sữa bột vào âu trộn. Dùng phới lồng trộn đều. Cho men instant, trộn đều.</p>
 <p>3. Vét bột để tạo thành một lỗ trống ở chính giữa. Cho mật ong, 100 gram Tangzhong (đã nguội), lòng đỏ trứng và sữa vào. Dùng thìa gỗ quấy đều từ trong ra ngoài, trộn đến khi các nguyên liệu hòa quyện thành một khối.</p>
@@ -64,7 +57,6 @@ description: "bánh mì ngọt, bánh mì mềm, bánh mì nho khô"
 <p><a href="https://www.flickr.com/photos/55490207@N05/16111275875/" title="IMG_7695 by LinhTrang9185, on Flickr"><img alt="IMG_7695" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7577/16111275875_97fd3a7c74.jpg" width="500"/></a></p>
 <p>6. Đặt bột vào âu có quét một lớp dầu ăn mỏng. Lật khối bột cho dầu ăn bao đều bên ngoài khối bột. Đậy kín âu. Ủ bột ở nhiệt độ 25 – 32 °C, đến khi bột nở gấp đôi.</p>
 
-
 <p style="text-align: center;"><em>Bột nở sau lần ủ thứ 2</em></p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/15488971944/" title="IMG_7627 by LinhTrang9185, on Flickr"><img alt="IMG_7627" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7565/15488971944_0c855be491.jpg" width="500"/></a></p>
 <p>* Chuẩn bị khuôn nướng. Chống dính khuôn bằng cách dùng bơ quét đều 1 lớp lên thành và đáy khuôn.</p>
@@ -75,4 +67,4 @@ description: "bánh mì ngọt, bánh mì mềm, bánh mì nho khô"
 <p>9. Khi lò đã đủ nóng và bột đã nở gấp 2 lần. Đưa bánh vào lò. Dùng bình xịt, xịt nước lên thành lò và khoảng không phía trên bánh.</p>
 <p>Nướng bánh ở nhiệt độ 175 °C trong khoảng 20 – 25 phút thì quay ngược khuôn, nướng thêm 20 – 25 phút nữa. Việc quay khuôn sẽ giúp bánh nướng chín vàng đều hơn. Mặt bánh có thể sẽ vàng rất nhanh, nên dùng giấy bạc che lại khi bánh đã đủ vàng để tránh mặt bánh bị quá sậm màu.</p>
 <p>10. Bánh chín để trong khuôn khoảng 5 phút rồi dùng dao lưỡi mảnh, rạch nhẹ nhàng quanh thành trong của khuôn, lấy bánh ra để nguội hẳn trên rack. Bánh rất nhẹ nên khi lấy cần nhẹ tay. Dùng trong 1 đến 2 ngày.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

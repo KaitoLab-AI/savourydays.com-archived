@@ -12,10 +12,7 @@ description: "savoury days, học ngoại ngữ, học tiếng"
 <p>Sau hai năm thất học, cuối cùng mình lại “được” cắp sách đến lớp, giơ tay phát biểu xây dựng bài, đọc đồng thanh theo cô giáo, làm bài tập về nhà, làm bài kiểm tra và vô vàn thứ khác liên quan đến chuyện học :P</p>
 <p>Nói đến đây thì chắc sẽ có bạn thắc mắc là tưởng Trang vẫn đang đi học cơ mà?!</p>
 <p>Thật ra thì việc mà mình đang làm vừa là học, vừa không phải là học. Như mình có giải thích trong <a href="/phd-life/">một bài viết về công việc của mình từ lâu lắm rồi</a>, là tuy bọn mình vẫn tiếp thu thêm kiến thức mới nhưng việc mà bọn mình làm hàng ngày thì không phải là lên lớp nghe giảng, mà là đến phòng làm việc tự đọc tài liệu, thu thập dữ liệu, đặt giả thuyết &amp; làm thực nghiệm kiểm tra giả thuyết… đại loại thế. Nói chung gọi là công việc thì đúng hơn là đi học. Cho nên khi bắt đầu làm PhD thì đã có đứa sung sướng lắm, tại vì chính thức thoát khỏi cảnh bò ra làm bài tập về nhà và cuống lên ngồi nhồi nhét cả trăm trang sách vào đầu khi đến kì thi, cũng không còn nỗi lo điểm kém, thi trượt, thi lại nữa… :P</p>
-<p>Nhưng mà tất cả những điều đó đã quay trở lại.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Nhưng mà tất cả những điều đó đã quay trở lại.</p>
 <p>Bởi vì mình lại đi học – Học tiếng Hà Lan ^.^</p>
 <p><a href="/wp-content/uploads/2012/10/How-to-Fastest-Way-to-Learn-a-Language.jpg"><img alt="" class="aligncenter" height="411" loading="lazy" src="/wp-content/uploads/2012/10/How-to-Fastest-Way-to-Learn-a-Language.jpg" title="How-to-Fastest-Way-to-Learn-a-Language" width="292"/></a></p>
 <p>Mình sống ở phía Bắc nước Bỉ, nơi sử dụng tiếng Hà Lan làm ngôn ngữ chính. Nhưng cũng như người dân Hà Lan, dân ở đây ngoài tiếng Hà Lan thì còn sử dụng tiếng Anh và Pháp khá thành thạo, kể cả người bán hàng hay phục vụ cũng có thể nói được dăm ba câu. Cho nên trong 3 năm ở Hà Lan và Bỉ mình hầu như không gặp khó khăn gì mấy trong cuộc sống. Công việc của mình cũng không yêu cầu phải biết tiếng Hà Lan. Nên có thể nói là mình không có lí do gì đặc biệt để học tiếng Hà Lan cả. Chỉ là đến hè vừa rồi mình nhận ra là đã quá lâu rồi mình không đầu tư thời gian cho một ngôn ngữ nào khác (ngoài tiếng Anh là thứ sử dụng hàng ngày cho công việc). Mà học ngoại ngữ từ trước nên nay cũng là một việc mà mình rất thích, bởi vì không chỉ là biết thêm một ngôn ngữ mới mà còn là biết thêm về một đất nước, một nền văn hóa, làm quen với những phong tục tập quán mới nữa. Túm lại là tự nhiên cảm thấy muốn đi học ngoại ngữ kinh khủng. Lại đúng lúc đầu năm học, là thời điểm bắt đầu các khóa học mới, cho nên mình quyết định đăng kí đi học tiếng Hà Lan – bởi vì chắc là chẳng có nơi nào thuận lợi để học hơn ở đây, mình nghĩ thế :)</p>
@@ -30,9 +27,6 @@ description: "savoury days, học ngoại ngữ, học tiếng"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

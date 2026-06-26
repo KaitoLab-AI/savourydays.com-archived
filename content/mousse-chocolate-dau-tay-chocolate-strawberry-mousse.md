@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2011/07/Nhat-ky-hlb-mousse.jpg"
 description: "Cùng học cách làm mousse dâu tây và mousse chocolate mềm mịn, thơm phức, ngậy béo và tan ngay khi bỏ vào miệng. Bài viết có kèm hình ảnh minh hoạ các bước"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><a href="http://www.flickr.com/photos/55490207@N05/5963662714/" title="Chocolate &amp; Strawberry mousse by LinhTrang9185, on Flickr"><img alt="Chocolate &amp; Strawberry mousse" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6138/5963662714_ab3913333f.jpg" width="390"/></a></p>
 <p><em>C</em><em>ác bước làm mousse cơ bản và một số lưu ý khi làm mousse các bạn xem tại <strong><a href="/?p=423">ĐÂY</a></strong> nhé.</em></p>
 <p>Trước khi ra được cái món ở trong hình ở trên này thì mình đã bị thất bại 2 lần :”&gt; Lần thứ nhất hỏng do đánh kem tươi quá kĩ thành ra lúc trộn kem với dâu tây thì bị tách nước luôn. Hôm đấy vì là lần đầu tiên nên mình còn chẳng hiểu tại sao mà tự nhiên kem đang mịn màng bỗng thành ra lổn nhổn, về sau tra trên mạng mới biết đấy gọi là kem bị tách nước (hơi tiếc là không chụp ảnh lại :P).</p>
 <p>Lần thứ hai kem đánh thì ổn nhưng lại gặp vấn đề lúc làm hỗn hợp chocolate. Theo một công thức mình học được ở trên mạng thì phần chocolate sẽ gồm sữa tươi, kem tươi, trứng, đường và chocolate. Đầu tiên là đun nóng sữa, kem tươi và đường, rồi đổ từ từ vào lòng đỏ trứng đã đánh tan, tiếp theo cho gelatin đã ngâm nở vào hỗn hợp sữa trứng, khuấy đều. Cuối cùng cho chocolate thái vụn vào khuấy cho tan. Tuy nhiên mình làm theo cách này thì thấy có 2 vấn đề không ổn (có lẽ là do mình chưa quen nên làm chậm, chứ không hẳn là tại công thức không đúng).</p>
-<p>Một là sữa sau khi cho vào trộn với trứng thì đã nguội bớt rồi, cho nên khi cho gelatin nguyên lá vào thì gelatin khó mà tan đều và tan hết được. Hậu quả của việc này là sẽ có một vài miếng gelatin còn sót lại trong hỗn hợp sữa trứng, lúc ăn có khi sẽ ăn thấy miếng gelatin này, kiểu hơi giống miếng thịt mỡ :-s</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Một là sữa sau khi cho vào trộn với trứng thì đã nguội bớt rồi, cho nên khi cho gelatin nguyên lá vào thì gelatin khó mà tan đều và tan hết được. Hậu quả của việc này là sẽ có một vài miếng gelatin còn sót lại trong hỗn hợp sữa trứng, lúc ăn có khi sẽ ăn thấy miếng gelatin này, kiểu hơi giống miếng thịt mỡ :-s</p>
 <p>Hai là nếu cho chocolate thái vụn vào cuối cùng, hỗn hợp kem trứng lúc này chỉ âm ấm thôi, thì chocolate cũng khó tan hết. Cho nên có thể sẽ còn vụn chocolate trong hỗn hợp cuối cùng và làm cho hỗn hợp thiếu mịn màng.</p>
 <p>Để khắc phục hai vấn đề này thì mình làm cho cả gelatin lẫn chococolate tan ra trước, rồi mới trộn với kem sữa trứng theo thứ tự trên. Cụ thể là gelatin ngâm nở rồi chưng cách thủy cho tan. Kem tươi &amp; sữa đun nóng, đổ vào trứng đánh đều rồi cho gelatin này vào trộn cùng. Chocolate cũng chưng cách thủy cho tan chảy hết rồi trộn với kem trứng ở trên. Làm như thế này thì đảm bảo là hỗn hợp chocolate sau khi trộn với kem, trứng sữa sẽ rất mượt và mịn, gelatin cũng tan đều và trộn đều trong hỗn hợp nữa :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5946616271/" title="Chocolate &amp; Strawberry Mousse by LinhTrang9185, on Flickr"><img alt="Chocolate &amp; Strawberry Mousse" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6004/5946616271_521201d957.jpg" width="343"/></a></p>
@@ -37,10 +33,7 @@ description: "Cùng học cách làm mousse dâu tây và mousse chocolate mềm
 <li><em>2 lá gelatin (1 lá = 2gram)</em></li>
 <li><em>125 ml kem tươi (whipping cream) (để đánh bông) – hàm lượng béo tối thiểu 30%</em></li>
 </ul>
-<p><em><strong>2. Phần Mousse dâu tây</strong></em></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><em><strong>2. Phần Mousse dâu tây</strong></em></p>
 <ul>
 <li><em>200 gram dâu tây</em></li>
 <li><em>3 lá gelatin <em>(1 lá = 2gram)</em></em></li>
@@ -66,7 +59,6 @@ description: "Cùng học cách làm mousse dâu tây và mousse chocolate mềm
 <p>8. Cho bát đánh kem, cây đánh kem &amp; 125ml kem tươi vào tủ đá (làm cách này đánh kem bông sẽ nhanh và dễ hơn). Sau 10 phút lấy ra, đánh kem tươi đến <strong><a href="/?p=423">bông mềm</a></strong>.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5963105459/" title="Choco mousse 3 by LinhTrang9185, on Flickr"><img alt="Choco mousse 3" class="aligncenter" height="357" loading="lazy" src="http://farm7.static.flickr.com/6147/5963105459_33923d379b.jpg" width="500"/></a></p>
 
-
 <p><a href="http://www.flickr.com/photos/55490207@N05/5963663000/" title="Choco mousse 4 by LinhTrang9185, on Flickr"><img alt="Choco mousse 4" class="aligncenter" height="333" loading="lazy" src="http://farm7.static.flickr.com/6128/5963663000_f02c34279c.jpg" width="500"/></a></p>
 <p>9. Dùng spatula hoặc thìa nhẹ nhàng trộn hỗn hợp chocolate sữa trứng (<strong>đã nguội</strong>) với kem tươi đánh bông. Hỗn hợp cuối cùng sẽ hơi loãng và sệt như bột quấy cho em bé.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5963105981/" title="Choco mousse 5 by LinhTrang9185, on Flickr"><img alt="Choco mousse 5" class="aligncenter" height="352" loading="lazy" src="http://farm7.static.flickr.com/6123/5963105981_543a3b5e11.jpg" width="500"/></a></p>
@@ -90,4 +82,4 @@ description: "Cùng học cách làm mousse dâu tây và mousse chocolate mềm
 <p>Còn mousse đựng trong cốc thì mình đợi mousse se mặt thì cắt một ít dâu tây thành miếng nhỏ như hạt lựu rồi đổ lên trên mặt cốc, trông sẽ rất là “fresh &amp; pure” ;) Hoặc các bạn có thể làm thêm 1 lớp <strong><a href="/?p=293">mứt dâu</a></strong> rồi đổ lên trên lớp mousse dâu ăn chắc cũng rất hay ;)</p>
 <p>Ai có thể từ chối một cốc mousse mát lịm người, ngọt ngào và thơm phức như thế này nhỉ :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5963662756/" title="Chocolate &amp; Strawberry mousse by LinhTrang9185, on Flickr"><img alt="Chocolate &amp; Strawberry mousse" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6028/5963662756_528d12e9d0.jpg" width="360"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

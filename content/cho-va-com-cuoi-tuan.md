@@ -12,10 +12,7 @@ description: ""
 <p>Chợ mở ở quảng trường to trước cửa một rạp hát ở trung tâm, tên chính thức là Volgenmarkt, còn tên không chính thức (do anh chị em Việt Nam tự đặt để dễ nhớ) là chợ phố Meir (Meir là phố mua sắm lớn nhất ở đây và ở rất gần chợ).</p>
 <p>Không giống như chợ Chủ nhật, có thập cẩm đủ thứ từ quần áo, giày dép, mũ nón cho đến chim muông, cây cảnh. Chợ thứ 7 chỉ tập trung vào đồ ăn và hoa. Nhiều nhất – chắc đến hơn nửa chợ – là các hàng rau quả. Tại vì đang là mùa rau quả mà, không “tranh thủ”, chớp mắt một cái đến mùa đông, thì sẽ chẳng lấy đâu ra rau xanh mướt mát, đào mận chín căng mọng, dâu thơm lừng nữa.</p>
 <p>Năm nay thời tiết hơi bất thường nên không được mùa dâu. Nhưng mà, dâu vẫn to và thơm lắm, chỉ hơi chua một tẹo thôi (cơ mà chua thì ta làm mứt, làm bánh, chẳng sao hết).</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/9435506182/" title="IMG_1536 by LinhTrang9185, on Flickr"><img alt="IMG_1536" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2889/9435506182_c5d17880b3.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9435506182/" title="IMG_1536 by LinhTrang9185, on Flickr"><img alt="IMG_1536" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2889/9435506182_c5d17880b3.jpg" width="500"/></a></p>
 <p>Rasberries và Red currents, quả này thì đúng là siêu chua của chua, nhưng để trang trí bánh thì tuyệt.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/9432729585/" title="IMG_1545 by LinhTrang9185, on Flickr"><img alt="IMG_1545" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7390/9432729585_9c58c7f329.jpg" width="500"/></a></p>
 <p>Cam với các loại táo khác nhau</p>
@@ -25,10 +22,7 @@ description: ""
 <p>Dưa vàng với dứa</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/9432730263/" title="IMG_1535 by LinhTrang9185, on Flickr"><img alt="IMG_1535" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2866/9432730263_82d6c06f31.jpg" width="500"/></a></p>
 <p>Và anh đào đang vào chính vụ, vừa to vừa giòn mà rẻ, mua nửa kg ở hàng này, chạy qua hàng khác lại không cầm lòng được, thêm nửa kg nữa :”&gt;</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/9432730425/" title="IMG_1534 by LinhTrang9185, on Flickr"><img alt="IMG_1534" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2858/9432730425_bd347261c7.jpg" width="500"/></a> Salad olive đủ loại</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9432730425/" title="IMG_1534 by LinhTrang9185, on Flickr"><img alt="IMG_1534" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2858/9432730425_bd347261c7.jpg" width="500"/></a> Salad olive đủ loại</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/9432730593/" title="IMG_1532 by LinhTrang9185, on Flickr"><img alt="IMG_1532" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3712/9432730593_0fdb25f7b4.jpg" width="500"/></a></p>
 <p>Và các loại bột gia vị – quầy hàng mà mình luôn rất thích</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/9435505780/" title="IMG_1539 by LinhTrang9185, on Flickr"><img alt="IMG_1539" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7321/9435505780_16b8ab2f81.jpg" width="500"/></a></p>
@@ -45,7 +39,6 @@ description: ""
 <p><a href="http://www.flickr.com/photos/55490207@N05/9432821267/" title="IMG_1598 by LinhTrang9185, on Flickr"><img alt="IMG_1598" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2814/9432821267_3fff86b7bf.jpg" width="500"/></a></p>
 <p>À quên mất, vẫn còn một món nữa: ốc bươu xào sả mắm – tự sáng tác ra từ việc quá thèm ốc và mắm tôm :”&gt;</p>
 
-
 <p><a href="http://www.flickr.com/photos/55490207@N05/9435597846/" title="IMG_1500-1 by LinhTrang9185, on Flickr"><img alt="IMG_1500-1" class="aligncenter" height="333" loading="lazy" src="http://farm6.staticflickr.com/5529/9435597846_0234514ac1.jpg" width="500"/></a></p>
 <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
@@ -54,9 +47,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

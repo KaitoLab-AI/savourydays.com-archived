@@ -16,19 +16,13 @@ description: ""
 ——–<br/>
 P.S: tại Đà Nẵng và TPHCM mình đang lên kế hoạch nha <span class="_47e3 _5mfr" title="smile emoticon"><img alt="" class="img" height="16" loading="lazy" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f4c/1/16/1f642.png" width="16"/></span></p>
 </div>
-<div align="center" id="google-ads-body-post-mid">
-
-
-</div> <div class="ac advertise-end">
+ <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
 <a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
 <br/><br/>
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

@@ -8,8 +8,6 @@ image: "/wp-content/uploads/2018/02/cach-lam-banh-cracker-banner-610x350.jpg"
 description: "cách làm bánh cracker - món bánh quy giòn pho-mai mặn với nhiều loại topping khác nhau, cực kì thơm ngon, hấp dẫn mà lại không hề mất nhiều thời gian"
 ---
 
-
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Crackers – thứ bánh mỏng, giòn rụm, vị mằn mặn thơm thơm ấy vẫn là một trong những loại đồ ăn vặt mà mình thích nhất, nhưng chưa từng có ý định tự làm ở nhà. Bởi mình vẫn luôn nghĩ là để làm ra được chiếc bánh mỏng và giòn như thế thì chắc phải nhờ tới dây chuyền sản xuất công nghiệp, chứ ở nhà khó mà đạt được hương vị như vậy. Thế mà nhờ có các thành viên của SD team mà mình bây giờ không cần phải mua bánh từ siêu thị nữa. Bánh tự làm tại nhà hương vị thậm chí còn ngon hơn bánh mua sẵn nhiều: vị phô-mai ngậy, thơm, béo, hơi mằn mặn kết hợp với các loại topping như vị rong biển, một chút cay của bột ớt, mùi thơm đầy quyến rũ từ bột hành, bột tỏi, vừng chín giòn bùi hay mùi các loại hương thảo, húng quế tây quyện với nhau… Loại nào cũng ngon, cũng dễ ăn và dễ nghiện. Dùng để ăn vặt hay làm đồ nhắm với bia đều vô cùng hợp.</span></p>
 <p><span style="color: #000000;">Tết đến sát thềm nhà rồi. Những ngày này chắc hẳn các chị em đều bận bịu lắm. Ngoài món bánh quy bơ mà SD giới thiệu ngày hôm qua, nếu các bạn muốn làm thêm một món nào lạ miệng, ngon nhưng không quá mất công và mất thời gian thì hãy thử công thức này nhé. Đảm bảo sẽ “thu phục” được cả các thành viên trong gia đình lẫn khách đến nhà đấy ;)</span></p>
 <h2><span style="color: #000000;">CÁCH LÀM BÁNH CRACKER (BÁNH QUY GIÒN PHÔ-MAI MẶN)</span></h2>
@@ -28,10 +26,7 @@ description: "cách làm bánh cracker - món bánh quy giòn pho-mai mặn vớ
 <li><span style="color: #000000;"><em>Topping: vừng đen, vừng trắng, rong biển sấy ăn liền, lá thơm kiểu Ý…</em></span></li>
 </ul>
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
-<p><span style="color: #000000;">Video cách làm bánh Crackers đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" rel="noopener noreferrer" style="color: #000000;" target="_blank"><span style="color: #0000ff;">kênh YouTube của Savoury Days</span>.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo<span style="color: #0000ff;"> <a href="https://youtu.be/wImTC2XlyvU" rel="noopener noreferrer" style="color: #0000ff;" target="_blank"><strong>link này</strong></a></span> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="https://youtu.be/AhsvW5TjQfc" rel="noopener noreferrer" style="color: #000000;" target="_blank"><span style="color: #0000ff;">cách làm bánh flan này</span>.</a> </strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">Video cách làm bánh Crackers đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" rel="noopener noreferrer" style="color: #000000;" target="_blank"><span style="color: #0000ff;">kênh YouTube của Savoury Days</span>.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo<span style="color: #0000ff;"> <a href="https://youtu.be/wImTC2XlyvU" rel="noopener noreferrer" style="color: #0000ff;" target="_blank"><strong>link này</strong></a></span> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="https://youtu.be/AhsvW5TjQfc" rel="noopener noreferrer" style="color: #000000;" target="_blank"><span style="color: #0000ff;">cách làm bánh flan này</span>.</a> </strong></span></p>
 <p><span style="color: #000000;"><div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/wImTC2XlyvU" width="560"></iframe></div></span></p>
 <p> </p>
 <p>TÓM TẮT CÁC BƯỚC</p>
@@ -41,10 +36,7 @@ description: "cách làm bánh cracker - món bánh quy giòn pho-mai mặn vớ
 <p><span style="color: #000000;">3. Cho 1 tsp muối, ½ tsp ớt bột, ½ tsp bột tỏi và ½ tsp bột phomai lắc vào hỗn hợp trên, trộn đều.</span></p>
 <p><span style="color: #000000;">* Ghi chú: 1tsp = 1 teaspoon = 1 thìa cafe/ thìa nhỏ ăn sữa chua. Lượng gia vị này có thể thay đổi theo khẩu vị của bạn. Các loại bột hành, bột tỏi có thể mua được ở Vinmart hoặc các cửa hàng bán đồ làm bánh, bán thực phẩm nhập khẩu. Nếu không có bột hành tỏi, bánh vẫn ăn được nhưng hương vị sẽ kém hấp dẫn hơn.</span></p>
 <p><span style="color: #000000;">4. Cho 50 gram bơ mềm vào âu bột. Dùng tay bóp nhẹ để bơ hoà quyện với bột tạo thành các vụn bơ bột. Nếu có cục bơ bột quá to thì dùng tay miết, để bơ và bột quyện đều.</span></p>
-<p><span style="color: #000000;">* Lưu ý: bơ mềm trong công thức là bơ để thật mềm ở nhiệt độ phòng, khi ấn ngón tay vào có thể thấy bơ mềm dẻo, hết lạnh nhưng chưa đến mức chảy nước.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">* Lưu ý: bơ mềm trong công thức là bơ để thật mềm ở nhiệt độ phòng, khi ấn ngón tay vào có thể thấy bơ mềm dẻo, hết lạnh nhưng chưa đến mức chảy nước.</span></p>
 <p><span style="color: #000000;">5. Từ từ cho nước vào hỗn hợp bơ bột, dùng tay nhào và trộn thật đều khi hỗn hợp quyện thành một khối.</span></p>
 <p><span style="color: #000000;">Lưu ý: Do độ hút nước của các loại bột khác nhau, nên lượng nước có thể dao động trong khoảng 60 – 80 ml. Không nhất thiết phải sử dụng toàn bộ lượng nước trong công thức, chỉ cho nước đến khi hỗn hợp bột quyện đều thành một khối dẻo mịn, không quá khô hay ướt là được.</span></p>
 <p><span style="color: #000000;">6. Chuẩn bị 4 tờ giấy nến kích thước tối thiểu 24 x 32 cm. Gấp 4 mép lại để có hình chữ nhật kích thước 15 x 20 cm.</span></p>
@@ -55,4 +47,4 @@ description: "cách làm bánh cracker - món bánh quy giòn pho-mai mặn vớ
 <p><span style="color: #000000;">9. Dùng dao sắc cắt bột thành miếng cỡ 5 x 5 cm hoặc 2.5 x 5 cm. Nhẹ nhàng bóc từng miếng bột đặt lên khay đã lót giấy nến, xếp cách đều nhau chừng 1 – 1.5cm để bánh có khoảng cách nở.</span></p>
 <p><span style="color: #000000;">Nướng bánh ở nhiệt độ 190 độ C trong khoảng 13 – 15 phút hoặc tới khi rìa bánh vàng nâu. Sau khoảng 10 phút có thể quay khay bánh để bánh nằm ở góc trong quay ra ngoài, giúp bánh chín đều. Nếu làm nhiều bột, lò nhỏ không nướng hết thì chia thành nhiều mẻ, các phần bột chưa dùng để ngoài nhiệt độ phòng hoặc ngăn mát tủ lạnh nếu trời nóng trên 30 độ C.</span></p>
 <p><span style="color: #000000;">10. Bánh chín lấy ra khỏi lò, để bánh cứng lại rồi chuyển sang khay có khe hở cho bánh nguội hẳn. Lập tức cất vào hộp kín có túi hút ẩm, như vậy sẽ giữ được bánh giòn lâu.</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

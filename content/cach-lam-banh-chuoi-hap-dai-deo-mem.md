@@ -8,8 +8,6 @@ image: "/wp-content/uploads/2022/06/4-scaled-610x300.jpg"
 description: "Bánh chuối hấp cực đơn giản, thơm nức mùi chuối tươi, dẻo dẻo dai dai giòn giòn, ngọt thanh nhẹ nhàng, ăn kèm với nước cốt dừa béo béo, ăn mãi không ngán ấy"
 ---
 
-
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <div>
 <div class="ll8tlv6m j83agx80 btwxx1t3 n851cfcs hv4rvrfc dati1w0a pybr56ya">
 <div class="buofh1pr">
@@ -46,10 +44,7 @@ description: "Bánh chuối hấp cực đơn giản, thơm nức mùi chuối t
 <div dir="auto"><span style="color: #993300;"><strong>Cách làm:</strong></span></div>
 <p dir="auto">1. Cắt chuối thành khoanh mỏng khoảng 0,5 cm, xóc chuối với đường và màu thực phẩm, để ngấm trong vòng 30 phút. Lưu ý chỉ xóc nhẹ, không trộn/đảo quá nhiều tránh làm chuối bị nát.</p>
 <p dir="auto">2. Cho bột năng và muối vào âu chuối, nhẹ nhàng trộn đều tới khi bột năng bao đều chuối.</p>
-<p dir="auto">3. Thêm từ từ nước sôi và dầu dừa, trộn nhẹ nhàng tới khi hòa quyện.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p dir="auto">3. Thêm từ từ nước sôi và dầu dừa, trộn nhẹ nhàng tới khi hòa quyện.</p>
 <p dir="auto">4. Lót màng bọc thực phẩm ở đáy khuôn, quét bằng 1 lớp dầu dừa mỏng để chống dính khuôn. Mình dùng loại màng bọc có thể chịu nhiệt độ cao, nếu không lót màng bọc thì bánh sẽ rất dính khuôn. Nhà bạn nào có khuôn silicon thì có thể bỏ qua bước lót màng bọc nhé.</p>
 <p dir="auto">5. Đun sôi nước, hấp bánh ở lửa vừa – lớn trong 30 phút. Kiểm tra bánh chín bằng cách dùng tăm xiên vào giữa bánh, nếu bánh không dính tăm là đã chín.</p>
 <p dir="auto">  <img alt="" class="alignnone wp-image-9158" height="365" loading="lazy" sizes="(max-width: 548px) 100vw, 548px" src="/wp-content/uploads/2022/06/273608050_4905426716177541_3992037120488955474_n-300x200.jpg" width="548"/></p>
@@ -63,4 +58,4 @@ description: "Bánh chuối hấp cực đơn giản, thơm nức mùi chuối t
 </div>
 </div>
 </div>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

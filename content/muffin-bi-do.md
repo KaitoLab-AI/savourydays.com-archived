@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/11/MuffinBiDo.jpg"
 description: "Cách làm Muffin bí đỏ mềm xốp, nhanh và tốt cho sức khỏe"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Xem thêm về <a href="/nhat-ky-lam-banh-phan-2-muffins/" target="_blank"><strong>Phương pháp trộn bột kiểu Muffins – Dụng cụ và các lưu ý</strong> </a></p>
 <p>Mình biết là nhiều bạn đang đợi “tập 2” về Macarons “lên sóng”. Nhưng thực sự là để viết Macarons thì cần kha khá thời gian, bởi vì ngoài kinh nghiệm bản thân ra thì mình muốn xem thêm một vài tài liệu khác nữa trước khi viết. Cho nên chắc đến cuối tuần mình sẽ có nhiều thời gian “ngâm cứu” hơn. Trong lúc chờ đợi thì mời mọi người “ăn” một vài món khác nhé :)</p>
 <p>Ở bên này đang là mùa bí đỏ, chỉ 1-2 E là mua được một quả nặng trịch. À, bí mà mình thường ăn thì có hai loại chính, một là quả bí loại nhỏ, tròn, hai là loại bí hình hơi giống quả bầu, cũng nhỏ thôi. Còn quả bí ngô to tướng mà để dùng làm xe ngựa cho Cinderella thì mình không thích lắm, cảm giác ăn không được dẻo, cũng không được ngọt. Bí đỏ cũng có mùa nên đợt này mình tranh thủ mua nhiều, có thời gian thì làm bánh hay súp. Không có thời gian thì nướng lên rồi dầm nhuyễn thay chè, hoặc hấp ăn như rau luộc. Tốt cho mắt và trí thông minh :P</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8169104849/" title="IMG_7827-1 by LinhTrang9185, on Flickr"><img alt="IMG_7827-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7252/8169104849_9c69b4c2c2_z.jpg" width="427"/></a></p>
-<p>Công thức muffin này mình rất thích. Bánh lúc nướng trong lò, nhìn tưởng là cứng mà khi ấn thử tay lên mặt bánh để kiểm tra độ chín thì quả thật là bất ngờ vì nó còn mềm hơn cả pound cake. Ruột rất ẩm, xốp, vàng ươm. Bí đỏ ngọt sẵn rồi nên không cần nhiều đường, bơ được thay bằng dầu ăn, và đến gần 1/2 thành phần là rau nên bánh nhìn chung là “healthy”. Và mình nghĩ với các em bé ngại ăn rau thì món này chắc là rất ổn để “dụ dỗ” nhỉ? :)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Công thức muffin này mình rất thích. Bánh lúc nướng trong lò, nhìn tưởng là cứng mà khi ấn thử tay lên mặt bánh để kiểm tra độ chín thì quả thật là bất ngờ vì nó còn mềm hơn cả pound cake. Ruột rất ẩm, xốp, vàng ươm. Bí đỏ ngọt sẵn rồi nên không cần nhiều đường, bơ được thay bằng dầu ăn, và đến gần 1/2 thành phần là rau nên bánh nhìn chung là “healthy”. Và mình nghĩ với các em bé ngại ăn rau thì món này chắc là rất ổn để “dụ dỗ” nhỉ? :)</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu (24 mini muffin hoặc 12 muffin loại vừa, đường kính miệng 5-6cm, cao 3-4cm)</strong></span></p>
 <ul>
 <li><em>90 gram bột mì đa dụng hoặc cake flour (xem phân loại bột tại <a href="/tu-hoc-lam-banh-can-ban-phan-biet-cac-loai-bot-lam-banh-phan-1/">ĐÂY</a>)</em></li>
@@ -45,10 +41,7 @@ description: "Cách làm Muffin bí đỏ mềm xốp, nhanh và tốt cho sức
 <p>1. Puree bí đỏ:</p>
 <p>– Bí đỏ gọt vỏ, cắt miếng nhỏ.</p>
 <p>– Xé một tờ giấy bạc to gấp đôi khay nướng. Cho bí đỏ vào khay. Bọc giấy bạc kín (hình 1-2).</p>
-<p>– Nướng 200 độ C trong khoảng 45-50 phút (mình cho bí vào mới bật lò). Hai lửa, nướng ở rãnh thứ 2 từ trên xuống. Nướng đến khi bí mềm, dùng nĩa ấn thấy bí nát ra dễ dàng (hình 3).</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>– Nướng 200 độ C trong khoảng 45-50 phút (mình cho bí vào mới bật lò). Hai lửa, nướng ở rãnh thứ 2 từ trên xuống. Nướng đến khi bí mềm, dùng nĩa ấn thấy bí nát ra dễ dàng (hình 3).</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8169105245/" title="2012-11-01 by LinhTrang9185, on Flickr"><img alt="2012-11-01" class="aligncenter" height="400" loading="lazy" src="http://farm9.staticflickr.com/8478/8169105245_bec4283f6c.jpg" width="500"/></a></p>
 <p>– Xay hoặc dầm nhuyễn bí. Để nguội.  Từ 400gram thịt bí đỏ (không tính vỏ và hạt) mình làm được 350gram puree.</p>
 <p><em>Làm puree theo cách này nhanh, sạch và mình nghĩ là ổn hơn cách luộc bí trong nồi với nước, vì khi luộc bí sẽ cần thêm nước nên lượng puree sau khi làm sẽ có thể có thêm 1 lượng nước bên ngoài. Khi dùng làm bánh có thể sẽ làm sai lệch công thức, dẫn đến việc bánh bị quá nhão hoặc ướt.</em></p>
@@ -65,11 +58,10 @@ description: "Cách làm Muffin bí đỏ mềm xốp, nhanh và tốt cho sức
 <p>Cho bánh vào lò, nướng ở khay chính giữa lò, hai lửa, 175-180 độ C trong 10-15 phút. Thử bánh bằng cách xiên 1 que tăm vào chính giữa bánh, tăm rút lên sạch và khô là bánh đã chín . Bánh chín lấy ra, để nguội trên rack.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8169135466/" title="IMG_7785 by LinhTrang9185, on Flickr"><img alt="IMG_7785" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7253/8169135466_5e86641920.jpg" width="500"/></a></p>
 
-
 <p><span style="text-decoration: underline;"><span style="color: #ff0000;"><strong>Lưu ý</strong></span></span>: <em>Nhiệt độ và thời gian nướng có thể thay đổi theo lò. Với các lò nhỏ, các bạn có thể nướng ở nhiệt độ thấp hơn một chút, hoặc đặt khay nướng thấp, tránh để mặt bánh bị cháy nhé. </em></p>
 <p>Muffin thường ngon nhất khi còn nóng ấm. Nếu làm nhiều các bạn có thể đậy hoặc bọc kín, để nơi thoáng mát, khi ăn thì cho vào lò vi sóng hâm nóng lại.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8169135408/" title="IMG_7807-1 by LinhTrang9185, on Flickr"><img alt="IMG_7807-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8209/8169135408_6d18d26aa4_z.jpg" width="439"/></a></p>
 <p>——-</p>
 <p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

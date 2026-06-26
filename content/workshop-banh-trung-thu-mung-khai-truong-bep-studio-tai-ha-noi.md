@@ -12,10 +12,7 @@ description: ""
 <p><span style="color: #000000;">Vậy là căn bếp nhỏ kiêm studio của SD tại Hà Nội đã chính thức đi vào hoạt động và tụi mình cũng đã kịp có vài mẻ bánh để vừa làm ấm bếp, vừa làm thơm phòng mới rồi :)</span></p>
 <p><span style="color: #000000;">Có bếp mới bận hơn nhưng quả thực là vui lắm. Mỗi buổi sáng tỉnh dậy thấy hứng khởi hơn khi nghĩ tới một ngày mới ở bếp, nấu món này, thử công thức món kia, chụp ảnh thật đẹp rồi chia sẻ. Có bếp mới rồi cũng tiện cho tụi mình tổ chức nhiều hoạt động offline hơn, những việc mà trước đây khi chưa có cơ sở chính thức, tụi mình khó có thể làm được. </span></p>
 <p><span style="color: #000000;">Năm nay tình cờ bếp mới được khai trương ngay mùa Trung thu, nên nhân hai sự kiện quan trọng này, đội SD rất muốn làm một việc gì đó để có thể mang đến niềm vui cho thật nhiều người. Và sau khi bàn bạc thì tụi mình quyết định sẽ thực hiện workshop vào cuối tuần này, với chủ đề BÁNH TRUNG THU. </span></p>
-<p><span style="color: #800000;"><strong>Workshop này về cơ bản là một kiểu lớp học. Vì vậy nên sẽ có phí tham dự, tuy nhiên vì đây là sự kiện khai trương nên tất cả phần phí thu được từ người tham dự tụi mình sẽ tặng lại cho một tổ chức từ thiện, hi vọng sẽ mang đến cái Tết Trung thu thật vui cho các em nhỏ khó khăn. </strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Workshop này về cơ bản là một kiểu lớp học. Vì vậy nên sẽ có phí tham dự, tuy nhiên vì đây là sự kiện khai trương nên tất cả phần phí thu được từ người tham dự tụi mình sẽ tặng lại cho một tổ chức từ thiện, hi vọng sẽ mang đến cái Tết Trung thu thật vui cho các em nhỏ khó khăn. </strong></span></p>
 <p><span style="color: #000000;">Vậy đến dự workshop bạn sẽ nhận được gì? </span></p>
 <p><span style="color: #000000;">(1). Các kiến thức về làm bánh trung thu: </span></p>
 <p><span style="color: #000000;">Tại workshop, mình (Linh Trang), sẽ chia sẻ với các bạn tất cả những kiến thức và kinh nghiệm mà mình tích cóp được trong bao nhiêu năm làm bánh trung thu của mình, về các công đoạn cần thiết để làm được một chiếc bánh nướng và bánh dẻo đẹp đẽ, cũng như các lưu ý mà các bạn cần tránh để bánh không bị hỏng hay bị xấu.  </span></p>
@@ -39,10 +36,7 @@ description: ""
 <li><span style="color: #000000;">Số lượng: Vì diện tích studio có hạn nên tụi mình chỉ có thể tiếp được tối đa 20 bạn tham dự workshop. Nếu quan tâm, mời các bạn đăng kí theo mẫu đơn tại đây: <a href="https://goo.gl/forms/8V6xBIiy5bRYccyj1">https://goo.gl/forms/8V6xBIiy5bRYccyj1</a></span></li>
 <li><span style="color: #000000;">Sau khi đăng kí, BTC lớp học SD sẽ gửi mail hoặc gọi điện xác nhận. Các bạn vui lòng chuyển khoản phí tham dự tới tài khoản của BTC lớp học hoặc nộp tiền mặt trực tiếp tại SD studio. BTC sẽ đóng danh sách khi có đủ 20 người đăng kí và chuyển tiền. </span></li>
 </ul>
-<p><span style="color: #000000;">Cảm ơn và hẹn gặp các bạn tại Studio! :)</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">Cảm ơn và hẹn gặp các bạn tại Studio! :)</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7636" height="1024" loading="lazy" sizes="(max-width: 724px) 100vw, 724px" src="/wp-content/uploads/2018/08/SD_Workshop-1-724x1024.png" width="724"/></p>
 <p> </p>
 <div class="ac advertise-end">
@@ -52,9 +46,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

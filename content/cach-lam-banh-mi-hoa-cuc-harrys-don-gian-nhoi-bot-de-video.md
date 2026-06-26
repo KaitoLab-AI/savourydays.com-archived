@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2016/11/cách-làm-bánh-mì-hoa-cúc-banner.jpg"
 description: "Học cách làm bánh mì hoa cúc đơn giản với Savoury Days. Bánh nhồi dễ dàng, không cần máy, không mất thời gian ủ quá lâu, có kèm video hướng dẫn chi tiết"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Bánh mì hoa cúc là một trong số ít những món ăn mà sốt xình xịch mấy  năm rồi vẫn chưa hạ nhiệt nhỉ? :)</p>
 <p>Mình nghe nói về loại bánh này từ khá lâu rồi, năm ngoái sang Paris cũng có ăn thử, nhưng không thích lắm có lẽ vì đã quen với hương vị bánh tươi mới nên khẩu vị hơi nhạy cảm so với bánh sản xuất công nghiệp một chút.</p>
 <p>Bánh mì hoa cúc cũng là món mà có rất nhiều công thức được chia sẻ tại các diễn đàn, hội nhóm FB. Từ trước tới giờ mình vẫn làm theo <a href="/cach-lam-banh-mi-hoa-cuc-brioche/" target="_blank">cách làm<strong> Brioche truyền thống</strong></a> của Pháp, một trong những công thức bánh ngon nhất mà mình từng thử, và theo lời chồng mình nhận xét là “ở một đẳng cấp khác” ;) Tuy nhiên, công thức này có một vài vấn đề là vì lượng bơ lớn nên nhồi bột, ủ bột, tạo hình… tất cả các khâu đều cần rất rất cẩn thận, nếu không bơ sẽ chảy ra, khiến thớ bánh  bết, không xốp, không dai. Ngoài ra, với một số người thì Brioche truyền thống hơi quá ngậy một chút (vì bánh có rất nhiều bơ mà) nên ăn nhiều cũng hơi mệt.</p>
 <p>Mới đây mình có thử một công thức bánh tên là Challah, một loại bánh  mì của người Do Thái, có “đặc điểm nhận dạng” khá đặc biệt là một ổ lớn được tết bím (từ 4 – 6 dây bột, nhiều hơn tết 3 thông thường, nhìn rất đẹp). Công thức Challah này yêu cầu ủ 3 lần nên thớ bánh cực kì dai, mặc dù khâu nhồi bột không hề phức tạp và vất vả. Hai điểm “tết bím” và “thớ dai” này làm mình liên tưởng tới món bánh mì hoa cúc. Nhưng Challah thì không có nhiều chất béo như bánh mì hoa cúc nên mình thử chỉnh lại công thức một chút, dùng bơ và kem tươi để bánh thơm mùi sữa và mềm hơn.</p>
-<p>Kết quả là… cảm thấy hài lòng ngay từ khi nướng bánh bởi mùi thơm toả ra từ lò vô cùng quyến rũ và ngây ngất. Ai đã nướng Hokkaido bread thì sẽ biết bánh mì dùng kem tươi thơm như thế nào. Món bánh lần này cũng vậy, và thậm chí còn hơn vậy vì có thêm cả bơ nữa. Bánh lấy ra khỏi lò, để nguội và xé thử lại càng ưng hơn bởi thớ bánh cực kì dai và rất tơi xốp (nhờ ủ 3 lần nên trong bột có rất nhiều bọt khí nhỏ li ti được giữ lại, giúp bánh nở xốp khi nướng). Bánh có một lượng kem tươi và bơ vừa phải nên mùi vị thơm ngon và mềm nhưng không quá ngấy. Bánh để qua ngày thứ 2, 3 vẫn ăn được ngon lành, không bị khô. Túm lại là một kiểu bánh rất đáng ghi sổ để làm lại thêm nhiều lần nữa :)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Kết quả là… cảm thấy hài lòng ngay từ khi nướng bánh bởi mùi thơm toả ra từ lò vô cùng quyến rũ và ngây ngất. Ai đã nướng Hokkaido bread thì sẽ biết bánh mì dùng kem tươi thơm như thế nào. Món bánh lần này cũng vậy, và thậm chí còn hơn vậy vì có thêm cả bơ nữa. Bánh lấy ra khỏi lò, để nguội và xé thử lại càng ưng hơn bởi thớ bánh cực kì dai và rất tơi xốp (nhờ ủ 3 lần nên trong bột có rất nhiều bọt khí nhỏ li ti được giữ lại, giúp bánh nở xốp khi nướng). Bánh có một lượng kem tươi và bơ vừa phải nên mùi vị thơm ngon và mềm nhưng không quá ngấy. Bánh để qua ngày thứ 2, 3 vẫn ăn được ngon lành, không bị khô. Túm lại là một kiểu bánh rất đáng ghi sổ để làm lại thêm nhiều lần nữa :)</p>
 <p><img alt="cach-lam-banh-mi-hoa-cuc-harrys" class="aligncenter size-full wp-image-7262" height="1066" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/11/cách-làm-bánh-mì-hoa-cúc-harrys.jpg" width="1600"/></p>
 <p> </p>
 <h2>CÁCH LÀM BÁNH MÌ HOA CÚC HARRYS</h2>
@@ -46,10 +42,7 @@ description: "Học cách làm bánh mì hoa cúc đơn giản với Savoury Day
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/i9jQ-zm7By4" width="560"></iframe></div>
 <p> </p>
 <p>TÓM TẮT CÁC BƯỚC</p>
-<p>1. Cho bơ, kem tươi, sữa tươi và đường vào âu. Đun cách thuỷ, quấy liên tục tới khi bơ tan chảy, nguyên liệu hoà quyện hết. Để hỗn hợp nguội về khoảng 30 – 35 độ C (sờ vào thấy hơi ấm). Nếu hỗn hợp quá nóng thì có thể làm chết men khi trộn men vào.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>1. Cho bơ, kem tươi, sữa tươi và đường vào âu. Đun cách thuỷ, quấy liên tục tới khi bơ tan chảy, nguyên liệu hoà quyện hết. Để hỗn hợp nguội về khoảng 30 – 35 độ C (sờ vào thấy hơi ấm). Nếu hỗn hợp quá nóng thì có thể làm chết men khi trộn men vào.</p>
 <p>2. Đập 2 quả trứng vào bát, đánh tan nhẹ, không đánh bông.</p>
 <p>3. Cân bột thành 2 phần: phần thứ nhất gồm 260 g bột (khoảng 2 cup) và 5 g men, trộn đều. Phần thứ 2 gồm 50 g bột.</p>
 <p>4. Khi hỗn hợp sữa bơ đã nguội bớt thì cân 75 g trứng (1.5 quả), cho vào âu. Thêm 2 g muối và va-ni. Trộn đều các nguyên liệu. Phần trứng còn thừa giữ lại để quét mặt bánh.</p>
@@ -66,5 +59,3 @@ description: "Học cách làm bánh mì hoa cúc đơn giản với Savoury Day
 <p>12. Đặt bánh trên khay dưới rãnh giữa 1 nấc để bánh ở giữa lò (tuỳ vào đặc điểm của từng loại lò mà vị trí có thể thay đổi, nếu lò nhỏ, lửa trên cao thì bánh có thể đặt ở rãnh dưới cùng). Xịt nước lên thành và khoảng không phía trên lò. Nướng 175 độ C trong 25 – 28 phút. Không nướng quá lâu, bánh sẽ dễ bị khô.</p>
 <p>13. Bánh chín lấy ra khỏi khuôn, để nguội. Bảo quản bằng cách để trong túi nilon kín, dùng trong 2 – 3 ngày. Hoặc có thể bọc kín rồi để ngăn đá, khi ăn rã đông trong ngăn mát tủ lạnh. Với cách để ngăn đá có thể dùng trong 2 tháng.</p>
 
-
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

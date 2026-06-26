@@ -12,10 +12,7 @@ description: ""
 <p><span style="color: #000000;">Savoury Days rất vui và hân hạnh khi tháng 11 này được giao trọng trách làm “host” hỗ trợ truyền thông cho cuộc thi “Thử thách Sáng tạo cùng sữa đặc Cô Gái Hà Lan” từ ngày 15/11 đến ngày 12/12/2018.</span></p>
 <p><span style="color: #000000;">“Thử thách sáng tạo” lần này có lẽ là hoạt động lớn nhất từ trước tới giờ mà Savoury Days tham gia, không chỉ bởi quy mô mà còn cả bởi số lượng giải thưởng nhiều và lớn chưa từng có nữa :-) Cũng khá lâu rồi tại SD không có hoạt động gì thật xôm tụ dành cho các bạn bè của Savoury Days nên ngay cả tuị mình, dù là BTC nhưng vẫn rất háo hức và mong chờ tới ngày chính thức phát động. Hi vọng một tháng tới sẽ là một tháng thật vui, nhật náo nhiệt ở SD và đây cũng là dịp để các bạn yêu bếp của SD sẽ thoả sức sáng tạo hết mình nữa.</span></p>
 <p><span style="color: #000000;">Các thông tin cụ thể về thử thách lần này như sau</span></p>
-<p><img alt="" class="aligncenter size-large wp-image-7687" height="1024" loading="lazy" sizes="(max-width: 724px) 100vw, 724px" src="/wp-content/uploads/2018/11/Cô-gái-HL-05-724x1024.jpg" width="724"/></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><img alt="" class="aligncenter size-large wp-image-7687" height="1024" loading="lazy" sizes="(max-width: 724px) 100vw, 724px" src="/wp-content/uploads/2018/11/Cô-gái-HL-05-724x1024.jpg" width="724"/></p>
 <h2><span style="color: #000000;">1. CHỦ ĐỀ: Sáng tạo với Sữa đặc Cô Gái Hà Lan</span></h2>
 <p><span style="color: #000000;">Sữa đặc là một sản phẩm quen thuộc ở Việt Nam, tuy nhiên chưa được sử dụng nhiều trong nấu nướng vì lí do thường quá ngọt và nhiều mùi gây của sữa. Tuy nhiên các sản phẩm sữa đặc Cô Gái Hà Lan thì rất khác, với độ ngọt dịu vừa phải, không quá gắt, không quá đậm mùi gây của sữa và có thêm kem béo thơm ngon, sẽ giúp các bạn yêu bếp có thêm một nguyên liệu mới dành cho các món ăn trong bếp của mình.</span></p>
 <p><span style="color: #000000;">Bản thân mình đã từng dùng sữa đặc CGHL (loại đặc biệt/ Gold) để làm một số món từ quen thuộc như flan, sữa chua cho tới mới lạ như cupcake, bánh mì… đều cảm thấy rất hài lòng về thành phẩm nhờ các ưu điểm của sữa. Vậy nên mình tin là với tình yêu bếp và tài năng của các bạn bè của SD, chúng ta sẽ có thể sáng tạo thêm rất nhiều các món ăn ngon, mới lạ mới với sữa đặc nữa.</span></p>
@@ -36,10 +33,7 @@ description: ""
 <li><span style="color: #000000;">Tên món ăn</span></li>
 </ul>
 <p><span style="color: #000000;">* Lưu ý: các thông tin cá nhân như số điện thoại, số CMND, địa chỉ email được sử dụng trong trường hợp thắng giải, không công khai tại bài thi trên Facebook. </span></p>
-<p><span style="color: #000000;">+ Phần giới thiệu, chia sẻ ngắn về món ăn (tối đa 150 từ).</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">+ Phần giới thiệu, chia sẻ ngắn về món ăn (tối đa 150 từ).</span></p>
 <p><span style="color: #000000;">+ Phần công thức với nguyên liệu (ghi rõ tên và định lượng của từng nguyên liệu) và các bước làm. Tham khảo công thức mẫu (món cơm sườn nướng) tại đây: <span style="color: #0000ff;"><a href="/video-cach-lam-com-suon-cha-trung/" style="color: #0000ff;">/video-cach-lam-com-suon-cha-trung/</a></span> . Trong phần giới thiệu hoặc cách làm, <strong>cần chia sẻ vai trò của sữa CGHL trong công thức</strong>: ví dụ làm món ăn thêm đậm đà, dậy mùi thơm, tạo độ mềm, ẩm…</span></p>
 <p><span style="color: #000000;"><strong>– 01 ảnh chụp thành phẩm, 01 ảnh nguyên liệu và 01 ảnh ghép các bước nấu món ăn.</strong> <strong>Ảnh ở định dạng JPG. </strong>Có ít nhất 1 ảnh có hộp sữa CGHL xuất hiện (không nhất thiết phải là ảnh thành phẩm).</span></p>
 <p><span style="color: #000000;">2.3. Cách gửi bài tham dự:</span></p>
@@ -58,7 +52,6 @@ description: ""
 <h2><span style="color: #000000;">4. CƠ CẤU GIẢI THƯỞNG</span></h2>
 <h3><span style="color: #000000;"><strong>4.1. Giải tuần: Tổng kết và trao giải theo từng đợt (4 giải mỗi đợt x 3 đợt)</strong></span></h3>
 <p><span style="color: #000000;">– <strong>Giải sáng tạo của tuần</strong>: dành cho bài dự thi có ý tưởng sáng tạo, độc đáo nhất do BTC lựa chọn. Món ăn đạt giải sáng tạo là món ăn có đủ 2 tiêu chí: là món quen thuộc, dễ làm nhưng được làm lại/ biến tấu theo hướng hiện đại (thay nguyên liệu quen thuộc bằng nguyên liệu mới mẻ, hiện đại hơn).</span></p>
-
 
 <p><span style="color: #000000;">Phần thưởng cho giải sáng tạo gồm 1 thùng Sữa đặc CGHL và bếp điện với tổng trị giá khoảng 3,500,000 đồng. (Sữa đặc trị giá 1,500,000 VND và bếp điện trị giá 2,000,000 VND)</span></p>
 <p><span style="color: #000000;">– <strong>Giải chia sẻ của tuần</strong>: dành cho bài dự thi có nhiều lượt like, share, comment nhất. Cách tính điểm cụ thể là: mỗi Like/ yêu thích = 1 điểm, mỗi phản hồi/ comment = 2 điểm, mỗi chia sẻ/ share = 3 điểm; tổng điểm của 3 hạng mục này là căn cứ xét giải. Lưu ý: với phần phản hồi, chỉ các phản hồi có nội dung chia sẻ cụ thể mới được tính, không tính các phản hồi tag tên hoặc nội dung không có ý nghĩa gì như chỉ có các loại sticker, emoticon, “.”, “!!”….</span></p>
@@ -98,9 +91,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

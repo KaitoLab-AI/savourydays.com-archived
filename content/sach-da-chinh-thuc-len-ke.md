@@ -12,10 +12,7 @@ description: "nhật kí học làm bánh, savoury days"
 <p>Tất nhiên là rất vui, nhưng cũng không kém phần hồi hộp. Vì chẳng biết liệu em ấy có “vừa mắt” các bạn độc giả của Savoury Days hay không. Mặc dù trong suốt quá trình “nhào nặn” em ấy, cả ê-kíp đã rất cố gắng, nhưng có lẽ vẫn không tránh khỏi thiếu sót ở điểm này điểm kia. Nhưng mọi khâu làm sách, từ viết bản thảo, thử công thức, chụp ảnh, và cả biên tập đã luôn được thực hiện bằng tình yêu với bánh trái, để gửi đến những người cũng có chung đam mê ngọt ngào này, nên hi vọng tình yêu ấy sẽ giúp “xí xóa” những điểm còn chưa thật tốt. Và cũng mong là “Nhật kí học làm bánh”, cũng như SD, sẽ tiếp tục mang đến nguồn cảm hứng cho tất cả các bạn bè ở khắp mọi nơi vào bếp nghịch ngợm với bếp và lò.</p>
 <p>Tuần vừa rồi cũng là một tuần mà Nhã Nam trở nên đặc biệt bận rộn vì Nhật kí học làm bánh, không chỉ là lo in sách bổ sung và xử lí đơn hàng để làm sao các bạn yêu sách và yêu bếp bánh sẽ đều nhận được sách trước ngày 8/3, mà còn quan tâm đến cả việc làm sao tạo điều kiện cho các bạn ở tỉnh xa có thể nhận được sách sớm mà tiết kiệm được chi phí chuyển phát. Bởi vậy nên cả BTV lẫn nhân viên PR đều đã không có cuối tuần, đến 23h đêm Chủ nhật vẫn còn có bạn báo với SD đã nhận được mail confirm đơn hàng. Biết là một lời cảm ơn chắc chắn không đủ, nhưng vẫn muốn nói cảm ơn Nhã Nam vì sự nhiệt tình của các bạn, đã ngồi gói tay, dán tem và đóng dấu “from Nhã Nam with love” từng cuốn Nhật kí một, cẩn thận, chỉn chu, để làm cho mỗi quyển sách thật sự trở thành một món quà đặc biệt để gửi tới bạn đọc. Đây cũng là “bất ngờ” mà cuối cùng – vì không nhịn được – đã bị bạn Trang bật mí trước 2 ngày tại Facebook (rất xin lỗi cả nhà :”&gt;) Tuy không phải là một điều gì đó rất giá trị về mặt tiền bạc, nhưng tin là bạn đọc khi cầm cuốn sách được bao gói cẩn thận, mỗi cuốn đều có kèm theo một con tem và sticker mang theo lời nhắn đầy ý nghĩa, sẽ cảm nhận được sự tận tâm của các thành viên Nhã Nam.</p>
 <p>Đến thời điểm hiện tại thì toàn bộ các đơn hàng trong lần đặt đầu tiên tại SD đã được gửi mail xác nhận và thông báo về cách thức thanh toán, nhận hàng. Bạn nào vẫn chưa nhận được thì kiểm tra thử hộp thư spam xem mail có bị lạc vào đây không nhé (nếu không có thì có thể trong quá trình đăng kí đã gõ nhầm mail … :( ). Nhưng cũng không sao vì sách in bổ sung đã có rồi, nên sách sẽ được chuyển tới tay các bạn sớm thôi. Dưới đây là một số tin tức mới cập nhật về tình hình sách nhé :)</p>
-<p>1. <strong>Sách đặt trong đợt 1 đã có mặt ở cả Hà Nội và TPHCM rồi</strong>, bạn nào đã đăng kí thì có thể tới lấy tại Nhã Nam (59 Đỗ Quang – Hà Nội) hoặc Nhã Nam Thư Quán (Nhà 015 – Lô B – Chung cư 43 – Hồ Văn Huê – Phường 9 – Quận Phú Nhuận – TP Hồ Chí Minh) nhé. Sách cũng đang được chuyển đến cho các bạn lựa chọn nhận sách tại nhà.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>1. <strong>Sách đặt trong đợt 1 đã có mặt ở cả Hà Nội và TPHCM rồi</strong>, bạn nào đã đăng kí thì có thể tới lấy tại Nhã Nam (59 Đỗ Quang – Hà Nội) hoặc Nhã Nam Thư Quán (Nhà 015 – Lô B – Chung cư 43 – Hồ Văn Huê – Phường 9 – Quận Phú Nhuận – TP Hồ Chí Minh) nhé. Sách cũng đang được chuyển đến cho các bạn lựa chọn nhận sách tại nhà.</p>
 <p>2. <strong>Sách in bổ sung đợt 2 cũng đã xong, hiện đã chính thức có mặt tại Nhã Nam Hà Nội và các hiệu sách ở khu vực phố Đinh Lễ</strong>. Sách mua tại Nhã Nam (59 Đỗ Quang) sẽ tiếp tục được giảm 20% so với giá bìa. Sách đang được chuyển vào Nam, có lẽ sẽ có mặt tại TPHCM trong khoảng 2 ngày tới nên các bạn ở miền Nam chịu khó đợi thêm chút xíu (một tí tẹo nữa thôi).</p>
 <p><strong>Các bạn ở tỉnh, thành phố ngoài Hà Nội, TPHCM và nước ngoài có thể đặt sách qua các trang web bán sách online như www.tiki.vn hoặc www.vinabooks.vn</strong>. Ở VN hiện tại có khá nhiều “tiệm sách online” nên mình cũng không thống kê được hết. Chắc chỉ trong 1, 2 ngày nữa các hiệu sách này sẽ nhận đặt hàng. Mình cũng sẽ thông báo ngay tại FB của Savoury Days khi có tin tức từ các tiệm sách online này nhé.</p>
 <p>3. <em><strong>Nhân dịp 8/3, Nhã Nam và SD đang chuẩn bị tổ chức một sự kiện mà rất nhiều bạn đọc yêu bánh và yêu bếp sẽ có thể cùng tham gia được. Cụ thể thế nào, hồi sau sẽ rõ, nhưng hứa hẹn sẽ là một dịp “vui nổ trời” ^.^</strong></em></p>
@@ -25,10 +22,7 @@ description: "nhật kí học làm bánh, savoury days"
 <p><a href="http://www.flickr.com/photos/55490207@N05/12927791494/" title="01 by LinhTrang9185, on Flickr"><img alt="01" class="aligncenter" height="333" loading="lazy" src="https://v4s2.yimg.com/so/7297/12927791494_a74a679a3b.jpg" width="500"/></a></p>
 <p style="text-align: center;"><strong>Ảnh của Trang Vova</strong></p>
 <p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/12927791364/" title="02 by LinhTrang9185, on Flickr"><img alt="02" height="375" loading="lazy" src="https://v4s2.yimg.com/so/7373/12927791364_1cd1446a2c.jpg" width="500"/></a></p>
-<p style="text-align: center;"><strong>Ảnh và chia sẻ của Fank Phuong Anh </strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p style="text-align: center;"><strong>Ảnh và chia sẻ của Fank Phuong Anh </strong></p>
 <p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/12927791264/" title="03 by LinhTrang9185, on Flickr"><img alt="03" height="500" loading="lazy" src="https://v4s2.yimg.com/so/7404/12927791264_6edd1892d8.jpg" width="370"/></a></p>
 <p style="text-align: center;"><em>Em đã bóc tem em nó rồi chị Trang ơi, sách dày và đẹp, nhỏ xinh vừa tay cầm thích quá chị ạ, em thấy nó vừa vặn hơn so với Quà tặng ngọt ngào. Sách được thiết kế đẹp, nhìn dịu mắt, hình như là in trên giấy couches matt, em rất thích giấy này vì ko bị quá bóng mà chất lượng hình ảnh màu sắc vẫn đẹp. Tạm chưa nói đến việc đọc và ứng dụng nó, chỉ riêng việc ngắm nó thôi đã thấy sướng rồi, nói chung là em ko có chút tiếc nuối nào vì đã mua cuốn này ạ Cảm ơn chị và ê kíp Nhã Nam rất nhiều</em></p>
 <p style="text-align: center;"><em>PS: Nhã Nam bọc sách cẩn thận quá, đẹp nữa, em phải dùng dao dọc giấy để bóc vì ko nỡ xé, em đang nghĩ đến việc đọc xong lại bọc lại y nguyên nhưng có vẻ bất khả thi quá :((</em></p>
@@ -42,9 +36,6 @@ description: "nhật kí học làm bánh, savoury days"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

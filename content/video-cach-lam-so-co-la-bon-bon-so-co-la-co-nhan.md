@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2020/02/cách-làm-socola-bon-bon-banner.jpg"
 description: "Cách làm sô cô la bon bon này không yêu cầu phải temper socola nên rất nhanh và đơn giản, ai cũng có thể làm được, chỉ cần khuôn tạo hình, nồi và 1 cái phới"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p> </p>
 <p><span style="color: #000000;">Còn 1 tuần nữa là Valentine, không khí đợt này đúng là ảm đạm thật, nên lại càng cần thể hiện nhiều tình yêu với nhau hơn, cả nhà nhỉ :) Và thay vì ra ngoài, tránh dịch, chúng ta hoàn toàn có thể ở nhà để làm một hộp chocolate thật xinh như trong hình để tặng cho người ấy. Đồ nếu các bạn ngại mua cũng có thể gọi ship đến tận nhà luôn. Mọi thứ đồ mình thấy ở các cửa hàng bán nguyên liệu và dụng cụ làm bánh ở Hà Nội cơ bản đều có đủ (mình thì mua ở <a href="https://abby.vn"><strong>Abby.vn</strong></a> – bên đó có cả cửa hàng trong TP.HCM và ship toàn quốc), các bạn nếu chưa quen thì có thể lên website các cửa hàng xem trước hoặc gọi điện thoại nhờ nhân viên tư vấn nhé. </span></p>
 <h2><span style="color: #000000;">CÁCH LÀM SÔ-CÔ-LA BON BON </span></h2>
@@ -21,10 +20,7 @@ description: "Cách làm sô cô la bon bon này không yêu cầu phải temper
 <li><em><span style="color: #000000;">30 gram socola đen nguyên chất 75% </span></em></li>
 <li><em><span style="color: #000000;">thìa cafe (5 ml) rượu Rum</span></em></li>
 </ul>
-<p><strong><span style="color: #000000;">B. Socola nhân dâu tây</span></strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong><span style="color: #000000;">B. Socola nhân dâu tây</span></strong></p>
 <ul>
 <li><em><span style="color: #000000;">80 gram socola compound trắng</span></em></li>
 <li><em><span style="color: #000000;">70 gram mứt dâu tây (mình dùng loại của Golden farm, ở ngoài chai ghi là sinh tố dâu tây)</span></em></li>
@@ -63,10 +59,7 @@ description: "Cách làm sô cô la bon bon này không yêu cầu phải temper
 <li><span style="color: #000000;">Đun hỗn hợp này ở lửa nhỏ nhất, vừa đun vừa khuấy đều tay đến khi hỗn hợp nóng lên nhưng chưa sôi thì đổ phần kem này vào socola.</span></li>
 <li><span style="color: #000000;">Để kem tươi làm nóng socola trong khoảng 15 – 20 giây rồi khuấy đều đến khi socola tan chảy và hòa quyện hoàn toàn vào kem, để phần nhân này nguội. </span></li>
 </ol>
-<p><span style="color: #000000;">(Với công thức nhân tiramisu, sau khi socola tan chảy và hòa quyện hết thì các bạn cho rượu rum vào khuấy đều.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">(Với công thức nhân tiramisu, sau khi socola tan chảy và hòa quyện hết thì các bạn cho rượu rum vào khuấy đều.</span></p>
 <ol start="5">
 <li><span style="color: #000000;">Cho nhân vào túi bắt kem, phun nhân đầy đến ⅔ – ¾  khuôn, lắc nhẹ khuôn cho nhân dàn đều.</span></li>
 <li><span style="color: #000000;">Dùng socola compound đun chảy phun kín miệng khuôn để làm đế, lắc nhẹ khuôn cho mặt socola được phẳng. </span>Ở bước này nếu các bạn muốn trang trí bằng hạt thì chỉ phun để gần đầy miệng khuôn, sau đó đặt hạt vào và ấn nhẹ để socola đầy lên miệng khuôn.</li>
@@ -77,4 +70,4 @@ description: "Cách làm sô cô la bon bon này không yêu cầu phải temper
 <li><span style="color: #000000;">Dùng giấy lót socola để cho vào hộp.</span></li>
 </ol>
 <p>Chúc các bạn có 1 hộp socola thật xinh như ý muốn! ;)</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

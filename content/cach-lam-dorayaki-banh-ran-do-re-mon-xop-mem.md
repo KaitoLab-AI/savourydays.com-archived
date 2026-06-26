@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2015/09/Dorayaki-2.jpg"
 description: "Cách làm và các bí quyết giúp bánh Dorayaki mềm mịn xốp và không dai hay chai bánh."
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Xem truyện Đô-rê-mon, ngoài các bảo bối của bạn Mèo Ú thì chắc thứ khiến mình tò mò nhiều nhất là món bánh rán của bạn. Chẳng hiểu món bánh đó có gì kì diệu mà khiến cho một người tài phép đầy mình như bạn mê mệt đến thế :P Mãi rồi đến gần đây tự làm mình mới hiểu được “tại sao”. Đến bạn chồng kén ăn của mình còn gật gù khen nữa thì biết là “trình độ” quyến rũ của món này cao tới đâu rồi :P</p>
 <p>Làm Dorayaki ban đầu cảm giác rất nhàn. Công thức trên mạng nhiều, tất cả đều ngắn gọn và dễ hiểu, nguyên liệu cũng không có gì đặc biệt. Thế mà mình làm đến mẻ bánh thứ 4, thứ 5 gì đó mới hoàn toàn ưng ý được. Lý do là bởi các công thức hiện tại đều làm Dorayaki theo phương pháp Muffin-Pancake: trộn tất cả các nguyên liệu lại với nhau rồi rán. Cách làm này rất nhanh và dễ. Nhưng nhược điểm là nếu trộn hơi kĩ hoặc hơi lâu một chút thôi là bánh sẽ có vấn đề. Mặc dù khi rán bánh vẫn nở phồng, nhưng ăn sẽ thấy vị bánh hơi dai. Nhìn mặt cắt thấy có nhiều lỗ khí li ti, cảm giác mặt cắt hơi giống kiểu rễ tre như trong bánh bò như trong hình dưới.</p>
 <p><a href=" https://www.flickr.com/photos/savourydays/21787012855/" title=" IMG_0291 by LinhTrang9185, on Flickr"><img alt=" IMG_0291" class="aligncenter" height="333" loading="lazy" src=" https://farm6.staticflickr.com/5715/21787012855_c882b52a4a.jpg " width="500"/></a></p>
 <p>Bánh kiểu này vẫn ăn được, nhưng Dorayaki mà mình đã được ăn thử ở Nhật thì vị của nó mềm và xốp kiểu  bánh bông lan cơ. Nên mình đã thay đổi một chút trong công thức. Cụ thể là tách lấy 1 lòng trắng trứng và đánh bông rồi trộn với phần còn lại. làm theo kiểu này khi rán sẽ hơi lâu một chút nhưng bánh đảm bảo là rất bông xốp mềm và mịn. Hơn nữa có thể để lâu qua ngày được (bánh kiểu kia mà để qua ngày sẽ dai và cứng nhanh).</p>
-<p>Vì khẩu vị và sở thích của mỗi người một khác nên trong bài này mình giới thiệu cả hai cách làm vỏ bánh Dorayaki kiểu bông xốp như bánh bông lan và kiểu Pancake, các bạn có thể tự lựa chọn theo sở thích nhé :)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Vì khẩu vị và sở thích của mỗi người một khác nên trong bài này mình giới thiệu cả hai cách làm vỏ bánh Dorayaki kiểu bông xốp như bánh bông lan và kiểu Pancake, các bạn có thể tự lựa chọn theo sở thích nhé :)</p>
 <p>——-</p>
 <p style="text-align: center;"><strong>Công thức Dorayaki kiểu bông mềm xốp</strong></p>
 <p><a href=" https://www.flickr.com/photos/savourydays/21599158208/" title=" IMG_0277-1 by LinhTrang9185, on Flickr"><img alt=" IMG_0277-1" class="aligncenter" height="408" loading="lazy" src=" https://farm1.staticflickr.com/674/21599158208_1e99c46f9b_z.jpg " width="640"/></a></p>
@@ -44,10 +40,7 @@ description: "Cách làm và các bí quyết giúp bánh Dorayaki mềm mịn x
 <p>Nhớ chuyển chế độ HD để xem clip được rõ và đẹp nhất nha :)</p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/znNOCq1h6Vk" width="560"></iframe></div>
 <p>———-</p>
-<p><strong>Công thức Dorayaki kiểu Pancake</strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong>Công thức Dorayaki kiểu Pancake</strong></p>
 <p><span style="color: #800000;"><strong>* Nguyên liệu</strong></span></p>
 <ul>
 <li><em>2 trứng gà – lạnh (sẽ giúp bánh nở tốt hơn)</em></li>
@@ -72,7 +65,6 @@ description: "Cách làm và các bí quyết giúp bánh Dorayaki mềm mịn x
 <p>– Trong video mình dùng Nutella thấy rất ngon. Một số loại nhân khác có thể dùng là nhân bơ lạc, kem tươi đánh bông, <a href="/banh-su-kem-choux-a-la-creme-demo-mot-so-luu-y-khi-lam-choux/" target="_blank">nhân kem trứng</a> (như nhân bánh Su kem), <a href="/tai-sao-vo-banh-su-kem-choux-cream-puff-khong-hay-xep-sau-khi-nuong-ct-choux-tra-xanh/" target="_blank">nhân trà xanh (công thức cuối link)</a>…</p>
 <p>– Với bánh làm theo công thức số 1, có thể bọc bánh bằng nilon, để tủ lạnh trong 1 – 2 ngày kể từ khi làm. Khi ăn thì để bánh ra ngoài cho bánh trở về nhiệt độ phòng và mềm trở lại. Hoặc cho bánh vào lò vi sóng (đậy bánh kín để bánh không bị khô), làm nóng trong khoảng 20 – 30 giây với công suất 600 Watt. Nhân bánh nên trét vào ngay trước khi ăn sẽ ngon hơn.</p>
 
-
 <p>Ngoài ra các bạn cũng có thể bọc kín bánh rồi bảo quản trong ngăn đá, trước khi ăn rã đông bánh trong ngăn mát rồi để bánh trở về nhiệt độ phòng. Nếu để đông lạnh thì sẽ giữ được bánh trong khoảng 2 – 3 tháng.</p>
 <p>Những cách trên đây chỉ áp dụng cho bánh kiểu mềm xốp (công thức 1). Bánh làm theo kiểu Pancake (công thức 2) nên dùng càng sớm càng tốt.</p>
 <p>* <span style="color: #ff0000;"><strong>Một vài thất bại thường gặp và cách khắc phục</strong></span></p>
@@ -84,4 +76,4 @@ description: "Cách làm và các bí quyết giúp bánh Dorayaki mềm mịn x
 </ul>
 <p>– Bánh sau khi rán xong vẫn còn vị trứng hoặc bị ướt: bánh chưa đủ chín, cần xem lại nhiệt hoặc rán trong thời gian lâu hơn.</p>
 <p>Chúc các bạn thành công! :)</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

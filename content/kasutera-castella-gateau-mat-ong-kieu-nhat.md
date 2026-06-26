@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2013/02/Kasutera.jpg"
 description: "bánh mềm nhẹ, kasutera, castella, bánh xẹp, tự học làm bánh"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
 <p>——————————————</p>
 <p>Kasutera là một loại bánh gateau xuất xứ từ Nhật Bản có “ngoại hình” cực kì xinh đẹp và nổi bật với màu vàng nâu óng của mặt bánh và phần ruột siêu mịn xốp, kiểu “nhìn đã thấy thèm rồi” :) Mình chưa được thử Kasutera “xịn” của Nhật, nhưng sau khi nếm Kasutera tự sản xuất tại nhà thì suy nghĩ đầu tiên của mình là “yêu em nó mất rồi” :”&gt; . So với các loại bánh Gateau mà mình đã từng làm thì Kasutera có hương vị rất đặc biệt, rất nhẹ, rất mềm, rất xốp, nhưng lại hơi dai và dẻo, và ẩm, mùi thơm thì tuyệt vời. À, và còn mát lạnh nữa vì một trong những yêu cầu của bánh là phải để lạnh từ vài giờ cho đến qua đêm sau khi nướng xong.</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/8481240993/" title="IMG_9679-1 by LinhTrang9185, on Flickr"><img alt="IMG_9679-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8247/8481240993_a89399e96e_z.jpg" width="480"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8481240993/" title="IMG_9679-1 by LinhTrang9185, on Flickr"><img alt="IMG_9679-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8247/8481240993_a89399e96e_z.jpg" width="480"/></a></p>
 <p>Về bản chất, Kasutera là một loại Sponge (Gateau cơ bản), có thêm sữa và mật ong, hoàn toàn không có một chút xíu chất béo hay dầu mỡ nào. Cách làm Kasutera phổ biến nhất mà mình biết là làm theo kiểu Sponge cơ bản – đánh trứng nguyên quả đến bông rồi trộn các nguyên liệu còn lại. Tuy nhiên, mình không chọn làm theo cách này mà làm theo cách của <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/">Gateau cơ bản bất bại.</a> Vì Kasutera theo kiểu truyền thống đòi hỏi sự cẩn thận và rất tỉ mỉ trong khi làm, nên làm theo cách của Gateau cơ bản bất bại khả năng thành công sẽ cao hơn khá nhiều, đặc biệt là với những bạn chưa có nhiều kinh nghiệm với bánh trái. Mặc dù vậy, Kasutera không phải là loại bánh dễ, nên trước khi vào phần công thức, mình muốn nhấn mạnh một lần nữa là <span style="color: #ff0000;"><strong>mong các bạn đọc thật kĩ tất cả các chỉ dẫn, cân đong và tuân thủ hướng dẫn tuyệt đối, không tự sửa công thức hay tự sửa cách làm theo ý mình nếu không chắc chắn nhé.</strong></span></p>
 <p style="text-align: center;"><strong>Công thức Kasutera (Honey Castella)</strong></p>
 <p>Khuôn Kasutera thường dùng là loại khuôn hình hộp chữ nhật, khá lớn, tuy nhiên các bạn hoàn toàn có thể thay bằng một loại khuôn bất kì như hình vuông, tròn. Để tiện cho việc tính nguyên liệu phù hợp theo khuôn, dưới đây mình đưa tỉ lệ nguyên liệu tính theo 1 quả trứng và sẽ hướng dẫn quy đổi tùy theo từng loại khuôn khác nhau nhé.</p>
@@ -35,10 +31,7 @@ description: "bánh mềm nhẹ, kasutera, castella, bánh xẹp, tự học là
 <p>2. Vì đặc điểm của Kasutera là nhẹ nhưng hơi dai nên <span style="text-decoration: underline;"><strong>bột sử dụng phải là bột mì đa dụng hoặc bread flour</strong></span>, không dùng cake flour. Bột cần được rây 1-2 lần trước khi dùng.</p>
 <p>3. Đường nên xay nhỏ mịn, lượng đường này mình đã giảm khá nhiều so với các công thức Kasutera khác. Nếu vẫn cảm thấy ngọt, các bạn có thể giảm thêm 10-15gram, không giảm nhiều hơn.</p>
 <p>Với công thức cho 1 trứng như trên, tùy theo kích thước khuôn sử dụng, các bạn chỉ cần tính số trứng cần dùng và nhân các nguyên liệu còn lại theo cùng tỉ lệ là được.</p>
-<p>Tỉ lệ trứng tham khảo cho một số loại khuôn thông dụng:</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Tỉ lệ trứng tham khảo cho một số loại khuôn thông dụng:</p>
 <ul>
 <li><em>Khuôn tròn đường kính 15-18cm: 3-4 trứng</em></li>
 <li><em>Khuôn tròn đường kính 19-22cm: 4-5 trứng</em></li>
@@ -70,7 +63,6 @@ description: "bánh mềm nhẹ, kasutera, castella, bánh xẹp, tự học là
 <p>* <span style="text-decoration: underline;"><em><strong>Ghi chú:</strong></em></span> <span style="color: #ff0000;">Cách làm của Kasutera về cơ bản giống với cách làm của <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/"><span style="color: #ff0000;">Gateau cơ bản bất bạ</span></a>i, nếu bạn chưa quen thì nên xem kĩ ct Gateau cơ bản bất bại trước, đặc biệt là các lưu ý trong công thức.</span></p>
 <p>3. Cho lòng trắng trứng vào âu. Để máy ở tốc độ thấp đánh đến khi nổi bọt khí lớn thì cho muối và cream of tartar. Đánh đến khi bọt khí nhỏ lại, hỗn hợp mịn như bọt xà phòng giặt thì cho đường vào âu (<em>Dùng toàn bộ số đường trong ct, cho từng chút một, trong lúc cho đường vẫn giữ máy chạy ở tốc độ cao</em>). Tiếp tục đánh đến khi trứng bắt đầu nổi đặc, có vân hiện ra khi chạy máy và bóng dẻo hơn thì hạ xuống tốc độ vừa. Trứng nên được đánh đến gần bông cứng. Khi nhấc que đánh lên thấy có chóp kéo theo nhưng chóp này có thể sẽ hơi ngoặt xuống.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8489272986/" title="IMG_9665 by LinhTrang9185, on Flickr"><img alt="IMG_9665" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8371/8489272986_ff5eeddf82.jpg" width="500"/></a></p>
-
 
 <p><strong>Ghi chú:</strong></p>
 <p><em>– Lòng trắng trứng ở <strong>nhiệt độ phòng</strong>, <strong>không dính</strong> tạp chất, đặc biệt là các chất béo như bơ, dầu, mỡ, lòng đỏ.</em></p>
@@ -105,4 +97,4 @@ description: "bánh mềm nhẹ, kasutera, castella, bánh xẹp, tự học là
 <p>1. Nếu bánh bị xẹp, ruột đặc bết thì nguyên nhân có thể do bánh nướng chưa đủ chín, các bạn đọc thêm các bài viết sau để biết cách khắc phục: <strong>A-Z: Lò nướng – Kinh nghiệm chọn lò – Cách chỉnh lò để bánh không bị xẹp, lõm, thắt eo, ẩm, cháy…</strong> <a href="/lo-nuong-kinh-nghiem-nuong-banh/">Phần 1</a> – <a href="/kinh-nghiem-nuong-banh-phan-2/">Phần 2</a></p>
 <p>2. Nếu bánh không nở được, chai cứng hoặc bọt khí rất to thì nguyên nhân là do đánh trứng chưa đủ và/hoặc trộn bột quá kĩ.</p>
 <p>3. Riêng về độ cao của bánh, trong tất cả các loại bánh mình làm, thường mình không bao giờ đo độ cao của bánh vì nó phụ thuộc vào rât nhiều yếu tố khác nhau, cho nên việc đưa ra một con số không giúp ích được gì nhiều và có thể sẽ tạo áp lực nếu bánh của bạn không cao được như vậy. Chỉ cần bánh đạt được các đặc điểm nêu trên là điểm 10/10 rồi nhé ;)</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

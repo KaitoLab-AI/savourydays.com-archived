@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2018/10/cách-làm-bánh-kem-trà-sữa-trân-châu-
 description: "Cách làm bánh kem trà sữa trân châu với lớp kem phô-mai mịn mượt, béo ngậy, cốt bánh ga-tô chiffon mềm như bông, nhẹ như mây thơm vị hồng trà..."
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Tụi mình (SD team) “âm mưu” thử chiếc bánh này từ khá lâu rồi, từ hồi mà ở Đài Loan bắt đầu rộ lên món bánh này cơ. Lý do ư? Một người vừa thích trà sữa, vừa thích bánh, sao có thể bỏ qua một món ăn có thể kết hợp tất cả các sự ngon của cả hai món này cơ chứ? Hơn nữa mình vốn cũng thích những kiểu bánh đơn giản nhưng ngon miệng thế này, không cần quá cầu kì các công đoạn trang trí, mà khi ăn vẫn cảm thấy “cực kì sung sướng”, không chỉ ở vị giác mà còn cả ở nhãn quan. Ai lại có thể không mê mẩn khi nhìn thấy dòng kem trà sữa thơm phức mùi trà quyện trong hương vị của kem phô-mai trào ra từ giữa bánh rồi hoà quyện vô cùng hoàn hảo với cốt bánh êm như mây, nhẹ như bông của chiffon nhỉ?</span></p>
 <p><span style="font-weight: 400; color: #000000;">Món bánh này cũng là một loại món ăn mà mình tin rằng tự làm ở nhà sẽ “đáng đồng tiền bát gạo hơn”. Bởi bánh ngon không chỉ nhờ cốt bánh mềm xốp, mịn nhẹ mà còn nhờ phần kem chất lượng, có vị thơm của trà, vị ngậy béo của kem, và quan trọng là khi cắt bánh phải có một dòng “nham thạch kem pho-mai” trào ra đẹp. Như vậy không chỉ cần nguyên liệu ngon mà còn cần nguyên liệu đủ nhiều. Mà chỉ khi tự làm ở nhà, chúng mình mới có thể dùng bao nhiêu kem ngon tuỳ thích thôi :D Tuy loại bánh này cần khá nhiều loại nguyên liệu khác nhau, nhưng đều có thể mua được khá dễ dàng với giá thành phải chăng ở nhiều chuỗi cửa hàng bán đồ làm bánh, chẳng hạn như Abby.vn (kể cả với các bạn ở tỉnh thành phố ngoài Hà Nội cũng có thể đặt mua được về tận nhà nhé). Nếu tính ra so với giá bán ngoài hàng thì tự làm mình tin là sẽ tiết kiệm hơn được kha khá đấy (mà lại chất lượng hơn hẳn). </span></p>
 <p><span style="font-weight: 400; color: #000000;">Video hướng dẫn ngày hôm nay hơi dài hơn bình thường một chút, phần là vì tụi mình  muốn làm chi tiết hết khả năng có thể, phần là muốn điều chỉnh cách quay theo yêu cầu của số đông các bạn, muốn xem một căn bếp mộc mạc, đơn giản, yên tĩnh. Khi xem cách làm bánh cũng là khoảng thời gian thư giãn luôn. Tụi mình vẫn đang cố gắng, còn phải học thêm rất nhiều, nhưng hi vọng là sẽ nhận được sự ủng hộ của cả nhà nhé. </span></p>
 <h2><span style="color: #800000;"><strong>CÁCH LÀM BÁNH KEM TRÀ SỮA TRÂN CHÂU PHÔ-MAI </strong></span></h2>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
-<p><span style="color: #000000;"><strong>A. Phần cốt bánh chiffon trà đen</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;"><strong>A. Phần cốt bánh chiffon trà đen</strong></span></p>
 <ul>
 <li><span style="color: #000000;"><em><span style="font-weight: 400;">4 lòng đỏ trứng gà (18 – 20 gram/lòng đỏ)</span></em></span></li>
 <li><span style="color: #000000;"><em><span style="font-weight: 400;">10 gram đường</span></em></span></li>
@@ -60,10 +56,7 @@ description: "Cách làm bánh kem trà sữa trân châu với lớp kem phô-m
 <p> </p>
 <p><span style="color: #000000;"><strong>A. Phần cốt bánh chiffon</strong></span></p>
 <p><span style="font-weight: 400; color: #000000;">Làm nóng lò nướng ở 160°C, hai lửa</span></p>
-<p><span style="font-weight: 400; color: #000000;">1. Ngâm phần lá trà với 30 ml nước sôi, để nguội</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">1. Ngâm phần lá trà với 30 ml nước sôi, để nguội</span></p>
 <p><span style="color: #000000;">Lưu ý: Mình muốn cho cả lá trà vào bánh, vừa để mùi trà thơm rõ hơn, hơn nữa nhìn lá trà lẫn trong bánh rất lạ và thú vị, vì thế nên lá trà cần nghiền nhỏ. Nếu bạn nào không thích lá trà có thể ngâm trà sau đó bỏ bã đi hoặc ngâm túi trà lọc</span></p>
 <p><span style="font-weight: 400; color: #000000;">2. Cho lòng đỏ và 10 gram đường vào âu, đánh đến khi lòng đỏ chuyển màu vàng nhạt</span></p>
 <p><span style="font-weight: 400; color: #000000;">3. Cho dầu ăn, sữa tươi và phần nước và bã trà ngâm vào khuấy đều đến khi hòa quyện, không còn vết dầu. </span></p>
@@ -80,7 +73,6 @@ description: "Cách làm bánh kem trà sữa trân châu với lớp kem phô-m
 <p><span style="font-weight: 400; color: #000000;">1. Cho lòng đỏ và đường vào âu, đánh đều cho tới khi lòng đỏ chuyển màu vàng nhạt</span></p>
 <p><span style="font-weight: 400; color: #000000;">2. Rây bột ngô vào và khuấy đều tới khi hỗn hợp mịn mượt</span></p>
 
-
 <p><span style="font-weight: 400; color: #000000;">3. Cho sữa và lá trà đen và nồi, đun ở lửa nhỏ tới khi sữa gần sôi. Khuấy đều cho sữa nguội bớt ( sữa ở trạng thái ấm nóng). Đổ sữa vào âu trứng, vừa đổ vừa khuấy đều.</span></p>
 <p><span style="font-weight: 400; color: #000000;">Lưu ý: Ở bước này mình đun sữa nóng hơn bình thường làm nhân custard một chút, sau đó để nguội bớt đễ có đủ nhiệt độ và thời gian cho lá trà nở và tạo ra vị hồng trà. </span></p>
 <p><span style="font-weight: 400; color: #000000;">4. Lọc hỗn hợp qua lây vào nồi, đun ở lửa nhỏ nhất, vừa đun vừa khuấy đều đến khi hỗn hợp sệt lại</span></p>
@@ -95,4 +87,4 @@ description: "Cách làm bánh kem trà sữa trân châu với lớp kem phô-m
 <p><span style="font-weight: 400; color: #000000;">2. Lần lượt cho một lớp kem trà sữa rồi đến một lớp trân châu vào phần lỗ giữa của bánh, làm lần lượt tới khi đầy lên thành bánh (mình làm 2 lớp trân châu và 3 lớp kem trà sữa)</span></p>
 <p><span style="font-weight: 400; color: #000000;">3. Đổ phần kem cheese lên mặt trên cùng của bánh, dùng thìa hoặc dao chà láng dàn đều khắp mặt bánh, cho lớp kem chảy nhẹ nhàng xuống một phần thành bánh. Cuối cùng cho số trân châu còn lại lên mặt bánh</span></p>
 <p><span style="font-weight: 400; color: #000000;">Lưu ý: Trân châu cho vào tủ lạnh sẽ bị cứng, nên nếu không ăn hết thì có thể gạt trân châu ra, khi nào ăn lại sẽ luộc trân châu mới.</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2021/01/cách-làm-hạt-tẩm-vị-banner.jpg"
 description: "cách làm hạt tẩm vị gồm hạt điều tẩm mật ong phomai và hạt điều rong biển trứng muối: nhanh gọn thơm ngon, dễ làm và rất hợp để ăn chơi hay nhậu"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Món hạt tẩm vị cho ngày Tết tiếp theo của tụi mình (sau <a href="/video-cach-lam-lac-tam-mam-duong-toi-ot/"><strong>Lạc tẩm mắm đường tỏi ớt</strong></a>) là hạt điều tẩm các vị này đây! Hạt điều là loại hạt rất ngon, dễ ăn, nhưng thường chỉ có loại rang muối (cửa hàng rang sẵn) thôi, nên tụi mình sáng tạo thêm mấy vị này: (1) là pho-mai mật ong mằn mặn ngòn ngọt, thơm mùi phô-mai và (2) là trứng muối rong biển (vị như thế nào chắc ai cũng có thể hình dung ra rùi). Các hương vị này đều quen thuộc và đều có tác dụng “tôn” vị ngon của hạt điều lên rất nhiều, chứ không hề át độ thơm ngon của điều nên cả nhà cứ yên tâm nhé. Và vì có thêm vị mặn ngọt, phô-mai, rong biển… nên hạt điều này cũng có thể dùng cho rất nhiều dịp khác nhau, ăn chơi hay nhậu đều “tuyệt vời ông mặt trời” hết. Cách làm không khó nhưng cũng như món lạc, có nhiều lưu ý để thành phẩm được ngon lành cành đào nên các bạn lưu ý đọc kĩ phần cách làm dưới đây trước khi bắt tay vào làm nhé. </span></p>
 <h2><span style="color: #800000;">Hạt điều tẩm phomai mật ong</span></h2>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
@@ -22,10 +21,7 @@ description: "cách làm hạt tẩm vị gồm hạt điều tẩm mật ong ph
 </ul>
 <p><strong><span style="color: #000000;">* Lưu ý:</span></strong></p>
 <p><span style="font-weight: 400; color: #000000;">– Dùng bơ động vật loại ngon (Anchor, President, Elle Vire…), không dùng bơ thực vật (magarine) như Tường An hay Meizan.</span></p>
-<p><span style="font-weight: 400; color: #000000;">– Siro ngô là nguyên liệu bắt buộc, các cửa hàng bán nguyên liệu làm bánh hoặc siêu thị đều có.</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">– Siro ngô là nguyên liệu bắt buộc, các cửa hàng bán nguyên liệu làm bánh hoặc siêu thị đều có.</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Cả 2 loại bột phomai trong CT đều có thể dễ dàng mua tại Shopee, trong đó bột phomai Wakodo do công ty Yên Nhiên nhập khẩu và cung cấp. Việc trộn 2 loại bột phomai sẽ giúp hạt có độ mặn vừa phải, đậm đà vị phomai và có màu vàng đẹp. Nếu không mua được, các bạn có thể dùng hoàn toàn bột phomai lắc mua tại các cửa hàng bán đồ làm bánh, tuy nhiên nên giảm lượng bột đi tránh việc làm hạt bị mặn quá. </span></p>
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/27oDd-tTzW4" width="560"></iframe></div>
@@ -67,10 +63,7 @@ description: "cách làm hạt tẩm vị gồm hạt điều tẩm mật ong ph
 <li><span style="font-weight: 400; color: #000000;"> Cho đường và 100 gram nước vào chảo, lượng nước này có thể tùy chỉnh miễn sao nước ngập mặt đường. </span></li>
 <li><span style="font-weight: 400; color: #000000;"> Đun đường trên lửa vừa tới khi hỗn hợp sôi thì hạ nhỏ lửa, đun tiếp tới khi đường chuyển màu vàng hơi ngả sang nâu nhạt, nước đã bay hơi hết. </span></li>
 </ol>
-<p><span style="font-weight: 400; color: #000000;">Lưu ý: Trong quá trình đun, KHÔNG ĐƯỢC KHUẤY nếu không sẽ làm lại đường (đường kết tinh lại trong chảo), chỉ thỉnh thoảng lắc nhẹ chảo cho đường tan. Nếu đường bị kết tinh thì cần làm lại, không cố dùng phần đường đó sẽ làm hỏng sốt.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">Lưu ý: Trong quá trình đun, KHÔNG ĐƯỢC KHUẤY nếu không sẽ làm lại đường (đường kết tinh lại trong chảo), chỉ thỉnh thoảng lắc nhẹ chảo cho đường tan. Nếu đường bị kết tinh thì cần làm lại, không cố dùng phần đường đó sẽ làm hỏng sốt.</span></p>
 <ol start="11">
 <li><span style="font-weight: 400; color: #000000;"> Cho bơ vào, đảo đều tới khi bơ tan chảy và hòa quyện hết.</span></li>
 <li><span style="font-weight: 400; color: #000000;"> Cho ½ hỗn hợp trứng muối rong biển vào chảo, đảo đều. Ở bước này, nếu hỗn hợp sốt quá sệt thì cho thêm nước, đảo đều.</span></li>
@@ -81,4 +74,4 @@ description: "cách làm hạt tẩm vị gồm hạt điều tẩm mật ong ph
 <li><span style="font-weight: 400; color: #000000;"> Lạc thành phẩm cho vào hộp kín, nếu bảo quản tốt, không bị ẩm thì có thể được khoảng 1 – 1.5 tháng. </span></li>
 <li><span style="font-weight: 400; color: #000000;"> Nếu trong thời gian bảo quản hạt bị ỉu là do bảo quản không tốt hoặc sấy chưa đủ khô, có thể cho vào lò sấy ở khoảng 80 độ trong 15 – 20 phút tới khi hạt giòn trở lại.Hat</span></li>
 </ol>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

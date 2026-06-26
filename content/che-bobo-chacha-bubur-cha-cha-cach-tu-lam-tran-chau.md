@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2011/06/Che-bobochacha.jpg"
 description: "Cách làm chè bobo chacha thơm ngon bổ dưỡng, các loại hoa quả và trân châu dẻo dai trong nước cốt dừa béo ngậy. Công thức kèm hình minh hoạ"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Tự nhiên mấy hôm vừa rồi bỗng dưng lại thèm cái món này. Ở nhà chả ăn mấy mà đến lúc đi xa rồi lại thành ra nhớ, rõ là hâm :”&gt; Mà chẳng biết hàng chè ở Cửa Bắc còn ở đấy không cả nhà nhỉ? Mình nhớ là ở đấy đầu ngõ có hàng thịt nướng, cuối ngõ là hàng chè, ăn xong thịt nướng thì vào ăn chè, rất là tiện :D Mà hình như đấy cũng là hàng chè Bo bo cha cha đầu tiên ở Hà Nội thì phải. Về sau ở phố Nam Cao, gần trường Ams cũ cũng có thêm vài cửa hàng, nhưng có vẻ là không được ngon bằng hàng ở Cửa Bắc. Giờ không biết sao rùi…</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5836352358/" title="Bubur cha cha by LinhTrang9185, on Flickr"><img alt="Bubur cha cha" class="aligncenter" height="483" loading="lazy" src="http://farm3.static.flickr.com/2576/5836352358_db2d17f61c.jpg" width="650"/></a></p>
 <p>Công thức này là mình nhặt nhạnh từ một số nguồn trên mạng, chắc là đúng vì toàn là đầu bếp Malaysia cả :D Nguyên liệu cơ bản là khoai các loại, với chuối và đậu đen, bột báng nữa, nấu trong nước cốt dừa và đường thốt nốt. Nhưng mình tự làm ở nhà thì có thay đổi đi một tí là mình không dùng đậu đen (chủ yếu là do lười nấu thôi chứ cũng ko có lí do gì đặc biệt, cả nhà làm thì cứ cho thêm vào nhé :D), và bột báng (trân châu hay là Tapioca pearl loại nhỏ bé tí xíu ấy). Tại vì thật sự là cảm giác không yên tâm khi mua trân châu làm sẵn về nấu. Cho nên mình tự làm trân châu bằng bột năng. Lần đầu thử làm cũng hơi run một tí. Nhưng mà thành công mỹ mãn :D :D Mừng quá. Vì một trong những thứ mình thích nhất khi ăn chè là cái “dẻo dẻo, dai dai” ý. Từ giờ biết tự làm rồi thì các lần sau chắc cứ vậy mà tiến hành thôi, vừa ngon vừa sạch, mà lại yên tâm là không bị ăn polymer ;)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5828872478/" title="Bubur Cha cha by LinhTrang9185, on Flickr"><img alt="Bubur Cha cha" class="aligncenter" height="800" loading="lazy" src="http://farm3.static.flickr.com/2549/5828872478_eeb8f59fae.jpg" width="534"/></a></p>
 <h2>CÁCH LÀM CHÈ BO BO CHA CHA</h2>
-<p><strong>Nguyên liệu</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>Nguyên liệu</strong></p>
 <ul>
 <li><em>2 củ khoai sọ nhỏ</em></li>
 <li><em>1 củ khoai lang</em></li>
@@ -38,14 +34,11 @@ description: "Cách làm chè bobo chacha thơm ngon bổ dưỡng, các loại 
 <p>Tiếp theo lấy một ít bột năng khô xoa đều lên mặt thớt (hoặc một mặt phẳng nào đấy dễ cán bột). Xoa bột năng lên tay nữa cho khỏi bị dính nha. Lúc này cục bột vừa trộn trong bát cũng đã nguội rồi. Khâu tiếp theo là tùy cả nhà cán, cắt hay nặn thành hình gì tùy thích nhé, trăng, sao, hoa, lá, trái tim.. :D Mình thì viên thành viên tròn nhỏ như trân châu thôi.</p>
 <p>Bắc một nồi nước sôi. Thả bột năng vừa cắt vào luộc. Đến khi bột nổi lên mặt nước, đợi khoảng 1-2 phút thì vớt ra. Thả vào bát nước lạnh. Thế là xong trân châu.</p>
 <p>3. Đến bước này thì mình đã có tất cả các loại khoai đã được hấp chín, trân châu đã được luộc chín. Lá dứa thì cả nhà rửa sạch và thắt nút lại cho tiện bỏ vào nồi. Chuối bóc vỏ xắt khoanh nhé.</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/5836352200/" title="Bubur cha cha 3 by LinhTrang9185, on Flickr"><img alt="Bubur cha cha 3" class="aligncenter" height="436" loading="lazy" src="http://farm3.static.flickr.com/2603/5836352200_0147e70ce9.jpg" width="650"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5836352200/" title="Bubur cha cha 3 by LinhTrang9185, on Flickr"><img alt="Bubur cha cha 3" class="aligncenter" height="436" loading="lazy" src="http://farm3.static.flickr.com/2603/5836352200_0147e70ce9.jpg" width="650"/></a></p>
 <p>4. Đổ nước cốt dừa vào nồi. Pha thêm nước và đường thốt nốt để có một hỗn hợp nước cốt dừa ngọt vừa ăn. Thêm 1 thìa nhỏ muối nữa, rùi khuấy đều. Cuối cùng cho lá dứa vào và đun sôi.</p>
 <p><em>Chỗ này mình cũng không có định lượng cụ thể nhưng mình dùng một hộp 250ml nước cốt dừa, và pha thêm khoảng lưng bát con nước nữa thì có 4 bát con chè :).</em></p>
 <p>5. Sau khi nước sôi khoảng 2-3 phút thì cho khoai &amp; trân châu vào. Khuấy đều. Đợi thêm tầm 2-3 phút nữa thì cho chuối vào.</p>
 <p>Thế thui xong rùi đấy ạ. Đọc công thức hơi dài nhưng làm cũng không mệt lắm đâu. Nhất là nếu nấu nhiều cho cả nhà thì rất là đáng công ý ;;) Món này có thể ăn nóng hoặc lạnh đều được.</p>
 <p>Chúc các bạn ngon miệng ;)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5828865364/" title="Bubur Cha cha by LinhTrang9185, on Flickr"><img alt="Bubur Cha cha" class="aligncenter" height="800" loading="lazy" src="http://farm3.static.flickr.com/2603/5828865364_e87cca0be4.jpg" width="570"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

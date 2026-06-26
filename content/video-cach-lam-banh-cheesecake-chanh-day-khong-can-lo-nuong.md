@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2016/03/cach-lam-banh-chanh-day.jpg"
 description: "Bài viết chia sẻ cách làm bánh cheesecake chanh leo không cần lò nướng với lớp kem phô-mai chanh leo mềm mịn, chua dịu tuyệt ngon. Công thức kèm video..."
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Mình rất thích mùi vị của quả chanh leo/ chanh dây (passion fruit), đặc biệt là hương thơm của nó, dễ chịu thanh mát mà vẫn ngọt ngào và quyến rũ. Pha nước uống giải khát mùa hè rất tuyệt mà cho vào bánh thì càng ngon hơn :)</p>
 <p>Với bánh trái hay đồ tráng miệng thì có một số combo chanh leo mà mình rất thích và hay dùng là chanh leo – xoài – sữa chua, chanh leo – xoài – dừa hoặc chanh leo – chocolate  – dừa. Món bánh hôm nay thật ra ý định ban đầu là dùng combo chanh leo xoài làm hai tầng. Nhưng cuối cùng phải thay đổi “chiến lược” do mấy quả xoài mua về đều không đủ chín và ngọt để làm bánh. Kết quả là nhà có món cheesecake chanh leo này kèm theo một âu xoài lắc :D</p>
 <p>Thật ra thì ổ bánh này rất vừa với gia đình nào ít người như nhà mình. Tầm 4 – 6 người ăn một ổ là vừa xinh, nhẹ nhàng, thơm ngon và không có cảm giác ngấy vì nhiều quá. Bánh làm siêu dễ do phần đế mình dùng bánh săm-ba (lady fingers) mua sẵn nên chỉ cần làm phần kem pho-mát và thạch jelly thôi. Bánh săm-ba rất ngon và hợp bởi vì bản thân cốt bánh săm-ba là cốt bánh ga-tô cơ bản, chỉ khác là bánh săm-ba được nướng tới khô để thành bánh quy. Cho nên khi làm mềm ra thì ăn bánh cực kì mềm xốp, không khác bạt bánh ga-tô là mấy. Còn phần kem chanh dây ngon ra sao thì không cần phải mô tả nữa rồi. Nếu bạn nào đã từng thử món <a href="/passion-fruit-delight/" target="_blank"><strong>Passion fruit delight</strong></a> thì chắc chắn nên làm cả bánh này nữa nhé :)</p>
 <p><a href=" https://www.flickr.com/photos/savourydays/25356607253/" title=" cach lam cheesecake chanh leo cach lam cheesecake chanh day by LinhTrang9185, on Flickr"><img alt=" cach lam cheesecake chanh leo cach lam cheesecake chanh day " class="aligncenter" height="427" loading="lazy" src=" https://farm2.staticflickr.com/1542/25356607253_4e7713dfa5_z.jpg " width="640"/></a></p>
-<p>—————</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>—————</p>
 <h3>Cách làm cheesecake chanh leo/ chanh dây</h3>
 <p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: khuôn đế rời đường kính 18 cm hoặc ring mousse đường kính tương tự. Giấy lót đế khuôn.</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
@@ -52,10 +48,7 @@ description: "Bài viết chia sẻ cách làm bánh cheesecake chanh leo không
 <p>Mình đã đăng video hướng dẫn cách làm bánh lên <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" style="font-weight: bold;" target="_blank">kênh YouTube của Savoury Days</a> rồi. Nếu không xem được tại blog, các bạn có thể xem trực tiếp trong <strong><a href="https://youtu.be/-DhGEKYwzpE" target="_blank">link này</a> </strong>nhé. Video có chế độ bản đẹp HD, các bạn nhớ bật 720 HD để xem video đẹp nhất nha.</p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/-DhGEKYwzpE" width="560"></iframe></div>
 <p> </p>
-<p><strong>TÓM TẮT CÁC BƯỚC THỰC HIỆN </strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong>TÓM TẮT CÁC BƯỚC THỰC HIỆN </strong></p>
 <p><strong>A. Phần cheesecake chanh leo</strong></p>
 <p>1. Ngâm Gelatin trong 30 ml nước lạnh trước 15 phút cho Gelatin nở mềm. Chưng cách thuỷ hoặc quay vi sóng cho Gelatin tan chảy, quấy đều để Gelatin hoà tan trong nước và không lắng, dính vào đáy bát. Giữ ấm</p>
 <p>2. Chanh leo bổ đôi, lấy phần ruột. Cho vào nồi, mang đi nấu trên lửa vừa. Vừa đun vừa quấy đều tay, đến khi thấy có hơi nóng bốc lên, nước chuẩn bị sôi thì bắc xuống.</p>
@@ -77,11 +70,10 @@ description: "Bài viết chia sẻ cách làm bánh cheesecake chanh leo không
 <p><strong>B. Phần thạch chanh leo </strong></p>
 <p>1. Ngâm Gelatin trong nước lạnh rồi làm Gelatin tan chảy như trong phần A.</p>
 
-
 <p>2. Cho phần chanh leo còn lại vào bát, thêm nước lọc hoặc nước cam vắt để có tổng cộng 100 ml nước (xấp xỉ 100 gram nếu cân). Cho Gelatin đun chảy vào. Thêm đường cho vừa chua ngọt (mình dùng khoảng 20 gram).</p>
 <p>Quấy đều cho đường tan hết, các nguyên liệu hoà quyện. Đổ phần nước này lên trên lớp kem pho-mát trong khuôn. Để lạnh thêm 2-4 tiếng nữa. Dùng lạnh trong ngày hoặc ngày hôm sau.</p>
 <p>3. Nếu muốn trang trí bánh thì đánh bông kem tươi với đường và vani. Hoặc nếu còn kem pho-mát cream cheese, các bạn có thể thay 50 ml kem tươi bằng 50 gram cream cheese và đánh bông thành kem cream cheese cũng rất ngon.</p>
 <p>Khi đánh bông kem tươi, lưu ý dùng kem có hàm lượng béo từ 35% trở lên. Khi thấy kem đặc, chạy máy có vân trên mặt kem thì hạ tốc độ thấp, hoặc chuyển sang đánh tay, chỉ đánh tới khi kem vừa đủ bông cứng, nhấc que đánh lên thấy có chóp là dừng lại. Không đánh quá tay kem dễ tách nước.</p>
 <p>Nếu dùng cream cheese để làm kem pho mát, nên đánh cream cheese với đường tới khi mịn mượt trước rồi mới cho kem tươi vào đánh bông (như trong phần A). Kem có cream cheese sẽ bông cứng khá nhanh nên cần theo dõi và đánh ở tốc độ thấp, tránh để kem bị tách nước.</p>
 <p>* Tốt nhất là chuẩn bị kem trước 1 – 2 giờ, sau khi đánh bông xong thì để tủ lạnh, kem sẽ cứng và bắt bông đẹp hơn. Kem của mình dùng trong video không có khoảng thời gian này nên hơi mềm và chảy khá nhanh.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

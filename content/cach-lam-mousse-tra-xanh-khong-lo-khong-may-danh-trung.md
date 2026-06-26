@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2017/05/Cách-làm-mousse-trà-xanh-banner.jpg.jpg"
 description: "Cách làm mousse trà xanh đơn giản, không cần lò hay máy đánh trứng. Công thức đi kèm video hướng dẫn chi tiết cùng các mẹo giúp làm mousse thành công"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Bếp mới cuối cùng đã gần như hoàn tất và sau hơn một tháng im lìm kênh YouTube của Savoury Days cuối cùng đã có cập nhật mới :) Mỗi lần đổi địa điểm quay là một lần mình chật vật chuyện tìm góc nào để lấy ánh sáng cho đẹp, đặt máy quay ở đâu, sắp xếp các thứ đồ vật như thế nào để lên hình cho bắt mắt… Tuy khó và mất thời gian nhưng lại vui. Vì video giống như được thổi một luồng gió mới vậy.</p>
 <p>Từ hồi quay video, mình cũng học thêm được nhiều điều mới. Mình không được đào tạo hay có kiến thức cơ bản về quay và dựng video, cũng như chụp ảnh món ăn. Mọi thứ đều là tự tìm hiểu rồi rút kinh nghiệm trong quá trình thực hành. Cho nên có rất nhiều tai nạn nghề nghiệp, do thiếu kinh  nghiệm và do tự đặt máy quay nên không kiểm soát được hết. Chẳng hạn như quay hết một quãng dài xong phát hiện ra máy dừng vì hết bộ nhớ từ đời nào, hay xem lại mới biết hoá ra đã quên bật tiếng. Chuyện làm hỏng rồi quay lại từ đầu là bình thường. Nhưng sau mỗi lần làm xong được một video mới thì lại thấy vui lắm, giống như mình vừa đạt được một “thành tựu” hay chinh phục được một thử thách vậy.</p>
 <p>Video hôm nay được quay trong bếp mới và nhà mới, hi vọng mọi người sẽ không cảm thấy quá “lạ”. Chủ đề là về một món rất dễ làm và rất thích hợp cho mùa hè, để tiếp tục <strong><a href="/video-cach-danh-trung-bang-tay-cach-tron-bot-theo-kieu-fold/">chuỗi bài “back to basics”</a>:</strong> MOUSSE TRÀ XANH. Mousse là món tráng miệng đầu tiên mà mình học làm khi bước chân vào con đường bánh trái. Lý do chính là bởi không cần lò nướng để làm nó. Và trong video này, mình cũng không dùng cả máy đánh trứng mà thay bằng phới lồng cầm tay. Dụng cụ đựng mousse thì mình dùng cốc đựng sữa chua hay pudding, có thể dễ dàng tìm mua ở các cửa hàng bán nguyên liệu làm bánh, và có thể dùng làm nhiều món khác nữa. Bấy nhiêu thứ chắc là đủ đạt chuẩn của chuỗi bài “back to basics” rùi. Và bây giờ là phần chính luôn nhé.</p>
@@ -23,10 +22,7 @@ description: "Cách làm mousse trà xanh đơn giản, không cần lò hay má
 <li><em>5 g (2 1/2 tsp) bột trà xanh </em></li>
 <li><em>200 ml kem tươi (30 – 40% béo)</em></li>
 </ul>
-<p><span style="color: #800000;"><strong>Ghi chú</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Ghi chú</strong></span></p>
 <ul>
 <li>Nên dùng lá gelatin thay vì bột gelatin vì bột gelatin hay có mùi khó chịu</li>
 <li>Để đong các nguyên liệu trong công thức, mình dùng bộ thìa đong theo đơn vị cup, tablespoon, teaspoon… (xem giải thích trong <a href="/huong-dan-chon-dung-cu-lam-banh-cho-nguoi-moi-bat-dau/"><strong>bài về dụng cụ làm bánh cơ bản này</strong></a>) Nếu không có cân điện tử thì bộ thìa này là dụng cụ đong rất tốt, cho kết quả chính xác và có giá thành không quá cao</li>
@@ -51,4 +47,4 @@ description: "Cách làm mousse trà xanh đơn giản, không cần lò hay má
 <li>Đánh bông phần kem tươi còn lại (80 ml) với 10 g đường tới khi kem bông cứng. Cho kem vào túi bắt kem rồi phun lên mặt phần mousse trà xanh. Cuối cùng rắc một ít bột trà lên trên.</li>
 <li>Bảo quản mousse trong tủ lạnh, dùng trong 2 ngày.</li>
 </ol>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

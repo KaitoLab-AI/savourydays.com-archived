@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2021/01/Nougat-chanh-dừa-banner.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Nougat chưa bao giờ hạ nhiệt mỗi dịp Tết. Công thức Nougat thì tụi mình có tận 2 phiên bản trước đó rồi. NHƯNG, với tiêu chí “không có xịn nhất chỉ có xịn hơn”, năm nay SD lại thử nghiệm ra một siêuuu phẩm nougat mới đây ạ ;) </span></p>
 <p><span style="font-weight: 400; color: #000000;">Vì sao là siêu phẩm? Ưu điểm lớn nhất là vị ngọt rất vừa phải, dù chỉ ăn nguyên phần cốt kẹo cũng vẫn ngon. Kẹo cũng không nồng mùi bơ sữa, độ mềm dẻo vừa đủ. Nói tóm lại là đã khắc phục được vấn đề rất lớn của Nougat chính là “quá ngọt” và quá nhiều “mùi kẹo” rùi. Và ở trong video này tụi mình cũng xin giới thiệu với các bạn một combo đứng riêng thì chẳng có gì đặc biệt nhưng khi đi cùng nhau sẽ thành “vô địch thiên hạ”: CHANH – DỪA ;) Combo này tụi mình đã giới thiệu trong một số lớp học Online của SD trong bánh lạnh và chocolate, các học viên thích lắm. Nay đưa vào Nougat và đăng blog để nhiều bạn sẽ biết đến hơn nữa. Kẹo mềm dẻo, vị dừa ngậy béo, hương chanh the mát đặc trưng, thêm vị bùi béo giòn giòn của hạt và “sần sật” của mứt dừa non sấy dẻo nữa, chắc mọi người cũng tưởng tượng được phần nào rồi nhỉ :D</span></p>
 <p><span style="font-weight: 400; color: #000000;">🌸 QUAN TRỌNG: </span></p>
 <p><span style="font-weight: 400; color: #000000;">(1) SD Team đang hỗ trợ giải đáp TẤT CẢ THẮC MẮC về nougat TRONG 2 NGÀY tại group Facebook <a href="https://www.facebook.com/groups/lophoclambanhsd"><strong>Lớp Học Làm Bánh Savoury Days</strong></a> (miễn phí), cả nhà có thể đặt câu hỏi hoặc đăng hình ảnh trả bài tại group nha.</span></p>
-<p><span style="color: #ff0000;">(</span><strong><span style="color: #800000;"><span style="color: #ff0000;">2) Các lớp ONLINE đang có chương trình ưu đãi giảm đến 30% học phí, với quà tặng cho học viên PREMIUM CLUB là lớp Chocolate Bon Bon siêu xịn, chi tiết các bạn xem tại site của lớp học nhé:</span> <a href="http://bit.ly/SD_Tet2021">http://bit.ly/SD_Tet2021</a></span></strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #ff0000;">(</span><strong><span style="color: #800000;"><span style="color: #ff0000;">2) Các lớp ONLINE đang có chương trình ưu đãi giảm đến 30% học phí, với quà tặng cho học viên PREMIUM CLUB là lớp Chocolate Bon Bon siêu xịn, chi tiết các bạn xem tại site của lớp học nhé:</span> <a href="http://bit.ly/SD_Tet2021">http://bit.ly/SD_Tet2021</a></span></strong></p>
 <h2>CÁCH LÀM NOUGAT CHANH DỪA ÍT NGỌT</h2>
 <p><span style="color: #800000;"><strong>Nguyên liệu (cho 1 khuôn 18x23cm, làm được 60 cái cỡ 2x4cm)</strong></span></p>
 <ul>
@@ -37,10 +33,7 @@ description: ""
 <p><span style="font-weight: 400; color: #000000;">– Bột cốt dừa: Có thể dễ dàng mua tại các cửa hàng bán đồ làm bánh hoặc shopee, nên dùng bột cốt dừa nguyên chất (không pha thêm đường hay các loại bột khác). Bột cốt dừa giúp kẹo ngọt vừa phải, không nồng mùi bơ sữa. Lượng bột cốt dừa thay đổi tùy theo loại marshmallow, càng nhiều bột cốt dừa kẹo sẽ càng cứng. Với marshmallow loại mềm (loại gói to 500 gram có chữ Trung Quốc màu đỏ) thì cần dùng khoảng 240 – 250 gram bột, còn với loại cứng (của hãng Corniche) thì chỉ cần dùng 220 gram bột là vừa. Kẹo cần có độ cứng nhất định mới có thể để ở nhiệt độ phòng, nếu kẹo mềm quá thì cần bảo quản trong tủ lạnh.</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Các loại hạt cho vào kẹo mọi người có thể đổi sang các loại hạt theo sở thích với định lượng tùy chọn. Tuy nhiên với khẩu vị của mình, để không bị át đi vị chanh dừa và không bị khô/ngấy quá thì chỉ nên dùng khoảng 220 – 240 gram hạt, hạt điều và hạnh nhân có vị nhẹ nhàng, dễ ăn nhất.</span></p>
 <p><span style="color: #000000;">– Dừa non sấy dẻo không phải nguyên liệu bắt buộc, tuy nhiên cho vào kẹo sẽ có thêm vị thanh nhẹ, khi ăn thấy “sần sật” khá thú vị. Mùa Tết này dừa non khá dễ mua, rất nên cho vào nhé ;)</span></p>
-<p><span style="font-weight: 400; color: #000000;">– Vỏ chanh có thể tăng giảm tùy theo khẩu vị. Dùng chanh xanh hay chanh vàng đều được, nhưng chanh xanh sẽ cho mùi the mát hơn.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">– Vỏ chanh có thể tăng giảm tùy theo khẩu vị. Dùng chanh xanh hay chanh vàng đều được, nhưng chanh xanh sẽ cho mùi the mát hơn.</span></p>
 <p><span style="color: #800000;"><strong>Cách làm </strong></span></p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/TxMD-infQ0s" width="560"></iframe></div>
 <p>1. <span style="color: #000000;">Chuẩn bị nguyên liệu:</span></p>
@@ -58,7 +51,6 @@ description: ""
 <p><span style="font-weight: 400; color: #000000;">* LƯU Ý: Nếu không chắc lắm về độ mềm của marshmallow, các bạn nên cho bột cốt dừa vào từ từ, đảo đều tới khi thấy kẹo cứng vừa phải thì dừng lại. Độ cứng vừa phải là Khi đảo thấy kẹo quyện được thành khối nhưng nếu để nguyên thì kẹo sẽ hơi chảy dàn ra.</span></p>
 <p><span style="font-weight: 400; color: #000000;">6. Khi bột sữa đã tan hết, tắt bếp, cho toàn bộ số hạt đảo đều. Ở bước này kẹo đã rất nặng tay, mọi người có thể trộn theo kiểu tương tự như kĩ thuật fold trong làm bánh sẽ dễ hơn. Đảo đến khi hạt trộn đều vào kẹo, khối kẹo bắt đầu róc chảo thì lấy ra tạo hình.</span></p>
 
-
 <p><span style="font-weight: 400; color: #000000;">Lưu ý: </span></p>
 <p><span style="font-weight: 400; color: #000000;">– Điều quan trọng nhất khi nấu kẹo là chỉ nấu trên lửa nhỏ, khuấy đều tay tránh làm kẹo bị cháy (Nếu thấy hiện tượng kẹo tách đường, cứng lại thì là kẹo đã cháy =&gt; không chữa được).</span></p>
 <p><span style="font-weight: 400; color: #000000;">7. Tạo hình khi kẹo còn ấm nóng:</span></p>
@@ -70,4 +62,4 @@ description: ""
 <p><span style="font-weight: 400; color: #000000;">10. Bảo quản:</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Với thời tiết mát mẻ như mùa đông miền bắc (dưới 25 độ C) thì có thể để nhiệt độ phòng được khoảng 10  ngày. Nếu trời nóng thì cần bảo quản trong tủ lạnh, được khoảng 1 – 1.5 tháng.</span></p>
 <p><span style="font-weight: 400; color: #000000;">– TUY NHIÊN, tụi mình khuyến khích việc gói kín rồi bảo quản trong ngăn mát tủ lạnh. Kẹo để trong tủ lạnh vẫn mềm dẻo, hương vị cũng ngon hơn, trong kẹo có dừa non nên bảo quản trong tủ cũng sẽ yên tâm hơn (phòng trường hợp dừa bạn sấy vẫn còn nhiều nước và dễ thiu). Nếu nougat dùng bánh quy thì việc bảo quản trong tủ lạnh cũng sẽ giúp bánh quy giòn lâu hơn.</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

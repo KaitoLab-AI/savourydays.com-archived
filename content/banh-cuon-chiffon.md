@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2013/10/banhcuonChocolate.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Bình cũ rượu mới – Khuôn cũ, công thức cũ, bánh mới :P</p>
 <p>Savoury Days đã có khá nhiều loại bánh cuộn khác nhau rồi. Nhiều nhất có lẽ là Gateau Nhật Bản. Mình cũng hay dùng công thức Gateau Nhật Bản nhất, vì mềm, xốp và dai, rất dễ cuộn, kể cả khi bánh nguội cũng không sợ nứt. Nhưng vì ăn nhiều Gateau Nhật Bản ít bột nên đôi khi lại cảm giác thèm một cái gì đó “đậm đà” và “chắc” hơn, nên lần này mình thử dùng công thức Chiffon xem sao. Kết quả nhìn chung là vừa ý, bánh mềm và ẩm, mịn, lượng bột vừa phải, đủ “chắc chắn” nhưng không quá nhiều tạo vị bứ.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/10156061175/" title="IMG_3049-002 by LinhTrang9185, on Flickr"><img alt="IMG_3049-002" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7381/10156061175_cb10b119e0_z.jpg" width="427"/></a></p>
 <p>Bánh trong hình mình dùng công thức <a href="/chiffon-phan-4-cong-thuc-chiffon-co-ban/">Chiffon cơ bản cho mọi loại khuôn</a>. Trong bài viết đã có cả hình ảnh, lẫn các lưu ý rất cụ thể về cách làm rồi, nên trong phần dưới đây mình chỉ ghi lại vắn tắt phần nguyên liệu và các bước chính thôi nhé.</p>
-<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn bánh cuộn 20x35cm</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn bánh cuộn 20x35cm</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <p><strong>A. Phần nguyên liệu thứ nhất </strong></p>
 <ul>
@@ -39,12 +35,9 @@ description: ""
 <p>2. Cho lòng đỏ trứng, 30gram đường, dầu ăn và sữa vào âu. Dùng phới lồng nhẹ nhàng đánh đều cho đường tan hết, các nguyên liệu hòa quyện.</p>
 <p>3. Rây bột mì và bột ngô vào âu (và bột cacao nếu có). Quấy đều đến khi các nguyên liệu hòa quyện.</p>
 <p>4. Trong một chiếc âu khác, dùng máy đánh lòng trắng trứng với cream of tartar và đường đến khi lòng trắng trứng bông cứng.  <i><strong>Xem thêm</strong>: <a href="/danh-bong-trung-phan-2/">kĩ thuật đánh bông lòng trắng trứng và các lưu ý khi đánh bông lòng trắng trứng</a>. </i></p>
-<p>5. Lấy 1/3 chỗ lòng trắng trứng đánh bông, cho vào âu đựng hỗn hợp lòng đỏ và bột. Dùng phới lồng quấy đều (theo một chiều) đến khi các nguyên liệu hòa quyện.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>5. Lấy 1/3 chỗ lòng trắng trứng đánh bông, cho vào âu đựng hỗn hợp lòng đỏ và bột. Dùng phới lồng quấy đều (theo một chiều) đến khi các nguyên liệu hòa quyện.</p>
 <p>6. Chia phần lòng trắng còn lại làm hai, lần lượt cho từng phần vào âu đựng hỗn hợp lòng đỏ. Dùng <a href="/pancake-va-ki-thuat-fold-trong-lam-banh/">kĩ thuật fold</a>, nhẹ nhàng trộn đều. Lưu ý trộn theo một chiều và nhẹ nhàng, không quấy đảo, làm vỡ nhiều bọt khí trong lòng trắng trứng, bánh sẽ nở kém và ruột bánh kém mịn màng.</p>
 <p>7. Đổ bột vào khuôn. Nghiêng khuôn cho bột dàn đều. Nướng ở nhiệt độ 175 độ C trong 20-25 phút, đến khi mặt bánh chín vàng, ấn nhẹ lên mặt bánh thấy lập tức phồng trở lại.</p>
 <p>8. Lấy bánh ra khỏi lò. Dùng dao mỏng rọc quanh thành khuôn. Úp bánh ra rack. Trong lúc bánh còn ấm, chuyển bánh sang một chiếc khăn sạch rồi nhẹ nhàng cuộn bánh lại (cuộn cả khăn để lấy nếp). Để bánh nguội hẳn. <em><strong>Xem thêm </strong><a href="/banh-cuon-kem-tuoi-dua-tra-xanh/">Cách cuộn bánh</a> </em></p>
 <p>9. Sau khi bánh đã nguội hoàn toàn thì mở bánh ra. Trét kem tươi đánh bông lên mặt trong của bánh rồi cuộn lại. Với một công thức bánh này, các bạn có thể dùng khoảng 70-100ml kem tươi, đánh bông với 15-20gram đường. Kem tươi nên dùng loại có hàm lượng béo từ 35% trở lên, kem sẽ đặc hơn. (<em><strong>Xem thêm:<a href="/mini-cakes-cach-danh-bong-kem-tuoi-cong-thuc-chocolate-ganache/"> </a></strong><a href="/mini-cakes-cach-danh-bong-kem-tuoi-cong-thuc-chocolate-ganache/">Cách đánh kem tươi</a>.)</em> Sau khi đánh xong, cho kem vào tủ lạnh để khoảng 30-60p trước khi trét kem sẽ hạn chế được việc kem bị chảy (do trời nóng). <em> </em></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

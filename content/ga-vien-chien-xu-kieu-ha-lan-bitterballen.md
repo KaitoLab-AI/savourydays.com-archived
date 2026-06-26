@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2011/11/BitterBallen1.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Các bạn Hà Lan vẫn hay bị chê cười trong chuyện ẩm thực, đại loại là chả có đồ ăn gì tử tế cả, suốt ngày chỉ toàn là mấy món khoai với rau nghiền nhừ (như kiểu nấu cho trẻ con 1 tuổi ý). Mình đồng ý với điều này 2/3 :) Chỉ 2/3 thôi vì 1/3 còn lại mình thấy vẫn có thể cứu vãn được bởi một số món như Bitterballen.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6357417027/" title="Chicken bitterballen on Family Kitchen Magazine (Nov 10) by LinhTrang9185, on Flickr"><img alt="Chicken bitterballen on Family Kitchen Magazine (Nov 10)" class="aligncenter" height="339" loading="lazy" src="http://farm7.static.flickr.com/6116/6357417027_4eaf21c9b0.jpg" width="500"/></a></p>
 <p>Cô giáo hướng dẫn luận án của mình (cô ở Hà Lan được 10 năm rồi), khi nghe mình nói là mình khá là thích Bitterballen và Croquette thì đã phá lên cười (mà mình đoán chắc ai cũng thế thôi). Đây là hai dạng đồ ăn nhanh cực kì phổ biến ở Hà Lan, mô tả đại loại thì là có một lớp vỏ cà mì giòn bên ngoài bọc lấy phần nhân làm từ thịt cá hoặc rau củ nghiền nhuyễn. Croquette thì có hình như chiếc nem (chả giò) nhà mình, còn Bitterballen thì thường là hình tròn. Mấy món này ở Hà Lan thì tìm đâu cũng có, từ đồ đông lạnh trong siêu thị cho đến các quầy bán đồ ăn nhẹ dọc đường. Thật ra mùa đông mình thấy ăn món này khá là hay vì nó lúc nào cũng nóng giòn, và điểm mà mình thích nhất là không biết làm sao người ta làm được phần nhân bên trong mềm ơi là mềm, không cứng như kiểu một viên toàn thịt chiên đâu, mà nó mềm như là được trộn sốt như mayonnaise ấy, ăn hay hay:)</p>
 <p>Bitterballen hay Croquette mình thấy nếu phần nhân ngon thì sẽ cực ổn, cho nên mình chọn giới thiệu món này ở chuyên mục Hương vị bốn phương của báo BGĐ số đầu tháng 11 vừa rồi. Phần nhân mình chọn làm từ thịt gà với rau củ và kem tươi, hơi giống kiểu súp bí đỏ thịt gà kem tươi lần trước. Nguyên liệu quen thuộc và dễ kiếm. Món này có thể ăn chơi (đặc biệt là dành cho các bé) hoặc dùng làm món ăn nhẹ cho các buổi party cũng được (có lẽ là còn hơi bị “lạ” ý, vì món này không phổ biến ở Việt Nam đâu nhỉ? :) )</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/6357416905/" title="Chicken bitterballen by LinhTrang9185, on Flickr"><img alt="Chicken bitterballen" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6112/6357416905_0c533cbfa6_z.jpg" width="427"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6357416905/" title="Chicken bitterballen by LinhTrang9185, on Flickr"><img alt="Chicken bitterballen" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6112/6357416905_0c533cbfa6_z.jpg" width="427"/></a></p>
 <p><span id="more-1243"></span></p>
 <p><strong>Nguyên liệu</strong></p>
 <p><strong>A. Cho phần nhân</strong></p>
@@ -49,10 +45,7 @@ description: ""
 <p>– Bí đỏ gọt vỏ, hấp chín rồi tán nhuyễn, trộn với kem tươi và pho mát Parmesan.</p>
 <p>– Ớt chuông, cà rốt, cần tây thái hạt lựu.</p>
 <p>– Hành tây lột vỏ, thái hạt lựu. Tỏi bóc vỏ, băm nhuyễn.</p>
-<p>2. Bắc chảo lên bếp, để lửa vừa. Đun chảy 1 thìa bơ trong chảo. Cho thịt ba chỉ hun khói vào xào sơ đến khi thịt hơi săn (hình 1). Tiếp theo cho hành tây, tỏi và cần tây vào xào thơm (hình 2). Cuối cùng cho ớt chuông xanh đỏ, cà rốt, đậu Hà Lan và thịt gà vào đảo đều. Nêm muối &amp; tiêu vừa ăn (hình 3).</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>2. Bắc chảo lên bếp, để lửa vừa. Đun chảy 1 thìa bơ trong chảo. Cho thịt ba chỉ hun khói vào xào sơ đến khi thịt hơi săn (hình 1). Tiếp theo cho hành tây, tỏi và cần tây vào xào thơm (hình 2). Cuối cùng cho ớt chuông xanh đỏ, cà rốt, đậu Hà Lan và thịt gà vào đảo đều. Nêm muối &amp; tiêu vừa ăn (hình 3).</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6357415781/" title="Chicken bitterballen - Method 1 by LinhTrang9185, on Flickr"><img alt="Chicken bitterballen - Method 1" class="aligncenter" height="400" loading="lazy" src="http://farm7.static.flickr.com/6099/6357415781_95e506b3ff.jpg" width="500"/></a></p>
 <p>3. Cho bí đỏ, basil cùng nước dùng vào chảo (hình 4). Đun sôi rồi hạ lửa vừa, vừa đun vừa quấy đều đến khi nước trong chảo bay hơi gần hết và hỗn hợp còn hơi sền sệt. Nêm lại gia vị cho vừa ăn.</p>
 <p><strong><em>Ghi chú: </em></strong><em>Nếu không có nước dùng xương thì có thể thay muối &amp; tiêu bằng viên gia vị gà, rồi thêm nước sôi, hoặc dùng chicken bouillon nha. </em></p>
@@ -62,4 +55,4 @@ description: ""
 <p>6. Chiên thịt ngập dầu ở lửa vừa đến khi lớp bột bên ngoài chín vàng giòn. Vớt ra bát có lót giấy thấm dầu. Dùng nóng (có thể ăn kèm với các loại nước sốt như Mayonnaise).</p>
 <p>Chúc cả nhà cuối tuần vui vẻ :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6357415891/" title="Chicken bitterballen by LinhTrang9185, on Flickr"><img alt="Chicken bitterballen" class="aligncenter" height="337" loading="lazy" src="http://farm7.static.flickr.com/6054/6357415891_5351f95aaa.jpg" width="500"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

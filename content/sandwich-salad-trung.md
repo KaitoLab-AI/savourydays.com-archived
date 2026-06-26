@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2011/05/Sandwich-salad-trung3.jpg"
 description: "Cách làm Salad trứng thơm bùi, béo ngậy vị sốt mayonnaise - là loại nhân kẹp lí tưởng cho bánh mì sandwich, công thức có hình ảnh cụ thể các bước."
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Công thức salad trứng này là mình học được từ các bạn Bỉ, thành phần chủ đạo là trứng và thịt ba chỉ hun khói, trộn với nước sốt (dressing) gồm mayonnaise, sữa chua và một vài thứ gia vị khác. Ở các hàng bánh mì tại Antwerp thì salad kiểu này cực cực phổ biến. Sandwich kẹp salad cũng là loại đồ ăn trưa quen thuộc của người Bỉ và Hà Lan. Cá nhân mình thì thấy salad kiểu này khá ngon và dễ ăn. Ngoài kẹp với bánh mì thì cũng có thể ăn riêng không vấn đề gì, giống như salad Nga chẳng hạn.  Và có thể làm nhiều để tủ lạnh ăn dần. Tóm lại là tiện lợi :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5699871433/" title="Country egg salad by LinhTrang9185, on Flickr"><img alt="Country egg salad" class="aligncenter" height="500" loading="lazy" src="http://farm4.static.flickr.com/3615/5699871433_d32b6555c0.jpg" width="344"/></a></p>
 <p>Cách làm thì nhìn công thức dài dòng cứ tưởng là phức tạp. Nhưng với salad kiểu này chỉ cần có đủ nguyên liệu là coi như có món ăn ngon, vì khâu chế biến chẳng có gì, chỉ có trộn đều &amp; trộn đều, vậy thôi ;)</p>
 <p><strong>CÔNG THỨC SALAD TRỨNG </strong></p>
-<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <p><strong><br/>
 </strong></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5699868871/" title="1 by LinhTrang9185, on Flickr"><img alt="1" class="aligncenter" height="178" loading="lazy" src="http://farm3.static.flickr.com/2094/5699868871_7dc2d54b80.jpg" width="500"/></a></p>
@@ -46,14 +42,11 @@ description: "Cách làm Salad trứng thơm bùi, béo ngậy vị sốt mayonn
 <p>Về phần rau: cà chua thái hạt lựu, hành xanh thái khoanh nhỏ, rau mùi băm nhỏ. Băm hành, tỏi (nếu không dùng bột hành, bột tỏi).</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5700441188/" title="3 by LinhTrang9185, on Flickr"><img alt="3" class="aligncenter" height="336" loading="lazy" src="http://farm6.static.flickr.com/5028/5700441188_801821fb6d.jpg" width="500"/></a></p>
 <p style="padding-left: 30px;"><em><strong>     2. Làm nước sốt:</strong></em></p>
-<p>Cho vào bát sữa chua, mayonnaise, bột hành, bột tỏi, mù tạt, mật ong, muối, hạt tiêu và quấy đều. Cuối cùng là cho hành xanh vào bát, trộn đều và nếm lại 1 lần nữa cho vừa ăn.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Cho vào bát sữa chua, mayonnaise, bột hành, bột tỏi, mù tạt, mật ong, muối, hạt tiêu và quấy đều. Cuối cùng là cho hành xanh vào bát, trộn đều và nếm lại 1 lần nữa cho vừa ăn.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5700441650/" title="2 by LinhTrang9185, on Flickr"><img alt="2" class="aligncenter" height="336" loading="lazy" src="http://farm6.static.flickr.com/5226/5700441650_d3ba9b010b.jpg" width="500"/></a></p>
 <p style="padding-left: 30px;"><em><strong> 3. Trộn salad:</strong></em></p>
 <p>Cho thịt hun khói, cà chua vào bát trứng, đảo đều. Cuối cùng cho nước sốt và ít mùi tây, trộn đều cho hỗn hợp trứng, thịt, cà chua quyện đều với nước sốt.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5699870277/" title="4 by LinhTrang9185, on Flickr"><img alt="4" class="aligncenter" height="486" loading="lazy" src="http://farm6.static.flickr.com/5225/5699870277_2e48de14a0.jpg" width="500"/></a></p>
 <p>Thế là món salad đã hoàn thành. Giờ thì lấy 2 lát bánh mỳ, phết salad lên mặt bánh, thêm ít rau tùy thích, như dưa chuột, rau diếp, cải xoong… Và măm măm thôi ;)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5700442864/" title="Country egg salad by LinhTrang9185, on Flickr"><img alt="Country egg salad" class="aligncenter" height="500" loading="lazy" src="http://farm4.static.flickr.com/3233/5700442864_0426d17122.jpg" width="308"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

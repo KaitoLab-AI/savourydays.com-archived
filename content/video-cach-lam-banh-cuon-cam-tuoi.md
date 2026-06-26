@@ -8,8 +8,6 @@ image: "/wp-content/uploads/2021/02/Cach-lam-banh-cuon-cam-banner-610x350.jpg"
 description: "Bánh cuộn cam tươi không quá khó làm, lại rất thơm ngon và bắt mắt nhờ màu vàng tươi sáng..."
 ---
 
-
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Mùa Xuân đến rồi nên trong bếp mình cũng thích làm mấy món  ăn kiểu tươi tắn sáng sủa, cảm giác rất là “fresh” và tràn đầy năng lượng ấy :) Cam vàng khá sẵn và dễ mua, thêm một tẹo biến tấu thôi nhưng món bánh cuộn quen thuộc đã khác để đổi vị cho cả nhà rùi.</p>
 <h2>CÁCH LÀM BÁNH CUỘN CAM TƯƠI</h2>
 <p><span style="color: #800000;"><strong>Nguyên liệu </strong></span></p>
@@ -32,10 +30,7 @@ description: "Bánh cuộn cam tươi không quá khó làm, lại rất thơm n
 <li><em><span style="color: #000000;">60 gram đường</span></em></li>
 <li><em><span style="color: #000000;">1 thìa canh vỏ cam bào vụn</span></em></li>
 </ul>
-<p><strong><span style="color: #000000;">* Kem tươi cuộn bánh</span></strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong><span style="color: #000000;">* Kem tươi cuộn bánh</span></strong></p>
 <ul>
 <li><em><span style="color: #000000;">250 – 300 gram kem tươi (whipping cream), để lạnh</span></em></li>
 <li><em><span style="color: #000000;">15 – 20 gram đường tùy khẩu vị</span></em></li>
@@ -50,10 +45,7 @@ description: "Bánh cuộn cam tươi không quá khó làm, lại rất thơm n
 <p><span style="color: #000000;">– Lòng trắng cần đánh bông nên không được để bị dính lòng đỏ.</span></p>
 <p><span style="color: #000000;">Để an toàn, các bạn tách riêng lòng trắng vào bát nhỏ, nếu không bị dính lòng đỏ (bị vỡ ra) thì đổ vào âu lớn và tiếp tục tách quả tiếp theo bằng cách tương tự. Như vậy sẽ tránh được trường hợp đến quả trứng cuối cùng nhỡ lòng đỏ bị vỡ dính vào lòng trắng sẽ làm hỏng cả mẻ trứng.</span></p>
 <p><span style="color: #000000;">– Nếu lòng đỏ bị dính vào không đáng kể, có thể dùng vỏ trứng để hớt phần lòng đỏ ấy đi (dùng vỏ trứng dễ hơn nhiều so với dùng thìa).</span></p>
-<p><span style="color: #000000;">4. Cho 15 gram đường và vỏ cam bào vụn vào âu lòng đỏ, dùng phới lồng đánh đến khi trứng bông nhẹ và chuyển màu vàng nhạt. Việc đánh vỏ cam với lòng đỏ sẽ làm tinh dầu tiết ra giúp bánh thơm hơn rất nhiều.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">4. Cho 15 gram đường và vỏ cam bào vụn vào âu lòng đỏ, dùng phới lồng đánh đến khi trứng bông nhẹ và chuyển màu vàng nhạt. Việc đánh vỏ cam với lòng đỏ sẽ làm tinh dầu tiết ra giúp bánh thơm hơn rất nhiều.</span></p>
 <p><span style="color: #000000;">5. Cho tiếp dầu ăn vào âu, khuấy đều. Sau đó cho nước cam vào âu lòng đỏ, khuấy đều cho hòa quyện.</span></p>
 <p><span style="color: #000000;">6. Trộn đều bột mì và bột ngô, rây bột vào âu lòng đỏ, khuấy đến khi bột vừa hòa quyện thì dừng lại.</span></p>
 <p><span style="color: #000000;">7. Cho vào âu lòng trắng nhúm muối nhỏ (khoảng ⅛ thìa cafe), đánh ở tốc độ thấp đến khi lòng trắng nổi bọt khí thì cho cream of tarta hoặc chanh/dấm vào, tiếp tục đánh đến khi bọt khí nhỏ lại, lòng trắng ở trạng thái hơi giống bọt xà phòng thì cho ½ số đường vào. Đánh tiếp thêm khoảng 30 giây rồi cho nốt chỗ đường còn lại, tăng tốc độ lên cao nhất và đánh đến bông gần cứng: lòng trắng bóng, dẻo, mịn, khi nhấc que lên có chóp nhọn hơi ngoặt xuống.</span></p>
@@ -67,4 +59,4 @@ description: "Bánh cuộn cam tươi không quá khó làm, lại rất thơm n
 <p><span style="color: #000000;">12. Cuộn bánh</span></p>
 <p><span style="color: #000000;">– Khi phần bạt bánh đã nguội hoàn toàn, cắt bỏ phần rìa vì phần này thường bị khô, sẽ làm gãy bánh khi cuộn. Đặt bánh lên một tờ giấy nến to hơn.</span></p>
 <p><span style="color: #000000;">– Cho kem lên bánh và nhẹ nhàng cuộn lại giống như hướng dẫn trong video. Bọc kín cuộn bánh và để vào tủ lạnh ít nhất 3 giờ cho bánh định hình đẹp hơn.</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

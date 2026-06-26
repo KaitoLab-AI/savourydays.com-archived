@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2012/02/BanhQuyTraXanh.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Đợt vừa rồi mình về nhà mua được ít bột trà xanh, cho nên quay lại một cái là tranh thủ thử tất cả những gì có thể thử với trà xanh :P Hôm vừa rồi có Ga-tô trà xanh, hôm nay thêm bánh quy trà xanh nữa. Có nhiều cách và nhiều kiểu làm bánh quy, mình chọn công thức và cách làm cho ra sản phẩm kiểu cứng giòn &amp; giòn bùi chứ không giòn xốp. Và bởi vì trong suy nghĩ của mình trà xanh luôn là hương vị thanh nhã, mát mẻ, đi bên cạnh bơ thì có lẽ không hợp bằng đi với kem tươi, nên mình dùng kem tươi thay cho bơ. Bánh làm ra mới đầu có cảm giác hơi “là lạ”, có lẽ là bởi vì mình không có nhiều dịp được nếm vị của trà xanh, nhưng càng ăn càng thấy thích cái vị bùi bùi, giòn nhưng không bị bở, ngòn ngọt nhưng vẫn có pha chút nhân nhẩn đắng từ vị trà, và mùi thơm rất nhẹ, rất mát từ kem tươi với trà xanh. Một công thức làm được cả một hộp đầy, không đếm được cụ thể là bao nhiêu, nhưng mình ăn cả tuần vẫn còn, cho nên nhìn chung là rất bõ công :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6923272683/" title="IMG_2178-1 by LinhTrang9185, on Flickr"><img alt="IMG_2178-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7069/6923272683_210a3b588e_z.jpg" width="426"/></a></p>
 <p><strong>Nguyên liệu</strong></p>
@@ -24,10 +23,7 @@ description: ""
 </ul>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6777158862/" title="IMG_2153-1 by LinhTrang9185, on Flickr"><img alt="IMG_2153-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7179/6777158862_c83e24aa15_z.jpg" width="427"/></a><br/>
 <span id="more-1817"></span><strong>Cách làm</strong></p>
-<p>1. Rây bột mỳ, bột trà xanh, muối nở và muối vào âu. Dùng phới lồng đánh trứng cầm tay trộn đều (hình 1-3)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>1. Rây bột mỳ, bột trà xanh, muối nở và muối vào âu. Dùng phới lồng đánh trứng cầm tay trộn đều (hình 1-3)</p>
 <p>2. Cho trứng &amp; vanilla vào bát, dùng nĩa hoặc đũa đánh nhẹ cho trứng &amp; vanilla hòa quyện.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6777159190/" title="2012-02-11 by LinhTrang9185, on Flickr"><img alt="2012-02-11" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7207/6777159190_d9b8b714a0.jpg" width="500"/></a></p>
 <p>3. Cho kem tươi lạnh vào âu trộn. Dùng máy đánh trứng đánh kem tươi ở tốc độ chậm, khi kem bắt đầu đặc lại thì tăng dần tốc độ, đánh đến khi kem bông đứng, nghiêng tô đánh không thấy kem chảy là được (hình 4-6).</p>
@@ -37,11 +33,8 @@ description: ""
 <p>5. Chia hỗn hợp bột ở (1) thành 2-3 phần, lần lượt cho vào âu kem trứng. Dùng phới trộn bột trộn đều sau mỗi lần thêm bột. Hỗn hợp cuối cùng sẽ là một khối bột mịn dẻo và hơi dính (hình 9)</p>
 <p>6. Chuẩn bị hai miếng giấy nến/ giấy nướng bánh. Chia bột làm 2 phần và đổ lên giấy nến, gấp miếng giấy lại và dùng tay nén bột thành miếng dẹt (nén bột qua miếng giấy, không trực tiếp đụng tay vào bột) (hình 10). Bọc kín miếng bột bằng giấy rồi để tủ lạnh từ 1-2 tiếng, <strong>đến khi bột đủ cứng để cán. </strong>(hình 12)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6923272857/" title="2012-02-111 by LinhTrang9185, on Flickr"><img alt="2012-02-111" class="aligncenter" height="313" loading="lazy" src="http://farm8.staticflickr.com/7198/6923272857_87f9cb56b7.jpg" width="500"/></a></p>
-<p>7. Sau khi miếng bột đã đủ cứng thì lấy ra, cán mỏng, khoảng 2-3mm (không nên dày hơn vì dễ làm bánh sau khi nướng có cảm giác nhiều bột và cứng), dùng cookie cutter cắt thành các miếng bánh nhỏ. Bóc bỏ phần bột thừa và chuyển các miếng bột bánh lên khay nướng. Bột hơi dính một chút nên mình đặt thêm 1 miếng giấy nến lên trên, và cán lên trên lớp giấy lót này (hình 13-15). Thêm nữa là m<em>ình cán trực tiếp trên giấy nướng bánh, sau khi cắt thành hình bánh quy xong thì chỉ việc bóc bỏ phần bột thừa ra rồi chuyển cả miếng giấy lên khay nướng, làm cách này thì không mất công chuyển từng miếng bánh và cũng ít lo bánh bị biến dạng do chuyển qua lại hơn. </em></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>7. Sau khi miếng bột đã đủ cứng thì lấy ra, cán mỏng, khoảng 2-3mm (không nên dày hơn vì dễ làm bánh sau khi nướng có cảm giác nhiều bột và cứng), dùng cookie cutter cắt thành các miếng bánh nhỏ. Bóc bỏ phần bột thừa và chuyển các miếng bột bánh lên khay nướng. Bột hơi dính một chút nên mình đặt thêm 1 miếng giấy nến lên trên, và cán lên trên lớp giấy lót này (hình 13-15). Thêm nữa là m<em>ình cán trực tiếp trên giấy nướng bánh, sau khi cắt thành hình bánh quy xong thì chỉ việc bóc bỏ phần bột thừa ra rồi chuyển cả miếng giấy lên khay nướng, làm cách này thì không mất công chuyển từng miếng bánh và cũng ít lo bánh bị biến dạng do chuyển qua lại hơn. </em></p>
 <p>8. Vặn lò nướng 160 độ C –<em> trước khi nướng bánh khoảng 10-15 phút.</em> Nướng bánhtrong 15-20 phút. Với bánh quy trà xanh, không nên nướng ở nhiệt độ quá cao và khi nướng cũng cần canh thời gian để bánh chín vừa phải, nướng lâu quá sẽ dễ làm bánh bị cháy xém cạnh, mất màu xanh của trà. Mình nướng khoảng 17 phút, rồi sau khi nướng xong hết thì xếp tất cả bánh lên khay. Sấy ở 100 độ C thêm 7-10 phút nữa. Cách này sẽ giúp bánh giòn được lâu.</p>
 <p>Bảo quản trong hộp hoặc túi kín – được rất lâu ;) – nếu bánh bị ỉu các bạn có thể cho vào lò sấy lại ở 100 độ trong khoảng 5-10 phút.</p>
 <p>Chúc cả nhà thành công :)</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

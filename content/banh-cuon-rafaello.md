@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/12/RafaelloRoll1.jpg"
 description: "yule log, khúc cây giáng sinh, bánh cuộn, gateau, kem tươi, raffaello"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết</span>.</strong></p>
 <p>——————————————</p>
 <p>Thêm một “khúc cây” nữa cho Giáng sinh nhé, nhưng mà khúc cây lần này ngược hẳn với <a href="/banh-khuc-cay-giang-sinh/">khúc củi lần trước</a>, từ trong ra ngoài trắng tinh, rất mềm mịn và thơm phức vị dừa… :)</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/8287164272/" title="Raffaello Roll Cake by LinhTrang9185, on Flickr"><img alt="Raffaello Roll Cake" class="aligncenter" height="335" loading="lazy" src="http://farm9.staticflickr.com/8341/8287164272_9b0c8f3350.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8287164272/" title="Raffaello Roll Cake by LinhTrang9185, on Flickr"><img alt="Raffaello Roll Cake" class="aligncenter" height="335" loading="lazy" src="http://farm9.staticflickr.com/8341/8287164272_9b0c8f3350.jpg" width="500"/></a></p>
 <p>Ý tưởng cho khúc cây lần này xuất phát từ Raffaello cake, hay đúng hơn là kẹo dừa Raffaello rất nổi tiếng với lớp vỏ xốp giòn tan bọc lấy nhân hạt bùi thơm và kem chocolate trắng tuyệt hảo. Cốt bánh cuộn thì mình vẫn dùng cốt Gateau Nhật Bản, chỉ thay đổi định lượng nguyên liệu một chút. Vì thời gian vừa rồi mình có thử một vài công thức bánh cuộn theo kiểu Chiffon nhưng thật sự là không có công thức nào đủ “mạnh” để “oánh bật” Gateau Nhật Bản về độ mềm, mịn, xốp, nhẹ và nhất là dễ cuộn của nó. Còn phần kem bánh mình dựa theo công thức của chị <a href="http://giadinhnepteanfa.wordpress.com/2012/05/25/baking-challenge-32-raffaello-cake/">Giadinhnepteanfa</a>, dùng làm đề bài cho Baking challenge, tuy không được 100% như kem trong kẹo Rafaello nhưng chắc cũng phải một 8 một 10 ;)</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <p><strong>A. Bạt bánh cuộn </strong></p>
@@ -59,10 +55,7 @@ description: "yule log, khúc cây giáng sinh, bánh cuộn, gateau, kem tươi
 <p><span id="more-3487"></span><strong>A. Bạt bánh cuộn</strong></p>
 <p><span style="color: #800000;">* <em><strong>Mình copy lại công thức gateau Nhật Bản để các bạn tiện theo dõi, ct gốc là khuôn tròn nên ảnh minh họa có đôi chỗ hơi khác nhé.</strong></em></span></p>
 <p>1. Vặn lò 170 độ C – hai lửa. Lót một miếng giấy nướng bánh hoặc giấy trắng xuống đáy khuôn, <strong>không</strong> chống dính thành khuôn.</p>
-<p>2. Rây bột mỳ và bột ngô vào bát, dùng phới lồng đánh trứng cầm tay trộn đều.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>2. Rây bột mỳ và bột ngô vào bát, dùng phới lồng đánh trứng cầm tay trộn đều.</p>
 <p>3. Đun sôi một chút nước trong nồi. Cho bơ, sữa tươi và dầu ăn vào âu. Đợi nước sôi thì đặt âu lên miệng nồi (<strong>lưu ý: đáy âu không chạm nước)</strong>, dùng thìa hoặc phới lồng đánh trứng quấy đều đến khi bơ tan, hỗn hợp hòa quyện và ấm nóng (khoảng 40-45 độ C, <strong>không nóng hơn</strong>) (hình 1-2)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6890518213/" title="2012-02-155 by LinhTrang9185, on Flickr"><img alt="2012-02-155" class="aligncenter" height="354" loading="lazy" src="http://farm8.staticflickr.com/7197/6890518213_58605c38a6.jpg" width="500"/></a></p>
 <p>4. Bắc nồi ra khỏi bếp, rây bột vào âu, nhanh tay trộn đều. Cho lòng đỏ trứng và vanilla vào, trộn đều để có một hỗn hợp mịn và mượt (hình 3-6). * <strong>Lưu ý quan trọng</strong>: <span style="color: #ff0000;">nếu hỗn hợp bơ sữa quá nóng, các bạn hãy để cho hỗn hợp nguội bớt mới rây bột, hoặc có thể trộn trứng trước rồi mới trộn bột, tránh để bột bị vón cục.</span></p>
@@ -78,7 +71,6 @@ description: "yule log, khúc cây giáng sinh, bánh cuộn, gateau, kem tươi
 <p><em>– Khi trộn các hỗn hợp nhẹ &amp; nhiều bọt khí như lòng trắng trứng đánh bông, luôn trộn theo cách đảo &amp; xúc từ dưới lên, để bột từ dưới phủ lên trên lòng trắng, không quấy vì dễ làm xẹp hoặc vỡ quá nhiều bọt khí, bánh sẽ nở kém.</em></p>
 <p><em>– Trộn nhẹ tay, dứt khoát và <strong>theo một chiều</strong> – không đảo xuôi ngược lung tung nhé.</em></p>
 <p>8. Đổ bột vào khuôn.  Dùng spatula dàn phẳng mặt bột. Vỗ nhẹ hoặc gõ nhẹ khuôn xuống bàn cho các bọt khí to vỡ bớt.</p>
-
 
 <p>9. Nướng ở 170 độ C (hai lửa, cả trên &amp; dưới) trong khoảng 25-30 phút hoặc đến khi bánh chín vàng mặt, ấn nhẹ lên mặt bánh thấy lập tức phồng trở lại, cắm que thử vào giữa bánh rút lên thấy que sạch và khô.</p>
 <p>10. Bánh chín lấy ra khỏi lò và lập tức dùng dao mỏng rạch quanh thành trong của khuôn, đặt rack lên mặt khuôn rồi úp ngược để lấy bánh ra. Bóc bỏ lớp giấy lót ở đế bánh.</p>
@@ -98,4 +90,4 @@ description: "yule log, khúc cây giáng sinh, bánh cuộn, gateau, kem tươi
 <p>Sau khi bánh nguội, các bạn mở bánh ra, trét phần kem Chocolate lên mặt bánh, rắc dừa sấy hoặc dừa tươi đều lên kem rồi cuộn lại. Trang trí bánh bằng kem tươi và hoa quả tùy thích. Bánh trong hình mình trang trí bằng kem tươi đánh bông (<em>phần kem này <strong>không</strong> có trong công thức</em>), dùng đui 1M Wilton (sò mở 6 cánh). Phần viền bánh cũng dùng đui 1M, cầm túi gần như song song với thân bánh, bắt kem từng chút một, kem sẽ ra viền như trong hình.</p>
 <p>Bánh có thể để tủ lạnh, dùng trong khoảng 2-3 ngày.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8287164028/" title="Raffaello Roll Cake by LinhTrang9185, on Flickr"><img alt="Raffaello Roll Cake" class="aligncenter" height="352" loading="lazy" src="http://farm9.staticflickr.com/8069/8287164028_d5bb81426c.jpg" width="500"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

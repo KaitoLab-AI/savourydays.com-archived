@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/10/Paris-610x350.jpg"
 description: "Du lịch châu Âu, du lịch paris, ẩm thực châu Âu, ẩm thực pháp, bánh mì pháp, macaron, paris"
 ---
 
-
 <p>Đã lâu quá rồi chẳng có thêm bài viết mới nào về du lịch, mặc dù từ trước khi đi nghỉ hè năm nay mình đã tự nhủ là đi về sẽ cố gắng ghi lại vài dòng. Nhưng mà có lẽ nấu ăn nhiều quá làm văn chương bị cùn đi mất rồi. Vận đến cả 10 tầng công lực cũng chả “nặn” ra nổi một câu tử tế, trong đầu lúc nào cũng chỉ thấy ăn và ăn và ăn :”&gt; Thôi thì đời đã xô đẩy ta đến nông nỗi này, ta đành theo đời vậy, chẳng viết được về đi chơi thì viết về chuyện ăn trên đường đi, dù sao cũng vẫn thuộc phạm trù “Du lịch” ^.^</p>
 <p>Điểm đến đầu tiên của mình trong mùa hè vừa rồi là Paris. Paris thơ mộng – Paris hoa lệ – Paris của các anh chàng lãng mạn đẹp trai cùng các cô nàng mặt hoa da phấn – Paris của ánh sáng, của thời trang, của nước hoa, của sông Seine xinh đẹp và của các chuyện tình lãng mạn hơn cả Romeo và Juliet.</p>
 <p>Sách du lịch nào cũng bảo thế!!!</p>
 <p><a href="/wp-content/uploads/2012/10/paris_gl_20jul10_rex_b_320x480.jpg"><img alt="" class="aligncenter size-full wp-image-3262" height="480" loading="lazy" sizes="(max-width: 320px) 100vw, 320px" src="/wp-content/uploads/2012/10/paris_gl_20jul10_rex_b_320x480.jpg" title="paris_gl_20jul10_rex_b_320x480" width="320"/></a></p>
-<p style="text-align: center;"><em>Ảnh minh họa – nguồn: http://www.glamourmagazine.co.uk/love-sex-relationships/living-travel/style/2010/07/paris-romantic-top-five</em></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p style="text-align: center;"><em>Ảnh minh họa – nguồn: http://www.glamourmagazine.co.uk/love-sex-relationships/living-travel/style/2010/07/paris-romantic-top-five</em></p>
 <p>Nhưng mà thật sự là tuy mình đã đến Paris tới lần thứ 3 nhưng vẫn không cảm thấy được bất cứ điều nào trong số những điều kể trên. Cũng có thể là do thời gian mình lưu lại tại Paris chưa đủ để khám phá hết vẻ đẹp của nó, nhưng ấn tượng của mình về Paris chỉ có: lộn xộn, nhốn nháo, đề phòng mất cắp tại các bến tàu xe, người nhập cư quá nhiều, bẩn và nhiều rác, đa số các điểm thăm quan nổi tiếng đều đã được thương mại hóa đến mức tối đa nên cũng mất đi ít nhiều sự hấp dẫn tự nhiên của nó…  Nói chung là quá nhiều ấn tượng tiêu cực, trừ một thứ là Paris rất thơm và ngọt ngào. À, không phải mùi thơm từ nước hoa đâu nhé. Mà là mùi thơm của rất nhiều thứ đồ ăn đủ loại: của bánh mì mới ra lò, của gà quay vàng ruộm, bóng lưỡng, của thịt xá xíu và cơm sườn từ quận 13 và đặc biệt hơn cả là mùi thơm hạnh nhân của loại bánh mà có lẽ không ở nơi đâu ngon bằng tại Paris – Macaron.</p>
 <p>Mình là đứa theo chủ nghĩa “cơm là tất cả”. Cho nên dù đã sống ở bên này 3 năm, số lần mình ăn bánh mì trong một năm chắc đếm được trên đầu ngón tay (còn lại là nấu cơm, ăn sáng cũng bằng cơm luôn). Tuy không ăn bánh mì, nhưng mình đặc biệt thích mùi bánh mì nướng. Siêu thị đồ ăn ở bên này bao giờ cũng có một quầy riêng dành cho bánh mì và các loại bánh ngọt. Những ngày mùa đông trời lạnh mà vào đây thì thôi rồi là mê, và thôi rồi là đói (nếu lỡ đi vào đúng giờ cơm). Cái mùi ấm sực và thơm phức của bột mì chín tới ấy quả thực là có sức mạnh vô cùng to lớn, không chỉ khiến cái bụng sôi ùng ục mà còn khiến cả cái đầu liên tưởng đến đủ thứ, từ vị giòn rụm của vỏ bánh cho đến ruột bánh trắng mềm mà nếu phết chút bơ ngậy, rắc ít muối và tiêu lên thì ngay cả người chẳng bao giờ thích ăn bánh mì như mình chắc cũng không kiềm lòng nổi. Nhưng đó là mùi bánh nướng trong siêu thị ở Hà Lan và Bỉ thôi, so với mùi bánh nướng từ cửa hàng bánh mì ở Paris thì vẫn còn thua xa. Mình nhớ lần đầu tiên đến Paris, ở trọ trong một khách sạn ở khá xa trung tâm, nên hầu như ngày nào cũng phải đi từ rất sớm, nếu không muốn mất thời gian xếp hàng quá lâu tại các điểm du lịch. Khách sạn giá rẻ nên không có bữa sáng đi kèm, bù lại thì ở ngay cạnh khách sạn là một cửa hàng bánh mì nhỏ. Vì đi sớm nên mấy hôm liền mình đều có cơ hội được nếm thử bánh mới lấy khỏi lò của cửa hàng: Baguette giòn tan, mới nếm thử thấy hơi có vị mằn mặn của muối, nhưng ăn nhẩn nha lại thấy vị ngọt dịu của lúa mì trên đầu lưỡi. Bánh mì lúa mạch tròn trên mặt có rắc đủ loại hạt như hạt hồ đào, hạt thông, poppy seed, hơi khó ăn một chút nhưng nhiều chất dinh dưỡng. Bánh bơ vàng ruộm với nhân nho khô, thơm muì Rum nồng nàn. Và tất nhiên là không thể bỏ qua Croissant. Nhưng riêng về chiếc bánh sừng bò nổi tiếng này mình sẽ nói thêm ở đoạn sau nhé.</p>
 <p style="text-align: center;"><em>Một cửa hàng bánh mì tại Paris </em></p>
@@ -26,10 +22,7 @@ description: "Du lịch châu Âu, du lịch paris, ẩm thực châu Âu, ẩm 
 <p style="text-align: center;"><em>Hôm ấy vội quá nên chẳng có cái ảnh nào, nhưng món gà mà mình ăn cũng hấp dẫn y như thế này này ;)</em></p>
 <p><a href="/wp-content/uploads/2012/10/v-tamb-food395.2.jpg"><img alt="" class="aligncenter size-full wp-image-3255" height="275" loading="lazy" sizes="(max-width: 395px) 100vw, 395px" src="/wp-content/uploads/2012/10/v-tamb-food395.2.jpg" title="v-tamb-food395.2" width="395"/></a></p>
 <p style="text-align: center;"><em>Ảnh minh họa – Nguồn: http://travel.nytimes.com/travel/guides/europe/italy/bologna/34610/a-f-tamburini/shopping-detail.html</em></p>
-<p>Nói về mùi thơm quyến rũ chết người từ thịt nướng, chắc không thể nào bỏ qua Quận 13. Quận 13 Paris là thiên đường của những tâm hồn ăn uống như mình bởi vì ở đây có quá nhiều quán ăn ngon – và bán đồ Việt xịn, chứ không phải kiểu Việt lai Tàu, lai Thái hay lai Bỉ như mấy quán ở Bỉ hay Đức mà mình đã thử qua. Lần đến Paris mùa hè vừa rồi mình ăn ở đây khá nhiều vì mẹ mình không ăn được đồ Tây, nên gần như ngày nào mấy mẹ con cũng ăn ít nhất một bữa đồ Việt Nam ở đây. Cửa hàng của người Tàu, thực đơn thì toàn tiếng Pháp, nên lần đầu tiên vào cửa hàng mình chẳng dám gọi món gì ngoài cơm sườn, cơm gà và cơm bò – vì chỉ đoán được mỗi mấy từ này :D Nhưng cơm ở đây làm khá ngon, đặc biệt là cơm sườn, thịt được nướng vừa chín tới, thơm phức mùi hành tỏi và ngũ vị hương, ăn cùng với rau trộn chua ngọt và ít bì trộn thính thơm phức, hợp vị nên mẹ mình ăn cứ tấm tắc khen mãi.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Nói về mùi thơm quyến rũ chết người từ thịt nướng, chắc không thể nào bỏ qua Quận 13. Quận 13 Paris là thiên đường của những tâm hồn ăn uống như mình bởi vì ở đây có quá nhiều quán ăn ngon – và bán đồ Việt xịn, chứ không phải kiểu Việt lai Tàu, lai Thái hay lai Bỉ như mấy quán ở Bỉ hay Đức mà mình đã thử qua. Lần đến Paris mùa hè vừa rồi mình ăn ở đây khá nhiều vì mẹ mình không ăn được đồ Tây, nên gần như ngày nào mấy mẹ con cũng ăn ít nhất một bữa đồ Việt Nam ở đây. Cửa hàng của người Tàu, thực đơn thì toàn tiếng Pháp, nên lần đầu tiên vào cửa hàng mình chẳng dám gọi món gì ngoài cơm sườn, cơm gà và cơm bò – vì chỉ đoán được mỗi mấy từ này :D Nhưng cơm ở đây làm khá ngon, đặc biệt là cơm sườn, thịt được nướng vừa chín tới, thơm phức mùi hành tỏi và ngũ vị hương, ăn cùng với rau trộn chua ngọt và ít bì trộn thính thơm phức, hợp vị nên mẹ mình ăn cứ tấm tắc khen mãi.</p>
 <p style="text-align: center;"><em>Cơm tấm sườn bì – với mình thì phần bì ngon hơn phần sườn :”&gt;</em></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8050097163/" title="IMG_5990 by LinhTrang9185, on Flickr"><img alt="IMG_5990" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8319/8050097163_403c126e79.jpg" width="500"/></a></p>
 <p style="text-align: center;"><em>và cơm bò lúc lắc </em></p>
@@ -46,7 +39,6 @@ description: "Du lịch châu Âu, du lịch paris, ẩm thực châu Âu, ẩm 
 <p>——-</p>
 <p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p>
 
-
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ email: <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi hành động cố tình vi phạm sẽ chịu xử lí theo quy định của pháp luật.</span></strong></p>
 <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
@@ -55,9 +47,6 @@ description: "Du lịch châu Âu, du lịch paris, ẩm thực châu Âu, ẩm 
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

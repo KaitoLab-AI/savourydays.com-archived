@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2018/12/Cách-làm-lẩu-riêu-cua-bắp-bò-banner.
 description: "Cách làm lẩu riêu cua bắp bò tại nhà, không hề khó tẹo nào mà lại ngon và đảm bảo vệ sinh nữa. Công thức ở dưới đây có kèm theo hình ảnh minh hoạ từng bước"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Với món ăn này, mình sẽ không viết giới thiệu dài đâu, bởi vì chỉ cần nghĩ tới nó thôi đã thấy thèm chảy nước miếng rồi. Thế mà còn phải ngồi tả lại nồi nước lẩu ngon ra sao thì… tèo mất. Miền Bắc đang trải qua đợt lạnh nhất từ đầu mùa đông tới giờ. Nhưng lại đúng vào dịp nghỉ lễ cho nên nấu nướng, tụ tập ăn uống hình như lại thích hơn :) Cuối năm, SD team cũng chuẩn bị một nồi lẩu để liên hoan. Và trong số vô vàn món lẩu ngon ngoài kia, lẩu riêu cua bắp bò dường như vẫn chiếm được cảm tình của nhiều thành viên hơn cả. Cách làm chi tiết như sau nh<span style="font-weight: 400;">é:</span></span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7786" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Cách-làm-lẩu-riêu-cua-bắp-bò-7-1024x683.jpg" width="1024"/></p>
 <h2><span style="font-weight: 400; color: #000000;">CÁCH LÀM LẨU RIÊU CUA BẮP BÒ SƯỜN SỤN  </span></h2>
@@ -41,10 +40,7 @@ description: "Cách làm lẩu riêu cua bắp bò tại nhà, không hề khó 
 <li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">50 gram hành lá</span></em></li>
 <li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">50 gram giá đỗ</span></em></li>
 </ul>
-<p><strong><span style="color: #000000;">Gia vị chấm:</span></strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong><span style="color: #000000;">Gia vị chấm:</span></strong></p>
 <ul>
 <li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">50 gram gia vị/ bột nêm </span></em></li>
 <li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">10 gram hạt tiêu</span></em></li>
@@ -67,10 +63,7 @@ description: "Cách làm lẩu riêu cua bắp bò tại nhà, không hề khó 
 <li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Mẻ lọc kỹ qua rây</span></li>
 </ul>
 <p><span style="font-weight: 400; color: #000000;">3. Đậu phụ rửa sạch, thấm khô nước, cắt thành miếng vuông cỡ 1,5cm. Rán ngập dầu cho đậu vàng giòn các mặt.</span></p>
-<p><img alt="" class="aligncenter size-large wp-image-7788" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Laurieubapbo3-1024x683.jpg" width="1024"/></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><img alt="" class="aligncenter size-large wp-image-7788" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Laurieubapbo3-1024x683.jpg" width="1024"/></p>
 <p><span style="font-weight: 400; color: #000000;">4. Lọc cua thật kỹ qua rây, nêm vào nồi cua 1 thìa cafe muối. </span></p>
 <p><span style="font-weight: 400; color: #000000;">* Xem cách lọc cua ở bài viết <a href="/bun-rieu-oc/"><strong>cách làm bún riêu ốc này.</strong></a></span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7789" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Laurieubapbo4-1024x683.jpg" width="1024"/></p>
@@ -87,9 +80,8 @@ description: "Cách làm lẩu riêu cua bắp bò tại nhà, không hề khó 
 <p><img alt="" class="aligncenter size-large wp-image-7793" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Cách-làm-lẩu-riêu-cua-bắp-bò-1-1024x683.jpg" width="1024"/></p>
 <p><img alt="" class="aligncenter size-large wp-image-7794" height="684" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Cách-làm-lẩu-riêu-cua-bắp-bò-2-1024x684.jpg" width="1024"/></p>
 
-
 <p><img alt="" class="aligncenter size-large wp-image-7795" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Cách-làm-lẩu-riêu-cua-bắp-bò-3-1024x683.jpg" width="1024"/></p>
 <p><img alt="" class="aligncenter size-large wp-image-7796" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Cách-làm-lẩu-riêu-cua-bắp-bò-4-1024x683.jpg" width="1024"/></p>
 <p><img alt="" class="aligncenter size-large wp-image-7797" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Cách-làm-lẩu-riêu-cua-bắp-bò-5-1024x683.jpg" width="1024"/></p>
 <p><img alt="" class="aligncenter size-large wp-image-7798" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Cách-làm-lẩu-riêu-cua-bắp-bò-6-1024x683.jpg" width="1024"/></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

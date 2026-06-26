@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2021/05/IMG_0070.jpg"
 description: "Castella phomai là công thức HOÀN TOÀN MỚI của SD, mình mới thử nghiệm ra gần đây thôi và cực kỳ cực kỳ cực kỳ ưng ý. Về độ núng nính rung rinh, mềm tan trong miệng thì không hề thua kém Japanese Cotton Cheesecake, nhưng JCC thì sẽ ngậy béo kiểu thanh nhẹ hơn, trong khi castella Đài Loan vị phomai lại đậm đà hơn, túm lại là cả 2 bánh đều siêu siêu ngon"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="font-weight: 400; color: #000000;">2019 với làn sóng “castella Đài Loan” đã đổ bộ rồi đây ạ 😁😁</span></p>
 <p><span style="font-weight: 400; color: #000000;">Mình nhớ là mọi chuyện bắt đầu từ khi mấy clip quay trong tiệm bánh Đài Loan nổi lên. Những chiếc bánh bông lan siêu to, rung rinh núng nính theo từng đường dao sắc lẹm của thợ bánh khi ấy đã làm điên đảo cộng đồng homebaker Việt năm ấy. </span></p>
 <p><span style="font-weight: 400; color: #000000;">Castella phomai là công thức HOÀN TOÀN MỚI của SD, mình mới thử nghiệm ra gần đây thôi và cực kỳ cực kỳ cực kỳ ưng ý. Về độ núng nính rung rinh, mềm tan trong miệng thì không hề thua kém Japanese Cotton Cheesecake, nhưng JCC thì sẽ ngậy béo kiểu thanh nhẹ hơn, trong khi castella Đài Loan vị phomai lại đậm đà hơn, túm lại là cả 2 bánh đều siêu siêu ngon, nhất định KHÔNG THỂ BỎ QUA nhé! </span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8776" height="686" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2021/05/2019-Poster-banh-pho-mai-tuoi-1024x686.jpg" width="1024"/></p>
 <h2><span style="color: #000000;">CÁCH LÀM BÁNH PHOMAI TƯƠI ĐÀI LOAN – CHEESE CASTELLA</span></h2>
-<p><span style="color: #800000;"><strong>Nguyên liệu (cho khuôn vuông đường kính 16cm)</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu (cho khuôn vuông đường kính 16cm)</strong></span></p>
 <ul>
 <li><em><span style="font-weight: 400; color: #000000;">4 quả trứng gà (60 gram/quả cả vỏ)</span></em></li>
 <li><em><span style="font-weight: 400; color: #000000;">50 gram bột làm bánh ngọt (bột mì số 8 – cake flour)</span></em></li>
@@ -39,10 +35,7 @@ description: "Castella phomai là công thức HOÀN TOÀN MỚI của SD, mình
 <p><span style="font-weight: 400; color: #000000;">– Lót giấy nến chống dính vào cả đáy khuôn và thành khuôn. Nếu khuôn của bạn là loại khuôn gia công, ở phần mấu nối các góc của khuôn thường sẽ bị hở, do vậy cần dùng giấy bạc bọc kĩ 2 lớp ở ngoài khuôn để khi nướng cách thủy nước không lọt vào trong.</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Đun 1 ấm nước sôi để nướng cách thủy. </span></p>
 <p><span style="font-weight: 400; color: #000000;">2. Tách riêng lòng đỏ và lòng trắng trứng. Lòng trắng sau này sẽ cần đánh bông nên lòng trắng và âu đựng phải sạch, kHÔNG được dính lòng đỏ hay chất béo nào khác. </span><span style="color: #000000;">Rây mịn bột.</span></p>
-<p><span style="font-weight: 400; color: #000000;">3. Cream cheese để mềm, dùng phới dẹt miết cho cream cheese nhuyễn mượt. Cho sữa tươi, phomai lát, phomai bột vào âu cream cheese, đặt âu lên 1 nồi nước sôi lăn tăn, cách thủy trên lửa nhỏ – vừa. Dùng phới lồng khuấy đều đến khi phomai tan hết, hỗn hợp mịn mượt hoàn toàn thì nhấc âu xuống.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">3. Cream cheese để mềm, dùng phới dẹt miết cho cream cheese nhuyễn mượt. Cho sữa tươi, phomai lát, phomai bột vào âu cream cheese, đặt âu lên 1 nồi nước sôi lăn tăn, cách thủy trên lửa nhỏ – vừa. Dùng phới lồng khuấy đều đến khi phomai tan hết, hỗn hợp mịn mượt hoàn toàn thì nhấc âu xuống.</span></p>
 <p><span style="font-weight: 400; color: #000000;">Lưu ý: </span></p>
 <p><span style="font-weight: 400; color: #000000;">– Ở bước này cần làm cho phomai tan, hỗn hợp phải mịn mượt hoàn toàn, KHÔNG được để vón cục. Khi phomai đã tan gần hết thì nên dùng phới lồng, khuấy nhanh tay để phomai hòa quyện tốt hơn. Ở Việt Nam, nếu dùng cream cheese Anchor (độ béo cao, cứng, khó tan) thì bạn có thể đặt âu phomai lên nồi nước nóng, miết 1 lúc cho phomai mềm ra rồi mới cho kem sữa và để cách thủy.</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Nếu trong lúc đợi phomai bị đông lại thì cách thủy cho phomai chảy ra, hỗn hợp mịn mượt rồi mới dùng.</span></p>
@@ -59,7 +52,6 @@ description: "Castella phomai là công thức HOÀN TOÀN MỚI của SD, mình
 <p><span style="color: #000000;">Đổ bột vào 2 khuôn oval, thả nhẹ khuôn xuống mặt bàn khoảng 2 – 3 lần cho bọt khí to vỡ bớt.</span></p>
 <p><span style="color: #000000;">11. Nướng bánh:</span></p>
 
-
 <p><span style="font-weight: 400; color: #000000;">– Đặt rack nướng sao cho bánh nằm giữa lò, với bánh cao thế này nên nướng ở rack cuối cùng hoặc gần cuối cùng.</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Cho khay nướng vào lò, đặt khuôn bánh vào khay sau đó đổ nước sôi sao cho nước ngập ít nhất ¼ khuôn. </span></p>
 <p><span style="font-weight: 400; color: #000000;">– Nướng 145 – 155 độ C trong 90 – 100 phút, tới khi mặt bánh chuyển vàng nâu, ấn nhẹ vào mặt bánh thấy bánh phồng trở lại. Quan sát mặt bánh, nếu thấy mặt bánh chưa khô, màu vàng chưa sậm màu thì tăng nhiệt lên 165 độ C và nướng thêm 5 – 10 phút đến khi mặt bánh vàng nâu và khô ráo. </span></p>
@@ -69,4 +61,4 @@ description: "Castella phomai là công thức HOÀN TOÀN MỚI của SD, mình
 <p><span style="color: #000000;">13. Để cắt bánh đẹp, cần để bánh NGUỘI HOÀN TOÀN (cắt khi bánh chưa nguội, hơi ẩm chưa thoát ra hết sẽ làm bánh bị bết), sau đó dùng dao sắc, lưỡi mỏng, đưa qua đưa lại nhẹ nhàng như cưa gỗ, kHÔNG ấn mạnh.</span></p>
 <p><span style="font-weight: 400; color: #000000;">Bánh ngon hơn (rấtttt) nhiều lần sau khi bọc kín và để trong tủ lạnh ít nhất 5 giờ.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8777" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2021/05/IMG_0095-1024x683.jpg" width="1024"/></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

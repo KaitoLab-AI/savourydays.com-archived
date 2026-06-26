@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2019/04/Mousse-sữa-chua-so-co-la-banner.jpg"
 description: "Cách làm Mousse sữa chua Terrine Sô-cô-la KHÔNG CẦN LÒ, mềm mịn mượt tan trong miệng, chua chua ngòn ngọt và mát rượi cho ngày hè nóng bức"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Mùa hè năm nay đến sớm quá, chẳng thấy rét nàng Bân đâu cả. Mới tháng 3 âm lịch mà xem thời tiết cả tuần tới đã thấy toàn mặt trời chói chang rực rỡ rồi. Mùa hè nghĩ tới lò thật là ngại. Thật ra nhà mình vẫn nướng bánh mì đều đặn, tại cần bánh mì để ăn hàng ngày ấy. Nhưng ngoài bánh mì ra thì không làm thêm thứ bánh cần lò nào khác. Trời nóng nực chỉ thích những thứ có nước hay mát lạnh thôi, kiểu như món ngày hôm nay chẳng hạn.  </span></p>
 <p><span style="color: #000000;">Ý tưởng của món ăn này đến từ món Terrine trong ẩm thực Âu. Các bạn có thể hình dung terrine như là thịt đông ấy, nhưng ngoài thịt ra nguyên liệu trong terrine có thể có cả rau, hạt… Trời nóng nên thích một thứ gì đó mịn mịn, mượt mà, man mát kiểu như terrine, nhưng chỉ terrine không thì cảm giác rất buồn tẻ (kiểu như là chỉ có một cục thạch thôi ý), nên nghĩ ra thêm vài lớp cho món ăn thêm “sinh động” :D. Phần bên ngoài bánh mình làm mousse sữa chua, hơi chua chua ngòn ngọt, còn bên trong là nhân chocolate dẻo mịn. Sữa chua làm cho miếng bánh không hề ngấy, rất dễ ăn, lại hợp với vị sô-cô-la cực kì. Mỗi miếng đều mát rượi tan trên đầu lưỡi, làm tráng miệng sau bữa ăn cực hợp. Làm món này chỉ hơi mất thời gian đợi các nguyên liệu đông lại thôi, chứ về kĩ thuật thì không phức tạp. Bạn nào chưa quen làm đồ tráng miệng lạnh bao giờ, thì lưu ý ở đoạn đánh bông kem tươi, chỉ đánh tới bông mềm, đừng để máy chạy quá đà làm kem tươi tách nước nhé. Hoặc để cẩn thận hơn nữa, các bạn có thể xem<a href="/cach-lam-kem-tuoi-danh-bong-va-cach-chua-kem-tuoi-tach-nuoc/"><strong> hướng dẫn cách đánh bông kem tươi trong video này</strong></a> trước khi làm nha.</span></p>
 <h2>CÁCH LÀM MOUSSE SỮA CHUA &amp; TERRINE CHOCOLATE</h2>
@@ -20,10 +19,7 @@ description: "Cách làm Mousse sữa chua Terrine Sô-cô-la KHÔNG CẦN LÒ, 
 <li style="text-align: left;"><em><span style="font-weight: 400; color: #000000;">55 gram bơ nhạt/ bơ không có muối (nên dùng bơ động vật sẽ thơm ngon hơn) </span></em></li>
 <li style="text-align: left;"><em><span style="font-weight: 400; color: #000000;">65 gram kem tươi (whipping cream) – chọn loại có hàm lượng béo từ 32% trở lên </span></em></li>
 </ul>
-<p><strong><span style="color: #000000;">B. Phần mousse sữa chua</span></strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong><span style="color: #000000;">B. Phần mousse sữa chua</span></strong></p>
 <ul>
 <li><em><span style="font-weight: 400; color: #000000;">9 gram gelatin</span></em></li>
 <li><em><span style="font-weight: 400; color: #000000;">300 gram sữa chua không đường</span></em></li>
@@ -43,10 +39,7 @@ description: "Cách làm Mousse sữa chua Terrine Sô-cô-la KHÔNG CẦN LÒ, 
 <p><span style="font-weight: 400; color: #000000;">2. Thái nhỏ socola</span></p>
 <p><span style="font-weight: 400; color: #000000;">3. Đánh tan 2 quả trứng với đường, lọc qua rây cho trứng mịn. Lưu ý cần lọc kĩ, chỉ bỏ đi một ít lòng trắng không lọc được qua rây, nếu bỏ đi quá nhiều trứng sẽ làm hao hụt lượng chất lỏng.</span></p>
 <p><span style="font-weight: 400; color: #000000;">4. Cho socola và bơ vào bát, đun cách thuỷ trên một nồi nước sôi lăn tăn đến khi tan chảy hoàn toàn. Lưu ý: đáy bát không được tiếp xúc với nước. Chỉ vặn lửa vừa cho nước sôi lăn tăn nếu không sẽ gây ra hiện tượng tách bơ.</span></p>
-<p><span style="font-weight: 400; color: #000000;">5. Khi bơ và socola đã tan chảy hoàn toàn, vẫn để bát trên nồi nước, cho kem tươi vào đảo đều</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">5. Khi bơ và socola đã tan chảy hoàn toàn, vẫn để bát trên nồi nước, cho kem tươi vào đảo đều</span></p>
 <p><span style="font-weight: 400; color: #000000;">6. Chia trứng thành 2 phần, cho lần lượt từng phần vào bát socola, đảo đều. </span></p>
 <p><span style="font-weight: 400; color: #000000;">7. Đổ terrine vào khuôn. Đặt khuôn vào khay nướng, đổ nước sôi ngập đến khoảng gần 1 nửa khuôn. Nướng cách thuỷ ở 160 độ C trong 25 phút</span></p>
 <p><span style="font-weight: 400; color: #000000;">8. Khi hết thời gian nướng, chờ nguội rồi để terrine nguyên trong khuôn và vào tủ lạnh ít nhất 3 – 4 tiếng đến khi đông cứng. Lưu ý: Khi mới nướng xong terrine vẫn rất lỏng và chưa thành hình nên cần di chuyển nhẹ nhàng.</span></p>
@@ -63,5 +56,3 @@ description: "Cách làm Mousse sữa chua Terrine Sô-cô-la KHÔNG CẦN LÒ, 
 <p><span style="font-weight: 400; color: #000000;">3. Lấy bánh ra khỏi khuôn, dùng một chiếc khăn nóng hoặc máy sấy tóc sấy quanh thành khuôn trong khoảng 10 giây đến khi kem hơi chảy. Úp ngược khuôn ra đĩa để lấy bánh ra ngoài</span></p>
 <p><span style="font-weight: 400; color: #000000;">* Cách cắt bánh đẹp: Dùng 1 con dao sắc, làm nóng phần lưỡi dao bằng khăn nóng rồi cắt dứt khoát.</span></p>
 
-
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

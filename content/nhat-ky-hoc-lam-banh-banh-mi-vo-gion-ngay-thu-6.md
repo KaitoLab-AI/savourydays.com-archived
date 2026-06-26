@@ -12,10 +12,7 @@ description: ""
 <p><span style="color: #000000;">Sau một tuần thí nghiệm, dường như đã quen hơn nên mấy ổ bánh nướng gần đây mình ưng lắm lắm. Đặc biệt là lúc lấy ra khỏi lò, eo ơi thích dã man!! Đường rạch nở bung đẹp, vỏ bánh giòn rụm rám nâu chuẩn không cần chỉnh, bên trong ruột cũng rất đẹp, mềm, ẩm, thơm phức. Hihi, cái cảm giác sung sướng kiểu “chinh phục” này đúng là lâu lắm rồi mới lại có. Thích quá đii!! ^.^</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8558" height="1024" loading="lazy" sizes="(max-width: 683px) 100vw, 683px" src="/wp-content/uploads/2020/04/IMG_9770-1-683x1024.jpg" width="683"/></p>
 <p><span style="color: #000000;">Mấy hôm nay mình vẫn chỉ nướng cùng một công thức đơn giản, loại dễ nhất, món “bánh mở màn”, trình độ sơ cấp thôi. Tuy là cùng một công thức, nhưng ở ngày thứ 6, mình đã hiểu ra nhiều điều hơn ngày đầu tiên rồi. Ví dụ như công thức chỉ là để tham khảo, hiểu biết và tay nghề của người làm bánh mới là quan trọng. Mỗi căn bếp mỗi khác, nên không thể nào cứ làm y như sách mà thành công.</span></p>
-<p><span style="color: #000000;">Mặt khác, những loại bánh này tưởng đơn giản, tưởng dễ, nhưng thực ra lại đòi hỏi kĩ thuật rất chuẩn. Nhiều người tưởng rằng cứ cho bánh vào nồi gang thì sẽ nướng thành công. Thực ra có cái nồi sẽ giúp nướng nhàn hơn nhiều, nhưng để bánh thật ngon thật chuẩn thì còn nhiều yếu tố khác, từ lượng nước, thời gian ủ bột cho đến cách nướng. Nên mình làm nhiều không hẳn chỉ vì nhà thích ăn mà còn vì mình muốn hiểu hơn về loại bánh này, muốn có thể nắm được các nguyên tắc cơ bản rồi chủ động điều chỉnh mọi thứ theo ý muốn. Nắm được vậy mới thực sự là thành công.</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">Mặt khác, những loại bánh này tưởng đơn giản, tưởng dễ, nhưng thực ra lại đòi hỏi kĩ thuật rất chuẩn. Nhiều người tưởng rằng cứ cho bánh vào nồi gang thì sẽ nướng thành công. Thực ra có cái nồi sẽ giúp nướng nhàn hơn nhiều, nhưng để bánh thật ngon thật chuẩn thì còn nhiều yếu tố khác, từ lượng nước, thời gian ủ bột cho đến cách nướng. Nên mình làm nhiều không hẳn chỉ vì nhà thích ăn mà còn vì mình muốn hiểu hơn về loại bánh này, muốn có thể nắm được các nguyên tắc cơ bản rồi chủ động điều chỉnh mọi thứ theo ý muốn. Nắm được vậy mới thực sự là thành công.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8560" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2020/04/IMG_9754-1-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">Cuối cùng, lại xin nhắc lại: Bánh trong hình không phải bánh dùng men chua (sour dough). Vì ở VN nhiều bạn nhìn thấy bánh dạng ổ tròn, vỏ giòn thế này thường hay mặc định là phải dùng men chua mới làm được. Thật ra bánh men chua không phải loại bánh duy nhất có vỏ giòn, ruột dày, nhiều lỗ khí rỗng đâu. Và bánh dùng men chua cũng chỉ là 1 trong rất rất nhiều các loại bánh mì vỏ giòn siêu ngon thôi. Mình vẫn đang đợi nuôi men, 14 ngày lâu quá nên mình nướng mấy cái bánh này trước. Chỉ mất có một buổi mà bánh vẫn rất thơm ngon.</span></p>
 <p><span style="color: #000000;">Ngoài ra, bánh này cũng không phải là “bánh không cần nhồi”, nếu hiểu theo cách: bánh không cần nhồi là kiểu bánh đơn giản, nhẹ nhàng dễ làm. Bởi tuy là nhồi ít nhưng để nướng bánh này ngon và chuẩn lại cần khá nhiều hiểu biết và tay nghề. Cho nên chắc chắn mình sẽ không xếp nhóm này vào nhóm dễ đâu <span class="_5mfr"><span class="_6qdm">😉</span></span></span></p>
@@ -28,9 +25,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

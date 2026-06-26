@@ -12,10 +12,7 @@ description: "nhật kí học làm bánh"
 <p><a href="https://www.flickr.com/photos/55490207@N05/13926198372/" title="Niem vui tu bep by LinhTrang9185, on Flickr"><img alt="Niem vui tu bep" class="aligncenter" height="281" loading="lazy" src="https://farm4.staticflickr.com/3723/13926198372_c3b0eeb445.jpg" width="500"/></a></p>
 <p>Toàn bộ bài thi đã được đăng tại Facebook của Savoury Days. Xin mời các bạn cùng vào chiêm ngưỡng và bình chọn cho những món bánh ngon mắt nhất, mang lại nhiều cảm hứng để cùng “lăn vào bếp” nhất nhé:</p>
 <p><span style="color: #ff0000;">LINK TỔNG HỢP BÀI DỰ THI</span>: <a href="https://www.facebook.com/media/set/?set=a.652105531509702.1073741831.172331076153819&amp;type=1" target="_blank">https://www.facebook.com/media/set/?set=a.652105531509702.1073741831.172331076153819&amp;type=1</a></p>
-<p><strong>THỂ LỆ BÌNH CHỌN</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>THỂ LỆ BÌNH CHỌN</strong></p>
 <p><span class="Apple-style-span">1. <strong>Thời gian bình chọn</strong>: từ ngày 20/4 đến hết 24h ngày 30/4/2014 (giờ Việt Nam)<span class="text_exposed_show">.</span></span></p>
 <p>2. Cách thức bình chọn: các bạn bình chọn bằng cách LIKE/ THÍCH ảnh bài dự thi mà bạn thấy ấn tượng nhất nhé <i class="_4-k1 img sp_4qqpiy sx_dbdcf8"></i><br/>
 *** <strong>Lưu ý</strong>: <span style="color: #ff0000;">Những lượt LIKE của Account mới lập trong tháng 4 sẽ không được tính hợp lệ</span>.</p>
@@ -34,9 +31,6 @@ description: "nhật kí học làm bánh"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

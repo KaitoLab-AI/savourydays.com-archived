@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2015/06/SummerPuddingMousse.jpg"
 description: "cách làm mousse chanh leo, pudding, tráng miệng mát"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Bạn nào sở hữu cuốn Nhật ký học làm bánh tập 2 của mình hẳn sẽ biết mình mê mẩn và nghiện ngập các loại <em>Entremet </em>– bánh nhiều tầng với các lớp gateau, mousse, pudding… nhiều như thế nào. Nhất là vào mùa nóng thì các loại Entremet lại càng lên ngôi vì đa phần Entremet đều là đồ cần được bảo quản lạnh và ăn lạnh cả.</p>
 <p>Loại Entremet của ngày hôm nay được đặt tên là <em>Summer Pudding Mousse Cake </em>bởi vì nó thực sự rất…. Mùa Hè. Cảm giác “Hè” có thể thấy từ màu sắc sáng bừng của món ăn, từ những nguyên liệu quen thuộc trong ngày nóng như sữa chua, chanh leo, từ cách làm cố gắng giản tiện hết mức bằng việc dùng nồi cơm điện để nướng bánh, và đặc biệt là từ hương vị của các lớp bánh: Gateau chocolate bao phủ bởi một lớp Pudding kem trứng ngọt ngào béo ngậy, hòa với Mousse sữa chua xốp mềm mịn tan cùng mùi thơm và vị chua dịu đặc trưng của chanh leo. Đơn giản, dễ làm nhưng ngon miệng và ngon mắt!</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/17796407583" title="IMG_2148-1 by Trang Linh, on Flickr"><img alt="IMG_2148-1" class="aligncenter" height="800" loading="lazy" src="https://c1.staticflickr.com/9/8813/17796407583_ea61ba839b_c.jpg" width="543"/></a></p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
-<p><strong>A. Gateau Sô-cô-la</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>A. Gateau Sô-cô-la</strong></p>
 <ul>
 <li><em>3 lòng trắng trứng</em></li>
 <li><em>70 gram đường – RÂY MỊN</em></li>
@@ -59,10 +55,7 @@ description: "cách làm mousse chanh leo, pudding, tráng miệng mát"
 <p>Phần bạt bánh này mình chọn công thức Gateau cơ bản bất bại vị cacao nhưng dùng nồi cơm điện để nướng. Thật ra thì trước đây mình không thích nướng bánh bằng nồi cơm điện tí nào cả, vì bánh dễ xẹp mà cũng không thơm được như khi dùng lò. Nhưng từ khi nồi cũ hỏng, đổi sang dùng nồi mới có chức năng Cake thì khác hẳn. Mình cực cực thích chức năng Cake của cái nồi mới này, bánh ra lúc nào cũng xốp mềm ẩm, không có cháy, không xẹp, mặt trên mặt dưới đều như một. Sướng nhất là trời nóng không phải giở lò ra.</p>
 <p>Vì đã có nhiều bài hướng dẫn cụ thể rồi nên mình chỉ viết vắn tắt các bước làm tại đây thôi. Nếu bạn cần thêm thông tin và hướng dẫn chi tiết thì có thể xem <a href="/video-cach-lam-banh-ga-to-bang-noi-com-dien/" target="_blank">Video cách làm gateau cơ bản bằng nồi cơm điện</a> nhé.</p>
 <p>1. Chuẩn bị nguyên liệu</p>
-<p>– Tách riêng lòng trắng và lòng đỏ trứng. Cân đong đường. Trộn bột mì với bột cacao, để riêng. Đong dầu ăn, sữa và vanilla vào một bát riêng.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>– Tách riêng lòng trắng và lòng đỏ trứng. Cân đong đường. Trộn bột mì với bột cacao, để riêng. Đong dầu ăn, sữa và vanilla vào một bát riêng.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/18229442089" title="IMG_8915 by Trang Linh, on Flickr"><img alt="IMG_8915" height="427" loading="lazy" src="https://c1.staticflickr.com/9/8793/18229442089_0cd0d01016_z.jpg" width="640"/></a></p>
 <p>2. Đánh bông lòng trắng trứng với đường và cream of tartar đến khi lòng trắng bông cứng.</p>
 <p>* <em>Vì có nhiều đường nên có thể lòng trắng sẽ không có chóp cứng nhọn hoắt, nhưng cần phải đánh đến độ lòng trắng đặc, bóng, dẻo, khi đánh thấy nặng tay. Nếu lòng trắng không đánh đủ cứng thì sẽ ảnh hưởng rất nhiều đến các bước sau và thành phẩm. </em></p>
@@ -78,7 +71,6 @@ description: "cách làm mousse chanh leo, pudding, tráng miệng mát"
 <p style="text-align: center;"><em>hỗn hợp sau khi cho hết chất lỏng, vẫn đặc mịn và bông </em></p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/17794775213" title="IMG_8921 by Trang Linh, on Flickr"><img alt="IMG_8921" height="427" loading="lazy" src="https://c2.staticflickr.com/8/7785/17794775213_0d2fe7ca56_z.jpg" width="640"/></a></p>
 <p>5. Rây 1/3 phần bột mì và bột cacao vào âu. <em>Nên rây sao cho bột phủ đều khắp mặt âu </em></p>
-
 
 <p><a href="https://www.flickr.com/photos/55490207@N05/18411280882" title="IMG_8922 by Trang Linh, on Flickr"><img alt="IMG_8922" height="427" loading="lazy" src="https://c1.staticflickr.com/1/334/18411280882_141f0b06b5_z.jpg" width="640"/></a></p>
 <p>Đánh đều bằng máy ở tốc độ thấp nhất. Ngay khi bột vừa hòa quyện thì dừng lại. Cho phần bột tiếp theo.</p>
@@ -143,4 +135,4 @@ description: "cách làm mousse chanh leo, pudding, tráng miệng mát"
 <p><a href="https://www.flickr.com/photos/55490207@N05/18229251208" title="IMG_2138-1 by Trang Linh, on Flickr"><img alt="IMG_2138-1" height="428" loading="lazy" src="https://c2.staticflickr.com/8/7779/18229251208_eb734426dc_z.jpg" width="640"/></a></p>
 <p>Và thưởng thức ^.^</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/18417055385" title="IMG_2145-1 by Trang Linh, on Flickr"><img alt="IMG_2145-1" height="438" loading="lazy" src="https://c2.staticflickr.com/8/7759/18417055385_3beeb2fd2f_z.jpg" width="640"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

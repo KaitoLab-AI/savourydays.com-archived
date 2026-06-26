@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/08/ChiffonCoBan.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p> </p>
 <p><strong><a href="/chiffon-phan-1/">Phần 1: Đặc điểm chung &amp; Phân biệt Chiffon với các loại bánh khác</a></strong></p>
 <p><strong><a href="/chiffon-phan-2-phuong-phap-tron-bot-danh-cho-chiffon-chiffon-method/">Phần 2: Phương pháp trộn bột Chiffon (Chiffon Method)</a></strong></p>
 <p><strong><a href="/chiffon-phan-3-that-bai/">Phần 3.1: Tại sao bánh xẹp, lõm, thắt eo, chai, không nở được… ?</a></strong></p>
-<p><strong><a href="/chiffon-phan-3-tai-sao-banh-xep-lom-dac-bet-chai-phan-tiep/">Phần 3.2: Tại sao bánh xẹp, lõm, thắt eo, chai, không nở được….? (tiếp)</a></strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong><a href="/chiffon-phan-3-tai-sao-banh-xep-lom-dac-bet-chai-phan-tiep/">Phần 3.2: Tại sao bánh xẹp, lõm, thắt eo, chai, không nở được….? (tiếp)</a></strong></p>
 <p> </p>
 <p>Chiffon được mọi người ưa chuộng nhờ đặc điểm xốp, mềm, nhẹ và ẩm, có thể “ăn vã” không có kem trang trí mà vẫn thấy ngon :) Tuy nhiên, ưu điểm này cũng tạo ra một trong những khó khăn rất lớn khi làm Chiffon là do tỉ lệ chất lỏng &amp; chất béo so với lượng bột trong công thức khá cao làm cho lượng ẩm trong bánh dễ bị quá nhiều, dẫn đến khó hấp thụ hết, đặc biệt là trong phần lõi của bánh, gây ra hiện tượng bánh xẹp, lõm… như đã giải thích trong các phần trước.</p>
 <p>Vì đặc điểm này mà Chiffon thường được nướng trong khuôn có lõi giữa, thành khuôn cao và không chống dính, để nhiệt có thể truyền vào trong lõi bánh nhanh và đều hơn, giúp cho lượng ẩm trong bánh được hấp thụ tốt hơn, bánh bám vào khuôn và leo tốt hơn. Tuy nhiên, bánh nướng trong khuôn lõi giữa đôi khi lại có thể ảnh hưởng đến việc trang trí, cho nên nếu có một công thức Chiffon có thể làm với nhiều loại khuôn thì chắc sẽ thuận tiện hơn rất nhiều :)</p>
@@ -40,10 +36,7 @@ description: ""
 <p>(* ) Cream of tartar có thể thay bằng nước cốt chanh hoặc dấm theo tỉ lệ tương đương, nhưng dùng cream of tartar vẫn là tốt nhất.</p>
 <p>Công thức lần này mình trình bày theo một cách hơi khác với mọi lần một chút, là mình để định lượng nguyên liệu dưới dạng tỉ lệ chứ không phải là con số tuyệt đối. Cụ thể hơn là mình lấy lượng lòng trắng trứng cần dùng để làm “mốc” (coi là 100%), các nguyên liệu còn lại được tính theo tỉ lệ với lượng lòng trắng trứng này.</p>
 <p>Lý do lấy lượng lòng trắng làm mốc là bởi vì trứng có kích thước khá là không giống nhau. Mà Chiffon nở chủ yếu dựa vào lòng trắng trứng đánh bông, dùng trứng 50gram/ quả chắc chắn sẽ cho bánh khác với trứng 60gram/ quả. Cho nên mình nghĩ lấy trứng gà làm mốc để tính sẽ chính xác hơn là lấy lượng bột làm mốc như cách tính thông thường của các thợ làm bánh</p>
-<p>Dựa theo công thức này, khi thực hành, tùy theo kích thước khuôn mà các bạn có thể tự tính toán lượng nguyên liệu cần thiết. Tỉ lệ trứng cần sử dụng tùy theo loại khuôn thì các bạn có thể tham khảo thông tin dưới đây</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Dựa theo công thức này, khi thực hành, tùy theo kích thước khuôn mà các bạn có thể tự tính toán lượng nguyên liệu cần thiết. Tỉ lệ trứng cần sử dụng tùy theo loại khuôn thì các bạn có thể tham khảo thông tin dưới đây</p>
 <p><span id="more-3028"></span></p>
 <p><span style="text-decoration: underline;"><strong>Lưu ý</strong></span>: tỉ lệ dưới được tính toán theo trứng có trọng lượng <strong>50gram/ quả không tính vỏ</strong>.</p>
 <ul>
@@ -75,7 +68,6 @@ description: ""
 <p><span style="color: #800000;"><strong>Bước 3</strong></span>. Cho lòng trắng vào âu. Có thể cho thêm 1 nhúm nhỏ muối. Đặt máy ở tốc độ thấp, đánh khoảng 30-60giây, đến khi bọt khí to nổi lên (hình 1) thì cho Cream of tartar (hoặc dấm/ nước cốt chanh). Từ từ tăng máy lên tốc độ cao, đánh đến khi bọt khí nhỏ mịn, li ti giống bọt xà phòng (hình 2) thì cho đường.</p>
 <p><strong>Lưu ý:</strong> <em>cho đường từ từ thành nhiều phần nhỏ, không đổ ụp đường vào âu cùng 1 lúc</em>.</p>
 <p>Đánh đến khi trứng bông mềm hoặc hơn bông mềm một chút, nhưng <strong>không quá cứng</strong>. Mô tả trạng thái là trứng bóng, dẻo, úp ngược tô không bị rơi, nhấc que đánh lên thấy trứng tạo chóp có thể hơi cong một chút, nhưng không oặt xuống (<em>có thể cứng hơn hình 4 một chú</em>t). Về cách đánh bông và các trạng thái bông của trứng các bạn có thể xem thêm tại <a href="/danh-bong-trung-phan-2/"><strong>ĐÂY</strong></a></p>
-
 
 <p><a href="http://www.flickr.com/photos/55490207@N05/7721977258/" title="Danh bong long trang trung by LinhTrang9185, on Flickr"><img alt="Danh bong long trang trung" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7137/7721977258_63f9e2b0de.jpg" width="500"/></a></p>
 <p><strong><span style="color: #800000;">Bước 4.</span></strong> Lấy 1/3 số lòng trắng trứng, cho vào âu. Dùng phới lồng đánh trứng đánh theo một chiều đến khi hỗn hợp hòa quyện. Chia số lòng trắng trứng còn lại thành 2-3 phần, lần lượt cho vào âu, dùng kỹ thuật Fold trộn đều, dứt khoát nhưng nhẹ tay, tránh làm vỡ bọt khí trong lòng trắng trứng. <em>Xem thêm về cách trộn và kỹ thuật fold tại <a href="/danh-bong-trung-phan-2/"><strong>ĐÂY</strong></a></em></p>
@@ -119,4 +111,4 @@ description: ""
 <p>——-</p>
 <p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ email: <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi hành động cố tình vi phạm sẽ chịu xử lí theo quy định của pháp luật.</span></strong></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

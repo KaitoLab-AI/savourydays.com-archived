@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2014/12/OperaYuleLog.jpg"
 description: "yule log, bánh khúc cây giáng sinh"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><i>…. ngày xửa ngày xưa… </i></p>
 <p>“Truyền thuyết” kể lại rằng, trong những ngày cuối năm, khi trời bắt đầu trở nên rét buốt và ngày cũng thu ngắn lại, thì cũng là lúc người dân phương Bắc sử dụng những khúc củi khô (<em>yule log)</em> dự trữ từ cuối thu, không chỉ để sưởi ấm cho cả căn nhà qua mùa đông rét mướt, mà còn tạo ra ánh lửa xua đuổi quỷ dữ và soi đường cho những người làm ăn xa trở về nhà. Hơi ấm và ánh lửa từ <em>yule log</em> cũng mang theo hi vọng về một năm mới mùa màng bội thu, nhiều hạnh phúc, sức khỏe và may mắn.</p>
 <p>Ngày nay tuy không nhiều gia đình còn lò sưởi đốt than củi nữa, nhưng <em>yule log</em> vẫn hiện diện như một phần không thể thiếu trong mỗi dịp Giáng sinh – không phải nằm trong kho hay tại lò sưởi, mà trên bàn ăn của mỗi gia đình – là một món tráng miệng hoàn hảo sau bữa ăn Giáng sinh đầm ấm.</p>
 <p>………………….</p>
-<p>Vì câu chuyện trên mà tuy Giáng sinh thường là dịp mà mình bận bài vở nhất, và cũng chẳng bao giờ có bữa ăn Xmas “chính thức” cả, nhưng Yule log thì năm nào mình cũng làm. Cảm giác có một khúc cây trong nhà, hình như cũng ấm áp và có không khí hơn. Vả lại, cả năm thật ra cũng chỉ có dịp này để làm Yule log thôi, nên bận mấy thì bận cũng vẫn muốn vào bếp và chuẩn bị một <em>yule log</em> cho bếp củi của nhà mình.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Vì câu chuyện trên mà tuy Giáng sinh thường là dịp mà mình bận bài vở nhất, và cũng chẳng bao giờ có bữa ăn Xmas “chính thức” cả, nhưng Yule log thì năm nào mình cũng làm. Cảm giác có một khúc cây trong nhà, hình như cũng ấm áp và có không khí hơn. Vả lại, cả năm thật ra cũng chỉ có dịp này để làm Yule log thôi, nên bận mấy thì bận cũng vẫn muốn vào bếp và chuẩn bị một <em>yule log</em> cho bếp củi của nhà mình.</p>
 <p><a href="/banh-khuc-cay-giang-sinh/">Yule log truyền thống</a> thường chỉ là một nhánh cành cây, nhưng năm nay vì có một sự kiện rất quan trọng và có ý nghĩa với mình, đấy là sự ra đời của “Nhật kí học làm bánh”, nên mình “đốn” khúc cây to hơn một chút ^.^. Về phần mùi vị của bánh thì mình lấy cảm hứng từ bánh gateau <em>Opera</em>, sử dụng bạt gateau hạnh nhân, mousse cà phê chocolate và kem chocolate phủ ngoài. Bánh thơm và đậm đà nhưng không quá “nặng” do tất cả các phần kem và mousse đều dùng kem tươi là chủ yếu và dùng rất ít bơ. Hi vọng khúc cây này sẽ giúp giữ cho bếp sang năm mới tiếp tục đỏ lửa và luôn ấm áp :)</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/16019888955/" title="IMG_9391-1 by LinhTrang9185, on Flickr"><img alt="IMG_9391-1" class="aligncenter" height="640" loading="lazy" src="https://farm9.staticflickr.com/8635/16019888955_b1bc037d6d_z.jpg" width="471"/></a></p>
 <p><span style="color: #800000;"><strong>Dụng cụ</strong></span>:</p>
@@ -65,10 +61,7 @@ description: "yule log, bánh khúc cây giáng sinh"
 <li><em>¼ teaspoon vanilla chiết xuất </em></li>
 </ul>
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
-<p>1. <strong>Chuẩn bị bạt bánh</strong> Gateau hạnh nhân.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>1. <strong>Chuẩn bị bạt bánh</strong> Gateau hạnh nhân.</p>
 <p>– Dùng khuôn tròn 20 cm. Lót giấy ở đáy khuôn, không cần chống dính thành khuôn.</p>
 <p>– Làm bánh theo <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/">phương pháp làm Gateau cơ bản bất bại</a> (bột hạnh nhân được rây và trộn đều cùng bột mì). Làm nóng lò 15 phút trước khi nướng ở 160 độ C. Nướng bánh ở 155 – 160 độ C (hai lửa) trong 45 – 55 phút, đến khi bánh chín vàng thơm, ấn thử tay lên mặt bánh thấy vết lõm tự phồng trở lại.</p>
 <p>– Lấy bánh ra, để nguội trên rack.</p>
@@ -84,7 +77,6 @@ description: "yule log, bánh khúc cây giáng sinh"
 <p>Đầu tiên xẻ bánh làm 3 bạt tròn.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/16017941731/" title="IMG_7533 by LinhTrang9185, on Flickr"><img alt="IMG_7533" class="aligncenter" height="333" loading="lazy" src="https://farm9.staticflickr.com/8601/16017941731_0d57647991.jpg" width="500"/></a></p>
 <p>Tiếp theo, cắt bỏ bớt riềm ngoài bánh để bạt bánh vừa với khuôn cỡ 18 cm.</p>
-
 
 <p><a href="https://www.flickr.com/photos/55490207@N05/15397636604/" title="IMG_7534 by LinhTrang9185, on Flickr"><img alt="IMG_7534" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7560/15397636604_538f7db094.jpg" width="500"/></a></p>
 <p>9. Chuẩn bị khuôn làm mousse. Lót giấy nến ở đáy khuôn (để khi bánh hoàn thiện có thể lấy ra dễ dàng).</p>
@@ -120,4 +112,4 @@ description: "yule log, bánh khúc cây giáng sinh"
 <p><a href="https://www.flickr.com/photos/55490207@N05/15994103226/" title="IMG_7548 by LinhTrang9185, on Flickr"><img alt="IMG_7548" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7473/15994103226_d5c103e6ab.jpg" width="500"/></a></p>
 <p>Nếu các bạn cũng muốn dùng Meringue để trang trí thì chỉ nên gắn Meringue lên ngay trước bữa ăn nhé, tránh việc Meringue để trong tủ lạnh sẽ hút ẩm và trở nên dính, thậm chí có thể mềm, không còn khô và xốp như khi vừa nướng xong nữa.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/15833846889/" title="IMG_9410-1 by LinhTrang9185, on Flickr"><img alt="IMG_9410-1" class="aligncenter" height="640" loading="lazy" src="https://farm8.staticflickr.com/7474/15833846889_94b424a85c_z.jpg" width="500"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

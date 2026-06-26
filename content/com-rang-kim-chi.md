@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2011/11/ComRangKimChi1.jpg"
 description: "kim chi, com rang kim chi"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Món ăn mình nấu cho báo Bếp Gia Đình đợt tới là một món Hàn Quốc cho nên trong tủ tự nhiên có thêm một hộp <a href="/cach-lam-kim-chi/" title="kim chi">kim-chi</a>. Kim-chi cũng ngon, nhưng mình không rành các món Hàn nói chung và các món với Kim chi nói riêng lắm, lý do chính là mình thích dưa cải muối của Việt Nam hơn :D Nhưng mà bởi vì có cả một hộp, cho nên thôi thì coi như đây là một dịp tốt để khám phá thêm các món ăn Hàn có sử dụng Kim-chi ;) Có một điều thật may là Facebook Fan Page của mình có bao nhiêu bạn am hiểu về món Hàn, cho nên hôm trước khi mình vừa đăng câu hỏi lên một cái thì chỉ một tiếng sau đã có cả một danh sách dài các món ăn với Kim-chi rồi (cảm ơn cả nhà nhiều nha ;) ). Đợt này mình cũng hơi bận công việc một chút nên chỉ thử các món đơn giản thôi, và đây là món đầu tiên – Cơm rang trứng và Kim-chi.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6390012105/" title="Kimchi Fried Rice by LinhTrang9185, on Flickr"><img alt="Kimchi Fried Rice" class="aligncenter" height="640" loading="lazy" src="http://farm7.staticflickr.com/6216/6390012105_22361d467d_z.jpg" width="437"/></a></p>
 <p>Về cơ bản thì món này cũng giống như cơm rang trứng với dưa cải của nhà mình thôi, nhưng mùi vị thì khá là hấp dẫn, tại bản thân Kim-chi cũng có mùi rất chi là “gây thèm muốn” rồi ý. Vị chua mặn của Kim-chi ăn với cơm rang cũng hợp, giúp không bị ngấy. Cách làm cơm rang thì các bạn có thể tham khảo thêm ở <a href="/?p=120">đây</a> nha.</p>
@@ -26,10 +25,7 @@ description: "kim chi, com rang kim chi"
 <li><em>1 teaspoon (5ml) xì dầu (nước tương)</em></li>
 <li><em>1 teaspoon (5ml) dầu hào</em></li>
 </ul>
-<p><span id="more-1298"></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span id="more-1298"></span></p>
 <p><strong>Cách làm</strong></p>
 <p>1. Chuẩn bị nguyên liệu:</p>
 <p>– Hành, tỏi bóc vỏ, băm nhỏ.</p>
@@ -38,4 +34,4 @@ description: "kim chi, com rang kim chi"
 <p>2.  Bắc chảo lên bếp, để lửa vừa – to. Đun nóng dầu ăn rồi phi thơm hành tỏi. Cho cơm và trứng vào đảo đều trong khoảng 2-3 phút đến khi hạt cơm săn lại.</p>
 <p>3. Cho kim-chi vào chảo, rang cùng cơm đến khi hạt cơm khô giòn vừa ăn. Tắt bếp, cho xì dầu, dầu hào, dầu vừng, hạt vừng, hành xanh vào trộn đều. Nêm nếm lại cho vừa ăn. Dùng nóng.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6390012925/" title="Kimchi Fried Rice by LinhTrang9185, on Flickr"><img alt="Kimchi Fried Rice" class="aligncenter" height="640" loading="lazy" src="http://farm7.staticflickr.com/6109/6390012925_7995b6ce19_z.jpg" width="473"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

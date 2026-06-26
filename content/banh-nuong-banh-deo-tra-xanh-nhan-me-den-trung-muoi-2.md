@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2015/09/banh-nuong-tra-xanh-me-den.jpg"
 description: "nhân mè đen bánh trung thu , bánh dẻo, bánh nướng trà xanh"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #ff0000;"><em>Thời gian này mình đang đi vắng nên không trả lời được các phản hồi tại blog, nhờ cả nhà cùng chia sẻ và giúp đỡ lẫn nhau nhé.<br/>
 </em></span></p>
 <p><em>———–</em></p>
 <p>Đây chắc là loại nhân bánh cuối cùng mà mình giới thiệu trong mùa Trung thu năm nay. Nhân mè đen óng ả mịn màng với trứng muối đỏ au nằm ở giữa, chưa cần ăn, chỉ cần nhìn cũng đủ thấy thích mê đi rồi. Lần sên nhân này mình làm cả bánh nướng và bánh dẻo. Bánh dẻo thì trộn với ít bột trà xanh, vị bánh vừa thơm vừa the mát, lại bớt ngọt hơn rất nhiều nên ăn cảm thấy cực kì dễ chịu.</p>
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/21272524756/in/datetaken/" title="IMG_3731-2"><img alt="IMG_3731-2" class="aligncenter" height="334" loading="lazy" src="https://farm6.staticflickr.com/5715/21272524756_2da231f603.jpg" width="500"/></a></p>
-<p>Cũng như nhân khoai môn, nhân mè đen cần phải pha thêm đậu thì mới “đứng” và nặn thành viên được. Nhân mè đen truyền thống thường pha mè với tinh  bột đậu trắng. Nhưng mình học được từ chị Loan, bà chủ cửa hàng <a href="https://www.facebook.com/2MOMs-1622401898027655/timeline/" target="_blank">2MOM’s </a> bí kíp dùng đậu đen với mè đen – không chỉ giúp nhân có màu đen mịn hơn mà còn rất thơm ngon và làm không mất nhiều thời gian như khi bồng bột đậu trắng. Công thức dưới này cũng là chị Loan chỉ cho mình luôn, xin phép chị chia sẻ lại với cả nhà :)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Cũng như nhân khoai môn, nhân mè đen cần phải pha thêm đậu thì mới “đứng” và nặn thành viên được. Nhân mè đen truyền thống thường pha mè với tinh  bột đậu trắng. Nhưng mình học được từ chị Loan, bà chủ cửa hàng <a href="https://www.facebook.com/2MOMs-1622401898027655/timeline/" target="_blank">2MOM’s </a> bí kíp dùng đậu đen với mè đen – không chỉ giúp nhân có màu đen mịn hơn mà còn rất thơm ngon và làm không mất nhiều thời gian như khi bồng bột đậu trắng. Công thức dưới này cũng là chị Loan chỉ cho mình luôn, xin phép chị chia sẻ lại với cả nhà :)</p>
 <p><strong><span style="color: #800000;">Nguyên liệu</span> (cho 300 – 330 gram nhân)</strong></p>
 <ul>
 <li><em>100 gram đậu đen (khô)</em></li>
@@ -36,10 +32,7 @@ description: "nhân mè đen bánh trung thu , bánh dẻo, bánh nướng trà 
 <p><em>Mè đen sau khi xay </em></p>
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/21288162802/in/datetaken/" title="IMG_9929"><img alt="IMG_9929" class="aligncenter" height="333" loading="lazy" src="https://farm6.staticflickr.com/5814/21288162802_944502d0bd.jpg" width="500"/></a></p>
 <p><em>xay cùng đậu đã chín mềm  </em></p>
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/21306896561/in/datetaken/" title="IMG_9930"><img alt="IMG_9930" class="aligncenter" height="333" loading="lazy" src="https://farm6.staticflickr.com/5686/21306896561_93266cf16e.jpg" width="500"/></a> <em>đậu và mè sau khi xay xong </em></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/21306896561/in/datetaken/" title="IMG_9930"><img alt="IMG_9930" class="aligncenter" height="333" loading="lazy" src="https://farm6.staticflickr.com/5686/21306896561_93266cf16e.jpg" width="500"/></a> <em>đậu và mè sau khi xay xong </em></p>
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/21306892801/in/datetaken/" title="IMG_9931"><img alt="IMG_9931" class="aligncenter" height="333" loading="lazy" src="https://farm1.staticflickr.com/599/21306892801_cfdf0ab4e2.jpg" width="500"/></a></p>
 <p>4. Lọc hỗn hợp qua rây để bỏ xác vỏ đậu đen và mè. Phần xác này có thể giữ lại, thêm ít đường và nước cốt dừa để làm thành chè mè và đậu, ăn rất ngon :)</p>
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/21110667720/in/datetaken/" title="IMG_9932"><img alt="IMG_9932" class="aligncenter" height="333" loading="lazy" src="https://farm1.staticflickr.com/564/21110667720_cdda2dbec9.jpg" width="500"/></a></p>
@@ -55,7 +48,6 @@ description: "nhân mè đen bánh trung thu , bánh dẻo, bánh nướng trà 
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/21111853459/in/datetaken/" title="IMG_9941"><img alt="IMG_9941" class="aligncenter" height="333" loading="lazy" src="https://farm1.staticflickr.com/570/21111853459_27d9bd9988.jpg" width="500"/></a></p>
 <p>Yêu cầu thành phẩm: Nhân mịn nhuyễn, thơm vị mè đen, bùi, béo và ngậy. Nhân hơi dính dầu nhưng không bị nhão, có thể nặn thành viên tròn và không chảy bè khi vẫn còn đang nóng.</p>
 <p>*<span style="color: #ff0000;"><strong> Ghi chú:</strong></span></p>
-
 
 <p>– Theo chị Loan hướng dẫn thì mạch nha giúp kết dính nhân nên bắt buộc phải có. Nếu không có, mình nghĩ các bạn nên tăng lượng bột bánh dẻo.</p>
 <p>– Nếu không có bột bánh dẻo, có thể thay bằng bột ngô (lượng tương đương). Cho bột ngô vào khi nhân còn hơi ướt và nhão một chút rồi sên tới khi nhân khô.</p>
@@ -94,4 +86,4 @@ description: "nhân mè đen bánh trung thu , bánh dẻo, bánh nướng trà 
 <li><a href="/cach-lam-banh-deo-truyen-thong/" target="_blank">Cách làm bánh dẻo truyền thống</a></li>
 <li><a href="/banh-trung-thu-chia-se-kinh-nghiem-lam-banh-deo/" target="_blank">Giải đáp các thắc mắc/ vấn đề thường gặp khi làm bánh dẻo</a></li>
 </ol>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/01/XoiXeoExpress.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Xôi xéo thì từ hồi lâu lắm lắm rồi mình có một bài giới thiệu công thức, nhưng mà bài hôm nay đặc biệt hơn một chút vì nó dành riêng cho các bạn du học sinh, thiếu thời gian, thiếu dụng cụ…. nhìn chung là vì nhiều lí do mà không thể thổi xôi theo <a href="/?p=57">cách truyền thống</a> được.</p>
 <p>Xôi xéo nấu bằng nồi cơm điện tất nhiên là không bằng được xôi đồ bằng chõ, nhưng về mùi vị nhìn chung là cũng không đến nỗi nào. Làm thì nhanh như nấu cơm thôi (chỉ cho gạo với đỗ vào nồi rồi bật bếp thôi mà ;) ). Hành phi có thể mua sẵn, ở chợ châu Á hoặc kể cả trong các siêu thị Tây đều có hành phi sẵn, khá là thơm và giòn. Bạn nào chăm hơn nữa, muốn tự phi hành thì có thể tham khảo thêm mẹo phi hành giòn ở <a href="/?p=57">đây</a> nhé ;)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6782987849/" title="Sticky rice with mung bean by LinhTrang9185, on Flickr"><img alt="Sticky rice with mung bean" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7160/6782987849_9511184e15_z.jpg" width="444"/></a></p>
 <p>Nấu xôi xéo chỉ có một thứ hơi mất thời gian một chút là rán mỡ gà – cụ thể là rán da và mỡ gà để lấy phần mỡ nước. Cái này bi giờ kể cả ở Hà Nội các hàng xôi cũng chẳng có mấy đâu, cho nên không hẳn là thành phần bắt buộc phải có nhưng rất rất rất nên làm. Với mình thì mỡ gà làm nên ít nhất 1/3 sự ngon của xôi xéo ấy :)</p>
-<p>Gà công nghiệp ở bên này béo, hai bộ da từ cái đùi thôi cũng đủ cho cả nồi xôi thơm lừng rồi. Ở cửa hàng thịt gà bên mình thì thậm chí người ta còn bán cả mỡ gà đã lọc sẵn cơ, 1 EUR/ kg, mang về rán được cả bát, cất đi để dành, lúc nào thèm xôi là có ngay.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Gà công nghiệp ở bên này béo, hai bộ da từ cái đùi thôi cũng đủ cho cả nồi xôi thơm lừng rồi. Ở cửa hàng thịt gà bên mình thì thậm chí người ta còn bán cả mỡ gà đã lọc sẵn cơ, 1 EUR/ kg, mang về rán được cả bát, cất đi để dành, lúc nào thèm xôi là có ngay.</p>
 <p>Còn rán thì cũng không có gì phức tạp, chỉ cần kiếm một cái <strong>nồi hay chảo sạch  (nên dùng loại chống dính/ non-stick</strong>). Cả chảo và da, mỡ gà nên thật <strong>khô</strong>, <em>nếu không rán sẽ dễ bị nổ lắm</em>. Để lửa nhỏ-vừa, và cho da, mỡ gà vào rán cho chảy mỡ ra thôi. Nếu rán nhiều thì <em>nên chắt bớt phần mỡ này ra bát</em>, rồi rán tiếp đến khi da và mỡ gà “teo” lại thành giống như tóp mỡ ấy (tại vì để mỡ trong chảo nhiều thì dễ bị cháy khét ý mà).</p>
 <p>Đấy là mỡ gà, còn nấu xôi thì làm thế này nhé</p>
 <p><span id="more-1659"></span></p>
@@ -29,8 +25,5 @@ description: ""
 <p>4. Bật nút nấu cơm. Khi nồi cơm chuyển sang chế độ hâm nóng  (warm) thì mở nắp, lấy thìa hoặc đũa xới cho tơi. Nếm thử nếu thếu mặn thì cho thêm muối. Đóng nắp nồi, đợi thêm khoảng 20 phút sẽ có xôi nóng rất ngon.</p>
 <p>5. Bước cuối cùng là trộn khoảng 1-2 thìa mỡ gà với xôi trong nồi, hoặc có thể xới xôi ra bát, rắc hành phi lên trên rồi rưới mỡ gà. Cách sau có vẻ sẽ cho xôi thơm ngon và dậy mùi mỡ gà hơn một tí.</p>
 <p>Xôi dẻo mềm, thơm mùi đậu xanh quyện với mỡ gà và rất nhiều hành phi… Enjoy!!!!!! ;)</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/6782986845/" title="Sticky rice with mung bean by LinhTrang9185, on Flickr"><img alt="Sticky rice with mung bean" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7026/6782986845_7d28c5dcc6_z.jpg" width="446"/></a></p><div align="center" id="google-ads-body-post-end">
+<p><a href="http://www.flickr.com/photos/55490207@N05/6782986845/" title="Sticky rice with mung bean by LinhTrang9185, on Flickr"><img alt="Sticky rice with mung bean" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7026/6782986845_7d28c5dcc6_z.jpg" width="446"/></a></p>
 
-
-</div>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

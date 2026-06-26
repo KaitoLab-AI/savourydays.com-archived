@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2015/10/rollcake.jpg"
 description: "Cách làm bánh bông lan cuộn kiểu Nhật mềm, mịn, xốp với nhân kem tươi hoa quả, có video hướng dẫn chi tiết."
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Lúc nào làm bánh cuộn cũng cảm thấy đời đẹp phơi phới, bởi làm thì vừa nhanh vừa đơn giản mà lại rất ngon. Khả năng hỏng thì… với bánh cuộn chắc chỉ có 1 vấn đề là bánh gãy khi cuộn thôi. Tại SD có một số công thức bánh cuộn khác nhau, nhưng hai công thức mà mình hay dùng nhất là <a href="/banh-cuon-chiffon/" target="_blank">bánh cuộn Chiffon</a> (đã giới thiệu trong sách <a href="/gioi-thieu-sach/" target="_blank">Nhật ký học làm bánh tập 1</a>) và <a href="/banh-cuon-kem-tuoi-dua-tra-xanh/" target="_blank">bánh cuộn bạt gateau Nhật Bả</a>n. Bánh cuộn Chiffon thì có kiểu xốp đậm đà nhờ lượng bột và chất lỏng khá cân bằng, tuy nhiên làm bánh cuộn Chiffon thì nên cuộn khi bánh còn nóng ấm, sẽ an toàn hơn. Gateau Nhật Bản có lượng bột ít hơn kha khá nên bánh rất mềm nhẹ, kiểu tan trong miệng, và rất dễ cuộn, kể cả khi bánh đã nguội cũng không sao. Phần bạt bánh trong công thức dưới đây mình có chỉnh lại một chút để khi làm đơn giản hơn, ít khâu hơn và bánh sau khi nướng có độ xốp tương đối, không quá mịn, ăn với các phần nhân sẽ ngon hơn.</p>
 <p>Về món bánh của ngày hôm nay thì hồi ở Tokyo, trong cửa hàng bánh nào mình cũng thấy có loại bánh cuộn nhân kem tươi hoa quả này, nhìn cuộn bánh tròn xoe nhân kem trắng với hoa quả đủ màu, kích thích kinh khủng. Mà công nhận  là bánh dễ ăn: bạt bánh mềm, kem tươi ngậy với hoa quả tươi chua chua ngọt ngọt. Thường thì hoa quả dùng cho bánh mình hay thấy có dâu tây, kiwi và quýt/ cam, nhưng bạn hoàn toàn có thể thay thế với loại hoa quả khác. Mình thì đang nghĩ tới một cuộn bánh nhân kem tươi với hồng chín, đang mùa hồng ngon mà ;)</p>
 <p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn chữ nhật 9 x 13 inches (22 x 33 cm) – tuy nhiên, có thể dùng khuôn cỡ nhỏ hơn một chút (VD: 20 x 30 cm) hoặc lớn hơn một chút cũng không sao.</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
-<p><strong>A. Phần bạt bánh</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>A. Phần bạt bánh</strong></p>
 <ul>
 <li><em>4 lòng đỏ trứng (18 – 20 gr/ lòng đỏ) – nhiệt độ phòng</em></li>
 <li><em>20 gram đường</em></li>
@@ -45,10 +41,7 @@ description: "Cách làm bánh bông lan cuộn kiểu Nhật mềm, mịn, xố
 <p>2. Cho sữa, dầu ăn, vanilla vào, trộn đều với lòng đỏ.</p>
 <p>3. Rây bột mì và bột ngô, trộn đều tới khi hỗn hợp mịn mượt, không có vón cục.</p>
 <p>4. Đánh lòng trắng trứng với muối, cream of tartar và đường tới bông cứng: lòng trắng bóng, dẻo, mịn, khi nhấc que đánh lên thấy có chóp nhọn, và chóp này không bị oặt xuống.</p>
-<p>* <strong><span style="text-decoration: underline;">Lưu ý:</span></strong> <em>lòng trắng, âu đựng và que đánh không được dính chất béo như lòng đỏ, dầu ăn, bơ, mỡ… nếu không sẽ không đánh bông được lòng trắng.</em></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>* <strong><span style="text-decoration: underline;">Lưu ý:</span></strong> <em>lòng trắng, âu đựng và que đánh không được dính chất béo như lòng đỏ, dầu ăn, bơ, mỡ… nếu không sẽ không đánh bông được lòng trắng.</em></p>
 <p>5. Trộn lòng trắng với hỗn hợp lòng đỏ bằng kĩ thuật fold. Sau khi trộn xong, hỗn hợp bông mịn, không có bọt khí to, không lỏng hoặc loãng.</p>
 <p>* <span style="text-decoration: underline;"><strong>Lưu ý:</strong></span></p>
 <p>– Nếu các bạn lỡ tay đánh lòng trắng quá cứng, khi trộn lòng trắng vào thấy lòng trắng lổn nhổn thành từng cục to nhỏ (thay vì hòa quyện theo dạng sợi như trong video) thì nên dùng phới lồng quấy  nhẹ để lòng trắng hòa tan bớt vào hỗn hợp lòng đỏ, rồi mới chuyển sang dùng phới dẹt để fold. Hoặc có thể dùng hoàn toàn phới lồng để trộn nhưng với kiểu fold.</p>
@@ -65,7 +58,6 @@ description: "Cách làm bánh bông lan cuộn kiểu Nhật mềm, mịn, xố
 <p>12. Sau khi cuộn xong, bọc chặt bánh bằng nilon bọc thực phẩm. Để bánh vào tủ lạnh khoảng 3 – 4 giờ để phần kem lạnh hẳn. Bảo quản bánh trong ngăn  mát tủ lạnh trong khoảng 2 ngày. Bánh ngon hơn nhiều khi để lạnh :)</p>
 <p>———</p>
 
-
 <p>CÁC CÔNG THỨC BÁNH CUỘN KHÁC:</p>
 <ol>
 <li><a href="/banh-cuon-kem-tuoi-dua-tra-xanh/" target="_blank">Bánh cuộn kem tươi trà xanh </a></li>
@@ -78,4 +70,4 @@ description: "Cách làm bánh bông lan cuộn kiểu Nhật mềm, mịn, xố
 <li><a href="/banana-ice-cream-royal-charlotte-banh-cuon-kem-chuoi-hoang-gia/" target="_blank">Bánh cuộn kem chuối hoàng gia</a></li>
 </ol>
 <p> </p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -8,15 +8,11 @@ image: ""
 description: "cách làm bánh ga-tô flan sô cô la với kem cafe siêu ngon, công thức đơn giản, dễ thành công, có kèm video hướng dẫn chi tiết"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p> </p>
 <p><span style="font-weight: 400; color: #000000;">Gato Flan là một trong những món mình nghĩ là giữ được “độ hot” lâu nhất, và cũng là một trong những công thức được yêu thích nhất tại SD. Lần đầu tiên mình thấy món này đâu đó khoảng 2012. Đến 2013 hình như bắt đầu “bùng nổ” và tới giờ là 2018, trong menu của rất nhiều tiệm bánh vẫn còn món bánh này trong số bánh bán chạy. Bởi vậy nên tuy công thức đã có từ lâu rồi nhưng video giờ mới làm vẫn chưa hề muộn đâu, nhỉ?</span></p>
 <p><span style="color: #000000;">Nhưng mà nói thật là mình không thích ga-tô flan bán ở ngoài hàng ở HN lắm, phần ga-tô thì được nhưng phần flan thì khá là không ngon, đa số tương đối nhạt nhẽo, thiếu độ ngậy, thiếu độ thơm. Mình cũng không hiểu tại sao lại phải làm flan với chất lượng thấp như vậy. Vì không nhất thiết phải dùng kem tươi, chỉ cần sữa tươi, sữa đặc vào trứng vẫn có thể làm flan đậm đà, thơm và béo mà. </span></p>
 <p><span style="color: #000000;">Công thức gốc món này tại SD dùng kem tươi cho phần flan, nhưng trong video mới này, mình chỉnh lại, chỉ dùng sữa tươi, sữa đặc và trứng thôi. Lý do đầu tiên như ở trên là kể cả chỉ dùng sữa đặc với sữa tươi, nếu đúng tỉ lệ, chúng ta vẫn có thể làm flan ngon. Còn lý do thứ hai là ở Việt Nam, việc chỉ dùng sữa tươi và sữa đặc sẽ tiện hơn cho rất nhiều bạn, bởi kem tươi thì không phải ở đâu cũng mua được dễ dàng.</span></p>
-<p><span style="color: #000000;">Các bước làm đã có rất đầy đủ trong video rồi, cứ theo video là sẽ làm thành công thôi. À, công thức này cũng có một phần biến tấu là thay vì làm trong khuôn lớn, tụi mình cho vào cốc thuỷ tinh (chịu nhiệt để nướng trong lò) và có thêm phần kem cafe ở trên  mặt. Mỗi miếng bánh, ngoài phần bánh  mềm xốp, phần flan thơm béo ngậy thì còn có vị đăng đắng của nước caramel ở dưới đáy và vị cafe thơm thơm trong kem tươi ở trên, cực kì tròn vị và hoàn hảo ah :)  </span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">Các bước làm đã có rất đầy đủ trong video rồi, cứ theo video là sẽ làm thành công thôi. À, công thức này cũng có một phần biến tấu là thay vì làm trong khuôn lớn, tụi mình cho vào cốc thuỷ tinh (chịu nhiệt để nướng trong lò) và có thêm phần kem cafe ở trên  mặt. Mỗi miếng bánh, ngoài phần bánh  mềm xốp, phần flan thơm béo ngậy thì còn có vị đăng đắng của nước caramel ở dưới đáy và vị cafe thơm thơm trong kem tươi ở trên, cực kì tròn vị và hoàn hảo ah :)  </span></p>
 <h2><span style="color: #000000;">CÁCH LÀM BÁNH GA-TO FLAN SÔ-CÔ-LA &amp; KEM CAFE </span></h2>
 <p><span style="color: #800000;"><strong>Nguyên liệu (6 khuôn nhỏ hoặc 1 khuôn tròn đế liền đường kính 16 cm)</strong></span></p>
 <p><strong><span style="color: #000000;">A. </span><span style="color: #000000;">Phần caramel</span></strong></p>
@@ -51,10 +47,7 @@ description: "cách làm bánh ga-tô flan sô cô la với kem cafe siêu ngon,
 <div class="_1mf _1mj" data-offset-key="e5sq4-0-0">
 <p><span style="font-family: arial, helvetica, sans-serif;">Video cách làm món ăn này đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" rel="noopener noreferrer" target="_blank">kênh YouTube của Savoury Days.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo <a href="https://youtu.be/lJEkUAYJCWQ" rel="noopener noreferrer" target="_blank"><strong>link này</strong></a> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="https://youtu.be/AhsvW5TjQfc" rel="noopener noreferrer" target="_blank">cách làm bánh flan này.</a> </strong></span></p>
 <p><span style="font-family: arial, helvetica, sans-serif;"><div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/lJEkUAYJCWQ" width="560"></iframe></div></span></p>
-<p><strong><span style="color: #000000;">A. Phần chưng đường caramel</span></strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong><span style="color: #000000;">A. Phần chưng đường caramel</span></strong></p>
 </div>
 </div>
 <p><span style="color: #000000;"><span style="font-weight: 400;">1. Cho đường vào nồi nhỏ (bạn nào chưa quen thì nên dùng nồi sáng màu, sẽ dễ nhìn màu của nước đường cháy hơn là nồi mình dùng trong hình). Đổ nước vừa ngập đường, </span><i><span style="font-weight: 400;">lắc nhẹ nồi</span></i><span style="font-weight: 400;"> cho đường và nước dàn đều.</span></span></p>
@@ -73,7 +66,6 @@ description: "cách làm bánh ga-tô flan sô cô la với kem cafe siêu ngon,
 <p><span style="font-weight: 400; color: #000000;">3. Từ từ đổ phần dầu ăn và sữa vào âu. Để máy ở tốc độ thấp nhất, vừa đổ vừa đánh đều. Nếu không quen có thể đổ 1-2 thìa cafe một lần, đánh đều rồi tiếp tục đổ. Nếu các bạn đánh trứng đủ bông thì bước này sẽ làm rất dễ dàng, bột hoàn toàn không bị lỏng ra sau khi thêm dầu và nước.</span></p>
 <p><span style="color: #000000;"><span style="font-weight: 400;">4. Chia bột thành 3 phần. Rây từng phần vào âu, dùng spatula hoặc phới lồng trộn đều theo kĩ thuật fold </span><i><span style="font-weight: 400;">(xúc và đảo phới từ dưới lên để trứng phủ lên bột, tuyệt đối không quấy mạnh tay vì sẽ làm vỡ bọt khí trong trứng, bánh sẽ không nở được hoặc nở kém</span></i><span style="font-weight: 400;">). Lưu ý xúc spatula sâu xuống đáy âu, để hỗn hợp được trộn đều, tránh để bột cacao lắng xuống đáy.</span></span></p>
 
-
 <p><span style="color: #000000;"><span style="font-weight: 400;">5. Kỹ thuật fold bột các bạn có thể xem tại </span><span style="color: #0000ff;"><a href="http://www.youtube.com/watch?v=vP4vbktd-PM" style="color: #0000ff;"><b>link này</b></a></span><span style="font-weight: 400;">. Vì bột có nhiều cacao nên sau khi trộn xong các bạn sẽ thấy hỗn hợp bột không hoàn toàn là màu đen mà có thể có các sợi đen không đều nhau như trong hình. Đây là hiện tượng bình thường. Chỉ cần các bạn trộn được hết bột với trứng, không bị bột lắng ở đáy âu và sau khi trộn xong hỗn hợp vẫn còn đầy âu, không bị xẹp là thành công</span></span></p>
 <p><span style="color: #000000;"><b><i>Ghi chú</i></b><span style="font-weight: 400;">: nếu trứng đánh rất bông đặc thì có thể trộn bột bằng máy ở tốc độ thấp nhất. Lưu ý rây bột đều khắp mặt âu và cố gắng trộn trong thời gian ngắn nhất có thể. Sau khi trộn xong thì dùng phới fold thêm vài nhát để vét cho sạch bột bám trên thành và đáy âu.</span></span></p>
 <p><strong><span style="color: #000000;">D. Nướng bánh</span></strong></p>
@@ -87,4 +79,4 @@ description: "cách làm bánh ga-tô flan sô cô la với kem cafe siêu ngon,
 <p><span style="font-weight: 400; color: #000000;">Lưu ý: khi kem bắt đầu bông mềm, xuất hiện vân khi máy chạy thì hạ tốc độ xuống thấp nhất hoặc chuyển qua đánh bằng tay, thường xuyên kiểm tra vì thời điểm này kem tươi rất dễ bị tách nước do đánh quá tay</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Bảo quản phần kem này trong tủ lạnh đến khi dùng</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Cho kem vào túi, có thể dùng các loại đui (VD: 1M, 2D,..) để trang trí lên mặt bánh khi bánh đã nguội hoàn toàn</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -12,10 +12,7 @@ description: "cách phết trứng bánh trung thu"
 <p>Thường thì mình dùng chổi mềm để phết bánh, và dùng chổi khá nhỏ vì kích thước bánh của mình nhỏ (75 gram), họa tiết cũng nhỏ nên chổi nhỏ sẽ dễ quét trứng đọng ở các rãnh, khe trên mặt bánh, giúp cho bánh giữ được nhiều hoạ tiết sau khi nướng hơn.</p>
 <p>Hỗn hợp quét trứng mình dùng cả phẩm màu đỏ và nước tương (xì dầu), màu đỏ giúp bánh có màu nâu vàng khá tươi, còn xì dầu thì cho màu nâu hơi sẫm hơn một chút. Một vài công thức có dùng thêm nước đươngf bánh nướng nhưng mình không cho vào vì sau khi dùng thì thấy vỏ bánh dễ bị ướt và dính.</p>
 <p>Thường thì mình quét trứng 2 lần, nhưng cũng có nhiều bạn chỉ quét 1 hoặc 3 – 4 lần. Số lần này là tùy thích, nhưng không nên phết quá nhiều vì trứng quá dày sẽ làm mặt bánh kém sắc nét hơn.</p>
-<p>Bánh nướng xong thường chỉ hơi hanh vàng thôi, để 1 – 2 ngày mới có màu sậm hơn và mềm hơn.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Bánh nướng xong thường chỉ hơi hanh vàng thôi, để 1 – 2 ngày mới có màu sậm hơn và mềm hơn.</p>
 <p>Các vấn đề khác như vỏ bánh bị nứt, khô, mất nét, mình đều đã giải thích trong các bài trước, bạn nào cần thì xem lại bài cũ nhé.</p>
 <p style="text-align: center;">Video cách phết trứng bánh trung thu</p>
 <p><em>Bạn nào không xem được tại blog thì có thể xem trực tiếp tại Youtube từ link sau nhé: <a href="https://www.youtube.com/watch?v=xRpHHNVHe68&amp;feature=youtu.be">https://www.youtube.com/watch?v=xRpHHNVHe68&amp;feature=youtu.be</a></em></p>
@@ -48,9 +45,6 @@ description: "cách phết trứng bánh trung thu"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

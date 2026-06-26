@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2020/03/Banh-mi-hoa-cuc-bo-toi-nuong-gion-1.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <div class="" data-block="true" data-editor="c0ttq" data-offset-key="95m8-0-0">
 <div class="_1mf _1mj" data-offset-key="95m8-0-0"></div>
 </div>
@@ -72,4 +71,4 @@ description: ""
 <div class="" data-block="true" data-editor="c0ttq" data-offset-key="d15bk-0-0">
 <div class="_1mf _1mj" data-offset-key="d15bk-0-0"><span data-offset-key="d15bk-0-0" style="color: #000000;">Bạn có thể theo dõi thời gian để căn bánh giòn hay mềm theo sở thích. Càng nướng lâu bánh càng giòn, có thể đến mức giòn từ trong ra ngoài. Nhưng nếu muốn nướng lâu, nên hạ nhiệt độ thấp khoảng 150 – 160 độ C để bên ngoài bánh không bị cháy nhanh. Và măm thôi! :)</span></div>
 </div>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

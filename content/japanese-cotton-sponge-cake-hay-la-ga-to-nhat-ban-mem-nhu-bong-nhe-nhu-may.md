@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/02/GateauNhatBan1.jpg"
 description: "Ga-tô Nhật Bản, Sponge cake, mem nhu bong, nhe nhu may"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Mình ít thấy mọi người ở nhà làm bánh Ga-tô Nhật Bản này – nói đúng hơn là trên các forum và food blog về ẩm thực, bánh trái của chị em ở VN thì mình hầu như không thấy nhắc đến bánh này. Có vẻ mọi người hay làm Japanese Cotton Cheese Cake hơn. Nhưng mà thực sự là mình thấy bánh này ngon lắm, làm ra bao nhiêu là hết veo bấy nhiêu, bánh mềm và nhẹ bỗng, mịn, và thơm nữa. Làm cũng nhanh, nếu so với Cheesecake thì không phải bận tâm đến khâu nướng cách thủy, thêm nữa là thành phần cũng ít chất béo hơn hẳn (ít hơn đến cả trăm gram cream cheese mà) cho nên ăn cũng đỡ lo lắng :D</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6890601885/" title="IMG_2129-1 by LinhTrang9185, on Flickr"><img alt="IMG_2129-1" class="aligncenter" height="341" loading="lazy" src="http://farm8.staticflickr.com/7182/6890601885_e801583542.jpg" width="500"/></a></p>
 <p>Bạn nào thích <a href="/nhat-ki-hoc-lam-banh-phan-5-foam-cake-va-gateau-hong-kong-gioi-thieu-mot-vai-luu-y/" title="gato">Gato Hồng Kông</a> và Chiffon thì rất nên thử công thức này. Riêng với mình thì có lẽ đây là một trong những loại bánh mà mình làm thành công nhất từ trước đến nay. Bánh này mình làm thường để “ăn vã” thôi, không thêm kem gì cả vì bản thân bánh cũng đã rất ngon rồi. Bánh rất nhẹ nên nếu trang trí thì có lẽ cũng chỉ nên dùng kem tươi hoặc rất ít kem bơ, nặng hơn thì sợ là bánh dễ bị xẹp.</p>
 <p>Ở dưới này phần nguyên liệu mình giới thiệu 2 công thức – mình đã thử cả 2. Một CT 3 trứng cho khuôn tròn đường kính 20cm, một CT 4 trứng cho khuôn tròn 23 cm hoặc khuôn vuông 20x20cm. Ảnh minh họa các bươcs là mình dùng khuôn tròn, còn ảnh sản phẩm là mình dùng khuôn vuông nhé.</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/6890517143/" title="Japanese Cotton Sponge Cake by LinhTrang9185, on Flickr"><img alt="Japanese Cotton Sponge Cake " class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7054/6890517143_3158141cf4_z.jpg" width="435"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6890517143/" title="Japanese Cotton Sponge Cake by LinhTrang9185, on Flickr"><img alt="Japanese Cotton Sponge Cake " class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7054/6890517143_3158141cf4_z.jpg" width="435"/></a></p>
 <p><strong>Nguyên liệu</strong></p>
 <p><em><strong>* Công thức 3 trứng (khuôn tròn đường kính 20cm)</strong></em></p>
 <ul>
@@ -52,10 +48,7 @@ description: "Ga-tô Nhật Bản, Sponge cake, mem nhu bong, nhe nhu may"
 <p><a href="http://www.flickr.com/photos/55490207@N05/6890517943/" title="2012-02-154 by LinhTrang9185, on Flickr"><img alt="2012-02-154" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7183/6890517943_932ac07281.jpg" width="500"/></a></p>
 <p>2. Rây bột mỳ và bột ngô vào bát, dùng phới lồng đánh trứng cầm tay trộn đều. Dùng nĩa đánh tan nhẹ lòng đỏ trứng, vỏ cam/chanh bào vụn và vanilla.</p>
 <p>3. Đun sôi một chút nước trong nồi. Cho sữa, bơ và dầu ăn vào âu. Đợi nước sôi thì đặt âu lên miệng nồi (<strong>lưu ý: đáy âu không chạm nước)</strong>, dùng thìa hoặc phới lồng đánh trứng quấy đều đến khi bơ tan, hỗn hợp hòa quyện và ấm nóng (khoảng 40-45 độ C,không nóng hơn) (hình 1-2)</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/6890518213/" title="2012-02-155 by LinhTrang9185, on Flickr"><img alt="2012-02-155" class="aligncenter" height="354" loading="lazy" src="http://farm8.staticflickr.com/7197/6890518213_58605c38a6.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6890518213/" title="2012-02-155 by LinhTrang9185, on Flickr"><img alt="2012-02-155" class="aligncenter" height="354" loading="lazy" src="http://farm8.staticflickr.com/7197/6890518213_58605c38a6.jpg" width="500"/></a></p>
 <p>4. Bắc nồi ra khỏi bếp, rây bột vào âu, nhanh tay trộn đều. Cho lòng đỏ trứng, vanilla và vỏ cam vào, trộn đều để có một hỗn hợp mịn và mượt (hình 3-6)</p>
 <p>5. Dùng một chiếc âu khác để đánh lòng trắng trứng. Để máy ở tốc độ thấp, đánh lòng trắng khoảng 40-50giây, đến khi các bọt khí lớn bắt đầu xuất hiện. Cho muối và cream of tartar vào, tăng dần tốc độ máy lên mức gần cao nhất. Đánh đến khi các bọt khí nhỏ dần, trông gần giống như bọt xà phòng giặt hay bọt cạo râu thì từ từ cho đường vào (cho từng chút một, sẽ mất khoảng 30-40giây để cho hết chỗ đường, trong lúc cho đường vẫn giữ máy chạy ở tốc độ cao). Lòng trắng sẽ bông và đặc dần, đạt chóp mềm (soft peak như trong hình 8). Tiếp tục đánh lòng trắng trứng đến khi bông cứng (stiff-peak) (hình 9-10).</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6890517715/" title="2011-11-133 by LinhTrang9185, on Flickr"><img alt="2011-11-133" class="aligncenter" height="354" loading="lazy" src="http://farm8.staticflickr.com/7202/6890517715_017563d828.jpg" width="500"/></a></p>
@@ -72,7 +65,6 @@ description: "Ga-tô Nhật Bản, Sponge cake, mem nhu bong, nhe nhu may"
 <p>9. Đặt khay nướng sao cho <strong>khuôn ở chính giữa lò nướng </strong>(mình đặt thấp hơn khe chính giữa 1 nấc). Nướng ở nhiệt độ quy định (hai lửa, cả trên &amp; dưới) trong khoảng 45 phút hoặc đến khi bánh chín vàng mặt, ấn nhẹ lên mặt bánh thấy lập tức phồng trở lại, cắm que thử vào giữa bánh rút lên thấy que sạch và khô.</p>
 <p><em>Trong hình dưới là bột trước khi nướng (hình 16), sau khi ở trong lò khoảng 20 phút (hình 17), sau khoảng 40 phút (hình 18) và bánh sau khi lấy khỏi khuôn (vuông) (hình 19-20).</em></p>
 
-
 <p><a href="http://www.flickr.com/photos/55490207@N05/6890552209/" title="2012-02-156 by LinhTrang9185, on Flickr"><img alt="2012-02-156" class="aligncenter" height="354" loading="lazy" src="http://farm8.staticflickr.com/7205/6890552209_e27c4ca1cf.jpg" width="500"/></a></p>
 <p>Bánh chín lấy ra khỏi lò và lập tức dùng dao mỏng rạch quanh thành trong của khuôn, đặt rack lên mặt khuôn rồi úp ngược để lấy bánh ra. <em>Bánh <strong>rất nhẹ </strong>nên khi lấy cả nhà nhẹ tay thôi nhé :) </em>Mình luôn làm cách này chứ không úp ngược khuôn đợi nguội mới lấy ra, và chưa bao giờ bánh bị xẹp mặt hay lõm đáy, thắt eo cả.</p>
 <p>* <em><strong>Nếu bánh sau khi nướng gặp phải một trong số các hiện tượng sau đây….</strong></em></p>
@@ -86,4 +78,4 @@ description: "Ga-tô Nhật Bản, Sponge cake, mem nhu bong, nhe nhu may"
 <p>– Nhiệt độ lò nướng có ổn định và chính xác không (nhất là khi bánh cháy mặt mà trong chưa chín thì nhiều khả năng là do nhiệt độ quá cao). Với dạng bánh kiểu Sponge/ Chiffon như thế này, mình thấy để nhiệt độ thấp và nướng trong thời gian lâu để bánh nở từ từ có vẻ tốt hơn, đảm bảo bánh vững vàng hơn, hạn chế hiện tượng xẹp mặt sau khi lấy ra khỏi lò.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6890518601/" title="Japanese Cotton Sponge Cake by LinhTrang9185, on Flickr"><img alt="Japanese Cotton Sponge Cake " class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7205/6890518601_21e4d1c129_z.jpg" width="431"/></a></p>
 <p>Chúc cả nhà thành công với món bánh này nhé :)</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -12,10 +12,7 @@ description: ""
 <p>Mình đi công tác từ tuần trước và đến cuối tuần này mới về. Mới đầu nghĩ là sẽ vẫn có thời gian đảo qua blog để trả lời phản hồi của các bạn và cập nhật bài mới. Nhưng lịch trình thực tế bận rộn hơn dự kiến ban đầu nên chắc là đến khi về nhà mình sẽ không thể trả lời được câu hỏi của các bạn tại blog. Tuy nhiên, Oriole, Hồng Phúc và nhiều bạn khác vẫn giúp đỡ giải đáp thắc mắc (như mọi khi), nên nếu có gì cần trả lời gấp thì các bạn cứ hỏi tại SD nhé. Còn nếu muốn hỏi trực tiếp mình thì các bạn chịu khó đợi sang đầu tuần sau, mình về rồi sẽ cố gắng trả lời các bạn sớm. Cả nhà lưu ý là các thắc mắc các bạn chỉ cần gửi tại website là mình sẽ biết và sẽ trả lời đủ, không nhất thiết phải gửi ở nhiều nơi khác như Facebook hay gửi mail nha. Ngoài ra, thường thì mình trả lời các câu hỏi tại website trước tiên nên các bạn đăng thắc mắc/ câu hỏi tại đây sẽ tiện cho mình hơn là Facebook.</p>
 <p>Tuần tới mình về nhà rồi sẽ tiếp tục với các bài về cách khắc phục thất bại với sữa chua, cách làm sữa chua Hy Lạp, cách làm nem chua rán/ nem chua nướng, đậu phụ… . Riêng về sữa chua thì vì có khá nhiều bạn đang đợi nguyên nhân của một số thất bại thường gặp như nhớt, tách nước… nên mình xin tóm tắt ngắn gọn vài dòng như ở dưới nha.</p>
 <p>1. Khi làm, các bạn cố gắng tuân theo đầy đủ các chỉ dẫn, đặc biệt là các lưu ý mà mình in đậm trong bài đầu tiên về sữa chua</p>
-<p>2. Sữa chua bị nhớt: hiện tượng thường gặp là khi múc sữa chua lên, thấy sữa chua như dính với nhau, không tách rời, giống như lòng trắng trứng hay phô-mai trên bánh Pizza khi đun chảy. Nếu sữa bị nhớt, các bạn kiểm tra lại những điểm dưới đây nhé:</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>2. Sữa chua bị nhớt: hiện tượng thường gặp là khi múc sữa chua lên, thấy sữa chua như dính với nhau, không tách rời, giống như lòng trắng trứng hay phô-mai trên bánh Pizza khi đun chảy. Nếu sữa bị nhớt, các bạn kiểm tra lại những điểm dưới đây nhé:</p>
 <ul>
 <li>Dụng cụ đã được khử trùng sạch hay chưa</li>
 <li>Ủ có ở nhiệt độ quá thấp hay không</li>
@@ -31,19 +28,13 @@ description: ""
 <p>Vậy thôi, hẹn gặp lại cả nhà trong tuần tới với các bài tiếp theo về sữa chua và một vài món “hứa hẹn đã lâu” :)</p>
 <p><i>(ngoài lề một tí) mời cả nhà món bánh flan kiểu Tây Ban Nha, rất ngon, thơm ngọt giống kem caramel của VN nhưng hơi dẻo hơn một chút – đi về rồi mình sẽ nghiên cứu cách làm ^.^</i></p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/14396429074/" title="IMG_6977 by LinhTrang9185, on Flickr"><img alt="IMG_6977" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3891/14396429074_a16f7593ab.jpg" width="500"/></a></p>
-<div align="center" id="google-ads-body-post-end">
-
-
-</div> <div class="ac advertise-end">
+ <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
 <a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
 <br/><br/>
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

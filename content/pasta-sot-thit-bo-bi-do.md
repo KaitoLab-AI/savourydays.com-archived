@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2011/10/pasta-bi-do.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Đang mùa bí đỏ, giá rẻ như cho, 1EUR/kg, cho nên nhất định là phải tranh thủ :D</p>
 <p>Công thức sốt thịt bò bí đỏ này là mình tự “sáng tác” dựa theo cách làm Bolognese và kinh nghiệm làm một số loại sốt pasta khác mà mình học được từ sách dạy nấu ăn. Vì tự sáng tác nên lúc nấu cũng hơi bị ca-mơ-run một tí, nhưng kết quả khá là bất ngờ, sốt thơm &amp; ngậy, bí đỏ với thịt bò cũng hợp vị :) Sốt kiểu này phải nấu trong thời gian tương đối dài một chút, nhưng có thể làm nhiều trong một lần rồi để đông lạnh, lần sau ăn chỉ việc rã đông là ngon lành :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6260070775/" title="Linguine with beef &amp; pumpkin sauce by LinhTrang9185, on Flickr"><img alt="Linguine with beef &amp; pumpkin sauce" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6037/6260070775_a1ca5de30c_z.jpg" width="427"/></a></p>
@@ -27,10 +26,7 @@ description: ""
 <li><em>Muối, tiêu đen</em></li>
 <li><em>Pho mát Parmesan bào sợi</em></li>
 </ul>
-<p><a href="http://www.flickr.com/photos/55490207@N05/6260070529/" title="Linguine with beef &amp; pumpkin sauce by LinhTrang9185, on Flickr"><img alt="Linguine with beef &amp; pumpkin sauce" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6174/6260070529_a1b13284fc_z.jpg" width="427"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6260070529/" title="Linguine with beef &amp; pumpkin sauce by LinhTrang9185, on Flickr"><img alt="Linguine with beef &amp; pumpkin sauce" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6174/6260070529_a1b13284fc_z.jpg" width="427"/></a></p>
 <p><span id="more-1024"></span></p>
 <p><strong>Cách làm</strong></p>
 <p>1. Cho bơ vào chảo. Để lửa vừa. Ngay khi bơ vừa tan hết thì cho thịt hun khói vào. Đảo sơ đến khi thịt hun khói săn lại.</p>
@@ -40,8 +36,5 @@ description: ""
 <p><em>Sốt có thể đun trong thời gian ngắn hơn, nhưng theo mình thấy khi nấu các loại sốt thịt băm kiểu này thì việc om ở lửa nhỏ trong khoảng thời gian dài (2-3 tiếng) là ngon nhất, nó giúp thịt mềm nhừ &amp; các thành phần trong sốt hòa quyện với nhau. </em></p>
 <p>5. Luộc mỳ: Đun một nồi nước to. Đợi nước sôi thì cho vào nồi muối (nêm nhạt như nấu canh) và mỳ, luộc theo thời gian chỉ dẫn trên bao. Thường thì sẽ mất khoảng 8-10 phút để mỳ đạt <em>al dente</em> – tức là chín vừa ăn, không còn vị sượng của bột sống nhưng không bị quá mềm hay nhũn. Mỳ chín đổ ra rổ cho ráo nước &amp; <strong>tuyệt đối không xả nước lạnh.</strong></p>
 <p>6. Đến đây thì có thể sắp mỳ ra đĩa &amp; đổ sốt lên trên. Nhưng mình thì thích cho mỳ vào chảo sốt &amp; đảo đều trong chảo nóng cho sốt ngấm mỳ rồi mới đổ ra đĩa. Ăn theo cách này mình cảm giác là sợi mỳ ngấm sốt đều &amp; đậm đà hơn :)</p>
-<p>Món này dùng nóng với Parmesan nhé. Chúc cả nhà ngon miệng!</p><div align="center" id="google-ads-body-post-end">
+<p>Món này dùng nóng với Parmesan nhé. Chúc cả nhà ngon miệng!</p>
 
-
-</div>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

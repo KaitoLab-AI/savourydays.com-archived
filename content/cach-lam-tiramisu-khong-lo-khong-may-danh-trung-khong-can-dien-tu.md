@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2017/04/cách-làm-tiramisu-banner.jpg"
 description: "Video chia sẻ cách làm Tiramisu ngon nhất, không cần lò nướng, máy đánh trứng hay kể cả cân. Ngoài video, công thức cũng chia sẻ các mẹo và bí quyết để thàn"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Video thứ hai trong series Back to Basics của mình.</p>
 <p>Như đã viết <a href="/video-cach-danh-trung-bang-tay-cach-tron-bot-theo-kieu-fold/"><strong>trong bài đầu tiên</strong></a>, series này mình làm với hi vọng có thể tiếp thêm tự tin và cảm hứng cho các bạn “mới toanh” vào bếp và tự làm ra các món tráng miệng hay món bánh ngon lành. Vì dành cho các bạn mới nên các video trong series này sẽ được làm chi tiết tới hết khả năng có thể để các bạn có thể dễ dàng “bắt chước” lại y hệt. Và cũng vì dành cho các bạn mới nên các video này mình sẽ cố gắng dùng các nguyên liệu cũng như dụng cụ dễ tìm và không quá đắt để tổng chi phí là thấp nhất ;)</p>
 <p>Video thứ hai này về Tiramisu – một trong những món bánh tráng miệng rất được ưa chuộng ở Việt Nam. Cách làm Tiramisu mình cũng đã giới thiệu tại Savoury Days từ rất lâu rồi. Tuy nhiên vì video lần này nằm trong series Back to Basics nên có một số điểm nhấn là:</p>
@@ -17,10 +16,7 @@ description: "Video chia sẻ cách làm Tiramisu ngon nhất, không cần lò 
 <li>Lượng nguyên liệu cho món ăn mình đã tính toán và cân chỉnh để dùng hết toàn bộ, đặc biệt với hai nguyên liệu tương đối đắt là pho-mát kem cream cheese cùng kem tươi (hộp có 200 g thì dùng hết 200 g luôn), tránh bỏ thừa lại không biết làm gì.</li>
 </ul>
 <p>Cuối cùng là trong công thức Tiramisu này mình dùng cream cheese thay cho Mascarpone, mặc dù Mascarpone vẫn được biết đến là thành phần quen thuộc của Tiramisu. Lý do chính là mình vẫn hay nhận được câu hỏi của các bạn về việc có thể dùng cream cheese để thay cho Mascarpone – vốn là thứ đắt và khó tìm hơn được không nên nhân lần làm video này mình thử luôn. Thành phẩm rất ngon lành nhé, tuy có hơi hướng gần cheesecake hơn một chút vì có vị chua mặn của kem pho-mát nhưng hoàn toàn không hề “oánh nhau” với các hương vị còn lại. Còn nếu muốn làm Tiramisu cổ điển thì các bạn thay phần cream cheese bằng Mascarpone là được.</p>
-<p>LƯU Ý: <strong>để đảm bảo giữ được hương vị thơm ngon của bánh, KHÔNG dùng pho-mát bò cười và kem topping để thay cho cream cheese và kem tươi.</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>LƯU Ý: <strong>để đảm bảo giữ được hương vị thơm ngon của bánh, KHÔNG dùng pho-mát bò cười và kem topping để thay cho cream cheese và kem tươi.</strong></p>
 <div>
 <p>Mong là sau video này sẽ nhận được nhiều ảnh “trả bài” của cả nhà nhé. Series Back to Basics là ý tưởng mới của mình nên mình cũng hi vọng sẽ nhận được thêm phản hồi của các bạn về việc nên làm gì hay không nên làm gì để video sẽ đáp ứng được nhu cầu của số đông nha :)</p>
 <div class="yj6qo ajU">
@@ -68,10 +64,7 @@ description: "Video chia sẻ cách làm Tiramisu ngon nhất, không cần lò 
 <li>Không cho tất cả kem trứng vào trộn cùng cream cheese vì như vậy cream cheese sẽ khó tan và khó hoà quyện, khiến cho phần kem dễ bị lổn nhổn, nhiều vón cục.</li>
 <li>Sau khi đã trộn hết kem trứng vào cream cheese, có thể thêm 5 – 10 ml (1 – 2 tsp) rượu Rum nếu thích.</li>
 </ol>
-<p><strong>D. Hoàn thiện</strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong>D. Hoàn thiện</strong></p>
 <ol>
 <li>Chuẩn bị bánh quy Sampa, hỗn hợp rượu cà phê từ (B) và kem Tiramisu từ (C) cùng 1 hộp đựng được khoảng 600 – 650 ml.</li>
 <li>Nhúng từng chiếc bánh quy vào rượu và phê rồi xếp thành 1 lớp kín đáy khuôn. Lưu ý nhúng nhanh, mỗi mặt không quá một giây vì nếu để bánh lâu quá trong nước thì bánh dễ bị nhũn nát.</li>
@@ -79,4 +72,4 @@ description: "Video chia sẻ cách làm Tiramisu ngon nhất, không cần lò 
 <li>Cho 140 ml kem tươi (phần kem còn lại) vào âu, đánh tới khi bông cứng. Xem hướng dẫn cách đánh bông kem bằng phới cầm tay trong video. Cho kem vào túi bắt kem và trang trí phần mặt khuôn với kem tươi này.</li>
 <li>Giữ bánh trong tủ lạnh tối thiểu 8 giờ mới dùng. Ngay trước khi ăn rắc một lớp bột mỏng cacao lên mặt bánh. Dùng trong 2 ngày.</li>
 </ol>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

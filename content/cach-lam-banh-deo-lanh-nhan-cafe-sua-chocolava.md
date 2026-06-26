@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2018/09/IMG_6311-1.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Quay đi quay lại đã thấy tuần sau là Rằm Trung thu rồi. Mùa trăng năm nay mình nhiều việc bận quá, có bao nhiêu kế hoạch, bao nhiêu thứ muốn thử mà cuối cùng chẳng kịp làm gì cả. Đã nghĩ là sẽ rửa khuôn xếp gọn rồi tạ lỗi với mọi người, đợi tới trung thu sang năm nhưng cuối cùng nhờ không khí nhà nhà bánh, người người bánh ở khắp nơi mà vẫn vớt vát được một vài sự sáng tạo mới :)</span></p>
 <p><span style="color: #000000;">Trung thu đã gần sát lắm rồi, giờ thì không còn kịp chuẩn bị nước đường hay trứng muối nữa. Học làm bánh nướng chắc vẫn kịp, nhưng có một món bánh khác nhanh hơn nhiều nhiều mà lại dễ làm, và rất ngon là bánh dẻo Singapore. Nếu bạn muốn làm gì đó cho trung thu mà không có thời gian lại cũng chẳng có kinh nghiệm bếp thì rất nên chọn món này. Bánh dẻo Sing không hề ngọt như bánh dẻo truyền thống, lại bảo quản trong tủ lạnh nên vị man mát, rất dễ ăn. Mình vốn thích vị cafe nên năm nay thay đổi nhân chút xíu, dùng sữa đặc thay đường để có vị cafe sữa, thấy nhân ngon hơn rất nhiều, thơm mà lại ngọt dịu và hơi beo béo. Còn lava chocolate là một màn nghịch ngợm, nếu bạn có thời gian thì thử xem sao nhé, không khó đâu mà khá là vui đấy ;)</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7650" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/09/IMG_6327-1.jpg-1024x683.jpg" width="1024"/></p>
 <h2><span style="color: #000000;">CÁCH LÀM BÁNH DẺO LẠNH NHÂN CAFE SỮA CHOCOLAVA </span></h2>
 <p><span style="color: #993300;"><b>Nguyên liệu</b></span></p>
-<p><span style="color: #000000;"><b>* Nhân cafe sữa</b></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;"><b>* Nhân cafe sữa</b></span></p>
 <ul>
 <li><span style="color: #000000;"><em><span style="font-weight: 400;">100 gram đậu xanh đã xát vỏ </span></em></span></li>
 <li><span style="color: #000000;"><em><span style="font-weight: 400;">80 – 90 gram sữa đặc (tùy khẩu vị)</span></em></span></li>
@@ -50,10 +46,7 @@ description: ""
 </span><span style="font-weight: 400;">5. Sau khi dầu ăn hòa quyện (5 phút) cho nốt số dầu ăn còn lại vào chảo. Khi nhân tương đối sệt (sên được khoảng 20 – 25 phút) thì cho cafe vào đảo đều. Sên tiếp tới khi nhân đặc, sên thấy nặng tay thì hạ lửa nhỏ nhất. Sên tiếp tới khi nhân quyện thành một khối dẻo, đặc, mịn. Để nguội</span></span></p>
 <p><span style="color: #000000;"><b>B. Phần sốt chocolate lava </b></span></p>
 <p><span style="font-weight: 400; color: #000000;">1. Chocolate thái nhỏ, cho vào âu cùng kem tươi</span></p>
-<p><span style="font-weight: 400; color: #000000;">2. Đặt âu chocolate lên miệng một nồi nước sôi lăn tăn (đáy âu không chạm nước), đảo nhẹ đến khi chocolate tan chảy hoàn toàn, để nguội rối cho vào túi bắt kem. </span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">2. Đặt âu chocolate lên miệng một nồi nước sôi lăn tăn (đáy âu không chạm nước), đảo nhẹ đến khi chocolate tan chảy hoàn toàn, để nguội rối cho vào túi bắt kem. </span></p>
 <p><span style="color: #000000;">3. Khi nhân còn ấm, chia thành các viên cỡ 20 gram, với mỗi phần nhân, bớt lại một phần nhỏ (khoảng 1/5 lượng nhân) để riêng. Với phần nhân còn lại, nặn thành viên tròn, dùng ngón tay nhẹ nhàng ấn thành 1 “hố” ở giữa, bơm phần chocolate vào, sau đó dùng phần nhân bỏ riêng “đậy” lên trên, nhẹ nhàng miết lại. Làm lần lượt đến khi hết nhân, bọc kín và để tủ lạnh khoảng 1 giờ</span></p>
 <p><span style="color: #000000;"><b>C. Phần vỏ bánh dẻo lạnh</b></span></p>
 <p><span style="color: #000000;">1. Hòa tan bột cacao với khoảng 2 thìa canh (30 ml) nước sôi, sau đó để nguội</span></p>
@@ -70,5 +63,3 @@ description: ""
 <p><span style="font-weight: 400; color: #000000;">Bảo quản bánh trong hộp kín, để trong ngăn mát tủ lạnh, dùng trong 2 – 3 ngày. Hoặc có thể để đông lạnh, khi dùng rã đông trong ngăn mát tủ lạnh.</span></p>
 <p> </p>
 
-
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

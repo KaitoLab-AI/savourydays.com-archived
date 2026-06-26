@@ -12,10 +12,7 @@ description: ""
 <p>Có lẽ FoodPanda (<a href="https://www.foodpanda.vn/" target="_blank">https://www.foodpanda.vn/</a>) là một cái tên không mấy xa lạ với nhiều bạn đọc của Savoury Days. Không chỉ ở Việt Nam mà tại nhiều quốc gia trên thế giới, FoodPanda giúp cho việc chọn món, gọi đồ ăn về nhà trở nên dễ dàng và giản tiện hơn rất nhiều. Bản thân mình là người theo trường phái “homemade food” nhưng thi thoảng công việc bận, mệt hay lười, hay đơn giản là tự nhiên nhớ và thèm hương vị của một món ăn nào đó mà không thể ngay lập tức nấu được, thì cũng nhờ tới sự trợ giúp của FoodPanda. Không phải mò mẫm trên mạng nhiều vì bản thân FoodPanda đã có cả một danh mục các nhà hàng nổi tiếng với đủ các trường phái ẩm thực khác nhau rồi, việc lựa chọn nhanh hơn mà đặt hàng cũng tiện lợi hơn nữa :)</p>
 <p>Trong tháng 5 này, để tri ân các khách hàng tại Việt Nam và với mong muốn nhận được thêm nhiều phản hồi, nhận xét để nâng cao chất lượng dịch vụ, <a href="https://www.foodpanda.vn" target="_blank">FoodPanda Việt Nam</a> tổ chức một sự kiện nhỏ dành cho các bạn <em>food blogger</em> tại Việt Nam. Mỗi người tham gia sẽ đều có cơ hội dùng thử dịch vụ của FoodPanda miễn phí, và những người may mắn sẽ được nhận các phần quà có giá trị nữa.</p>
 <p>Vì biết có rất nhiều bạn bè của Savoury Days là người yêu thích ẩm thực và có trang blog riêng để chia sẻ các trải nghiệm của bản thân về bếp núc và ăn uống, nên FoodPanda có liên hệ với mình để thông qua Savoury Days giới thiệu về cuộc thi này tới các bạn. Hi vọng thông tin này sẽ đến được với nhiều bạn bè cùng sở thích và quan tâm hơn :) Nội dung cụ thể về cuộc thi như sau nha:</p>
-<p><a href="https://www.flickr.com/photos/55490207@N05/17200827560" title="vietvechungtoi_2 by Trang Linh, on Flickr"><img alt="vietvechungtoi_2" class="aligncenter" height="800" loading="lazy" src="https://farm6.staticflickr.com/5323/17200827560_d2462d6c96_c.jpg" width="534"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="https://www.flickr.com/photos/55490207@N05/17200827560" title="vietvechungtoi_2 by Trang Linh, on Flickr"><img alt="vietvechungtoi_2" class="aligncenter" height="800" loading="lazy" src="https://farm6.staticflickr.com/5323/17200827560_d2462d6c96_c.jpg" width="534"/></a></p>
 <ol>
 <li><strong> Đề tài: </strong></li>
 </ol>
@@ -40,10 +37,7 @@ description: ""
 <li><strong> Cách thức tham dự:</strong></li>
 </ol>
 <p>* Gửi email cho đại diện của FoodPanda tại địa chỉ <a href="mailto:p.le@foodpanda.com">p.le@foodpanda.com</a></p>
-<p>* Tiêu đề email ghi rõ: <strong><em>Tham dự cuộc thi “Viết về chúng tôi – Food Panda”</em></strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>* Tiêu đề email ghi rõ: <strong><em>Tham dự cuộc thi “Viết về chúng tôi – Food Panda”</em></strong></p>
 <p>* Trong email các bạn vui lòng cung cấp các thông tin sau:</p>
 <ul>
 <li>Họ tên</li>
@@ -66,9 +60,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

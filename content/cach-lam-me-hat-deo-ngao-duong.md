@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2022/05/9-1.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="font-weight: 400;">Thức uống cứu nóng tốt nhất mùa hè (theo mình 😁) Nước me chua chua ngọt ngọt, có thêm mùi dứa thơm thơm, đậu phộng giòn bùi, và chốt hạ bằng hạt me mềm mềm dẻo dẻo. Đi nắng về mà có ngay một cốc mát lạnh này thì đảm bảo là mùa hè sẽ thiên đường hơn nhiều đấy. Cách làm đơn giản lắm, bạn nào muốn làm hạt me dẻo thì cần thời gian ngâm thôi, chứ về thao tác chắc chỉ mất 10 – 15 phút là có ngay một hũ để dùng dần rồi. Không thể bỏ qua nha 😉</span></p>
 <h2><span style="color: #993300;">Cách làm ME HẠT DẺO NGÀO ĐƯỜNG</span></h2>
 <p><strong><span style="color: #993300;">Nguyên liệu:</span></strong></p>
@@ -22,10 +21,7 @@ description: ""
 </ul>
 <p><strong>Lưu ý: </strong></p>
 <p><span style="font-weight: 400;">– Bạn có thể dùng hoàn toàn đường trắng hoặc đường vàng tùy theo khẩu vị của gia đình nhé. Dùng thêm đường vàng thì thành phẩm sẽ thơm hơn.</span></p>
-<p><span style="font-weight: 400;">– Baking soda (muối nở) không bắt buộc nhưng giúp cho hạt me nhanh mềm hơn, rút ngắn thời gian ngâm hơn khá nhiều.</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="font-weight: 400;">– Baking soda (muối nở) không bắt buộc nhưng giúp cho hạt me nhanh mềm hơn, rút ngắn thời gian ngâm hơn khá nhiều.</span></p>
 <p><span style="color: #993300;"><strong>Cách làm:</strong></span></p>
 <p><span style="font-weight: 400;">Để biến những hạt me rất cứng, rất chát thành hạt me dẻo mềm thì cần thời gian ngâm hạt, nhưng thành quả sẽ rất xứng đáng :-) Nếu bạn không muốn làm me hạt dẻo thì có thể bỏ hạt đi, chỉ giữ phần thịt mẻ nhé, làm me ngào đường theo công thức này cũng rất ngon nha. </span></p>
 <p><span style="font-weight: 400;">1. Sơ chế me:</span></p>
@@ -35,10 +31,7 @@ description: ""
 <p><span style="font-weight: 400;">* Đối với me tươi</span></p>
 <p><span style="font-weight: 400;">– Dùng dao tách thịt me và hạt me riêng, bọc kín thịt me và bảo quản trong tủ lạnh.</span></p>
 <p><span style="font-weight: 400;">2. Làm mềm hạt me:</span></p>
-<p><span style="font-weight: 400;">– Rang hạt me ở lửa nhỏ-vừa khoảng 5-10 phút cho tới khi lớp vỏ giòn lại, nâu vàng đều, cắn thử thì lớp vỏ nâu bên ngoài có thể tróc ra thì tắt bếp. </span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="font-weight: 400;">– Rang hạt me ở lửa nhỏ-vừa khoảng 5-10 phút cho tới khi lớp vỏ giòn lại, nâu vàng đều, cắn thử thì lớp vỏ nâu bên ngoài có thể tróc ra thì tắt bếp. </span></p>
 <p><span style="font-weight: 400;">– Cho hạt me vào túi vải, dùng chày đập sơ hạt me, bỏ đi lớp vỏ nâu tróc ra.</span></p>
 <p><span style="font-weight: 400;">– Đổ nước vừa ngập hạt me, thêm baking soda và ¼ tsp muối. Ngâm me trong từ 24 – 36 tiếng. </span></p>
 <p><strong>* Lưu ý:</strong></p>
@@ -55,5 +48,3 @@ description: ""
 <p><span style="font-weight: 400;">Lưu ý: Hạt me khi để tủ lạnh sẽ không được mềm như lúc mới nấu xong. Bạn có thể quay vi sóng me ở mức thấp trong 10-15 giây để hạt me mềm ra trước khi pha nước nhé.  </span></p>
 <p><img alt="" class="alignnone wp-image-9139" height="729" loading="lazy" sizes="(max-width: 486px) 100vw, 486px" src="/wp-content/uploads/2022/05/7-2-200x300.jpg" width="486"/></p>
 
-
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

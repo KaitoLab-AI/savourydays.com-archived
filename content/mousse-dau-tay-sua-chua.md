@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2014/04/MousseDauSuaChua.jpg"
 description: "mousse dâu, mousse sữa chua, cách làm mousse"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Mùa Xuân năm nay ở Bỉ đáng yêu khủng khiếp. Trời xanh trong vắt, nắng vàng ấm áp. Mới tuần trước hàng cây bên đường còn trơ trụi khẳng khiu những cành khô, qua tuần này đã đầy ắp lá non xanh biếc, rì rào đu theo gió. Không biết có phải vì thời tiết quá thuận lợi mà dâu tây năm nay cũng xuất hiện ở chợ sớm hơn hay không. Đi chợ nông dân cuối tuần, thấy hàng nào hàng nấy đầy ắp những rổ dâu căng tròn, đỏ au, mọng nước và mùi thơm thì như muốn níu chân người đi ngang. Đã mua xong ở cửa hàng này rồi rồi, bước chân sang hàng bên cạnh, thấy dòng chữ ghi bằng phấn trắng trên chiếc bảng đen bé xinh: “dây tây chính hiệu Bỉ, SIÊU NGỌT!!!”, lại không cầm lòng được, mua tiếp hộp nữa. Kết quả là trên đường từ chợ về nhà, trong đầu nhảy múa toàn là những món có thể làm với dâu.</p>
 <p>Tiết trời Xuân trong lành ấm áp làm người ta thèm cái gì đó mát mẻ và tươi mới. Nghĩ đi nghĩ lại chắc chẳng còn gì phù hợp hơn Mousse.  Thế là cuối tuần trong tủ có một ổ mousse (hơi) to bự với hai tầng, bên dưới là mousse dâu, trên là mousse sữa chua, mềm mại, mịn màng, béo ngậy mà không ngấy nhờ vị chua dịu của sữa chua và dâu tây, phủ ngoài lớp bánh gateau mềm xốp. Mang đi mời hết lượt hàng xóm, ai cũng phản hồi là “cực thích” cả ^.^</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/13960078886/" title="IMG_6501-1 by LinhTrang9185, on Flickr"><img alt="IMG_6501-1" class="aligncenter" height="640" loading="lazy" src="https://farm6.staticflickr.com/5328/13960078886_a37a401ab9_z.jpg" width="478"/></a></p>
 <p><span style="color: #800000;"><strong>Mức độ</strong></span>: Trung bình</p>
-<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn tròn đế rời đường kính 18cm (hoặc khuôn tròn để nướng bánh và mousse ring đường kính 18 – 20 cm).</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn tròn đế rời đường kính 18cm (hoặc khuôn tròn để nướng bánh và mousse ring đường kính 18 – 20 cm).</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <p><strong>A. Phần bánh: </strong><a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/">1 cốt bánh cơ bản bất bại 3 trứng</a></p>
 <p><strong>B. Phần Mousse dâu tây</strong></p>
@@ -41,10 +37,7 @@ description: "mousse dâu, mousse sữa chua, cách làm mousse"
 <p><strong>A. Phần bạt bánh</strong>: Nướng 1 bạt bánh theo công thức <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/">Gateau cơ bản bất bại (3 trứng) </a>– Dùng khuôn tròn đường kính 15 – 18cm.</p>
 <p>Sau khi bánh chín, để nguội rồi xẻ làm 2 phần theo chiều ngang, mỗi bạt bánh cao khoảng 1,5 – 1,7 cm. Trong lúc đợi bánh nguội thì chuẩn bị phần Mousse.</p>
 <p><strong>B. Phần Mousse</strong></p>
-<p>1. Ngâm 6gr Gelatin trong nước lạnh khoảng 10 – 15 phút. Nếu dùng Gelatin bột, sẽ cần khoảng 40 – 50 ml nước để đủ cho Gelatin nở hết mà không bị đặc hay dính vào bát ngâm. Với Gelatin dạng lá có thể ngâm với nhiều nước hơn.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>1. Ngâm 6gr Gelatin trong nước lạnh khoảng 10 – 15 phút. Nếu dùng Gelatin bột, sẽ cần khoảng 40 – 50 ml nước để đủ cho Gelatin nở hết mà không bị đặc hay dính vào bát ngâm. Với Gelatin dạng lá có thể ngâm với nhiều nước hơn.</p>
 <p>2. Xay nhuyễn dâu tây với 45 gram đường. Cho dâu vào nồi. Đun sôi rồi hạ nhỏ lửa để dâu sôi lăn tăn thêm 2 – 3 phút. Vừa đun vừa quấy đều. Mục đích của việc đun dâu sôi lăn tăn là để nước bay hơi bớt, hỗn hợp bớt loãng, khi trộn với kem tươi làm Mousse sẽ đậm đà hơn.</p>
 <p>Sau khi đun xong, mình có khoảng 265 gram nước cốt dâu (<em>phần này không cần chính xác, các bạn có thể để nước bay hơi nhiều hoặc ít hơn, xê dịch trong khoảng 250 – 270 gram là ổn</em>). Bắc nồi ra khỏi bếp. Vắt lá Gelatin cho ráo nước, cho vào nồi, nhanh tay quấy đều cho Gelatin tan hết (nếu dùng Gelatin bột thì cho cả phần Gelatin đã ngâm nở cùng nước ngâm vào nồi). Cho nước cốt chanh, quấy đều rồi đổ ra âu lớn, để nguội.</p>
 <p>3. Cho 320 gram kem tươi cùng 30 gram đường vào âu. Đánh đến khi bông mềm. <em>Đây là lượng kem dùng cho cả hai phần Mousse dâu và sữa chua, mình đánh chung 1 lần để tiết kiệm thời gian.</em></p>
@@ -57,4 +50,4 @@ description: "mousse dâu, mousse sữa chua, cách làm mousse"
 <p>8. Nhẹ nhàng đổ phần sữa chua vào trộn cùng 1/2 số kem tươi đánh bông còn lại từ bước (4). Trộn đều.</p>
 <p>9. Khi mousse dâu tây đã se mặt, nhẹ nhàng đặt lớp bạt bánh thứ 2 lên trên phần mousse dâu rồi đổ mousse sữa chua lên trên. Để cả khuôn vào ngăn mát tủ lạnh trong tối thiểu 3 – 4 giờ để mousse đông hẳn.</p>
 <p>Gelatin tan chảy khá nhanh ở nhiệt độ trên 30 độ C nên Mousse cần được bảo quản lạnh cho đến khi dùng. Có thể trang trí mặt bánh với hoa quả tươi. Dùng trong 1 – 2 ngày.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

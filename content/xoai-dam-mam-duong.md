@@ -8,18 +8,14 @@ image: "/wp-content/uploads/2012/06/XoaiDamMamOt.jpg"
 description: "hoa quả dầm mắm đường, xoài dầm, mùa hè, món ăn chơi"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Có những món ăn mà chỉ nghe tên thôi cũng đủ làm nước miếng tứa ra rào rào…</p>
 <p>chẳng hạn như là Xoài chua dầm mắm ớt ;;)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7413892564/" title="IMG_5558-1 by LinhTrang9185, on Flickr"><img alt="IMG_5558-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7252/7413892564_eb9a464f86_z.jpg" width="436"/></a></p>
 <p>Mình thật ra không phải là người hay ăn vặt, nhưng riêng các món hoa quả dầm mà có đủ vị chua cay mặn ngọt này thì không thể bỏ qua được :”&gt; (mà chắc con gái cũng ít ai có đủ khả năng “kiềm chế” với các món quà vặt này lắm, nhỉ?)</p>
-<p>Nhưng mà hoa quả kiểu xanh hoặc hơi ương ương, để còn đủ độ giòn, chua nhưng không đến mức chua loét thì ở bên này cũng không dễ kiếm lắm. Cho nên hôm vừa rồi mua được quả xoài kiểu như vậy là có “đứa” mừng như bắt được vàng, chớp cơ hội làm món khoái khẩu luôn :”&gt;</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Nhưng mà hoa quả kiểu xanh hoặc hơi ương ương, để còn đủ độ giòn, chua nhưng không đến mức chua loét thì ở bên này cũng không dễ kiếm lắm. Cho nên hôm vừa rồi mua được quả xoài kiểu như vậy là có “đứa” mừng như bắt được vàng, chớp cơ hội làm món khoái khẩu luôn :”&gt;</p>
 <p>Xoài gọt vỏ rồi thái miếng vừa ăn – bạn Trang nằm trong hàng ngũ tham ăn nên thái miếng to (nhưng mà thế này nó mới giòn ý :-&gt;). Xong rùi cho vào đĩa, cho ít muối, ít đường, tí tẹo nước cốt chanh, nước mắm và thật thật nhiều ỚT nữa nhé. Xong rồi đảo đều, rồi bọc kín, rồi để tủ lạnh…</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7413893516/" title="IMG_5539 by LinhTrang9185, on Flickr"><img alt="IMG_5539" class="aligncenter" height="333" loading="lazy" src="http://farm6.staticflickr.com/5315/7413893516_d1b4dfa360.jpg" width="500"/></a></p>
 <p>Chua chua, mặn mặn ngòn ngọt và … cay điên cuồng…. cay đến mức mà hết đĩa xoài thì cũng hết luôn cả chai nước siêu to. Nhưng mà NGOOOONNNNNNNNNN. Biết là cay đấy, nóng đấy, nhưng mà không thể nào kiềm chế được trước cái mùi siêu hấp dẫn của mắm đường và ớt.</p>
 <p>À, ngoài xoài ra, làm cóc, ổi, sấu, mận … đều ngon cả. Mà lại đang vào mùa, tội gì mà không tranh thủ nhỉ (mình là mình ghen tị với các bạn ở Việt Nam trong khoản này lắm nhé :”&gt;).</p>
 <p><em>Khổ quá, ngồi viết bài mà cứ nuốt nước bọt như này…. haizzz :-&lt;</em></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

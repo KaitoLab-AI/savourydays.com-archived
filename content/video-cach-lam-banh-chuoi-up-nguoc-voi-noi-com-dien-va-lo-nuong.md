@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2016/01/banh-chuoi-up-nguoc.jpg"
 description: "Một món bánh rất ngon với nguyên liệu dễ tìm, đơn giản và có thể làm với nồi cơm điện - công thức kèm video hướng dẫn cách làm chi tiết"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Dọn tủ mới phát hiện ra mấy quả chuối bị “bỏ rơi”, mà trong ngăn tủ lại còn rất nhiều hoa quả khác cũng phải giải quyết nữa, thế là lại tìm tới một cách giải quyết hoàn hảo và ngọt ngào là cho  vào bánh :)</p>
 <p>Bánh hoa quả kiểu “úp ngược” (upside-down) là một món bánh dễ làm và cũng rất dễ ăn. Bánh làm theo kiểu đánh bông bơ đường rồi trộn trứng và bột (creaming method) thường có khả năng thành công cao hơn nhiều so với các loại bánh làm với trứng đánh bông. Mặc dù cốt bánh bơ (bánh cake) vẫn hay phải chịu “tiếng oan” là đặc, khô, bứt, ngọt, ngấy. Nhưng với những loại cốt bánh bơ mình đã thử thì mình thấy hoàn toàn không phải vậy. Bánh bơ – nếu làm đúng công thức – thì sẽ vừa xốp, vừa mềm, lại vừa thơm ngậy và tan trong miệng nhờ có bơ nữa.</p>
 <p>Một điểm đặc biệt nữa của bánh bơ là vì không đỏng đảnh nhiều như bánh với trứng đánh bông, nên nếu không có lò nướng thì hoàn toàn có thể làm bằng nồi cơm điện được, khả năng thành công là khá cao. Nên bạn nào muốn thử sức mà trong nhà chưa có lò nướng thì có thể thử nghiệm với món bánh chuối này nhé :)</p>
 <p><strong>Dụng cụ</strong>: Nồi hoặc khuôn tròn đường kính 18 – 20 cm</p>
-<p><strong>Nguyên liệu </strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>Nguyên liệu </strong></p>
 <p>A. PHẦN HOA QUẢ</p>
 <ul>
 <li><em>250 gr chuối (hoặc táo, dứa)</em></li>
@@ -46,10 +42,7 @@ description: "Một món bánh rất ngon với nguyên liệu dễ tìm, đơn 
 <p>– Các bạn có thể nướng bánh bằng lò ở nhiệt độ 165 độ C (hai lửa – làm nóng lò trước 15 phút), trong 45 – 50 phút, tới khi xiên thử que tăm vào chính giữa bánh, rút tăm lên thấy khô và sạch.</p>
 <p>– Nếu nồi cơm không có chức năng Cake: Các bạn bật nút “Nấu/ Cook” như bình thường. Với đa số nồi cơm thì sau khoảng 10 – 15 phút nồi sẽ tự động chuyển chế độ từ “Nấu/ Cook” sang “Giữ ấm/ Warm”. Nếu chỉ để chế độ này, có khả năng trong nồi sẽ thiếu nhiệt và bánh sẽ nở kém, hoặc không chín được hết phần bên trong. Do vậy, chúng ta cần bật lại nút “Nấu/ Cook” để nồi cơm làm nóng và đảm bảo đủ nhiệt giúp bánh nở.</p>
 <p>– TUY NHIÊN, mỗi nồi cơm sẽ có chế độ làm nóng khác nhau và nhiệt độ khác nhau. Do đó không có cách chỉnh nhiệt cố định cho tất cả các nồi mà các bạn <strong>cần tự theo dõi nồi của mình và đưa ra cách chỉnh nhiệt thích hợp nhất với nồi.</strong> Các bạn có thể thử trong lần đầu tiên làm bánh theo cách sau: Bật nút “Nấu/Cook” – khi nồi cơm chuyển “warm” thì khoảng 3 phút sau đó bật lại “Cook”. Cứ như vậy, chúng ta cần nướng bánh trong khoảng 50 phút để bánh chín hoàn toàn. Và tuỳ vào nồi mà số lần bật lại “Cook” có thể sẽ là 2 – 3 lần.</p>
-<p>NẾU:</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>NẾU:</p>
 <ul>
 <li>phần chuối bị cháy thì có lẽ nhiệt trong nồi của bạn hơi cao quá, các lần làm kế tiếp bạn nên lót một lớp giấy nến dưới đáy nồi và giảm tần suất bật “Cook”.</li>
 <li>bánh sau khi lấy ra khỏi nồi bị xẹp nhiều, bánh đặc ẩm và có thể còn mùi trứng tanh: bánh chưa chín hẳn, bạn cần để trong nồi lâu hơn một chút, hoặc các lần kế tiếp chỉ làm 1/2 công thức, bánh thấp sẽ chín nhanh hơn</li>
@@ -70,7 +63,6 @@ description: "Một món bánh rất ngon với nguyên liệu dễ tìm, đơn 
 <p><strong>DANH SÁCH CÁC BẠN MAY MẮN NHẬN QUÀ TẶNG TỪ ZOJIRUSHI VN</strong></p>
 <p>Cảm ơn các bạn đã nhiệt tình tham dự mini game lần này. Mình xin thay mặt Zojirushi VN công bố danh sách các bạn may mắn nhận được các phần quà trong lần thi này nhé. Xin chúc mừng các bạn:</p>
 
-
 <ol>
 <li>Trần Thuỳ Anh (Facebook: https://www.facebook.com/tran.anh.1232)</li>
 <li>Tâm Cùi Bắp (Facebook: https://www.facebook.com/anhcoisanhdieu</li>
@@ -80,4 +72,4 @@ description: "Một món bánh rất ngon với nguyên liệu dễ tìm, đơn 
 </ol>
 <p>Mời các bạn gửi mail tới địa chỉ savourydaysvn@gmail.com để thống nhất cách thức nhận quà tặng nhé. Vì sắp Tết rồi nên các bạn gửi mail sớm nha, Zojirushi sẽ cố gắng gửi quà cho các bạn trước Tết :)</p>
 <p>Một lần nữa cảm ơn các bạn và chúng mình sẽ chờ các mini game tiếp theo nhé ;)</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

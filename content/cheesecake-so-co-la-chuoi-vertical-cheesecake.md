@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2013/07/CheeseCakeChuoi.jpg"
 description: "cheesecake, chocolate ganache, chocolate gateau"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
 <p>——————————————</p>
 <p>Cách đây khá lâu rồi, trong một lần lượn lờ xem ảnh đồ ăn, mình tình cờ nhìn thấy một chiếc bánh rất đẹp và lạ mắt. Bánh dạng ga-tô mousse, có nhiều lớp, nhưng các lớp này thay vì xếp thành từng tầng nằm ngang thì xen kẽ nhau tạo thành các lớp bánh thẳng đứng theo chiều dọc. Đó là lần đầu tiên mình nhìn thấy bánh kiểu này nên thích lắm, và ghi nhớ để khi có thời gian thì nhất định sẽ thử luôn.</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/9370411642/" title="Vertical banana choolate cheesecake by LinhTrang9185, on Flickr"><img alt="Vertical banana choolate cheesecake" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3679/9370411642_dd26c7a249.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9370411642/" title="Vertical banana choolate cheesecake by LinhTrang9185, on Flickr"><img alt="Vertical banana choolate cheesecake" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3679/9370411642_dd26c7a249.jpg" width="500"/></a></p>
 <p>Cách làm loại bánh kiểu này, về lý thuyết thì không khó, nhưng đến lúc thực hành mới thấy có nhiều vấn đề phát sinh. Thậm chí khi hoàn thành xong chiếc bánh mình còn nghĩ là đã hỏng mất rồi. Nhưng đến lúc sau ăn thử thì thấy mùi vị rất ổn (chocolate hợp với chuối cực kì ấy), còn hình thức tuy là không được như mong đợi nhưng không quá tệ. Đáng lẽ ra nên thử lại một lần nữa, nhưng thú thực là mỗi khi làm bánh to nguyên chiếc như thế này mình đều rất “mệt” vì sau khi làm xong phải tìm người giải quyết hộ. Nên mình ghi lại công thức tại đây, kèm theo các vấn đề mình đã gặp phải, và một vài giải pháp mà mình nghĩ có thể áp dụng được. Hi vọng là nhà mình nếu làm thử thì sẽ cho ra sản phẩm đẹp hơn nữa nhé. Và nếu bạn không muốn làm bánh có các lớp theo chiều dọc như thế này thì vẫn có thể dùng công thức này để làm bánh có các lớp nằm ngang như bình thường.</p>
 <p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn tròn đường kính 18-20cm</p>
 <p><strong><span style="color: #800000;">Nguyên liệu</span></strong></p>
@@ -53,10 +49,7 @@ description: "cheesecake, chocolate ganache, chocolate gateau"
 </ul>
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <p><strong>A. Chocolate sponge cake</strong></p>
-<p>Chuẩn bị phần bạt bánh theo cách làm bạt bánh tại <a href="/chocolate-coffee-gateau-flan-caramel/"><strong>ĐÂY (phần B)</strong></a>.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Chuẩn bị phần bạt bánh theo cách làm bạt bánh tại <a href="/chocolate-coffee-gateau-flan-caramel/"><strong>ĐÂY (phần B)</strong></a>.</p>
 <p>* <span style="text-decoration: underline;"><strong>Lưu ý: </strong></span></p>
 <p>– Làm nóng lò trước khi nướng tối thiểu 10 phút. Nhiệt độ 175 độ C (hai lửa) hoặc 165 độ C nếu dùng khuôn sẫm màu.</p>
 <p>– Dùng khuôn tròn đường kính 18-20cm. Lót giấy trắng hoặc giấy nến ở đáy khuôn để lấy bánh ra được dễ dàng, không cần chống dính thành khuôn.</p>
@@ -72,7 +65,6 @@ description: "cheesecake, chocolate ganache, chocolate gateau"
 <p>1. Ngâm Gelatin trong 45-50ml nước lạnh (với cả dạng bột và dạng lá) trong khoảng 10-15 phút cho Gelatin nở mềm.</p>
 <p>2. Xay nhuyễn (mình dùng máy xay sinh tố) chuối với sữa tươi hoặc sữa chua cùng 25gram đường. Nếu dùng sữa tươi hay sữa chua có đường thì nên giảm bớt lượng đường xuống.</p>
 <p>3. Cho 100gram cream cheese (đã để mềm ở nhiệt độ phòng) vào âu. Để máy ở tốc độ thấp nhất, đánh khoảng 1-1.5 phút cho cream cheese mềm mượt.</p>
-
 
 <p><a href="http://www.flickr.com/photos/55490207@N05/9367634059/" title="IMG_0843 by LinhTrang9185, on Flickr"><img alt="IMG_0843" class="aligncenter" height="334" loading="lazy" src="http://farm8.staticflickr.com/7411/9367634059_2f80542692.jpg" width="500"/></a></p>
 <p>Cho 150ml kem tươi vào đánh cùng với cream cheese (tốc độ thấp-vừa), đến khi hỗn hợp kem gần bông cứng:<em> Kem đặc, khi chạy máy thấy có tạo vân, nhưng không đặc đến mức như kem trang trí bánh kem</em>. <strong>Không nên đánh đến bông cứng vì khi trộn với chuối, hỗn hợp kem sẽ dễ bị tách nước.</strong></p>
@@ -107,4 +99,4 @@ description: "cheesecake, chocolate ganache, chocolate gateau"
 <p>2. Chia phần banana cheese thành nhiều phần nhỏ, đổ từng lớp một, đợi đông mới đổ tiếp lớp thứ hai</p>
 <p>3. Làm thêm 1 lớp bạt gateau tròn để đặt lên trên mặt bánh. Đây có lẽ là cách khả thi nhất và lại giúp cho bánh đẹp khi cắt ra.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/9370412054/" title="IMG_0881-1 by LinhTrang9185, on Flickr"><img alt="IMG_0881-1" class="aligncenter" height="327" loading="lazy" src="http://farm8.staticflickr.com/7324/9370412054_5108d72552.jpg" width="500"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

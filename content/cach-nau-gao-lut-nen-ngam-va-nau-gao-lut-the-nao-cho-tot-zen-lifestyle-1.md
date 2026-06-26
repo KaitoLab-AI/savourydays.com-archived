@@ -32,10 +32,7 @@ description: "Cùng tìm hiểu về cách ngâm gạo lứt sao cho đúng và 
 <li>Công trình trước khi đăng tải cũng đã được phản biện bởi các học giả khác nên độ tin cậy càng cao hơn.</li>
 </ul>
 <p>Danh mục các bài báo mình để ở cuối bài viết, đều là tiếng Anh, bạn nào quan tâm có thể tham khảo thêm nhé.</p>
-<p>Như đã nói ở trên, mình không chuyên về sinh hoá và thực phẩm, nên những gì mình viết ra là tóm tắt lại từ các bài báo mà mình đã đọc. Ở trong mỗi bài đều có rất nhiều thông tin khoa học nhưng để mọi người dễ tiếp thu mình sẽ gạch đầu dòng những điểm quan trọng nhất và có liên quan thôi nhé.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Như đã nói ở trên, mình không chuyên về sinh hoá và thực phẩm, nên những gì mình viết ra là tóm tắt lại từ các bài báo mà mình đã đọc. Ở trong mỗi bài đều có rất nhiều thông tin khoa học nhưng để mọi người dễ tiếp thu mình sẽ gạch đầu dòng những điểm quan trọng nhất và có liên quan thôi nhé.</p>
 <p>1. <strong>GẠO LỨT LÀ GÌ</strong>? Có rất nhiều định nghĩa nhưng giải thích ngắn gọn là: Gạo lứt là gạo thô chưa xay sát kĩ. So với gạo trắng thì gạo lứt có nhiều dinh dưỡng hơn hẳn, cụ thể là có nhiều chất xơ hơn, hàm lượng các loại vitamin B1, B2, E, D và khoáng chất cao hơn, cũng có các chất chống oxy hóa và phòng ngừa ung thư cao hơn [1] Ngoài gạo lứt BROWN RICE theo đúng kiểu là gạo trắng ở dạng thô thì còn có một số loại gạo khác như gạo đỏ, gạo đen (RED RICE, BLACK RICE) cũng đều được cho là có nhiều chất dinh dưỡng tốt hơn gạo trắng.</p>
 <p style="text-align: center;"><em>Gạo trắng và gạo lứt (brown rice) </em><br/>
 <em>Ảnh từ: http://www.vegkitchen.com/nutrition/10-reasons-why-brown-rice-is-the-healthy-choice/</em></p>
@@ -46,10 +43,7 @@ description: "Cùng tìm hiểu về cách ngâm gạo lứt sao cho đúng và 
 <p>3. <strong>NGÂM GẠO LỨT ĐỂ LOẠI BỎ ASEN trong gạo</strong>. Không có công trình nào mà mình tìm được nghiên cứu trực tiếp về việc này. Tuy nhiên có một số công trình khác nghiên cứu chung về hàm lượng asen trong các loại gạo (gạo trắng, gạo lứt nâu, gạo lứt đỏ và gạo đen, gạo cẩm) cũng như hàm lượng asen có trong cơm sau khi ngâm và nấu gạo với một số loại nước và cách nấu khác nhau.</p>
 <p>Tóm tắt kết quả là khi người ta thử với các mẫu gạo đang bán tại Tây Ban Nha (trồng tại châu Âu hoặc nhập khẩu từ Nhật, Thái, Trung Quốc, Ấn Độ) thì thấy tất cả các mẫu gạo đều có chứa Asen. Tuy nhiên, với mức độ tiêu thụ gạo trung bình của người Tây Ban Nha là khoảng 50 – 60 g/ ngày thì hàm lượng asen trong gạo không đáng ngại [9].</p>
 <p>Cần lưu ý là các mẫu gạo này đều là gạo bán ở Tây Ban Nha, nếu không phải là gạo trồng tại châu Âu thì cũng là gạo chất lượng cao để xuất khẩu. Cho nên với gạo ăn tại Việt Nam có thể con số sẽ khác. Ngoài ra, trong một nghiên cứu khác, người ta thấy rằng khi gạo nấu cùng nước bị nhiễm asen thì lượng asen trong gạo sẽ tăng lên đáng kể [8] Vấn đề này mình thấy đáng quan tâm hơn. Giả dụ ta ngâm gạo với nước ô nhiễm và nấu gạo với nước ô nhiễm thì sẽ đáng lo ngại hơn rất nhiều lần.</p>
-<p>Tuy nhiên, một số nghiên cứu chỉ ra là khi nấu gạo với nhiều nước và vo gạo kĩ sẽ giúp giảm lượng asen bởi asen hoà vào nước và trôi đi hoặc bay hơi [7]. Có điều, mặt trái của chuyện này là dinh dưỡng từ gạo lứt cũng có thể bay hơi cùng nước.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Tuy nhiên, một số nghiên cứu chỉ ra là khi nấu gạo với nhiều nước và vo gạo kĩ sẽ giúp giảm lượng asen bởi asen hoà vào nước và trôi đi hoặc bay hơi [7]. Có điều, mặt trái của chuyện này là dinh dưỡng từ gạo lứt cũng có thể bay hơi cùng nước.</p>
 <p>Vậy tóm lại về chuyện Asen này thì kết luận (do mình tự suy ra) là:</p>
 <ul>
 <li>Gạo nào cũng có asen và ở VN có thể ngay trong nước cũng có asen. Cho nên cần chọn gạo có nguồn gốc xuất xứ rõ ràng, trồng hữu cơ/ organic là tốt nhất và dùng nước sạch để nấu cơm. Vo gạo kĩ khi nấu. Nấu gạo với nhiều nước.</li>
@@ -81,7 +75,6 @@ description: "Cùng tìm hiểu về cách ngâm gạo lứt sao cho đúng và 
 <li>Imam, M.U., Musa, S.N.A., Azmi, N.H., Ismail, M. Effects of white rice, brown rice and germinated brown rice on antioxidant status of type 2 diabetic rats (International Journal of Molecular Sciences, 2012, 13, 12952-12969).</li>
 </ol>
 
-
  <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
 <a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
@@ -89,9 +82,6 @@ description: "Cùng tìm hiểu về cách ngâm gạo lứt sao cho đúng và 
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

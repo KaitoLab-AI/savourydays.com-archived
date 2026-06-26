@@ -12,10 +12,7 @@ description: "Nhà bánh gừng"
 <p><a href="/wp-content/uploads/2011/11/Hansel-and-Gretel.jpg"><img alt="" class="aligncenter size-full wp-image-1307" height="344" loading="lazy" sizes="(max-width: 459px) 100vw, 459px" src="/wp-content/uploads/2011/11/Hansel-and-Gretel.jpg" title="Hansel-and-Gretel" width="459"/></a></p>
 <p>Rồi thì khoảng hai mươi năm sau, mình biết được là ngôi nhà ấy cũng có thật trên đời. Nó thường hay xuất hiện trong các gia đình ở phương Tây vào dịp lễ Giáng sinh, và tên của nó là Gingerbread house hay là nhà bánh gừng. Gọi tên như vậy là bởi vì tường của ngôi nhà này thường được làm từ Gingerbread (bánh gừng) và được ghép lại nhờ một loại đường trắng rất dẻo và dính (để ngoài không khí sẽ khô cứng lại) gọi là đường Icing. Các chi tiết trang trí khác trên ngôi nhà cũng thường được làm từ bánh kẹo hoặc các thứ có thể ăn được. Tóm lại là một ngôi nhà hoàn toàn làm từ bánh kẹo thực sự. Nhưng mà biết thế thôi chứ tự làm một ngôi nhà như thế á – chắc cả trong giấc mơ mình cũng chẳng dám mơ đâu.</p>
 <p>Thế mà cuối cùng mình cũng đã làm được :D :D :D</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/6370286563/" title="6 by LinhTrang9185, on Flickr"><img alt="6" class="aligncenter" height="330" loading="lazy" src="http://farm7.staticflickr.com/6100/6370286563_a8fd44fa53.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6370286563/" title="6 by LinhTrang9185, on Flickr"><img alt="6" class="aligncenter" height="330" loading="lazy" src="http://farm7.staticflickr.com/6100/6370286563_a8fd44fa53.jpg" width="500"/></a></p>
 <p>Có được “kỳ tích” này là nhờ Baking Challenge – một hoạt động liên quan đến nấu và nướng bánh hàng tháng của hội bánh Hà Nội (hiện tại thì trụ sở chính ở trong diễn đàn nhỏ về Tráng miệng của webtretho). Baking Challenge được tổ chức từ khá lâu rồi, cách đây 2 hay 3 năm thì phải, mỗi tháng sẽ có một chủ đề và mọi người được tự do đăng kí. Sau đấy những người đăng kí sẽ được gửi đề bài và thực hiện sản phẩm rồi nộp bài vào một ngày quy định vào cuối tháng. Nhìn chung là sẽ học hỏi được nhiều và vui nữa, cho nên từ khi biết làm bánh mình đã nhăm nhe đăng kí tham gia rồi. Nhưng vì đợt trước chưa có nhiều thời gian lắm nên đây là Baking Challenge đầu tiên của mình – và đề bài của tháng này là Nhà bánh gừng chào đón Giáng sinh.</p>
 <p><span id="more-1304"></span></p>
 <p>Nói thật là lúc đầu mình cũng thấy run ghê lắm, đặc biệt là sau khi nhận được đề bài kèm ảnh mẫu của chị Cáo (<a href="http://foxkitchen.blogspot.com/">Fox Kitchen</a>), người phụ trách chủ đề tháng này (còn gọi là người đứng host) thì càng run và choáng tợn vì thấy sao mà nó cầu kì thế. Nhưng cuối cùng khi bắt tay vào làm thì thấy là hóa ra nó cũng không khó như mình tưởng. Có lẽ một phần là vì công thức của chị Cáo chọn rất đơn giản và dễ làm, hướng dẫn cũng chi tiết nữa. Và một phần rất lớn khác là sự háo hức của việc lần đầu tiên xây một ngôi nhà bằng bánh kẹo đã “đè bẹp” mọi lo lắng khác :)</p>
@@ -26,10 +23,7 @@ description: "Nhà bánh gừng"
 <p style="text-align: center;"><em>Welcome to my dream house ;)</em></p>
 <p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/6370390999/" title="7 by LinhTrang9185, on Flickr"><img alt="7" class="aligncenter" height="500" loading="lazy" src="http://farm7.staticflickr.com/6212/6370390999_c4eef3b042.jpg" width="345"/></a><em><br/>
 </em></p>
-<p>Xem thêm: <a href="/demo-nha-banh-gung-gingerbread-house-phan-1-dong-gach-xay-tuong/">Nhà bánh gừng phần 1 – Đóng gạch xây tường</a>, <a href="/demo-nha-banh-gung-gingerbread-house-phan-2-tron-vua-dung-nha/">Nhà bánh gừng phần 2 – Trộn vữa &amp; Dựng nhà</a>, và <a href="/demo-nha-banh-gung-gingerbread-house-phan-3-trang-tri-va-mot-vai-y-tuong/">Nhà bánh gừng phần 3 – Trang trí</a>.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Xem thêm: <a href="/demo-nha-banh-gung-gingerbread-house-phan-1-dong-gach-xay-tuong/">Nhà bánh gừng phần 1 – Đóng gạch xây tường</a>, <a href="/demo-nha-banh-gung-gingerbread-house-phan-2-tron-vua-dung-nha/">Nhà bánh gừng phần 2 – Trộn vữa &amp; Dựng nhà</a>, và <a href="/demo-nha-banh-gung-gingerbread-house-phan-3-trang-tri-va-mot-vai-y-tuong/">Nhà bánh gừng phần 3 – Trang trí</a>.</p>
 <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
 <a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
@@ -37,9 +31,6 @@ description: "Nhà bánh gừng"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

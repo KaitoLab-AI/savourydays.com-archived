@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2011/07/Summer-Salad.jpg"
 description: "học cách làm salad mùa hè theo kiểu Âu với mì nui, pho-mát và các loại rau củ tươi với Savoury Days. Bài viết kèm hình minh hoạ chi tiết các bước."
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><a href="http://www.flickr.com/photos/55490207@N05/5970140193/" title="Summer Salad by LinhTrang9185, on Flickr"><img alt="Summer Salad" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6014/5970140193_79818a01ef.jpg" width="347"/></a></p>
 <p>Món này hiện tại đang là đồ ăn trưa (yêu thích) hàng ngày của mình.</p>
 <p>Lý do to nhất  là tất cả các cửa hàng ăn xung quanh trường đều hoạt động theo thời gian biểu của trường. Tức là: khi năm học kết thúc và sinh viên nghỉ hè thì hàng ăn cũng nghỉ hè theo luôn :-| Cho nên bỗng dưng mình và các đồng nghiệp của mình lâm vào tình cảnh rất thê thảm là trưa nào cũng phải đi lang thang để tìm quán ăn (kể cả là mua bánh mỳ thì cũng phải đi ra xa ấy). Và sau khoảng một tuần liên tục như thế thì mình quyết định tự mang đồ ăn trưa, vừa đỡ phải đi lang thang, vừa tiết kiệm, và vừa ngon hơn hàng nữa.</p>
 <p>Thật ra không phải là bây giờ mình mới bắt đầu mang cơm trưa đi làm, mà do thức ăn ở nhà ăn sinh viên quá tệ hại cho nên từ hồi trong năm mình đã mang cơm đi rùi. Có cái là ở nhà ăn sinh viên có lò vi sóng, cho nên mang gì đi cũng tiện. Bây giờ nhà ăn đóng cửa, trong viện thì chẳng có cái lò nào cả, cho nên thức ăn nguội, đặc biệt là những thứ có thể để lạnh và ăn lạnh như salad bỗng dưng trở thành lựa chọn số một cho bữa trưa :)</p>
-<p>Thêm nữa là thời gian nắng vàng tươi đẹp rực rỡ đã kết thúc ở Antwerp – hay nói một cách khác là mùa hè thế là đã “xong” rồi, thay vào là một chuỗi ngày mưa gió u ám, nhìn ra ngoài trời chỉ toàn thấy mây đen &amp; mây đen. Thế cho nên một bát salad nhiều màu sắc có lẽ sẽ làm cho ngày tươi tắn hơn tí chút chăng (ít ra với mình thì là như thế :) )</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Thêm nữa là thời gian nắng vàng tươi đẹp rực rỡ đã kết thúc ở Antwerp – hay nói một cách khác là mùa hè thế là đã “xong” rồi, thay vào là một chuỗi ngày mưa gió u ám, nhìn ra ngoài trời chỉ toàn thấy mây đen &amp; mây đen. Thế cho nên một bát salad nhiều màu sắc có lẽ sẽ làm cho ngày tươi tắn hơn tí chút chăng (ít ra với mình thì là như thế :) )</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5970140771/" title="Summer Salad by LinhTrang9185, on Flickr"><img alt="Summer Salad" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6122/5970140771_6f344a29e1.jpg" width="368"/></a></p>
 <h2>CÁCH LÀM SALAD MÙA HÈ</h2>
 <p><span style="text-decoration: underline;"><strong>Nguyên liệu</strong></span> (cho 2 bát nhỡ salad)</p>
@@ -50,10 +46,7 @@ description: "học cách làm salad mùa hè theo kiểu Âu với mì nui, pho
 <p><a href="http://www.flickr.com/photos/55490207@N05/5981228820/" title="Summer Salad 1 by LinhTrang9185, on Flickr"><img alt="Summer Salad 1" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6029/5981228820_0dd959b96b.jpg" width="500"/></a></p>
 <p>Nước sôi cho pasta vào luộc theo thời gian chỉ dẫn trên bao. Thi thoảng khuấy cho pasta khỏi bị dính vào nhau và dính vào đáy nồi. Về luộc pasta, nhiều hướng dẫn hay công thức thường sử dụng chung một từ là “al dente” (to the tooth/ to the bite) để chỉ pasta chín vừa ăn, không bị sượng và không còn thấy vị của bột sống, nhưng không bị quá mềm và nát. Cách tốt nhất để biết được điều này là sau một khoảng thời gian gần bằng thời gian ghi trên bao thì ăn thử, nếu thấy pasta đã được thì bắc ra ngay. Đừng nấn ná, kẻo pasta sẽ thành chín và mềm quá, mất ngon.</p>
 <p>Pasta chín thì đổ ra rổ, lắc cho nước chảy xuống dưới hết. K<strong>hông xả nước lạn</strong>h. Trộn pasta với 1 thìa dầu olive cho pasta khỏi bị dính.</p>
-<p><em>Trong lúc đợi luộc pasta thì làm dressing và chuẩn bị rau củ nhé:</em></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><em>Trong lúc đợi luộc pasta thì làm dressing và chuẩn bị rau củ nhé:</em></p>
 <p>2. Dressing:</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5981229142/" title="Sumer Salad 4 by LinhTrang9185, on Flickr"><img alt="Sumer Salad 4" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6132/5981229142_9973cc4021.jpg" width="500"/></a></p>
 <p>Trộn đều tất cả các nguyên liệu trong phần dressing. Lượng muối, mật ong và chanh có thể gia giảm tùy khẩu vị của các bạn. Dressing làm nhiều có thể bọc kín cất tủ lạnh để một vài ngày cũng được.</p>
@@ -70,5 +63,3 @@ description: "học cách làm salad mùa hè theo kiểu Âu với mì nui, pho
 <p>Chúc các bạn ngon miệng :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5970698710/" title="Summer Salad by LinhTrang9185, on Flickr"><img alt="Summer Salad" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6026/5970698710_45921221d2.jpg" width="374"/></a></p>
 
-
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

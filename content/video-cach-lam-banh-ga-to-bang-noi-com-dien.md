@@ -8,16 +8,11 @@ image: "/wp-content/uploads/2015/04/VideoGatoNoiComDien.jpg"
 description: "làm bánh bằng nồi cơm điện, cách làm bánh ga-tô đơn giản"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p style="text-align: center;">Lâu quá rồi chúng mình mới lại gặp nhau nhỉ :)</p>
 <p>Đầu tiên có một thông báo ngăn ngắn là các bài dự thi của “Niềm vui từ bếp 2015” (rất nhiều bánh ngon, toàn là bánh ngon thôi ;) ) đã được đăng tại <a href="https://www.facebook.com/media/set/?set=a.824099644310289.1073741833.172331076153819&amp;type=1">Facebook của Savoury Days </a>rồi. Mời các bạn ghé qua cùng thưởng thức và bình chọn cho các bài dự thi bằng cách nhấn nút “yêu thích” (like) hoặc “chia sẻ” (share) nhé.</p>
 <p>Thời gian vừa rồi mình vẫn bận rộn với luận án. Nhưng đến giờ mọi thứ đã hòm hòm rùi, nên sắp tới lại có thể quay trở lại với bếp và với Savoury Days :) Rất xin lỗi các bạn đặt câu hỏi tại blog mà không có hồi âm. Trong thời gian sắp tới mình sẽ cố gắng “bù” lại nha.</p>
 <p>Có một cái video quay từ lâu rồi mà giờ mới sửa xong, về “Cách làm gateau bằng nồi cơm điện”. Cách làm và công thức này mình dựa trên công thức ga-tô cơ bản bất bại để viết mới (khác với công thức ga-tô nồi cơm điện cũ tại SD một chút). Công thức mới có tỉ lệ nguyên liệu rất dễ nhớ, chỉ toàn gồm các nguyên liệu cơ bản. Phần trộn bột hầu như làm hoàn toàn bằng máy, nên các bạn nào chưa quen kĩ thuật fold cũng có thể làm được.</p>
-<p>Nồi cơm của mình có chức năng nướng bánh, nếu nồi cơm của bạn không có chức năng này thì các bạn có thể tham khảo thêm cách nướng bánh trong bài về <a href="/lam-ga-co-ban-voi-noi-com-dien/">Cách làm bánh ga-tô với nồi cơm điện</a> nhé :)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Nồi cơm của mình có chức năng nướng bánh, nếu nồi cơm của bạn không có chức năng này thì các bạn có thể tham khảo thêm cách nướng bánh trong bài về <a href="/lam-ga-co-ban-voi-noi-com-dien/">Cách làm bánh ga-tô với nồi cơm điện</a> nhé :)</p>
 <p>Nếu không xem được clip tại blog, các bạn có thể xem tại YouTube qua link: <a href="https://www.youtube.com/watch?v=8Mla__bdnBM">https://www.youtube.com/watch?v=8Mla__bdnBM</a></p>
 <p></p><div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/8Mla__bdnBM" width="560"></iframe></div><br/>
-<!--<iframe src="https://www.youtube.com/embed/8Mla__bdnBM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>-->
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

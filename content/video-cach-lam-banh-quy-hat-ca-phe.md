@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2020/01/Cách-làm-bánh-quy-hạt-cà-phê-youtube.
 description: "Một món bánh cực xinh, ngon và rấttttt thơm mùi cafe. Cách làm bánh quy hạt cà phê này rất dễ thôi, chỉ cần theo dõi và làm theo các bước là chắc chắn.."
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <div class="" data-block="true" data-editor="b3v3p" data-offset-key="8roep-0-0">
 <p class="_1mf _1mj" data-offset-key="8roep-0-0"><span data-offset-key="8roep-0-0" style="color: #000000;">Tết kiểu gì cũng phải có bánh quy! ^^ Nhất là nếu bạn đã từng làm thử hoặc được nếm thử bánh quy nhà làm (nhà làm – nhà làm ấy chứ không phải là bánh quy mua của người tự làm tại nhà đâu ;D) thì mình tin là bạn sẽ chỉ tín nhiệm “bánh quy nhà tự làm” thôi.</span></p>
 </div>
@@ -33,10 +32,7 @@ description: "Một món bánh cực xinh, ngon và rấttttt thơm mùi cafe. C
 </ul>
 <p><span style="color: #800000;"><strong>Lưu ý:</strong></span></p>
 <p><span style="color: #000000;">– Nên dùng bột cafe đen uống liền (tụi mình hay dùng của G7) thì mùi và vị cafe sẽ rõ hơn các loại cafe có sẵn đường, sữa. Các bạn có thể dùng cafe tự pha bằng phin nhưng lượng nước cafe cho vào bánh bắt buộc là 8ml. Mùi bánh thơm đến đâu là do loại cafe bạn dùng nhé. Các bạn ở nước ngoài có thể dùng thêm chiết xuất cafe loại chuyên dùng cho làm bánh cho vào cùng 8ml nước theo công thức. </span></p>
-<p><span style="color: #000000;">– Dùng bột cacao nguyên chất không đường, bột cacao càng ngon thì bánh càng ngon, không dùng cacao sữa hay bột milo.</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">– Dùng bột cacao nguyên chất không đường, bột cacao càng ngon thì bánh càng ngon, không dùng cacao sữa hay bột milo.</span></p>
 <p><span style="color: #000000;">– Bơ để rất mềm ở nhiệt độ phòng, có thể dùng phới ấn xuống dễ dàng nhưng không được chảy. Nên chọn loại bơ ngon, bánh sẽ thơm ngậy hơn. Không nên dùng bơ thực vật (magarine). </span></p>
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <p><span style="color: #000000;">1. Làm nóng lò ở 165 độ C, hai lửa. Pha cafe với 8ml nước nóng, khuấy tan cafe rồi để nguội.</span></p>
@@ -46,10 +42,7 @@ description: "Một món bánh cực xinh, ngon và rấttttt thơm mùi cafe. C
 <p><span style="color: #000000;">Lưu ý:</span></p>
 <p><span style="color: #000000;">– Trộn bột bằng cách bóp cho bột quyện vào bơ, không nhào bột.</span></p>
 <p><span style="color: #000000;">– Chỉ trộn đến khi bột hòa quyện thành 1 khối thì dừng lại. Bột sau khi trộn xong sẽ khô ráo, có thể dùng tay không thao tác mà không bị dính, tuy nhiên cũng đủ dẻo để vê thành hình mà không bị nứt (cụ thể trong video).</span></p>
-<p><span style="color: #000000;">Đến đây nếu bột quá ướt thì khả năng cao là bơ của các bạn bị mềm quá, hoặc thao tác lâu làm bơ bị chảy. Ngoài ra còn do loại bột sử dụng có độ hút nước kém. Các bạn khắc phục bằng cách cho thêm từ từ bột khô nhé (hoặc để bột vào tủ lạnh một chút). Ngược lại nếu bột quá khô, bở thì các bạn có thể đánh tan một lòng đỏ trứng và cho thêm từ từ tới khi bột đạt như trong video.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">Đến đây nếu bột quá ướt thì khả năng cao là bơ của các bạn bị mềm quá, hoặc thao tác lâu làm bơ bị chảy. Ngoài ra còn do loại bột sử dụng có độ hút nước kém. Các bạn khắc phục bằng cách cho thêm từ từ bột khô nhé (hoặc để bột vào tủ lạnh một chút). Ngược lại nếu bột quá khô, bở thì các bạn có thể đánh tan một lòng đỏ trứng và cho thêm từ từ tới khi bột đạt như trong video.</span></p>
 <p>5. Chia bột thành các phần bằng nhau, mỗi phần nặng 8 gram. Vê thành hình tròn hơi thuôn ở hai đầu, sau đó dùng phần lưng dao hoặc một dụng cụ nào đó có cạnh thẳng dày khoảng 1 mm (như cạnh thước kẻ chẳng hạn). ấn nhẹ tạo thành một đường lõm giữa bột giống hạt cafe.</p>
 <p>6. Nướng bánh ở 165 độ C trong khoảng 15 – 17 phút. Bánh chín xếp ra rack, để nguội hoàn toàn rồi bảo quản trong hộp kín. <strong>Lưu ý: nhiệt nướng có thể thay đổi tuỳ loại lò, nên cần theo dõi và nếu có vấn đề thì cần điều chỉnh lại THEO BÁNH. VD bánh quá khô là do nướng hơi lâu quá, cần giảm thời gian và có thể tăng nhiệt. Nếu bên trong bánh còn ẩm là do nhiệt hơi cao và nướng thiếu thời gian. </strong></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

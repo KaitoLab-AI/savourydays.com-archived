@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2014/03/GateauKemBap1.jpg"
 description: "mousse, gateau, kem bắp"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Dạo gần đây thấy nhiều bạn nhắc đến món này, toàn là khen ngợi thôi, làm cho bạn Trang rất chi là tò mò. Google thử thì không thấy có nhiều công thức nên cuối cùng tự mày mò làm theo ý mình. Đầu tiên là Gateau kem bắp, rồi thì vì thấy ổn quá nên ‘tấn công’ sang cả Mousse bắp. Hai món này ăn mùa hè chắc là hợp nhất nhờ mùi vị của bắp (ngô) thanh nhẹ , mới ngửi thôi đã thấy mát mẻ rồi. Mousse có nhiều kem nhưng nhờ vị ngô mát lành nên ăn nhiều mà chẳng có cảm giác ngấy.</p>
 <p>Bánh kem bắp thì mình dùng cốt bánh Gateau cơ bản bất bại với kem tươi đánh bông và ngô luộc tách hạt xen kẽ giữa các lớp bánh và kem. Tuy công thức không có gì đặc biệt nhưng bánh để qua đêm trong tủ lạnh, phần kem ngấm vào lớp gateau làm cho gateau mềm và ẩm hơn, kem thơm ngọt với ngô nguyên hạt mọng nước, ăn khá hay. Thêm ít hạnh nhân giòn giòn nữa. À, có một ghi chú là mình chưa bao giờ ăn bánh kem bắp tại VN nên bánh theo ct này có thể sẽ không giống bánh kem bắp bán tại VN đâu nhé.</p>
 <p>(*) <em>Về loại ngô dùng trong cả hai công thức thì ở bên này chỉ có 1 loại ngô ngọt của Mỹ nên mình dùng ngô này. Hạt ngô giòn và mọng nước. Nhưng ngô nếp lại có ưu điểm là dẻo và thơm, nên tùy sở thích mà các bạn lựa chọn ngô nha. Nếu bắp ngô nhỏ có thể tăng số lượng ngô so với công thức.</em></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/13192481374/" title="IMG_4540-1 by LinhTrang9185, on Flickr"><img alt="IMG_4540-1" class="aligncenter" height="640" loading="lazy" src="http://farm4.staticflickr.com/3689/13192481374_7f563bc5ee_z.jpg" width="426"/></a></p>
 <h3><span style="color: #0000ff;">Bánh kem bắp</span></h3>
-<p><strong>A. Phần cốt bánh </strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>A. Phần cốt bánh </strong></p>
 <ul>
 <li><em>1 công thức <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/">Gateau cơ bản bất bại 3 trứng</a> – khuôn tròn đường kính 15cm</em></li>
 </ul>
@@ -37,10 +33,7 @@ description: "mousse, gateau, kem bắp"
 <p>– Để kem vào tủ lạnh tối thiểu 30 phút, sẽ giúp kem đặc hơn.</p>
 <p>– Ngô sau khi luộc xong để nguội, tách lấy hạt để riêng.</p>
 <p>3. Sau khi bánh nguội thì xẻ bạt bánh làm 3 phần. Dùng chổi quét nước luộc ngô lên mặt bánh. Trét 1/5 số kem tươi lên miếng bạt thứ nhất. Rắc đều hạt ngô lên. Đặt tiếp lớp bạt thứ 2, lặp lại các khâu trét kem, rắc ngô. Đặt lớp bạt bánh cuối cùng rồi phủ kem lên toàn bộ bên ngoài bánh. Để bánh vào tủ lạnh, dùng sau khoảng 3 – 4 giờ. Bánh có thể bảo quản trong ngăn mát tủ lạnh từ 2 – 3 ngày.</p>
-<p>Nếu trang trí bằng hạnh nhân lát, nên sấy hạnh nhân ở 160 độ C trong khoảng 7 – 10 phút để hạnh nhân vàng thơm. Trang trí hạnh nhân ngay trước khi ăn sẽ giúp giữ được mùi vị thơm ngon và độ giòn của hạnh nhân.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Nếu trang trí bằng hạnh nhân lát, nên sấy hạnh nhân ở 160 độ C trong khoảng 7 – 10 phút để hạnh nhân vàng thơm. Trang trí hạnh nhân ngay trước khi ăn sẽ giúp giữ được mùi vị thơm ngon và độ giòn của hạnh nhân.</p>
 <p>Ngoài ra, các bạn có thể dùng thêm dừa nạo để trang trí trên mặt bánh nhưng không nên dùng quá nhiều vì mùi dừa sẽ át hương vị nhẹ thanh của ngô.</p>
 <h3 style="text-align: left;"><span style="color: #0000ff;">Mousse kem bắp</span></h3>
 <p><a href="http://www.flickr.com/photos/55490207@N05/13192476694/" title="IMG_5090-1 by LinhTrang9185, on Flickr"><img alt="IMG_5090-1" class="aligncenter" height="640" loading="lazy" src="http://farm4.staticflickr.com/3751/13192476694_4d4fb9a8bc_z.jpg" width="447"/></a></p>
@@ -72,7 +65,6 @@ description: "mousse, gateau, kem bắp"
 <p>7. Nhẹ nhàng trộn kem tươi ở (6) với custard ở bước (5). Khi mình làm thì sau khi trộn xong phần nguyên liệu này, mình cho hạt ngô vào trộn cùng. Nhưng làm theo cách này có nhược điểm là khó trộn đều hạt ngô và hạt ngô có thể trôi xuống đáy khi đổ vào khuôn. Nên cách tốt hơn có lẽ là đổ phần mousse vào khuôn trước rồi mới cho phần hạt ngô lên trên, như vậy khi cắt ra ngô sẽ dàn thành 1 lớp nằm giữa phần mousse và jelly, có lẽ sẽ đẹp hơn.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/13192296893/" title="IMG_4831 by LinhTrang9185, on Flickr"><img alt="IMG_4831" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3781/13192296893_ab029bda86.jpg" width="500"/></a></p>
 
-
 <p>8. Chuẩn bị khuôn đế rời hoặc ring mousse đường kính 18 – 20 cm. Có thể lót giấy ở đáy khuôn để dễ di chuyển bánh sau khi hoàn thiện. Lấy khoảng 30ml từ lượng sữa ngô ở bước (2), nhúng nhanh từng chiếc bánh lady fingers vào sữa rồi xếp vào khuôn. Có thể dùng chổi quét sữa ngô lên bánh, tránh nhúng lâu làm bánh bị nhũn. Không nên xếp kín đáy khuôn để mousse phủ ra ngoài, khi bỏ khuôn ra sẽ đẹp hơn vì không bị lộ phần bánh.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/13192479954/" title="IMG_4828 by LinhTrang9185, on Flickr"><img alt="IMG_4828" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7414/13192479954_5204e1d47c.jpg" width="500"/></a></p>
 <p>Sau khi xếp hết bánh vào khuôn thì đổ phần mousse ở bước (7) lên trên. Dàn cho mousse phẳng mặt. Để khuôn vào tủ lạnh khoảng 30 phút cho mousse se mặt.</p>
@@ -81,4 +73,4 @@ description: "mousse, gateau, kem bắp"
 <p>Khi ăn dùng dao mảnh lách nhẹ bên thành trong của khuôn để rút bánh ra. Có thể dùng một chiếc khăn nóng áp quanh thành khuôn để bánh tự róc khỏi khuôn, lấy ra sẽ dễ dàng và đẹp hơn.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/13192475834/" title="IMG_5096-1 by LinhTrang9185, on Flickr"><img alt="IMG_5096-1" class="aligncenter" height="640" loading="lazy" src="http://farm3.staticflickr.com/2624/13192475834_43c8584893_z.jpg" width="529"/></a></p>
 </div>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

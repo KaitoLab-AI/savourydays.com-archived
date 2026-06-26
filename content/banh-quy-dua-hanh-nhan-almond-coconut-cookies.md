@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2011/11/CoconutCookie.jpg"
 description: "Cách làm bánh quy dừa hạnh nhân"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Để bù lại cho bài <a href="/banh-quy-chocolate-chips-chocolate-chip-cookies/">Chocolate Chip Cookies</a> lần trước có mỗi một cái ảnh, lần này mình không chỉ có nhiều hơn 1 cái ảnh thành phẩm mà còn có đầy đủ cả ảnh các bước nữa nhé :D</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6361690607/" title="Almond coconut cookies by LinhTrang9185, on Flickr"><img alt="Almond coconut cookies" class="aligncenter" height="640" loading="lazy" src="http://farm7.staticflickr.com/6101/6361690607_0229b7b768_z.jpg" width="457"/></a></p>
 <p>Nhưng mà làm cái bánh quy dừa hạnh nhân này dễ lắm</p>
 <p>Thật!</p>
-<p>Cực cực dễ luôn ý ;)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Cực cực dễ luôn ý ;)</p>
 <p>Và rất ngon. Bánh giòn và xốp, thơm ơi là thơm nữa, mở hộp ra là thấy ngào ngạt rùi. Bánh ngậy vị bơ, thơm mùi dừa và thêm chút bùi bùi của hạnh nhân nữa. À, hạnh nhân là mình thích nên cho thêm thôi, cả nhà có thể bỏ đi hoặc thay bằng hạt khác cũng được nhé :)</p>
 <p><strong>Nguyên liệu</strong></p>
 <p> </p>
@@ -38,10 +34,7 @@ description: "Cách làm bánh quy dừa hạnh nhân"
 <p><span id="more-1217"></span></p>
 <p><strong>Cách làm</strong><br/>
 <a href="http://www.flickr.com/photos/55490207@N05/6361690765/" title="Almond coconut cookies - Method by LinhTrang9185, on Flickr"><img alt="Almond coconut cookies - Method" class="aligncenter" height="400" loading="lazy" src="http://farm7.staticflickr.com/6096/6361690765_442d127760.jpg" width="500"/></a></p>
-<p>1. Trong một cái âu dùng phới lồng đánh trứng (whisk) trộn bột mỳ, muối nở, muối và 1/2 số dừa (hình 1)</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>1. Trong một cái âu dùng phới lồng đánh trứng (whisk) trộn bột mỳ, muối nở, muối và 1/2 số dừa (hình 1)</p>
 <p>2. Để máy đánh trứng ở tốc độ chậm, đánh bơ khoảng 10-15s đến khi bơ mềm nhuyễn. Cho đường vào, đánh ở tốc độ gần cao nhất trong khoảng 4-5 phút với máy đánh trứng cầm tay, 2-3 phút với máy để bàn, <em>không cần đánh bơ quá bông như làm bánh bông lan (</em>hình 2<em>). </em></p>
 <p>3. Cho trứng vào, đánh cho hòa quyện (hình 3). Nếu các bạn dùng vanilla hay hương liệu thì cho thêm ở đây, đánh cho hòa quyện, mình không dùng vì mình thấy mùi bơ và dừa rất thơm rồi.</p>
 <p>4. Chia hỗn hợp bột &amp; dừa ở (1) làm 2-3 phần, cho từng phần vào âu (hình 4). Đánh đều sau mỗi lần thêm bột (hình 5).</p>
@@ -52,4 +45,4 @@ description: "Cách làm bánh quy dừa hạnh nhân"
 <p>8. Đặt khay nướng ở rãnh giữa của lò nướng. Nướng 170-175 độ trong 15 phút hoặc đến khi bánh chín vàng đều. Sau khi bánh chín thì tắt lò, để bánh thêm trong lò khoảng 2-3 phút cho bánh giòn hơn.</p>
 <p>9. Lấy bánh ra rack, để nguội hoàn toàn. Bảo quản trong lọ hoặc hộp kín.<br/>
 <a href="http://www.flickr.com/photos/55490207@N05/6361690357/" title="Almond coconut cookies by LinhTrang9185, on Flickr"><img alt="Almond coconut cookies" class="aligncenter" height="640" loading="lazy" src="http://farm7.staticflickr.com/6119/6361690357_5215bbdee7_z.jpg" width="436"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

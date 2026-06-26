@@ -12,10 +12,7 @@ description: "Chia sẻ bí quyết làm Macarons thành công"
 <p><a href="/macarons-nguyen-lieu-va-dung-cu/">Phần 2: Nguyên liệu &amp; Dụng cụ</a></p>
 <p><a href="/macaron-phan-3-cach-lam/" target="_blank">Phần 3: Cách làm Macaron kiểu Pháp</a></p>
 <p>Phù, chả hiểu sao mà cảm giác như là lâu lắm lắm rồi mình mới lại viết bài ấy, không biết cả nhà có ai nhớ mình không? :”&gt;</p>
-<p>Hai tuần vừa rồi mình ở trong tình trạng bận chóng hết cả mặt mày. Lớp học tiếng Hà Lan thì ngày càng nhiều bài tập, công việc cũng vào đợt bận rộn vì có báo cáo cho dự án đang làm, cộng thêm chuẩn bị cho dự án mới. Cho nên chẳng có lúc nào thật sự rảnh rang và thoải mái tinh thần để viết bài cả, phản hồi cũng không trả lời được nhanh :( Nhưng thời gian vừa rồi mình phải cảm ơn các bạn Oanh, Mieo, Poppy_Muffin và nhiều bạn khác nữa rất rất nhiều vì đã giúp mình trả lời câu hỏi và chia sẻ kiến thức của các bạn về bánh trái và nấu ăn. Đọc comment của mọi người thực sự mình thấy rất vui, không hẳn vì được các bạn giúp mà còn vì cảm giác bếp bây giờ không còn chỉ của riêng mình nữa, mà đã trở thành bếp chung của nhiều bạn bè ở khắp nơi rồi :)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Hai tuần vừa rồi mình ở trong tình trạng bận chóng hết cả mặt mày. Lớp học tiếng Hà Lan thì ngày càng nhiều bài tập, công việc cũng vào đợt bận rộn vì có báo cáo cho dự án đang làm, cộng thêm chuẩn bị cho dự án mới. Cho nên chẳng có lúc nào thật sự rảnh rang và thoải mái tinh thần để viết bài cả, phản hồi cũng không trả lời được nhanh :( Nhưng thời gian vừa rồi mình phải cảm ơn các bạn Oanh, Mieo, Poppy_Muffin và nhiều bạn khác nữa rất rất nhiều vì đã giúp mình trả lời câu hỏi và chia sẻ kiến thức của các bạn về bánh trái và nấu ăn. Đọc comment của mọi người thực sự mình thấy rất vui, không hẳn vì được các bạn giúp mà còn vì cảm giác bếp bây giờ không còn chỉ của riêng mình nữa, mà đã trở thành bếp chung của nhiều bạn bè ở khắp nơi rồi :)</p>
 <p>Nói lan man một tí, giờ quay về Macarons nhé. Quả thật là mình đã mất khá nhiều thời gian chỉ để nghĩ xem nên viết tiếp về Macarons như thế nào. Bởi vì công thức Macarons thì gần như đã được quy chuẩn, chỉ có từng ấy thứ nguyên liệu, với một tỉ lệ gần như cố định, cách làm cũng chỉ có một vài bước cơ bản. Còn kinh nghiệm, các lưu ý và bí quyết làm Macarons thì chỉ cần Google là có cả hàng trăm trang trong chưa đầy một phút. Mình cũng không thể viết chi tiết hơn được. Nghĩ đi nghĩ lại cuối cùng thì mình dự định sẽ lại viết theo kiểu “nhật kí làm bánh”, và ghi lại các bước theo trình tự mà mình đã làm. Hi vọng là với cách làm văn “trần thuật” này thì bạn nào chưa làm Macarons bao giờ cũng có thể theo dõi và áp dụng dễ dàng hơn. Nhưng vì là viết theo trình tự thời gian nên các phần tiếp theo đây sẽ chủ yếu là gạch đầu dòng và các chú ý ngắn gọn nha. Cụ thể mình sẽ viết theo các phần chính là:</p>
 <ol>
 <li>Các lưu ý trước khi làm Macarons</li>
@@ -32,10 +29,7 @@ description: "Chia sẻ bí quyết làm Macarons thành công"
 <p><span id="more-3378"></span>3. Kể cả đã học thuộc lòng lí thuyết thì việc làm được Macarons hay không vẫn phụ thuộc nhiều vào tay nghề của bạn, việc bạn hiểu lò nướng đến đâu, và nhiều yếu tố khác. <strong>Không có công thức hay bí quyết nào có thể giúp bạn làm thành công Macarons</strong>, ngoài sự luyện tập của bản thân bạn.</p>
 <p>4. Lưu ý thời tiết, nhiệt độ và độ ẩm khi làm Macarons. Trời khô ráo, mát mẻ, có nhiều gió tự nhiên làm sẽ dễ thành công hơn, <span style="text-decoration: underline;"><strong>không nên</strong></span> làm Macarons ngày mưa, nóng ẩm vì khả năng hỏng rất lớn.</p>
 <p><span style="color: #800000;"><strong>II. Chuẩn bị nguyên liệu và dụng cụ </strong></span></p>
-<p>Có hai cách làm Macarons cơ bản, theo kiểu Pháp và theo kiểu Ý. Một số ý kiến cho rằng cách làm kiểu Ý có khả năng thành công cao hơn, nhưng mình không chọn cách này vì các bước khá phức tạp so với cách làm kiểu Pháp, cũng yêu cầu phải có một vài dụng cụ chuyên dụng, sợ là sẽ không áp dụng được trong nhiều gia đình, nên mình chọn cách làm theo kiểu Pháp để giới thiệu.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Có hai cách làm Macarons cơ bản, theo kiểu Pháp và theo kiểu Ý. Một số ý kiến cho rằng cách làm kiểu Ý có khả năng thành công cao hơn, nhưng mình không chọn cách này vì các bước khá phức tạp so với cách làm kiểu Pháp, cũng yêu cầu phải có một vài dụng cụ chuyên dụng, sợ là sẽ không áp dụng được trong nhiều gia đình, nên mình chọn cách làm theo kiểu Pháp để giới thiệu.</p>
 <p>Công thức làm Macarons thì gần như đã được quy chuẩn, có thể chênh lệch một chút về tỉ lệ giữa các loại nguyên liệu nhưng không nhiều. Có một lưu ý là Macarons là bánh rất ngọt, luôn cần nhiều đường, và gần như không thể bớt đường, lí do đơn giản là vì “kiểu của nó phải vậy” :P Công thức mà mình thường dùng là:</p>
 <ul>
 <li><em><em>1 lòng trắng trứng (33-34gram)</em></em></li>
@@ -61,7 +55,6 @@ description: "Chia sẻ bí quyết làm Macarons thành công"
 <p>– Cân lòng trắng chính xác, có thể dao động trong khoảng 33-35gram, nhưng nếu ít hơn (30gram) hoặc nhiều hơn (40gram) thì cần điều chỉnh lượng đường icing và bột hạnh nhân cho phù hợp.</p>
 <p><strong>2. Đường:</strong></p>
 <p>– Có hai loại đường<strong> khác nhau</strong> được sử dụng trong công thức:</p>
-
 
 <p style="padding-left: 30px;">+ <em><strong>đường icing</strong></em> (65gram): là loại đường bột mịn và trong thành phần có thêm khoảng 3% bột bắp.</p>
 <p style="padding-left: 30px;">+ <em><strong>đường xay</strong></em> (13gram): là đường kính thông thường, nhưng được xay nhỏ mịn.</p>
@@ -121,9 +114,6 @@ description: "Chia sẻ bí quyết làm Macarons thành công"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

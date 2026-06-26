@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2019/03/cách-nấu-hủ-tiêu-banner.jpg"
 description: "cách làm hủ tiếu khô và hủ tiếu nước: Một món ăn rất ngon của Nam Bộ với nhiều phiên bản khác nhau. Cách làm mình chia sẻ tại đây là theo kiểu hủ tiếu..."
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Hủ tiếu hay hủ tíu là món ăn phổ biến ở các tỉnh miền Nam, có nhiều loại hủ tiếu khác nhau như: hủ tiếu sa tế, hủ tiếu Nam Vang, hủ tiếu Mỹ Tho, hủ tiếu Sa Đéc, hủ tiếu thịt, cá, bò viên…. tất cả đều dễ ăn với hương vị thơm ngon, nhẹ nhàng. Món hủ tiếu trong công thức dưới đây mình nấu gần giống với món hủ tiếu Nam Vang ở phần nước dùng. Mình ninh các loại xương heo, mực khô nướng, tôm khô, củ cải, cà rốt, để tạo nên hương vị thơm lừng và ngọt lịm của hủ tiếu. Phần nhân ăn kèm dưới đây là gợi ý thôi, còn các bạn có thể thay đổi theo khẩu vị của gia đình nhé.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8249" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/03/hutieu_final-1024x682.jpg" width="1024"/></p>
 <h2><span style="color: #000000;">CÁCH LÀM HỦ TIẾU KHÔ &amp; HỦ TIẾU NƯỚC </span></h2>
@@ -37,10 +36,7 @@ description: "cách làm hủ tiếu khô và hủ tiếu nước: Một món ă
 <li><em><span style="color: #000000;">80 ml dầu ăn</span></em></li>
 </ul>
 <p><span style="color: #800000;"><strong>Cách làm:</strong></span></p>
-<p><span style="color: #000000;">1. Xương ống rửa sạch, cho vào nồi nước với chút muối, đun sôi 2 – 3 phút cho xương ra hết bọt bẩn, bỏ nước, rửa lại cho sạch. Hầm xương trên lửa nhỏ với 1 lít nước trong khoảng 1 giờ (dùng nồi áp suất sẽ nhanh hơn).</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">1. Xương ống rửa sạch, cho vào nồi nước với chút muối, đun sôi 2 – 3 phút cho xương ra hết bọt bẩn, bỏ nước, rửa lại cho sạch. Hầm xương trên lửa nhỏ với 1 lít nước trong khoảng 1 giờ (dùng nồi áp suất sẽ nhanh hơn).</span></p>
 <p><span style="color: #000000;">2. Tôm bóc vỏ, bỏ đầu, rút chỉ đen ở lưng. Mực làm sạch, khứa các đường ngang, dọc đều nhau, thái miếng vừa ăn. Ướp tôm, mực với 1 thìa cafe gia vị/ bột nêm và 1/2 thìa cafe hạt tiêu, để 15 – 20 phút cho ngấm.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8251" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/03/hutieu2-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">3. Chuẩn bị các nguyên liệu còn lại:</span></p>
@@ -50,10 +46,7 @@ description: "cách làm hủ tiếu khô và hủ tiếu nước: Một món ă
 <p><span style="color: #000000;">– Tôm khô rửa sạch</span></p>
 <p><span style="color: #000000;">– Cà rốt, củ cải nạo vỏ, thái miếng to</span></p>
 <p><span style="color: #000000;">– Giá đỗ nhặt vỏ, rửa sạch. Cải cúc rửa sạch.</span></p>
-<p><span style="color: #000000;">– Tỏi bóc vỏ, thái lát mỏng. Hành, hẹ, mùi tàu nhặt rễ, rửa sạch</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">– Tỏi bóc vỏ, thái lát mỏng. Hành, hẹ, mùi tàu nhặt rễ, rửa sạch</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8252" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/03/hutieu3-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">4. Nướng mực khô trên bếp hoặc chảo đến khi mực thơm, khô trắng, phần rìa hơi xém, thái mực làm 4 phần.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8253" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/03/hutieu4-1024x683.jpg" width="1024"/></p>
@@ -70,7 +63,6 @@ description: "cách làm hủ tiếu khô và hủ tiếu nước: Một món ă
 <p><span style="color: #000000;">10. Đun 1 nồi nước sôi, thả cải cúc vào trần khoảng 2 phút cho cải chín, vớt ra nhúng vào âu nước lạnh để cải giữ màu xanh và không bị chín thêm. Tiếp tục trần sơ giá trong nồi nước sôi khoảng 30 giây, vớt ra để ráo. </span></p>
 <p><span style="color: #000000;">11. Luộc hủ tiếu khô đến khi vừa mềm, đổ ra rổ, xả kỹ dưới vòi nước sạch cho hết bột, xóc ráo nước. Cho vào 2 thìa canh dầu tỏi, đảo đều cho các sợi mỳ không bị dính vào nhau.</span></p>
 
-
 <p><span style="color: #000000;">12. Nồi nước dùng sau khi hầm khoảng 1h, lọc qua rây cho trong. Lấy riêng cà rốt, củ cải cho vào rây lọc, dùng thìa nghiền cà rốt, củ cải qua rây, cho phần nghiền vào nồi nước dùng để tăng hương vị. Nêm nếm lại nồi nước với gia vị cho vừa miệng. Vì nước dùng được ninh với mực, tôm khô, rau củ nên rất đậm đà, ngọt nước, mình thấy chỉ cần nêm bằng bột gia vị hoặc muối là nước dùng đã rất ngon và đúng vị rồi.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8259" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/03/hutieu12-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">13. Gan vớt ra khỏi nồi nước, thái mỏng</span></p>
@@ -83,4 +75,4 @@ description: "cách làm hủ tiếu khô và hủ tiếu nước: Một món ă
 <p><span style="color: #000000;">– Với món hủ tiếu khô, ở bước 14, sau khi cho đầy đủ các nguyên liệu vào bát hủ tiếu (Hành, hẹ, mùi tàu có thể nhúng qua nước sôi cho đỡ hăng), ta chan vào bát 4 thìa canh nước sốt, trộn đều và thưởng thức kèm 1 bát nước dùng thả hành, hẹ.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8263" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/03/hutieu16-1024x683.jpg" width="1024"/></p>
 <p> </p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

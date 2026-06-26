@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2013/05/OcLuoc.jpg"
 description: "cách làm ốc, pha nước chấm ốc, ốc luộc"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Như rất nhiều bạn gái (và bạn trai) khác, bạn Trang cũng là một “fan” hâm mộ của các con sống dưới nước có vỏ cứng, cụ tỉ hơn là ngao sò ốc hến các thể loại. Nhưng tình yêu này trong 3 năm gần đây đã bị ảnh hưởng rất nhiều do ở đây mọi người hầu như không ăn mấy con này, cho nên trong chợ rất ít khi có bán, nếu muốn ăn thì phải tìm trong chợ châu Á, nhưng mà thường chỉ có đồ đông lạnh thôi, tức là chẳng có mùi vị gì mấy (nhất là nếu mang luộc).</p>
 <p>Cơ mà mấy tuần nay đi chợ mình bỗng dưng phát hiện ra cửa hàng hải sản trong chợ có thêm mấy loại ngao sò, cả ốc nữa, không rõ là ốc gì nhưng nhỏ nhỏ bằng đầu ngón tay. Và tất cả đều là đồ tươi. Cho nên chẳng có gì phải chần chừ nữa, “vác” ngay về nhà để thỏa mãn cái sự nhớ nhung từ bấy lâu nay thôi :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8720679890/" title="IMG_0303 by LinhTrang9185, on Flickr"><img alt="IMG_0303" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7361/8720679890_8fb47361d9.jpg" width="500"/></a></p>
 <p>Làm ốc luộc (ngao, hến… nói chung) thì không khó lắm. Vì trong ốc có nhiều đất cát nên sau khi rửa qua 1, 2 nước cho sạch, việc tiếp theo nên làm là ngâm ốc trong nước (dùng nước vo gạo là tốt nhất), có pha ít muối và thêm vài quả ớt hiểm đập dập cho ốc nhả hết bùn đất, nhớt… Nên ngâm nửa ngày hoặc qua đêm cho sạch hẳn rồi rửa lại cho thật sạch (trong qúa trình ngâm nếu nước đục do nhớt, đất cát bẩn từ ốc thì nên thay nước).</p>
-<p>Mình luộc ốc thường không cho nhiều nước, đúng hơn là rất ít nước. Thêm vài củ sả đập dập và vài cái lá chanh nữa. Đợi nước sôi bùng lên thì mở vung, đảo đều, thêm vài phút khi ốc mở nắp là bắc ra luôn. Luộc kĩ quá ốc sẽ dễ bị dai (ngao cũng vậy).</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Mình luộc ốc thường không cho nhiều nước, đúng hơn là rất ít nước. Thêm vài củ sả đập dập và vài cái lá chanh nữa. Đợi nước sôi bùng lên thì mở vung, đảo đều, thêm vài phút khi ốc mở nắp là bắc ra luôn. Luộc kĩ quá ốc sẽ dễ bị dai (ngao cũng vậy).</p>
 <p>Làm ốc luộc có một phần không thể thiếu là pha nước chấm ốc. Nước chấm ở bên này, thật sự mà nói dù tay nghề có cao bao nhiêu cũng khó mà ngon bằng nước chấm của hàng ốc ở Việt Nam. Lý do là mắm thì không thơm bằng ở nhà, dấm cũng không thanh bằng ở nhà, lại không có quất… Cho nên cố gắng làm được 7-8 phần so với nước chấm ở nhà là thấy mĩ mãn, hỉ hả lắm rồi. Nước chấm ốc mình hay làm theo cách này, nhà mình ai có kinh nghiệm hay thì cùng chia sẻ luôn nha.</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <ul>
@@ -34,13 +30,10 @@ description: "cách làm ốc, pha nước chấm ốc, ốc luộc"
 <p>2. Cho đường, dấm, nước và nước mắm vào bát gừng, sả ớt theo thứ tự như sau:</p>
 <p>– Cho đường, dấm, trộn đều với gừng, ớt, sả.</p>
 <p>– Tiếp theo cho nước, trộn cho đường tan.</p>
-<p>– Cho nước mắm.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>– Cho nước mắm.</p>
 <p><strong>Tỉ lệ là: 1 dấm: 1 đường: 2 nước: 1-1.5 nước mắm</strong></p>
 <p>Định lượng này có thể thay đổi tùy theo khẩu vị của gia đình, và tùy loại mắm/dấm mà bạn sử dụng. Điều quan trọng nhất là bạn pha theo thứ tự cho nguyên liệu như trên, thì điều chỉnh mùi vị nước chấm sẽ rất dễ, không bị “loạn vị” (không biết thiếu thừa gì).</p>
 <p>3. Sau khi pha xong theo tỉ lệ trên thì nước chấm thường là sẽ hơi ngọt một chút. Lúc này các bạn vắt thêm quất hoặc chanh tươi đến khi nước chấm có vị chua vừa ăn. Cuối cùng cho lá chanh thái chỉ.</p>
 <p>Pha theo cách này nước chấm sẽ rất thơm mùi gừng, sả, lá chanh, có vị chua mặn ngọt dịu vừa phải và cay của ớt, gừng, ớt, sả cũng nổi lên mặt nước chấm trông rất đẹp :)</p>
 <p>Hôm nay mưa lạnh, lại thèm nồi ốc nóng rồi.. :”&gt;</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

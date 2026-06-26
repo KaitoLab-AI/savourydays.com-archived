@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2015/11/banh-mi.jpg"
 description: "Cách làm bánh mì nguyên cám mềm xốp và nhiều chất dinh dưỡng, đặc biệt tốt cho sức khỏe"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Trước đây mình không mặn  mà với các loại bánh mì nguyên cám (whole wheat bread) lắm vì ấn tượng chung về bánh mì nguyên cám là tuy mùi vị đậm đà nhưng phần ruột bánh thường ẩm, đặc, đôi khi hơi cứng. Với khẩu vị “kiểu châu Á”, quen với các loại bánh mì mềm nhẹ, xốp thì ăn không thấy thích lắm. Do vậy  mà mặc dù biết là bánh mì nguyên cám tốt cho sức khỏe hơn nhiều nhưng mình không tìm hiểu mấy về loại bánh này.</p>
 <p>Cho tới mùa hè năm nay, khi đi học làm bánh ở Le Cordon Bleu, và được tiếp xúc với khá nhiều loai bánh mì làm từ bột nguyên cám thì mình mới biết từ bột mì nguyên cám hóa ra vẫn có thể làm được ra loại bánh mì mềm, xốp, dai và ẩm, không khác gì bánh mì gối trắng thông thường, mà lại có mùi vị thơm ngon hơn rất rất nhiều. Học được rồi, về nhà mày mò làm và thử với cả máy làm bánh mì ở nhà thì thấy bánh mì nguyên cám quả thực là một phát hiện vĩ đại, như kiểu mình vừa tìm ra cả một “chân trời mới” của thế giới bánh mì ấy. Và sau khi tìm được thì mình quyết định ở lại chân trời này luôn, gần như không quay lại với bánh mì gối trắng nữa.</p>
 <p>Ở bên mình (châu Âu) thì bột mì nguyên cám (whole wheat flour) có thể tìm thấy rất dễ dàng tại các quầy bán bột mì trong siêu thị hay cửa hàng chuyên về bột làm bánh. Còn tại Việt Nam theo mình biết thì bột mì nguyên cám vẫn chưa được phổ biến lắm. À nhân đây, mình muốn hỏi các địa chỉ nơi có bán bột mì nguyên cám tại Việt Nam để cập nhật luôn cho các bạn chưa biết. Nhờ các anh chị em, cô bác ở Việt Nam chỉ giùm ạ.</p>
 <p><em>Bột mì nguyên cám là gì và có gì khác với bột mì trắng thông thường?</em> Nếu tra cứu thử tại Google thì có thể tìm thấy cả vài (chục) trang giải thích. Nhưng tóm tắt ngắn gọn là bột mì trắng được xay từ lúa mì đã qua xử lí và xay xát, còn bột mì nguyên cám thì làm từ hạt lúa mì chưa qua xay xát và xử lí nhiều (cũng tương tự như gạo trắng là hạt lúa đã qua xay xát và xử lí, còn gạo lứt thì ở dạng “thô” hơn vậy).</p>
-<p style="text-align: center;"><em>Bột mì nguyên cám – Whole wheat flour thường có màu nâu nhạt</em></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p style="text-align: center;"><em>Bột mì nguyên cám – Whole wheat flour thường có màu nâu nhạt</em></p>
 <p><a href=" https://www.flickr.com/photos/savourydays/22156281794/" title=" IMG_1133 by LinhTrang9185, on Flickr"><img alt=" IMG_1133" class="aligncenter" height="444" loading="lazy" src=" https://farm1.staticflickr.com/579/22156281794_22b817353b_z.jpg " width="640"/></a></p>
 <p>Vì không được xử lí nhiều nên bột mì nguyên cám vẫn còn chứa cả các phần “thô” của hạt lúa mì, như phần vỏ cám hay phôi hạt lúa mì, là những phần tập trung rất nhiều chất xơ, dinh dưỡng và khoáng chất. Do đó, nếu so với bột mì trắng thì bột mì nguyên cám có hàm lượng dinh dưỡng lớn hơn nhiều. Với cùng một lượng bột như nhau, hàm lượng các loại vitamin B, chất xơ, sắt, can-xi… trong bột mì nguyên cám nhiều hơn gấp đôi so với bột mì trắng. Do vậy ăn sản phẩm từ bột mì nguyên cám không chỉ tốt cho sức khỏe hơn mà năng lượng được cung cấp cũng nhiều hơn -&gt; cần ăn một lượng ít hơn là đủ no rồi, nên ít lo béo hơn :D</p>
 <p>Tuy nhiên, cũng vì còn chứa nhiều thành phần “thô” nên sử dụng bột mì nguyên cám để làm bánh ngọt và bánh mì khá là khó. Chúng ta biết là protein trong bột mì khi gặp nước sẽ chuyển hóa và tạo ra các sợi gluten. Khi nướng bánh, các sợi gluten này cứng lại, tạo ra thớ bánh trong bánh ngọt hay bánh mì. Gluten trong các loại bánh ngọt thường mềm trong khi gluten của bánh mì dẻo và dai hơn nhiều (thì mới có thể tạo ra được ruột bánh mì dai và xốp). Trong bột mì nguyên cám, các thành phần “thô” như vỏ cám chính là khắc tinh của sợi gluten. Vì các phần thô này có cạnh sắc nên sẽ cắt đứt các sợi gluten khi nhào trộn, làm cho việc nhồi bột dẻo dai (với bánh mì) khó hơn, và mạng gluten cũng yếu hơn. Do đó, khi làm bánh mì với bột mì nguyên cám, nếu không khéo có thể sẽ làm ra bánh có phần ruột ẩm, đặc chứ không xốp mềm như bánh mì thường.</p>
@@ -26,10 +22,7 @@ description: "Cách làm bánh mì nguyên cám mềm xốp và nhiều chất d
 <p><a href=" https://www.flickr.com/photos/savourydays/22767892742/" title=" IMG_1068 by LinhTrang9185, on Flickr"><img alt=" IMG_1068" class="aligncenter" height="428" loading="lazy" src=" https://farm1.staticflickr.com/666/22767892742_59078a8a38_z.jpg " width="640"/></a></p>
 <p><strong>BÁNH MÌ NGUYÊN CÁM MẬT ONG (50%)</strong></p>
 <p><span style="color: #800000;"><strong>Dụng cụ:</strong></span> 1 khuôn loaf dài 25 cm, rộng 7 cm, cao 5cm.</p>
-<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <ul>
 <li><em>150 gram bột làm bánh mì (bột mì số 11/ bread flour)</em></li>
 <li><em>150 gram bột mì nguyên cám (whole wheat flour)</em></li>
@@ -56,7 +49,6 @@ description: "Cách làm bánh mì nguyên cám mềm xốp và nhiều chất d
 <p><a href=" https://www.flickr.com/photos/savourydays/22156270604/" title=" IMG_1144 by LinhTrang9185, on Flickr"><img alt=" IMG_1144" class="aligncenter" height="428" loading="lazy" src=" https://farm1.staticflickr.com/628/22156270604_f36255c124_z.jpg " width="640"/></a></p>
 <p>Cho mật ong và nước vào. Dùng thìa gỗ hoặc thìa cứng quấy từ trong ra ngoài.</p>
 <p><a href=" https://www.flickr.com/photos/savourydays/22591064390/" title=" IMG_1146 by LinhTrang9185, on Flickr"><img alt=" IMG_1146" class="aligncenter" height="428" loading="lazy" src=" https://farm6.staticflickr.com/5711/22591064390_e8971120bf_z.jpg " width="640"/></a></p>
-
 
 <p><a href=" https://www.flickr.com/photos/savourydays/22156264504/" title=" IMG_1148 by LinhTrang9185, on Flickr"><img alt=" IMG_1148" class="aligncenter" height="428" loading="lazy" src=" https://farm6.staticflickr.com/5696/22156264504_9e4ae4a532_z.jpg " width="640"/></a></p>
 <p>Trộn đều tới khi các nguyên liệu hòa quyện thành một khối lổn nhổn.</p>
@@ -134,4 +126,4 @@ description: "Cách làm bánh mì nguyên cám mềm xốp và nhiều chất d
 </ul>
 </li>
 </ol>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

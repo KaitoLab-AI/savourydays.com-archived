@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2014/12/KhoaiLangChienGion.jpg"
 description: "khoai chiên giòn, khoai lang chiên bơ"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Mùa Đông năm nay đến sớm – khác hẳn với năm trước, đợi dài cổ mà nhiệt độ chỉ khoảng 3 – 5 độ C, chẳng xuống thấp hơn nên tuyết mãi cũng chẳng thấy. Năm nay thì từ khoảng giữa tháng 11 trời đã khá lạnh rồi. Như mấy ngày hôm nay thì nhiệt độ buổi đêm và sáng sớm đã xuống dưới 0. Trời lạnh tự nhiên lại thấy biết nấu ăn đúng là một lợi thế “to nhớn”. Khi mà ngày đã trở nên ngắn tũn, ông mặt trời mới hơn 4h đã đi ngủ, chẳng thể đi dạo loanh quanh như mùa hè, thì quay trở về nhà ôm bếp, ôm lò, hít hà mùi thơm của đủ thứ thức ăn ngập tràn căn bếp, cũng là một thú vui lành mạnh mà không hề xa xỉ :)</p>
 <p>Trời lạnh ăn gì cũng ngon, nhưng khoản chọn món không vì thế mà dễ hơn chút nào. Bởi ăn gì cũng ngon nên khi nấu cũng phải để ý hơn, nếu không thì hết mùa Đông chắc quần áo sẽ tăng thêm một vài cỡ mất. Chẳng hạn như mấy hôm nay tự nhiên lại thấy thèm vị khoai chiên giòn với bơ tỏi, thèm vị bùi bùi, giòn giòn, thơm phức ấy. Cơ mà nghĩ đến chuyện khoai tây có bao nhiêu calo với carb là thấy hơi nhụt chí rùi. Cũng may là họ nhà khoai đông đúc, nên ngoài bạn khoai tây ra còn có một cơ số các bạn khoai khác mà mình có thể dùng để thay thế – và thế là món khoai lang chiên giòn ra đời ^.^</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/15759553539/" title="IMG_9098-1 by LinhTrang9185, on Flickr"><img alt="IMG_9098-1" class="aligncenter" height="322" loading="lazy" src="https://farm8.staticflickr.com/7521/15759553539_bf7f5b35bb.jpg" width="500"/></a></p>
 <p>Khoai lang ở bên này không rẻ lắm, cũng không ngon như khoai ở nhà, nên thi thoảng thèm lắm mình mới mua về hấp hay luộc ăn chơi thôi. Nhưng từ lúc phát hiện ra món khoai này thì mình nghĩ chắc sẽ tăng cường mua nó nhiều hơn. Khoai sau khi nướng và chiên, ngoài vị giòn bùi thì còn hơi dẻo dai nữa, chưa kể vị thơm ngọt tự nhiên mà khoai tây không có được, thêm tí cay cay của bột ớt tiêu và béo ngậy từ bơ với pho-mát Parmesan. Làm nửa kg khoai, trong nhà chỉ có một mình, mà quay đi quay lại đã thấy vơi hơn nửa :”&gt; (<em>thôi thì cứ ăn đã, chuyện size quần áo sẽ tính sau :D) </em></p>
-<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <ul>
 <li><em>0.5 kg khoai lang (sweet potato)</em></li>
 <li><em>1.5 thìa canh (tablespoon – khoảng 23 – 25 ml) dầu Olive</em></li>
@@ -40,10 +36,7 @@ description: "khoai chiên giòn, khoai lang chiên bơ"
 <p>2. Cho khoai vào âu. Cho dầu Olive vào trộn đều.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/15919791116/" title="IMG_7319 by LinhTrang9185, on Flickr"><img alt="IMG_7319" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7480/15919791116_97f7ff79d7.jpg" width="500"/></a></p>
 <p>Tiếp theo cho bơ, trộn đều.</p>
-<p><a href="https://www.flickr.com/photos/55490207@N05/15943636531/" title="IMG_7321 by LinhTrang9185, on Flickr"><img alt="IMG_7321" class="aligncenter" height="333" loading="lazy" src="https://farm9.staticflickr.com/8640/15943636531_914388ac82.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15943636531/" title="IMG_7321 by LinhTrang9185, on Flickr"><img alt="IMG_7321" class="aligncenter" height="333" loading="lazy" src="https://farm9.staticflickr.com/8640/15943636531_914388ac82.jpg" width="500"/></a></p>
 <p>3. Trộn các nguyên liệu còn lại, cho vào âu trộn cùng khoai.</p>
 <p>(*) <span style="text-decoration: underline;">Nếu nướng khoai</span>:</p>
 <p>4. Lót giấy bạc vào khay, để vỉ nướng (rack) lên trên khay. Bật lò 200 độ C – hai lửa.</p>
@@ -61,6 +54,5 @@ Cho khoai vào lò nướng ở rãnh giữa trong khoảng 15 phút thì lấy 
 <p>Với phương pháp chiên khoai, có một cách làm khác cũng cho khoai giòn là sau khi cắt xong các bạn ngâm khoai trong nước lạnh có pha chút muối khoảng 15 – 20 phút rồi đổ ra rổ, thấm cho khoai khô nước. Sau đó chiên ngập trong dầu nóng già. Sau khi chiên lần 1 và để khoai ráo dầu, các bạn có thể xóc với hỗn hợp gia vị tùy thích (bơ, pho mát, tỏi, ớt…), để gia vị bám và ngấm vào khoai rồi chiên lại lần 2 trước khi ăn.</p>
 <p>Khoai nên dùng nóng với Ketchup, mayonnaise hoặc sốt tùy thích :)</p>
 
-
 <p><a href="https://www.flickr.com/photos/55490207@N05/15325958263/" title="IMG_9102-1 by LinhTrang9185, on Flickr"><img alt="IMG_9102-1" class="aligncenter" height="640" loading="lazy" src="https://farm9.staticflickr.com/8561/15325958263_67ef923819_z.jpg" width="581"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

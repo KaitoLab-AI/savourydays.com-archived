@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2011/12/BanhDuaTam.jpg"
 description: "Cách làm bánh núm dừa"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Có hai công thức cho món bánh núm dừa này, một công thức kiểu Việt Nam và một công thức kiểu Tây :P Kiểu Việt Nam là công thức chỉ gồm lòng trắng trứng đánh với đường đến bông cứng rồi trộn với dừa sấy, sau đấy nặn thành viên tròn và mang đi nướng. Kiểu Tây thì công thức thường có thêm chút bột và không cần phải đánh trứng đến bông cứng, cho nên ai không có máy đánh trứng cũng có thể làm được bánh này mà không lo mỏi tay vì phải đánh trứng đến bông. Cả hai công thức đều cho bánh dừa thơm phức, vỏ ngoài vàng ruộm và bên trong trắng phau, nhìn thích mắt cực kì :) Có một chút khác biệt là công thức kiểu Việt Nam cho bánh nhẹ hơn một chút, công thức kiểu nước ngoài thì giòn, dẻo nhưng cũng cứng hơn. Cho nên nếu muốn có bánh hình tròn thì mình nghĩ chắc dùng công thức kiểu Việt Nam sẽ tốt hơn, còn công thức kiểu Tây có bột nặn dẹt một chút chắc sẽ ngon hơn vì bánh rất giòn.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6485567631/" title="Coconut Macaroons by LinhTrang9185, on Flickr"><img alt="Coconut Macaroons" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7020/6485567631_d18670631a_z.jpg" width="427"/></a></p>
 <p>Cuối cùng là về chuyện cái tên, tiếng Anh là Coconut Macaroons rất thống nhất, nhưng tiếng Việt thì có ít nhất hai cái tên như trên phần tựa đề kia, mình cũng chẳng biết tên đúng là gì nên cứ tạm để cả hai tên như thế. Bánh này làm nhanh và đơn giản và giúp tận dụng lòng trắng trứng thừa khi làm…nhiều thứ như Flan, làm Choux hay Tiramisu. Bánh đẹp và ngon nên làm quà tặng cũng rất tuyệt nữa ;)</p>
 <p>Mình giới thiệu cả hai công thức, tùy cả nhà chọn lựa nhé.</p>
-<p><span id="more-1436"></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span id="more-1436"></span></p>
 <p><strong>Công thức bánh núm dừa/ bánh dừa tấm </strong></p>
 <p><strong>Nguyên liệu </strong></p>
 <ul>
@@ -34,10 +30,7 @@ description: "Cách làm bánh núm dừa"
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/fg2y50m3A4w" width="560"></iframe></div>
 <p> </p>
 <p>Tóm tắt các bước:</p>
-<p>1. Vặn lò 160 độ C (320 độ F) (làm nóng lò trước khi nướng 10-15 phút). Chuẩn bị khay nướng có lót giấy nến hoặc tấm nướng bánh.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>1. Vặn lò 160 độ C (320 độ F) (làm nóng lò trước khi nướng 10-15 phút). Chuẩn bị khay nướng có lót giấy nến hoặc tấm nướng bánh.</p>
 <p>2. Cho lòng trắng trứng và muối vào âu. Để máy đánh trứng ở tốc độ thấp, đánh khoảng 60 giây đến khi nổi bọt. Cho cream of tartar vào, tăng dần tốc độ lên. Đánh đến khi lòng trắng bông nhẹ, các bọt khí nhỏ li ti giống bọt xà phòng giặt thì từ từ cho đường vào, đánh đến bông cứng, bóng &amp; dẻo.</p>
 <p><strong>Ghi chú:</strong></p>
 <p><em>– Âu và que đánh trứng phải sạch và khô, <strong>không được</strong> dính chất béo (bơ, dầu ăn, lòng đỏ)</em></p>
@@ -61,7 +54,6 @@ description: "Cách làm bánh núm dừa"
 <p>* <strong>Lưu ý: Lòng trắng trứng ở nhiệt độ phòng và không được lẫn lòng đỏ </strong></p>
 <p><strong>Cách làm</strong></p>
 
-
 <p>1. Vặn lò 165 độ C (325 độ F) (làm nóng lò trước khi nướng 10-15 phút). Chuẩn bị khay nướng có lót giấy nến hoặc tấm nướng bánh.</p>
 <p>2. Cho lòng trắng trứng, đường và muối vào âu. Chuẩn bị phới lồng cầm tay (whisk) để đánh trứng.</p>
 <p><strong>Lưu ý: <em>Âu và que đánh trứng phải sạch và khô, không được dính chất béo (bơ, dầu ăn, lòng đỏ</em></strong></p>
@@ -78,4 +70,4 @@ description: "Cách làm bánh núm dừa"
 <p>6. Nướng bánh ở nhiệt độ 165 độ C trong 15-20 phút, đến khi bánh chín vàng đều.</p>
 <p>Để bánh nguội, bảo quản trong túi hoặc hộp kín.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6485567485/" title="Coconut Macaroons by LinhTrang9185, on Flickr"><img alt="Coconut Macaroons" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7006/6485567485_9fb6ddb9e6_z.jpg" width="427"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

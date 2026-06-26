@@ -12,10 +12,7 @@ description: ""
 <p>Vừa mới cộng thêm 1 cho số tuổi của mình, quay đi quay lại, thoắt cái đã thấy phải cộng thêm 1 nữa. Chấm phạt đền mang tên “ba mươi” năm ngoái thấy còn xa lắm, năm nay đã thấy gần ngay trước mặt. Haizzzz… #:-S</p>
 <p>Vì cái ngày “đáng sợ” này mà tối hôm qua trước khi đi ngủ đã tự lên kế hoạch cho ngày hôm nay: nướng bánh, chụp ảnh, ăn cơm, làm bài tập cho lớp tiếng Pháp, sửa thêm vài trang luận án,… nói chung là làm sao cho nó chẳng khác gì ngày thường. Thế mà cuối cùng thì nó vẫn trở nên “khác thường”, bởi sáng mở điện thoại ra đã thấy có hàng loạt mail và tin nhắn chúc mừng mới, từ bố mẹ, từ gia đình, bạn bè… thậm chí cả bạn Google cũng không “tha” cho mình nữa.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/12410151553/" title="Screen shot 2014-02-09 at 08.47.58 by LinhTrang9185, on Flickr"><img alt="Screen shot 2014-02-09 at 08.47.58" class="alignleft" height="295" loading="lazy" src="http://farm8.staticflickr.com/7384/12410151553_d407c93791_c.jpg" width="800"/></a></p>
-<p>Thôi thì đành chấp nhận sự thật vậy. Thế là mình đã già thêm một tuổi rồi!!!!  X_X</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Thôi thì đành chấp nhận sự thật vậy. Thế là mình đã già thêm một tuổi rồi!!!!  X_X</p>
 <p>Bước sang tuổi mới, quay đầu ngó lại ngắm tuổi cũ. Cũng như năm mới, mình không còn thói quen tự tổng kết và đặt mục tiêu nữa. Đạt được gì, chưa đạt được gì, còn phải đạt được những gì… thật ra chẳng có ý nghĩa nhiều lắm. Điều quan trọng hơn có lẽ là ngày càng biết được rõ hơn những việc mà mình say mê, những việc làm cho mình cảm thấy vui vẻ, hạnh phúc, và quan trọng hơn cả là mình có thể thực hiện chúng. Tuy chưa thật sự trọn vẹn, nhưng cảm thấy thời gian và những nỗ lực mà mình bỏ ra đã không lãng phí và vô bổ. Ngay cả khi ở trong những ngày tháng u ám và cảm thấy tồi tệ nhất, thì vẫn thấy trước mặt mình có ánh sáng để bước tiếp. Vậy nên cho tuổi mới cũng không đặt mục tiêu gì cụ thể, chỉ mong có thể tiếp tục làm tốt những việc mình muốn làm. Thế thôi :)</p>
 <p>Nhân dịp sinh nhật, tự mua tặng mình hai chậu cây nhỏ với rất nhiều chồi non mới nhú, một chậu hứa hẹn sẽ cho hoa tulip trắng, chậu còn lại là Iris màu tím mà mình thích. Không mua hoa mà chọn cây vì cảm giác chờ đợi, hi vọng và chứng kiến sự hình thành, sinh sôi, nảy nờ, luôn là một cảm giác rất thú vị, rất vui, gần như là hạnh phúc. Cũng như khi chờ chiếc bánh nở phồng lên trong lò, hay khi nhìn thấy những trang luận án đang ngày một dài hơn, và quyển sách mới sau bao nhiêu nỗ lực và cố gắng của cả ê-kíp đã đến được giai đoạn hoàn thiện. Mong là trong tuổi mới sẽ được trải nghiệm thêm với nhiều sự chuyển đổi như vậy nữa.</p>
 <p><em>Tớ đã sẵn sàng, xin chào bạn, tuổi thứ 18 + x :-&gt; :x </em></p>
@@ -27,9 +24,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

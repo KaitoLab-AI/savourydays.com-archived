@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2013/11/XmasFruitCake.jpg"
 description: "bánh hoa quả giáng sinh, fruit cake, bánh cake"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Còn một tháng nữa thôi là tới Giáng sinh rồi. Đi ngoài phố đã thấy các cửa hàng bán đồ trang trí bắt đầu có các thứ đồ để chuẩn bị cho mùa lễ lớn nhất trong năm. Mặc dù với người Việt mình, Giáng sinh không có ý nghĩa thật đặc biệt như Tết cổ truyền, nhưng cũng là một dịp tốt để quây quần, sum họp. Chẳng còn gì bằng khi trong cái rét của những ngày cuối năm, cả nhà cùng ngồi lại bên bàn ăn với bao nhiêu món ngon, cùng trò chuyện, ôn lại năm cũ và hướng đến một năm mới nhiều niềm vui, nhiều tiếng cười hơn.</p>
 <p>Giáng sinh cũng là dịp để các bà mẹ cùng các cô con gái trổ tài nấu nướng, từ gà tây, ngỗng, vịt quay, … cho đến bánh mì với quả khô, bánh cake, các loại bánh quy giòn giòn, thơm thơm, nồng ấm mùi quế, mùi gừng. Một dịp vui thế này, <em>Savoury Days </em>tất nhiên cũng phải góp thêm phần cho xôm tụ ^.^ Năm nay hi vọng sẽ có thời gian (và sức lực) để “ăn” Giáng sinh “hoành tráng” hơn các năm trước với: <em>Xmas Fruit Cake, Panettone, Amaretti cookies, Gingerbread cookies, Sugar cookies (decor với Royal icing), Belgian Chocolate truffle, Sacher torte</em> … (và một số món khác tạm thời chưa nghĩ ra, bạn nào có ý kiến nên thêm bớt gì thì cứ đề xuất nhé).</p>
 <p>Các công thức sẽ được đăng dần tại <a href="/thuc-don-mung-giang-sinh-va-nam-moi/ ">link tổng hợp về Giáng sinh</a>. Trong link cũng vẫn còn bài lưu từ các năm trước, về Nhà bánh gừng (gingerbread house), bánh khúc cây (Yule log) và một vài loại bánh khác.</p>
 <p>Mong là bếp của tất cả chúng mình sẽ có những ngày cuối năm thật rộn ràng và ấm áp!!!</p>
-<p>———</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>———</p>
 <p>Món “mở hàng” cho mùa Giáng sinh năm nay là Bánh hoa quả Giáng sinh (Christmas Fruit Cake). Về cơ bản thì đây là bánh cake với hoa quả và hạt khô,  là một loại bánh được nhiều người Việt yêu thích, phiên bản “Giáng sinh” chỉ thêm vào một số gia vị tạo không khí Giáng sinh thôi. Làm Xmas Fruit Cake thích nhất có lẽ là lúc nướng bánh, mùi bơ thơm phức quyện với mùi gừng, mùi quế, mùi quả ngọt, rồi cả hương rượu rất nồng, thấy ấm áp và cảm giác háo hức kinh khủng, giống như Giáng sinh đang ở ngoài cửa sổ rồi ấy :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/11068074944/" title="Xmas fruit cake by LinhTrang9185, on Flickr"><img alt="Xmas fruit cake" class="aligncenter" height="640" loading="lazy" src="http://farm3.staticflickr.com/2883/11068074944_af1eafb515_z.jpg" width="477"/></a></p>
 <p><b></b><span style="color: #800000;"><b>Dụng cụ</b>:</span> Khuôn loaf 25cm hoặc khuôn tròn 20cm</p>
@@ -46,10 +42,7 @@ description: "bánh hoa quả giáng sinh, fruit cake, bánh cake"
 <p><strong>Các nguyên liệu viết bằng mực xanh là nguyên liệu có thể thay đổi</strong>:</p>
 <p>– Đường mà mình sử dụng là đường mía (hình dưới). Mình dùng đường vàng pha đường nâu để bánh có màu nâu nhưng không quá sậm. Lượng đường trong công thức theo mình là vừa phải, bánh không quá ngọt. Nhưng mỗi loại đường khác nhau có thể có độ ngọt khác nhau nên khi làm bánh có thể cần điều chỉnh định lượng. Ngoài hai loại đường này, mình cũng đã thử  làm với 50 g đường trắng và 80 g đường nâu (trong video ở dưới), thấy khá ổn. Nếu các bạn muốn dùng đường trắng hoàn toàn thì mình nghĩ có thể dùng khoảng 100 gr vì đường trắng ngọt hơn đường nâu khá nhiều.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/11068028546/" title="IMG_4010 by LinhTrang9185, on Flickr"><img alt="IMG_4010" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7385/11068028546_c257121bb8.jpg" width="500"/></a></p>
-<p>– Bột gừng, bột quế, va-ni, chiết xuất hạnh nhân giúp bánh có mùi vị thơm ngon và ấm nồng hơn, nên cố gắng có đủ.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>– Bột gừng, bột quế, va-ni, chiết xuất hạnh nhân giúp bánh có mùi vị thơm ngon và ấm nồng hơn, nên cố gắng có đủ.</p>
 <p>– Hạt khô và quả khô có thể dùng bất kì loại nào mà bạn thích hoặc có được, ngoài các loại hạt ghi trong công thức, có thể dùng hạt dẻ cười (loại không có muối), hạt bí, hạt dưa, … thường các loại hạt có nhiều dầu, béo ngậy ăn sẽ càng ngon. Quả khô nên chọn các loại có nhiều màu sắc, có cả vị chua và ngọt.</p>
 <p>– Rượu cho Xmas Fruit Cake thường là rượu mạnh. Đa phần các công thức đều dùng Brandy hoặc Cognac. Mình dùng Rum thấy cũng ổn. Nếu có em bé, các bạn có thể bỏ qua phần rượu hoặc dùng Baking emulsion vị Rum (mình có <a href="http://shop.mycakedecorating.co.uk/baking-emulsion-rum-4oz-118-2ml">chai này</a>, dùng thấy mùi rất ổn, rất thơm, mà chẳng có tí cồn nào :) ).</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/11068096423/" title="IMG_4037-1 by LinhTrang9185, on Flickr"><img alt="IMG_4037-1" class="aligncenter" height="640" loading="lazy" src="http://farm4.staticflickr.com/3735/11068096423_597d17914c_z.jpg" width="427"/></a></p>
@@ -66,7 +59,6 @@ description: "bánh hoa quả giáng sinh, fruit cake, bánh cake"
 <p>3. Hạt khô nếu quá to thì cắt nhỏ, nhưng không quá nhỏ (khi ăn còn có cảm giác nhai hạt). Cho hạt vào khay, đặt vào lò đã làm nóng ở 160 độ C, sấy trong khoảng 5 – 7 phút. Bước này sẽ giúp hạt có mùi vị thơm ngọt hơn. *<strong>Lưu ý</strong>: <em>cần theo dõi quá trình sấy vì nhiệt trong lò có thể nóng khác nhau, tránh để hạt bị cháy.</em></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/11068103343/" title="IMG_4005 by LinhTrang9185, on Flickr"><img alt="IMG_4005" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2813/11068103343_18a2722744.jpg" width="500"/></a></p>
 <p>4. Chống dính khuôn bằng xịt chống dính hoặc lấy bơ thoa đều khắp lòng khuôn rồi phủ một lớp bột lên. Xoay khuôn cho bột bao đều khắp lòng khuôn. Úp ngược khuôn cho bột thừa rơi ra ngoài.</p>
-
 
 <p><a href="http://www.flickr.com/photos/55490207@N05/11068101943/" title="IMG_4007 by LinhTrang9185, on Flickr"><img alt="IMG_4007" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3719/11068101943_a7419090a2.jpg" width="500"/></a></p>
 <p>5. Rây bột mì, bột nở, bột quế và bột gừng (nếu có) vào âu. Dùng phới lồng trộn đều.</p>
@@ -96,4 +88,4 @@ description: "bánh hoa quả giáng sinh, fruit cake, bánh cake"
 <p>Nếu muốn để lâu hơn và nhất là nếu muốn tẩm thêm rượu, cần nướng bánh thêm khoảng 15 – 20 phút để bánh khô hơn. Sau đó, khi bánh nguội các bạn bọc kín bánh rồi để tủ lạnh. Mỗi tuần lấy ra dùng chổi quét rượu lên khắp bên ngoài bánh từ 2 – 3 lần. Lượng rượu tẩm bánh và số lần quét rượu hoàn toàn phụ thuộc vào việc bạn muốn bánh đậm mùi rượu đến đâu. Mặc dù lời quảng cáo thường là sau 3 – 4 tuần bạn sẽ có một chiếc bánh rất ẩm, rất mềm và thơm mùi rượu. Nhưng với một người không uống được rượu như mình thì một chiếc bánh sũng rượu như vậy có lẽ là hơi “quá đáng”, nên mình dừng lại ở việc quét rượu sau khi nướng xong thôi.</p>
 <p>Nếu không muốn dùng rượu, phần quả khô có thể rửa trong nước ấm cho mềm rồi trộn cùng với bánh. Bánh làm xong có thể dùng mứt mơ hoặc mật ong pha với chút nước cam nóng để quết bên ngoài, bánh sẽ rất thơm và bóng đẹp.</p>
 <p>Nếu không quét thêm rượu (như mình) thì bánh có thể bảo quản trong tủ lạnh từ 3 – 4 ngày, khi ăn các bạn quay trong lò vi sóng khoảng 20 – 30 giây, bánh sẽ mềm ngon trở lại.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

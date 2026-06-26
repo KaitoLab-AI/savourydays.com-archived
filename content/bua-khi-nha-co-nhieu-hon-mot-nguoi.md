@@ -12,10 +12,7 @@ description: "savoury days, linh trang, bữa cơm gia đình, món ăn hàng ng
 <p>Có lẽ là lâu lắm rồi, chắc từ khi mình bắt đầu sống ở Bỉ, mình mới lại chuẩn bị bữa cơm với lượng đồ ăn lớn như vậy :P Nhưng mà không hề gì, bởi vì trong bếp đã có thêm 2 phụ bếp rất chi là tích cực (tích cực giúp đỡ &amp; cả tích cực nếm nữa :D). Bao nhiêu món “tủ” được lôi ra hết: món mặn thì có <a href="/tu-lam-thit-xien-nuong-ngon-nhu-ngoai-hang-d/">thịt xiên nướng</a>, <a href="/thit-bo-kho-kho-kieu-xu-nghe/">bò kho xứ Nghệ</a>, <a href="/chan-gio-om-xi-dau/">chân giò om xì dầu</a>, <a href="/com-binh-dan/">đậu chiên trứng muối</a> rồi hải sản như là cá hồi sốt Teriyaki, lươn cuốn lá nếp nướng (món này làm nhanh mà rất thơm ngon, mẹ mình đặc biệt thích). Tráng miệng thì đơn giản hơn vì sau khi ăn <a href="/japanese-cotton-sponge-cake-hay-la-ga-to-nhat-ban-mem-nhu-bong-nhe-nhu-may/">Gateau Nhật Bản</a>, cả mẹ và em mình đều không thiết các loại bánh khác nữa :D</p>
 <p>Đồ ăn thì bữa nào cũng được xử lí rất nhanh gọn sau khi nấu xong cho nên chỉ chụp được một vài cái ảnh đại diện để “khoe” thôi  ^^ :”&gt;</p>
 <p style="text-align: center;"><em>Thịt nướng – lười xiên nên nướng trực tiếp theo kiểu chả nướng luôn :”&gt;</em></p>
-<p style="text-align: center;"><em> <a href="http://www.flickr.com/photos/55490207@N05/7642642864/" title="IMG_6576 by LinhTrang9185, on Flickr"><img alt="IMG_6576" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7265/7642642864_f495242251.jpg" width="500"/></a></em></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p style="text-align: center;"><em> <a href="http://www.flickr.com/photos/55490207@N05/7642642864/" title="IMG_6576 by LinhTrang9185, on Flickr"><img alt="IMG_6576" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7265/7642642864_f495242251.jpg" width="500"/></a></em></p>
 <p style="text-align: center;"><em>Lươn cuốn lá dứa nướng – trong lò </em></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7642643758/" title="IMG_6566 by LinhTrang9185, on Flickr"><img alt="IMG_6566" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7113/7642643758_c21d6d8b29.jpg" width="500"/></a></p>
 <p style="text-align: center;"><em>và ngoài lò :)</em></p>
@@ -28,9 +25,6 @@ description: "savoury days, linh trang, bữa cơm gia đình, món ăn hàng ng
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/05/FoodnCraft-610x350.jpg"
 description: "ebook, food craft, món ăn hàng ngày, làm bánh, thủ công, felt, savoury days, linh trang"
 ---
 
-
 <p>Cuối cùng thì Food ‘n Craft đã có thể chính thức ra mắt cả nhà. Thật sự xin lỗi các bạn rất nhiều vì đã “bắt” mọi người đợi hơi lâu, tính từ thời điểm mình <a href="/mung-savoury-days-tron-tuoi-mot-mon-qua-nho-danh-tang-ca-nha-2/">giới thiệu cuốn sách</a> cũng gần một tháng rồi. Lý do của sự chậm trễ này chủ yếu là vì bọn mình muốn làm cho quyển sách được hoàn thiện đến hết khả năng có thể, cho nên mặc dù bản thảo sơ bộ được hoàn thành từ đầu tháng, nhưng sau đó là rất nhiều lần ngồi đọc đi đọc lại, dùng kính lúp “soi” lỗi, sửa từ dấu chấm trở đi, cho nên mất thêm đến tận một tháng hai bọn mình mới cảm thấy có thể chính thức cho Food ‘n Craft ra mắt.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7301172802/" title="cover by LinhTrang9185, on Flickr"><img alt="cover" class="aligncenter" height="499" loading="lazy" src="http://farm8.staticflickr.com/7220/7301172802_43451647d4.jpg" width="500"/></a></p>
 <p>Giới thiệu rất ngắn gọn về Food ‘n Craft thì đây là một tập hợp của các món ăn và đồ thủ công do mình và <a href="http://fictic.wordpress.com/">Thiên Hương</a> tự làm và chụp ảnh lại với mục đích chia sẻ. Ý tưởng làm sách xuất phát phần lớn từ suy nghĩ sẽ tiện hơn cho các bạn trong việc lưu trữ và tra cứu. Vì chỉ đơn thuần được làm nên từ tình yêu và niềm say mê nên Food ‘n Craft có thể sẽ chưa được thật sự chuyên nghiệp về mặt nội dung, hình ảnh hay thiết kế. Nhưng mình và Hương rất hi vọng là Food ‘n Craft sẽ mang lại cho bạn nguồn cảm hứng vào bếp, nấu một vài món ngon hay tự làm các món đồ thủ công nhỏ xinh xắn cho ngôi nhà nhỏ của mình :)</p>
 <p><strong>Các link download và xem sách trực tuyến:</strong></p>
-<p><span id="more-2719"></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span id="more-2719"></span></p>
 <p style="padding-left: 30px;">1. Xem trực tuyến và download sách: <a href="http://issuu.com/foodncraft/docs/food_n_craft">http://issuu.com/foodncraft/docs/food_n_craft</a></p>
 <p style="padding-left: 30px;">2. Link download 2: <a href="https://rapidshare.com/files/4200658586/Food_n_Craft.pdf">https://rapidshare.com/files/4200658586/Food_n_Craft.pdf</a></p>
 <p style="padding-left: 30px;">3. Link download 3: <a href="http://www.mediafire.com/view/?46au69m2i81ojqc">http://www.mediafire.com/view/?46au69m2i81ojqc</a></p>
@@ -26,10 +22,7 @@ description: "ebook, food craft, món ăn hàng ngày, làm bánh, thủ công, 
 <p style="padding-left: 30px; text-align: center;"><em>Đầu tiên là các bạn ấn vào nút có hình 1 trang sách nhé</em></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7301172642/" title="Issuu preview 2 by LinhTrang9185, on Flickr"><img alt="Issuu preview 2" class="aligncenter" height="272" loading="lazy" src="http://farm8.staticflickr.com/7092/7301172642_3ac0092c4f.jpg" width="500"/></a></p>
 <p style="text-align: center;"><em>sách sẽ chuyển sang như thế này, to và rõ hơn ;)</em></p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/7301102098/" title="Issuu preview 1 by LinhTrang9185, on Flickr"><img alt="Issuu preview 1" class="aligncenter" height="273" loading="lazy" src="http://farm9.staticflickr.com/8004/7301102098_5d4ac90ec4.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7301102098/" title="Issuu preview 1 by LinhTrang9185, on Flickr"><img alt="Issuu preview 1" class="aligncenter" height="273" loading="lazy" src="http://farm9.staticflickr.com/8004/7301102098_5d4ac90ec4.jpg" width="500"/></a></p>
 <p> </p>
 <p>Cuối cùng là bọn mình rất mong sẽ nhận được phản hồi và góp ý của các bạn, tại <a href="">Savoury Days</a> hoặc <a href="http://fictic.wordpress.com/">Fictic</a>, hoặc địa chỉ email <strong>foodncraft101@gmail.com</strong>. Với bọn mình, tất cả mới chỉ là sự khởi đầu, mình và Hương sẽ tiếp tục nấu, nướng, cắt, dán, thêu, may, chụp ảnh, chia sẻ, và tiếp tục làm “Food ‘n Craft” cho đến khi nào …. không còn ai ủng hộ nữa :) Cho nên những phản hồi của các bạn chắc chắn sẽ giúp bọn mình rất nhiều để các tập tiếp theo của Food ‘n Craft hay, đẹp và thú vị hơn. Cảm ơn các bạn rất nhiều và mong là các bạn sẽ thích sản phẩm đầu tay này của bọn mình :) :x</p>
 <p><strong>Linh Trang &amp; Thiên Hương </strong></p>
@@ -40,9 +33,6 @@ description: "ebook, food craft, món ăn hàng ngày, làm bánh, thủ công, 
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

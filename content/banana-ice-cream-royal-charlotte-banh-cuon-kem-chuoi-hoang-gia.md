@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2015/07/BanhCuonKemChuoi.jpg"
 description: "cách làm kem chuối"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Có một điểm mình rất thích trong làm bánh là không nhất thiết cứ phải biết nhiều kĩ thuật phức tạp cao siêu thì mới có thể làm ra những thứ đặc biệt. Nhiều khi chỉ thay đổi hay thêm bớt một chút thôi cũng có thể giúp nâng một món ăn đơn giản lên “tầm cao mới” có thể khiến người xung quanh ngưỡng mộ rồi ;)</p>
 <p>Charlotte Royal là một kiểu bánh như thế. Nhìn qua thì cảm giác rất phức tạp và cầu kì, nhưng thực ra chỉ là thêm một vài công đoạn nhỏ sau khi làm bánh cuộn thôi. Đây cũng là loại bánh mà mình muốn thử từ lâu lắm rồi, vì nó đẹp và vì khả năng sáng tạo với nó cũng rất cao nữa. Bởi chỉ cần thay loại bánh cuộn và loại kem bên trong là có thể tạo ra một loại mới rồi, cũng giống như Entremet vậy.</p>
 <p>Loại Charlotte Royal mà mình giới thiệu ngày hôm nay chỉ có độ khó 2/ 5 sao, <em>tức là dễ và đơn giản :</em>). Phần cốt bánh cuộn mình dùng cốt sô-cô-la, còn bên trong là món kem chuối đã làm mưa làm gió khắp các diễn đàn bánh trái trong mùa hè năm nay. Mình không có khuôn hay bát gì đặc biệt để làm bánh này cả, chỉ dùng bát ô tô để đựng canh thông thường. Nếu nhà bạn không có lò nướng hay bạn chưa từng làm bánh bao giờ thì vẫn có thể làm loại bánh này với bánh cuộn mua sẵn nhé :)</p>
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19747155966/in/datetaken/" title="Banana Icecream Charlotte Royal"><img alt="Banana Icecream Charlotte Royal" class="aligncenter" height="800" loading="lazy" src="https://farm4.staticflickr.com/3687/19747155966_23dfaf83da_c.jpg" width="584"/></a></p>
-<p><span style="color: #800000;"><strong>Số lượng:</strong></span> 4 – 6 phần ăn</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Số lượng:</strong></span> 4 – 6 phần ăn</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <p><span style="color: #000000;"><strong>A. Phần bánh</strong></span></p>
 <ul>
@@ -47,10 +43,7 @@ description: "cách làm kem chuối"
 <p>1. Bạt bánh gateau</p>
 <p>Chuẩn bị bạt bánh theo <a href="/banh-khuc-cay-giang-sinh/" target="_blank">công thức bánh cuộn Giáng sinh</a>. Nướng trong khay 20 x 30 cm, nhiệt độ 170 – 175 độ C trong khoảng 15 phút (làm nóng lò trước 15 phút). Nên cuộn bánh theo chiều dài để có nhiều vòng hơn.</p>
 <p>2. Đánh bông kem tươi với đường (trong phần nguyên liệu B) đến khi kem bông cứng. Khi bánh đã nguội hoàn toàn, trét kem vào bên trong bánh, cuộn lại, bọc kín để tủ lạnh khoảng 1h cho kem đặc hơn, cắt bánh sẽ đẹp hơn.</p>
-<p>* <em>Nên chuẩn bị kem trước khi cuộn bánh 1h để kem đặc và dễ trét lên bánh hơn. </em></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>* <em>Nên chuẩn bị kem trước khi cuộn bánh 1h để kem đặc và dễ trét lên bánh hơn. </em></p>
 <p>3. Dùng dao sắc cắt bánh thành từng khoanh tròn dày khoảng 1 – 2 cm tùy thích.</p>
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19766055932/in/datetaken/" title="IMG_9439"><img alt="IMG_9439" class="aligncenter" height="333" loading="lazy" src="https://farm1.staticflickr.com/290/19766055932_81a6954b2a.jpg" width="500"/></a></p>
 <p>4. Lót nilon bọc thực phẩm vào trong bát. Đặt từng khoanh bánh vào trong. Cố gắng xếp làm sao cho các miếng bánh khít nhau.</p>
@@ -67,7 +60,6 @@ description: "cách làm kem chuối"
 <p>8. Khi gỡ bánh ra khỏi khuôn, nếu bánh bị dính vào bát thì các bạn có thể ngâm cả bát vào trong nước nóng để phần đá bên ngoài tan bớt,  hoặc dùng dao nhọn lách quanh thành trong của bát để lấy bánh ra.</p>
 <p>Dùng dao sắc cắt bánh thành miếng và thưởng thức ngay khi bánh và kem còn đang mát lạnh :)</p>
 
-
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19585318978/in/datetaken/" title="Banana Icecream Charlotte Royal"><img alt="Banana Icecream Charlotte Royal" class="aligncenter" height="800" loading="lazy" src="https://farm1.staticflickr.com/422/19585318978_0121e3879d_c.jpg" width="559"/></a></p>
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19778057871/in/datetaken/" title="Banana Icecream Charlotte Royal"><img alt="Banana Icecream Charlotte Royal" class="aligncenter" height="481" loading="lazy" src="https://farm1.staticflickr.com/530/19778057871_ce0826dff3_z.jpg" width="640"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

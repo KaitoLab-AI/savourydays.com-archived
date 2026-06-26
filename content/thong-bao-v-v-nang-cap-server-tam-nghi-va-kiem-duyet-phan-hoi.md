@@ -12,10 +12,7 @@ description: ""
 <p>Ngoài ra, mình cũng xin giải thích thêm về việc có quảng cáo tại blog trong thời gian gần đây. Vì từ trước đến giờ, tất cả các chi phí liên quan đến blog như mua tên miền, duy trì server, thuê account đặt ảnh… mình đều tự chi trả. Nhưng thời gian gần đây vì lượng người truy cập blog đông hơn rất nhiều, việc nâng cấp server chỉ là một phần trong rất nhiều các công việc cần làm để duy trì blog hoạt động ổn định. Chi phí vì vậy cũng tăng lên khá nhiều nên đặt quảng cáo là một cách để giải quyết cho vấn đề chi phí này. Tất cả các quảng cáo đều đã được xem xét rất cẩn thận để tránh ảnh hưởng đến việc đọc blog nên mong các bạn sẽ “chấp nhận” các quảng cáo này như là một phần của SD.</p>
 <p>Lời nhắn tiếp theo là thời gian gần đây công việc của mình khá bận và có thêm nhiều việc bên ngoài cần phải giải quyết nên thời gian cho blog hầu như không có và bản thân mình cũng stress nhiều. Nên <span style="color: #ff0000;"><strong>trong tuần tới (19-25/8) mình xin phép tạm nghỉ và không cập nhật bài mới tại blog</strong></span>. Các câu hỏi, phản hồi… tại blog mình sẽ cố gắng trả lời sớm nhất có thể.</p>
 <p>Riêng về việc trả lời phản hồi, thời gian gần đây mỗi ngày blog có thêm khoảng 50 phản hồi, nhưng không phải tất cả các câu hỏi đều xác đáng. Có rất nhiều trường hợp <strong>hỏi về vấn đề mà mình đã đề cập hoặc thậm chí nhấn mạnh trong bài viết</strong>. Ví dụ:</p>
-<p>– <em>Có thể dùng lò vi sóng/ nồi nướng/ nồi thủy tinh… nướng bánh được không?</em>  &lt;- Câu hỏi ngay bên dưới bài về Dụng cụ nướng bánh và câu trả lời được viết rất rõ trong bài là “Không thể”</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>– <em>Có thể dùng lò vi sóng/ nồi nướng/ nồi thủy tinh… nướng bánh được không?</em>  &lt;- Câu hỏi ngay bên dưới bài về Dụng cụ nướng bánh và câu trả lời được viết rất rõ trong bài là “Không thể”</p>
 <p>hoặc</p>
 <p>– <em>Tại sao bánh bị xẹp, lõm đáy…</em>? &lt;- Câu hỏi được viết dưới bài viết về Lò nướng và giải thích nguyên nhân tại sao bánh xẹp.</p>
 <p>Một số trường hợp khác <strong>hỏi về các vấn đề mà theo mình nghĩ các bạn hoàn toàn có thể tự tìm câu trả lời bằng công cụ Tìm kiếm tại blog, hoặc Google</strong>, ví dụ:</p>
@@ -25,10 +22,7 @@ description: ""
 <p>Và đáng buồn nhất là có một số <strong>phản hồi rất thiếu thiện chí</strong>, ví dụ: (trích dẫn nguyên văn)</p>
 <p>– <em>Làm cái này thế nào?</em></p>
 <p><em>– …cho hỏi cái?</em></p>
-<p><em>-… sao mãi không trả lời?</em></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><em>-… sao mãi không trả lời?</em></p>
 <p>Không phải mình ngại trả lời nhưng thời gian cho việc trả lời các phản hồi không phải là ít. Như hiện tại, mặc dù đã được rất nhiều bạn giúp đỡ nhưng mỗi tuần mình đều mất từ 3-5h chỉ dành riêng cho việc trả lời các phản hồi. Có những câu trả lời, ví dụ như “<em>lò vi sóng không thể dùng để nướng bánh được</em>” có lẽ đã lặp lại đến vài chục lần chỉ trong vài tháng. Nếu mỗi bạn trước khi đặt câu hỏi chịu khó dành ra vài phút để tự đi tìm câu trả lời, thay vì đợi mình hay Phúc, Oriole… tìm câu trả lời thay, thì có lẽ mình sẽ có thêm được chút thời gian để vào bếp và viết bài hơn. Thật ra, thường mình biết cái gì đều viết lên blog hết. Và để viết bài tại blog, bản thân mình cũng phải tự đọc và tìm hiểu rất nhiều tài liệu, nên <strong>mong các bạn sẽ chia sẻ bằng cách đọc kĩ bài viết và các phản hồi cũ trước khi đặt câu hỏi nhé.</strong></p>
 <p>Cuối cùng, Savoury Days vốn dĩ là blog cá nhân, và cho đến bây giờ, kể cả khi lượng truy cập đã rất lớn thì vẫn chỉ là bếp cá nhân. Việc trả lời phản hồi, mặc dù không phải là nghĩa vụ, nhưng mình, Oriole, Hồng Phúc, Nhỏ Gà, Poppi_Muffin …. vẫn luôn cố gắng thực hiện hết khả năng vì mong muốn có thể chia sẻ và giúp đỡ các bạn khác. Nên mình hi vọng sẽ nhận được sự hợp tác và chia sẻ từ các bạn, chứ không phải mặc định bọn mình là dịch vụ tư vấn miễn phí hay những chiếc máy trả lời câu hỏi có thể đáp ứng mọi nhu cầu, mọi lúc, mọi nơi.</p>
 <p>Trong thời gian tới, sau khi server nâng cấp xong, mình sẽ có một bảng tổng kết tất cả các câu hỏi thường gặp tại blog. <span style="color: #ff0000;"><strong>Các câu hỏi trùng lặp hoặc hỏi về nội dung đã viết trong bài sẽ được nhắc nhở. Các phản hồi thiếu thiện chí sẽ bị xóa và có thể chặn IP nếu cần thiết. <span style="color: #000000;">Ngoài ra, đọc và trả lời vài chục phản hồi một lúc thật sự rất mệt nên</span> mong các bạn sẽ giúp đỡ bằng việc viết Tiếng Việt có dấu. <span style="color: #000000;">Mình cũng đã quá tuổi để đọc và hiểu ngôn ngữ xì tin của các bé 9x, 10x rồi</span> nên các phản hồi nào mà mình không thể hiểu được trong lần đọc đầu tiên, mình sẽ bỏ qua nhé. </strong></span></p>
@@ -40,9 +34,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

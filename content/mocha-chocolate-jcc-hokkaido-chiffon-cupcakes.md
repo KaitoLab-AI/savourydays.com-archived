@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2014/04/HokkaidoChiffonCupcake.jpg"
 description: "japanese cotton cheesecake, hokkaido chiffon cupcake"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Sau hơn một tuần vắng nhà, cuối tuần vừa rồi mới lại được vào bếp nghịch bột trứng, đợi bánh nở, và hí húi với đống dụng cụ để chụp ảnh. Cảm giác thật tuyệt! Vừa háo hức như gặp lại bạn cũ, vừa có cảm giác mới mẻ là lạ, giống như mới được “sạc” thêm năng lượng và cảm hứng vậy ^.^</p>
 <p>Hơn một tuần không được ăn bánh, thấy “thiếu thốn” nhiều nên có đứa tham ăn làm một lúc hai loại bánh khác nhau: Japanese cotton cheesecake để thỏa mãn cái sự nhớ nhung vị ngậy béo, mềm xốp của bánh gateau pho-mát và Hokkaido chiffon cupcakes để tận hưởng sự mềm mại mịn màng trong từng thớ bánh nhỏ.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/13894804564/" title="Mocha JCC by LinhTrang9185, on Flickr"><img alt="Mocha JCC" class="aligncenter" height="354" loading="lazy" src="https://farm8.staticflickr.com/7029/13894804564_b8a9f6534c.jpg" width="500"/></a></p>
 <p>Cũng vẫn vì cái sự thèm, tự nhiên nhớ vị cafe và chocolate quá thể nên JCC lần này có thêm hai chữ “Mocha chocolate” ở trước tên gọi. Một chút bột cacao và cafe hòa tan làm cho bánh dường như biến thành một loại hoàn toàn mới: vẫn mềm mịn và tan trong miệng, nhưng vị phô-mai quen thuộc mọi khi đã nhường chỗ cho hương chocolate và cafe đậm đà quyến rũ, vị đăng đắng quyện trong sự ngọt ngào – ăn kèm với kem tươi đánh bông và dâu tây chua dịu – quả là tuyệt hảo.</p>
-<p>Món bánh thứ hai – Hokkaido chiffon cupcakes – được làm từ gợi ý của một số bạn tại Savoury Days. Mình khá là tò mò về xuất xứ của món bánh này. Vì thường các loại bánh có thêm “nhãn” Hokkaido là do được làm với sữa Hokkaido, vốn là một loại sữa ngon nổi tiếng. Nhưng Hokkaido chiffon cupcakes thì hình như chẳng có liên quan gì mấy. Bánh gồm một cốt bánh Chiffon với phần kem Custard trộn whipped cream thơm ngậy bên trong. Tuy không có gì mới mẻ nhưng đây là một sự kết hợp tuyệt vời, mà chắc cả trẻ con lẫn “trẻ nhớn” ai cũng sẽ thích cả. Cupcake của mình ngoài phần nhân custard có thêm cả kem tươi đánh bông và dâu tây nữa. Cá nhân mình thì thích có thêm kem tươi hơn, vì giữ được độ ẩm cho bánh, lại rất hợp với phần chiffon và kem custard. Nhưng nếu bạn nào ngại ngấy thì có thể bỏ qua hoặc thay whipping cream bằng topping cream nhé.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Món bánh thứ hai – Hokkaido chiffon cupcakes – được làm từ gợi ý của một số bạn tại Savoury Days. Mình khá là tò mò về xuất xứ của món bánh này. Vì thường các loại bánh có thêm “nhãn” Hokkaido là do được làm với sữa Hokkaido, vốn là một loại sữa ngon nổi tiếng. Nhưng Hokkaido chiffon cupcakes thì hình như chẳng có liên quan gì mấy. Bánh gồm một cốt bánh Chiffon với phần kem Custard trộn whipped cream thơm ngậy bên trong. Tuy không có gì mới mẻ nhưng đây là một sự kết hợp tuyệt vời, mà chắc cả trẻ con lẫn “trẻ nhớn” ai cũng sẽ thích cả. Cupcake của mình ngoài phần nhân custard có thêm cả kem tươi đánh bông và dâu tây nữa. Cá nhân mình thì thích có thêm kem tươi hơn, vì giữ được độ ẩm cho bánh, lại rất hợp với phần chiffon và kem custard. Nhưng nếu bạn nào ngại ngấy thì có thể bỏ qua hoặc thay whipping cream bằng topping cream nhé.</p>
 <h3 style="text-align: center;"><span style="color: #800000;">Mocha chocolate Japanese cotton cheesecake</span></h3>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span> (khuôn tròn đk 15cm, nếu dùng khuôn tròn đk 18 – 20cm hoặc khuôn vuông 15 x 15cm thì tăng gấp đôi công thức)</p>
 <ul>
@@ -47,10 +43,7 @@ description: "japanese cotton cheesecake, hokkaido chiffon cupcake"
 <p><a href="https://www.flickr.com/photos/55490207@N05/13894394285/" title="IMG_6419-1 by LinhTrang9185, on Flickr"><img alt="IMG_6419-1" class="aligncenter" height="343" loading="lazy" src="https://farm3.staticflickr.com/2926/13894394285_9f69a3bd84.jpg" width="500"/></a></p>
 <h3 style="text-align: center;"><span style="color: #800000;"><strong>Hokkaido Chiffon Cupcakes</strong></span></h3>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span> (cho 10 cupcake cỡ nhỏ, đường kính miệng 3 cm, cao 3 – 4cm)</p>
-<p><strong>A. Phần Chiffon</strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong>A. Phần Chiffon</strong></p>
 <ul>
 <li><em>2 lòng đỏ trứng (18 – 20 gr/ lòng đỏ)</em></li>
 <li><em>15 gr đường hạt mịn </em></li>
@@ -99,7 +92,6 @@ description: "japanese cotton cheesecake, hokkaido chiffon cupcake"
 <p>Trong khi đợi nướng bánh thì chuẩn bị phần nhân Custard và kem tươi</p>
 <p><strong>B. Nhân Custard</strong></p>
 
-
 <p>1. Đánh lòng đỏ trứng với đường đến khi lòng đỏ bông đặc, chuyển sang màu vàng nhạt, nhấc que đánh lên thấy lòng đỏ chảy xuống thành dòng mịn.</p>
 <p>2. Rây bột ngô vào âu trứng đường, trộn đều.</p>
 <p>3. Đun sữa đến mấp mé sôi. Từ từ đổ sữa vào âu trứng bột, vừa đổ vừa quấy đều tay (đổ liên tục đến khi hết sữa).</p>
@@ -109,4 +101,4 @@ description: "japanese cotton cheesecake, hokkaido chiffon cupcake"
 <p>1. Cho kem custard vào túi có lắp đui đầu tròn nhỏ. Nếu các  bạn có đui bắt kem loại chuyên dụng để bơm nhân vào cupcake thì tốt, không thì chỉ cần dùng đui có đầu tròn nhỏ là được rồi. Bơm nhân vào các bánh Cupcake.</p>
 <p>2. Phủ kem tươi lên mặt bánh (mình dùng đui Wilton 1M để bắt kem). Trang trí bằng quả tươi.</p>
 <p>Bánh ngon hơn nếu dùng lạnh.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

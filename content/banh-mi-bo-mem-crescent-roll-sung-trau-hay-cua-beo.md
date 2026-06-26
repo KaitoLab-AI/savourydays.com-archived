@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/10/BanhMiSungTrau1.jpg"
 description: "bánh mì bơ, bánh mì ngọt mềm, bánh mì sữa, milk bun, croissant, tự làm bánh mì"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Dạo này chẳng hiểu sao cứ hay nghĩ đến một món bánh từ hồi xa xưa, lâu lắm rồi, là bánh sừng trâu (hay sừng bò).</p>
 <p>Mặc dù bánh sừng bò (Croissant) vẫn thường được biết đến như là một loại bánh rất xốp và giòn rụm với tầng tầng lớp lớp bột mỏng tang, béo ngậy và thơm phức vị bơ. Nhưng bánh sừng bò “xịn” kiểu vậy mãi đến lúc đi du học mình mới được nếm thử. Còn trước khi đi học thì chỉ biết đến một loại sừng bò duy nhất, là những chiếc bánh mì ngọt mềm trong chiếc thúng nan của các hàng bánh mì dạo, sau này thấy xuất hiện trong cả tủ kính của những tiệm bánh lớn nữa.</p>
 <p>Sừng trâu hồi xưa thật ra không phải là rất ngon, chẳng có vị bơ trứng gì mấy, chỉ có bột mì và đường ngọt, hơi dai dai và đôi khi hơi khô nữa. Thế mà chẳng hiểu sao vẫn là món khoái khẩu của mình và rất nhiều nhóc tì khác. Nghĩ nhiều quá thành ra cuối cùng phải làm cho đỡ nhớ. Sau hai lần điều chỉnh từ công thức Crescent roll của Cook’s Illustrated thì mình đã có món bánh sừng trâu cực kì ưng ý, rất mềm, ẩm, xốp, dai và thơm mùi bơ. Chỉ có điều tay dùi đục nên nặn bánh đến lần thứ 3 rồi mà vẫn không ra được sừng trâu đẹp, nhìn lại thì thấy giống con cua béo múp hơn :D</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8128919480/" title="Crescent rolls by LinhTrang9185, on Flickr"><img alt="Crescent rolls" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8190/8128919480_9275a5107f_z.jpg" width="427"/></a></p>
-<p><span style="color: #800000;"><strong>Nguyên liệu (10 bánh nhỏ)</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu (10 bánh nhỏ)</strong></span></p>
 <ul>
 <li><em>200 gram bột mì đa dụng  (all purpose flour/ bột mì số 11)</em></li>
 <li><em>90 gram sữa tươi không đường + 5 gram nước cốt chanh hoặc dấm</em></li>
@@ -44,10 +40,7 @@ description: "bánh mì bơ, bánh mì ngọt mềm, bánh mì sữa, milk bun, 
 <p>3. Đổ bột ra bàn đã phủ một lớp bột áo mỏng, nhồi trong khoảng 20-25 phút (các bạn có thể xem thêm lưu ý về cách nhồi bột tại <a href="/lam-banh-mi-quy-trinh-co-ban-cac-luu-y-phan-2-cach-nhao-nhoi-bot/"><strong>ĐÂY</strong></a>)</p>
 <p>* <strong>Ghi chú:</strong></p>
 <p>Hỗn hợp bột khá ướt và dính nên trong quá trình nhồi bột các bạn có thể sử dụng thêm một ít bột áo (bột mỳ khô) để rắc phủ mặt bàn và xoa vào tay, để nhồi bột dễ hơn. Tuy nhiên, <strong>cố gắng dùng càng ít bột áo càng tốt (không quá 10gram)</strong>.</p>
-<p>Nếu nhồi bằng tay thì thường sẽ mất khoảng 20-25 phút. Khối bột sau khi nhồi xong sẽ dẻo và có độ đàn hồi tốt, ấn thử ngón tay lên mặt khối bột sẽ thấy phồng trở lại. Ngoài ra, khối bột khá nhão và ướt, nếu sờ ngón tay lên mặt bột sẽ có cảm giác hơi dính, nhưng khi nhấc lên thì bột không dính vào tay.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Nếu nhồi bằng tay thì thường sẽ mất khoảng 20-25 phút. Khối bột sau khi nhồi xong sẽ dẻo và có độ đàn hồi tốt, ấn thử ngón tay lên mặt khối bột sẽ thấy phồng trở lại. Ngoài ra, khối bột khá nhão và ướt, nếu sờ ngón tay lên mặt bột sẽ có cảm giác hơi dính, nhưng khi nhấc lên thì bột không dính vào tay.</p>
 <p>4. Cho bột vào âu có quét một lớp dầu ăn mỏng. Có thể xoa một lớp mỏng dầu ăn lên ngoài khối bột để<em> tránh cho bột bị khô trong quá trình ủ.</em> Dùng nilon bọc kín âu (hoặc dùng khăn ẩm đậy lên âu), ủ bột ở nhiệt độ phòng, đến khi bột nở gấp đôi (tùy nhiệt độ mà thời gian có thể dao động trong khoảng 30-60 phút, ủ ở nhiệt độ thấp bánh nở chậm nhưng sẽ có mùi vị thơm ngon hơn).</p>
 <p>Để thử xem bột đã ủ đạt hay không, các bạn ấn một hoặc hai ngón tay vào bột, sâu khoảng 1 – 2cm. Sau khi rút tay lên, nếu vết lõm giữ nguyên tức là bột đã ủ đạt, nếu vết lõm phồng trở lại tức là cần ủ thêm thời gian. <em>Các bạn có thể xem thêm các lưu ý về cách ủ bột tại <a href="/lam-banh-mi-quy-trinh-co-ban-cac-luu-y-phan-3-u-bot-tao-hinh-nuong-banh-va-bao-quan/"><strong>ĐÂY</strong></a>. </em></p>
 <p>5. Sau khi bột đã nở gấp đôi thì lấy bột ra khỏi âu, nhồi lại sơ qua trong khoảng 1-2 phút. Khối bột sẽ nặng khoảng 385-400gram. Mình làm thành 10 bánh nhỏ. Cán và tạo hình như sau:</p>
@@ -63,7 +56,6 @@ description: "bánh mì bơ, bánh mì ngọt mềm, bánh mì sữa, milk bun, 
 <p>Trong lúc nướng bánh thì lấy khoảng 20gram bơ, quay lò vi sóng độ 15-20 giây cho gần chảy mềm để quết mặt bánh.</p>
 <p>8. Bánh chín lấy ra khỏi lò, quết bơ lên mặt bánh. Để bánh trên rack cho nguội hẳn. Bánh mềm, ẩm, hơi ngọt, và rất rất thơm mùi bơ (ăn lúc còn hơi ấm thích cực kì ^^). Cho vào túi buộc kín hoặc hộp đậy kín, bảo quản ở nơi thoáng mát, dùng được trong 2-3 ngày.</p>
 <p>Bánh này có thể làm  thêm nhân pho mát hoặc nhân cream cheese cũng rất ngon.</p>
-
 
 <p><a href="http://www.flickr.com/photos/55490207@N05/8128934256/" title="Crescent rolls by LinhTrang9185, on Flickr"><img alt="Crescent rolls" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8329/8128934256_ef060bf570_z.jpg" width="432"/></a></p>
 <p>—————————-</p>
@@ -102,4 +94,4 @@ description: "bánh mì bơ, bánh mì ngọt mềm, bánh mì sữa, milk bun, 
 <p>——-</p>
 <p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ mail <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi trường hợp cố tình vi phạm sẽ chịu sự xử lí theo pháp luật.</span></strong></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

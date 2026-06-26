@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2011/12/VitNuongSotCam.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Tiếp tục chủ đề Giáng sinh, món ăn này là mình nấu theo đặt hàng của báo Bếp Gia Đình (vẫn cho chuyên mục Hương vị bốn phương như mọi khi :) ). Vịt hay gà tây quay là món ăn phổ biến trong bữa tối Giáng sinh của người Bỉ và những vùng lân cận. Hình ảnh thường thấy là cả một con vịt hay con gà, được nhồi căng tròn rồi cho vào lò quay đến khi chín vàng ươm, da ròn bóng loáng và thơm phức (đói quá, hik). Vì nó là món ăn rất phổ biến nên chọn để giới thiệu trên báo chủ đề Giáng sinh là phù hợp nhất rồi. Chỉ có điều là quay nguyên một con vịt thì không biết mình sẽ mất bao nhiêu bữa để giải quyết cho hết. Thêm nữa là các gia đình ở Việt Nam nhiều khi chỉ là gia đình nhỏ, gồm 3-4 người, chưa chắc một công thức với vịt nguyên con đã là hợp lý. Nên thay vì làm cả con như truyền thống thì mình thay bằng phần ức (lườn) vịt, khoảng 0.5kg, chia ra làm 3 hay 4 phần là vừa xinh :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6538168965/" title="IMG_8690-1 by LinhTrang9185, on Flickr"><img alt="IMG_8690-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7009/6538168965_8348037be9_z.jpg" width="436"/></a></p>
 <p>Làm vịt nướng ngoài chuyện khử mùi ra, cái khó nhất có lẽ là làm sao cho phần bên trong vịt chín hồng đào, theo kiểu medium-rare, trong khi phần da bên ngoài thì vàng rộm và giòn tan. Bản thân mình lần này làm cũng không cảm thấy ưng ý lắm, vì tuy thịt bên trong chín vừa tới, và ngấm gia vị ướp rất ngon, nhưng phần da bên ngoài thì chưa được giòn. Chắc là phải làm thêm nhiều lần để quen tay và điều chỉnh nhiệt độ cho phù hợp nữa. Mình ghi lại cả công thức lẫn phần kinh nghiệm làm vịt mà mình tổng hợp được từ mạng để các bạn tham khảo nhé.</p>
 <p><strong>Nguyên liệu (4 phần ăn)</strong></p>
-<p><strong>Phần thịt vịt</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>Phần thịt vịt</strong></p>
 <ul>
 <li><em>500gram thịt ức vịt (đã lọc xương)</em></li>
 <li><em>1.5 muỗng canh (21gram) bơ nhạt</em></li>
@@ -52,8 +48,5 @@ description: ""
 <p>4. Làm sốt cam: Làm nóng 1 thìa dầu Olive trong chảo, xào thơm cần tây, hành tây, tỏi trong khoảng 3 phút. Hạ lửa vừa, cho rượu, nước cam, xạ hương và lá nguyệt quế, đun đến khi hỗn hợp cạn còn hơi sền sệt, gắp bỏ lá nguyệt quế.</p>
 <p>5. Trình bày: Thái vịt thành lát mỏng, sắp lên đĩa kèm theo salad, rưới sốt cam rượu vang lên trên. Dùng nóng. Mình làm thêm khoai tây nghiền với kem tươi và chút bơ, ăn kèm rau rucola, rất rất hợp :)</p>
 <p>Cuối cùng, như thường lệ, 1 phút dành cho quảng cáo :D<br/>
-<a href="http://www.flickr.com/photos/55490207@N05/6538169631/" title="14-15-2 by LinhTrang9185, on Flickr"><img alt="14-15-2" class="aligncenter" height="434" loading="lazy" src="http://farm8.staticflickr.com/7141/6538169631_2f6a71fb7c_z.jpg" width="640"/></a></p><div align="center" id="google-ads-body-post-end">
+<a href="http://www.flickr.com/photos/55490207@N05/6538169631/" title="14-15-2 by LinhTrang9185, on Flickr"><img alt="14-15-2" class="aligncenter" height="434" loading="lazy" src="http://farm8.staticflickr.com/7141/6538169631_2f6a71fb7c_z.jpg" width="640"/></a></p>
 
-
-</div>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

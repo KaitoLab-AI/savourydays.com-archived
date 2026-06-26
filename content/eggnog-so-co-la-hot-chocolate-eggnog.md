@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2018/12/Eggnog-banner.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Mai là Giáng sinh rồi, cả nhà nhất định đừng bỏ qua món Eggnog tuyệt vời này nhé. Đừng ngại thời tiết bởi đây là thứ đồ uống mà dù nóng hay lạnh đều cực kì ngon. Thành phần của Eggnog truyền thống thường chỉ có các loại rượu mạnh như Rum, Brandy hay Whiskey pha chế với sữa, lòng đỏ trứng và đường. Thế nhưng nhờ Starbucks mà Eggnog đã có thêm nhiều phiên bản mới hay ho, hấp dẫn và cũng hợp với khẩu vị của người châu Á hơn, như món Hot chocolate eggnog này chẳng hạn. Vị thơm ngọt, hơi đăng đắng, có chút rượu nồng nàn cùng các loại gia vị quế, nhục đậu khấu hoà quyện với nhau hợp không thể tả. Nếu trời lạnh thì một cốc eggnog chocolate nóng là đủ xua tan mọi giá rét. Còn nếu trời nóng cũng không hề gì, bạn có thể để lạnh và thưởng thức nhé.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7761" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Cách-làm-eggnog-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
@@ -25,10 +24,7 @@ description: ""
 <li><em><span style="color: #000000;">2 ml vani</span></em></li>
 </ul>
 <p><span style="color: #000000;"><span style="color: #800000;"><strong>Cách làm</strong></span></span></p>
-<p><span style="color: #000000;">1. Tách lòng đỏ và lòng trắng trứng, để riêng. Đánh tan 2 lòng đỏ trứng với 25 gr đường tới khi lòng đỏ bông lên và chuyển sang màu vàng nhạt. Cho 5 gr bột cacao vào trộn đều tới khi hòa quyện.</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">1. Tách lòng đỏ và lòng trắng trứng, để riêng. Đánh tan 2 lòng đỏ trứng với 25 gr đường tới khi lòng đỏ bông lên và chuyển sang màu vàng nhạt. Cho 5 gr bột cacao vào trộn đều tới khi hòa quyện.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7762" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Eggnog1-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">2. Đun cách thủy 50 gr chocolate tới khi tan chảy hoàn toàn, trộn vào hỗn hợp lòng đỏ ở trên.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7763" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Eggnog2-1024x683.jpg" width="1024"/></p>
@@ -38,12 +34,9 @@ description: ""
 <p><span style="color: #000000;">5. </span><span style="color: #000000;">Cho chút muối vào 2 lòng trắng trứng, đặt tô lên đun cách thủy với nước nóng ở lửa nhỏ. Vừa đun vừa cho nốt 25 gr đường và dùng phới lồng đánh liên tục tới khi lòng trắng nổi bọt như bọt xà phòng như trong hình thì nhấc tô ra, dùng máy đánh trứng đánh cho tới khi bông mềm.</span></p>
 <p><span style="color: #000000;">* Lưu ý không đun lửa quá to làm lòng trắng bị chín gây lợn cợn.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7765" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Eggnog4-1024x683.jpg" width="1024"/></p>
-<p><span style="color: #000000;">6. Rót từ từ hỗn hợp eggnog vào lòng trắng trứng đã đánh. Khuấy đều cho tới khi hỗn hợp hòa quyện. Lọc qua rây để loại bỏ bột vón cục nếu có. Cho 50 ml kem tươi vào sau cùng, trộn đều.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">6. Rót từ từ hỗn hợp eggnog vào lòng trắng trứng đã đánh. Khuấy đều cho tới khi hỗn hợp hòa quyện. Lọc qua rây để loại bỏ bột vón cục nếu có. Cho 50 ml kem tươi vào sau cùng, trộn đều.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7766" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Eggnog5-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">Để nguội bớt rồi cho rượu Rum vào và thưởng thức. Có thể trang trí và uống kèm topping là kem tươi đánh bông. Có thể bảo quản ngăn mát trong 1 – 2 ngày.</span></p>
 <p><span style="color: #800000;">*Yêu cầu thành phẩm: Thức uống không có vị tanh của trứng, béo ngậy vị kem tươi và sữa. Vị quế, nhục đậu khấu và rum nổi bật.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7767" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Eggnog6-1024x683.jpg" width="1024"/></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

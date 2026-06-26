@@ -12,10 +12,7 @@ description: "nhật kí học làm bánh"
 <p>Có một vài dòng thông báo không dài nhưng khá quan trọng, mình định viết tại Facebook nhưng có lẽ đăng trên blog nhiều bạn sẽ tiện theo dõi hơn, nên mình tóm tắt trong một vài gạch đầu dòng ở dưới nha.</p>
 <p>(*) Thời gian gần đây (và có thể trong một vài tháng tới) mình sẽ cần dành nhiều thời gian cho công việc nghiên cứu của mình hơn do đây là giai đoạn hoàn thiện luận án nên cũng có nhiều việc cần làm. Vì vậy nên thời gian dành cho Savoury Days có thể sẽ ít hơn so với các giai đoạn trước. Các câu hỏi/ phản hồi/ thư/ tin nhắn… mình có thể sẽ trả lời chậm hoặc không trả lời kịp, mong các bạn thông cảm.</p>
 <p>Thật ra tất cả những gì liên quan đến bánh mà mình biết, mình đều viết tại blog, nên nếu đọc kĩ công thức và các bài viết về thất bại thường gặp, các kĩ thuật làm bánh, cách chỉnh lò nướng… mình nghĩ các bạn có thể tự tìm được câu trả lời. Nên mình cũng mong mọi người giúp đỡ trong việc chủ động tự tìm lời giải đáp trước khi hỏi. Trả lời một câu hỏi không mất nhiều thời gian, nhưng để trả lời hết câu hỏi tại SD, mỗi ngày mình sẽ cần khoảng 45 – 60 phút. Thời gian này nếu có thể giảm bớt và dành cho việc thử nghiệm công thức mới, đăng bài… mình nghĩ sẽ có ích cho nhiều bạn bè của SD hơn.</p>
-<p>(*) Vừa rồi blog có trục trặc nên một số chức năng của blog không dùng được, hoặc phải tạm tắt, bao gồm việc sử dụng chuột phải để Copy/ Open new tab và Print PDF. Hiện tại đã có thể Copy được trở lại nhưng “Print PDF” vẫn gây ảnh hưởng khá nhiều đến blog nên trong thời gian tới mình sẽ tìm cách thay thế. Xin lỗi các bạn vì một số sự “không thoải mái” trong thời gian vừa qua do không Copy được bài :)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>(*) Vừa rồi blog có trục trặc nên một số chức năng của blog không dùng được, hoặc phải tạm tắt, bao gồm việc sử dụng chuột phải để Copy/ Open new tab và Print PDF. Hiện tại đã có thể Copy được trở lại nhưng “Print PDF” vẫn gây ảnh hưởng khá nhiều đến blog nên trong thời gian tới mình sẽ tìm cách thay thế. Xin lỗi các bạn vì một số sự “không thoải mái” trong thời gian vừa qua do không Copy được bài :)</p>
 <p>(*) Sách “Nhật kí học làm bánh” trong những ngày vừa rồi liên tục ở trong tình trạng hết hàng chỉ sau 2, 3 ngày bổ sung. Mặc dù nhà in đã cố gắng làm hết công suất nhưng vì có một giai đoạn thời tiết ẩm nồm, ảnh hưởng đến cả việc in ấn, đóng sách… nên có một vài khoảng thời gian việc cung cấp và phân phối bị gián đoạn. Mình thật sự rất áy náy khi biết có bạn đã phải đi đến 5, 6 lần để mua sách :-( Cũng cảm ơn các bạn rất nhiều vì sự nhiệt tình và yêu quý của các bạn với NKHLB. Theo thông tin mới nhất mà mình nhận được thì Nhã Nam đã có một lượng sách bổ sung mới. Bạn nào vẫn đang tìm mua sách thì có thể ghé qua các địa chỉ sau đây nha:</p>
 <p>* Tại <strong>Hà Nội</strong>: 59 Đỗ Quang hoặc các nhà sách khu vực Đinh Lễ.</p>
 <p>* Tại <strong>TPHCM</strong>: Quầy sách của Nhã Nam tại Hội sách – công viên Lê Văn Tám (Quận 1).</p>
@@ -36,9 +33,6 @@ description: "nhật kí học làm bánh"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

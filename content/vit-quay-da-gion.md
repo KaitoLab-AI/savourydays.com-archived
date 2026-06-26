@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/12/VitQuayDaGion.jpg"
 description: "vịt quay, vịt quay da giòn, vịt quay bắc kinh"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #800000;"><span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết</span>.</span></strong></p>
 <p>——————————————</p>
 <p>Gà vịt ngỗng quay là món ăn thường thấy trên bàn tiệc Giáng sinh. Noel năm ngoái mình có làm một món <a href="/uc-vit-nuong-sot-cam-ruou-vang/">vịt quay sốt cam rượu vang</a> kiểu Bỉ để giới thiệu trên báo Bếp Gia Đình. Năm nay cũng có một món vịt, nhưng khác với năm trước, vịt lần này được quay hoàn toàn theo “kiểu châu Á”, với “hình mẫu” là món vịt quay Bắc Kinh nổi tiếng. Cách làm vịt quay Bắc Kinh có khá nhiều trên mạng, Google 1 giây là ra cả tá công thức, và nhìn chung là rất rất cầu kì. Thường sẽ cần chuẩn bị mất 3 ngày cho tất cả các khâu phơi khô, tẩm ướp, rồi lại phơi khô… để có một con vịt chuẩn thơm ngon kiểu Bắc Kinh. Nhưng nói thật là mình không có nhiều kiên nhẫn đến thế, nên món vịt của mình chắc chỉ được 1/3 Bắc Kinh thôi, còn lại là Việt Nam chính hiệu.</p>
-<p>Mặc dù không được đúng như chuẩn Bắc Kinh nhưng sau khi quay xong con vịt này thì mình thấy…. tự hào về bản thân kinh khủng :D Bởi vì so với vịt bán ngoài hàng thì nó không hề thua kém. Da rất giòn, thịt còn hơi hồng đỏ, mềm đậm đà và thơm phức. Bao giờ nghiên cứu nốt phần nước chấm của vịt quay Hàng Buồm nữa là có thể cạnh tranh được rùi ^.^ Điều tiếc nuối duy nhất là quay được con vịt xong thì trời tối om, nên chụp ảnh rất vội, cho nên ảnh không đẹp gì cả, chỉ đủ để minh họa thôi :(</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Mặc dù không được đúng như chuẩn Bắc Kinh nhưng sau khi quay xong con vịt này thì mình thấy…. tự hào về bản thân kinh khủng :D Bởi vì so với vịt bán ngoài hàng thì nó không hề thua kém. Da rất giòn, thịt còn hơi hồng đỏ, mềm đậm đà và thơm phức. Bao giờ nghiên cứu nốt phần nước chấm của vịt quay Hàng Buồm nữa là có thể cạnh tranh được rùi ^.^ Điều tiếc nuối duy nhất là quay được con vịt xong thì trời tối om, nên chụp ảnh rất vội, cho nên ảnh không đẹp gì cả, chỉ đủ để minh họa thôi :(</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8288258920/" title="IMG_8530 by LinhTrang9185, on Flickr"><img alt="IMG_8530" class="aligncenter" height="345" loading="lazy" src="http://farm9.staticflickr.com/8500/8288258920_558a370c9b.jpg" width="500"/></a></p>
 <p>Một vài gạch đầu dòng cho món vịt quay thơm ngon (hay gọi là “bí quyết” đi cho oai :D) là:</p>
 <p>1. <strong>Phần da vịt phải rất khô khi cho vào lò</strong>. Cho nên một phần quan trọng của món này là con vịt cần phải được phơi hoặc treo cho thật khô, thời gian tối thiểu là qua đêm cho đến 1 ngày, hoặc 2-3 ngày như trong công thức kiểu Bắc Kinh.</p>
@@ -47,10 +43,7 @@ description: "vịt quay, vịt quay da giòn, vịt quay bắc kinh"
 <li><em>1 nhúm muối</em></li>
 </ul>
 <p><strong> <span style="color: #800000;">Cách làm</span></strong></p>
-<p><em>Vì cần khá nhiều thời gian tẩm ướp và phơi cho vịt khô nên các bạn nên chuẩn bị vịt <span style="color: #800000;">ít nhất là trước 1 ngày nhé.</span> </em></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><em>Vì cần khá nhiều thời gian tẩm ướp và phơi cho vịt khô nên các bạn nên chuẩn bị vịt <span style="color: #800000;">ít nhất là trước 1 ngày nhé.</span> </em></p>
 <p>1. Vịt rửa sạch. Đập dập ít gừng rồi pha với rượu trắng, dùng rượu gừng này xát đều bên trong và ngoài con vịt, để khoảng 20-25 phút cho hết hôi. Rửa sạch bằng nước lạnh rồi thấm thật khô cả trong lẫn ngoài. Nếu da vịt có chỗ nào bị rách thì nên dùng chỉ trắng khâu lại, da càng căng thì khi nướng càng ngon hơn.</p>
 <p>2. Trộn đều hỗn hợp gia vị ướp bên trong. Định lượng gia vị có thể thay đổi tùy khẩu vị của gia đình, sau khi trộn các bạn có thể nếm thử để điều chỉnh. Dùng tay xát phần gia vị này vào khắp bên trong con vịt. Phần bên ngoài vịt các bạn trộn 2/3 thìa cafe muối với 2/3 thìa cafe ngũ vị hương. Xát đều lên da vịt.</p>
 <p>Nếu có thể treo vịt lên cao để vịt khô trong không khí là tốt nhất. Còn không thì các bạn để vịt lên giá có lỗ hoặc khe hở, kê giá lên cao. Để ở nơi thoáng gió cho vịt thật khô. Ướp tối thiểu 6-8 tiếng (để qua đêm).</p>
@@ -66,4 +59,4 @@ description: "vịt quay, vịt quay da giòn, vịt quay bắc kinh"
 <p>5. Cho vịt vào lò (đặt vịt trên rack đi kèm lò, khay hứng mỡ hoặc khay rau củ để ở dưới). Nướng ở nhiệt độ trong khoảng 160-170 độ C. Với con vịt 1kg thì mình nướng trong khoảng 45-55 phút (cho vịt vào mới bật lò). Sau 20-25 phút đầu tiên thì lật vịt cho vịt chín đều.  Sau khi vịt đã chín, các bạn có thể để vịt ở trong lò (đã tắt) thêm khoảng phút cho phần mỡ chảy ra hết, da vịt khô lại.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8287202085/" title="IMG_8484 by LinhTrang9185, on Flickr"><img alt="IMG_8484" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8486/8287202085_d15d302b0a.jpg" width="500"/></a></p>
 <p>Vịt nướng đạt sẽ có phần da giòn, vàng nâu bóng, mằn mặn ngòn ngọt (và rất thơm), thịt hơi hồng và mềm mại, không khô, không dai (tả đến đây thôi nhé, không có nước miếng ướt hết cả bàn phím rùi :”&gt; :”&gt;)</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

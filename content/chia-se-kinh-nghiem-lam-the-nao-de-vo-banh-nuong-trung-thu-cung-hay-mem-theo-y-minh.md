@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2017/08/1-610x350.jpg"
 description: ""
 ---
 
-
 <p>Gần đến trung thu rồi, mình viết bài này chia sẻ kinh nghiệm lại với các bạn sau kha khá mẻ bánh thử với các nguyên liệu ở Việt Nam. Bài viết này chắc cũng áp dụng với đa phần các bạn ở Việt Nam thôi, vì nguyên liệu ở Việt Nam có nhiều loại và chất lượng khá là khác nhau chứ không đồng đều được như nguyên liệu ở nước ngoài. Trong bài này mình viết về bánh nướng trước nhé. Bánh dẻo vài ngày tới mình sẽ đăng sau.</p>
 <p>Bánh nướng, theo đa số các công thức, bao gồm cả <a href="/banh-trung-thu-cach-lam-banh-nuong/"><strong>công thức vỏ bánh của Savoury Days</strong></a> thường có các nguyên liệu là:</p>
 <ul>
@@ -20,10 +19,7 @@ description: ""
 </ul>
 <p>Baking soda mình thường không dùng vì thấy không cần thiết. Nước tro tàu MÌNH ĐÃ KHÔNG DÙNG TỪ RẤT LÂU vì lo ngại về tác haị của nó. Trước khi mình ở châu Âu thì chỉ có chợ Tàu là bán nước tro, một chai to có giá rất rẻ, trên chai có dòng cảnh báo: “<em>không dùng với lượng lớn, nếu lỡ dùng phải gặp bác sĩ ngay</em>!”. Hơn nữa mấy năm qua không dùng nước tro mình thấy bánh vẫn ổn nên bỏ nguyên liệu này ra ngoài hoàn toàn.</p>
 <p>Các nguyên liệu kể trên có sự tác động khá lớn tới độ mềm, cứng, khô hay ướt của vỏ bánh. Cụ thể là trong 5 nguyên liệu liệt kê ở trên, dầu ăn, trứng và bơ đậu phộng giúp bánh mềm. Với 2 nguyên liệu còn lại thì tác động lên vỏ bánh như sau:</p>
-<p><strong>* Bột mì</strong>: bột mì có hàm lượng protein càng cao (số càng lớn) thì càng làm cho vỏ bánh cứng hơn. Ví dụ bột 13% protein (còn gọi là bột số 13 hay bột làm bánh mì/ bread flour) sẽ cho vỏ bánh cứng khô hơn bột 11% protein (còn gọi là bột số 11 hay bột mì đa dụng). Bột 8% protein (bột số 11 hay bột làm bánh ngọt/ cake flour) sẽ cho vỏ bánh mềm hơn cả.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>* Bột mì</strong>: bột mì có hàm lượng protein càng cao (số càng lớn) thì càng làm cho vỏ bánh cứng hơn. Ví dụ bột 13% protein (còn gọi là bột số 13 hay bột làm bánh mì/ bread flour) sẽ cho vỏ bánh cứng khô hơn bột 11% protein (còn gọi là bột số 11 hay bột mì đa dụng). Bột 8% protein (bột số 11 hay bột làm bánh ngọt/ cake flour) sẽ cho vỏ bánh mềm hơn cả.</p>
 <p>Tuy nhiên, ở Việt Nam độ hút nước của các loại bột của các hãng khác nhau không giống nhau làm cho bột vỏ bánh cũng khác. Bột càng hút nhiều nước thì vỏ bánh càng dễ khô cứng. Trong số các loại bột mình đã thử thì Hoa Ngọc Lan và 3 bông hồng có độ hút nước gần như tương đương nhau. Meizan hút nước ít hơn một chút, do vậy khi dùng bột Meizan có thể bột bánh sẽ khá ướt và vỏ bánh sẽ khá mềm. Baker choice hút nước rất nhiều, nếu chỉ dùng toàn Baker choice số 11 hoặc 13 thì có thể vỏ bánh sẽ rất cứng.</p>
 <p>* <strong>Nước đường bánh nướng: </strong>Nước đường nấu ít ngày hoặc nước đường loãng sẽ làm cho vỏ bánh ướt, mềm và nhanh bị mốc hơn nước đường nấu lâu ngày. Sau khi nấu xong, nước đường nên được để tối thiểu 14 ngày mới dùng nên giờ mới nấu thì mình nghĩ hơi bị muộn một chút.</p>
 <p>Nếu vẫn muốn tự nấu, bạn nên dùng đường nâu đen và nấu đặc một chút. Nếu không thì có thể mua sẵn. Ở nước ngoài các bạn mua golden syrup, chọn loại for mooncakes được là tốt nhất. Ở Việt Nam mình đã dùng thử nước đường homemade của Abby và nước đường Farina thì thấy bánh ra đều ổn cả.</p>
@@ -56,9 +52,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

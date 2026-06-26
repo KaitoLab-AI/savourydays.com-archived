@@ -12,10 +12,7 @@ description: "Du kí ghi chép lại những ấn tượng sau chuyến thăm Ma
 <p><strong>Những ốc đảo trong lòng thành phố</strong></p>
 <p><em>Medina Marrakesh </em>hấp dẫn du khách không chỉ ở những con hẻm nhỏ lát gạch lắt léo và khu chợ sầm uất từ sáng tới tận tối khuya mà còn bằng những địa danh mang đậm dấu ấn Hồi giáo và cả những khoảng xanh kì diệu tựa như một ốc đảo nhỏ trong lòng thành phố nữa.</p>
 <p><em>Medersa Ben Youssef </em>là một nơi như thế. Thành lập từ thế kỉ 14, mở rộng vào thế kỉ 16, nơi đây đã từng là học viện đào tạo Hồi giáo và luật lớn và danh giá nhất khu vực Bắc Phi. Trải qua hàng trăm năm với bao nhiêu biến động, sự quyến rũ và ấn tượng của công trình này dường như không hề suy chuyển. Đi qua một hành lang dài, bước qua chiếc cửa gỗ lớn được chạm khắc công phu, chúng tôi không kìm được cảm giác choáng ngợp với khoảng không gian trước mắt. Một bể nước lớn phản chiếu nền trời xanh. Bốn bề xung quanh là các bức tường thạch cao trắng với vô số hoạ tiết đẹp mắt với chân tường là những mảng gạch men <em>zeillij </em>nhiều màu sắc.</p>
-<p><img alt="Marrakesh" class="aligncenter" height="640" loading="lazy" src=" https://farm2.staticflickr.com/1717/24825180729_dcc3148945_z.jpg" width="427"/></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><img alt="Marrakesh" class="aligncenter" height="640" loading="lazy" src=" https://farm2.staticflickr.com/1717/24825180729_dcc3148945_z.jpg" width="427"/></p>
 <p>Càng đến gần và nhìn rõ hơn, tôi càng thán phục sự khéo léo và tỉ mẩn của những người thợ đã làm nên công trình này. Không chỉ trên tường mà cả mái vòm, cửa chính, cửa sổ, đâu đâu cũng thấy những hoạ tiết được chạm trổ hay sơn vẽ tinh tế trên thạch cao, men sứ và gỗ tuyết tùng. Tuy đã từ lâu không còn được sử dụng cho mục đích học thuật nữa nhưng không khí uyên bác đầy tôn nghiêm dường như vẫn còn hiện hữu nơi đây. Tôi cảm nhận điều này rõ nhất khi đi thăm các dãy nhà gồm hơn 100 phòng học nhỏ dành cho sinh viên, để cho trí tưởng tượng của mình quay ngược về nhiều thế kỉ trước với hình ảnh các sinh viên trong bộ áo chùng trắng, đang miệt mài ngồi đọc sách sau những ô cửa sổ nhỏ kia.</p>
 <p>Bên cạnh <em>Medersa Ben Youssef, </em>bảo tàng <em>Dar Si Said, </em>cung điện <em>Bahia, Saadian Tombs </em>và bảo tàng Marrakech (<em>Museum of Marrakesh)</em> là một vài địa danh khác trong <em>medina, </em>nơi cũng có kiến trúc với những mảng chạm khắc đẹp tuyệt vời trên đủ mọi loại chất liệu mà chúng tôi rất ấn tượng. Nhưng nếu nói là ốc đảo thực sự theo nghĩa đen thì phải kể tới khu vườn <em>Majorelle </em>(<em>Jardin Majorelle). </em>Trái ngược hẳn với sự ồn ào náo nhiệt và những bức tường gạch đỏ khô rang dưới nắng gắt sa mạc bên ngoài, <em>Majorelle Garden </em>mang đến cho người ta cảm giác mát rượi ngay chỉ vừa khi bước chân qua cổng.  <em>Jacques Majorelle </em>và <em>Yves Saint Laurent </em>đã thực sự tặng cho Marrakesh một viên ngọc lục bảo khi mang về đây tới hơn 300 loài thực vật khác nhau từ năm châu lục, nhiều nhất có lẽ là các giống xương rồng, cọ và tre trúc. Cả khu vườn dường như được bao phủ trong rất nhiều sắc độ của hai thứ màu xanh: xanh lá mát rượi từ cây cối và xanh cô-ban đầy mê hoặc của các mảng tường nhà. Nổi bật trên nền xanh ấy là màu vàng tươi tắn từ các hoạ tiết trang trí và các bình hoa lớn đặt bên cửa sổ, cùng màu hồng đỏ của giàn hoa giấy đang trổ bông rực rỡ. Tất cả những màu sắc mạnh ấy đặt cạnh nhau, tạo ra sự tương phản đầy ấn tượng mà lại không hề có chút nào “đánh nhau” do đối lập. Gió mát rượi, lá cây rì rào trong gió, nước chảy róc rách dưới chân, và những giàn hoa giấy trổ bông rực rỡ trên nền tường xanh hút mắt không chỉ khiến bước chân mà cả tâm hồn của khách tới thăm như chậm lại, thư thả hơn, an nhàn hơn. Mọi lo lắng, vội vã dường như đã được để cả lại ở bên ngoài, chỉ còn lại một cảm giác thư thái và tĩnh tại để thưởng thức không khí trong lành và sự an nhiên nơi đây.</p>
 <p><img alt="Marrakesh" class="aligncenter" height="640" loading="lazy" src=" https://farm2.staticflickr.com/1711/25166634746_470981d495_z.jpg " width="480"/></p>
@@ -25,10 +22,7 @@ description: "Du kí ghi chép lại những ấn tượng sau chuyến thăm Ma
 <p><img alt="Marrakesh" class="aligncenter" height="418" loading="lazy" src=" https://farm2.staticflickr.com/1519/25099697011_c9e147a396_z.jpg " width="640"/></p>
 <p style="text-align: center;"><em>nơi có rất nhiều phần điêu khắc và trang trí Mosaic đẹp tuyệt </em></p>
 <p><img alt="Marrakesh" class="aligncenter" height="640" loading="lazy" src=" https://farm2.staticflickr.com/1605/25074534852_8b1f8d97c4_z.jpg " width="459"/></p>
-<p style="text-align: center;"><em>Một bảo tàng khác nằm trong Medina </em></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p style="text-align: center;"><em>Một bảo tàng khác nằm trong Medina </em></p>
 <p><img alt="Marrakesh" class="aligncenter" height="640" loading="lazy" src=" https://farm2.staticflickr.com/1562/24897073590_49936ca849_z.jpg" width="430"/></p>
 <p style="text-align: center;"><em>cửa ra vào và cửa sổ được trang trí với rất nhiều hoạ tiết đẹp mắt</em></p>
 <p><img alt="Marrakesh" class="aligncenter" height="446" loading="lazy" src=" https://farm2.staticflickr.com/1442/24897193940_8c1ee824e7_z.jpg" width="640"/></p>
@@ -46,7 +40,6 @@ description: "Du kí ghi chép lại những ấn tượng sau chuyến thăm Ma
 <p>Đặc sản của Ma-rốc không chỉ có Tajine. Marrakesh là nơi thứ hai sau Athen (Hy Lạp) làm cho tôi mắt tròn mắt dẹt khi thấy cam chín lúc lỉu trên cây, rụng đầy mặt đất mà chẳng ai thèm rớ tới (tự nhiên thấy tội nghiệp cho quả cam gì đâu). Chưa có nơi nào tôi đi qua mà nước cam nguyên chất không pha trộn gì có giá 1 EUR (khoảng 24 nghìn đồng) như ở đây. Ngoài cam chanh, Marrakesh còn có chuối và cả đặc sản ô-liu căng mọng nữa. Nhưng quyến rũ du khách nhất chắc vẫn là các loại hoa quả khô, đặc biệt là quả chà là. Chà là ở đây to và “béo” hơn hẳn so với chà là ở châu Âu, quả nào quả nấy màu nâu mật căng bóng, cảm giác như cắn vào là sẽ ứa ra đầy mật ngọt. Nhờ những loại sản vật này mà mấy ngày ở Marrakesh tôi đều có một kiểu “nuông-chiều-bản-thân-chỉ-có-ở-Ma-rốc”. Đấy là sau một ngày đi lang thang, khi chân đã mỏi nhừ thì quay về khách sạn, thả mình trên chiếc ghế sofa êm ái của Riad, tận hưởng gió chiều mát lành, nghe lũ chim sẻ trêu nhau chí choách trên sân, nhấm nháp chà là ngọt lịm và thưởng thức trà bạc hà thơm mát, đặc sản Morroco.</p>
 <p style="text-align: center;"><em>một cửa hàng bán quả khô trên quảng trường Jemaa el-Fnaa</em></p>
 
-
 <p><img alt="Marrakesh" class="aligncenter" height="408" loading="lazy" src=" https://farm2.staticflickr.com/1700/25099512951_1b9af2c768_z.jpg" width="640"/></p>
 <p style="text-align: center;"><em>trà bạc hà cũng là một thứ đặc sản của Ma-rốc, thường được đựng trong những chiếc bình bạc đi kèm theo bộ li nhỏ rất đẹp. Nghệ thuật thưởng trà bạc hà, ngoài việc chọn trà ngon thì còn phải rót làm sao để trên miệng cốc có sủi bọt to nữa :)</em></p>
 <p><img alt="Marrakesh" class="aligncenter" height="427" loading="lazy" src=" https://farm2.staticflickr.com/1568/25074472432_5b8a2811c7_z.jpg" width="640"/></p>
@@ -62,9 +55,6 @@ description: "Du kí ghi chép lại những ấn tượng sau chuyến thăm Ma
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

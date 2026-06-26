@@ -8,7 +8,6 @@ image: ""
 description: "Cách làm bánh gato đường thốt nốt sữa dừa thơm ngon ngậy béo với nồi chiên không dầu. Công thức có video hướng dẫn chi tiết"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="font-weight: 400; color: #000000;">Lâu rùi tụi mình mới có 1 công thức gato mới. Phiên bản gato lần này siêu ngon, siêu thơm và lạ miệng nhé ;) </span><span style="font-weight: 400; color: #000000;">Combo đường thốt nốt – nước cốt dừa với mình là một combo cực kì thần thánh: Mùi đường thốt nốt vừa ấm vừa đậm đà, cực kì cực kì hợp với mùi sữa dừa ngậy béo. Đưa vào bánh gato xốp thì siêu hợp! Thậm chí, độ ẩm từ đường thốt và cốt dừa sẽ làm bánh còn ẩm mềm hơn so với bánh gato truyền thống nữa. Túm lại đây là một công thức rấttttt là nên thử nha 😉</span></p>
 <p><span style="font-weight: 400; color: #000000;">Trong video mình dùng nồi chiên không dầu của 2GOOD, nồi có cả nhiệt trên và dưới nên dùng để làm bánh rất ổn. Bạn nào dùng lò nướng thì đọc thêm tại công thức nhé.</span></p>
 <h2>CÁCH LÀM BÁNH GATO DỪA ĐƯỜNG THỐT NỐT</h2>
@@ -24,10 +23,7 @@ description: "Cách làm bánh gato đường thốt nốt sữa dừa thơm ngo
 <li><em><span style="font-weight: 400; color: #000000;">Vụn dừa khô để rắc lên mặt bánh (không bắt buộc)</span></em></li>
 </ul>
 <p><strong><span style="color: #000000;">* Lưu ý:</span></strong></p>
-<p><span style="font-weight: 400; color: #000000;">– Nếu không có dầu dừa có thể dùng dầu ăn thông thường, nhưng dầu dừa sẽ giúp bánh thơm ngon hơn rất nhiều.</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">– Nếu không có dầu dừa có thể dùng dầu ăn thông thường, nhưng dầu dừa sẽ giúp bánh thơm ngon hơn rất nhiều.</span></p>
 <p><span style="font-weight: 400; color: #000000;">– 50 gram bột làm bánh ngọt (bột mì số 8) có thể thay bằng 45 gram bột mì đa dụng và 5 gram bột ngô nhưng dùng bột mì số 8 sẽ ngon hơn.</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Đường thốt nốt mình dùng loại hạt nhỏ. Nếu bạn dùng đường dạng khối to thì cần xay/đập vụn để đường dễ tan hơn. Mình dùng đường thốt nốt Palmania, rất thơm và ngon.</span></p>
 <p><strong><span style="color: #000000;">Cách làm</span></strong></p>
@@ -47,10 +43,7 @@ description: "Cách làm bánh gato đường thốt nốt sữa dừa thơm ngo
 <p><span style="font-weight: 400; color: #000000;">* Lưu ý:</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Nước không quá nóng, đáy âu không chạm mặt nước, tránh việc nhiệt cao quá làm trứng bị chín.</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Khuấy đều tay. </span></p>
-<p><span style="font-weight: 400; color: #000000;">– Nếu bạn dùng đường thốt nốt dạng lỏng có thể bỏ qua bước này.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">– Nếu bạn dùng đường thốt nốt dạng lỏng có thể bỏ qua bước này.</span></p>
 <ol start="4">
 <li><span style="font-weight: 400; color: #000000;"> Khi đường tan hết thì nhấc âu xuống, cho cream of tartar vào âu. Dùng máy đánh ở tốc độ vừa rồiăng tốc độ lên cao nhất và đánh đến bông gần cứng: lòng trắng bóng, dẻo, mịn, khi nhấc que lên có chóp nhọn hơi ngoặt xuống.</span></li>
 <li><span style="font-weight: 400; color: #000000;"> Lấy ⅓ chỗ lòng trắng đánh bông cho vào hỗn hợp lòng đỏ, trộn nhẹ nhàng bằng phới lồng đến khi lòng trắng hòa quyện, hỗn hợp lòng đỏ lỏng ra bớt. </span></li>
@@ -65,4 +58,4 @@ description: "Cách làm bánh gato đường thốt nốt sữa dừa thơm ngo
 <li><span style="font-weight: 400; color: #000000;"> Lấy bánh ra khỏi lò, úp ngược khuôn trên rack và để bánh nguội hoàn toàn trong khuôn rồi mới gỡ bánh ra. Nếu dùng khuôn đế liền thì sau khi nướng xong cần lấy bánh ra luôn.</span></li>
 <li><span style="font-weight: 400; color: #000000;"> Đợi bánh nguội hoàn toàn rồi dùng dao sắc, đưa qua đưa lại để cắt bánh. Bánh bọc kín, bảo quản ngăn mát tủ lạnh  3 – 4 ngày và ngăn đá trong khoảng 1 tháng, trước khi ăn để bánh rã đông hoàn toàn bánh sẽ mềm ngon như mới. </span></li>
 </ol>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

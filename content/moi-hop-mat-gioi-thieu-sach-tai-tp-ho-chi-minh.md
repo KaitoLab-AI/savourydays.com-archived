@@ -12,10 +12,7 @@ description: ""
 <p>Nếu bạn đến tham dự thì giúp mình ấn vào nút “Going” để Nhã Nam tiện thu xếp đón tiếp cả nhà được chu đáo nha :)</p>
 <p>Với các bạn không có tài khoản FB hoặc không xem được link thì dưới đây là thời gian và địa điểm cụ thể:</p>
 <p>* Thời gian: Sáng Chủ nhật ngày 15/3 từ 9h30 – 11h30</p>
-<p>* Địa điểm: Nhã Nam Thư Quán – <span class="Apple-style-span">Nhà 15 Lô B, Chung Cư 43 Hồ Văn Huê, Hồ Văn Huê, P. 9, Q. Phú Nhuận </span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>* Địa điểm: Nhã Nam Thư Quán – <span class="Apple-style-span">Nhà 15 Lô B, Chung Cư 43 Hồ Văn Huê, Hồ Văn Huê, P. 9, Q. Phú Nhuận </span></p>
 <p>Chương trình giao lưu sẽ bao gồm trò chuyện, hỏi đáp, kí tặng sách… bạn nào chưa kịp mua sách cũng có thể mua tại đây với giá chiết khấu :) Hẹn gặp cả nhà thật sớm!!!</p>
 <p style="text-align: center;"><em>Một vài hình ảnh buổi hẹn hò ở Hà Nội cuối tuần trước :x</em></p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/16595608768/" title="5 by LinhTrang9185, on Flickr"><img alt="5" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7604/16595608768_a8d61d00e0.jpg" width="500"/></a></p>
@@ -30,9 +27,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

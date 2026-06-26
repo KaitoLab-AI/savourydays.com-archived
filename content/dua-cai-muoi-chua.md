@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2011/10/dua-cai-muoi1.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Về món này thì sau khi đi nghiên cứu một hồi các thể loại công thức trên mạng, mình có một kết luận là các bạn dọa dẫm hơi bị nhiều hơn mức cần thiết ý. Kiểu như là muối dưa cần phải có “tay muối dưa” thì mới ngon :D Thì đúng là nấu ăn bao giờ cũng cần một chút khéo léo, nhưng cá nhân mình thấy để muối dưa ngon cũng không đến nỗi khó lắm (không phải là tại mình nấu ăn quen rồi nên thây cái gì cũng dễ đâu, vì bản thân chuyện muối dưa tự nó cũng chả có gì khó khăn ý ;) ).</p>
 <p>Để muối dưa thì các <strong>nguyên liệu</strong> cần chuẩn bị là:</p>
 <ul>
@@ -23,10 +22,7 @@ description: ""
 <p style="text-align: center;"><em><a href="/wp-content/uploads/2011/10/2011-10-111.jpg"><img alt="" class="aligncenter size-large wp-image-1047" height="430" loading="lazy" sizes="(max-width: 717px) 100vw, 717px" src="/wp-content/uploads/2011/10/2011-10-111-1024x614.jpg" title="2011-10-11" width="717"/></a><br/>
 </em></p>
 <p style="text-align: center;"><em>Ở trong hình là mình muối bằng cải xanh, hôm nào có lọ cải bẹ sẽ chụp rùi update sau nhé ;)</em></p>
-<p><strong>Cách làm</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>Cách làm</strong></p>
 <p><span id="more-1042"></span></p>
 <p>1. Rau cải cắt gốc, tách lá, bỏ các lá héo úa, sâu thối &amp; dập nát đi. Rửa sạch từng lá một. <strong>Lưu ý rửa nhẹ nhàng  </strong>tránh làm rau bị dập nát, về sau muối sẽ dễ bị hỏng (đây cũng là lí do tại sao nên để nguyên cả lá và rửa từng lá một). Hành lá cắt gốc, rửa sạch rồi thái khúc 2-3cm, phần gốc hành trắng chẻ đôi.</p>
 <p>2. Để dưa muối giòn thì rau thường được đem hong nắng cho héo bớt. Lý thuyết là như thế. Nhưng ở những nơi kiểu như Bỉ hay Hà Lan, mà đợi có ngày nắng để phơi dưa thì chắc đến Tết cũng chưa có dưa để ăn :P Cho nên thay vào việc phơi nắng thì chúng mình có thể làm thế này. Nấu một nồi nước nóng già. Cho rau vào nhúng qua rồi vớt ra. Tiếp theo thái rau thành khúc 2-3 cm, để rau khô ở nhiệt độ phòng. Ở bên này trời khô nên sau khoảng nửa ngày là rau cũng tương đối héo “đủ tiêu chuẩn” rồi (đừng để héo quá vì dưa sẽ dễ bị dai).</p>
@@ -36,7 +32,4 @@ description: ""
 <p><strong>Ghi chú:</strong></p>
 <p>– Dưa nếu muối nhiều mà ăn không kịp thì sau khi dưa đã đạt đủ độ chua, các bạn có thể vớt dưa ra để trong tủ lạnh.</p>
 <p>– Nếu không dùng dấm thì có thể pha thêm một ít nước vo gạo vào nước muối dưa, cũng sẽ giúp dưa nhanh vàng và chua hơn :)</p>
-<div align="center" id="google-ads-body-post-end">
 
-
-</div><!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

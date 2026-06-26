@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2017/03/cách-làm-bánh-trứng-hàn-quốc-2.jpg"
 description: "Bánh trứng Hàn Quốc là món bánh có cách làm rất đơn giản và nhanh gọn, nguyên liệu không cầu kì mà lại cực kì thơm ngon. Cách làm có kèm video hướng dẫn chi"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Khoảng một tháng trước thì cả <a href="https://web.facebook.com/groups/monngonnhalam/permalink/758628820970014/"><strong>Group “Món ngon nhà làm” dậy sóng vì món bánh trứng Hàn Quốc (Gyearan-ppang) do thành viên Vulina Nhược Tư giới thiệu công thức</strong></a>. Rất nhiều bạn thử và khen ngon khiến mình cũng cực kì tò mò. Vậy mà mãi tới gần đây mới có bếp để làm thử được.</p>
 <p>Về cách làm thì đây là một món bánh rất đơn giản và trộn bột theo kiểu muffin: cho tất cả các nguyên liệu vào trộn lên rồi mang đi nướng là xong. Rất nhanh nhưng có một vấn đề mà nhiều bạn gặp phải là bánh bị chai, dai và có nhiều lỗ rỗng ở trong. Thật ra thì “bệnh” này – nếu các bạn đọc các bài viết của mình về cách làm kiểu muffin – thì sẽ biết lí do là bởi bột được trộn nhiều và kĩ quá. Giống như khi ta làm bánh mì, bột gặp nước (chất lỏng nói chung) sẽ tạo ra gluten (chính là “tiền thân” của các thớ bánh). Càng trộn nhiều, sợi gluten càng khoẻ thì thớ bánh càng dai và chắc. Khi cắt bánh ra ta sẽ thấy mặt cắt đặc và có thể có nhiều lỗ rỗng chứ không bông và tơi xốp như bánh bông lan thông thường.</p>
 <p>Với món bánh trứng này, theo các công thức hiện có (phần lớn là lấy từ nguồn của cô Maang-chi ra thì phải?) có tỉ lệ chất lỏng khá lớn so với bột. Với tỉ lệ chất lỏng này thì chỉ cần trộn hơi kĩ một tí tẹo thôi là cũng đủ cho gluten hình thành và phát triển rồi. Ngoài ra, một nguyên nhân khác nữa là khi nướng nếu ta để bánh trong lò hơi lâu chút xíu, bánh khô thì thớ cũng sẽ dai và cứng hơn. Như vậy, cách khắc phục vấn đề trên rất đơn giản thôi: trộn ít và nhanh tay, khi múc bột đổ vào khuôn cũng hạn chế quấy đảo và nướng bánh ở nhiệt và thời gian vừa phải, vừa đủ cho bánh chín thì tự bánh sẽ mềm, xốp và thơm ngon :)</p>
 <p>Công thức ở dưới đây mình dựa theo <a href="https://www.maangchi.com/recipe/gyeran-ppang">công thức của tác giả Maangchi</a> và có chỉnh sửa lại một chút theo ý mình trong phần nguyên liệu. Dựa vào công thức này các bạn có thể thay đổi phần nhân mặn tuỳ ý nhé, ví dụ thay xúc xích bằng thịt nguội, thịt hun khói, dùng pho-mai bò cười, thêm các loại rau củ… để thay đổi thành các món bánh khác nhau.</p>
 <h2>CÁCH LÀM BÁNH TRỨNG HÀN QUỐC</h2>
-<p><strong>Nguyên liệu (6 bánh cỡ vừa)</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>Nguyên liệu (6 bánh cỡ vừa)</strong></p>
 <ul>
 <li><em>120 ml sữa tươi không đường</em></li>
 <li><em>15 ml dấm hoặc nước cốt chanh</em></li>
@@ -48,4 +44,4 @@ description: "Bánh trứng Hàn Quốc là món bánh có cách làm rất đơ
 </ol>
 <p>* <strong>Ghi chú:</strong></p>
 <p>Nếu bạn xem video cách làm bánh trứng Hàn Quốc của tác giả Maangchi thì có thể sẽ thắc mắc tại sao bột trong video được trộn mịn mượt mà bánh vẫn xốp. Một lí do chính là bởi vì bánh trong video được nướng khá non (khi bẻ ra trứng vẫn còn lòng đào). Vì lượng ẩm trong bánh lớn nên giữ được độ xốp mềm cho bánh. Nhưng nếu nướng bánh lâu và kĩ hơn một chút thì khả năng lớn là bánh sẽ bị chai và có nhiều lỗ rỗng ở bên trong.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

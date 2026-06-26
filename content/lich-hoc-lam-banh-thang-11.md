@@ -12,10 +12,7 @@ description: ""
 <p><span style="color: #000000;">Trước hết mình xin cảm ơn các bạn rất nhiều vì đã ủng hộ ý định tổ chức lớp học làm bánh của mình. Mình cũng xin lỗi vì không thể trả lời hết được các phản hồi tại facebook, website và qua email (do số lượng quá lớn, đã lên đến hơn 1000).</span></p>
 <p><span style="color: #000000;">Khoá học đầu tiên của Savoury Days sẽ về chủ đề <strong>bánh mì. </strong>Lý do trước hết là so với bánh bông lan, mình thấy các bạn gặp nhiều vấn đề khi làm bánh mì hơn. Nói cách khác, bánh mì cần sự chỉ dẫn cụ thể và nhiều hơn. Thứ hai, bánh mì có tính ứng dụng cao, có thể dùng hàng ngày cho nhiều mục đích khác nhau, làm đồ điểm tâm, ăn nhẹ, ăn bữa chính…. đều được. Thứ ba là tìm mua bánh mì ngon ở Hà Nội mình thấy khá khó, giá thành cũng cao hơn nhiều so với giá trị thực.</span></p>
 <p><span style="color: #000000;">Vì những lý do trên mà mình mở lớp <strong>bánh mì cơ bản</strong> trước để<strong> </strong>hướng dẫn cách làm các loại bánh mì thông dụng. Nắm được các kĩ thuật làm bánh mì tốt cũng sẽ giúp các bạn nhiều trong việc làm các món bánh khác như bánh quy, bánh bông lan, pie hay tart. Các thông tin cụ thể về khoá học <strong>Bánh mì cơ bản </strong>này như sau.</span></p>
-<p><img alt="" class="aligncenter size-large wp-image-7449" height="317" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2017/10/SD-Baking-class_banner-1024x317.jpg" width="1024"/></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><img alt="" class="aligncenter size-large wp-image-7449" height="317" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2017/10/SD-Baking-class_banner-1024x317.jpg" width="1024"/></p>
 <p>* <strong><span style="color: #ff0000;">Thời gian</span>:</strong><strong> </strong><span style="color: #000000;">cả khoá gồm 3 buổi, vào các ngày thứ bảy ngày 4, 11 và 18 tháng 11, từ 13:15 đến 17:15.</span></p>
 <p>* <strong><span style="color: #ff0000;">Địa điểm</span>: </strong><span style="color: #000000;">Phòng học tầng 3 – 26 Bích Câu Hà Nội (Bakerland)</span></p>
 <p>* <strong><span style="color: #ff0000;">Giáo viên hướng dẫn</span>: <span style="color: #000000;">Linh Trang </span></strong><span style="color: #000000;">cùng các bạn trợ lý thuộc Savoury Days team</span></p>
@@ -37,10 +34,7 @@ description: ""
 <li><span style="color: #000000;"><strong>Bánh mì ngọt mềm Milk bun</strong> &amp; ứng dụng <strong>bánh mì ruốc kiểu Sing, bánh mì nhân phô-mai chảy</strong></span></li>
 <li><span style="color: #000000;"><strong>Nhân kem trứng custard</strong></span></li>
 </ul>
-<p><span style="color: #000000;"><strong>C. Bài về nhà </strong></span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;"><strong>C. Bài về nhà </strong></span></p>
 <ul>
 <li><span style="color: #000000;"><strong>Amish White Bread</strong> – bánh mì gối trắng</span></li>
 <li><span style="color: #000000;">Chọn giữa <strong>Hokkaido bread</strong> (bánh mì sữa Hokkaido) hoặc <strong>Papparoti </strong></span></li>
@@ -99,7 +93,6 @@ description: ""
 <p><span style="color: #000000;">Học phí được thanh toán theo hình thức chuyển khoản 1 lần cho cả khoá trong khoảng từ 29/10 đến 31/10. <strong>Các bạn được nhận vào lớp sẽ có email thông báo từ địa chỉ hoclambanhSD@gmail.com kèm theo thông tin để chuyển khoản (chủ TK: Đoàn Thu Trang)</strong>. <strong>Danh sách lớp học cũng sẽ được thông báo tại website ngày 30/10.</strong> <strong>Các bạn vui lòng kiểm tra tại website trước khi chuyển khoản để tránh trường hợp mạo danh lừa đảo</strong>.</span></p>
 <p><span style="color: #000000;">Nếu không thể tham gia lớp học vì bất kì lý do gì và thông báo huỷ trước 24 h ngày 1/11 thì bạn sẽ được hoàn lại 90% học phí mà các bạn đã nộp (10% là phí giáo vụ).</span></p>
 
-
 <p><span style="color: #000000;">Nếu không thể tham gia lớp học và thông báo nghỉ từ ngày 2/11 thì sẽ không được hoàn lại học phí, trừ khi tìm được người thay thế. Trong trường hợp có người thay thế, các bạn sẽ được hoàn lại 80% học phí mà các bạn đã nộp (phí chuyển khoản do người nhận chịu).</span></p>
 <p><span style="color: #000000;">Nếu trong quá trình học có buổi nghỉ vì lý do của giáo viên thì SD sẽ có trách nhiệm tổ chức buổi khác để dạy bù cho các bạn. Nếu vào buổi dạy bù đó các bạn không học được thì sẽ được hoàn lại 100% học phí của buổi học đó.</span></p>
 <p><span style="color: #000000;">Vậy, 20.30 ngày mai mình sẽ mở link đăng kí tại website. Bạn nào muốn đăng ký học thì ngày mai theo dõi để đăng ký nha. Cảm ơn các bạn nhiều nhiều và hẹn gặp lại các bạn thứ 7 tuần sau :)</span></p>
@@ -111,9 +104,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

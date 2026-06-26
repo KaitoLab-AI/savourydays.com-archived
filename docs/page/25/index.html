@@ -10,17 +10,20 @@
 <header>
   <nav>
     <a class="site-title" href="/savourydays.com-archived/"><span>Savoury</span> Days</a>
-    <a href="/savourydays.com-archived/">Trang chủ</a>
+    <span class="spacer"></span>
+    <input id="search-box" type="search" placeholder="Tìm công thức…" autocomplete="off">
   </nav>
 </header>
 <main>
 <div class="container">
-  <h1 style="margin-bottom:1.5rem;">Công thức nấu ăn</h1>
-  <div class="recipe-grid">
+  <div class="index-header">
+    <h1>Công thức nấu ăn</h1>
+  </div>
+  <div class="recipe-grid" id="recipe-grid">
     
-    <a class="recipe-card" href="/savourydays.com-archived/tiramisu-tra-xanh/">
+    <a class="recipe-card" href="/savourydays.com-archived/tiramisu-tra-xanh/" data-title="tiramisu trà xanh">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/06/TiramisuTraXanh1.jpg" alt="Tiramisu trà xanh" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/06/TiramisuTraXanh1.jpg" alt="Tiramisu trà xanh" loading="lazy">
       
       <div class="card-body">
         <h2>Tiramisu trà xanh</h2>
@@ -29,9 +32,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/chiffon-cam/">
+    <a class="recipe-card" href="/savourydays.com-archived/chiffon-cam/" data-title="chiffon cam">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/06/ChiffonCam.jpg" alt="Chiffon cam" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/06/ChiffonCam.jpg" alt="Chiffon cam" loading="lazy">
       
       <div class="card-body">
         <h2>Chiffon cam</h2>
@@ -40,9 +43,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/japanese-cotton-cheese-cake-banh-pho-mai-nhat-ban/">
+    <a class="recipe-card" href="/savourydays.com-archived/japanese-cotton-cheese-cake-banh-pho-mai-nhat-ban/" data-title="japanese cotton cheese cake – bánh phô mai nhật bản">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/06/JapaneseCottonCheesecake.jpg" alt="Japanese cotton cheese cake – Bánh phô mai Nhật Bản" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/06/JapaneseCottonCheesecake.jpg" alt="Japanese cotton cheese cake – Bánh phô mai Nhật Bản" loading="lazy">
       
       <div class="card-body">
         <h2>Japanese cotton cheese cake – Bánh phô mai Nhật Bản</h2>
@@ -51,9 +54,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/mien-ga/">
+    <a class="recipe-card" href="/savourydays.com-archived/mien-ga/" data-title="miến gà">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/06/MienGa.jpg" alt="Miến gà" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/06/MienGa.jpg" alt="Miến gà" loading="lazy">
       
       <div class="card-body">
         <h2>Miến gà</h2>
@@ -62,9 +65,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/pudding-xoai-chocolate/">
+    <a class="recipe-card" href="/savourydays.com-archived/pudding-xoai-chocolate/" data-title="pudding xoài chocolate">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/06/PuddingXoaiChoco1.jpg" alt="Pudding xoài chocolate" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/06/PuddingXoaiChoco1.jpg" alt="Pudding xoài chocolate" loading="lazy">
       
       <div class="card-body">
         <h2>Pudding xoài chocolate</h2>
@@ -73,9 +76,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/banh-gan/">
+    <a class="recipe-card" href="/savourydays.com-archived/banh-gan/" data-title="bánh gan">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/05/banhGan1.jpg" alt="Bánh gan" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/05/banhGan1.jpg" alt="Bánh gan" loading="lazy">
       
       <div class="card-body">
         <h2>Bánh gan</h2>
@@ -84,9 +87,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/my-xao-hai-san/">
+    <a class="recipe-card" href="/savourydays.com-archived/my-xao-hai-san/" data-title="mỳ xào hải sản">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/05/MyXaoHaiSan1.jpg" alt="Mỳ xào hải sản" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/05/MyXaoHaiSan1.jpg" alt="Mỳ xào hải sản" loading="lazy">
       
       <div class="card-body">
         <h2>Mỳ xào hải sản</h2>
@@ -95,9 +98,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/cheese-cake-nhiet-doi/">
+    <a class="recipe-card" href="/savourydays.com-archived/cheese-cake-nhiet-doi/" data-title="cheese cake nhiệt đới (chocolate gateau với cheese cake & pudding xoài chanh leo)">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/05/CheesecakeNhietDoi.jpg" alt="Cheese cake nhiệt đới (Chocolate Gateau với Cheese cake & Pudding xoài chanh leo)" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/05/CheesecakeNhietDoi.jpg" alt="Cheese cake nhiệt đới (Chocolate Gateau với Cheese cake & Pudding xoài chanh leo)" loading="lazy">
       
       <div class="card-body">
         <h2>Cheese cake nhiệt đới (Chocolate Gateau với Cheese cake & Pudding xoài chanh leo)</h2>
@@ -106,9 +109,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/chocolate-coffee-gateau-flan-caramel/">
+    <a class="recipe-card" href="/savourydays.com-archived/chocolate-coffee-gateau-flan-caramel/" data-title="chocolate coffee gateau & flan/ caramel">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/05/GateauFlan.jpg" alt="Chocolate Coffee Gateau & Flan/ Caramel" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/05/GateauFlan.jpg" alt="Chocolate Coffee Gateau & Flan/ Caramel" loading="lazy">
       
       <div class="card-body">
         <h2>Chocolate Coffee Gateau & Flan/ Caramel</h2>
@@ -117,9 +120,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/on-lai-bai-cu-kem-bo-flan-dua/">
+    <a class="recipe-card" href="/savourydays.com-archived/on-lai-bai-cu-kem-bo-flan-dua/" data-title="ôn lại “bài” cũ: kem trái bơ & flan dừa">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/05/KemtraiBo1.jpg" alt="Ôn lại “bài” cũ: Kem trái bơ & Flan dừa" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/05/KemtraiBo1.jpg" alt="Ôn lại “bài” cũ: Kem trái bơ & Flan dừa" loading="lazy">
       
       <div class="card-body">
         <h2>Ôn lại “bài” cũ: Kem trái bơ & Flan dừa</h2>
@@ -128,9 +131,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/dau-tuan-co-mot-vai-thu-moi-phong-su-ve-sd-va-phong-trao-tu-hoc-lam-banh-cua-vtc/">
+    <a class="recipe-card" href="/savourydays.com-archived/dau-tuan-co-mot-vai-thu-moi-phong-su-ve-sd-va-phong-trao-tu-hoc-lam-banh-cua-vtc/" data-title="tin đầu tuần: phóng sự về sd và phong trào tự học làm bánh (phát sóng trên vtc)">
       
-      <div style="height:160px;background:#f0e6d6;"></div>
+      <div class="thumb-placeholder">🍜</div>
       
       <div class="card-body">
         <h2>Tin đầu tuần: Phóng sự về SD và phong trào tự học làm bánh (phát sóng trên VTC)</h2>
@@ -141,9 +144,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/oc-luoc-cach-pha-nuoc-cham-oc/">
+    <a class="recipe-card" href="/savourydays.com-archived/oc-luoc-cach-pha-nuoc-cham-oc/" data-title="ốc luộc & cách pha nước chấm ốc">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/05/OcLuoc.jpg" alt="Ốc luộc & Cách pha nước chấm ốc" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/05/OcLuoc.jpg" alt="Ốc luộc & Cách pha nước chấm ốc" loading="lazy">
       
       <div class="card-body">
         <h2>Ốc luộc & Cách pha nước chấm ốc</h2>
@@ -152,9 +155,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/savoury-days-tuoi-thu-hai/">
+    <a class="recipe-card" href="/savourydays.com-archived/savoury-days-tuoi-thu-hai/" data-title="savoury days – tuổi thứ hai">
       
-      <img src="/savourydays.com-archivedhttp://farm9.staticflickr.com/8136/8697833673_d96d722691.jpg" alt="Savoury Days – Tuổi thứ hai" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archivedhttp://farm9.staticflickr.com/8136/8697833673_d96d722691.jpg" alt="Savoury Days – Tuổi thứ hai" loading="lazy">
       
       <div class="card-body">
         <h2>Savoury Days – Tuổi thứ hai</h2>
@@ -165,9 +168,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/ca-hap-xi-dau/">
+    <a class="recipe-card" href="/savourydays.com-archived/ca-hap-xi-dau/" data-title="cuối tuần hải sản – cá hấp xì dầu">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/04/CaHapXiDau.jpg" alt="Cuối tuần hải sản – Cá hấp xì dầu" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/04/CaHapXiDau.jpg" alt="Cuối tuần hải sản – Cá hấp xì dầu" loading="lazy">
       
       <div class="card-body">
         <h2>Cuối tuần hải sản – Cá hấp xì dầu</h2>
@@ -176,9 +179,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/ga-to-kem-sua-tres-leches-cake/">
+    <a class="recipe-card" href="/savourydays.com-archived/ga-to-kem-sua-tres-leches-cake/" data-title="ga-tô kem sữa (tres leches cake)">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/04/TresLecheCake.jpg" alt="Ga-tô kem sữa (Tres leches cake)" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/04/TresLecheCake.jpg" alt="Ga-tô kem sữa (Tres leches cake)" loading="lazy">
       
       <div class="card-body">
         <h2>Ga-tô kem sữa (Tres leches cake)</h2>
@@ -187,9 +190,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/qua-tang-ngot-ngao-gap-go-khan-gia-vtv4/">
+    <a class="recipe-card" href="/savourydays.com-archived/qua-tang-ngot-ngao-gap-go-khan-gia-vtv4/" data-title="“quà tặng ngọt ngào” gặp gỡ khán giả vtv4">
       
-      <div style="height:160px;background:#f0e6d6;"></div>
+      <div class="thumb-placeholder">🍜</div>
       
       <div class="card-body">
         <h2>“Quà tặng ngọt ngào” gặp gỡ khán giả VTV4</h2>
@@ -200,9 +203,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/thong-bao-nghi-phep/">
+    <a class="recipe-card" href="/savourydays.com-archived/thong-bao-nghi-phep/" data-title="thông báo “nghỉ phép”">
       
-      <div style="height:160px;background:#f0e6d6;"></div>
+      <div class="thumb-placeholder">🍜</div>
       
       <div class="card-body">
         <h2>Thông báo “nghỉ phép”</h2>
@@ -213,9 +216,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/gateau-hong-kong-cup-giay/">
+    <a class="recipe-card" href="/savourydays.com-archived/gateau-hong-kong-cup-giay/" data-title="gateau hồng kông cup giấy">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/04/GateauHKCupGiay1.jpg" alt="Gateau Hồng Kông cup giấy" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/04/GateauHKCupGiay1.jpg" alt="Gateau Hồng Kông cup giấy" loading="lazy">
       
       <div class="card-body">
         <h2>Gateau Hồng Kông cup giấy</h2>
@@ -224,9 +227,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/dau-hap-tom-thit-sot-chua-ngot/">
+    <a class="recipe-card" href="/savourydays.com-archived/dau-hap-tom-thit-sot-chua-ngot/" data-title="đậu hấp tôm thịt sốt chua ngọt">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/04/DauHapTomThit.jpg" alt="Đậu hấp tôm thịt sốt chua ngọt" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/04/DauHapTomThit.jpg" alt="Đậu hấp tôm thịt sốt chua ngọt" loading="lazy">
       
       <div class="card-body">
         <h2>Đậu hấp tôm thịt sốt chua ngọt</h2>
@@ -235,9 +238,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/bars-chanh-leo/">
+    <a class="recipe-card" href="/savourydays.com-archived/bars-chanh-leo/" data-title="bars chanh leo">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/03/BarsChanhLeo1.jpg" alt="Bars chanh leo" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/03/BarsChanhLeo1.jpg" alt="Bars chanh leo" loading="lazy">
       
       <div class="card-body">
         <h2>Bars chanh leo</h2>
@@ -246,9 +249,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/gap-mat-thang-3/">
+    <a class="recipe-card" href="/savourydays.com-archived/gap-mat-thang-3/" data-title="gặp mặt tháng 3">
       
-      <img src="/savourydays.com-archivedhttp://farm9.staticflickr.com/8529/8588224747_dae3d704f7.jpg" alt="Gặp mặt tháng 3" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archivedhttp://farm9.staticflickr.com/8529/8588224747_dae3d704f7.jpg" alt="Gặp mặt tháng 3" loading="lazy">
       
       <div class="card-body">
         <h2>Gặp mặt tháng 3</h2>
@@ -259,9 +262,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/gap-mat-thang-3-tai-ha-noi-thoi-gian-va-dia-diem/">
+    <a class="recipe-card" href="/savourydays.com-archived/gap-mat-thang-3-tai-ha-noi-thoi-gian-va-dia-diem/" data-title="gặp mặt tháng 3 tại hà nội – thời gian và địa điểm">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/03/off-blog.jpg" alt="Gặp mặt tháng 3 tại Hà Nội – Thời gian và địa điểm" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/03/off-blog.jpg" alt="Gặp mặt tháng 3 tại Hà Nội – Thời gian và địa điểm" loading="lazy">
       
       <div class="card-body">
         <h2>Gặp mặt tháng 3 tại Hà Nội – Thời gian và địa điểm</h2>
@@ -272,9 +275,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/banh-cuon-mut-dau-bat-banh-chiffon/">
+    <a class="recipe-card" href="/savourydays.com-archived/banh-cuon-mut-dau-bat-banh-chiffon/" data-title="bánh cuộn mứt dâu (bạt bánh chiffon)">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/03/BanhCuonChiffon.jpg" alt="Bánh cuộn mứt dâu (Bạt bánh Chiffon)" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/03/BanhCuonChiffon.jpg" alt="Bánh cuộn mứt dâu (Bạt bánh Chiffon)" loading="lazy">
       
       <div class="card-body">
         <h2>Bánh cuộn mứt dâu (Bạt bánh Chiffon)</h2>
@@ -283,9 +286,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/lamington/">
+    <a class="recipe-card" href="/savourydays.com-archived/lamington/" data-title="lamington">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2013/03/Lamington.jpg" alt="Lamington" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2013/03/Lamington.jpg" alt="Lamington" loading="lazy">
       
       <div class="card-body">
         <h2>Lamington</h2>
@@ -295,7 +298,8 @@
     </a>
     
   </div>
-  <div class="pagination">
+  <p id="no-results">Không tìm thấy công thức nào.</p>
+  <div class="pagination" id="pagination">
     <a href="/savourydays.com-archived/page/24/">«</a>
     
       <a href="/savourydays.com-archived/page/1/">1</a>
@@ -380,6 +384,44 @@
     <a href="/savourydays.com-archived/page/26/">»</a>
   </div>
 </div>
+<script>
+(function(){
+  const box = document.getElementById('search-box');
+  const grid = document.getElementById('recipe-grid');
+  const noRes = document.getElementById('no-results');
+  const pagination = document.getElementById('pagination');
+  if (!box) return;
+
+  let allRecipes = null;
+  const BASE = '/savourydays.com-archived';
+
+  box.addEventListener('input', async function() {
+    const q = this.value.trim().toLowerCase();
+    if (!q) {
+      if (allRecipes) { grid.innerHTML = originalHTML; }
+      noRes.style.display = 'none';
+      pagination.style.display = '';
+      return;
+    }
+    if (!allRecipes) {
+      const r = await fetch(BASE + '/search.json');
+      allRecipes = await r.json();
+    }
+    const matches = allRecipes.filter(r => r.title.toLowerCase().includes(q));
+    pagination.style.display = 'none';
+    if (!matches.length) { grid.innerHTML = ''; noRes.style.display = 'block'; return; }
+    noRes.style.display = 'none';
+    grid.innerHTML = matches.map(r =>
+      `<a class="recipe-card" href="${BASE}/${r.slug}/">
+        <div class="thumb-placeholder">🍜</div>
+        <div class="card-body"><h2>${r.title}</h2><div class="date">${r.date ? r.date.slice(0,10) : ''}</div></div>
+      </a>`
+    ).join('');
+  });
+
+  const originalHTML = grid.innerHTML;
+})();
+</script>
 </main>
 <footer style="text-align:center;padding:2rem;color:#aaa;font-size:.85rem;">
   © Savoury Days · Lưu trữ

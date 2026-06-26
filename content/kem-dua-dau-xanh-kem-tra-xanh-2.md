@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2012/05/KemDauXanhTraXanh.jpg"
 description: "làm kem, kem đậu xanh, kem trà xanh"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <h4><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi. Cảm ơn các bạn</span>.</strong></h4>
 <p>Đã có một số bạn thử <a href="/?p=2484"><strong>công thức kem siêu đơn giản</strong> </a>mà mình giới thiệu hồi đầu tuần, tất cả đều phản hồi là rất ngon ^.^ tuy là với một vài bạn thì có hơi ngọt một chút. Thật ra là nếu so với công thức gốc thì mình đã bớt đi kha khá sữa rồi, nên nếu thấy ngọt thì các bạn có thể giảm sữa thêm khoảng 5-10gram thôi nhé, đừng giảm nhiều quá vì sữa đặc và các chất ngọt cũng có tác dụng hạn chế việc tạo đá và giúp kem mềm xốp hơn. Có một cách khác là có thể dùng các vị khác để trung hòa vị ngọt, ví dụ như vị đắng từ chocolate, cà phê, cacao hay vị chua từ hoa quả chẳng hạn. Hi vọng là cuối tuần này sẽ có thêm nhiều chia sẻ về các vị kem mới từ các bạn khác nữa :)</p>
 <p>Trong bài này  mình giới thiệu thêm 2 công thức kem nữa là kem dừa đậu xanh và kem trà xanh. Cả hai đều cực ổn, không có gì phải phàn nàn, cũng không ngọt nhiều như kem Tiramisu vì lượng bột đậu xanh khá cao, còn trà xanh thì tương đối đắng nên pha với vị ngọt của sữa là vừa. Ah, kem dừa đậu xanh bạn nào có khuôn làm kem que thì thử làm kem que xem (nên để lạnh lâu một chút nhé, khoảng qua đêm hoặc 1/2 ngày), sẽ cực kì bất ngờ vì kết quả đấy ;)</p>
 <p><span style="color: #800000;"><strong>Kem dừa đậu xanh </strong></span></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7163625472/" title="IMG_4199-1 by LinhTrang9185, on Flickr"><img alt="IMG_4199-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7225/7163625472_a370197330_z.jpg" width="463"/></a></p>
-<p><strong>Nguyên liệu (6-7 viên kem)</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>Nguyên liệu (6-7 viên kem)</strong></p>
 <ul>
 <li><em>150gram kem tươi có hàm lượng béo cao từ 35-45% (heavy cream)</em></li>
 <li><em>100gram sữa đặc có đường (sweetened condensed milk)</em></li>
@@ -42,10 +38,7 @@ description: "làm kem, kem đậu xanh, kem trà xanh"
 <p>5. Cho kem vào hộp, để ngăn đá tối thiểu 6 tiếng hoặc đến khi kem đông cứng lại. Bảo quản trong tủ đá. Khi dùng rắc thêm vụn dừa hoặc dừa nạo sợi (có thể thêm nước cốt dừa và lạc rang giã dập nếu thích :) ). Nếu để lâu kem bị cứng, khó múc thì các bạn nhúng que múc kem qua nước nóng, sẽ dễ múc hơn.</p>
 <div>—————————</div>
 <div>
-<p><span style="color: #800000;"><strong>Kem trà xanh </strong></span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Kem trà xanh </strong></span></p>
 <p><strong>Nguyên liệu (3-4 viên kem)</strong></p>
 <ul>
 <li><em>150gram kem tươi có hàm lượng béo cao từ 35-45% (heavy cream)</em></li>
@@ -73,7 +66,6 @@ description: "làm kem, kem đậu xanh, kem trà xanh"
 <p>6. Cho kem vào hộp, để ngăn đá tối thiểu 6 tiếng hoặc đến khi kem đông cứng lại. Bảo quản trong tủ đá.  Nếu để lâu kem bị cứng, khó múc thì các bạn nhúng que múc kem qua nước nóng, sẽ dễ múc hơn.</p>
 <p>———————————–</p>
 
-
 <p>Các bài viết cùng chủ đề làm kem</p>
 <ol>
 <li><a href="/lam-kem-khong-can-dung-may-sorbet-xoai-chanh-leo/">Làm kem không cần dùng máy: Sorbet xoài chanh leo</a></li>
@@ -88,4 +80,4 @@ description: "làm kem, kem đậu xanh, kem trà xanh"
 </ol>
 <p> </p>
 </div>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

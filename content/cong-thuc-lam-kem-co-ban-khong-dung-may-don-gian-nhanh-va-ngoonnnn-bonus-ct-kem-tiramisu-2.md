@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/05/KemTiramisu.jpg"
 description: "Cách làm kem ngon, siêu đơn giản mà không cần máy với hơn 10 loại khác nhau như kem xoài, trà xanh, chanh leo, đậu xanh, dâu tây, tiramisu, ..."
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>*<span style="color: #ff0000;"><strong> Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi. Cảm ơn các bạn :)</strong></span></p>
 <p style="text-align: center;">————————————-</p>
 <p>Hè đến rồi và kem là thứ tất nhiên không thể thiếu (mùa đông còn không thiếu được nữa là mùa hè). Nhưng mà, tự làm kem ở nhà thế nào cho hiệu quả? Cụ thể là không quá mất thời gian, nguyên liệu không cầu kì hay đắt tiền, và tất nhiên là phải ngon nữa….</p>
 <p>Mình không có máy làm kem và không có ý định mua máy làm kem vì ở bên này một mình, mua một cái máy về cảm giác hơi lãng phí, rồi sau này cũng chưa biết có thể mang nó về Việt Nam được không. Cho nên mình quan tâm đến các công thức và cách làm kem mà không dùng máy hơn.</p>
-<p>Năm ngoái mình có thử một vài công thức, dạng sorbet hay sherbet, tức là kem hoa quả, không béo, không trứng sữa hay bơ kem tươi, thì thấy tạm ổn. Nhưng với kem mà muốn có vị ngậy béo thì quả thật là một vấn đề. Vì nhìn chung là mọi cách làm đều rất mất thời gian, thường kem cho vào tủ là tạo đá, muốn hết đá thì cứ cách 1-2h là phải lấy ra đánh một lần, và nhiều khi làm 3, 4 lần mới thấy tàm tạm. Tức là mất gần như cả ngày mới có hộp kem để ăn. Chưa kể là kem nhiều khi cũng không được dẻo, và đánh mãi mà dăm đá vẫn còn, không được mịn tuyệt đối. Cho nên đợt vừa rồi mình quyết tâm đi tìm các loại mẹo làm kem ngon, đặc biệt là cho những người nào không dùng máy làm kem. Mẹo (tìm được qua Google) cũng nhiều, từ dùng bột, cho nhiều đường, corn syrup cho đến dùng máy như thế nào, rồi khuôn thế nào để hết dăm đá. Nhưng hầu như là không có đột phá. Và đến khi gần như tẩu hỏa nhập ma vì đọc tài liệu về cách làm kem thì mình phát hiện ra “phép màu”, tại <strong><a href="http://www.kevinandamanda.com/recipes/dessert/easy-homemade-ice-cream-without-a-machine.html">đây</a></strong>.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Năm ngoái mình có thử một vài công thức, dạng sorbet hay sherbet, tức là kem hoa quả, không béo, không trứng sữa hay bơ kem tươi, thì thấy tạm ổn. Nhưng với kem mà muốn có vị ngậy béo thì quả thật là một vấn đề. Vì nhìn chung là mọi cách làm đều rất mất thời gian, thường kem cho vào tủ là tạo đá, muốn hết đá thì cứ cách 1-2h là phải lấy ra đánh một lần, và nhiều khi làm 3, 4 lần mới thấy tàm tạm. Tức là mất gần như cả ngày mới có hộp kem để ăn. Chưa kể là kem nhiều khi cũng không được dẻo, và đánh mãi mà dăm đá vẫn còn, không được mịn tuyệt đối. Cho nên đợt vừa rồi mình quyết tâm đi tìm các loại mẹo làm kem ngon, đặc biệt là cho những người nào không dùng máy làm kem. Mẹo (tìm được qua Google) cũng nhiều, từ dùng bột, cho nhiều đường, corn syrup cho đến dùng máy như thế nào, rồi khuôn thế nào để hết dăm đá. Nhưng hầu như là không có đột phá. Và đến khi gần như tẩu hỏa nhập ma vì đọc tài liệu về cách làm kem thì mình phát hiện ra “phép màu”, tại <strong><a href="http://www.kevinandamanda.com/recipes/dessert/easy-homemade-ice-cream-without-a-machine.html">đây</a></strong>.</p>
 <p>Nói thật là mới đầu xem mình nghĩ công thức này chắc có gì “mờ ám”, vì nó đơn giản quá, đơn giản đến mức không thể tin nổi. Nhưng sau khi đọc hơn 300 comment ở phía dưới (gần như chỉ toàn phản hồi là đã làm thành công và hết lời khen ngợi chất lượng kem) thì mình bắt đầu muốn thử…..</p>
 <p>Và bắt đầu với Kem Tiramisu :) ….</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7002507258/" title="IMG_4128-1 by LinhTrang9185, on Flickr"><img alt="Cách làm kem không cần máy" class="aligncenter" height="640" loading="lazy" src="http://farm6.staticflickr.com/5470/7002507258_8c56b3a969_z.jpg" width="427"/></a></p>
@@ -37,10 +33,7 @@ description: "Cách làm kem ngon, siêu đơn giản mà không cần máy vớ
 <li>Dùng máy đánh trứng đánh kem tươi đến khi bông cứng. Không cần đường vì sữa đặc đủ ngọt rồi. Để kem bông nhanh thì <strong>trước khi đánh nên cho âu, que đánh và kem vào ngăn đá để khoảng 10-15 phút.</strong> Và lưu ý là <strong>chỉ đánh đến bông cứng</strong>, khi kem đặc, nhấc que lên thấy chóp, nghiêng hoặc dốc ngược tô thì kem không di chuyển là dừng lại nhé, <strong>đánh quá tay kem sẽ bị tách nước</strong> (hiện tượng: lổn nhổn, lợn cợn, ốc trâu).</li>
 <li>Cho sữa đặc có đường vào âu kem tươi đánh bông và trộn nhẹ nhàng theo kiểu Fold (đảo và hất từ dưới lên, có thể xem thêm hướng dẫn tại <strong><a href="/?p=910">đây</a></strong>), tránh quấy mạnh tay, dễ làm kem bị tách nước. Nếu là hỗn hợp chuẩn thì sẽ khá đặc, mượt và sánh mịn, từ mô tả đúng nhất có lẽ là “creamy” :)</li>
 </ol>
-<p>Cho hỗn hợp vào âu (<strong>nên làm lạnh âu trước bằng cách để ngăn đá 4-6 tiếng trước khi làm kem</strong>). Đậy chặt, để ngăn đá tối thiểu 6-8 tiếng, hoặc lâu hơn đến khi kem đông cứng. <strong>Không cần lấy ra đánh dăm đá gì cả,</strong> kem sẽ tự chuyển thành hỗn hợp mịn dẻo giống kem ngoài hàng và chả có tí đá nào ;) (nếu không tin thì cách khoảng 1-2 tiếng các bạn có thể lấy ra và ăn thử :P)</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Cho hỗn hợp vào âu (<strong>nên làm lạnh âu trước bằng cách để ngăn đá 4-6 tiếng trước khi làm kem</strong>). Đậy chặt, để ngăn đá tối thiểu 6-8 tiếng, hoặc lâu hơn đến khi kem đông cứng. <strong>Không cần lấy ra đánh dăm đá gì cả,</strong> kem sẽ tự chuyển thành hỗn hợp mịn dẻo giống kem ngoài hàng và chả có tí đá nào ;) (nếu không tin thì cách khoảng 1-2 tiếng các bạn có thể lấy ra và ăn thử :P)</p>
 <p>Từ công thức cơ bản này các bạn có thể tùy ý thêm các loại nguyên liệu khác để tạo ra vị theo ý muốn của mình. <strong>Các nguyên liệu cho thêm này được trộn với sữa đặc trước cho hòa quyện, rồi mới trộn tất cả với kem tươi đã đánh bông.</strong> Có một vài lưu ý là:</p>
 <ol>
 <li>Để có chất lượng kem tốt nhất thì <strong>nên dùng kem tươi có hàm lượng béo cao (heavy cream – hàm lượng béo từ 35-40%)</strong> Nếu không thể mua được heavy cream, chỉ có whipping cream (kem tươi có hàm lượng béo khoảng 30%) thì <strong>với mỗi 150gram kem tươi trong công thức, nên dùng thêm 15-20 gram bơ nhạt</strong>. Bơ này sẽ được làm tan chảy (ví dụ, dùng lò vi sóng hoặc chưng cách thủy), để nguội bớt rồi trộn với sữa đặc và các nguyên liệu khác rồi trộn với kem tươi đánh bông.</li>
@@ -74,7 +67,6 @@ description: "Cách làm kem ngon, siêu đơn giản mà không cần máy vớ
 <p>5. Cho kem vào hộp, để ngăn đá tối thiểu 6 tiếng hoặc đến khi kem đông cứng lại. Bảo quản trong tủ đá. Khi măm thì có thể rắc thêm bột cacao và chocolate bào vụn lên mặt kem. Nếu để lâu kem bị cứng, khó múc thì các bạn nhúng que múc kem qua nước nóng, sẽ dễ múc hơn.</p>
 <p style="text-align: center;"><strong><span style="color: #800000;">CHÚC CÁC BẠN THÀNH CÔNG &amp; </span></strong><strong><span style="color: #800000;">NHỚ CHIA SẺ THÀNH QUẢ NHA…. </span></strong></p>
 
-
 <p style="text-align: center;"><strong><span style="color: #800000;">MÌNH ĐỢI TIN CỦA MỌI NGƯỜI ^.^</span></strong></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7148597547/" title="IMG_4126-1 by LinhTrang9185, on Flickr"><img alt="IMG_4126-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8017/7148597547_a354bb2665_z.jpg" width="427"/></a></p>
 <p> </p>
@@ -92,4 +84,4 @@ description: "Cách làm kem ngon, siêu đơn giản mà không cần máy vớ
 <li><a href="/on-lai-bai-cu-kem-bo-flan-dua/">Cách làm kem trái bơ &amp; Flan dừa</a></li>
 </ol>
 <p> </p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

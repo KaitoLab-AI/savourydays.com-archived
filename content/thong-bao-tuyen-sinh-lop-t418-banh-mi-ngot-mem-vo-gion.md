@@ -16,10 +16,7 @@ description: ""
 <span style="color: #000000;"> – Nắm vững và thao tác thành thạo các động tác nhồi bột, đập bột (bằng tay và máy), các cách tạo hình cơ bản (vê tròn, cuộn làm bánh mì gối, vê dài, tết bím kiểu hoa cúc..)</span><br/>
 <span style="color: #000000;"> – Hiểu được vai trò của các nguyên liệu trong bánh và biết cách tự biến tấu công thức theo ý thích. Nhận biết được bột như thế nào là “đạt chuẩn” để cho bánh ngon và biết cách tự điều chỉnh theo điều kiện trong bếp nhà mình để làm được bánh ngon.</span><br/>
 <span style="color: #000000;"> – Hiểu được quá trình tác động của nhiệt vào bánh, biết cách tự chỉnh lò của mình để nướng bánh ngon.</span></p>
-<p><span style="color: #000000;">* Học phí 2.5 triệu VND</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">* Học phí 2.5 triệu VND</span></p>
 <p><span style="color: #000000;">* Thời gian: 2 buổi: thứ 7 ngày 7/4 và thứ 7 ngày 14/4, từ 13.00 đến 18.00.</span></p>
 <p><span style="color: #000000;">* Địa điểm: 26 Bích Câu – Hà Nội</span></p>
 <p><span style="color: #000000;">Tại các buổi học, ngoài kiến thức cơ bản, học viên sẽ tự làm từ A-Z (từ khâu nhồi bột trở đi). Các loại bánh học trên lớp gồm: bánh mì gối trắng, bánh mì ngọt nhân xúc xích, bánh mì vừng/ mè tròn, bánh mì hoa cúc, bánh mì cuộn đường nho và bánh nhân kem trứng. Học viên cũng có bài tập về nhà và có thời gian chữa bài, trao đổi những vấn đề mình còn mắc phải trong bếp với giáo viên.</span></p>
@@ -29,10 +26,7 @@ description: ""
 <p><span style="color: #000000;">Tuy nhiên hiện tại lớp còn một vài chỗ trống, nếu bạn ĐÃ LÀM BÁNH MÌ QUEN, BIẾT CÁCH NHỒI BỘT BÁNH nhưng MUỐN CỦNG CỐ VÀ BỔ SUNG THÊM KĨ NĂNG thì có thể đăng kí học lớp này nhé.</span></p>
 <p><span style="color: #000000;">Lớp sẽ không học các lý thuyết cơ bản. Vì các học viên đều đã từng học qua lý thuyết cơ bản và đã nhồi bột tương đối thành thạo rồi, nên lớp sẽ tập trung vào khâu thực hành. Cụ thể học viên sẽ tự nhồi hai phần bột bánh mì sữa mềm và bánh mì hoa cúc, tạo hình và nướng các loại bánh mì gối trắng, bánh nhân xúc xích và bánh mì hoa cúc.</span></p>
 <p><span style="color: #000000;">* Thời gian học: Chủ nhật ngày 8/4, từ 13.00 đến 18.00</span></p>
-<p><span style="color: #000000;">* Địa điểm: 26 Bích Câu – Hà Nội</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">* Địa điểm: 26 Bích Câu – Hà Nội</span></p>
 <p><span style="color: #000000;">* Học phí: 1.7 triệu VND</span></p>
 <p><span style="color: #000000;">* Đăng kí tại:</span>  <a data-ft='{"tn":"-U"}' data-lynx-mode="origin" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fgoo.gl%2Fforms%2FuKQ4SpDdIL82C9552&amp;h=ATOBxd-bxa9kb20Bk8aj9VIXTklPhtZan-pPrRVTgCRWZKhEqtCGNUTES5dlZHkbK10iACPlMZEOFFRkBQ4xXMwAXbBjw2U6Q6sk-QQWgfhff_VUUSRmOdpO7vdURm0e4Ajtr7ft_cA" rel="nofollow noopener noreferrer" target="_blank">https://goo.gl/forms/uKQ4SpDdIL82C9552</a></p>
 <p><span style="color: #000000;">3. <span style="color: #800000;"><strong>Lớp BÁNH MÌ VỎ GIÒN VIỆT NAM &amp; BAGUETTE ĐƠN GIẢN</strong></span></span></p>
@@ -51,9 +45,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

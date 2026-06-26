@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/10/CupcakeTraXanh.jpg"
 description: "Cách làm cupcake trà xanh kem pho-mát mềm xốp nhanh và đơn giản"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Có nhiều hơn một lần mình đọc thấy hoặc được nghe nhận xét rằng <em>Cupcake chỉ để ngắm thôi chứ ăn thì… í ẹ lắm!! </em>:-S Thật ra nói vậy thì hơi oan cho Cupcake, vì Cupcake vốn dĩ không phải là một loại bánh có công thức riêng, như bánh bơ, Chiffon hay Sponge cake. Cupcake chỉ đơn giản là bánh được đựng trong cái <em>Cup</em> (cốc) cho nên về bản chất Cupcake có thể là mọi loại bánh như Chiffon, Gateau HK, Sponge, Pound Cake, nhưng ở kích thước của 1 cái cốc. Chỉ có điều vì cupcake thường hay có thêm kem trang trí đi kèm, nên cốt bánh mà mọi người hay chọn, như mình để ý thấy, chủ yếu là các cốt nhiều bơ để có thể đỡ được phần kem ở trên – cũng thường là kem bơ, nên với nhiều bạn có thể hơi khô và ngấy quá chăng?</p>
 <p>Mình thì vẫn nghĩ rằng Cupcake là một lựa chọn tốt cho rất nhiều dịp, dù là làm đồ tráng miệng tại nhà, tiệc tùng hay quà tặng đều ổn cả. Món Cupcake của ngày hôm nay là để dành cho một ngày quan trọng sắp đến trong tuần này – 20.10 :) Phần cốt bánh là biến tấu từ một trong những công thức Cupcake được yêu thích nhất trên Savoury Days – cupcake kem tươi. Phần kem là sự kết hợp của kem tươi với cream cheese, ngậy vừa, ngọt xen lẫn vị chua nhẹ, rất hợp với vị trà xanh. Bánh mềm, ẩm, xốp và thơm, có thể ăn nhiều hơn một cái mà không bị ngán :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8093855201/" title="IMG_7599-3 by LinhTrang9185, on Flickr"><img alt="IMG_7599-3" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8332/8093855201_11ef38dd40_z.jpg" width="442"/></a></p>
 <p><strong>Nguyên liệu (12 cupcake đường kính miệng khoảng 5-6cm, cao 3cm)</strong></p>
-<p><span style="color: #800000;"><strong>Phần cốt bánh</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Phần cốt bánh</strong></span></p>
 <ul>
 <li><em>75 gram bột cake flour hoặc bột mỳ đa dụng (bột mì số 8 hoặc bột mì số 11)</em></li>
 <li><em>5 gram bột trà xanh (matcha powder)</em></li>
@@ -50,10 +46,7 @@ description: "Cách làm cupcake trà xanh kem pho-mát mềm xốp nhanh và đ
 <p>(*) <strong><span style="text-decoration: underline;"><em>Ghi chú</em></span>:</strong></p>
 <p>– Lò nướng thông thường cần có chế độ 2 lửa &amp; chỉnh được nhiệt độ &amp; thời gian nướng. Mình không có kinh nghiệm nướng bằng các dụng cụ khác như nồi nướng, lò vi sóng, nồi cơm điện… nên cũng không chắc có thể làm được với các dụng cụ này không</p>
 <p><strong>Cách làm </strong></p>
-<p>* <span style="color: #800000;"><strong>Phần cốt bánh</strong></span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>* <span style="color: #800000;"><strong>Phần cốt bánh</strong></span></p>
 <p>– Phần cốt bánh mình đã có cách làm rất chi tiết kèm hình ảnh tại <a href="/whipped-cream-cupcake-banh-bong-lan-kem-tuoi/">ĐÂY</a>. Điểm khác biệt duy nhất là ở bước (2), các bạn trộn đều bột trà với bột mì, bột nở và muối. Nên rây tất cả các loại bột trước khi trộn để tránh bị vón cục.</p>
 <p>– Bánh làm xong <strong>để nguội hẳn</strong> rồi mới trang trí.</p>
 <p>*<span style="color: #800000;"> <strong>Phần kem </strong></span></p>
@@ -70,7 +63,6 @@ description: "Cách làm cupcake trà xanh kem pho-mát mềm xốp nhanh và đ
 <p style="text-align: center;"><a href="/wp-content/uploads/2012/10/IMG_18431.jpg"><img alt="" class="aligncenter wp-image-3293" height="420" loading="lazy" sizes="(max-width: 414px) 100vw, 414px" src="/wp-content/uploads/2012/10/IMG_18431.jpg" title="IMG_18431" width="414"/></a></p>
 <p>– Hai cách bắt kem cơ bản nhất là:</p>
 
-
 <p style="padding-left: 30px;">+ Cách 1: Cầm túi bắt kem thẳng đứng, vuông góc với mặt bánh. Bắt kem từ ngoài, xoáy trôn ốc vào dần bên trong và cao dần. Với cupcake cỡ này thì mình bắt khoảng 3 vòng. Cách này sẽ cho ra búp kem như bánh mình làm.</p>
 <p style="padding-left: 30px;">+ Cách 2: bắt kiểu hoa hồng (giống như trong <a href="/?p=1398">bài viết này</a>). Các bạn cũng cầm túi kem vuông góc với mặt bánh nhưng bắt đầu từ chính giữa bánh và xoay dần theo vòng tròn từ trong ra ngoài.</p>
 <p>– Sau khi bắt kem xong nên cho cả kem và bánh vào tủ lạnh để khoảng 30-45 phút nữa cho kem cứng lại.</p>
@@ -81,4 +73,4 @@ description: "Cách làm cupcake trà xanh kem pho-mát mềm xốp nhanh và đ
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ mail <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi trường hợp cố tình vi phạm sẽ chịu sự xử lí theo pháp luật.</span></strong></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8093855201/" title="IMG_7599-3 by LinhTrang9185, on Flickr"><br/>
 </a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

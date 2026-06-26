@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2015/11/rollcake-rainbow.jpg"
 description: "Cách làm (kèm video hướng dẫn) bánh cuộn cầu vồng nhiều màu sắc, thơm ngon, xốp mềm với nhân kem tươi và hoa quả"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Xanh xanh đỏ đỏ cho em nhỏ nó mừng :D</p>
 <p>Mà cũng chẳng phải chỉ em nhỏ, cả “em lớn” cũng mừng nữa ấy chứ.</p>
 <p>Mình thích màu sắc, và thích nghịch màu sắc. Cảm giác khi chơi với màu sắc luôn rất dễ chịu, thấy tinh thần thoải mái và tự nhiên vô lo vô nghĩ. Đặc biệt là những sắc màu tươi sáng và rực rỡ – kiểu thường thấy trong những bức tranh của trẻ con, khi mà đôi mắt và tâm hồn còn trong sáng và đơn giản.</p>
 <p>Vì những cảm giác này mà khi mang màu vào trong bếp, thấy việc làm bánh vốn đã rất vui rồi, lại càng hay ho hơn nữa. Mình khám phá ra điều này từ vụ nhuộm màu vỏ bánh trung thu năm nay. Vốn mình vẫn thích vỏ bánh nâu truyền thống, nhưng khi làm ra bánh màu vàng, màu đỏ lại thấy rất thú vị. Vậy là bắt đầu quan tâm tới việc dùng màu nhiều hơn.</p>
-<p>Trong làm bánh thì màu sắc thường dùng nhất là ở các loại kem trang trí bánh bông lan, hay <a href="/banh-quy-trang-tri-duong-p2-cach-lam-royal-icing-sieu-toc-khong-trung-va-cach-trang-tri-banh-quy/" target="_blank"><strong>đường icing cho bánh quy</strong></a>. Nhưng cũng có thể dùng trong cốt bánh, như <a href="/red-velvet-cake/" target="_blank"><strong>bánh red velvet</strong> </a>chẳng hạn. Các kiểu trang trí bánh cầu vồng thì trước giờ mình thấy nhiều nhất là trong phần cốt bánh bông lan to. Khi cắt bánh ra thấy 7 lớp màu chồng lên nhau cực kì bắt mắt. Nhưng làm nguyên một cái bánh 7 tầng với 7 màu chỉ “cho vui” thì hơi… quá đà. Nên mình chọn làm bánh cuộn vì nhanh và dễ giải quyết hơn.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Trong làm bánh thì màu sắc thường dùng nhất là ở các loại kem trang trí bánh bông lan, hay <a href="/banh-quy-trang-tri-duong-p2-cach-lam-royal-icing-sieu-toc-khong-trung-va-cach-trang-tri-banh-quy/" target="_blank"><strong>đường icing cho bánh quy</strong></a>. Nhưng cũng có thể dùng trong cốt bánh, như <a href="/red-velvet-cake/" target="_blank"><strong>bánh red velvet</strong> </a>chẳng hạn. Các kiểu trang trí bánh cầu vồng thì trước giờ mình thấy nhiều nhất là trong phần cốt bánh bông lan to. Khi cắt bánh ra thấy 7 lớp màu chồng lên nhau cực kì bắt mắt. Nhưng làm nguyên một cái bánh 7 tầng với 7 màu chỉ “cho vui” thì hơi… quá đà. Nên mình chọn làm bánh cuộn vì nhanh và dễ giải quyết hơn.</p>
 <p>Món bánh cuộn này dùng phần bạt bánh của <a href="/banh-bong-lan-cuon-kem-tuoi-hoa-qua-japanese-fruit-roll-cake/" target="_blank"><strong>bánh cuộn hoa quả kiểu Nhật</strong></a>. Bạt gateau Nhật Bản rất dễ cuộn, khả năng bị nứt gãy thấp và ăn thì siêu mềm, siêu nhẹ, siêu ngon. Bạt bánh sau khi làm xong được chia thành nhiều phần, trộn với các màu khác nhau rồi nướng. Cách làm khá đơn giản, chỉ cần lưu ý đoạn trộn màu, làm sao để không trộn nhiều quá khiến bột bánh bị xẹp. Để giải quyết việc này  mình có một mẹo nho nhỏ, các bạn xem cụ thể trong phần công thức nhé.</p>
 <p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn chữ nhật 9 x 13 inches (22 x 33 cm) – tuy nhiên, có thể dùng khuôn cỡ nhỏ hơn một chút (VD: 20 x 30 cm) hoặc lớn hơn một chút cũng không sao.</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
@@ -46,10 +42,7 @@ description: "Cách làm (kèm video hướng dẫn) bánh cuộn cầu vồng n
 <p>Video có phụ đề tiếng Anh và tiếng Việt. Khi xem các bạn bật CC và chỉnh Language trong Setting để chọn ngôn ngữ. Ngoài ra, nhớ chọn chế độ 720p (HD) để xem video được rõ nét nhất nha.</p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/b4yh_DHhG_o" width="560"></iframe></div>
 <p> </p>
-<p>Tóm tắt cách làm như sau:</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Tóm tắt cách làm như sau:</p>
 <p>Lót giấy nến/ giấy nướng bánh vào khuôn. Nên quét 1 lớp bơ mỏng lên lòng khuôn để cố định giấy, giúp giấy dính vào thành khuôn và không bị xô lệch khi đổ bột vào khuôn.</p>
 <p>1. Cho lòng đỏ và 20 gram đường vào âu, đánh nhẹ nhàng tới khi đường tan hết, hòa quyện với lòng đỏ.</p>
 <p>2. Cho sữa, dầu ăn, vanilla vào, trộn đều với lòng đỏ.</p>
@@ -65,7 +58,6 @@ description: "Cách làm (kèm video hướng dẫn) bánh cuộn cầu vồng n
 <p>Nhờ màu đã được hòa trộn vào một phần bạt bánh trước nên phần trộn tiếp theo được làm khá nhẹ nhàng và nhanh, không phải trộn quá nhiều -&gt; giữ bạt bánh bông mịn, không bị mất nhiều bọt khí.</p>
 <p>Cho phần bột vừa trộn màu vào túi bắt kem. Lặp lại với các phần bột và màu còn lại.</p>
 <p>Làm nóng lò ở 170 độ C – hai lửa.</p>
-
 
 <p>8. Cắt đầu túi khoảng 1 – 1.5 cm, phun bột thành từng dải vào khuôn. Nếu khi làm hết khuôn mà vẫn còn thừa bột thì phun tiếp vào các dải bột màu trong khuôn. Lưu ý chia bột và phun thêm cho đều, tránh để chỗ nhiều bột, chỗ ít bột.</p>
 <p>Gõ khuôn xuống bàn để làm vỡ bớt bọt khí to trong bột và giúp bột dàn đều, phẳng mặt.</p>
@@ -95,4 +87,4 @@ description: "Cách làm (kèm video hướng dẫn) bánh cuộn cầu vồng n
 <p>——-</p>
 <p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ email: <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi hành động cố tình vi phạm sẽ chịu xử lí theo quy định của pháp luật.</span></strong></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

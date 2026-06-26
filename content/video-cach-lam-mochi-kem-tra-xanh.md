@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2016/09/cách-làm-mochi-kem-trà-xanh-banner.jpg"
 description: "Cách làm mochi kem trà xanh đơn giản, kèm video hướng dẫn chi tiết cách làm kem trà xanh và vỏ mochi vị trà xanh. Bánh có lớp vỏ mềm dẻo, thơm vị trà xanh.."
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Là fan của các thứ dai dai, dẻo dẻo, giòn giòn, nên mochi kem đương nhiên có mặt trong danh sách các món ăn yêu thích  “mọi thời đại” của mình. Tuy kem lạnh dường như hợp với mùa hè hơn, nhưng mochi kem thì ăn vào mùa nào, thời tiết nào cũng đều thấy ngon hết :D Làm mochi lại không hề khó, nếu dùng lò vi sóng thì thời gian nấu bột rất nhanh, chỉ vài phút, nên thay vì bỏ ra vài chục hay vài trăm nghìn để mua mochi kem từ hàng, chúng mình hoàn toàn có thể tự làm được, cả kem cả vỏ với các mùi vị theo sở thích.</p>
 <p>Thật ra thì trước đây mình không tin lắm là có thể tự làm vỏ mochi ngon. Lý do chủ yếu ở phần vỏ, hẳn phải có bí quyết nào đó để vỏ mochi vừa mềm, vừa dẻo lại vừa hơi giòn được như mochi mua ngoài tiệm. Xem cách làm của người Nhật thấy chỉ có bột nếp và nước còn hơi nghi ngờ sao lại dễ thế. Nhưng tới khi tự mình làm thử mới thấy hoá ra nó đúng là dễ như vậy thật. Vỏ mochi không cần pha nhiều nguyên liệu cầu kì, miễn là sau khi làm xong thì để tủ đá luôn, khi ăn mới rã đông thì sẽ tự mềm, dẻo và giòn. Còn bảo quản trong ngăn mát tủ lạnh thì vỏ sẽ nhanh bị khô và cứng.</p>
 <p>Tại SD trước đây mình đã giới thiệu <a href="/mochi-kem-vi-sau-rieng/" target="_blank"><strong>công thức mochi kem sầu riêng</strong></a> rồi, lần này là vị trà xanh với cách làm nhanh gọn và công thức cơ bản nhất, hình như ở Hà Nội mấy hôm nay vẫn đang rất oi nóng, nếu bạn cũng là fan của các loại đồ ăn mềm, dẻo, dai giống mình thì cuối tuần dành chút thời gian thử làm món tráng miệng rất ngon này chiêu đãi cả nhà nhé ;)</p>
@@ -16,10 +15,7 @@ description: "Cách làm mochi kem trà xanh đơn giản, kèm video hướng d
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/OQZjK_YYDog" width="560"></iframe></div>
 <h2></h2>
 <h2>CÁCH LÀM MOCHI KEM TRÀ XANH</h2>
-<p><strong><span style="color: #800000;">Số lượng</span>:</strong> 18 viên kem</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong><span style="color: #800000;">Số lượng</span>:</strong> 18 viên kem</p>
 <p><strong><span style="color: #800000;">Dụng cụ</span></strong>: khuôn bán cầu silicon (loại dùng để làm cake pop), giấy nến, rây bột, cán bột</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <p><strong>A. Phần kem trà xanh</strong></p>
@@ -43,10 +39,7 @@ description: "Cách làm mochi kem trà xanh đơn giản, kèm video hướng d
 <p>– sữa tươi có thể thay bằng nước hoặc nước ép hoa quả với lượng tương đương, nếu dùng sữa tươi có đường thì bớt đường trong công thức</p>
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <p><strong>A. Phần kem trà xanh</strong></p>
-<p>1. Cho kem tươi, sữa đặc và rây bột trà xanh vào âu, đánh tới khi kem bông cứng.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>1. Cho kem tươi, sữa đặc và rây bột trà xanh vào âu, đánh tới khi kem bông cứng.</p>
 <p>2. Chia kem vào các khuôn nhỏ. Bọc kín, để vào tủ đá trong 1 – 2 giờ, tới khi kem đông cứng hoàn toàn.</p>
 <p>3. Nếu không có khuôn cake pop, bạn có thể đổ kem vào hộp, đợi kem đông thì dùng thìa múc kem để múc thành các viên tròn hay bán cầu.</p>
 <p><strong>B. Phần vỏ mochi</strong></p>
@@ -63,7 +56,6 @@ description: "Cách làm mochi kem trà xanh đơn giản, kèm video hướng d
 <p>Bạn có thể chia mochi thành các phần bằng nhau (khoảng 20 – 25 g/ phần) rồi cán mỏng từng phần, nhưng cách này sẽ mất nhiều thời gian hơn cách làm trong video.</p>
 <p>5. Sau khi cán xong bột thì để nguội về nhiệt độ phòng. Có thể để bột vào ngăn mát tủ lạnh nhưng không nên để quá lâu, bột sẽ nhanh bị cứng.</p>
 
-
 <p>6. Rây bột ngô/ bột khoai hay bột bánh dẻo lên mặt bột để chống dính. Dùng vật dụng có cạnh sắc, hình tròn, đường kính 6 – 6.5 cm để cắt bột. Nếu không có dụng cụ thì bạn có thể dùng dao cắt bột thành các miếng vuông cỡ 6 x 6 cm.</p>
 <p>Gỡ từng miếng bột vừa cắt. Chuẩn bị các miếng giấy nilon nhỏ để đặt các phần vỏ bột này lên. Nên dùng nhiều bột khô để chống dính.</p>
 <p>7. Lấy nhân kem từ tủ lạnh ra, đặt nhân vào giữa miếng bột, túm mép lại thật kĩ rồi bọc bánh lại bằng nilon, để bánh trong hộp kín rồi để lại vào ngăn đá.</p>
@@ -73,4 +65,4 @@ description: "Cách làm mochi kem trà xanh đơn giản, kèm video hướng d
 <p>8. Giữ bánh trong ngăn đông lạnh. Trước khi ăn lấy ra để ở nhiệt độ phòng khoảng 10 phút hoặc ngăn mát tủ lạnh 15 – 20 phút để vỏ bánh mềm. Nếu vỏ bánh bị cứng thì cần xem lại khâu bảo quản (bánh có bị hở không) hoặc bột làm bánh có bị khô quá không.</p>
 <p>Về lý thuyết thì các thực phẩm đông lạnh có thể giữ được trong vài tháng, nhưng mochi nhà mình thường hết rất nhanh nên chưa bao giờ có cơ hội thử nghiệm cả.</p>
 <p>Bạn có thể thay đổi mùi vị của nhân kem dựa theo<strong><a href="/cong-thuc-lam-kem-co-ban-khong-dung-may-don-gian-nhanh-va-ngoonnnn-bonus-ct-kem-tiramisu-2/" target="_blank"> công thức tự làm kem tại nhà không dùng máy ở ĐÂY.</a></strong></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -14,10 +14,7 @@ description: ""
 <p><a href="http://www.flickr.com/photos/55490207@N05/5832375669/" title="Thanh pham by LinhTrang9185, on Flickr"><img alt="Thanh pham" class="aligncenter" height="500" loading="lazy" src="http://farm6.static.flickr.com/5302/5832375669_985a902415.jpg" width="329"/></a><br/>
 Ẻm này vừa mới cho xuất xưởng hôm qua. Sorbet sữa chua dâu tây. Thành phần 100% từ thiên nhiên, không chất phụ gia, không chất bảo quản. Cho nên cực kì yên tâm về chất lượng nha. Với cả mình tự làm đúng là thấy kết quả khác hẳn, mở hộp kem ra là nghe mùi dâu thơm lừng rùi. Kem mua ngoài hàng chẳng bao giờ được như thế :) Cách làm thì đơn giản lắm. Vẫn như mọi khi thui. Ah mà lần này mình có cách làm nhanh hơn, tuy không dùng máy nhưng không phải đánh dăm đá bằng tay, mà dùng máy xay, rất nhanh và tiện lợi.</p>
 <p><del>Công thức dự thi của mình ở đây, bạn nào cần thì xem trong link hộ mình nhé: http://www.webtretho.com/forum/f1906/an-kem-khong-so-beo-ma-con-giup-dep-da-kem-sua-chua-dau-tay-cong-thuc-khong-dung-may-82209</del></p>
-<p><strong>Vì cuộc thi đã kết thúc rùi, nên mình post cách làm món này tại blog luôn để cả nhà xem cho tiện, đỡ phải chuyển sang webtretho, và cũng để đề phòng trường hợp webtretho có thể xóa bài sau khi cuộc thi kết thúc :)</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>Vì cuộc thi đã kết thúc rùi, nên mình post cách làm món này tại blog luôn để cả nhà xem cho tiện, đỡ phải chuyển sang webtretho, và cũng để đề phòng trường hợp webtretho có thể xóa bài sau khi cuộc thi kết thúc :)</strong></p>
 <p>Các bạn xem cách làm &amp; hình ảnh hướng dẫn các bước ở <strong><span style="text-decoration: underline;"><a href="/?p=275">đây </a></span></strong>nhé</p>
 <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
@@ -26,9 +23,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

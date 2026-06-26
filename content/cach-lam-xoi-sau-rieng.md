@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2022/04/IMG_8826.jpg"
 description: "Cách làm xôi sầu riêng đơn giản, hạt xôi vàng ươm, dẻo mềm, đặc biệt béo ngậy từ sầu riêng tươi, bùi bùi từ đậu xanh và dừa"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="font-weight: 400; color: #000000;">Mùi sầu riêng bắt đầu về tới ngõ, mình đã phải “sửa soạn” ngay một danh sách các món ăn với sầu riêng rồi 😁 Tranh thủ những ngày trời còn chưa nóng, phải khởi động ngay bằng một nồi xôi sầu riêng. Xôi vàng ươm, tơi mẩy, dẻo mềm, đặc biệt thơm nức, béo ngậy vị sầu, thêm chút bùi bùi của đậu xanh và dừa nạo. Tưởng không ngon mà ngon không tưởng 😛</span></p>
 <p><span style="font-weight: 400; color: #000000;">Tranh thủ những ngày mát mẻ cuối cùng của năm, bạn nào là fan sầu riêng, thích những món xôi nếp dẻo dẻo thì nhất định không nên bỏ qua nha 😉</span></p>
 <h2><strong><span style="color: #993300;">Cách làm XÔI SẦU RIÊNG</span></strong></h2>
@@ -23,10 +22,7 @@ description: "Cách làm xôi sầu riêng đơn giản, hạt xôi vàng ươm,
 <li><span style="color: #000000;"><em><span style="font-weight: 400;">1 nhúm muối nhỏ</span></em></span></li>
 </ul>
 <p><span style="color: #000000;"><strong>Lưu ý: </strong></span><span style="font-weight: 400;">Do sử dụng sầu riêng tươi, xôi sẽ bị nhão nếu dùng nước cốt dừa. Vì vậy cần dùng bột cốt dừa nếu bạn muốn xôi có vị dừa.</span></p>
-<p><span style="color: #993300;"><strong>Cách làm:</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #993300;"><strong>Cách làm:</strong></span></p>
 <p><span style="font-weight: 400; color: #000000;">1. Vo sạch gạo nếp và đậu xanh, cho gạo và đậu vào 2 bát riêng, ngâm trong nước ấm khoảng 3 – 4 tiếng.</span></p>
 <p><span style="font-weight: 400; color: #000000;">2. Hấp đậu xanh:</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Đổ đậu ra rá cho ráo nước, bóp đậu với một chút muối tinh. </span></p>
@@ -36,11 +32,8 @@ description: "Cách làm xôi sầu riêng đơn giản, hạt xôi vàng ươm,
 <p><span style="font-weight: 400; color: #000000;">– Đổ gạo ra rá, để gạo khoảng 20 phút cho ráo nước hoàn toàn, bóp gạo với chút muối tinh.</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Trộn đều gạo với phần đậu xanh đã nghiền nhuyễn.</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Đun sôi nước trong nồi hấp, đồ xôi trong khoảng 15 phút (cách 7 phút đảo 1 lần để xôi khô ráo và tơi hơn). Hấp đến khi ăn thử thấy xôi dẻo mềm. </span></p>
-<p><span style="font-weight: 400; color: #000000;">– Trộn đều xôi với sầu riêng tươi, dừa nạo và bột nước cốt dừa, đồ xôi thêm khoảng 5 phút nữa để làm chín phần sầu riêng và dừa, giúp xôi lâu bị thiu/hỏng hơn.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">– Trộn đều xôi với sầu riêng tươi, dừa nạo và bột nước cốt dừa, đồ xôi thêm khoảng 5 phút nữa để làm chín phần sầu riêng và dừa, giúp xôi lâu bị thiu/hỏng hơn.</span></p>
 <p><span style="font-weight: 400; color: #000000;">4. Trải xôi ra đĩa cho nguội bớt. Khi xôi đã nguội hơn nhưng vẫn còn ấm, trộn đều xôi với đường. Bạn nên cho đường từ từ, ăn thấy vừa rồi thì dừng lại và c</span><span style="font-weight: 400; color: #000000;">ó thể thêm sầu riêng nghiền nhuyễn và dừa nạo lên để trang trí trước khi ăn nhé. </span></p>
 <p><img alt="" class="alignnone wp-image-9107" height="397" loading="lazy" sizes="(max-width: 593px) 100vw, 593px" src="/wp-content/uploads/2022/04/IMG_8873-300x201.jpg" width="593"/></p>
 <p> </p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

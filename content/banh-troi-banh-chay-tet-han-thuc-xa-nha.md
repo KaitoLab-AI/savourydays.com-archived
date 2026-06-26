@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/03/BanhTroiBanhChay1.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Sáng sớm vào Facebook, thấy có tin nhắn của chị, hỏi em làm bánh trôi chay chưa, mai là Tết Hàn thực đấy. Thấy sao mà thời gian trôi nhanh thế, vừa mới hôm qua còn về nhà, chuẩn bị măng, cuốn nem, xào bóng với mẹ, thấm thoắt đã tháng 3 rồi. Rồi thì chớp mắt cái nữa là tháng 5 với rượu nếp và hoa quả, tháng 8 với bánh dẻo bánh nướng…. Năm nay bận quá, quên cả ngày tháng, nhưng may mà vẫn còn kịp, chiều đi làm về chắc chạy ra chợ mua ít bột, mai sẽ vẫn là Tết ;)</p>
 <p style="text-align: center;"><em>Bánh trôi …</em></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6861896450/" title="208721_1615167020965_1290017229_31263538_6535801_n by LinhTrang9185, on Flickr"><img alt="208721_1615167020965_1290017229_31263538_6535801_n" class="aligncenter" height="375" loading="lazy" src="http://farm8.staticflickr.com/7185/6861896450_7c9d39af79.jpg" width="500"/></a></p>
 <p style="text-align: center;"><em>..và bánh chay :)</em></p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/6861882232/" title="IMG_1061 by LinhTrang9185, on Flickr"><img alt="IMG_1061" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7255/6861882232_8e6bf4ac94.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6861882232/" title="IMG_1061 by LinhTrang9185, on Flickr"><img alt="IMG_1061" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7255/6861882232_8e6bf4ac94.jpg" width="500"/></a></p>
 <p>Bánh trong ảnh là bánh làm từ năm ngoái, hoặc năm trước nữa, không nhớ chính xác nhưng mà lâu lắm rùi, từ cái hồi còn dùng máy PnS, cho nên ảnh rất là “khác lạ” :P Bánh trôi bánh chay làm không khó, công thức nếu các bạn Google sẽ thấy rất nhiều. Công thức trong bài này của mình là dành cho các bạn du học sinh, và những bạn nào cũng không có đầy đủ “cơ sở vật chất”, không có bột nếp xay từ gạo mới, không có cối giã đậu xanh,… chỉ có tấm lòng hướng về quê nhà trong một ngày Tết đặc biệt :)</p>
 <p><strong>Nguyên liệu</strong></p>
 <ul>
@@ -39,10 +35,7 @@ description: ""
 <p>Bột nhào xong thì lấy nilon gói thức ăn bọc kín cho khỏi bị khô. Tiếp theo đi chuẩn bị hai loại nhân và vừng rắc mặt bánh.</p>
 <p>2. <strong>Nhân bánh chay: </strong>Đậu xanh có thể ngâm với nước ấm trước khoảng 2-3 tiếng hoặc 1 đêm. Cho đậu xanh vào nồi, đổ nước xâm xấp, để lửa vừa. Sau khi nước sôi được một lúc thì hạ lửa, cho đường và chút xíu muối, nêm sao cho vừa ngọt, đun tiếp đến khi cạn nước. Vừa đun vừa lấy cái thìa hoặc muôi lớn (mình dùng muôi múc canh), nghiền và đánh đậu xanh cho nhuyễn và tơi. Nếu nước cạn quá nhanh mà đậu xanh chưa chín mềm &amp; chưa nhuyễn thì cho thêm nước.</p>
 <p>Đoạn này nghe có vẻ hơi mất thời gian, nhưng đậu ngâm mềm trước thì nghiền cũng nhanh thôi, bạn nào có máy xay hoặc cối giã thì tốt hơn nhiều. Đậu xanh sau khi chín và nghiền nhuyễn thì nắm lại thành từng nắm nhỏ cỡ quả trứng chim cút. <em>Nên nắm đậu lúc đậu còn ấm nóng, đậu kết dính sẽ tốt hơn</em>. Có thể trộn thêm dừa nạo vào trong nhân, tùy thích.</p>
-<p><strong>Nhân bánh trôi: </strong>Đường làm nhân bánh trôi cắt thành miếng nhỏ.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong>Nhân bánh trôi: </strong>Đường làm nhân bánh trôi cắt thành miếng nhỏ.</p>
 <p><strong>Vừng rắc mặt bánh: </strong>Rang chín khoảng 2-3 thìa vừng trắng, để riêng ra bát.</p>
 <p>3. Nặn bánh. Chia khối bột ra làm nhiều phần nhỏ đều nhau &amp; vừa với lượng nhân đã chuẩn bị. Ấn dẹt từng khối bột, đặt nhân vào giữa và gói lại, vo tròn. <em>Cố gắng vo sao cho khít, đừng để không khí lọt vào bên trong nhân, khi đun bánh sẽ dễ bị vỡ.</em></p>
 <p style="text-align: center;"><em>Bánh chay chờ luộc </em></p>
@@ -56,4 +49,4 @@ description: ""
 <p><a href="http://www.flickr.com/photos/55490207@N05/6861880866/" title="IMG_1052 by LinhTrang9185, on Flickr"><img alt="IMG_1052" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7251/6861880866_a151062c12.jpg" width="500"/></a></p>
 <p>Chúc cả nhà sẽ có những đĩa bánh ngon miệng cho Tết bánh trôi bánh chay năm nay :)</p>
 <p> </p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

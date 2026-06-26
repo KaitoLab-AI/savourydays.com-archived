@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/09/CanhCaBung.jpg"
 description: "cách làm canh cà bung thơm ngon với hình ảnh minh họa chi tiết"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Có lẽ là lâu lắm lắm rồi ăn cơm mới có cảm giác sung sướng như bữa tối hôm qua. Mặc dù trên bàn ngoài bát cơm với cốc nước ra thì chỉ có thêm 1 bát khác đựng thức ăn thôi. Nhưng trong cái bát ấy là đậu mềm bùi, thịt béo ngậy, ốc giòn sần sật, nước dùng thanh ngọt xen lẫn vị chua nhẹ và thơm sực mùi tía tô với cà tím, nóng hổi, xì xụp, xì xụp..  ;;)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7988680724/" title="IMG_7217-1 by LinhTrang9185, on Flickr"><img alt="IMG_7217-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8447/7988680724_03b2d7939e_z.jpg" width="439"/></a></p>
 <p>Chẳng nhớ lần cuối cùng mình được ăn món ăn có tía tô là khi nào, hình như là năm ngoái, hoặc cũng có thể là năm kia, không nhớ được chính xác nhưng chắc chắn là lâu lắm lắm rồi. Cho nên đợt vừa rồi nhận được thùng “hàng viện trợ” với 1/2 thùng là rau thơm đủ loại, tía tô, rau răm, mùi tàu, kinh giới… thì có đứa mừng còn hơn bắt được vàng, chạy đi hỏi khắp nơi chuyện làm thế nào để giữ rau được lâu, và lên cả một danh mục món ăn có sử dụng rau tía tô nữa (bạn nào theo dõi Facebook Savoury Days chắc là vẫn còn nhớ :”&gt;).</p>
 <p>Cà tím quả dài ở bên này không được như cà tím tròn ở nhà, cụ thể là không thơm, không dẻo, không bùi bằng. Nhưng chẳng sao, ở xa nhà mà có bát canh như thế này, nhất là trong lúc trời hơi se lạnh là quý lắm rồi, còn mong gì hơn nữa? :)</p>
-<p><span style="color: #800000;"><strong>Nguyên liệu (làm được 1 nồi to cho 4-5 người ăn)</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu (làm được 1 nồi to cho 4-5 người ăn)</strong></span></p>
 <ul>
 <li><em>300 gram đậu phụ</em></li>
 <li><em>200 gram thịt nạc vai hoặc ba chỉ </em></li>
@@ -38,10 +34,7 @@ description: "cách làm canh cà bung thơm ngon với hình ảnh minh họa c
 <p>– Cà tím bỏ cuống, nếu là cà tròn thì bổ múi cau, cà dài thì bổ dọc rồi thái lát mỏng vừa, ngâm vào nước muối loãng cho khỏi thâm.</p>
 <p>– Cà chua bỏ cuống, bổ múi cau.</p>
 <p>– Hành khô, tỏi lột bỏ, băm nhỏ.  Tía tô rửa sạch, xắt sợi.</p>
-<p>2. Bắc nồi lên bếp. Đun nóng 1 thìa canh dầu ăn. Đợi dầu sôi thì cho 1/2 số hành tỏi vào phi thơm. Để lửa to, cho thịt và ốc vào xào sơ qua trong khoảng 2-3 phút, đến khi thịt và ốc chín tái. Múc ra bát để sang một bên (hình 5 – 7).</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>2. Bắc nồi lên bếp. Đun nóng 1 thìa canh dầu ăn. Đợi dầu sôi thì cho 1/2 số hành tỏi vào phi thơm. Để lửa to, cho thịt và ốc vào xào sơ qua trong khoảng 2-3 phút, đến khi thịt và ốc chín tái. Múc ra bát để sang một bên (hình 5 – 7).</p>
 <p>3. Dùng chảo vừa xào thịt, thêm 1 thìa dầu ăn. Phi thơm chỗ hành tỏi còn lại. Cho cà tím vào xào với 1 thìa cafe bột canh hoặc muối. Sau khoảng 2-3 phút, khi cà hơi mềm thì cho cà chua vào. Chắt phần nước xào tiết ra từ thịt và ốc, pha thêm 1/2 thìa cafe bột nghệ, đổ vào chảo. Đảo nhẹ tay thêm 1-2 phút.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7990950425/" title="2012-09-151 by LinhTrang9185, on Flickr"><img alt="2012-09-151" class="aligncenter" height="400" loading="lazy" src="http://farm9.staticflickr.com/8029/7990950425_e78cf32ea2.jpg" width="500"/></a></p>
 <p>4. Cho đậu, thịt và ốc vào. Đảo đều rồi chuyển tất cả vào nồi. Đổ nước ngập nguyên liệu. Đun sôi, hớt bọt nếu có. Nêm lại mắm muối cho vừa ăn. Hạ lửa nhỏ, đun thêm 5-10 phút đến khi cà chín mềm. Trước khi ăn cho tía tô. Đậy vung.</p>
@@ -50,4 +43,4 @@ description: "cách làm canh cà bung thơm ngon với hình ảnh minh họa c
 <p>——-</p>
 <p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ email: <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi hành động cố tình vi phạm sẽ chịu xử lí theo quy định của pháp luật.</span></strong></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2016/08/cách-làm-bánh-trung-thu-banner-300x300.jp
 description: "Video hướng dẫn cách làm bánh trung thu từ A-Z gồm cách trộn bột, cách sên nhân, bọc vỏ và đóng bánh, cách nướng và phết trứng mặt bánh, kèm nhiều mẹo, bí q"
 ---
 
-
 <p>Còn 1 tháng nữa là tới Trung thu. Đến hẹn lại lên. Tuy nhà ít người nhưng vẫn phải bon chen làm vài cái cho “có không khí” :P Năm nay có lọ nước đường để dành từ năm ngoái. Chẳng bao giờ mình có nước đường để lâu đến thế nên “nâng niu” ghê lắm. Dùng cũng thận trọng, không mang đi thử bừa phứa được. Mặc dù thật lòng mà nói thì bánh làm xong không thấy khác nhiều lắm so với nước đường nấu được vài tuần. Chắc khi nào đó phải thử nấu rồi để 2, 3 năm xem sao :D</p>
 <p>Công thức cách làm bánh nướng và các lưu ý khi làm bánh, các vấn đề thường gặp, cách chữa khi nhân hay vỏ bánh bị ướt/ nhão/ chảy dầu/ khô… mình đều đã ghi cả <a href="/tong-hop-cach-lam-banh-nuong-banh-deo-trung-thu-a-z/" target="_blank"><strong>trong các bài cũ rồi</strong></a>. Những kinh nghiệm này không chỉ của bản thân mình mà còn là tổng hợp từ rất nhiều nguồn mình đã tham khảo nữa. <span style="color: #ff0000;"><strong>Mong các bạn đọc kĩ bài cũ trước khi hỏi</strong></span> vì từ đầu mùa tới giờ mình nhận được khá nhiều câu hỏi về bánh trung thu nhưng đều là hỏi về thứ mình đã viết rồi. Nếu còn gặp những câu hỏi như vậy, mình xin phép bỏ qua không trả lời nhé.</p>
 <p>Theo yêu cầu của nhiều bạn, mình quay video lại toàn bộ quá trình làm bánh trung thu dựa trên <a href="/banh-trung-thu-cach-lam-banh-nuong/" target="_blank"><strong>công thức bánh nướng tại blog</strong></a>. Mình không thay đổi gìcông thức cũ, chỉ sửa một chút hỗn hợp nước quét mặt bánh thôi. Video đã được đăng tại kênh <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank"><strong>YouTube của Savoury Days</strong></a>. Các bạn có thể xem tại blog hoặc trực tiếp trên Youtube theo <a href="https://youtu.be/auPR1MQ47eg" target="_blank"><strong>link này</strong></a>. Video có chế độ bản đẹp HD. Các bạn có thể xem hướng dẫn cách chỉnh chế độ HD ở cuối bài viết <strong><a href="/demo-flan-creme-caramel-kem-caramel/" target="_blank">cách làm bánh flan này</a> </strong>nhé.</p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/auPR1MQ47eg" width="560"></iframe></div>
 <p>Danh sách nguyên liệu, hướng dẫn cụ thể từng bước và các chú ý khi làm từng bước đều đã có trong bài <a href="/banh-trung-thu-cach-lam-banh-nuong/" target="_blank"><strong>cách làm bánh nướng cũ</strong></a>, các bạn xem lại trong bài đó nhé. Trong phần dưới mình sẽ ghi lại những điểm và lưu ý quan trọng nhất khi làm bánh nướng, giống như kiểu <em>checklist </em>vậy. Khi làm các bạn có thể dựa vào đây để kiểm soát quy trình, tránh mắc lỗi hoặc sửa sai sót kịp thời.</p>
-<p><strong>1. Vỏ bánh</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>1. Vỏ bánh</strong></p>
 <p>– Mình dùng 1/2 bột bánh ngọt và 1/2 bột bánh mì, nhưng các bạn có thể chỉ dùng 1 loại bột hoặc dùng bột mì đa dụng. <span style="color: #ff0000;">Bột có protein càng thấp thì vỏ bánh càng mềm</span>. Ví dụ: bánh làm với bột mì số 8 sẽ mềm hơn bánh làm với bột mì số 11.</p>
 <p>– <span style="color: #ff0000;">Nước đường nên để tối thiểu 10 – 14 ngày mới dùng,</span> để đảm bảo bánh có màu nâu đẹp. Mình chưa dùng nước đường mua sẵn (golden syrup) để làm bao giờ nhưng đã có bạn đọc làm và phản hồi là ổn.</p>
 <p>– Có thể bỏ trứng nếu ăn chay. Bánh không có trứng sẽ cứng hơn một chút.</p>
@@ -27,10 +23,7 @@ description: "Video hướng dẫn cách làm bánh trung thu từ A-Z gồm cá
 <p>– <span style="color: #ff0000;">Bọc vỏ bánh kĩ, áp cho vỏ sát vào nhân</span>, nếu có không khí giữa vỏ và nhân thì khi nướng, vỏ bánh sẽ rất dễ bị phồng.</p>
 <p>– Nếu làm nhiều, cần che đậy kín để tránh bột bị khô. Sau khi bọc vỏ bánh xong, nên đóng khuôn sớm, càng để lâu, bột càng dai và khô, đóng khuôn sẽ càng khó sắc nét.</p>
 <p><strong>2. Nướng và quét trứng</strong></p>
-<p>– Nhiệt nướng cho lần 1 ở 190 độ C, lần 2 và 3 cao hơn một chút. Thời gian nướng sẽ thay đổi <strong>tuỳ theo lò. </strong>Cách tốt nhất là theo dõi bánh để lấy ra khi bánh đạt. Tiêu chuẩn của lần 1 là vỏ bánh chuyển đục, hơi hanh vàng. Các lần 2 và 3 thì vỏ bánh chuyển vàng, hơi nâu một chút.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>– Nhiệt nướng cho lần 1 ở 190 độ C, lần 2 và 3 cao hơn một chút. Thời gian nướng sẽ thay đổi <strong>tuỳ theo lò. </strong>Cách tốt nhất là theo dõi bánh để lấy ra khi bánh đạt. Tiêu chuẩn của lần 1 là vỏ bánh chuyển đục, hơi hanh vàng. Các lần 2 và 3 thì vỏ bánh chuyển vàng, hơi nâu một chút.</p>
 <p>– Trong video mình có dùng thêm 1 chút mật ong. Các bạn có thể dùng nước đường. Tuy nhiên chỉ dùng với lượng nhỏ. Mật ong và nước đường giúp vỏ bánh bắt lửa và có màu nâu vàng, cháy nhanh hơn. Nhưng không nên dùng quá nhiều vì dễ làm vỏ bánh bị dính ướt, đặc biệt nếu bạn sống ở nơi trời nóng, độ ẩm cao.</p>
 <p>– Nếu làm bánh không trứng hoặc dùng nước đường mới nấu thì nên dùng thêm mật ong/ nước đường trong hỗn hợp quét bánh.</p>
 <p>– Sau khi trộn xong hỗn hợp trứng, <strong>cần lọc qua rây </strong>rồi mới dùng.</p>
@@ -81,7 +74,6 @@ description: "Video hướng dẫn cách làm bánh trung thu từ A-Z gồm cá
 <li><a href="/banh-trung-thu-chia-se-kinh-nghiem-lam-banh-deo/" target="_blank">Giải đáp các thắc mắc/ vấn đề thường gặp khi làm bánh dẻ</a>o</li>
 </ol>
 
-
  <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
 <a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
@@ -89,9 +81,6 @@ description: "Video hướng dẫn cách làm bánh trung thu từ A-Z gồm cá
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

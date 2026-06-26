@@ -12,10 +12,7 @@ description: ""
 <p>Nếu mình không nhầm thì props là từ được giới food photographers dùng để chỉ chung cho tất cả những thứ “đạo cụ” dùng trong một bức ảnh food. Props thì cực cực đa dạng và phong phú, phân loại chắc là rất khó, mình tạm chia thành mấy nhóm props chính mà mọi người hay sử dụng là:</p>
 <p>(1) Các loại nền và khăn lót</p>
 <p>(2) Bát đĩa, cốc chén, thìa, đũa, dao, nĩa…</p>
-<p>(3) Đạo cụ khác: hoa quả, cành lá, sỏi đá, đất cát, tranh ảnh, búp bê, nồi đất, mẹt tre, sỏi đá…</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>(3) Đạo cụ khác: hoa quả, cành lá, sỏi đá, đất cát, tranh ảnh, búp bê, nồi đất, mẹt tre, sỏi đá…</p>
 <p><a href="http://savourydays.files.wordpress.com/2011/09/xcpcrtwiqct3eraddsumzswx_400.jpg"><img alt="" class="aligncenter size-full wp-image-697" height="286" loading="lazy" src="http://savourydays.files.wordpress.com/2011/09/xcpcrtwiqct3eraddsumzswx_400.jpg" title="xCPCRtwiQct3eradDsUMZsWx_400" width="400"/></a></p>
 <p style="text-align: center;"><em>Ảnh minh họa lấy từ Internet</em></p>
 <p>Trong food photography không nhất thiết phải có (nhiều) props. Đôi khi một bức ảnh trơn hoàn toàn sẽ giúp đồ ăn trở nên nổi bật &amp; “thu hút mọi ánh nhìn” hơn ;) Nhưng nhìn chung thì sử dụng props vẫn là việc làm khá phổ biến trong food photography bởi một số lợi ích rất rõ ràng như là:</p>
@@ -25,10 +22,7 @@ description: ""
 <p style="text-align: center;"><a href="http://savourydays.files.wordpress.com/2011/09/5738833576_1572c006d5_b.jpg"><img alt="" class="aligncenter size-full wp-image-698" height="576" loading="lazy" src="http://savourydays.files.wordpress.com/2011/09/5738833576_1572c006d5_b.jpg" title="5738833576_1572c006d5_b" width="384"/></a></p>
 <p style="text-align: center;"><em>Ảnh minh họa lấy từ Internet</em></p>
 <p>Sử dụng các loại props như thế nào cho ảnh đẹp thì rất khó để có thể có một quy tắc hay chuẩn mực chung, vì nó phụ thuộc vào rất nhiều yếu tố như là bản thân loại đồ ăn, ý đồ của người chụp ảnh, và sở thích, thẩm mỹ, con mắt nghệ thuật của người chụp ảnh nữa. Tuy nhiên cũng giống như việc lựa chọn đồ đựng cho thức ăn (thực ra thì đồ đựng này cũng có thể coi là 1 loại props), có một số điểm mà theo mình khi chụp ảnh đồ ăn nên chú ý hơn một chút. Cụ thể là:</p>
-<p>(1) Khi chọn props cho bức ảnh đồ ăn của bạn, hãy dành ra một vài phút ngắm nghía và thử nhận xét khách quan xem <strong><em>các loại props này có phù hợp với đồ ăn của bạn không</em></strong>? Có đồ vật nào không liên quan hoặc thậm chí oánh nhau với một đồ vật khác hay “nhân vật chính của bức ảnh” là món ăn của bạn hay không? Chẳng hạn như là một lọ hoa oải hương khô sẽ rất đẹp trong bức ảnh chụp một món bánh ngọt của Tây nào đó, nhưng có lẽ sẽ không hợp lắm nếu cho vào trong bức ảnh chụp món chè ngô của Việt Nam.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>(1) Khi chọn props cho bức ảnh đồ ăn của bạn, hãy dành ra một vài phút ngắm nghía và thử nhận xét khách quan xem <strong><em>các loại props này có phù hợp với đồ ăn của bạn không</em></strong>? Có đồ vật nào không liên quan hoặc thậm chí oánh nhau với một đồ vật khác hay “nhân vật chính của bức ảnh” là món ăn của bạn hay không? Chẳng hạn như là một lọ hoa oải hương khô sẽ rất đẹp trong bức ảnh chụp một món bánh ngọt của Tây nào đó, nhưng có lẽ sẽ không hợp lắm nếu cho vào trong bức ảnh chụp món chè ngô của Việt Nam.</p>
 <p>Mình thì hay chọn các loại props có liên quan đến đồ ăn, và có 2 cách rất đơn giản để chọn props theo kiểu “liên quan” này. Một là dùng chính các loại nguyên liệu của món ăn để trang trí cho bức ảnh, chẳng hạn như trong bức ảnh dưới đây mình dùng mỳ ý và cà chua là 2 trong số các nguyên liệu chính cho món salad của mình. Cách này đơn giản và rất dễ áp dụng với các món có nguyên liệu “đẹp” (các loại củ quả, các loại hạt…)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5970137489/" title="IMG_4955 by LinhTrang9185, on Flickr"><img alt="IMG_4955" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6143/5970137489_6ca747878a.jpg" width="335"/></a></p>
 <p><span id="more-696"></span></p>
@@ -45,7 +39,6 @@ description: ""
 <p><a href="http://www.flickr.com/photos/55490207@N05/6008301106/" title="Guacamole by LinhTrang9185, on Flickr"><img alt="Guacamole" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6140/6008301106_3dc0430ca7.jpg" width="333"/></a></p>
 <p>Với các bạn dùng máy PnS thì sử dụng nền trắng cũng là một lựa chọn tốt. Ngoài ra, mình có thêm một lời khuyên nữa cho các bạn dùng PnS là dùng các loại màu nền trơn, hoặc có rất rất ít hoa văn thì tốt hơn. Do chức năng chụp Macro của PnS kém nên nếu dùng nền có nhiều họa tiết quá thì khả năng ảnh bị rối thường là rất lớn.</p>
 
-
 <p>(2). Như mình đã nói ở trên, props rất đa dạng, và không nhất thiết cứ phải đầu tư (nhiều xiền) để mua props đẹp thì mới có ảnh đẹp. Khi lên ảnh có nhiều thứ rất khác với khi mình nhìn ở bên ngoài. Chẳng hạn một cái thớt gỗ sần sùi đôi khi làm background còn đẹp hơn là một cái mặt bàn mi-ca phẳng phiu.  Ngoài ra, không nhất thiết phải là một cái khăn trải bàn tử tế. Đôi khi chỉ cần một vài mảnh vải vụn thừa xin từ cửa hàng cắt may cũng đủ rồi. Và cũng không nhất thiết là vải, các chất liệu khác chẳng hạn như giấy (bìa sách, giấy gói quà…) hoặc gỗ (mặt bàn, bậu cửa sổ, mảnh hàng rào cũ..) cũng có thể giúp cho bức ảnh của bạn thêm sinh động và đặc biệt.</p>
 <p><em><strong>Phần 3: Bố cục và góc chụp <em><strong>(sẽ cố gắng viết sớm)</strong></em></strong></em></p>
 <div class="ac advertise-end">
@@ -55,9 +48,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

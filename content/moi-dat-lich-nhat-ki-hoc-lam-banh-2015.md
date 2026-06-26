@@ -12,10 +12,7 @@ description: "nhật kí học làm bánh"
 <p><a href="https://www.flickr.com/photos/55490207@N05/15844050572/" title="redemolchbn2015-1 by LinhTrang9185, on Flickr"><img alt="redemolchbn2015-1" class="aligncenter" height="500" loading="lazy" src="https://farm8.staticflickr.com/7580/15844050572_39c1178244.jpg" width="500"/></a></p>
 <p>12 trang lịch, mỗi tháng đi kèm một món bánh riêng mang hương vị đặc trưng mùa: dâu chín mọng của mùa xuân, pudding hương vị nhiệt đới cho mùa hè, flan bí đỏ thơm béo ngậy trong mùa thu hay pudding bánh mì kem sữa ấm sực cho ngày gió lạnh cuối năm… Hi vọng rằng cùng với sách Nhật kí học làm bánh, cuốn lịch nhỏ này sẽ luôn mang lại cảm hứng lăn vào bếp cho các bạn trong suốt cả 356 ngày của năm, và cùng bạn trải nghiệm thêm một năm đầy ngọt ngào và nồng ấm trong gian bếp của chính mình nữa.</p>
 <p>Dự kiến lịch sẽ được phát hành trên toàn quốc vào cuối tháng 11. Số lượng phát hành có hạn nên để chắc chắn có “em nó” trong tay, các bạn có thể đặt ngay từ bây giờ qua <strong><a href="http://nhanam.com.vn/phu-kien-1033/lich-ban-nhat-ky-hoc-lam-banh">website của Nhã Nam tại đây</a> </strong>nhé.</p>
-<p>Ngoài ra, cũng nhân dịp cuối năm này, mình xin dành ra 5 phần quà nhỏ (mỗi phần là 1 bộ sách + lịch + sổ “Nhật kí học làm bánh”) gửi tặng 5 bạn để lại phản hồi trong link mời đặt lịch tại <a href="https://www.facebook.com/savourydays">Facebook Savoury Day</a>s. Mời các bạn xem thêm chi tiết tại <a href="https://www.facebook.com/savourydays">Facebook của SD</a> nhé.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Ngoài ra, cũng nhân dịp cuối năm này, mình xin dành ra 5 phần quà nhỏ (mỗi phần là 1 bộ sách + lịch + sổ “Nhật kí học làm bánh”) gửi tặng 5 bạn để lại phản hồi trong link mời đặt lịch tại <a href="https://www.facebook.com/savourydays">Facebook Savoury Day</a>s. Mời các bạn xem thêm chi tiết tại <a href="https://www.facebook.com/savourydays">Facebook của SD</a> nhé.</p>
 <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
 <a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
@@ -23,9 +20,6 @@ description: "nhật kí học làm bánh"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

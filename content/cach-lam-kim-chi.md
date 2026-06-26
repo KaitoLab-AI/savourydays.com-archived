@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/07/KimChi.jpg"
 description: "Hai cách làm kim chi Hàn Quốc chuẩn vị được đông đảo bạn đọc của Savoury Days yêu thích, một theo kiểu truyền thống, một hiện đại nhanh gọn."
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi.</strong></span></p>
 <p><span style="color: #ff0000;">* <strong>Toàn bộ nội dung bài viết và hình ảnh thuộc bản quyền của Savoury Days (trừ các hình ảnh &amp; nội dung có ghi nguồn trích dẫn). <span style="text-decoration: underline;">Không sao chép, đăng tải hoặc sử dụng lại dưới bất kì hình thức nào</span> nếu không có sự đồng ý của tác giả.</strong></span></p>
 <p>————————————–</p>
 <p>Đợt này nhiều bài về bánh trái quá, mà lại toàn là chia sẻ kiến thức chứ không phải là công thức, không có món mới, nên mình đổi sang viết công thức một món mặn, coi như để “đổi gió” trước khi tiếp tục với một phần kiến thức mới về làm bánh nhé ;)</p>
-<p>Thật ra công thức làm Kim-chi này mình nhớ là có hứa với nhiều hơn một bạn là sẽ viết từ khá lâu rồi, mà mãi đến bây giờ mới làm được, hi vọng là các bạn ấy không giận vì “tội” hứa rồi mãi mà không làm :”&gt; … nhưng mà, mình rứt là tự tin với cách làm kim chi này :D đặc biệt là về mức độ “authentic” hay là “đúng kiểu Hàn Quốc” của nó.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Thật ra công thức làm Kim-chi này mình nhớ là có hứa với nhiều hơn một bạn là sẽ viết từ khá lâu rồi, mà mãi đến bây giờ mới làm được, hi vọng là các bạn ấy không giận vì “tội” hứa rồi mãi mà không làm :”&gt; … nhưng mà, mình rứt là tự tin với cách làm kim chi này :D đặc biệt là về mức độ “authentic” hay là “đúng kiểu Hàn Quốc” của nó.</p>
 <p>Có lẽ cũng nên giới thiệu một chút về nơi mình tham khảo công thức, là blog <a href="http://www.beyondkimchee.com/" target="_blank">Beyond Kimchee</a>. Chủ blog là một phụ nữ Hàn Quốc nhưng hiện đang sống cùng gia đình tại Canada. Chị ấy không viết thật nhiều công thức, nhưng tất cả đều rất tỉ mỉ và chi tiết, với hình ảnh minh hoạ đẹp và rõ ràng, cho nên đây là một trong những địa chỉ mà mình hay tìm đến khi muốn học nấu món Hàn nhất :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7557898692/" title="IMG_4845 by LinhTrang9185, on Flickr"><img alt="Cách làm kim chi Hàn Quốc" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8144/7557898692_4e43400a7c_z.jpg" width="460"/></a></p>
 <p>Với mình thì Kim-chi là một món ăn cực cực đưa cơm, có lẽ là nhờ sự kết hợp rất hoàn hảo của các loại gia vị có khả năng kích thích sự thèm ăn đặc trưng như là hành, tỏi, gừng, ớt… Kim-chi khi làm cần chuẩn bị nhiều nguyên liệu, nhưng quá trình làm lại không quá phức tạp, và có thể làm nhiều rồi để tủ lạnh ăn dần nữa, nên thực ra không hề mất công tí nào. Beyond Kimchee có giới thiệu 2 cách làm kim chi: cách truyền thống và cách hiện đại, nhanh gọn (Mak-kimchi), mình đã thử cả hai và ở dưới mình ghi lại cả 2 cách làm kim chi này, phần nguyên liệu có điều chỉnh một chút cho phù hợp với khẩu vị và chợ Việt.</p>
@@ -56,10 +52,7 @@ description: "Hai cách làm kim chi Hàn Quốc chuẩn vị được đông đ
 <p><span id="more-2809"></span>1. Cải thảo nếu có phần lá già màu xanh bên ngoài thì các bạn tách bớt &amp; giữ lại để bọc ngoài Kim-chi (hình 1). Dùng dao cắt một đường ngắn chia đôi gốc cải rồi dùng tay “xé” cây cải ra làm đôi (hình 2-3). Rửa sạch đất cát trong bẹ lá.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7557900974/" title="2012-05-20 by LinhTrang9185, on Flickr"><img alt="2012-05-20" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7116/7557900974_66367bb12d.jpg" width="500"/></a></p>
 <p>2. Pha nước muối ngâm cải theo tỉ lệ: <strong>90gram muối biển hạt to : 1 lít nước</strong>. * <em><strong>Lưu ý</strong></em>: <em>dùng muối biển, không dùng muối tinh hay muối i-ốt.</em></p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/7557899772/" title="2012-05-201 by LinhTrang9185, on Flickr"><img alt="2012-05-201" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7249/7557899772_cf19b80b86.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7557899772/" title="2012-05-201 by LinhTrang9185, on Flickr"><img alt="2012-05-201" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7249/7557899772_cf19b80b86.jpg" width="500"/></a></p>
 <p>Rắc muối lên phần bẹ trắng của cây cải (<em>vì phần này dày hơn nên cần rắc muố</em>i). Ngâm cải trong nước muối, rắc thêm muối hạt lên mặt cây cải. Cuối cùng, phủ lá cải thảo già (lá màu xanh, tách ra lúc đầu, nếu có) lên mặt (hình 7). Dùng nan tre hoặc một vật nặng chèn lên cho cải ngập trong nước (hình 8).</p>
 <p>3. Sau khi ngâm khoảng 8 tiếng (<em>mình để qua đêm)</em> thì đảo lại cây cải (quay mặt trên xuống dưới). Ngâm thêm khoảng 4 tiếng, đến khi cọng cải dẻo, có thể bẻ gập mà không bị gãy (hình 10). Rửa lại thật kĩ (2-3 lần) trong nước lạnh, phơi cho cải thật ráo nước trong 1-2 tiếng.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7557899426/" title="2012-05-202 by LinhTrang9185, on Flickr"><img alt="2012-05-202" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7135/7557899426_d7b87f3018.jpg" width="500"/></a></p>
@@ -77,6 +70,5 @@ description: "Hai cách làm kim chi Hàn Quốc chuẩn vị được đông đ
 <p>1. Cải bổ đôi rồi thái ngang cây cải thành các miếng vừa ăn. Rửa cho sạch đất cát.</p>
 <p>2. Pha nước ngâm cải theo tỉ lệ <strong>80gram muối: 1 lít nước</strong>. Ngâm cải vào trong nước muối trong khoảng 4-6 tiếng. Vớt ra, rửa lại trong nước lạnh (2-3 lần). Dùng tay ép hoặc vắt cho cải thật ráo nước.</p>
 
-
 <p>Làm tiếp theo như bước (4) ở trên. Sau khi trộn “nhân” ở bước (5) xong thì các bạn cho cải vào, đeo găng tay rồi trộn thật đều. Kim chi làm theo cách này sẽ thành miếng nhỏ luôn, nên có một ưu điểm nữa là khi ăn không phải cắt, mở hộp ra, lấy và măm măm được luôn :)</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

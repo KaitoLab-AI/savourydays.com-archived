@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/05/KimBap.jpg"
 description: "Kimbap - Com cuon rong bien Han Quoc - Savoury Days"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Trời nắng nóng, làm món này chắc là cũng được nhỉ :)</p>
 <p>Mình thì thích món này lắm, vì nó tiện, lại dễ ăn, và trên tất cả là cực kì đủ chất, cơm có, thịt có, rau có… Chỉ cần 1, 2 cuốn là đủ no rồi. Nhất là những khi đi xa, hoặc đi picnic, thì chỉ cần cuốn một hộp, với bịch nước là yên tâm hoàn toàn về chuyện lương thực. Mà với mình thì món này thực ra còn làm nên bữa trưa tuyệt hảo nữa, vì có thể ăn nguội, nên không cần ra nhà ăn để hâm nóng cơm, ngồi trong phòng xử lí cũng được :D</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7176405056/" title="IMG_4106-1 by LinhTrang9185, on Flickr"><img alt="IMG_4106-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7104/7176405056_8001cd1216_z.jpg" width="463"/></a></p>
 <p>Kimbap cũng không phải là món ăn xa lạ gì nên mình sẽ không giới thiệu nhiều, chỉ điểm qua về sự khác nhau giữa Kimbap của Hàn Quốc và Sushi của Nhật Bản thôi nhé :) Khác biệt thì cũng nhiều, nhưng những điểm cơ bản có lẽ là cơm làm Kimbap cũng thường chỉ trộn với ít muối, dầu vừng và vừng, còn cơm của Sushi sẽ trộn với hỗn hợp dấm đường, nên có vị chua ngọt. Các nguyên liệu cho phần nhân của Kimbap thường là nguyên liệu chín, và thường là được cho thêm gia vị để có vị mặn ngọt vừa ăn, trong khi Sushi thì có thể có các nguyên liệu tươi sống như cá sống… Vì các nguyên liệu làm Kimbap thường có thêm gia vị rùi nên Kimbap cũng không cần chấm thêm với nước tương (xì dầu) như Sushi.</p>
-<p>Còn bi giờ là thành phần nguyên liệu và cách làm cụ thể nè…</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Còn bi giờ là thành phần nguyên liệu và cách làm cụ thể nè…</p>
 <p><strong>Nguyên liệu (4-5 cuộn)</strong></p>
 <ul>
 <li><em>300gram gạo sushi hạt tròn</em></li>
@@ -37,10 +33,7 @@ description: "Kimbap - Com cuon rong bien Han Quoc - Savoury Days"
 <p>– Cuối cùng, có một “nhắn nhủ” là với Kimbap thì hai mùi vị gần như đặc trưng nhất là mùi của lá rong biển (khá tanh) và mùi của dầu vừng. Hai mùi này đều tương đối “đặc biệt”, ai ăn quen rồi thì dễ thích và nghiện lắm (như mình chẳng hạn), nhưng ai không quen có thể sẽ thấy khó ăn. Nên nếu bạn không quen lắm với hai thứ mùi này thì nên cân nhắc một chút trước khi làm nhé. Ah có một mẹo là dùng vừng rang chín có thể giúp át bớt mùi tanh của rong biển, nên các bạn có thể tăng thêm 1 chút vừng rang trộn với cơm :)</p>
 <p>Chú ý về nguyên liệu vậy là hết rồi, giờ mình cùng làm nhé:</p>
 <p><span style="color: #800000;"><strong>Bước 1.</strong></span> Gạo vo sạch. Có một vài công thức hướng dẫn là vo &amp; chắt nước nhiều lần, đến khi nước trong, nhưng mình nghĩ làm vậy chắc mất hết chất dinh dưỡng trong lớp cám bao bên ngoài gạo rồi, nên mình vo và nấu như cơm bình thường thôi. Các bạn nhớ <strong>cho nước vừa phải, để cơm không qúa nát hay quá khô</strong> nhé.</p>
-<p><strong><span style="color: #800000;">Bước 2</span></strong>. Trong lúc đợi cơm chín thì chuẩn bị các nguyên liệu còn lại.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong><span style="color: #800000;">Bước 2</span></strong>. Trong lúc đợi cơm chín thì chuẩn bị các nguyên liệu còn lại.</p>
 <p>1. Cà rốt thái sợi dài khoảng 8-10cm. Đun sôi 1 bát to nước, cho khoảng 1 thìa cafe muối vào nước (sao cho nước có vị mặn vừa như nước canh). Cho cà rốt vào khoảng 1-2 phút rồi vớt ra, xả nước lạnh, xóc cho thật ráo nước. Trộn thêm khoảng 1/3 thìa cafe muối &amp; 2-3 giọt dầu vừng (sao cho cà rốt có vị hơi mặn là được) (hình 2-4)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7176405920/" title="2012-05-062 by LinhTrang9185, on Flickr"><img alt="2012-05-062" class="aligncenter" height="354" loading="lazy" src="http://farm8.staticflickr.com/7230/7176405920_748697f8c1.jpg" width="500"/></a></p>
 <p>2. Rau chân vịt rửa sạch. Làm tương tự như cà rốt (đun sôi nước, cho muối, trần qua..). Rau chân vịt chín nhanh nên chỉ cần nhúng vào nước sôi khoảng 30 giây -1 phút là có thể vớt ra. Sau đó xả nước lạnh sẽ giúp rau giòn và xanh. Sau khi xả nước thì các bạn dùng tay vắt hoặc ép cho rau ra hết nước, rồi trộn với muối và ít dầu vừng cho vừa vị mặn (có thể thay bằng các loại rau khác, như dưa chuột chẳng hạn).</p>
@@ -57,9 +50,8 @@ description: "Kimbap - Com cuon rong bien Han Quoc - Savoury Days"
 <p><a href="/wp-content/uploads/2012/05/20090723-kimbap-rolling.jpg"><img alt="" class="aligncenter size-full wp-image-2555" height="167" loading="lazy" sizes="(max-width: 500px) 100vw, 500px" src="/wp-content/uploads/2012/05/20090723-kimbap-rolling.jpg" title="20090723-kimbap-rolling" width="500"/></a></p>
 <p style="text-align: center;"><em>Hình minh họa từ: http://www.seriouseats.com/recipes/2009/07/how-to-make-kimbap-korean-sushi-recipe.html</em></p>
 
-
 <p>Sau khi cuộn xong hết thì còn 1 bước gần cuối nữa là <strong>bôi dầu vừng lên ngoài cuộn cơm.</strong> Các bạn có thể dùng chổi quét, hoặc dùng tay sạch (hoặc đeo găng), để xoa đều dầu vừng lên bên ngoài cuộn cơm. Việc này sẽ giúp cuộn cơm thơm ngon hơn, và cũng bóng đẹp hơn nữa.</p>
 <p>Thế thôi, có thể măm măm được rồi :) Cầm cả cuộn ăn thật ra đôi khi cũng là một thú vui :D nhưng nếu muốn cho tiện và gọn, và đẹp mắt hơn thì các bạn có thể cắt ra thành các miếng nhỏ, độ dày tùy thích (tầm 1.5cm là tương đối vừa). Lưu ý là <em>dùng dao thật sắc, và trước khi cắt thì bôi lên dao ít dầu vừng</em> để cắt miếng cơm cho đẹp, tránh bị vỡ nhé. À, nếu vẫn thấy nhạt thì có thể chấm thêm với nước tương (hay là xì dầu).</p>
 <p>Chúc các bạn cuối tuần vui vẻ :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7176405286/" title="IMG_4104-1 by LinhTrang9185, on Flickr"><img alt="IMG_4104-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7229/7176405286_44d9af8573_z.jpg" width="433"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

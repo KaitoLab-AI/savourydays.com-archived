@@ -12,10 +12,7 @@ description: ""
 <p>Đến đây thì có thể sẽ có bạn nói là mình thật là “nhiều yêu cầu” :P Về điểm này thì mình cũng công nhận, mình vốn dĩ là đứa kĩ tính, đặc biệt với chuyện ăn uống thì cái sự kĩ này nó tăng gấp 2, 3 lần so với bình thường :D Nhưng mà, nếu như chỉ thay đổi công thức một chút, và chú ý trong quá trình làm hơn một chút để có một món bánh ngon hơn hẳn thì tội gì mà không làm nhỉ?</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6510418453/" title="Flan (Creme Caramel) by LinhTrang9185, on Flickr"><img alt="Flan (Creme Caramel)" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7144/6510418453_76f040fbf8_z.jpg" width="430"/></a></p>
 <p>Ở trong bài này mình chia sẻ một vài kinh nghiệm của bản thân rút ra trong quá trình làm Flan- hi vọng sẽ giúp ích được phần nào cho cả nhà vì Flan có vẻ là món được rất nhiều người ưa thích. Ở trong bài đầu tiên này thì chủ yếu là các lưu ý khi làm Flan, còn công thức cụ thể mình sẽ viết trong phần sau nhé :)</p>
-<p>Làm Flan mình thấy mọi người hay gặp phải mấy vấn đề chính là</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Làm Flan mình thấy mọi người hay gặp phải mấy vấn đề chính là</p>
 <p><span id="more-1453"></span></p>
 <ul>
 <li><strong><em>Bánh không đông</em></strong></li>
@@ -30,10 +27,7 @@ description: ""
 <p>– Thường gặp với phương pháp hấp cách thủy, do hơi nước bốc lên, đọng lại ở nắp vung và chảy xuống gây rỗ bề mặt flan.</p>
 <p>– Cách khắc phục: nguyên nhân là hơi nước chảy xuông nên làm sao ngăn được nước đọng này là ngon lành. Mình làm thì dùng hai cái khăn <strong>sạch và thấm nước tốt. </strong>Một cái phủ lên trên các cốc Flan, một cái phủ lên miệng nồi rồi đậy vung lên. Cẩn thận nữa thì cứ cách khoảng 10-15 phút các bạn có thể mở vung lau sạch nước đọng. Cũng có thể đậy nắp hoặc bọc khuôn Flan bằng nilon thực phẩm, giấy bạc… Nhưng nếu bọc thì nhớ bọc kín vì nếu hở thì hơi nước vẫn có thể đọng lại trên những tấm nắp bọc này.</p>
 <p>3. <span style="text-decoration: underline;"><strong>Flan rỗ đáy hoặc rỗ bên trong</strong></span></p>
-<p>– Có thể gặp với cả hai phương pháp. Nguyên nhân là do nhiệt độ quá cao làm cho hỗn hợp trứng sữa sôi và tạo tổ ong.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>– Có thể gặp với cả hai phương pháp. Nguyên nhân là do nhiệt độ quá cao làm cho hỗn hợp trứng sữa sôi và tạo tổ ong.</p>
 <p>– Cách khắc phục:</p>
 <p>+ Để đúng nhiệt độ quy định. Với <strong>phương pháp hấp</strong>, thường mình đặt bếp ở mức nhỏ nhất, đủ cho nước trong nồi sôi lăn tăn. Với <strong>phương pháp nướng</strong> cách thủy, nhiệt độ nướng mình thấy có thể dao động trong khoảng 150-160 độ tùy lò. Thời gian nướng hay hấp sẽ tùy kích thước khuôn. Các khuôn có thành cao nướng sẽ lâu hơn khuôn thấp.</p>
 <p>+ Chất liệu khuôn và chất liệu khay đặt khuôn (cho phương pháp nướng) đôi khi cũng có ảnh hưởng đến chuyện này. Chẳng hạn khuôn kim loại dẫn nhiệt tốt hơn khuôn sứ. Ngoài ra, đối với <strong>phương pháp nướng, không nên </strong>dùng khay đi kèm với lò nướng, vì khay này tiếp xúc trực tiếp với thành lò cho nên nhiệt sẽ cao hơn -&gt; dễ làm phần đáy flan bị rỗ.</p>
@@ -51,9 +45,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

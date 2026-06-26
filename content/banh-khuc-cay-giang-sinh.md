@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/12/BanhKhucCay1.jpg"
 description: "bánh khúc cây giáng sinh, bánh cuộn, yule log, buche de noel"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
 <p>——————————————</p>
 <p>Đến từ nước Pháp, bánh khúc cây (Yule log/ Buche de Noel) đã trở thành một trong những món bánh mừng Giáng Sinh quen thuộc và phổ biến ở nhiều nơi trên thế giới. Với thành phần cơ bản chỉ gồm bạt bánh cuộn và kem trang trí, bánh khúc cây cũng là một loại bánh cho phép người làm thoải mái sáng tạo và biến tấu. Yule log của mình năm nay sử dụng bạt Chocolate Genoise, tẩm rượu cà phê, nhân kem tươi và phủ Chocolate Ganache bên ngoài. Ý tưởng bắt nguồn từ việc mình muốn làm một khúc cây thực sự là …. khúc cây cho nên kể cả phần “thân gỗ” bên trong mình cũng chọn màu đen thay vì bạt bánh gateau thông thường. Bánh rất mềm, ẩm và tơi xốp, đậm vị Chocolate thơm phức quyện với vị nồng nàn từ rượu và cà phê, nhân kem tươi béo ngậy với lớp Chocolate giòn phủ mặt ngoài… chắc tả đến đây thôi vì nước miếng bắt đầu tứa ra rồi :”&gt;</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/8251071007/" title="IMG_8229-1 by LinhTrang9185, on Flickr"><img alt="IMG_8229-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8197/8251071007_0ef3742a50_z.jpg" width="433"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8251071007/" title="IMG_8229-1 by LinhTrang9185, on Flickr"><img alt="IMG_8229-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8197/8251071007_0ef3742a50_z.jpg" width="433"/></a></p>
 <p>Về phần trang trí thì mình làm khá đơn giản, cũng vì muốn có một khúc cây thực sự giống …. khúc củi, nên mình chỉ dùng Chocolate Ganache phủ ngoài. Ganache sau khi đông cứng giúp cho cây có một lớp vỏ nâu đen bóng xù xì, khá là giống với khúc cây thật, thêm vài cây nấm trắng mọc ra từ bên hông nữa. Mùa đông châu Âu năm nay đến khá sớm, ở nhiều thành phố có tuyết từ tháng 11, nên ảnh chụp của mình cũng lấy cảm hứng từ đây, gửi đến các bạn một Giáng sinh trắng từ châu Âu. Hi vọng cả nhà sẽ thích công thức bánh khúc cây này và chúc các bạn có một tháng 12 ấm áp với Giáng sinh an lành :)</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <p><strong>A. Bạt bánh cuộn </strong></p>
@@ -51,10 +47,7 @@ description: "bánh khúc cây giáng sinh, bánh cuộn, yule log, buche de noe
 <li><em>25gram bơ nhạt</em></li>
 <li><em>230gram kem tươi <em>(whipping/ heavy cream) </em> <em>(<strong>hàm lượng béo 35-40%)</strong></em></em></li>
 </ul>
-<p>(*) Ghi chú: Chocolate mình dùng loại có tỉ lệ cacao là 54%, nếu tỉ lệ cacao thấp hơn 45%, các bạn có thể tăng lượng chocolate trong công thức lên, và giảm kem tươi xuống</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>(*) Ghi chú: Chocolate mình dùng loại có tỉ lệ cacao là 54%, nếu tỉ lệ cacao thấp hơn 45%, các bạn có thể tăng lượng chocolate trong công thức lên, và giảm kem tươi xuống</p>
 <p><span style="color: #800000;"><strong>Dụng cụ</strong></span></p>
 <ul>
 <li>Cân &amp; rây bột</li>
@@ -80,7 +73,6 @@ description: "bánh khúc cây giáng sinh, bánh cuộn, yule log, buche de noe
 <p><a href="http://www.flickr.com/photos/55490207@N05/8251071261/" title="1 by LinhTrang9185, on Flickr"><img alt="1" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8490/8251071261_689484a5e2.jpg" width="500"/></a></p>
 <p>6. Lấy 3 thìa canh hỗn hợp bột trứng vừa trộn, cho vào bát bơ sữa đã chuẩn bị ở bước (3). Cho thêm vanilla, quấy đều cho hòa quyện. Mục đích của việc này là để cho bơ sữa “nhẹ” hơn, dễ trộn với hỗn hợp bột trứng hơn.</p>
 <p>Nhẹ nhàng đổ phần bơ sữa này men theo 1 bên thành âu. Dùng spatula trộn đều.</p>
-
 
 <p>7. Lập tức đổ bột vào khuôn. Dùng spatula hoặc thìa dàn cho mặt bột phẳng. Gõ khuôn xuống bàn vài cái để các bọt khí to vỡ bớt.  Nướng bánh ở 175 độ C trong khoảng 15-20 phút. Thử bánh chín bằng cách ấn nhẹ lên mặt bánh, nếu vết lõm lập tức phồng trở lại là bánh đã chín. Không nên nướng quá lâu sẽ làm cho phần rìa bánh dễ bị khô cứng.</p>
 <p>8. Bánh chín lấy ra khỏi lò. Dùng dao mỏng lách quanh thành khuôn, úp bánh lên rack có phủ sẵn một chiếc khăn sạch khô (hoặc giấy nến rộng hơn kích thước của đáy khay nướng). Bóc bỏ giấy nến ở đáy bánh. Trong lúc bánh còn nóng ấm, nhẹ nhàng cuộn bánh lại (cuộn cả khăn/ giấy) theo chiều ngang của bánh. Mình sẽ có 1 khúc cây dài 30cm. Bánh có thể sẽ hơi nứt một chút trong khi cuộn, đây là hiện tượng bình thường. Để bánh lên rack cho nguội hẳn.</p>
@@ -111,4 +103,4 @@ description: "bánh khúc cây giáng sinh, bánh cuộn, yule log, buche de noe
 <p><a href="http://www.flickr.com/photos/55490207@N05/8252144648/" title="IMG_8217-1 by LinhTrang9185, on Flickr"><img alt="IMG_8217-1" class="aligncenter" height="346" loading="lazy" src="http://farm9.staticflickr.com/8205/8252144648_8bdea38888.jpg" width="500"/></a></p>
 <p>Chúc các bạn có một khúc cây ngon và đẹp mừng Giáng sinh :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8252144526/" title="IMG_8222-1 by LinhTrang9185, on Flickr"><img alt="IMG_8222-1" class="aligncenter" height="500" loading="lazy" src="http://farm9.staticflickr.com/8197/8252144526_e1b4eff4b0.jpg" width="500"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

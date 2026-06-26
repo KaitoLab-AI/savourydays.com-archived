@@ -12,10 +12,7 @@ description: "tự học làm bánh, đánh bông trứng, chóp nhọn, soft pe
 <p><span style="color: #ff0000;">* <strong>Toàn bộ nội dung bài viết và hình ảnh thuộc bản quyền của Savoury Days (trừ các hình ảnh &amp; nội dung có ghi nguồn trích dẫn). K<span style="text-decoration: underline;">hông sao chép, đăng tải hoặc sử dụng lại dưới bất kì hình thức</span> nào nếu không có sự đồng ý của tác giả.</strong></span></p>
 <p>————————————</p>
 <p><em>Xem phần 1 về Chuẩn bị nguyên liệu và dụng cụ tại</em> <a href="/danh-bong-long-trang-trung/"><strong>ĐÂY</strong></a></p>
-<p><strong>II. <span style="text-decoration: underline;">Quy trình đánh bông lòng trắng trứng</span></strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>II. <span style="text-decoration: underline;">Quy trình đánh bông lòng trắng trứng</span></strong></p>
 <p>Thông thường, các bước đánh bông lòng trắng trứng (mà mình hay làm) là:</p>
 <p><span style="color: #800000;"><strong>Bước 1</strong></span>. Cho lòng trắng vào âu. Cho thêm một nhúm nhỏ muối. Để máy đánh trứng ở tốc độ chậm, đánh khoảng 30-45 giây, đến khi lòng trắng trứng nổi bọt khí to<em> </em></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7537332094/" title="IMG_5590 by LinhTrang9185, on Flickr"><img alt="IMG_5590" class="aligncenter" height="334" loading="lazy" src="http://farm9.staticflickr.com/8011/7537332094_aa80585fdd.jpg" width="500"/></a></p>
@@ -25,10 +22,7 @@ description: "tự học làm bánh, đánh bông trứng, chóp nhọn, soft pe
 <p>– Thời gian đánh trứng ở bước 1 có thể lâu hơn 45 giây, tùy tốc độ và công suất máy, nhưng nếu thấy bọt khí nổi to thì các bạn có thể yên tâm là trứng sẽ bông (<em>không bị hỏng)</em> :)</p>
 <p><span style="color: #800000;"><strong>Bước 2.</strong></span> Cho <em>Cream of tartar (hoặc dấm/ nước cốt chanh</em>) vào âu. Tăng tốc độ máy từ chậm lên tốc độ vừa, đánh đến khi trứng bông nhẹ, trắng xốp và có bọt khí nhỏ li ti như bọt xà phòng cạo râu. (Lượng <em>Cream of tartar</em> cần dùng xem trong <a href="/danh-bong-long-trang-trung/">phần 1</a>)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7537331748/" title="IMG_5593 by LinhTrang9185, on Flickr"><img alt="IMG_5593" class="aligncenter" height="334" loading="lazy" src="http://farm8.staticflickr.com/7139/7537331748_f9347051b4.jpg" width="500"/></a></p>
-<p><strong><span style="color: #800000;">Bước 3.</span></strong> Từ từ cho đường vào âu, đồng thời tăng dần tốc độ máy lên cao nhất. <strong>Cho đường từng chút một</strong>, đánh khoảng 10-15 giây rồi cho tiếp để đường có thời gian tan &amp; kết hợp với trứng.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong><span style="color: #800000;">Bước 3.</span></strong> Từ từ cho đường vào âu, đồng thời tăng dần tốc độ máy lên cao nhất. <strong>Cho đường từng chút một</strong>, đánh khoảng 10-15 giây rồi cho tiếp để đường có thời gian tan &amp; kết hợp với trứng.</p>
 <p>Từ bước này, các bạn sẽ thấy trứng biến đổi như sau:</p>
 <p><span id="more-2945"></span></p>
 <p style="padding-left: 30px;">+ Sau khi cho đường vào, các bọt khí trong trứng sẽ nhỏ lại và dần biến mất. Trứng trở nên bóng và có cảm giác “dẻo” hơn, trên mặt trứng bắt đầu xuất hiện các đường “vân” khi chạy máy.</p>
@@ -45,7 +39,6 @@ description: "tự học làm bánh, đánh bông trứng, chóp nhọn, soft pe
 <p><a href="http://www.flickr.com/photos/55490207@N05/7537332506/" title="IMG_2004 by LinhTrang9185, on Flickr"><img alt="IMG_2004" class="aligncenter" height="334" loading="lazy" src="http://farm8.staticflickr.com/7259/7537332506_5db064aeeb.jpg" width="500"/></a></p>
 <p>Tùy theo từng công thức mà trứng sẽ được yêu cầu đánh đến chóp mềm hay chóp cứng hoặc rất cứng cho nên khi làm bánh, nếu chưa quen thì các bạn nhớ đọc kĩ công thức nhé, vì trứng đánh đến độ nào sẽ có ảnh hưởng khá nhiều đến chất lượng của bánh sau khi làm xong.</p>
 
-
 <p>Nếu trứng đã đạt đến bông cứng rồi, mà vẫn đánh tiếp, thì có một khả năng là trứng sẽ bị rời rạc, lồng phồng. Đây là tình trạng trứng bị “khô”, giống như bọt xà phòng loãng ấy. Theo sách thì nếu sử dụng <em>Cream of tartar, </em>sẽ không lo bị rơi vào tình trạng này, kể cả có đánh quá lâu. Mình không biết có thật không, nhưng mình chưa bao giờ bị đánh đến tình trạng này. Mình nghĩ là khi trứng đã đạt đến gần stiff peak rồi thì các bạn có thể giảm bớt tốc độ xuống, đánh đến khi trứng đạt thì dừng lại, như thế sẽ ít có khả năng bị đánh quá đà hơn.</p>
 <p><strong>III. <span style="text-decoration: underline;">Sử dụng lòng trắng trứng đánh bông và các lưu ý khác</span></strong></p>
 <p>– Lòng trắng trứng đánh bông có rất nhiều bọt khí bên trong, các bọt khí này sẽ vỡ khá nhanh nếu để nguyên ở nhiệt độ phòng, cho nên sau khi đánh bông lòng trắng xong, cần <strong>sử dụng ngay, tránh để lâu bọt khí vỡ sẽ mất tác dụng.</strong></p>
@@ -61,9 +54,6 @@ description: "tự học làm bánh, đánh bông trứng, chóp nhọn, soft pe
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

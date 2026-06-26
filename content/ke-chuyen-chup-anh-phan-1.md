@@ -12,10 +12,7 @@ description: ""
 <p><a href="http://www.flickr.com/photos/55490207@N05/5848276966/" title="taking photos by LinhTrang9185, on Flickr"><img alt="taking photos" class="aligncenter" height="278" loading="lazy" src="http://farm3.static.flickr.com/2699/5848276966_89f94ebf3f.jpg" width="500"/></a></p>
 <p style="text-align: center;"><em>(Ảnh: chụp strawberry yogurt verrines :) )</em></p>
 <p>Về chuyện chụp ảnh thì nói thật cho đến bây giờ mình vẫn là amateur chính hiệu. Tuy là bắt đầu chụp từ khoảng 2 năm về trước, nhưng mãi đến gần đây, đúng hơn là từ khi mình bắt đầu blog Savoury Days vào tháng 5/ 2011 thì mình mới thật sự làm quen với cái gọi là food photography (trước đấy thì chủ yếu là chụp để giới thiệu món ăn mới nấu với bạn bè trên Facebook thôi). Vì mới bắt đầu nên kiến thức về chụp ảnh của mình rất rất hạn chế. Nói đúng hơn là mình gần như chả có tí hiểu biết nào về máy ảnh cũng như chụp ảnh cả :”&gt; :”&gt; Khái niệm được khai sáng gần đây nhất là DOF tức Depth of Field (độ sâu/ mờ của ảnh, bạn nào muốn biết thêm thì hỏi Google nha). Trước khi biết đến cái này thì mình chỉ biết là ảnh cần phải có độ mờ tương đối và phù hợp để làm sao cho cái mình muốn nổi thì nổi lên, cái không muốn thì chìm xuống :D). Ngoài ra thì mình cũng không biết dùng Photoshop :-D :-D. Phần mềm mình hay dùng để chỉnh ảnh là một loại phần mềm cực kì đơn giản, kiểu cho trẻ con nghịch ghép ảnh, thêm chữ và tạo phông nền, đường viền, giống như đi chụp ảnh Hàn Quốc ấy.</p>
-<p>Đấy, tóm lại mình cho đến bây giờ vẫn chả biết gì mấy về chuyện chụp ảnh, cho nên cũng không dám viết cái gọi là chia sẻ kinh nghiệm gì. Nhưng bởi vì nấu và chụp là một trong rất ít những việc mà mình thực sự thích và càng làm thì càng khoái hơn, cho nên mình nghĩ là việc ghi lại quá trình nấu và chụp của bản thân thôi cũng tốt. Trước hết nó là ghi chép cho bản thân mình, về sau biết đâu sẽ có ngày muốn đọc lại quãng thời gian của những ngày đầu tập chụp (chắc là sẽ rất vui). Và biết đâu nó cũng có thể có ích ít nhiều đối với các bạn cũng đang trong giai đoạn tập chụp như mình (đúng hơn là mình rất hi vọng sẽ nhận được phản hồi và chia sẻ của các bạn, mục đích chính của blogging là vậy muh :)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Đấy, tóm lại mình cho đến bây giờ vẫn chả biết gì mấy về chuyện chụp ảnh, cho nên cũng không dám viết cái gọi là chia sẻ kinh nghiệm gì. Nhưng bởi vì nấu và chụp là một trong rất ít những việc mà mình thực sự thích và càng làm thì càng khoái hơn, cho nên mình nghĩ là việc ghi lại quá trình nấu và chụp của bản thân thôi cũng tốt. Trước hết nó là ghi chép cho bản thân mình, về sau biết đâu sẽ có ngày muốn đọc lại quãng thời gian của những ngày đầu tập chụp (chắc là sẽ rất vui). Và biết đâu nó cũng có thể có ích ít nhiều đối với các bạn cũng đang trong giai đoạn tập chụp như mình (đúng hơn là mình rất hi vọng sẽ nhận được phản hồi và chia sẻ của các bạn, mục đích chính của blogging là vậy muh :)</p>
 <p><span id="more-304"></span></p>
 <p>Nếu quay lại quá khứ từ 2 năm trở về trước thì chắc chắn là mình không bao giờ nghĩ là có một ngày mình lại thích nấu ăn và chụp ảnh món ăn “điên cuồng” như bi giờ :) Mọi thứ đến cũng rất tự nhiên. Những ngày đầu tiên đi học xa nhà, ăn bánh mỳ với thịt nguội đến bữa thứ 3 thì không chịu nổi cho nên phải mò vào bếp. Bữa ăn đầu tiên nấu mất 2 tiếng mới xong, và thành phẩm cũng không đến nỗi tệ. Vì là lần đầu tiên trong đời nấu được bữa cơm tử tế cho nên nhất định là phải khoe các bạn chứ ;;) cho nên là chụp ảnh. Và cái ảnh đồ ăn đầu tiên của mình trông nó như thế này</p>
 <p><a href="http://savourydays.files.wordpress.com/2011/06/img_01101.jpg"><img alt="" class="aligncenter size-medium wp-image-305" height="225" loading="lazy" src="http://savourydays.files.wordpress.com/2011/06/img_01101.jpg?w=300" title="IMG_01101" width="300"/></a></p>
@@ -25,10 +22,7 @@ description: ""
 <p><a href="http://savourydays.files.wordpress.com/2011/06/picture-025.jpg"><img alt="" class="aligncenter size-medium wp-image-306" height="225" loading="lazy" src="http://savourydays.files.wordpress.com/2011/06/picture-025.jpg?w=300" title="Picture 025" width="300"/></a></p>
 <p style="text-align: center;"><em>(Ảnh: tôm rang)</em></p>
 <p>Sau đấy thì phát hiện ra là chụp từ góc nghiêng có vẻ đẹp hơn, và cũng nên đưa máy ra xa để lấy cả cái bát cái đĩa, vì nhiều khi xem ảnh trên màn hình lớn mà cả màn hình chỉ thấy toàn thịt với rau thì cũng hơi bị… khủng bố. Và thế là mình có những cái ảnh như thế này</p>
-<p><a href="http://savourydays.files.wordpress.com/2011/06/picture-625.jpg"><img alt="" class="aligncenter size-medium wp-image-307" height="210" loading="lazy" src="http://savourydays.files.wordpress.com/2011/06/picture-625.jpg?w=300" title="Picture 625" width="300"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a href="http://savourydays.files.wordpress.com/2011/06/picture-625.jpg"><img alt="" class="aligncenter size-medium wp-image-307" height="210" loading="lazy" src="http://savourydays.files.wordpress.com/2011/06/picture-625.jpg?w=300" title="Picture 625" width="300"/></a></p>
 <p style="text-align: center;"><em>(Ảnh: cơm sườn xào chua ngọt)</em></p>
 <p>Tiếp sau đấy, có đứa tình cờ phát hiện ra là trên máy ảnh có một chế độ hình bông hoa (là chế độ Macro ấy ạ) :D có thể giúp tạo độ sâu cho ảnh bằng cách làm mờ một phần phía sau. Mỗi tội là chụp bằng chế độ này thì phải đưa máy vào rất gần. Và thế là ra đời một se-ri ảnh chụp một góc của đĩa hay bát thức ăn, để vừa đủ gần để dùng “chế độ bông hoa” mà ảnh không bị chỉ toàn thịt là thịt :P Đây là 1 ví dụ</p>
 <p><a href="http://savourydays.files.wordpress.com/2011/06/picture-1442.jpg"><img alt="" class="aligncenter size-medium wp-image-308" height="225" loading="lazy" src="http://savourydays.files.wordpress.com/2011/06/picture-1442.jpg?w=300" title="Picture 1442" width="300"/></a></p>
@@ -46,9 +40,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

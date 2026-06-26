@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2017/01/cách-làm-kim-chi-ngon-banner.jpg"
 description: "Học cách làm kim chi ngon với Savoury Days, hai kiểu: truyền thống và chay (đơn giản, nhanh gọn). Công thức chi tiết kèm video với các mẹo thành công"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Về nhà được dăm hôm, chẳng cảm thấy không khí Tết mấy, chỉ thấy phố xá lúc nào cũng đông nghịt người, xe cộ như mắc cửi, đường tắc khắp mọi nơi. Nhưng sáng nay ra đường, thấy đào, thấy quất, thấy những túi đồ ông Công ông Táo buộc bên cạnh hay trên giỏ xe bỗng có cảm giác xốn xang rất lạ: Tết quả thực đang đến rất gần rồi!</p>
 <p>Tết là dịp của rượu, thịt, các món nhiều dầu mỡ ngấy, nên đồ ghém và các loại dưa chua là một phần không thể thiếu để giúp cho cái dạ dày khỏi bị lệch lạc :P Những năm gần đây, dựa theo các phần hỏi đáp và thống kê của SD thì <strong>kim chi</strong> dường như là món ngày càng được nhiều gia đình ưa chuộng hơn. Mà cũng phải thôi, với vị mặn, chua, cay và hơi ngòn ngọt, cùng những thứ gia vị rất chi là kích thích bao tử như hành, tỏi, gừng… kim chi là món đồ ăn kèm vừa dễ đi cùng các món khác, vừa có thể hỗ trợ tiêu hoá và sức khoẻ nữa.</p>
 <p><a href="/cach-lam-kim-chi/" target="_blank"><strong>Cách làm kim chi</strong> </a>mình đã đăng ở SD từ rất lâu rồi. Cách làm này mình học theo một blogger người Hàn Quốc – <strong><a href="http://www.beyondkimchee.com" target="_blank">Beyond Kimchee</a>. </strong>Blog của chị cũng là nơi mình hay tham khảo nhất khi học nấu các món Hàn vì cảm giác là khẩu vị và cách nấu của chị rất hợp với mình, hướng dẫn cũng cực kì chi tiết và tinh tế nữa.</p>
 <p>Vì ngày càng phổ biến hơn nên mình cũng thấy có rất nhiều cách làm kim chi khác nhau được chia sẻ trên mạng, hầu như công thức nào cũng khẳng định là được học lại từ người Hàn Quốc, tuy là các công thức thì đều khác nhau về nguyên liệu hay tỉ lệ. Thật ra điều này cũng đúng thôi vì một món ăn có thể có nhiều phiên bản khác nhau tuỳ khẩu vị của từng vùng miền hay thậm chí của từng gia đình. Chẳng nói đâu xa, như bún chả, bún nem hay phở tại Hà Nội bán trong các cửa hàng khác nhau cũng đã có cách nấu và hương vị hơi khác rồi.</p>
-<p>Mình thì vẫn trung thành với công thức cũ, nhưng sau khi đã làm rất nhiều mẻ khác nhau, với các loại đồ lên men khác nhau, không chỉ kim chi cải thảo mà cả cải bắp, dưa chuột, rồi dưa muối, cà muối Việt Nam thì mình có rút ra một số kinh nghiệm. Và từ đó sửa lại cho công thức đơn giản, dễ dàng, dễ tìm nguyên liệu hơn, cũng như khả năng thành công (kim chi chắc chắn chua) cao hơn.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Mình thì vẫn trung thành với công thức cũ, nhưng sau khi đã làm rất nhiều mẻ khác nhau, với các loại đồ lên men khác nhau, không chỉ kim chi cải thảo mà cả cải bắp, dưa chuột, rồi dưa muối, cà muối Việt Nam thì mình có rút ra một số kinh nghiệm. Và từ đó sửa lại cho công thức đơn giản, dễ dàng, dễ tìm nguyên liệu hơn, cũng như khả năng thành công (kim chi chắc chắn chua) cao hơn.</p>
 <p>Trong video của ngày hôm nay mình xin giới thiệu với các bạn cách làm 2 loại kim chi: <strong>kim chi truyền thống</strong> theo cách cũ và <strong>kim chi chay</strong> theo kiểu đơn giản, nhanh, gọn, lẹ. So với cách làm kim chi đã đăng tại SD thì cách làm và nguyên liệu trong video mới này có thay đổi đôi chút theo hướng giản tiện hơn nhưng về cơ bản thì vẫn giữ phương thức cũ. Bởi vậy nên phần các bước mình sẽ tóm tắt ngắn gọn thôi và bổ sung một số các kinh nghiệm mới của mình sau rất nhiều mẻ kim chi nhé.</p>
 <p style="text-align: center;"><em>Kim chi chay – giòn, ngon, chua, mặn,  ngọt không kém chút nào so với kim chi truyền thống</em></p>
 <p><img alt="Cách làm kim chi chay" class="aligncenter wp-image-7289 size-large" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2017/01/Cách-làm-kim-chi-chay-1024x683.jpg" width="1024"/></p>
@@ -69,10 +65,7 @@ description: "Học cách làm kim chi ngon với Savoury Days, hai kiểu: truy
 <li>Cà rốt, củ cải trắng, hành xanh… không bắt buộc nhưng mình thấy có thì ngon hơn. Hành xanh có thể thay bằng hẹ</li>
 </ul>
 <p>II. Giải thích thêm về hai loại kim chi và <span style="color: #ff0000;">MỘT VÀI KINH NGHIỆM ĐỂ LÀM KIM CHI THÀNH CÔNG</span></p>
-<p>– Ngay cả người Hàn Quốc cũng có nhiều cách làm kim chi khác nhau với các loại nguyên liệu sử dụng khác nhau. Về cơ bản thì thường gồm các bước là</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>– Ngay cả người Hàn Quốc cũng có nhiều cách làm kim chi khác nhau với các loại nguyên liệu sử dụng khác nhau. Về cơ bản thì thường gồm các bước là</p>
 <ul>
 <li>Ngâm cải với muối hoặc nước muối tới khi cải dẻo giòn, rửa sạch</li>
 <li>Chuẩn bị các loại rau muối cùng</li>
@@ -96,7 +89,6 @@ description: "Học cách làm kim chi ngon với Savoury Days, hai kiểu: truy
 <p>2. Pha nước muối theo tỉ lệ 50 g muối ăn : 1 lít nước. Cho cải vào ngâm. Dùng vật nặng như bát đĩa chèn cho cải ngập hoàn toàn trong nước. Ngâm 8 – 12 giờ tới khi cọng cải mềm dẻo, có thể bẻ gập mà không gãy.</p>
 <p>Nếu làm kim chi chay/ đơn giản thì đun nước tới khi nước ấm khoảng 40 – 50 độ C (nóng hơn nước tắm một chút) rồi ngâm cải trong 4 – 8 giờ tới khi có thể bẻ phần cọng trắng gập xuống mà không gãy (khi ngâm cũng cần chèn cho cải chìm trong nước).</p>
 
-
 <p>3. Vắt thật kiệt nước, để cải khô ráo bớt. Trong khi đợi thì làm phần nhân kim chi.</p>
 <p>4. Rửa sạch tôm, cá khô rồi ninh với 200 ml nước trong khoảng 30 – 40 phút. Lọc lấy nước dùng (ta có khoảng 150 ml nước dùng), để nguội rồi quấy bột nếp vào cho tan. Đun trên lửa vừa, quấy liên tục tới khi bột nếp chín và hỗn hợp chuyển thành cháo loãng. Để nguội.</p>
 <p><em>Nếu làm kim chi chay thì bỏ qua bước này. </em></p>
@@ -112,4 +104,4 @@ description: "Học cách làm kim chi ngon với Savoury Days, hai kiểu: truy
 <li><strong><a href="/com-rang-kim-chi/" target="_blank">Cơm rang kim chi </a></strong></li>
 <li><strong><a href="/kim-chi-toan-tap/" target="_blank">Canh kim chi hải sản</a></strong></li>
 </ul>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

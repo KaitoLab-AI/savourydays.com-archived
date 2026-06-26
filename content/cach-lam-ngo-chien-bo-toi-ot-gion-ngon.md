@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2016/06/Cách-làm-ngô-chiên-bơ-banner.jpg"
 description: "Cách làm ngô chiên bơ giòn ngon như ngoài hàng, thêm gia vị tỏi ớt (không bắt buộc) làm cho món bơ càng hấp dẫn. Công thức ngô chiên bơ kèm theo hình minh.."
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Mùa Ơ-rô đã đến. Từ trong nhà cho tới ngoài ngõ, cờ quạt cổ động treo khắp nơi. Ti vi trong phòng khách cứ hễ khi nào ai đó ở nhà là hoạt động liên tục tới nửa khuya, nếu không phải xem đá bóng thì sẽ là xem bình luận bóng đá. Có bóng rồi, có “cồn” rồi, chỉ còn thiếu đồ nhắm nên bà vợ già tự biết bổn phận của mình: lăn vào bếp thôi!</p>
 <p>Ngô chiên bơ là món nhậu “truyền thống” ở các quán bia tại Việt Nam, hay ít nhất là ở Hà Nội, đúng không nhỉ? Vì nhớ có lần mình làm món này mời khách, khách cứ tấm tắc mãi là chẳng khác gì ở quán bia hơi ở nhà. Món này hai vợ chồng mình đều thích vì dễ ăn, thi thoảng ngồi xem phim có một đĩa cũng hay. Làm lại không mất thời gian lắm, vì mình dùng ngô đóng hộp, bớt được công đoạn xử lí ngô nên loáng cái là xong. Ngô có thể chuẩn bị trước, khi nào ăn thì chiên lại lần nữa nên rất tiện. Từ hồi lâu lắm rồi mình có hứa với một số bạn sẽ đăng công thức mà mãi chưa làm được, nhân dịp này mình ghi lại luôn, cách làm rất đơn giản thôi, nhưng nếu chưa làm bao giờ thì bạn nhớ đọc kĩ các lưu ý nhé.</p>
 <p style="text-align: center;"><em>Ngô mềm ngọt, lại hơi mằn mặn từ lớp vỏ giòn rụm, thêm mùi thơm của bơ, của tỏi và của ớt… </em></p>
 <p><a href=" https://www.flickr.com/photos/savourydays/27693678366/" title=" cách làm ngô chiên bơ by LinhTrang9185, on Flickr"><img alt=" cách làm ngô chiên bơ " class="aligncenter" height="427" loading="lazy" src=" https://c7.staticflickr.com/8/7711/27693678366_3f3e845690_c.jpg " width="640"/></a></p>
-<p> </p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p> </p>
 <h3>CÁCH LÀM NGÔ CHIÊN BƠ</h3>
 <p><strong>NGUYÊN LIỆU (cho 1 đĩa đầy)</strong></p>
 <ul>
@@ -36,10 +32,7 @@ description: "Cách làm ngô chiên bơ giòn ngon như ngoài hàng, thêm gia
 <p>2. Trộn bột năng với muối. Đổ ngô vào bát, cho 25 g bột năng (khoảng 3.5 tbsp) vào, trộn đều nhẹ nhàng. Vì ngô còn ướt nên bột năng sẽ bám quanh ngô. Tiếp tục cho thêm 20 ~ 25 g bột năng nữa, trộn đều để bột năng bám đều khắp ngô. Trộn hai lần sẽ giúp bột năng bám vào ngô tốt hơn và không bị vón cục (trong trường hợp ngô quá ướt). Có thể thêm bột năng nếu cần.</p>
 <p>* <em>Trên mạng có nhiều</em><em> công thức ngô chiên bơ sử dụng các loại bột khác nhau. Với mình thì bột năng là thứ nguyên liệu đơn giản nhưng hiệu quả nhất, nhiều khi còn giòn lâu hơn cả bột chiên giòn. Một số công thức dùng bột custard sư tử (Lion custard powder), trộn thêm vào bột năng để giúp ngô có màu vàng và vị thơm vani. Tuy nhiên mùi thơm này khá là “hoá học” với mình nên mình không dùng.</em></p>
 <p style="text-align: center;">Ngô sau lần trộn bột thứ nhất</p>
-<p><a href=" https://www.flickr.com/gp/savourydays/0h68E0/" title=" cách làm ngô chiên bơ by LinhTrang9185, on Flickr"><img alt=" cách làm ngô chiên bơ " class="aligncenter" height="427" loading="lazy" src=" https://c1.staticflickr.com/8/7370/27693671816_065a823ac3_z.jpg " width="640"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a href=" https://www.flickr.com/gp/savourydays/0h68E0/" title=" cách làm ngô chiên bơ by LinhTrang9185, on Flickr"><img alt=" cách làm ngô chiên bơ " class="aligncenter" height="427" loading="lazy" src=" https://c1.staticflickr.com/8/7370/27693671816_065a823ac3_z.jpg " width="640"/></a></p>
 <p style="text-align: center;">Ngô sau lần trộn bột thứ hai</p>
 <p><a href=" https://www.flickr.com/gp/savourydays/JFE9Wt /" title=" cách làm ngô chiên bơ by LinhTrang9185, on Flickr"><img alt=" cách làm ngô chiên bơ " class="aligncenter" height="427" loading="lazy" src=" https://c7.staticflickr.com/8/7335/27449466070_2061b54529_z.jpg " width="640"/></a></p>
 <p>3. Đổ dầu vào chảo sao cho dầu đủ ngập hạt ngô. Làm nóng dầu ở lửa vừa. Khi dầu đủ nóng thì thả ngô vào, chiên trên lửa vừa trong khoảng 2 ~ 3 phút tới khi lớp bột chín giòn vàng thì vớt ra, để trên đĩa có lót giấy thấm dầu.</p>
@@ -56,9 +49,8 @@ description: "Cách làm ngô chiên bơ giòn ngon như ngoài hàng, thêm gia
 <p><a href=" https://www.flickr.com/gp/savourydays/73148t/" title=" cách làm ngô chiên bơ by LinhTrang9185, on Flickr"><img alt=" cách làm ngô chiên bơ " class="aligncenter" height="427" loading="lazy" src=" https://c1.staticflickr.com/8/7193/27626912152_1d91ca5fd6_z.jpg " width="640"/></a></p>
 <p style="text-align: center;">Vớt ra để trên giấy hút bớt dầu ăn từ ngô</p>
 
-
 <p><a href=" https://www.flickr.com/gp/savourydays/7fAM75/" title=" cách làm ngô chiên bơ by LinhTrang9185, on Flickr"><img alt=" cách làm ngô chiên bơ " class="aligncenter" height="427" loading="lazy" src=" https://c4.staticflickr.com/8/7632/27116976843_a2c4a26fc4_z.jpg " width="640"/></a></p>
 <p>4. Ngay trước khi ăn: Đun chảy 10 g bơ trên lửa nhỏ. Trộn bột tỏi với bột ớt. Cho ngô vào chảo, rắc 1/2 số bột tỏi và ớt trộn đều. Rắc nốt 1/2 bột tỏi ớt còn lại, trộn tới khi bơ, tỏi và ớt thấm vào hạt ngô. Bước này không bắt buộc, các bạn có thể thay bằng các loại gia vị khác để làm ngô với mùi vị mới. VD như bơ và vani hay bơ và lá thơm kiểu Ý (oregano, basil, …) hoặc vị cà ri kiểu Ấn.</p>
 <p style="text-align: center;">Ngô sau khi trộn bơ chảy, tỏi, ớt</p>
 <p><a href=" https://www.flickr.com/gp/savourydays/72WPD2/" title=" cách làm ngô chiên bơ by LinhTrang9185, on Flickr"><img alt=" cách làm ngô chiên bơ " class="aligncenter" height="427" loading="lazy" src=" https://c2.staticflickr.com/8/7743/27116972833_ba662c3390_z.jpg " width="640"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

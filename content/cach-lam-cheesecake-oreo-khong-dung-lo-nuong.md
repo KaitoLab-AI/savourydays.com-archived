@@ -8,8 +8,6 @@ image: "/wp-content/uploads/2016/06/Cách-làm-cheesecake-oreo-không-cần-lò-
 description: "Cách làm cheesecake Oreo không cần lò nướng với video hướng dẫn chi tiết. Oreo cheesecake mềm, mịn, ngọt thanh và mát, tan trong miệng quyện với bánh quy..."
 ---
 
-
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Hình như khá lâu rồi mình không đụng tới lò. Ở bên này trời cũng chưa hẳn là rất nóng đâu, đúng hơn là thời tiết rất đẹp, kiểu mùa Xuân nắng ấm gió nhẹ, làm cho người ta thấy yêu đời và thấy…. lười lao động hơn :P Cho nên kể cả chuyện trong bếp cũng cố gắng cắt giảm tối đa các khâu, làm thứ gì đó đơn giản nhanh gọn nhưng vẫn ngon miệng và ngon mắt.</p>
 <p>Oreo cheesecake (bánh pho-mát Oreo) là một loại bánh rất ngon miệng và siêu dễ làm, dễ tới mức đọc công thức có khi còn tự hỏi có phải là thiếu phần nào đó không. Thành phần chính của Oreo cheesecake là <em>cream cheese </em>hay kem pho-mát, một loại pho-mát tươi màu trắng, mềm, có vị hơi chua và hơi mằn mặn. <em>Cream cheese </em>cũng là nguyên liệu được dùng trong rất nhiều món tráng miệng khác nhau nên nếu bạn chưa biết nhiều về thứ pho-mát rất ngon này thì chỉ cần Google là sẽ có vô cùng nhiều thông tin và cả hình ảnh nữa.</p>
 <p>Loại <em>cream cheese </em>mà mình vẫn dùng từ trước tới giờ là Philadelphia <em>cream cheese </em>của Kraft, mùi vị thơm ngon, không có gì để phàn nàn cả. Ở Việt Nam không rõ có loại này không nhưng một số sản phẩm của hãng khác hiện có thì hình như cũng ổn. <em>Cream cheese </em>có thể tự làm tại nhà bằng cách tách nước sữa chua nhiều béo (sữa chua trong thành phần có kem tươi). <a href="/homemade-cream-cheese-japanese-cotton-souffle/" target="_blank">Các bạn có thể tham khảo cách làm tại đây</a>. Lưu ý là một số công thức hướng dẫn cách tách nước sữa chua thông thường thì không ra được <em>cream cheese </em>đâu nhé, chỉ thành <a href="/cong-thuc-sua-chua-hy-lap-sua-chua-deo/" target="_blank">sữa chua Hy Lạp thôi</a>. Vì yêu cầu cần thiết của <em>cream cheese </em>là phải có độ ngậy nhờ lượng béo cao, mà sữa chua thông thường thì không đáp ứng được điều này.</p>
@@ -18,10 +16,7 @@ description: "Cách làm cheesecake Oreo không cần lò nướng với video h
 <li>Bạn đánh kem bằng máy với công suất thấp, không để kem đủ lạnh -&gt; mất nhiều thời gian để kem đặc lại. Trong quá trình đánh này, kem cũng bị nóng lên do hoạt động của máy nên sẽ dễ bị tách nước (kem có thể chưa kịp đông nhưng đã tách nước rồi).</li>
 <li>Hoặc do đánh kem với tốc độ cao hơi lâu.</li>
 </ul>
-<p>Hai nguyên nhân trên là nguyên nhân chính, nên cách “phòng tránh” kem tách nước cũng đơn giản thôi. Đó là nên dùng kem tươi thật lạnh (có thể để kem vào ngăn đá khoảng 5 phút trước khi đánh kem). Khi đánh nên dùng máy có công suất từ 300W trở lên. Nếu máy có công suất thấp hơn, nên để que đánh và âu đánh kem vào tủ lạnh cho thật lạnh rồi mới đánh. Và sau khi kem đã đặc rồi thì nên đánh ở tốc độ chậm để tránh bị lỡ tay đánh quá đà.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Hai nguyên nhân trên là nguyên nhân chính, nên cách “phòng tránh” kem tách nước cũng đơn giản thôi. Đó là nên dùng kem tươi thật lạnh (có thể để kem vào ngăn đá khoảng 5 phút trước khi đánh kem). Khi đánh nên dùng máy có công suất từ 300W trở lên. Nếu máy có công suất thấp hơn, nên để que đánh và âu đánh kem vào tủ lạnh cho thật lạnh rồi mới đánh. Và sau khi kem đã đặc rồi thì nên đánh ở tốc độ chậm để tránh bị lỡ tay đánh quá đà.</p>
 <p>Món bánh ngày hôm nay của mình ngoài phần kem pho-mát Oreo ra thì còn có thêm một phần sốt kiểu “nhiệt đới” với xoài và chanh leo nữa. Xoài dẻo, chanh leo thơm, vị chua chua ngòn ngọt ăn cùng cheesecake rất ngon, giúp cheesecake bớt ngậy béo và không ngán.</p>
 <p><a href=" https://www.flickr.com/photos/savourydays/27223606054/" title="cách làm cheesecake oreo by LinhTrang9185, on Flickr"><img alt="cách làm cheesecake oreo" class="aligncenter" height="1000" loading="lazy" src=" https://c7.staticflickr.com/8/7257/27223606054_1daa0b3942_c.jpg " width="667"/></a></p>
 <p> </p>
@@ -48,10 +43,7 @@ description: "Cách làm cheesecake Oreo không cần lò nướng với video h
 <li><em>20 – 40 g đường theo khẩu vị </em></li>
 </ul>
 <p>(*) <span style="color: #ff0000;">Không thay gelatin được bằng bột agar, về việc bỏ gelatin ra khỏi công thức, các bạn xem thêm ở cuối bài viết.</span></p>
-<p><span style="color: #800000;"><strong>Cách làm</strong></span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <p>Video các bước làm Oreo cheesecake đã được đăng tại <strong><a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days</a></strong>. Nếu không xem được video tại blog, các bạn có thể xem trực tiếp trong <strong><a href="https://youtu.be/lUf_EzFmwjI" target="_blank">link này</a> </strong>nhé. Video có chế độ bản đẹp HD. Các bạn có thể xem hướng dẫn cách chỉnh chế độ HD ở cuối bài viết <strong><a href="/demo-flan-creme-caramel-kem-caramel/" target="_blank">cách làm bánh flan này.</a> </strong>Ở dưới video là danh sách nguyên liệu và tóm tắt các bước làm bánh nha.</p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/lUf_EzFmwjI" width="560"></iframe></div>
 <p> </p>
@@ -73,6 +65,5 @@ description: "Cách làm cheesecake Oreo không cần lò nướng với video h
 </ul>
 <p>– Nếu bạn không muốn dùng Gelatin, cần đánh kem ở bước (5) tới bông cứng, và để bánh trong tủ lạnh tối thiểu 8 giờ để phần kem thật đặc. Khi lấy bánh ra cần làm nhẹ tay và luôn đảm bảo bánh được bảo quản trong điều kiện nhiệt độ mát mẻ (dưới 23 độ C), nếu không phần kem sẽ mềm và chảy nhanh.</p>
 
-
 <p>– Phần sốt xoài và chanh leo không bắt buộc. Bạn có thể thay bằng các loại sốt hoa quả khác như anh đào, dâu… với cùng một cách làm như trên.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

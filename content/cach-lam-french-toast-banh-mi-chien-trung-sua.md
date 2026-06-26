@@ -8,17 +8,12 @@ image: "/wp-content/uploads/2016/11/cách-làm-french-toast-banner-300x300.jpg"
 description: "Học cách làm french toast với savoury days. French Toast là một kiểu bánh mì chiên với trứng sữa, hai mặt giòn nhưng bên trong lại mềm và thơm ngậy"
 ---
 
-
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Bánh mì ngọt mềm, bánh mì gối hay sandwich không dùng hết, để qua vài ngày đã bị cứng và khô thì đừng vứt đi mà hãy “biến hoá” thành French Toast nhé. Đợt này trời lạnh, nhà mình hay có bánh mì vì thích mùi thơm của bánh mì toả ra từ lò nướng. Làm xong một phần ăn ngay còn một phần “để dành” lại tới khi bánh khô hơn chút</p>
 <p>French Toast là một món ăn rất dễ làm và dễ biến tấu, cũng rất ngon nữa. Bánh mì khô được nhúng trong hỗn hợp trứng sữa thơm mùi va-ni rồi chiên với bơ tới khi hai mặt hơi xém một chút. Hai mặt ngoài này của bánh sẽ hơi giòn trong khi ruột bánh nhờ trứng sữa mà sẽ rất mềm và béo, không còn thấy một chút dấu vết nào của bánh mì cũ khô cứng cả. Khi ăn nếu thấy hơi nhạt có thể dùng kèm với mật ong, mứt hay các loại sy-rô tuỳ thích.</p>
 <p>Món này cả hai vợ chồng mình đều thích. Đợt này trời lạnh rồi, nhà có nhiều bánh mì hơn (tại vì ngửi mùi thơm của bánh mì toả ra từ ngày nướng khi trời lạnh thích lắm), thường chỉ dùng một phần còn “để dành” một phần tới khi bánh mì cũ một chút, khô một chút, cứng một chút thì làm French Toast :)</p>
 <p>Cách làm của món này rất đơn giản, mình có quay một phần ngắn ở cuối video cách làm bánh mì tươi đăng tại <a href="https://youtu.be/hshgtZxKrvY" target="_blank"><strong>ĐÂY</strong></a>. Các bạn xem thêm ghi chú ở dưới video nhé.</p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/hshgtZxKrvY" width="560"></iframe></div>
-<p>Thông thường để làm cho 2 người ăn thì chúng ta sẽ cần:</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Thông thường để làm cho 2 người ăn thì chúng ta sẽ cần:</p>
 <ul>
 <li><em>bánh mì cho 2 người ăn </em></li>
 <li><em>1 quả trứng gà lớn (khoảng 50 g không tính vỏ) </em></li>
@@ -46,4 +41,4 @@ description: "Học cách làm french toast với savoury days. French Toast là
 <li><strong>bánh bị cháy hoặc không giòn: </strong>do thời gian, nhiệt độ chiên bánh chưa hợp lý. Nên chiên ở mức lửa vừa để mặt bánh từ từ vàng và giòn. Nhiệt cao quá bánh sẽ bị cháy nhanh. Chảo quá khô, thiếu bơ cũng làm bánh chín không đều và nhanh cháy.</li>
 </ul>
 <p>Chú ý chắc chỉ có vậy thôi :) Chúc các bạn có món French Toast ngon như ý muốn nhé.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

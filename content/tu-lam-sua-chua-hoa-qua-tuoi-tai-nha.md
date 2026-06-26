@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2014/07/SuaChuaHoaQua.jpg"
 description: "Hướng dẫn cách làm sữa chua hoa quả tại nhà ngon và đơn giản với công thức được nhiều bạn đọc của Savoury Days yêu thích"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Con người ta đôi khi thật là lạ. Đơn giản gọn nhẹ chẳng muốn, lại cứ thích phức tạp hóa vấn đề. Chẳng hạn như nếu muốn ăn sữa chua hoa quả, thì một cốc sữa chua trắng với rất nhiều hoa quả tươi, rõ ràng là vừa tươi mới lại vừa bổ dưỡng. Nhưng mà thế thì chẳng “hay” mấy, phải làm sao quả trộn lẫn được trong sữa, sữa vừa có vị hoa quả, lại vừa có hoa quả miếng, cho được vào hũ nhỏ, đông lại ngon lành, muốn ăn lúc nào là sẵn sàng ngay lúc ấy, như sữa chua hoa quả mua từ siêu thị cơ!!!</p>
 <p>Vì cái sự cầu kì này mà có “đứa” quyết tâm lọ mọ làm thử.  Vừa may giờ lại đang vào mùa hoa quả, nào là dâu các loại, anh đào, rồi thì mơ mận,.. bao nhiêu thứ quả ngon mà một năm chỉ rộ lên trong một vài tháng mùa Hè. Giá cả lại khá là “hạt dẻ”, rất thuận lợi cho việc thí nghiệm món mới: sữa chua hoa quả tươi tại gia :)</p>
 <p>Chẳng có công thức nào để tham khảo, nên tự suy luận vậy: Sữa chua làm thì đơn giản rồi, nhưng cho hoa quả vào trước khi sữa lên men thì chắc hoa quả sẽ chìm hết xuống đáy, chưa kể có thể ảnh hưởng đến men nữa. Nên trộn hoa quả với sữa sau khi lên men chắc sẽ ổn hơn. Nhưng mà như thế thì có thể sữa sẽ hơi bị lỏng do nước từ hoa quả. Vậy chắc là sẽ cần một ít chất giúp đông, Gelatin chẳng hạn… Thí nghiệm thế là bắt đầu với sữa chua tự làm, quả tươi và Gelatin.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/14631559021/" title="IMG_8119-1 by LinhTrang9185, on Flickr"><img alt="Cách làm sữa chua hoa quả" class="aligncenter" height="359" loading="lazy" src="https://farm4.staticflickr.com/3902/14631559021_2652988ac2.jpg" width="500"/></a></p>
-<p>Kết quả rất mĩ mãn, sữa không chỉ có vị hoa quả mà còn có cả các miếng quả tươi lẫn bên trong, so với sữa chua hoa quả siêu thị thì mùi vị tươi mới, hoàn toàn tự nhiên, không có hương liệu nhân tạo, lại chất lượng và hợp khẩu vị hơn vì là sữa chua tự làm. Gelatin giúp cho sữa đặc khá tốt, có thể giữ được tương đối lâu trong tủ lạnh. Mình chia sẻ lại cách làm ở đây, bạn nào thích món này thì thử xem sao nhé ;)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Kết quả rất mĩ mãn, sữa không chỉ có vị hoa quả mà còn có cả các miếng quả tươi lẫn bên trong, so với sữa chua hoa quả siêu thị thì mùi vị tươi mới, hoàn toàn tự nhiên, không có hương liệu nhân tạo, lại chất lượng và hợp khẩu vị hơn vì là sữa chua tự làm. Gelatin giúp cho sữa đặc khá tốt, có thể giữ được tương đối lâu trong tủ lạnh. Mình chia sẻ lại cách làm ở đây, bạn nào thích món này thì thử xem sao nhé ;)</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu </strong></span></p>
 <ul>
 <li><em>500 ml sữa chua có đường</em></li>
@@ -33,10 +29,7 @@ description: "Hướng dẫn cách làm sữa chua hoa quả tại nhà ngon và
 <p>* <em>Lượng đường có thể điều chỉnh tùy theo độ chua của quả. Có thể bỏ qua đường nếu dùng loại quả rất ngọt như xoài. Nhưng nên cho nước vì sẽ cần đun quả nên có ít nước sẽ tốt hơn.</em></p>
 <p>3. Ngâm Gelatin trong nước lạnh cho Gelatin nở mềm. Nên dùng Gelatin dạng lá vì thường sẽ có mùi thơm hơn Gelatin dạng bột.</p>
 <p>4. Sau khoảng 1.5h thì bắc nồi lên bếp, để lửa vừa, thi thoảng quấy đều. Đun đến khi hỗn hợp sôi thì hạ lửa nhỏ, đun thêm khoảng 3 – 5 phút. Thời gian đun có thể ngắn hoặc dài hơn tùy loại quả (cứng hay mềm, nhiều hay ít nước). Làm sao để quả hơi mềm và có chút nước trong nồi, nhưng quả không bị nát là được. Tắt bếp, bắc nồi ra khỏi bếp. Vắt lá Gelatin cho ráo nước, cho vào nồi, quấy thật đều để Gelatin tan hết (nếu dùng Gelatin bột thì đổ cả phần nước ngâm vào nồi). Để nguội.</p>
-<p style="text-align: center;"><em>Xoài sau khi đun xong</em></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p style="text-align: center;"><em>Xoài sau khi đun xong</em></p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/14448180699/" title="IMG_5736 by LinhTrang9185, on Flickr"><img alt="IMG_5736" class="aligncenter" height="333" loading="lazy" src="https://farm6.staticflickr.com/5481/14448180699_2c58074bc0.jpg" width="500"/></a></p>
 <p>5. Sữa chua sau khi đã đông và đủ chua thì lấy ra, dùng thìa quấy đều. Nếu sữa chua quá đặc, có thể cho chút sữa tươi vào rồi lọc qua rây cho sữa loãng hơn. Trộn sữa chua với phần hoa quả đã nguội. Chia vào các lọ sạch (lọ đã tiệt trùng và lau khô). Để sữa chua vào tủ lạnh. Sau khoảng 2 – 3 giờ sữa sẽ đông lại. Bảo quản lạnh và dùng trong khoảng 5 ngày.</p>
 <p style="text-align: center;"><em>Sữa chua sau khi đã ủ đủ đông và chua </em></p>
@@ -53,4 +46,4 @@ description: "Hướng dẫn cách làm sữa chua hoa quả tại nhà ngon và
 <ul>
 <li><a href="/tu-lam-sua-chua-tai-nha-nhung-viec-nen-va-khong-nen-lam/" target="_blank">Tổng hợp về loạt bài “Cách làm sữa chua tại nhà: Các công thức và cách khắc phục các vấn đề thường gặp”</a></li>
 </ul>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

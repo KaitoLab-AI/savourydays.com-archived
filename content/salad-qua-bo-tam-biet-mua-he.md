@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2011/08/salad-qua-bo.jpg"
 description: "Học cách làm salad quả bơ trộn tôm cùng Savoury Days. Bơ ngậy với tôm giòn thêm chút chua chua ngòn ngọt từ sốt dầu dấm là món ăn ngon miệng và tốt cho sức"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Thế là sắp hết mùa hè rồi. Nhanh quá. Trên cây lá đã bắt đầu chuyển vàng, thời tiết cũng mát mẻ dễ chịu hơn. Phố xá cũng dường như đông vui tấp nập hơn nhờ sinh viên quay về (hoặc chuyển đến) chuẩn bị cho năm học mới. Tự nhiên muốn làm một món gì đấy để đánh dấu khoảng thời gian chuyển giao giữa hai mùa này, một thứ gì mà chỉ nghe tên cũng gợi cho người ta cảm giác mát mẻ, và nhiều màu sắc, đúng kiểu “mùa hè” :) Và nghĩ ngay đến salad. Màu xanh của quả bơ, đỏ mọng của cà chua chín, hồng tươi của tôm hấp điểm chút vàng tuy là chưa thật đủ nhưng chắc cũng lưu lại được phần nào chút rực rỡ và cả hương vị của mùa hè, nhỉ?</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6099546214/" title="Avocado salad by LinhTrang9185, on Flickr"><img alt="Avocado salad " class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6067/6099546214_6137b7c6e7.jpg" width="335"/></a></p>
 <p><strong>Nguyên liệu (4 phần ăn)</strong></p>
@@ -22,10 +21,7 @@ description: "Học cách làm salad quả bơ trộn tôm cùng Savoury Days. B
 <li><em>       1 cây hành xanh, thái khoanh nhỏ phần màu xanh</em></li>
 </ul>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6099546288/" title="Avocado salad - method 1 by LinhTrang9185, on Flickr"><img alt="Avocado salad - method 1" class="aligncenter" height="361" loading="lazy" src="http://farm7.static.flickr.com/6190/6099546288_4df5f81a46.jpg" width="500"/></a></p>
-<p><strong>Dressing (nước sốt)</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>Dressing (nước sốt)</strong></p>
 <ul>
 <li><em>       2 tép tỏi băm nhỏ</em></li>
 <li><em>       1 thìa canh nước cốt chanh</em></li>
@@ -41,7 +37,4 @@ description: "Học cách làm salad quả bơ trộn tôm cùng Savoury Days. B
 <p>3. Rưới dressing lên salad. Dùng lạnh (có thể dùng kèm bánh mỳ khô, rất ngon ;) )</p>
 <p>Enjoy!</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6098998885/" title="Avocado salad by LinhTrang9185, on Flickr"><img alt="Avocado salad " class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6203/6098998885_1a91de0c87.jpg" width="360"/></a></p>
-<div align="center" id="google-ads-body-post-end">
 
-
-</div><!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

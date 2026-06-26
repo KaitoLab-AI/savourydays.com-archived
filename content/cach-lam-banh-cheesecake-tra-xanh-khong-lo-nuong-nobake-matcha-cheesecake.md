@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2016/06/Cách-làm-cheesecake-trà-xanh-banner.jpg"
 description: "Cách làm bánh cheesecake trà xanh không cần lò nướng: bánh mềm mịn, thơm ngậy với vị trà xanh thanh mát và tan ngay khi bỏ vào miệng. Công thức kèm video"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>(*)(*)(*) <span style="color: #ff0000;"><strong>CHÚ Ý: Ở cuối bài có Mini game với quà tặng, cả nhà đừng bỏ qua nhé</strong> </span>:)</p>
 <p>Mình thích vị trà xanh, dù là dùng làm đồ uống hay trong các món ăn, món tráng miệng. Mỗi khi ngửi hay nếm thử vị trà xanh là đều có cảm giác nhẹ bẫng và sảng khoái, giống như mọi thứ nặng nề trong lòng đều bị quét sạch ấy. Có  lẽ nhờ kiểu hương vị kì diệu này mà trà xanh là thứ nguyên liệu lí tưởng để kết hợp trong những món vốn nhiều kem và bơ như bánh pho-mát <em>cheesecake </em>hay bánh <em>mousse. </em></p>
 <p>Công thức bánh pho-mát trà xanh kiểu không cần lò nướng này  mình mới thử thôi nhưng rất ưng ở nhiều điểm. Bánh có độ đậm đà và ngậy nhất định từ kem tươi, pho-mát và lòng đỏ trứng, nhưng vì có trà xanh nên ăn không thấy ngấy. Phần <em>ladyfingers </em>hay bánh Sampa vẫn hữu dụng như  mọi khi, mềm xốp chẳng khác gì bánh bông lan cả. Và điểm mà mình ưng nhất là tỉ lệ các thành phần nguyên liệu đạt được ngưỡng vừa chuẩn, làm cho bánh đủ đông nhưng không tới độ đông chắc. Bánh cắt ra vẫn đẹp mịn màng nhưng có một chút “mướt” kiểu <em>cheesecake, </em>và khi ăn thì tan ngay trong miệng. Điểm này quan trọng lắm vì với những món như kiểu <em>cheesecake, </em>chỉ cần lệch chút thôi là bánh có thể cứng như thạch hay panna cotta rồi.</p>
 <p><a href=" https://www.flickr.com/photos/savourydays/27719121790/" title=" cách làm bánh cheesecake trà xanh by LinhTrang9185, on Flickr"><img alt=" cách làm bánh cheesecake trà xanh " class="aligncenter" height="1000" loading="lazy" src=" https://c7.staticflickr.com/8/7709/27719121790_22ffd05288_z.jpg " width="667"/></a></p>
 <h2><strong>CÁCH LÀM BÁNH CHEESECAKE TRÀ XANH KHÔNG LÒ NƯỚNG – NOBAKE MATCHA CHEESECAKE</strong></h2>
-<p><span style="color: #800000;"><strong>Thành phẩm</strong></span>: 1 bánh tròn đường kính 18 cm cao 4 – 5 cm</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Thành phẩm</strong></span>: 1 bánh tròn đường kính 18 cm cao 4 – 5 cm</p>
 <p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: 1 khuôn tròn đế rời đường kính 18 cm hoặc 1 ring mousse đường kính tương tự</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <ul>
@@ -47,10 +43,7 @@ description: "Cách làm bánh cheesecake trà xanh không cần lò nướng: b
 <ul>
 <li>Lưu ý: Nếu kem trứng đặc sệt nhưng còn mùi tanh hay vị bột là do nấu ở lửa quá lớn, nước bay hơi nhanh trong khi kem trứng chưa chín hoàn toàn. Cách khắc phục: đổ thêm chút kem hay sữa vào hỗn hợp, quấy đều cho hỗn hợp loãng hơn rồi nấu trên lửa nhỏ nhất tới khi kem đặc và chín hẳn (quấy đều trong khi đun).</li>
 </ul>
-<p>4. Hoà bột trà xanh với nước nóng tới khi ta có hỗn hợp trà xanh sệt.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>4. Hoà bột trà xanh với nước nóng tới khi ta có hỗn hợp trà xanh sệt.</p>
 <p>5. Cho cream cheese, 20 g đường và trà xanh ở bước (4) vào âu. Đánh ở tốc độ thấp nhất khoảng 1 – 2 phút tới khi nguyên liệu hoà quyện, mịn mượt. Lưu ý: cream cheese phải để mềm ở nhiệt độ phòng nếu không sẽ dễ bị lợn cợn hay vón cục khi đánh.</p>
 <p>6. Cho 1/2 lượng kem trứng đã nguội vào đánh đều cùng phần kem cream cheese trà xanh (đánh ở tốc độ thấp nhất) tới khi hoà quyện. Cho nốt phần kem trứng còn lại vào, đánh hoà quyện.</p>
 <p>7. Đánh kem tươi lạnh tới khi kem đạt bông mềm. Chia kem tươi thành hai phần, lần lượt cho từng phần vào âu đựng kem pho-mát trà xanh, nhẹ nhàng trộn đều tới khi hoà quyện. Sau khi trộn xong, hỗn hợp sẽ khá mịn, mượt, màu xanh non dịu dàng :)</p>
@@ -73,4 +66,4 @@ description: "Cách làm bánh cheesecake trà xanh không cần lò nướng: b
 <li><a href="https://www.facebook.com/Nguyenlieu.Takeaway/photos/a.904476206297647.1073741839.444728342272438/904476239630977/?type=3&amp;theater" target="_blank">Thông tin về bột trà Nhật Bản</a></li>
 <li><a href="https://www.facebook.com/Nguyenlieu.Takeaway/" target="_blank">Về công ty và các sản phẩm khác</a></li>
 </ul>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

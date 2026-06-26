@@ -10,17 +10,20 @@
 <header>
   <nav>
     <a class="site-title" href="/savourydays.com-archived/"><span>Savoury</span> Days</a>
-    <a href="/savourydays.com-archived/">Trang chủ</a>
+    <span class="spacer"></span>
+    <input id="search-box" type="search" placeholder="Tìm công thức…" autocomplete="off">
   </nav>
 </header>
 <main>
 <div class="container">
-  <h1 style="margin-bottom:1.5rem;">Công thức nấu ăn</h1>
-  <div class="recipe-grid">
+  <div class="index-header">
+    <h1>Công thức nấu ăn</h1>
+  </div>
+  <div class="recipe-grid" id="recipe-grid">
     
-    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-banh-me-cuoi/">
+    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-banh-me-cuoi/" data-title="cách làm bánh mè cười">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2020/04/cách-làm-bánh-mè-cười-banner.jpg" alt="Cách làm BÁNH MÈ CƯỜI" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2020/04/cách-làm-bánh-mè-cười-banner.jpg" alt="Cách làm BÁNH MÈ CƯỜI" loading="lazy">
       
       <div class="card-body">
         <h2>Cách làm BÁNH MÈ CƯỜI</h2>
@@ -29,9 +32,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/o-nha-lam-banh-can-chuan-bi-gi/">
+    <a class="recipe-card" href="/savourydays.com-archived/o-nha-lam-banh-can-chuan-bi-gi/" data-title="ở nhà làm bánh cần chuẩn bị gì?">
       
-      <div style="height:160px;background:#f0e6d6;"></div>
+      <div class="thumb-placeholder">🍜</div>
       
       <div class="card-body">
         <h2>Ở NHÀ LÀM BÁNH CẦN CHUẨN BỊ GÌ?</h2>
@@ -42,9 +45,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/tu-hoc-lam-banh-nen-bat-dau-nhu-the-nao/">
+    <a class="recipe-card" href="/savourydays.com-archived/tu-hoc-lam-banh-nen-bat-dau-nhu-the-nao/" data-title="tự học làm bánh nên bắt đầu như thế nào">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2020/03/tự-học-làm-bánh-nên-bắt-đầu-từ-đâu.jpg" alt="Tự học làm bánh nên bắt đầu như thế nào" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2020/03/tự-học-làm-bánh-nên-bắt-đầu-từ-đâu.jpg" alt="Tự học làm bánh nên bắt đầu như thế nào" loading="lazy">
       
       <div class="card-body">
         <h2>Tự học làm bánh nên bắt đầu như thế nào</h2>
@@ -55,9 +58,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/banh-mi-hoa-cuc-bo-toi-nuong-gi/">
+    <a class="recipe-card" href="/savourydays.com-archived/banh-mi-hoa-cuc-bo-toi-nuong-gi/" data-title="bánh mì hoa cúc bơ tỏi nướng giòn ^.^">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2020/03/Banh-mi-hoa-cuc-bo-toi-nuong-gion-1.jpg" alt="BÁNH MÌ HOA CÚC BƠ TỎI NƯỚNG GIÒN ^.^" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2020/03/Banh-mi-hoa-cuc-bo-toi-nuong-gion-1.jpg" alt="BÁNH MÌ HOA CÚC BƠ TỎI NƯỚNG GIÒN ^.^" loading="lazy">
       
       <div class="card-body">
         <h2>BÁNH MÌ HOA CÚC BƠ TỎI NƯỚNG GIÒN ^.^</h2>
@@ -66,9 +69,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-banh-mi-bo-toi-pho-mai-han-quoc/">
+    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-banh-mi-bo-toi-pho-mai-han-quoc/" data-title="cách làm bánh mì bơ tỏi phô mai hàn quốc">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2020/03/cach-lam-banh-mi-bo-toi-han-quoc-banner.jpg" alt="Cách làm BÁNH MÌ BƠ TỎI PHÔ MAI HÀN QUỐC" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2020/03/cach-lam-banh-mi-bo-toi-han-quoc-banner.jpg" alt="Cách làm BÁNH MÌ BƠ TỎI PHÔ MAI HÀN QUỐC" loading="lazy">
       
       <div class="card-body">
         <h2>Cách làm BÁNH MÌ BƠ TỎI PHÔ MAI HÀN QUỐC</h2>
@@ -77,9 +80,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-tau-hu-tran-chau-duong-den/">
+    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-tau-hu-tran-chau-duong-den/" data-title="[video] cách làm tàu hũ trân châu đường đen">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2020/03/cách-làm-tàu-hũ-trân-châu-đường-đen-banner.jpg" alt="[VIDEO] Cách làm TÀU HŨ TRÂN CHÂU ĐƯỜNG ĐEN" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2020/03/cách-làm-tàu-hũ-trân-châu-đường-đen-banner.jpg" alt="[VIDEO] Cách làm TÀU HŨ TRÂN CHÂU ĐƯỜNG ĐEN" loading="lazy">
       
       <div class="card-body">
         <h2>[VIDEO] Cách làm TÀU HŨ TRÂN CHÂU ĐƯỜNG ĐEN</h2>
@@ -88,9 +91,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/mousse-dua-thach-duong-nau-sd-baking-challenge/">
+    <a class="recipe-card" href="/savourydays.com-archived/mousse-dua-thach-duong-nau-sd-baking-challenge/" data-title="mousse dừa thạch đường nâu & sd baking challenge">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2020/02/cách-làm-mousse-dừa-thạch-đường-nâu-banner.jpg" alt="MOUSSE DỪA THẠCH ĐƯỜNG NÂU & SD BAKING CHALLENGE" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2020/02/cách-làm-mousse-dừa-thạch-đường-nâu-banner.jpg" alt="MOUSSE DỪA THẠCH ĐƯỜNG NÂU & SD BAKING CHALLENGE" loading="lazy">
       
       <div class="card-body">
         <h2>MOUSSE DỪA THẠCH ĐƯỜNG NÂU & SD BAKING CHALLENGE</h2>
@@ -99,9 +102,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-mousse-bap-hinh-trai-bap/">
+    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-mousse-bap-hinh-trai-bap/" data-title="[video] cách làm mousse bắp (hình trái bắp)">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2020/02/cách-làm-mousse-bắp-banner.jpg" alt="[VIDEO] Cách làm Mousse bắp (hình trái bắp)" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2020/02/cách-làm-mousse-bắp-banner.jpg" alt="[VIDEO] Cách làm Mousse bắp (hình trái bắp)" loading="lazy">
       
       <div class="card-body">
         <h2>[VIDEO] Cách làm Mousse bắp (hình trái bắp)</h2>
@@ -110,9 +113,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-pudding-so-co-la-tra-xanh/">
+    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-pudding-so-co-la-tra-xanh/" data-title="[video] cách làm pudding sô cô la trà xanh">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2020/02/cách-làm-pudding-so-co-la-trà-xanh-banner.jpg" alt="[VIDEO] Cách làm PUDDING SÔ CÔ LA TRÀ XANH" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2020/02/cách-làm-pudding-so-co-la-trà-xanh-banner.jpg" alt="[VIDEO] Cách làm PUDDING SÔ CÔ LA TRÀ XANH" loading="lazy">
       
       <div class="card-body">
         <h2>[VIDEO] Cách làm PUDDING SÔ CÔ LA TRÀ XANH</h2>
@@ -121,9 +124,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-socola-tuoi-nama-chocolate-sieuuuu-de/">
+    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-socola-tuoi-nama-chocolate-sieuuuu-de/" data-title="[video] cách làm socola tươi (nama chocolate) siêuuuu dễ!!!">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2020/02/cách-làm-socola-tươi-banner.jpg" alt="[VIDEO] Cách làm SOCOLA TƯƠI (Nama chocolate) siêuuuu dễ!!!" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2020/02/cách-làm-socola-tươi-banner.jpg" alt="[VIDEO] Cách làm SOCOLA TƯƠI (Nama chocolate) siêuuuu dễ!!!" loading="lazy">
       
       <div class="card-body">
         <h2>[VIDEO] Cách làm SOCOLA TƯƠI (Nama chocolate) siêuuuu dễ!!!</h2>
@@ -132,9 +135,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-so-co-la-bon-bon-so-co-la-co-nhan/">
+    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-so-co-la-bon-bon-so-co-la-co-nhan/" data-title="[video] cách làm sô-cô-la bon bon (nhân tiramisu, dâu, trà sữa)">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2020/02/cách-làm-socola-bon-bon-banner.jpg" alt="[VIDEO] Cách làm Sô-cô-la Bon Bon (nhân TIRAMISU, DÂU, TRÀ SỮA)" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2020/02/cách-làm-socola-bon-bon-banner.jpg" alt="[VIDEO] Cách làm Sô-cô-la Bon Bon (nhân TIRAMISU, DÂU, TRÀ SỮA)" loading="lazy">
       
       <div class="card-body">
         <h2>[VIDEO] Cách làm Sô-cô-la Bon Bon (nhân TIRAMISU, DÂU, TRÀ SỮA)</h2>
@@ -143,9 +146,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/sd-vlog-1-sd-an-tet-nhu-the-nao/">
+    <a class="recipe-card" href="/savourydays.com-archived/sd-vlog-1-sd-an-tet-nhu-the-nao/" data-title="sd vlog #1: sd ăn tết như thế nào ;)">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2020/01/IMG_9293.jpg" alt="SD Vlog #1: SD ăn Tết như thế nào ;)" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2020/01/IMG_9293.jpg" alt="SD Vlog #1: SD ăn Tết như thế nào ;)" loading="lazy">
       
       <div class="card-body">
         <h2>SD Vlog #1: SD ăn Tết như thế nào ;)</h2>
@@ -156,9 +159,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-keo-nougat-cong-thuc-moi/">
+    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-keo-nougat-cong-thuc-moi/" data-title="[video] cách làm kẹo nougat (công thức mới)">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2020/01/cách-làm-kẹo-nougat-banner.jpg" alt="[VIDEO] Cách làm kẹo Nougat (công thức mới)" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2020/01/cách-làm-kẹo-nougat-banner.jpg" alt="[VIDEO] Cách làm kẹo Nougat (công thức mới)" loading="lazy">
       
       <div class="card-body">
         <h2>[VIDEO] Cách làm kẹo Nougat (công thức mới)</h2>
@@ -167,9 +170,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-banh-quy-trung-muoi/">
+    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-banh-quy-trung-muoi/" data-title="[video] cách làm bánh quy trứng muối">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2020/01/cách-làm-bánh-quy-trứng-muối-banner-610x350.jpg" alt="[VIDEO] Cách làm BÁNH QUY TRỨNG MUỐI" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2020/01/cách-làm-bánh-quy-trứng-muối-banner-610x350.jpg" alt="[VIDEO] Cách làm BÁNH QUY TRỨNG MUỐI" loading="lazy">
       
       <div class="card-body">
         <h2>[VIDEO] Cách làm BÁNH QUY TRỨNG MUỐI</h2>
@@ -178,9 +181,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-banh-quy-hat-ca-phe/">
+    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-banh-quy-hat-ca-phe/" data-title="[video] cách làm bánh quy hạt cà phê">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2020/01/Cách-làm-bánh-quy-hạt-cà-phê-youtube.jpg" alt="[VIDEO] Cách làm BÁNH QUY HẠT CÀ PHÊ" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2020/01/Cách-làm-bánh-quy-hạt-cà-phê-youtube.jpg" alt="[VIDEO] Cách làm BÁNH QUY HẠT CÀ PHÊ" loading="lazy">
       
       <div class="card-body">
         <h2>[VIDEO] Cách làm BÁNH QUY HẠT CÀ PHÊ</h2>
@@ -189,9 +192,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-su-kem-vo-xu-vi-yen-mach-hanh-nhan-kem-tra-earl-grey/">
+    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-su-kem-vo-xu-vi-yen-mach-hanh-nhan-kem-tra-earl-grey/" data-title="[video] cách làm su kem vỏ xù vị yến mạch hạnh nhân & kem trà earl grey">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2020/01/cách-làm-su-kem-vỏ-giòn-yến-mạch-hạnh-nhân.jpg" alt="[VIDEO] Cách làm SU KEM VỎ XÙ vị Yến mạch Hạnh Nhân & Kem trà Earl grey" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2020/01/cách-làm-su-kem-vỏ-giòn-yến-mạch-hạnh-nhân.jpg" alt="[VIDEO] Cách làm SU KEM VỎ XÙ vị Yến mạch Hạnh Nhân & Kem trà Earl grey" loading="lazy">
       
       <div class="card-body">
         <h2>[VIDEO] Cách làm SU KEM VỎ XÙ vị Yến mạch Hạnh Nhân & Kem trà Earl grey</h2>
@@ -200,9 +203,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-ga-ran-kfc/">
+    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-ga-ran-kfc/" data-title="cách làm gà rán kfc">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2019/10/cách-làm-gà-rán-kfc-banner.jpg" alt="Cách làm Gà rán KFC" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2019/10/cách-làm-gà-rán-kfc-banner.jpg" alt="Cách làm Gà rán KFC" loading="lazy">
       
       <div class="card-body">
         <h2>Cách làm Gà rán KFC</h2>
@@ -211,9 +214,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-hotteok-banh-pancake-kieu-han/">
+    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-hotteok-banh-pancake-kieu-han/" data-title="cách làm hotteok – bánh pancake kiểu hàn">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2019/09/hotteok-recipe-cách-lam-pancake-kiểu-Hàn-banner.jpg" alt="Cách làm Hotteok – bánh PANCAKE kiểu Hàn" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2019/09/hotteok-recipe-cách-lam-pancake-kiểu-Hàn-banner.jpg" alt="Cách làm Hotteok – bánh PANCAKE kiểu Hàn" loading="lazy">
       
       <div class="card-body">
         <h2>Cách làm Hotteok – bánh PANCAKE kiểu Hàn</h2>
@@ -222,9 +225,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/ga-chien-sieu-gion-kieu-nhat-chicken-karaage/">
+    <a class="recipe-card" href="/savourydays.com-archived/ga-chien-sieu-gion-kieu-nhat-chicken-karaage/" data-title="gà chiên “siêu giòn” kiểu nhật – chicken karaage">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2019/09/cách-làm-gà-chiên-giòn-karaage-banner.jpg" alt="Gà chiên “siêu giòn” kiểu Nhật – Chicken Karaage" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2019/09/cách-làm-gà-chiên-giòn-karaage-banner.jpg" alt="Gà chiên “siêu giòn” kiểu Nhật – Chicken Karaage" loading="lazy">
       
       <div class="card-body">
         <h2>Gà chiên “siêu giòn” kiểu Nhật – Chicken Karaage</h2>
@@ -233,9 +236,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/oyakodon-com-ga-trung-hap-kieu-nhat/">
+    <a class="recipe-card" href="/savourydays.com-archived/oyakodon-com-ga-trung-hap-kieu-nhat/" data-title="oyakodon – cơm gà trứng hấp kiểu nhật">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2019/09/oyakodon-banner.jpg" alt="Oyakodon – Cơm gà trứng hấp kiểu Nhật" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2019/09/oyakodon-banner.jpg" alt="Oyakodon – Cơm gà trứng hấp kiểu Nhật" loading="lazy">
       
       <div class="card-body">
         <h2>Oyakodon – Cơm gà trứng hấp kiểu Nhật</h2>
@@ -244,9 +247,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/banh-katka-pho-mai-chocolate-cream-cheese-pound-cake/">
+    <a class="recipe-card" href="/savourydays.com-archived/banh-katka-pho-mai-chocolate-cream-cheese-pound-cake/" data-title="bánh katka phô-mai chocolate (cream cheese pound cake)">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2019/09/cach-lam-banh-katka-banner-610x350.jpg" alt="Bánh Katka phô-mai chocolate (Cream cheese pound cake)" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2019/09/cach-lam-banh-katka-banner-610x350.jpg" alt="Bánh Katka phô-mai chocolate (Cream cheese pound cake)" loading="lazy">
       
       <div class="card-body">
         <h2>Bánh Katka phô-mai chocolate (Cream cheese pound cake)</h2>
@@ -255,9 +258,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-banh-cha-ha-noi/">
+    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-banh-cha-ha-noi/" data-title="cách làm bánh chả hà nội">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2019/09/cach-lam-banh-cha-banner.jpg" alt="Cách làm bánh chả Hà Nội" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2019/09/cach-lam-banh-cha-banner.jpg" alt="Cách làm bánh chả Hà Nội" loading="lazy">
       
       <div class="card-body">
         <h2>Cách làm bánh chả Hà Nội</h2>
@@ -266,9 +269,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/thu-banh-moi-banh-mi-sua-va-banh-mi-sua-chua-mat-ong/">
+    <a class="recipe-card" href="/savourydays.com-archived/thu-banh-moi-banh-mi-sua-va-banh-mi-sua-chua-mat-ong/" data-title="thử bánh mới: bánh mì sữa và bánh mì sữa chua mật ong">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2019/08/IMG_8583-1.jpg" alt="Thử bánh mới: Bánh mì Sữa và Bánh mì Sữa chua Mật ong" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2019/08/IMG_8583-1.jpg" alt="Thử bánh mới: Bánh mì Sữa và Bánh mì Sữa chua Mật ong" loading="lazy">
       
       <div class="card-body">
         <h2>Thử bánh mới: Bánh mì Sữa và Bánh mì Sữa chua Mật ong</h2>
@@ -279,9 +282,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/bo-ham-kieu-phap/">
+    <a class="recipe-card" href="/savourydays.com-archived/bo-ham-kieu-phap/" data-title="bò hầm kiểu pháp">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2019/08/cach-lam-bo-ham-kieu-phap-banner.jpg" alt="Bò hầm kiểu Pháp" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2019/08/cach-lam-bo-ham-kieu-phap-banner.jpg" alt="Bò hầm kiểu Pháp" loading="lazy">
       
       <div class="card-body">
         <h2>Bò hầm kiểu Pháp</h2>
@@ -291,7 +294,8 @@
     </a>
     
   </div>
-  <div class="pagination">
+  <p id="no-results">Không tìm thấy công thức nào.</p>
+  <div class="pagination" id="pagination">
     <a href="/savourydays.com-archived/page/4/">«</a>
     
       <a href="/savourydays.com-archived/page/1/">1</a>
@@ -376,6 +380,44 @@
     <a href="/savourydays.com-archived/page/6/">»</a>
   </div>
 </div>
+<script>
+(function(){
+  const box = document.getElementById('search-box');
+  const grid = document.getElementById('recipe-grid');
+  const noRes = document.getElementById('no-results');
+  const pagination = document.getElementById('pagination');
+  if (!box) return;
+
+  let allRecipes = null;
+  const BASE = '/savourydays.com-archived';
+
+  box.addEventListener('input', async function() {
+    const q = this.value.trim().toLowerCase();
+    if (!q) {
+      if (allRecipes) { grid.innerHTML = originalHTML; }
+      noRes.style.display = 'none';
+      pagination.style.display = '';
+      return;
+    }
+    if (!allRecipes) {
+      const r = await fetch(BASE + '/search.json');
+      allRecipes = await r.json();
+    }
+    const matches = allRecipes.filter(r => r.title.toLowerCase().includes(q));
+    pagination.style.display = 'none';
+    if (!matches.length) { grid.innerHTML = ''; noRes.style.display = 'block'; return; }
+    noRes.style.display = 'none';
+    grid.innerHTML = matches.map(r =>
+      `<a class="recipe-card" href="${BASE}/${r.slug}/">
+        <div class="thumb-placeholder">🍜</div>
+        <div class="card-body"><h2>${r.title}</h2><div class="date">${r.date ? r.date.slice(0,10) : ''}</div></div>
+      </a>`
+    ).join('');
+  });
+
+  const originalHTML = grid.innerHTML;
+})();
+</script>
 </main>
 <footer style="text-align:center;padding:2rem;color:#aaa;font-size:.85rem;">
   © Savoury Days · Lưu trữ

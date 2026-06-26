@@ -12,10 +12,7 @@ description: ""
 <p>Phim từ năm 2008, không còn mới nữa nên chắc nhiều bạn cũng đã xem rồi. Phim mở đầu bằng hình ảnh của một nước Nhật hiện đại và tiện lợi, đặc biệt là về đồ ăn thức uống. Nếu không có thời gian, chỉ cần chạy ra cửa hàng, siêu thị, hay <em>convenience store,</em> mua các hộp thức ăn được đóng gói sẵn,<em> </em>rồi về nhà quay trong lò vi sóng vài ba phút là đã có một bữa ăn nóng hổi với đủ các món. Người ta gọi ấy là xu thế của thời đại. Nhưng trong thế giới mà con người bị bao vây bởi sự “tiện lợi” ấy, vẫn có một nơi mà ở đó, mọi thứ dường như “cố tình” đi ngược với trào lưu của thời đại, đó là nhà hàng Isshouan.</p>
 <p>Isshouan dường như là một thế giới nhỏ tách biệt hẳn với xã hội bên ngoài. Ở đây, mọi giá trị truyền thống đều được cố gắng gìn giữ đến mức tối đa. Gần như không có bóng dáng của bất kì thiết bị nào của thế giới hiện đại, cơm được nấu bằng rơm, rượu hâm bằng củi, nước bơm tay từ giếng, rau củ làm nguyên liệu nấu nướng là do nhà hàng tự trồng trọt… Với lịch sử 200 năm, Isshouan nổi tiếng trong giới ẩm thực Nhật Bản nhờ những món ăn hảo hạng đến từ sự tinh tế và cầu kì trong từng khâu chế biến: Cá khô để nguyên con, ngâm trong nước cả ngày đến khi nước chuyển màu hổ phách, rồi dùng nước này để nấu củ cải trong 5 giờ đồng hồ…  Mỗi món ăn của Isshouan đều có thể coi như một tác phẩm nghệ thuật (làm cho người xem, dù chỉ nhìn thôi cũng đủ rớt nước miếng :) ).</p>
 <p>Trong số các bộ phim về ăn uống và nấu nướng, đây có lẽ là bộ phim mà mình thích nhất. Lý do thì rất nhiều, nếu liệt kê ra chắc sẽ rất dài, vì dường như mọi thứ về bộ phim đều tạo cho mình thiện cảm và một cảm giác dễ chịu. Có thể một phần vì những năm tháng học tiếng Nhật đã tạo ra cho mình một sự kết nối vô hình với không chỉ ngôn ngữ mà cả nền văn hóa, đất nước và con người ở đây. Cho nên khi xem phim, lại được nghe tiếng Nhật, ngắm nhìn những cảnh vật, con người Nhật, tự nhiên có cảm giác quen thuộc như gặp lại bạn cũ thân thiết từ thuở xa xưa vậy. Cũng có thể vì mình là một người thích nấu nướng, nên khi nhìn thấy người đầu bếp trong phim chăm chú và tận tâm với món ăn thế nào thì lập tức có sự đồng cảm. Cũng có thể vì những triết lí được truyền tải trong từng tập phim, không đao to búa lớn, không rao giảng đạo đức, đôi khi chỉ là một câu thoại đơn giản, nhưng khiến cho người xem thấm thía. Dường như chạm được đến cả tâm hồn. “<em>Điều quan trọng nhất trong nấu ăn không phải là dụng cụ, mà là lòng ao ước được làm ra món ăn đó. Không phải kĩ năng, mà chính sự tận tâm, tấm lòng của người nấu, mong muốn mang lại cho người ăn một món ăn thật ngon, thật đẹp, khiến cho mọi người đều vui vẻ, là yếu tố cốt lõi làm nên giá trị của món ăn. Sự ao ước và tấm lòng ấy thậm chí có thể tạo ra những điều kì diệu, như giúp cho người đầu bếp có những đường cắt thẳng – kĩ thuật mà chỉ những bậc thầy mới đạt được. Và những món ăn đơn giản nhưng được làm ra bởi tấm lòng ấy cũng có sức mạnh lớn lao hơn bất kì điều gì, lay động cả những trái tim sắt đá nhất.”</em></p>
-<p>Còn rất nhiều điều hay khác nữa… nhưng chắc chỉ viết đến đây thôi nhỉ, để nếu có bạn nào muốn xem thì sẽ còn thấy nhiều điều bất ngờ (chứ nếu Trang mà viết hết ra thì lúc xem sẽ mất hay đi ít nhiều). Phim có thể xem trực tuyến ở rất nhiều trang web cung cấp phim online, chỉ cần Google “xem phim Osen online” là có thể dễ dàng có link. Mình xem trên Youtube, ở đây:</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Còn rất nhiều điều hay khác nữa… nhưng chắc chỉ viết đến đây thôi nhỉ, để nếu có bạn nào muốn xem thì sẽ còn thấy nhiều điều bất ngờ (chứ nếu Trang mà viết hết ra thì lúc xem sẽ mất hay đi ít nhiều). Phim có thể xem trực tuyến ở rất nhiều trang web cung cấp phim online, chỉ cần Google “xem phim Osen online” là có thể dễ dàng có link. Mình xem trên Youtube, ở đây:</p>
 <p><iframe allowfullscreen="" frameborder="0" height="281" src="https://www.youtube.com/embed/nKWDV-ovBeU?feature=oembed" width="500"></iframe></p>
 <p>Đây là tập 1 – phần 1, nhưng ở phần “suggestions” các bạn sẽ tìm được các phần tiếp theo nhé.</p>
 <p>Một vài hình ảnh từ bộ phim:</p>
@@ -25,10 +22,7 @@ description: ""
 <p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/10963187655/" title="Screen shot 2013-11-20 at 13.02.12 by LinhTrang9185, on Flickr"><img alt="Screen shot 2013-11-20 at 13.02.12" height="278" loading="lazy" src="http://farm3.staticflickr.com/2806/10963187655_7bf85006e0.jpg" width="500"/></a></em></p>
 <p style="text-align: center;"><em>Và đây là người làm món Tempura ở trên, cũng là bà chủ nhà hàng, Osen. Mình rất thích bạn diễn viên này và diễn xuất của bạn ý, thấy bạn ý trong sáng, dễ thương và chuẩn mực kinh khủng. </em></p>
 <p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/10963187575/" title="Screen shot 2013-11-20 at 13.02.30 by LinhTrang9185, on Flickr"><img alt="Screen shot 2013-11-20 at 13.02.30" height="258" loading="lazy" src="http://farm8.staticflickr.com/7416/10963187575_2bd42ea9db.jpg" width="500"/></a></em></p>
-<p style="text-align: center;"><em>Tôm và sò điệp hấp với trái bơ</em></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p style="text-align: center;"><em>Tôm và sò điệp hấp với trái bơ</em></p>
 <p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/10963428653/" title="Screen shot 2013-11-20 at 13.04.22 by LinhTrang9185, on Flickr"><img alt="Screen shot 2013-11-20 at 13.04.22" height="279" loading="lazy" src="http://farm3.staticflickr.com/2807/10963428653_3cc0b563dd.jpg" width="500"/></a>\</em></p>
 <p style="text-align: center;"><em>Măng nướng </em></p>
 <p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/10963428083/" title="Screen shot 2013-11-20 at 13.04.38 by LinhTrang9185, on Flickr"><img alt="Screen shot 2013-11-20 at 13.04.38" height="282" loading="lazy" src="http://farm8.staticflickr.com/7414/10963428083_6f07785c67.jpg" width="500"/></a></em></p>
@@ -43,9 +37,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

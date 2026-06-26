@@ -12,10 +12,7 @@ description: "Thế nào là Macarons đúng kiểu? Chia sẻ bí quyết làm 
 <p><a href="/macarons-nguyen-lieu-va-dung-cu/">Phần 2: Nguyên liệu &amp; Dụng cụ</a></p>
 <p><a href="/macaron-phan-3-cach-lam/" target="_blank">Phần 3: Cách làm Macaron kiểu Pháp</a></p>
 <p>———-</p>
-<p>Cuối cùng thì mình cũng cảm thấy có (tương đối) đủ tự tin để viết về Macaron. Lý do không hẳn nằm ở phần kĩ năng làm bánh mà một phần lớn khác là vì mình luôn cảm thấy mình chưa thật sự hiểu về loại bánh này, cũng như là còn có rất nhiều câu hỏi chưa được giải đáp về nó.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Cuối cùng thì mình cũng cảm thấy có (tương đối) đủ tự tin để viết về Macaron. Lý do không hẳn nằm ở phần kĩ năng làm bánh mà một phần lớn khác là vì mình luôn cảm thấy mình chưa thật sự hiểu về loại bánh này, cũng như là còn có rất nhiều câu hỏi chưa được giải đáp về nó.</p>
 <p>Ấn tượng chung của số đông về Macarons có lẽ là đẹp và xinh, nhưng đến lúc ăn thử thì: “<em>Sao nó ngọt thế? Sao nó giòn thế? Sao nó… chả có gì ngon thế?”</em> :P Mình cũng đã từng như vậy, đã từng thắc mắc sao Macarons chán thế mà bao nhiêu người vẫn sẵn sàng bỏ tiền ra để mua, nhất là khi giá Macarons không hề rẻ chút nào, nếu so với các loại bánh ngọt khác.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8162322596/" title="IMG_7734-1 by LinhTrang9185, on Flickr"><img alt="IMG_7734-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8204/8162322596_bf9d5bf438_z.jpg" width="437"/></a></p>
 <p>Đến hè vừa rồi thì mình dịp có thử một loạt Macarons tại nhiều cửa hàng khác nhau ở Pháp, Áo, Bỉ và US. Và đến lúc ấy mình mới thực sự hiểu rằng tại sao nhiều người lại thích Macarons như vậy. Macarons về bản chất là loại bánh rất ngọt (nhưng chắc là ngọt so với người Việt Nam thôi, vì mình thấy người châu Âu ăn ngọt hơn kha khá so với nhà mình, cho nên Macarons với họ có lẽ là vừa phải).  Mặc dù nhiều đường nhưng kiểu ngọt của Macarons thường khá là dễ chịu, không phải ngọt sắc hay ngọt kiểu khé cổ. Nếu bánh có thêm phần nhân ngon hoặc đi cùng với một tách trà hay cà phê thì độ ngọt của bánh là bình thường. Macarons ngon hay dở, có lẽ còn phụ thuộc nhiều vào khẩu vị và vào cửa hàng/ thợ làm bánh nữa. Nhưng trước khi có thể kết luận ngon/ dở thì chiếc bánh cần phải là một chiếc Macaron “đúng” đã, cụ thể là cần có tối thiểu các đặc điểm sau đây:</p>
@@ -31,10 +28,7 @@ description: "Thế nào là Macarons đúng kiểu? Chia sẻ bí quyết làm 
 <p style="text-align: center;"><em>Ảnh minh hoạ từ www.seriouseats.com </em></p>
 <p>Thật ra trước đây, khi làm Macarons thường mình chỉ chú ý đến việc Macarons có nở không, có chân không, mặt bánh có bị nứt không. Tức là phần lớn đến ngoại hình bên ngoài chứ không chú ý đến chất lượng bên trong bánh, trong khi phần bên dưới lớp vỏ bánh, theo mình nghĩ, mới là cái quyết định bánh hỏng hay không, ngon hay dở. Giải thích cụ thể thêm chút nữa, lấy ví dụ ngay từ bản thân mình, thường thì khi làm Macaron, mình không gặp khó khăn lắm với việc cho ra một cái Macaron “xinh”. Nói chung làm 10 lần thì chắc khoảng 8-9 lần là Macaron đạt được điểm (1)(2), (3) như trên. Nhưng để có điểm thứ (4) thì mãi đến gần đây, sau độ chục lần thử mình mới thành công. Còn trước đây thì phần lớn là toàn làm ra Macaron đẹp nhưng không đúng, vì bên trong rỗng ruột.</p>
 <p>Nếu đánh giá khắt khe thì Macarons rỗng ruột hoặc dưới lớp vỏ có khoảng trống lớn có thể coi là hỏng. Nguyên nhân thì nhiều, nhưng một vài nguyên nhân thường gặp nhất là đánh trứng hoặc trộn bột chưa chuẩn, dẫn đến việc có quá nhiều bọt khí trong bánh, khi nướng bánh nở vồng quá cao gây ra lỗ hổng lớn. Một nguyên nhân rất thường gặp khác là nướng chưa đúng cách, đặc biệt là nướng bánh chưa đủ chín, tuy phần vỏ ngoài đã chín và cứng lại rồi, nhưng bên trong chưa thật sự chín hẳn, làm cho khi lấy ra khỏi lò phần ruột chưa chín này bị “co kéo” hay xẹp, tạo ra lỗ hổng dưới lớp vỏ bánh.</p>
-<p>Nhưng đấy là nói khắt khe, còn “du di” đi một tí thì thật ra nếu Macaron có ít lỗ hổng, nhưng phần ruột vẫn còn một lớp hơi hơi dày, thì vẫn có thể khắc phục được. Còn nếu trong trường hợp Macaron bị nướng đến mức vỏ giòn tan và ruột rỗng thì thành Ma-ca-WRONG rồi chứ không phải là Macarons nữa, vì phần vỏ gần như không có gì ngoài lớp “vỏ trứng” bên ngoài, nhân bánh dù có ngon mấy cũng khó mà “cứu” được.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Nhưng đấy là nói khắt khe, còn “du di” đi một tí thì thật ra nếu Macaron có ít lỗ hổng, nhưng phần ruột vẫn còn một lớp hơi hơi dày, thì vẫn có thể khắc phục được. Còn nếu trong trường hợp Macaron bị nướng đến mức vỏ giòn tan và ruột rỗng thì thành Ma-ca-WRONG rồi chứ không phải là Macarons nữa, vì phần vỏ gần như không có gì ngoài lớp “vỏ trứng” bên ngoài, nhân bánh dù có ngon mấy cũng khó mà “cứu” được.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8162322412/" title="IMG_7748-1 by LinhTrang9185, on Flickr"><img alt="IMG_7748-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8485/8162322412_59c62b6d38_z.jpg" width="453"/></a></p>
 <p>Làm Macarons có khó không? Nhận xét chung là rất rất rất khó. Nếu đánh giá độ khó với điểm 10 là mức cao nhất thì Macaron chắc sẽ ở mức 8-9/10. Tuy nhiên, nếu để mình đánh giá thì mình sẽ nói để làm ra được Macaron đẹp, đạt tiêu chuẩn (1), (2), (3) như ở trên thì chắc độ khó khoảng 5-6/10 thôi. Còn để ra được Macaron đạt tiêu chuẩn thứ (4) thì ngoài việc kĩ thuật tốt, am hiểu lò nướng thì bạn còn cần một ít may mắn và rất nhiều kiên nhẫn nữa. Vì bánh như vậy ngay cả thợ làm bánh cũng không phải lần nào cũng làm ra được.</p>
 <p>Ngoài ra, có lẽ cũng nên chú thích trước là, Macarons nhìn chung <strong>KHÔNG dành cho các bạn mới tập làm bánh, muốn làm để thử cho biết, hoặc sợ thất bại, thiếu kiên trì</strong>. Bởi vì như mình thấy thì ít người làm Macarons ngay lần đầu đã thành công. Và kể cả thành công lần 1 thì cũng chẳng có gì đảm bảo bạn sẽ thành công ở các lần tiếp theo. Bản thân mình cũng làm hỏng chắc ít nhất là chục mẻ trước khi ra được bánh như mình muốn. Cho nên nếu bạn muốn chinh phục loại bánh này thì nên chuẩn bị tinh thần đối mặt với bánh hỏng trước…</p>
@@ -50,9 +44,6 @@ description: "Thế nào là Macarons đúng kiểu? Chia sẻ bí quyết làm 
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

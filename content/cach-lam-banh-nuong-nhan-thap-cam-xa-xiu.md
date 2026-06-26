@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2021/08/cach-lam-banh-trung-thu-thap-cam-xa-xiu-bann
 description: "Cách làm bánh trung thu nhân thập cẩm xá xíu thơm ngon, an toàn, đảm bảo vệ sinh, có thể kinh doanh được ổn"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Nhân thập cẩm xá xíu là một loại nhân hấp dẫn và dễ ăn. Nhất là với những ai ngại vị ngọt của bánh trung thu thì nhân thập cẩm xá xíu là một lựa chọn tốt. Nhưng mà phải là nhân tự làm cơ, chứ mua ngoài thì có thập cẩm gì mình cũng thấy vẫn ngọt lắm, tự làm mới điều chỉnh được độ ngọt theo ý mình :) Nhân thập cẩm xá xíu về cơ bản là nhân thập cẩm, chỉ thêm phần xá xíu thôi. Mà xá xíu cũng chỉ là ướp thịt, chờ thịt ngấm sốt rồi nướng chín, rất nhanh. Cho nên so với nhân thập cẩm truyền thống, món này không phức tạp hơn nhiều. Nếu ngại thì mỗi lần bạn có thể làm một mẻ lớn thịt xá xíu, phần để ăn cơm, phần ăn xôi và phần cất đi làm nhân bánh dần dần thì sẽ tiết kiệm được nhiều công.</p>
 <p>Video ngày hôm nay hơi khác mọi khi một chút vì nó được làm theo kiểu bài học trong các lớp học Online của Savoury Days, có phần giới thiệu và thuyết minh của mình thay vì để tiếng nhạc như mọi khi. Trong video là cách làm phần thịt xá xíu, còn trộn nhân thì cũng giống như nhân thập cẩm thôi, mình có một vài ghi chú ở cuối bài, các bạn xem nha. Với các bạn học viên của lớp bánh trung thu Online thì mọi người hãy tham khảo kĩ thuật trộn nhân trong bài học nhân thập cẩm nhé.</p>
 <h2><span style="font-weight: 400;">BÁNH TRUNG THU NHÂN THẬP CẨM XÁ XÍU </span></h2>
@@ -28,10 +27,7 @@ description: "Cách làm bánh trung thu nhân thập cẩm xá xíu thơm ngon,
 <li><em><span style="font-weight: 400;">1/2 tsp hạt tiêu</span></em></li>
 <li><em><span style="font-weight: 400;">1/2 tsp rượu Mai Quế Lộ</span></em></li>
 </ul>
-<p><b>B. Sốt xá xíu:</b></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><b>B. Sốt xá xíu:</b></p>
 <ul>
 <li><i><span style="font-weight: 400;">2 tbsp mạch nha</span></i></li>
 <li><i><span style="font-weight: 400;">1 tbsp mật ong</span></i></li>
@@ -69,12 +65,9 @@ description: "Cách làm bánh trung thu nhân thập cẩm xá xíu thơm ngon,
 <p>2. Khi trộn nhân thập cẩm, sau khi cắt hạt lựu nguyên liệu nên xay sơ qua để nguyên liệu hơi nhuyễn  thì nhân sẽ dính và bớt rời rạc hơn. Khi trộn bột bánh dẻo và nước vào nguyên liệu, cần cho ít một và nhồi đều để bột bánh dẻo có thời gian hút nước và nở ra, giúp kết dính các nguyên liệu làm nhân. Lưu ý không cho quá nhiều bột bánh dẻo sẽ khiến nhân dễ khô và cứng.</p>
 <p>Các bạn có thể xem thêm cách trộn nhân thập cẩm tại đây: /banh-trung-thu-nhan-thap-cam-nhan-sua-dua/</p>
 <p><strong>Với các học viên trong lớp bánh Trung thu Online của SD: các bạn áp dụng cách trộn nhân thập cẩm theo hướng dẫn trong bài bánh trung thu thập cẩm nhé. </strong></p>
-<p>3. Về vỏ bánh thì các bạn tham khảo công thức ở đây nha: /banh-trung-thu-cach-lam-banh-nuong/</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>3. Về vỏ bánh thì các bạn tham khảo công thức ở đây nha: /banh-trung-thu-cach-lam-banh-nuong/</p>
 <p>Chúc các bạn thành công :)</p>
 <p>————</p>
 <p><span style="font-weight: 400;">❤️ NHẮN NHẮN: Trong tháng 8/2021, Khóa bánh Trung thu Online đang được HỖ TRỢ học phí mùa dịch lên tới 30%, học từ A – Z các loại bánh hot nhất hiện tại. </span></p>
 <p><span style="font-weight: 400;">Đây là mức hỗ trợ cực kỳ tốt và hiếm có, chỉ dành riêng thời điểm dịch bệnh này thôi nên mọi người nhanh tay nhé ạ ;) </span><span style="font-weight: 400;">Nếu bạn quan tâm, hãy để lại bình luận bên dưới hoặc inbox <a href="https://www.facebook.com/savourydays"><strong>fanpage Savoury Days</strong></a> để nhận được thông tin cụ thể nhé 😊</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

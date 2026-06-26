@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2017/07/cách-làm-bánh-mì-không-cần-nhồi-ban
 description: "Cách làm bánh mì không cần nhồi bột với phần vỏ bánh mềm, xốp, thơm cùng nhân pho-mai chảy bên trong và lớp topping pho-mai giòn rụm trên mặt."
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Món bánh này là phiên bản mặn của bánh mì chà bông phô-mai mà mình giới thiệu trong bài trước. Và nó là một phiên bản mà mình rất rất thích bởi làm vừa nhanh, vừa dễ mà thành phẩm thì lại quá ư là tuyệt hảo: Bánh rất mềm, xốp, ẩm với phần nhân pho-mai trong bánh chảy vừa đúng độ, còn lớp vỏ trên mặt thì thơm và giòn rụm. Một điểm rất hay nữa là bánh có thể để tủ lạnh (trong túi hay hộp đậy kín) và dùng trong vài ngày. Khi ăn chỉ cần quay vi sóng vài chục giây là bánh sẽ ấm nóng, mềm xốp và pho-mai cũng chảy trở lại.</p>
 <p>Nói tóm lại là chẳng mong ước gì hơn! :)</p>
 <p>Công thức bánh mì không cần nhồi này sau khi chia sẻ đã được rất nhiều bạn thử và phản hồi lại tại cả website lẫn Facebook của SD và Group “Món ngon nhà làm”. Đa phần là các phản hồi tích cực, tuy nhiên cũng có một số ít gặp vấn đề khi làm bánh. Mình xin tổng hợp lại và trả lời chung trong phần cách làm ở dưới, các bạn đọc ở cuối bài nhé. Có một lưu ý chung là tất cả các vấn đề mà các bạn gặp hoàn toàn không phải tại vì công thức bánh thiếu bơ, thiếu sữa hay không cần nhồi, mà là bởi vì quá trình làm có thiếu sót hoặc do nguyên liệu chưa thích hợp. Nếu thật sự do bánh thì hẳn tất cả mọi người sẽ phải cùng hỏng rồi, đúng không? Cụ thể hơn, các bạn xem ở cuối bài nha.</p>
 <h2>CÁCH LÀM BÁNH MÌ PHO-MAI CHẢY (KHÔNG CẦN NHỒI).</h2>
 <p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn 20 x 20 cm hoặc khuôn tròn đường kính 18 – 20 cm (xem chú thích cuối bài nếu không có khuôn)</p>
-<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span> (làm được 12 miếng nhỏ) (<em>công thức tham khảo và điều chỉnh từ <a href="http://www.recipetineats.com/soft-no-knead-dinner-rolls/">Recipe Tin Eats</a>)</em></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span> (làm được 12 miếng nhỏ) (<em>công thức tham khảo và điều chỉnh từ <a href="http://www.recipetineats.com/soft-no-knead-dinner-rolls/">Recipe Tin Eats</a>)</em></p>
 <p><strong>A. Phần bánh mì </strong></p>
 <ul>
 <li><em>300 g (2-1/4 cups) bột mì đa dụng (bột mì số 11)</em></li>
@@ -87,7 +83,4 @@ description: "Cách làm bánh mì không cần nhồi bột với phần vỏ b
 </ol>
 </li>
 </ol>
-<div align="center" id="google-ads-body-post-end">
 
-
-</div><!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

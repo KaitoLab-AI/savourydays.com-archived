@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2012/05/BlackForestCupcake.jpg"
 description: "cupcake, chocolate cupcake, tự học làm bánh, kem tươi, cream cheese, đánh bông kem"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Lâu lắm rồi mới lại làm Cupcakes. Vì mùa hè đã đến rồi nên Cupcakes lần này mình chọn công thức theo “phong cách” nhẹ nhàng. Phần cốt bánh dựa theo công thức Cupcake kem tươi, còn phần kem là Cream cheese frosting. Cốt bánh kem tươi vốn luôn rất nhẹ, xốp và mềm nên không gây cảm giác ngán và cũng không sợ bị đặc kể cả khi cho thêm vị Chocolate. Vì phần kem hoàn toàn chỉ gồm kem tươi và kem pho mát nên không lo bị cứng như kem bơ khi để tủ lạnh, và thật ra là bánh ngon hơn nhiều khi để lạnh (nên rất hợp với mùa hè ;) )</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7286997630/" title="IMG_3090-1 by LinhTrang9185, on Flickr"><img alt="IMG_3090-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8013/7286997630_cd56eaaaed_z.jpg" width="455"/></a></p>
 <p><strong>Nguyên liệu (14-16 cupcake cỡ vừa)</strong></p>
@@ -23,10 +22,7 @@ description: "cupcake, chocolate cupcake, tự học làm bánh, kem tươi, cre
 <li><em>230gram kem tươi (*)</em></li>
 <li><em>125gram đường </em></li>
 </ul>
-<p><strong>* Ghi chú:</strong> <em>Kem tươi nên dùng loại có hàm lượng béo cao (heavy cream – hàm lượng béo từ 35-40%), hoặc có thể thay bằng whipping cream (30% béo). Không dùng light cream (dưới 20% béo). Topping cream thì có bạn đã thử và thành công nhưng mình chưa bao giờ dùng topping cream nên không rõ về chất lượng bánh. </em></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>* Ghi chú:</strong> <em>Kem tươi nên dùng loại có hàm lượng béo cao (heavy cream – hàm lượng béo từ 35-40%), hoặc có thể thay bằng whipping cream (30% béo). Không dùng light cream (dưới 20% béo). Topping cream thì có bạn đã thử và thành công nhưng mình chưa bao giờ dùng topping cream nên không rõ về chất lượng bánh. </em></p>
 <p><span style="color: #800000;"><strong>B. Phần cream cheese frosting</strong></span></p>
 <ul>
 <li><em>150gram kem tươi </em></li>
@@ -42,10 +38,7 @@ description: "cupcake, chocolate cupcake, tự học làm bánh, kem tươi, cre
 <p>– Để âu đánh kem, que đánh kem và kem tươi vào ngăn đá khoảng 10 phút sẽ giúp đánh kem nhanh hơn. Dùng nĩa hoặc thìa đánh Cream cheese với vanilla cho mềm bớt.</p>
 <p>– Cho kem tươi, cream cheese và đường vào âu, đánh đến khi kem bông đặc, nghiêng tô không thấy kem dịch chuyển <em>(mình bình thường vẫn làm theo cách này, thấy không có vấn đề gì, tuy nhiên nếu các bạn muốn cẩn thận hơn thì có thể <strong>đánh riêng kem tươi rồi dùng spatula trộn kem tươi với cream cheese bằng kĩ thuật fold nhé</strong>).</em></p>
 <p><strong>* Ghi chú</strong></p>
-<blockquote><p>– Với kem tươi, dùng kem có hàm lượng béo cao (heavy cream, hàm lượng béo 35-40%) thì kem sẽ đặc và có độ “đứng” tốt hơn whipping cream (30%). Không dùng light cream (hàm lượng béo dưới 20%). Topping cream thì mình chưa dùng bao giờ nên không rõ về chất lượng kem nếu thay thế.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<blockquote><p>– Với kem tươi, dùng kem có hàm lượng béo cao (heavy cream, hàm lượng béo 35-40%) thì kem sẽ đặc và có độ “đứng” tốt hơn whipping cream (30%). Không dùng light cream (hàm lượng béo dưới 20%). Topping cream thì mình chưa dùng bao giờ nên không rõ về chất lượng kem nếu thay thế.</p>
 <p>– Để máy ở tốc độ cao, khi kem bắt đầu đặc lại, thấy có vân xuất hiện trên mặt kem khi máy chạy thì hạ tốc độ thấp xuống vì lúc này kem đã gần được rồi, đánh quá tay sẽ dễ làm cho kem bị tách nước.</p>
 <p>– Kem đánh xong để lại vào tủ lạnh từ 20-30 phút rồi mới cho vào túi để bắt kem lên mặt bánh. Cách này sẽ giúp kem “cứng” hơn, bóp kem lên mặt bánh sẽ đẹp hơn (ra vân hoa rõ hơn).</p></blockquote>
 <p>– Cách bắt kem như trong hình thì rất đơn giản. Mình dùng đuôi số 1M của Wilton (đui sao mở như hình dưới), đặt túi bắt kem thẳng đứng &amp; vuông góc với mặt bánh, đui bắt kem cách mặt bánh một chút xíu thôi, bắt kem vòng từ ngoài vào trong, theo hình xoắn ốc &amp; tạo thành chóp như trong hình. <em><strong>Nhớ là bánh nguội hẳn mới được bắt kem nhé</strong></em>.</p>
@@ -53,4 +46,4 @@ description: "cupcake, chocolate cupcake, tự học làm bánh, kem tươi, cre
 <p>– Bánh sau khi bắt kem xong nên được bảo quản ở nơi khô ráo thoáng mát, nếu không dùng ngay, đặc biệt là nếu bạn sống ở nơi có nhiệt độ nóng ẩm thì nên bảo quản bánh trong ngăn mát tủ lạnh (đậy hoặc bọc kín), tránh để kem bị chảy.</p>
 <p>Đây là cách làm cupcake chocolate. <strong>Black forest cupcake</strong> thì thật ra mình chỉ thêm chút xíu nữa để làm cho bánh mang hương vị của loại bánh “Rừng đen” nổi tiếng thôi :) Cụ thể là mình dùng quả anh đào (loại đóng hộp), ngâm với rượu Rhum. Sau khi bánh nướng xong thì mình dùng rượu ngâm quả để quét lên mặt bánh, đợi bánh nguội rồi trang trí kem, và đặt quả anh đào lên, vậy là xong (<em>các bạn mua được anh đào loại có màu đỏ thẫm sẽ đẹp và đúng kiểu hơn là dùng loại trong hình</em>). Nếu muốn bánh đậm vị Rum hơn các bạn có thể thêm khoảng 10ml rượu vào 1 công thức. Mình cho thêm rượu ngay từ khi làm bánh, ăn rất thích, có vị thơm của Chocolate, nồng nàn của rượu, ngọt ngào của anh đào và ngậy béo của kem :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7286996562/" title="IMG_3105-1 by LinhTrang9185, on Flickr"><img alt="IMG_3105-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8168/7286996562_1f806634e4_z.jpg" width="441"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

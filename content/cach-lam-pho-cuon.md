@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2019/02/cách-làm-phở-cuốn-banner.jpg"
 description: "Cách làm phở cuốn: một trong những món ăn rất nổi tiếng của Hà Nội, ngon miệng, mát ruột, đủ chất mà lại dễ làm. Chỉ mất chưa đầy nửa tiếng thôi, bạn đã có"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Cũng như phở chiên phồng, phở cuốn tuy không phải là món truyền thống lâu đời nhưng vẫn là một trong những món ăn gắn liền với Hà Nội, hương vị đặc trưng, không trộn lẫn với các vùng miền khác. Món phở cuốn này cũng “dễ tính” hơn món gỏi cuốn truyền thống vì vỏ bánh phở mềm sẵn rồi, cuốn rất dễ. Vừa có tinh bột, vừa có rau và cả thịt nữa, lại dễ làm nên với những ngày sau Tết bận rộn mà lại muốn ăn ngon thì đây chính là lựa chọn hoàn hảo của bạn :)</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8180" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/phocuon_final-1024x683.jpg" width="1024"/></p>
 <h2>CÁCH LÀM PHỞ CUỐN</h2>
@@ -31,10 +30,7 @@ description: "Cách làm phở cuốn: một trong những món ăn rất nổi 
 <li><em><span style="color: #000000;">30 ml dầu ăn</span></em></li>
 </ul>
 <p><span style="color: #800000;"><strong>Cách làm:</strong></span></p>
-<p><span style="color: #000000;">1. Sơ chế nguyên liệu:</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">1. Sơ chế nguyên liệu:</span></p>
 <p><span style="color: #000000;">– Thịt bò rửa sạch, thấm khô, thái thật mỏng.  Cho vào âu thịt 1 thìa cafe đường, đảo đều, để 10’ cho thấm (Ướp đường trước sẽ giúp thịt được mềm và đậm đà hơn). Sau đó ướp thịt với 1 thìa cafe bột nêm/ bột gia vị, 1 thìa cafe dầu hào, 1/2 thìa cafe hạt tiêu. Để 15’ cho thấm.</span></p>
 <p><span style="color: #000000;">– Giá đỗ rửa sạch</span></p>
 <p><span style="color: #000000;">– Hành, tỏi bóc bỏ, đập dập, băm nhỏ</span></p>
@@ -44,12 +40,9 @@ description: "Cách làm phở cuốn: một trong những món ăn rất nổi 
 <p><img alt="" class="aligncenter size-large wp-image-8182" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/phocuon2-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">3. Cuốn phở</span></p>
 <p><span style="color: #000000;">– Trải 1 lá bánh phở lên thớt/ mặt phẳng sạch, xếp rau xà lách và rau thơm. Xúc 1 thìa bò xào giá xếp lên trên rau sống.</span></p>
-<p><span style="color: #000000;">– Nhẹ nhàng cuốn đều bánh phở sao cho toàn bộ nhân và rau ở trong lá phở cuốn</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">– Nhẹ nhàng cuốn đều bánh phở sao cho toàn bộ nhân và rau ở trong lá phở cuốn</span></p>
 <p><span style="color: #000000;">– Ăn ngay sau khi cuốn, chấm với nước chấm chua ngọt.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8183" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/phocuon3-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">4. Pha nước chấm.</span></p>
 <p><span style="color: #000000;">Trong 1 bát nhỡ, trộn đều tất cả các nguyên liệu làm nước chấm chua ngọt, gồm: 20 g đường, 20 ml nước mắm, 20 ml nước lọc, 15 ml nước chanh, nêm nếm lại cho vừa khẩu vị. Thêm ớt tươi cắt lát mỏng.</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

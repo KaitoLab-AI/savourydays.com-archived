@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2016/03/cach-lam-banh-flan.jpg"
 description: "Bài viết chia sẻ hai cách làm bánh flan ngon, mềm, mịn và không bị rỗ. Công thức kèm theo video hướng dẫn chi tiết và các lưu ý để làm bánh hoàn hảo"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>(*) <span style="color: #ff0000;">Ghi chú bổ sung tháng 3/2016:</span> Vì <span style="text-decoration: underline;"><strong>cách làm bánh flan</strong></span> là một trong những bài viết có lượng bạn đọc hưởng ứng cao nhất tại SD nên mình đã quay video hướng dẫn chi tiết cách làm. Bên cạnh công thức cũ (giới thiệu năm 2011), trong video mình cũng chia sẻ một cách làm bánh flan mới sử dụng sữa đặc thay cho kem tươi, để dành tặng cho các bạn ở những nơi khó tìm mua được kem tươi nhé :)</p>
 <p>Mời các bạn xem thêm các lưu ý để làm bánh Flan mềm, ngon, không bị rỗ <strong><a href="/nhat-ky-hoc-lam-banh-chia-se-kinh-nghiem-lam-flan-creme-kem-caramel/" target="_blank">trong bài viết này. </a></strong></p>
 <p>—————</p>
 <p>Có nhiều công thức làm bánh Flan, ngoại trừ việc tỉ lệ trứng : chất lỏng cần đủ cân đối để Flan có thể đông, thì còn lại mình nghĩ có lẽ phụ thuộc chủ yếu vào khẩu vị của các gia đình. Bản thân mình cũng thử nghiệm khá nhiều tỉ lệ khác nhau, thêm bớt trứng, thêm bớt lòng đỏ, điều chỉnh lượng kem tươi, sữa tươi… và cuối cùng tạm “hạ cánh” ở công thức mà mình giới thiệu trong bài.</p>
-<p>Cách làm bánh flan này mình điều chỉnh từ công thức Flan của Cook’s Illustrated, sử dụng 3 quả trứng + 2 lòng đỏ (tức là tổng cộng 5 lòng đỏ : 3 lòng trắng). Mình cảm thấy tỉ lệ lòng trắng : lòng đỏ như thế này là vừa xinh, nhiều lòng trắng hơn thì không ngon, nhiều lòng đỏ hơn ăn cảm giác hơi ngấy và bứ. Lượng chất lỏng thì gồm 400ml sữa tươi &amp; 150ml kem tươi, kem tươi giúp Flan mềm và ngậy hơn.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Cách làm bánh flan này mình điều chỉnh từ công thức Flan của Cook’s Illustrated, sử dụng 3 quả trứng + 2 lòng đỏ (tức là tổng cộng 5 lòng đỏ : 3 lòng trắng). Mình cảm thấy tỉ lệ lòng trắng : lòng đỏ như thế này là vừa xinh, nhiều lòng trắng hơn thì không ngon, nhiều lòng đỏ hơn ăn cảm giác hơi ngấy và bứ. Lượng chất lỏng thì gồm 400ml sữa tươi &amp; 150ml kem tươi, kem tươi giúp Flan mềm và ngậy hơn.</p>
 <p>5 năm sau khi giới thiệu công thức dùng sữa tươi và kem tươi trên đây, với mình đây vẫn là cách làm bánh flan ngon nhất. Tỉ lệ nguyên liệu này cho mùi vị của bánh flan rất hoàn hảo và cân bằng, và không thể chỉnh sửa hay thêm bớt gì nữa. Tuy nhiên, vì ở Việt Nam có nhiều nơi mua kem tươi rất khó, nên bên cạnh công thức dùng kem tươi này, mình giới thiệu thêm với các bạn một công thức nữa không dùng kem tươi mà dùng sữa đặc có đường, sữa tươi và trứng. So với công thức có kem tươi thì công thức dùng sữa đặc kém ngậy hơn một tẹo, tuy nhiên vẫn rất ngon và đậm đà. Sữa đặc và lòng đỏ trứng là hai thứ nguyên liệu giúp cho flan có độ mềm mướt cũng như độ ngậy nhưng không quá nhiều. Nên bạn nào không quen ăn đồ nhiều béo thì dùng công thức này mình nghĩ là rất ổn.</p>
 <p style="text-align: center;"><em>Bánh Flan làm năm 2011</em></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6537585123/" title="Flan/ Creme Caramel by LinhTrang9185, on Flickr"><img alt="Cách làm bánh Flan/ Creme Caramel" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7015/6537585123_577a1cb549_z.jpg" width="442"/></a></p>
@@ -36,10 +32,7 @@ description: "Bài viết chia sẻ hai cách làm bánh flan ngon, mềm, mịn
 <li><em>150 ml (1/2 cup + 2 Tbsp) kem tươi (whipping cream, hàm lượng béo 30 – 35%)</em></li>
 <li><em>1 thìa cafe/ teaspoon (5ml) vanilla extract (vani chiết xuất tự nhiên – không bắt buộc)</em></li>
 </ul>
-<p><strong>* Phần Caramel</strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong>* Phần Caramel</strong></p>
 <ul>
 <li><em>70 gram đường (khoảng 1/3 cup)</em></li>
 <li><em>Nước khoảng 30 – 40 ml (3 tbsp), đủ ngập đường </em></li>
@@ -67,7 +60,6 @@ description: "Bài viết chia sẻ hai cách làm bánh flan ngon, mềm, mịn
 <p>– Cho 3 trứng + 2 lòng đỏ vào âu. Cho đường. Dùng phới lồng cầm tay  hoặc nĩa/ dĩa nhẹ nhàng đánh trứng và đường cho tan bớt. Lưu ý: chỉ đánh tan trứng, <strong>không đánh bông</strong>.</p>
 <p>– Cho sữa &amp; kem tươi vào nồi. Đun lửa vừa và khuấy đều tay. Đến khi kem sữa ấm nóng (nóng hơn nước dùng để tắm một chút) thì bắc xuống.</p>
 <p>– Từ từ đổ kem sữa vào âu trứng đường, vừa đổ vừa nhẹ nhàng khuấy đều. Cho vani, quấy đều.</p>
-
 
 <p>– Lọc hỗn hợp kem sữa qua rây để loại hết các lợn cợn trứng nếu có. Chia vào các khuôn Flan.</p>
 <p>– Một vài chú ý trong phần này là</p>
@@ -127,4 +119,4 @@ description: "Bài viết chia sẻ hai cách làm bánh flan ngon, mềm, mịn
 <p>* <strong>Nếu xem trên điện thoại di động:</strong></p>
 <p>– Xem tại website Savoury Days: gõ lên màn hình để hiện ra thanh điều chỉnh bật, tua tiến lùi. Nhìn vào góc dưới bên phải, có nút thu nhỏ màn hình (hai mũi tên quay vào nhau) và một nút nhỏ giống khung gõ thoại. Ấn vào nút này và chọn Vietnamese là xem được phụ đề.</p>
 <p>– Xem tại Youtube: nhìn lên góc trên bên phải của video, ấn vào nút có ba dấu chấm xếp thành hàng dọc, chọn nút ở chính giữa (nằm giữa “quality” và “report”). Khi nút này “On” thì chọn Vietnamese. Để chọn HD thì ấn vào nút Quality -&gt; 720p</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2013/11/KemboThuySy.jpg"
 description: "cách làm kem trang trí bánh, kem bơ, kem bơ lòng trắng trứng"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Có rất nhiều kiểu kem bơ (<em>buttercream</em>) khác nhau, nhưng ba kiểu “cổ điển” và phổ biến nhất có lẽ là kem bơ kiểu Thụy Sỹ, kiểu Italy và kiểu Pháp (<em>Swiss/ Italian/ French buttercream). </em>Kem bơ kiểu Thụy Sỹ và Italy đều sử dụng lòng trắng trứng, nhưng khác nhau trong cách làm, còn kem bơ kiểu Pháp trước đây sử dụng lòng trắng nhưng kiểu hiện đại thì thường là lòng đỏ hoặc cả quả trứng. Mình chọn giới thiệu kem bơ kiểu Thụy Sỹ trước vì thao tác của nó đơn giản nhất trong ba loại kem. Mùi vị cũng rất ngon. Lòng trắng trứng giúp trung hòa vị bơ, đồng thời tạo kết cấu xốp cứng cho kem. So với kem bơ sữa tươi, cảm nhận của mình là kem bơ kiểu TS ít ngấy hơn, đặc biệt là sau khi lấy từ tủ lạnh, kem ăn mát mát, rất dễ chịu. Bản thân mình là người rất ít dùng kem bơ vì sợ ngấy mà cũng bị chinh phục.</p>
 <p>Có một vài e ngại về việc sử dụng lòng trắng trứng sống trong kem bơ kiểu TS. Thật ra, kem bơ kiểu TS rất an toàn vì các vi khuẩn nguy hại trong trứng sẽ bị tiêu diệt ở nhiệt độ khoảng 65 độ C. Với kem bơ kiểu TS, trứng sẽ cần được đun cách thủy đến khoảng 70 – 75 độ C, cho nên mặc dù không chín hẳn nhưng trứng đã được diệt khuẩn rồi. Bạn nào ở nước ngoài, nếu vẫn không yên tâm thì có thể sử dụng trứng bio nhé.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/10994125204/" title="IMG_3941-1 by LinhTrang9185, on Flickr"><img alt="IMG_3941-1" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3784/10994125204_49cd0d4443.jpg" width="500"/></a><b></b></p>
@@ -21,10 +20,7 @@ description: "cách làm kem trang trí bánh, kem bơ, kem bơ lòng trắng tr
 <li><i>80 g đường tùy khẩu vị</i><i> – nên <strong>dùng loại hạt mịn hoặc đường bột cho dễ tan </strong><br/>
 </i></li>
 </ul>
-<p><span style="color: #800000;"><b>Cách làm </b></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><b>Cách làm </b></span></p>
 <p>(*) Tháng 12/2015 mình đã quay lại video cách làm kem bơ. Mời các bạn xem video tại <strong><a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days</a></strong> (mình cập nhật video mới hàng tuần nên các bạn có thể Subscribe/ Đăng kí để nhận được thông báo ngay khi có video mới nhé :) ). Nếu không xem được video tại blog thì các bạn có thể xem trực tiếp ở <strong><a href="https://youtu.be/Db_5BTvy5r4" target="_blank">link này</a></strong>.</p>
 <p>Video có phụ đề tiếng Anh và tiếng Việt. Khi xem các bạn bật CC và chỉnh Language trong Setting để chọn ngôn ngữ. Ngoài ra, nhớ chọn chế độ 720p (HD) để xem video được rõ nét nhất nha.</p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/Db_5BTvy5r4" width="560"></iframe></div>
@@ -35,10 +31,7 @@ description: "cách làm kem trang trí bánh, kem bơ, kem bơ lòng trắng tr
 <p><em>– Nên dùng trứng rất tươi. Các lưu ý khác về thao tác xem thêm bài về <a href="/danh-bong-long-trang-trung/">Cách đánh bông lòng trắng trứng</a></em>.</p>
 <p>3. Dùng máy đánh trứng, bắt đầu ở tốc độ thấp rồi từ từ tăng dần tốc độ, đánh trứng đến bông cứng: trứng mịn, bóng, dẻo, nhấc que đánh lên thấy có chóp kéo theo, đầu chóp có thể hơi cong. <em>Chỉ đánh trứng vừa đủ, không đánh quá bông, sẽ làm trứng dễ bị tách nước khi trộn cùng bơ.</em></p>
 <p style="text-align: center;"><em>Đánh trứng với máy, đầu tiên sẽ có nhiều bọt khí to…  </em></p>
-<p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/10993991173/" title="IMG_3926 by LinhTrang9185, on Flickr"><img alt="IMG_3926" height="333" loading="lazy" src="http://farm3.staticflickr.com/2860/10993991173_34f9f5535d.jpg" width="500"/></a></em></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/10993991173/" title="IMG_3926 by LinhTrang9185, on Flickr"><img alt="IMG_3926" height="333" loading="lazy" src="http://farm3.staticflickr.com/2860/10993991173_34f9f5535d.jpg" width="500"/></a></em></p>
 <p style="text-align: center;"><em>Rồi bọt khí nhỏ dần và trứng trở nên “cứng”, bóng dẻo </em></p>
 <p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/10993937654/" title="IMG_3928 by LinhTrang9185, on Flickr"><img alt="IMG_3928" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7425/10993937654_ae07f1418d.jpg" width="500"/></a></em></p>
 <p style="text-align: center;"><em>trứng sau khi đánh xong</em></p>
@@ -58,7 +51,6 @@ description: "cách làm kem trang trí bánh, kem bơ, kem bơ lòng trắng tr
 <p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/10993990383/" title="IMG_3931 by LinhTrang9185, on Flickr"><img alt="IMG_3931" height="333" loading="lazy" src="http://farm8.staticflickr.com/7408/10993990383_a371472aef.jpg" width="500"/></a></em></p>
 <p style="text-align: center;"><em>Nếu bơ còn lạnh, có thể sẽ bị lổn nhổn thế này.. </em></p>
 <p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/10993990183/" title="IMG_3932 by LinhTrang9185, on Flickr"><img alt="IMG_3932" height="333" loading="lazy" src="http://farm6.staticflickr.com/5546/10993990183_9602dcd299.jpg" width="500"/></a></em></p>
-
 
 <p style="text-align: center;"><em>Nhưng không sao, cứ kiên nhẫn đánh tiếp, bơ sẽ mịn mượt hơn </em></p>
 <p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/10993990083/" title="IMG_3934 by LinhTrang9185, on Flickr"><img alt="IMG_3934" height="333" loading="lazy" src="http://farm3.staticflickr.com/2820/10993990083_660425f826.jpg" width="500"/></a></em></p>
@@ -95,4 +87,4 @@ description: "cách làm kem trang trí bánh, kem bơ, kem bơ lòng trắng tr
 <p>3. Sau khi đánh xong, có thể dùng spatula, thìa hoặc cây chà láng đánh kem bằng tay khoảng 1 phút cho kem mượt và hết bọt khí.</p>
 <p>Nếu đánh kem bơ bị lổn nhổn, hoặc kem bị chảy, xem cách giải quyết trong phần trên.</p>
 <p>Kem trong hình được bắt bằng đui sò mở 6 cánh (wilton 1M), cách bắt bông hồng xem tại <a href="/cong-thuc-cupcake-co-ban-kem-bo-sua-tuoi/"><strong>ĐÂY</strong></a>.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2014/06/NemChuaNuong.jpg"
 description: "học cách làm nem chua rán cùng Savoury days"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Nem chua là một trong những món ăn vặt mà mình có thể ăn thay cơm – dù là mùa nóng hay lạnh đều được. Thích là thế nhưng vì luôn nghĩ nem chua là thứ không dễ làm nên mãi đến gần đây vì quá thèm nên mình mới mày  mò học cách chế biến. Tìm hiểu công thức rồi đến làm thử, mới thấy là hóa ra nó cũng không khó như mình tưởng, mùi vị chẳng thua gì nem chua ở nhà mà chất lượng vệ sinh thì cực kì đảm bảo. Thế là giờ buổi tối hôm nào đi làm về mệt, muốn ăn cái gì ngon ngon để “phấn khởi” trở lại, là có thể lấy nem gói sẵn từ tủ đá, nướng nhanh rồi chấm tương ớt ăn kèm dưa chuột chẻ, thành một bữa tối low-carb rất ngon :)</p>
 <p>Có hai loại nem phổ biến là nem chua (ăn sống) và nem ngọt để rán và nướng. Cách làm của hai loại này khá giống nhau, chỉ khác là nem để rán/ nướng thì chưa được lên men chua (có lẽ vì vậy nên mới gọi là nem ngọt). Cần dùng nem chưa ủ chua vì nếu nem đã chua rồi thì khi rán sẽ rất bắn hoặc dễ bị nổ, và vị cũng sẽ trở nên chua hơn rất nhiều, kiểu chua loét ấy. Trong bài này mình giới thiệu cách làm nem ngọt trước, nem chua mình sẽ viết sau nhé.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/14325897358/" title="Nem chua nuong chao by LinhTrang9185, on Flickr"><img alt="Nem chua nuong chao" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3891/14325897358_02bcb9b462.jpg" width="500"/></a></p>
 <p>Nguyên liệu làm nem ngọt không có gì cầu kì, thường gồm<strong> thịt xay nhuyễn</strong> (như giò sống) và <strong>bì lợn</strong> thái chỉ, cắt nhỏ. Các gia vị cho vào thường có: <strong>nước mắm, đường, tỏi tươi, tỏi phi vàng, ớt</strong>. Một số công thức có thể thêm thính gạo và rượu mạnh. Thật ra hai thứ này thường được cho vào để giúp nem lên men chua và chín nhanh. Mặc dù nem ngọt không được ủ, nên thính và rượu sẽ không làm cho men bị chua, nhưng mình cảm giác là khi cho hai thứ này vào thì thịt cũng chín một phần, khi nướng lên ăn vị cũng khác. Nên các bạn có thể cân nhắc khi cho vào nhé.</p>
-<p>Mặc dù nguyên liệu đơn giản như vậy nhưng để có món nem chua rán ngon không dễ. Lý do là tất cả các gia vị đều cần được cho ở mức “vừa đủ”, làm sao để nem dậy mùi thơm của tỏi, ớt, vừa đủ mặn ngọt đậm đà mà không có cái gì “nhiều” quá. Bên cạnh đó, việc xay và quết thịt, xử lí bì cũng sẽ quyết định nem có dai và giòn hay không. Nếu làm không khéo, thì sản phẩm có thể sẽ giống thịt viên hay giò sống chiên hơn là nem chua rán. Vì điều này mà mình cũng mất kha khá thời gian để thử nghiệm nem chua, và có rút ra được một vài kinh nghiệm để làm cho nem ngon hơn là:</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Mặc dù nguyên liệu đơn giản như vậy nhưng để có món nem chua rán ngon không dễ. Lý do là tất cả các gia vị đều cần được cho ở mức “vừa đủ”, làm sao để nem dậy mùi thơm của tỏi, ớt, vừa đủ mặn ngọt đậm đà mà không có cái gì “nhiều” quá. Bên cạnh đó, việc xay và quết thịt, xử lí bì cũng sẽ quyết định nem có dai và giòn hay không. Nếu làm không khéo, thì sản phẩm có thể sẽ giống thịt viên hay giò sống chiên hơn là nem chua rán. Vì điều này mà mình cũng mất kha khá thời gian để thử nghiệm nem chua, và có rút ra được một vài kinh nghiệm để làm cho nem ngon hơn là:</p>
 <ul>
 <li>Nên <em><strong>chọn thịt mới, càng mới càng tốt</strong></em> (thịt mới lấy từ lò mổ về, vẫn còn nóng là tốt nhất) vì thịt sẽ dai và ngọt hơn, khi xay và quết cũng dễ dai và giòn hơn. Loại thịt gì thì tùy theo khẩu vị mà các bạn có thể lựa chọn. Thường mọi người hay dùng nạc mông. Ngoài thịt lợn, có thể dùng thịt bò hay bê nếu thích. Các bạn có thể thử nhiều loại thịt khác nhau để chọn ra loại mà bạn thích nhất nhé. Mình thì hay dùng một nửa thịt bê và một nửa thịt lợn (thịt lợn có lẫn chút mỡ).</li>
 <li>Kể cả thịt đã xay rồi thì cũng nên xay lại, và bao giờ cũng phải đ<em><strong>ể thịt rất lạnh rồi mới xay</strong></em> thì thịt mới giòn và dai được</li>
@@ -53,10 +49,7 @@ description: "học cách làm nem chua rán cùng Savoury days"
 <li>Bì đến đây là có thể dùng được. Nếu muốn bì thơm hơn nữa thì vắt thêm khoảng 1/2 quả chanh, trộn đều rồi tãi bì ra cho bì chóng khô ráo. <strong>Bì cần thật khô khi trộn vào nem, tránh cho việc nước từ bì làm thịt bị ướt, nhão, nem sẽ kém giòn.</strong></li>
 </ul>
 <p>Cần phải làm nhiều bước như trên vì bì ở bên này khá hôi, nên muối, rượu gừng, chanh đều là để khử mùi. Thường thì mình hay làm nhiều bì một lần, rồi chia túi nhỏ để đông lạnh. Khi cần chỉ rã đông, trần sơ qua nước sôi rồi xả lại nước lạnh, để cho khô ráo là có thể dùng được.</p>
-<p><a href="https://www.flickr.com/photos/55490207@N05/14325898018/" title="IMG_5182 by LinhTrang9185, on Flickr"><img alt="IMG_5182" class="aligncenter" height="333" loading="lazy" src="https://farm3.staticflickr.com/2901/14325898018_585cb2bf12.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14325898018/" title="IMG_5182 by LinhTrang9185, on Flickr"><img alt="IMG_5182" class="aligncenter" height="333" loading="lazy" src="https://farm3.staticflickr.com/2901/14325898018_585cb2bf12.jpg" width="500"/></a></p>
 <p><strong>2. Sơ chế phần thịt</strong></p>
 <p>– <strong><em>Thịt nên được xay từ 2 đến 3 lần. Sau mỗi lần đều để cho thật lạnh rồi mới xay tiếp</em></strong>. Việc để lạnh sẽ giúp cho thịt có độ dai và giòn sau khi xay xong. Thịt cần xay làm sao để nhuyễn như giò sống, nhưng khi quết vẫn nhìn thấy những sợi thớ thịt  .</p>
 <p>– Mình hay mua thịt đã xay sơ qua rồi (miếng thịt còn khá to, như thịt để làm chả băm hay thịt viên chiên vậy). Thịt mua về để ngăn mát tủ lạnh khoảng 3h cho thịt thật lạnh. Lấy ra xay trong khoảng 1 – 2 phút. Tùy vào lượng thịt và công suất máy xay mà các bạn có thể xay một lần hoặc chia thịt làm nhiều phần. Mình dùng máy xay khá nhỏ nên thường là chia thành 3 – 4 phần để xay. Lưu ý là không chạy máy quá lâu, làm cho máy bị nóng, sẽ ảnh hưởng đến thịt. Làm sao để thịt khi xay xong vẫn còn lạnh là tốt nhất.</p>
@@ -72,7 +65,6 @@ description: "học cách làm nem chua rán cùng Savoury days"
 <p><a href="https://www.flickr.com/photos/55490207@N05/14511106154/" title="IMG_5194 by LinhTrang9185, on Flickr"><img alt="IMG_5194" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3891/14511106154_a8074bd9a1.jpg" width="500"/></a></p>
 <p>– Đến đây chúng mình sẽ có một khối thịt tương đối chắc và dẻo, dậy mùi thơm của tỏi ớt và mắm. Khâu cuối cùng là gói lại thôi.</p>
 <p>– Phần gói này mình dùng nilon bọc thực phẩm (cling firm). Gói thành từng miếng thuôn tròn dài. Không có gì khó khăn, nhưng phải<em><strong> gói chắc tay một chút thì nem sẽ giòn và dai hơn</strong></em>. Mình gói như sau:</p>
-
 
 <ul>
 <ul>
@@ -91,4 +83,4 @@ description: "học cách làm nem chua rán cùng Savoury days"
 <p>(*) <span style="color: #ff0000;">Mùi vị của nem chua sẽ tùy thuộc vào loại thịt, mức độ xay và quết, độ đậm nhạt của gia vị. Định lượng gia vị trong công thức chỉ để tham khảo, vì các loại nước mắm khác nhau có thể có độ đậm nhạt khác nhau, và tùy thuộc vào khẩu vị của gia đình. Nên với nem chua, cần thử một vài lần để có công thức ưng ý riêng của bạn nhé</span> :)</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/14489383216/" title="IMG_5593 by LinhTrang9185, on Flickr"><img alt="IMG_5593" class="aligncenter" height="333" loading="lazy" src="https://farm3.staticflickr.com/2913/14489383216_041b20af0a.jpg" width="500"/></a></p>
 <p> </p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

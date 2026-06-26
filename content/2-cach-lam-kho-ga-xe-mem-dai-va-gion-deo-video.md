@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2016/11/cách-làm-khô-gà-xé-cay-banner.jpg"
 description: "Học cách làm khô gà xé cay ngon, hai kiểu: mềm dai và giòn dẻo với Savoury Days. Công thức kèm video minh hoạ và hướng dẫn chi tiết để tránh thất bại"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Thịt gà lườn là món không được ưa chuộng lắm ở nhà mình. Nếu như có luộc cả con gà thì phần lườn thường sau đó sẽ được cho vào nồi cháo, nấu miến hoặc làm nộm gỏi với mục đích dùng các thứ nguyên liệu khác để “đánh lạc hướng” sự khô, bở, bã của lườn gà. Nhưng mà kể cả có làm mấy món này thì cũng chỉ tiêu thụ được một phần thịt thôi. Ngày Tết trong nhà lúc nào cũng có vài ba con gà béo múp, phần lườn dày thịt có làm chục đĩa nộm cũng chưa hết được. Nhiều khi chỉ nghĩ cách làm sao giải quyết hết thịt gà trong tủ lạnh cũng là vấn đề nan giải.</p>
 <p>Nhưng năm tới thì yên tâm không phải lo chuyện này nữa rồi. Nhà có bao nhiêu thịt lườn gà sẽ được mang làm khô gà xé cay hết ^.^ Thịt lườn gà làm món này như kiểu được biến hoá thành một loại thịt mới. Hoàn toàn không còn vị khô bã nữa mà mềm ngọt, hơi dai dai, lại có hương vị rất hấp dẫn nhờ hành, tỏi, sả, ớt, ngũ vị hương. Kiểu mùi vị cũng như thịt bò khô nhưng thanh hơn. Còn cách làm thì nhanh và đơn giản hơn thịt bò khô nhiều. Dùng để nhậu lai rai cực ngon mà dùng kèm cơm hay xôi trắng cũng rất hợp.</p>
 <p>Trong bài này mình xin giới thiệu với các bạn hai kiểu làm khô gà xé là kiểu <strong>mềm, dai, khô, tơi </strong>(giống kiểu ruốc thịt) và <strong>giòn, dẻo, hơi ướt</strong>. Mỗi thứ đều có kiểu ngon riêng nên hơi khó nói kiểu nào ngon hơn, nên các bạn có thể làm thử rồi chọn theo khẩu vị nhé. Mình thì hay dùng kiểu mềm dai để ăn với cơm hay ăn vã, còn kiểu ướt dẻo thì trộn nộm đu đủ (giống kiểu nộm đu đủ khô bò :) ).</p>
 <p><img alt="cach-lam-kho-ga-xe-cay" class="aligncenter size-full wp-image-7256" height="2262" loading="lazy" sizes="(max-width: 3400px) 100vw, 3400px" src="/wp-content/uploads/2016/11/cách-làm-khô-gà-xé-cay.jpg" width="3400"/></p>
 <h2>CÁCH LÀM KHÔ GÀ XÉ CAY</h2>
-<p><span style="color: #800000;"><strong>Nguyên liệu </strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu </strong></span></p>
 <p><strong>Gia vị luộc cùng thịt gà </strong></p>
 <ul>
 <li><em>450 g thịt lườn gà đã bỏ xương </em></li>
@@ -56,10 +52,7 @@ description: "Học cách làm khô gà xé cay ngon, hai kiểu: mềm dai và 
 <p> </p>
 <p><strong>TÓM TẮT CÁC BƯỚC</strong></p>
 <p>1. Luộc gà:</p>
-<p>– Cho lườn gà vào nồi cùng gừng, hành, lá chanh và chút muối. Đổ nước lạnh ngập thịt gà. Đun lửa to.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>– Cho lườn gà vào nồi cùng gừng, hành, lá chanh và chút muối. Đổ nước lạnh ngập thịt gà. Đun lửa to.</p>
 <p>– Khi nước sôi mạnh thì hạ lửa vừa và hớt sạch bọt trong nồi. Luộc thịt ở lửa vừa khoảng 5 – 10 phút tuỳ độ dày của miếng thịt. Tắt bếp đậy vung thêm 10 – 15 phút rồi vớt thịt ra để nguội, giữ nước dùng (để xào thịt và nấu canh :) ).</p>
 <p>– Lưu ý:</p>
 <ul>
@@ -80,7 +73,6 @@ description: "Học cách làm khô gà xé cay ngon, hai kiểu: mềm dai và 
 <p>– Nếm lại thịt và điều chỉnh vị mặn ngọt theo khẩu vị. Lưu ý là sau khi xào khô thịt sẽ đậm vị hơn. Do vậy ở bước này nên nêm nhạt một chút.</p>
 <p>– Bắc chảo lên bếp, xào thịt trên lửa to tới khi nước bay hơi hết và thịt khô ráo. Đảo tới khi cạnh ngoài thịt hơi xém giòn thì bắc ra khỏi bếp. Đổ thịt lên đĩa có lót giấy thấm dầu. Đợi thịt nguội thì cho vào hộp sạch, để tủ lạnh dùng trong 1 tuần.</p>
 
-
 <p>– Về cơ bản cách làm này không khác cách 1 nhiều. Nhưng việc sử dụng dầu ăn sẽ giúp cho thịt được “rán áp chảo” (sau khi nước bay hơi hết) và do đó có phần ngoài giòn trong khi bên trong thịt thì mềm dẻo.</p>
 <p>Chúc các bạn thành công! :)</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

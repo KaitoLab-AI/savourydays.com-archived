@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2015/12/pizza.jpg"
 description: "Cách làm hai loại Pizza đế giòn rụm với hải sản pho-mát và Pizza đế mềm với salami, nấm và pho-mát. Có video hướng dẫn kèm theo. "
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Nhân dịp năm mới, kính chúc các cô chú bác, anh chị em, bạn bè gần xa của Savoury Days thêm 365 ngày tràn đầy năng lượng, nhiệt huyết, vạn sự bình an và luôn tìm thấy thật nhiều cảm hứng cũng như những niềm vui từ to đến rất to trong bếp nha :x</p>
 <p>Năm 2015 trôi qua đặc biệt nhanh với mình, có lẽ bởi có rất nhiều dấu mốc quan trọng. Đầu năm là trở về nhà và gặp gỡ các bạn đọc ở Việt Nam nhân dịp ra mắt sách mới, giữa năm bảo vệ luận án, chính thức tạm biệt nước Bỉ và cuộc sống của một nghiên cứu sinh, để rồi quay trở lại với Savoury Days, với bao nhiêu dự định, kế hoạch và mục tiêu mới. Là một năm bận rộn, nhiều lúc đến mức quay cuồng, cho tới tận thời khắc cuối cùng của năm. Cho nên từ Giáng sinh tới giờ chẳng hề cảm thấy tí nào không khí của lễ hội. Chỉ tới khi nghe tiếng pháo hoa vọng lại từ cảng, thấy tiếng người đếm ngược, và không khí hân hoan trên màn hình ti vi, thấy mọi người chúc tụng và trao nhau những nụ hôn say đắm trong thời khắc chuyển giao, trong lòng mới bỗng nhiên dội lên cảm giác nôn nao và cả náo nức. Cảm thấy giống như mình vừa có cơ hội để nhấn nút “restart”, nạp lại năng lượng cho chính mình để khởi động những “chương trình” mới và dự định mới. Mong là sẽ có thêm một năm bận rộn và tràn ngập niềm vui nữa :)</p>
 <p>Cũng nhân dịp lễ đầu năm, mình xin thông báo kết quả “quay sổ xố trúng thưởng”, nhận quà giáng sinh của SD từ video “<a href="/cach-lam-banh-quy-so-co-la-chip-cong-thuc-moi/" target="_blank"><strong>Cách làm bánh quy chocolate chip</strong></a>” nhé. Cảm ơn các bạn đã gửi lời chúc mừng Giáng sinh và Năm mới, và tham gia vào mini game. Xin mời chủ nhân của các phản hồi dưới đây gửi email tới savourydaysvn@gmail.com để thống nhất cách nhận quà nha:</p>
 <p><img alt="Screen Shot 2016-01-01 at 13.56.05.png" class="aligncenter size-full wp-image-6868" height="303" loading="lazy" sizes="(max-width: 1019px) 100vw, 1019px" src="/wp-content/uploads/2016/01/Screen-Shot-2016-01-01-at-13.56.05.png.jpg" width="1019"/></p>
-<p><img alt="Screen Shot 2016-01-01 at 13.57.52.png" class="aligncenter size-full wp-image-6869" height="322" loading="lazy" sizes="(max-width: 1022px) 100vw, 1022px" src="/wp-content/uploads/2016/01/Screen-Shot-2016-01-01-at-13.57.52.png.jpg" width="1022"/></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><img alt="Screen Shot 2016-01-01 at 13.57.52.png" class="aligncenter size-full wp-image-6869" height="322" loading="lazy" sizes="(max-width: 1022px) 100vw, 1022px" src="/wp-content/uploads/2016/01/Screen-Shot-2016-01-01-at-13.57.52.png.jpg" width="1022"/></p>
 <p><img alt="Screen Shot 2016-01-01 at 14.04.35.png" class="aligncenter size-full wp-image-6870" height="341" loading="lazy" sizes="(max-width: 1021px) 100vw, 1021px" src="/wp-content/uploads/2016/01/Screen-Shot-2016-01-01-at-14.04.35.png.jpg" width="1021"/></p>
 <p>—————</p>
 <p>Bài viết đầu tiên của năm 2016 dành cho món Pizza, hi vọng là chưa quá muộn để bạn nào có dự định thử sức với món ăn này thì vẫn kịp làm trong dịp nghỉ Tết Dương lịch dài ngày này. Đây là video thứ 3 trong series hướng dẫn cách tự làm Pizza của mình. Trong các phần trước mình đã giới thiệu cách làm đế bánh Pizza và sốt cà chua cho Pizza rồi, còn video ngày hôm nay sẽ là phần hoàn thiện cho hai loại Pizza khác nhau. Loại thứ nhất là Pizza đế mỏng giòn với hải sản và pho-mát. Loại thứ hai là Pizza đế dày với lớp phủ gồm salami, pho-mát, nấm, hành tây và trứng. Sau khi nướng xong trứng còn hơi lòng đào, cắt ra ăn kèm với các loại nhân khác vị rất tuyệt.</p>
@@ -27,10 +23,7 @@ description: "Cách làm hai loại Pizza đế giòn rụm với hải sản ph
 <p> </p>
 <p>Tóm tắt công thức và các bước</p>
 <p><strong>PIZZA ĐẾ MỎNG GIÒN HẢI SẢN VÀ PHO-MÁT</strong></p>
-<p><strong><span style="color: #800000;">Nguyên liệu</span> (1 pizza đế giòn, đường kính khoảng 23 cm cho 2 người ăn)</strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong><span style="color: #800000;">Nguyên liệu</span> (1 pizza đế giòn, đường kính khoảng 23 cm cho 2 người ăn)</strong></p>
 <p><strong>A. Phần đế bánh</strong></p>
 <ul>
 <li>170 ~ 180 gram bột đế bánh đã ủ xong lần một và sẵn sàng để tạo hình (1/2 <a href="/video-cach-lam-pizza-cong-thuc-moi/" target="_blank"><strong>công thức bột bánh Pizza</strong></a> mà mình đã giới thiệu trong phần trước)</li>
@@ -71,7 +64,6 @@ description: "Cách làm hai loại Pizza đế giòn rụm với hải sản ph
 <p>———</p>
 <p><strong>PIZZA ĐẾ DÀY VỚI SALAMI, PHO-MÁT, TRỨNG, HÀNH VÀ NẤM</strong></p>
 
-
 <p><strong><span style="color: #800000;">Nguyên liệu</span> (1 pizza đế dày, đường kính khoảng 20 cm cho 2 người ăn)</strong></p>
 <p><strong>A. Phần đế bánh</strong></p>
 <ul>
@@ -104,4 +96,4 @@ description: "Cách làm hai loại Pizza đế giòn rụm với hải sản ph
 <p>6. Nướng bánh ở nhiệt độ 210 độ C trong khoảng 10 phút, tới khi rìa bánh nở đều và có màu vàng hơi nhạt, khá khô ráo. Lấy bánh ra, đập một quả trứng vào chính giữa bánh, phủ thêm pho-mát lên trên. Tiếp tục nướng bánh ở 200 – 210 độ C trong 5 ~ 7 phút tới khi rìa bánh chín vàng, pho mát chảy và sôi, trứng chín lòng đào.</p>
 <p>Nếu bạn dùng lò nhỏ và có hiện tượng lửa trên thường cao hơn lửa dưới, thì nên nướng bánh ở rãnh thấp nhất của lò. Và trong 5 phút cuối có thể hạ nhiệt xuống 180~190 độ C để phần pho-mát trên mặt bánh không cháy nhiều.</p>
 <p>7. Lấy bánh ra khỏi lò, dùng bánh khi còn nóng. Bánh ngon hơn khi dùng kèm basil tươi. Nếu dùng không hết, có thể bọc kín, để tủ lạnh trong 1 ngày. Khi dùng nướng lại bánh ở 160 – 170 độ C trong khoảng 5 phút, bánh sẽ giòn trở lại.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

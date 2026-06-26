@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2016/12/IMG_2590-1024x1024.jpg"
 description: ""
 ---
 
-
 <p>&lt;Hỏi đáp lụm liền cuối năm&gt;</p>
 <p><em>– Sắp về VN, cảm giác thế nào Trang?<br/>
 </em><em>– chưa có cảm giác gì đặc biệt ạ, chỉ </em><em>thấy tháng này giống kiểu bị sao con lừa chiếu… :P </em></p>
 <p>Từ đầu tháng 12 tới giờ là quay cuồng trong vòng xoáy của mua đồ, dỡ đồ, đóng đồ, đi lại, khuân vác… Hai vợ chồng ban đầu rất lạc quan với viễn cảnh sẽ có ít nhất một tuần trong tháng tận hưởng không khí Giáng sinh và Năm mới của châu Âu trước khi về nhà. Thực tế là chục ngày cuối tháng, ngày nào cũng làm hùng hục từ sáng tới quá nửa đêm. Đến tận buổi sáng ngày rời đi, 2 tiếng trước khi lên tàu mới thực sự nhét được hết đồ đạc vào các va-li, thùng và túi.</p>
 <p>Hôm trước nhẩm tính với chồng là trong khoảng 8 năm trở lại đây trung bình cứ 1.5 – 2 năm chuyển nhà một lần. Chồng thêm vào: “<em>và lần sau thì khủng khiếp hơn lần trước” :D :D</em> chuẩn không thể nào chỉnh được hơn :P<em> </em>Hai lần chuyển nhà ở Bỉ là hai lần vật vã, nhưng chưa bằng khi chuyển từ Bỉ qua Đức, và chắc chắn thua xa lần này, từ Đức về Việt Nam. Đóng đồ vào thùng thì đơn giản thôi, nhưng chọn đồ nào để đóng là cả một vấn đề, đặc biệt là mớ đồ lạc xoong trong bếp của mình. Có nhiều thứ có lẽ chẳng còn giá trị vật chất nào nữa, nhưng đã đồng hành với mình từ ngày mới bắt đầu làm bếp, làm bánh, vứt đi thì không nỡ mà nhét hết vào thùng thì ….</p>
-<p>Thật may là cuối cùng mọi thứ đều vừa kịp và ổn cả. Cảm ơn các anh chị và bạn bè ở Berlin rất nhiều vì đã giúp đỡ hai vợ chồng xoay sở đống đồ đạc nặng hơn nửa tấn. Ngày cuối năm có thể ngồi thảnh thơi viết những dòng này là nhờ sự giúp đỡ của tất cả mọi người.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Thật may là cuối cùng mọi thứ đều vừa kịp và ổn cả. Cảm ơn các anh chị và bạn bè ở Berlin rất nhiều vì đã giúp đỡ hai vợ chồng xoay sở đống đồ đạc nặng hơn nửa tấn. Ngày cuối năm có thể ngồi thảnh thơi viết những dòng này là nhờ sự giúp đỡ của tất cả mọi người.</p>
 <p>Năm tới ở Việt Nam sẽ có nhiều sự thay đổi, nhiều thứ khác biệt, có lẽ sẽ là một năm với nhiều sự kiện đáng nhớ nữa. Nhưng việc của tương lai thì tương lai sẽ tính :P Còn bây giờ là tận hưởng khoảng thời gian cuối cùng của năm cũ đã. Rất vui vì trước ngày về nước được một lần nữa thấy tuyết đầu mùa.</p>
 <p><img alt="img_2590" class="aligncenter wp-image-7277 size-large" height="1024" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2016/12/IMG_2590-1024x1024.jpg" width="1024"/></p>
 <p>Xin chúc bạn bè của SD khắp năm châu cũng có những khoảng thời gian ấm áp và hạnh phúc bên cạnh gia đình của mình trong thời khắc chuyển giao năm cũ – năm mới.</p>
@@ -29,9 +25,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

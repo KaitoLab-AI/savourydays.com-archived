@@ -12,10 +12,7 @@ description: "dụng cụ làm bánh"
 <p>Dụng cụ làm bánh thì có rất nhiều, và cũng như các thứ đồ gia dụng khác, càng ngày lại càng có thêm nhiều sản phẩm mới để phục vụ cho “công cuộc nhào trộn &amp; nướng” thuận tiện hơn. Với các bạn đang trong giai đoạn học làm bánh thì mình nghĩ các dụng cụ giới thiệu trong Phần 1 &amp; 2 là tương đối đủ dùng rồi (<em>thật ra mình cũng chỉ có từng ấy thứ thôi :) )</em>. Phần cuối này mình giới thiệu thêm một số dụng cụ khác, đa phần đều nằm trong nhóm “có thì rất tốt, nhưng không có cũng không sao” nhé ;)</p>
 <p><strong>1. <span style="text-decoration: underline;">Các loại khuôn</span></strong></p>
 <p>Khác với các loại khuôn giới thiệu trong phần 2 – là những khuôn bánh cần thiết &amp; cơ bản, và có tính ứng dụng cao, có thể dùng để làm nhiều loại bánh – các khuôn trong mục này không hẳn là không cần thiết, nhưng phần lớn đều là khuôn chuyên dùng cho một loại bánh nhất định, mình giới thiệu thêm để cả nhà tiện tham khảo.</p>
-<p style="padding-left: 30px;"><em><strong>1.1. Khuôn petit fours</strong></em>:</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p style="padding-left: 30px;"><em><strong>1.1. Khuôn petit fours</strong></em>:</p>
 <p>Petit fours là tên gọi chung cho các loại bánh có kích thước nhỏ (ở bên này mình thấy kiểu đồ tráng miệng là Petit fours có vẻ rất phổ biến, mà thường là rất đẹp, mình thích ^^). Khuôn Petit fours là khuôn để làm các loại bánh này (một vài loại quen thuộc là financiers, mini tarlets..)</p>
 <p style="text-align: center;"><em>Bánh &amp; Khuôn Petit fours</em></p>
 <p style="text-align: center;"><a href="/wp-content/uploads/2012/03/yap4.gif"><img alt="" class="aligncenter wp-image-1974" height="328" loading="lazy" sizes="(max-width: 425px) 100vw, 425px" src="/wp-content/uploads/2012/03/yap4.gif" title="yap4" width="425"/></a></p>
@@ -25,10 +22,7 @@ description: "dụng cụ làm bánh"
 <p><a href="/wp-content/uploads/2012/03/ChicagoMetallic_SPEC_02_MADpan_26631.jpg"><img alt="" class="aligncenter size-full wp-image-1975" height="370" loading="lazy" sizes="(max-width: 370px) 100vw, 370px" src="/wp-content/uploads/2012/03/ChicagoMetallic_SPEC_02_MADpan_26631.jpg" title="ChicagoMetallic_SPEC_02_MADpan_26631" width="370"/></a></p>
 <p style="padding-left: 30px;"><em><strong>1.3. Khuôn Brioche:</strong></em></p>
 <p>Khuôn chuyên dụng cho bánh mỳ Brioche (một loại bánh mỳ của Pháp). Nếu nhìn qua sẽ thấy khuôn Brioche khá giống với khuôn Cupcake rời, nhưng khuôn Brioche thì thường có đáy hẹp và miệng rộng hơn, lòng khuôn cũng sâu hơn. Mặc dù vậy, các khuôn Brioche cỡ nhỏ vẫn có thể sử dụng để làm Muffins hoặc Cupcakes.</p>
-<p style="text-align: center;"><a href="/wp-content/uploads/2012/03/img76b.jpg"><img alt="" class="aligncenter wp-image-1976" height="310" loading="lazy" src="/wp-content/uploads/2012/03/img76b.jpg" title="img76b" width="388"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p style="text-align: center;"><a href="/wp-content/uploads/2012/03/img76b.jpg"><img alt="" class="aligncenter wp-image-1976" height="310" loading="lazy" src="/wp-content/uploads/2012/03/img76b.jpg" title="img76b" width="388"/></a></p>
 <p style="padding-left: 30px;"><em><strong>1.4. Khuôn Baguette:</strong></em> để làm bánh mỳ Baguette</p>
 <p><a href="/wp-content/uploads/2012/03/1223039975048.jpg"><img alt="" class="aligncenter size-full wp-image-1977" height="225" loading="lazy" src="/wp-content/uploads/2012/03/1223039975048.jpg" title="1223039975048" width="225"/></a></p>
 <p><span id="more-1959"></span><strong>2. <span style="text-decoration: underline;">Dụng cụ trang trí bánh</span></strong></p>
@@ -44,7 +38,6 @@ description: "dụng cụ làm bánh"
 <p style="padding-left: 30px; text-align: center;"><a href="/wp-content/uploads/2012/03/183674955_517df9ff8b.jpg"><img alt="" class="aligncenter wp-image-1980" height="263" loading="lazy" src="/wp-content/uploads/2012/03/183674955_517df9ff8b.jpg" title="183674955_517df9ff8b" width="350"/></a></p>
 <p><strong>3. Dụng cụ tạo hình bánh quy (cooki</strong>e)</p>
 <p style="padding-left: 30px;"><em><strong>3.1. Khuôn cắt bánh quy (Cookie cutters)</strong></em></p>
-
 
 <p>Các khuôn cắt bánh quy với đủ mọi hình thù ngộ nghĩnh sẽ giúp bạn có những chiếc bánh quy xinh xắn. Khuôn cắt bánh quy được làm từ nhiều chất liệu, khi chọn thì các bạn nên chọn các chất liệu cứng cáp, cạnh đủ sắc bén để cắt bột và cao tối thiểu 1,5-2cm.</p>
 <p><a href="/wp-content/uploads/2012/03/cg1-2657_1_300.jpg"><img alt="" class="aligncenter size-full wp-image-1981" height="300" loading="lazy" src="/wp-content/uploads/2012/03/cg1-2657_1_300.jpg" title="cg1-2657_1_300" width="300"/></a></p>
@@ -90,9 +83,6 @@ description: "dụng cụ làm bánh"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

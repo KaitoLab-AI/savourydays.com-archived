@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2011/11/NomThitBoPaprika1.jpg"
 description: "Nộm thịt bò ớt chuông, gỏi thịt bò ớt chuông"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Một trong những thay đổi tích cực nhất của mình sau 2 năm nấu ăn có lẽ là mình đã “biết” thưởng thức nhiều loại đồ ăn hơn :) Có rất nhiều thứ trước đây mình không thích thì giờ mình đã có thể cảm nhận được cái ngon của nó. Một ví dụ điển hình là ớt chuông hay ớt paprika. Hồi ở nhà mình rất không thích loại ớt này vì cảm giác là nó luôn có một thứ mùi hơi hăng hăng rất khó chịu. Không thích đến mức mà chẳng hạn như đi ăn Pizza, thường là mình sẽ ngó thành phần trước, nếu có ớt chuông thì gần như chắc chắn là sẽ không gọi :D. Thế rồi sang bên này nấu nhiều, thử nhiều, giờ Paprika lại là một trong những thứ rau yêu thích của mình. Thích cái sự giòn, ngọt, mát của nó, thích cả ba màu xanh, đỏ, vàng tươi rói, chụp ảnh cứ gọi là “nổi bần bật” nữa :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6317126115/" title="Paprika &amp; Beef Salad by LinhTrang9185, on Flickr"><img alt="Paprika &amp; Beef Salad" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6215/6317126115_08af48c565_z.jpg" width="427"/></a></p>
 <p>Món nộm này thi thoảng mình cũng hay làm, vì nó dễ và đủ chất (theo đúng tiêu chuẩn mọi khi :D), với cả ăn cũng mát ruột nữa, món kiểu này thì có lẽ là mùa nào cũng hợp cả.</p>
@@ -25,10 +24,7 @@ description: "Nộm thịt bò ớt chuông, gỏi thịt bò ớt chuông"
 <li><em>Nước mắm, đường, dấm, bột gia vị (hoặc muối), tiêu</em></li>
 <li><em>Dầu ăn</em></li>
 </ul>
-<p><em><span id="more-1114"></span></em></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><em><span id="more-1114"></span></em></p>
 <p><strong>Cách làm</strong></p>
 <p>1. Thịt bò rửa sạch, thấm khô, thái mỏng, ướp với chút gia vị và hạt tiêu, để khoảng 20-30 phút cho ngấm.</p>
 <p>2. Hành tây thái múi cau mỏng, ngâm vào nước đá trong khoảng 3 – 5 phút rồi vớt ra. Trộn hành với 1 thìa đường và 0.5 thìa dấm hoặc nước cốt chanh cho hành bớt hăng.</p>
@@ -38,7 +34,4 @@ description: "Nộm thịt bò ớt chuông, gỏi thịt bò ớt chuông"
 <p>6. Trong một cái bát trộn thịt bò với hành tây, ớt chuông với nước mắm chua ngọt, nêm nếm lại lần nữa. Cho các loại rau thơm vào trộn đều. Sắp nộm ra đĩa hoặc bát. Rắc lạc rang lên trên.</p>
 <p>Chúc cả nhà ngon miệng &amp; có một ngày Chủ nhật thật vui :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6317126361/" title="Paprika &amp; Beef Salad by LinhTrang9185, on Flickr"><img alt="Paprika &amp; Beef Salad" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6239/6317126361_8e47a0e66d_z.jpg" width="427"/></a></p>
-<div align="center" id="google-ads-body-post-end">
 
-
-</div><!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

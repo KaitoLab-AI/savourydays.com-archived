@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2014/01/MatchaMeltAway.jpg"
 description: "bánh quy bơ, trà xanh, bánh Tết"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Mấy ngày gần đây đã bắt đầu thấy không khí Tết tràn ngập trên Facebook khi chị em rủ nhau gói bánh chưng, bánh tét, sên mứt, làm bánh để đãi khách. Về các đồ ngọt ngày Tết, ngoài những món cổ truyền như chè kho, các loại mứt… thì bánh quy, kẹo cũng là một phần không thể thiếu. Thay cho hộp bánh quy công nghiệp là những chiếc bánh quy thơm phức mùi bơ do nhà “trồng”, niềm vui đầu Xuân có lẽ sẽ càng được nhân lên gấp bội.</p>
 <p>Savoury Days có khá nhiều công thức bánh quy khác nhau, trong tuần tới mình sẽ tổng hợp lại trong bài viết riêng về các món ăn cho ngày Tết để các bạn tiện tìm kiếm nhé. Còn hôm nay mình muốn giới thiệu một món bánh mới thử nghiệm, chắc là sẽ rất hợp cho ngày Tết. Bánh xốp, thơm ngậy, nhưng lại có vị trà xanh thơm mát nên nhấm nháp sau bữa ăn nhiều nếp và thịt mỡ béo ngậy, có lẽ sẽ làm bụng dạ nhẹ nhàng hơn rất nhiều :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/11995142964/" title="IMG_4541-1 by LinhTrang9185, on Flickr"><img alt="IMG_4541-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7390/11995142964_e2d6ee96c2_z.jpg" width="453"/></a></p>
@@ -23,10 +22,7 @@ description: "bánh quy bơ, trà xanh, bánh Tết"
 <li><em>1 lòng trắng trứng to (35 – 38gram) – nhiệt độ phòng</em></li>
 <li><em>3ml (1/2 tsp) vani chiết xuất (không bắt buộc)</em></li>
 </ul>
-<p>(*) <strong>Ghi chú</strong>:</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>(*) <strong>Ghi chú</strong>:</p>
 <p>– <em>Bơ là nguyên liệu chính tạo nên mùi vị thơm ngon cho bánh, vì vậy nên chọn loại bơ động vật ngon. Thay thế bằng bơ thực vật/ magarines sẽ giúp bánh cứng cáp hơn nhưng cũng kém ngon hơn. Không thay bơ bằng kem tươi, mascarpone, cream cheese…</em></p>
 <p><em>– Có thể thay tổng lượng bột trong công thức (170gr) bằng lượng cake flour tương đương</em></p>
 <p><em>– Lượng trà xanh tùy thuộc chất lượng bột trà và ý muốn của các bạn về độ đậm nhạt của mùi trà trong bánh. Mình dùng 12gram. Nếu cho nhiều bột trà, cần tăng thêm đường để tránh vị đắng của trà át vị ngọt. </em></p>
@@ -36,10 +32,7 @@ description: "bánh quy bơ, trà xanh, bánh Tết"
 <p>1. Rây mịn bột mì, bột ngô và bột trà xanh, trộn đều.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/11994787245/" title="IMG_4507 by LinhTrang9185, on Flickr"><img alt="IMG_4507" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3727/11994787245_c0661e5e3e.jpg" width="500"/></a></p>
 <p>2. Đánh bông bơ với muối, đường. Cho lòng trắng trứng và va-ni vào, đánh cho hòa quyện.</p>
-<p>(*) Bánh nở và có độ xốp là nhờ bọt khí trong bơ đánh bông. Bơ càng bông thì bánh càng nở xốp. Tuy nhiên, nếu muốn bắt bánh thành hình bông hoa thì chỉ nên đánh bơ vừa phải. Mình dùng máy đánh trứng cầm tay công suất 550W, đánh mất khoảng 3-4 phút (đường không nhất thiết phải tan hết).</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>(*) Bánh nở và có độ xốp là nhờ bọt khí trong bơ đánh bông. Bơ càng bông thì bánh càng nở xốp. Tuy nhiên, nếu muốn bắt bánh thành hình bông hoa thì chỉ nên đánh bơ vừa phải. Mình dùng máy đánh trứng cầm tay công suất 550W, đánh mất khoảng 3-4 phút (đường không nhất thiết phải tan hết).</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/11995591106/" title="IMG_4508 by LinhTrang9185, on Flickr"><img alt="IMG_4508" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7377/11995591106_4870eeda75.jpg" width="500"/></a></p>
 <p>3. Chia bột thành 2- 3 phần, cho từng phần vào âu, trộn đều.</p>
 <p>(*) Nên dùng âu thành cao và trộn bằng phới trước rồi mới dùng máy đánh cho đều, tránh cho bột bay và bắn ra ngoài.</p>
@@ -55,5 +48,3 @@ description: "bánh quy bơ, trà xanh, bánh Tết"
 <p>Bánh nướng xong nếu chưa đủ giòn, có thể bật lò ở 100 – 110 độ C rồi cho tất cả bánh vào sấy trong 7 – 10 phút (không sấy quá lâu sẽ làm bánh bị khô cứng).</p>
 <p>Bảo quản bánh trong túi hoặc hộp kín, có thêm túi hút ẩm. Nếu bảo quản tốt, bánh có thể dùng trong 2 – 3 tuần</p>
 
-
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

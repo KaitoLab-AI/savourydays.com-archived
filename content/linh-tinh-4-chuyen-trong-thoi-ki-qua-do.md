@@ -12,10 +12,7 @@ description: "savoury days"
 <p>————</p>
 <p> </p>
 <p> </p>
-<p><a href="https://www.flickr.com/photos/55490207@N05/18731971784" title="Life-is-like-a-bicycle.-To-keep-your-balance-you-must-keep-moving. by Trang Linh, on Flickr"><img alt="Life-is-like-a-bicycle.-To-keep-your-balance-you-must-keep-moving." class="aligncenter" height="640" loading="lazy" src="https://c2.staticflickr.com/4/3935/18731971784_558af461cd_z.jpg" width="465"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="https://www.flickr.com/photos/55490207@N05/18731971784" title="Life-is-like-a-bicycle.-To-keep-your-balance-you-must-keep-moving. by Trang Linh, on Flickr"><img alt="Life-is-like-a-bicycle.-To-keep-your-balance-you-must-keep-moving." class="aligncenter" height="640" loading="lazy" src="https://c2.staticflickr.com/4/3935/18731971784_558af461cd_z.jpg" width="465"/></a></p>
 <p>Thế là đã hơn một tháng rồi, kể từ ngày mình bảo vệ luận án và chính thức nói lời tạm biệt với Antwerp.</p>
 <p>Một tháng vừa qua là một khoảng thời gian rất lạ. Thấy mình giống như đang đi trên cầu treo giữa hai quả núi, chênh vênh và hẫng hụt. Bốn năm ở Antwerp, không phải là một khoảng thời gian rất dài, nhưng là khoảng thời gian có rất nhiều kỉ niệm, rất nhiều dấu mốc đáng nhớ. Đã quen quá rồi với việc ngày ngày đến trường, leo lên phòng làm việc ở tầng 3, nơi có một chiếc bàn rất to, đủ chỗ cho mình bày bừa đủ thứ từ giấy tờ cho đến cả đồ ăn tích trữ cho những buổi tối ở lại làm muộn. Quen với những buổi trưa chạy khắp tầng lùa cả lũ đồng nghiệp cùng ra nhà ăn sinh viên, hay ngồi gặm <em>sandwich</em> trên bãi cỏ tuyệt đẹp trong trường nếu hôm đó trời (may mắn) có nhiều nắng. Quen cả với những ngày cuối tuần đi dăm ba bước là ra đến chợ nông dân, nơi có những người bán hàng rất dễ mến hay tặng thêm cho mình hôm thì quả đào quả mận, hôm thì mớ rau thơm. Tầm thời gian này ở chợ hẳn là sẽ nhộn nhịp lắm, vì là lúc mà thời tiết dễ chịu nhất trong năm, cũng là vào vụ rau quả, thứ gì cũng ngon, và tươi rói.<br/>
 ………..</p>
@@ -26,10 +23,7 @@ description: "savoury days"
 <p>Về chỗ ở cũng là một sự thay đổi lớn. Không chỉ ở việc trong nhà giờ có thêm một người nữa, mà là cả cái nhà đã chuyển từ Antwerp qua Berlin. Ông xã mình hiện đang làm việc ở Berlin nên chắc mình sẽ ở đây thêm một thời gian nữa. Berlin rộng lớn hơn Antwerp, có nhiều thứ để khám phá, nhưng cũng bởi vậy nên có nhiều thứ cần làm quen hơn. Điều thích nhất ở nơi ở mới có lẽ là ở Berlin có khu chợ Việt Nam siêu to – thiên đường của mình – nơi chẳng thiếu bất kì thứ nguyên liệu nào cho bữa cơm Việt Nam. À, và nhà mới cũng có một cái ban công khá rộng để trồng rau, trồng hoa nữa :)</p>
 <p>Cuối cùng, về công việc thì thật ra không có thay đổi nhiều. Tuy là nghề nghiệp chính có chuyển từ PhD Candidate sang housewife, nhưng các nội dung công việc cụ thể thì vẫn thế: tiếp tục làm nghiên cứu với giáo sư ở Hà Lan, tiếp tục nấu nướng, chụp ảnh và blogging ở Savoury Days, và tiếp tục viết sách … :)</p>
 <p>Thật ra nếu nói về khối lượng và các đề mục công việc thì cũng không khác trước kia là mấy. Chỉ có môi trường là thay đổi thôi, và sự thay đổi này lớn hơn mình nghĩ quá nhiều, cho nên đến hơn một tháng rồi, vẫn cảm giác như mình đang đi lang thang trên cầu treo, biết là cần phải hướng đến ngọn núi phía trước nhưng vẫn có cái gì đó níu chân mình chậm lại, dù biết rằng kể cả có quay đầu đi chăng nữa thì cũng không thể nào đi lại chặng đường ở ngọn núi đằng sau kia.</p>
-<p>Nhưng đến hôm nay, thì bắt đầu cảm thấy hình như khoảng thời gian mông lung này đã hơi dài quá rồi. Cho nên ngồi viết mấy dòng linh tinh này, gọi là tổng kết hay cập nhật tình cũng được, nhưng quan trọng nhất có lẽ là để nhắc mình rằng phần đường đã qua, thật sự đã qua rồi. Còn rất nhiều điều đang đợi mình ở phía trước, cho nên cần phải bớt lãng đãng và tập trung vào hiện tại đi thôi.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Nhưng đến hôm nay, thì bắt đầu cảm thấy hình như khoảng thời gian mông lung này đã hơi dài quá rồi. Cho nên ngồi viết mấy dòng linh tinh này, gọi là tổng kết hay cập nhật tình cũng được, nhưng quan trọng nhất có lẽ là để nhắc mình rằng phần đường đã qua, thật sự đã qua rồi. Còn rất nhiều điều đang đợi mình ở phía trước, cho nên cần phải bớt lãng đãng và tập trung vào hiện tại đi thôi.</p>
 <p>Việc đầu tiên của hiện tại cần phải giải quyết là tổng kết và công bố kết quả của Challenge 48 cuối tuần vừa rồi. Tuy chỉ là sự kiện “cấp nhà” nhưng khi xem ảnh thành phẩm của các bạn và các chia sẻ của mọi người mình thấy vui lắm. Bởi thấy những gì mình viết, mình chụp đã thật sự có ích, không chỉ mang lại cảm hứng vào bếp mà còn giúp các bạn làm ra những chiếc bánh mà nhìn còn ngon và đẹp hơn cả bánh mình làm mẫu nữa. Ngoài ảnh bánh ngon ra thì các bạn còn có rất nhiều chia sẻ thú vị trong việc điều chỉnh công thức hay thay đổi để có các mùi vị mới, như các phần chia sẻ của chị <a href="https://www.facebook.com/photo.php?fbid=842634012456690&amp;set=gm.554492524693401&amp;type=1" target="_blank">Nguyen Ha,</a> bạn <a href="https://www.facebook.com/photo.php?fbid=1450995418555279&amp;set=gm.554435591365761&amp;type=1" target="_blank">Miki Pham</a>, … và cả những câu chuyện rất đáng yêu về niềm vui từ bếp nhà mình nữa, như chia sẻ của bạn <a href="https://www.facebook.com/photo.php?fbid=786373118127701&amp;set=gm.554589408017046&amp;type=1" target="_blank">Hoa Thi Nguyen</a>, chị <a href="https://www.facebook.com/photo.php?fbid=10153500098236096&amp;set=gm.554611164681537&amp;type=1" target="_blank">Bui Thi Lan</a>, bạn <a href="https://www.facebook.com/photo.php?fbid=1645369215683328&amp;set=gm.554529654689688&amp;type=1" target="_blank">Bùi Phương Thảo</a>, <a href="https://www.facebook.com/photo.php?fbid=1645369215683328&amp;set=gm.554529654689688&amp;type=1" target="_blank">Nhã Khanh</a>….  sau khi xem tới xem lui, cân nhắc đến toát cả mồ hôi hột từ cả ảnh, phần chia sẻ lẫn phản hổi thì mình xin được gửi một vài phần quà nho nhỏ đến các bạn sau đây:</p>
 <p>1. <a href="https://www.facebook.com/photo.php?fbid=1000062096693710&amp;set=gm.554899764652677&amp;type=1" target="_blank">Nguyễn Hạnh Nguyên</a> (bài có số lượt yêu thích/like nhiều nhất)</p>
 <p>2. <a href="https://www.facebook.com/photo.php?fbid=10206966786308425&amp;set=gm.554812054661448&amp;type=1" target="_blank">Nhi Nguyen</a></p>
@@ -49,9 +43,6 @@ description: "savoury days"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

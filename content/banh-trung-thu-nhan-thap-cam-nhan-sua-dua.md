@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2014/08/NhanThapCamBanhTThu1.jpg"
 description: "nhân thập cẩm bánh trung thu, nhân sữa dừa bánh trung thu"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #ff0000;">Ghi chú ngoài lề: <span style="text-decoration: underline;"><strong>Về thời gian bảo quản bánh nướng</strong></span></span></p>
 <p><em>Trong bài hôm qua mình quên mất vấn đề này. Thường bánh trung thu nếu muốn để lâu thì phải có nhiều đường và nhiều dầu ăn. Càng nhiều đường và dầu ăn thì càng ít lo hỏng hay mốc. Nhưng mình nghĩ chỉ vì để lâu mà phải chịu ăn cái bánh vừa ngọt vừa nhiều dầu (không chỉ không ngon mà còn hại cho sức khỏe) thì không đáng chút nào. Nên mình giảm khá nhiều đường và dầu so với các công thức khác. Mình có thử để bánh ở nhiệt độ phòng (bên này rất khô và mát) thì ăn bánh sau một tuần thấy vẫn ổn. Với thời tiết nóng ẩm như ở Việt Nam, mình nghĩ bánh ngon nhất là sau khoảng 2 – 3 ngày, khi vỏ bánh đã đủ mềm nhưng vẫn còn tươi mới. Nếu muốn để lâu hơn, tốt nhất là nên bọc kín rồi để ngăn đá. Khi ăn thì để bánh vào ngăn mát cho tan đá từ từ, rồi để ở nhiệt độ phòng, bánh hết lạnh hẳn ăn sẽ ngon như bánh mới làm.</em></p>
 <p>————</p>
 <h4>NHÂN THẬP CẨM BÁNH TRUNG THU</h4>
 <p>Nói thật là trong các loại bánh trung thu mà hồi xưa mình nếm thử ở nhà, mình sợ bánh nướng nhân thập cẩm nhất. Cứ nhìn thấy bánh nhân thập cẩm là nghĩ đến mùi dầu mỡ hôi, vị ngọt sắc của đường và mứt, vị ngậy béo đến phát ngấy, chưa kể lớp vỏ vừa khô vừa cứng bên ngoài. Chính vì ấn tượng không mấy tốt đẹp này mà nhân thập cẩm là loại nhân mà mình đầu tư nhiều thời gian hơn cả để tham khảo các công thức và thử nghiệm với nhiều loại nguyên liệu khác nhau, để làm sao có được mùi vị bánh thập cẩm ngày xưa nhưng nhất định phải “ngon hơn hàng” :-&gt;</p>
-<p>Ngó qua thị trường một chút thì thấy nhân bánh trung thu thập cẩm hiện tại cực kì đa dạng: nguyên liệu có đủ từ những thứ truyền thống như lạp xưởng, mỡ đường, hạt điều, mứt sen, mứt bí… cho đến những thứ hiện đại như jambon, mứt chanh, mứt cam, nho khô, cranberry khô, hồ đào, óc chó… Mới đầu mình cũng nghĩ là thêm vị này vị kia chắc sẽ ngon hơn, nhưng sau bao nhiêu lần thử thì mình vẫn cảm thấy nhân kiểu cổ truyền chỉ với một vài vị chính thống vẫn có vẻ hợp vị nhất. Chẳng biết có phải vì đã “già” rồi nên không ưng những vị hiện đại hay không. Nhưng với vị mặn, mình chỉ thích lạp xưởng (gà quay chắc cũng ngon nhưng chưa kịp thử) và cả một chút giòn béo của mỡ đường. Mình cũng thích nhân có vị bùi và nhất định phải thơm mùi lá chanh. Còn ngọt thì mình cố gắng giảm đến mức tối đa, nên hạn chế các loại mứt, kể cả mứt quả như cranberry, nho khô… vì tuy nói là có vị chua nhưng phần nhiều vẫn là ngọt .</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Ngó qua thị trường một chút thì thấy nhân bánh trung thu thập cẩm hiện tại cực kì đa dạng: nguyên liệu có đủ từ những thứ truyền thống như lạp xưởng, mỡ đường, hạt điều, mứt sen, mứt bí… cho đến những thứ hiện đại như jambon, mứt chanh, mứt cam, nho khô, cranberry khô, hồ đào, óc chó… Mới đầu mình cũng nghĩ là thêm vị này vị kia chắc sẽ ngon hơn, nhưng sau bao nhiêu lần thử thì mình vẫn cảm thấy nhân kiểu cổ truyền chỉ với một vài vị chính thống vẫn có vẻ hợp vị nhất. Chẳng biết có phải vì đã “già” rồi nên không ưng những vị hiện đại hay không. Nhưng với vị mặn, mình chỉ thích lạp xưởng (gà quay chắc cũng ngon nhưng chưa kịp thử) và cả một chút giòn béo của mỡ đường. Mình cũng thích nhân có vị bùi và nhất định phải thơm mùi lá chanh. Còn ngọt thì mình cố gắng giảm đến mức tối đa, nên hạn chế các loại mứt, kể cả mứt quả như cranberry, nho khô… vì tuy nói là có vị chua nhưng phần nhiều vẫn là ngọt .</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/14913048326/" title="Homemade mooncakes by LinhTrang9185, on Flickr"><img alt="Homemade mooncakes" class="aligncenter" height="337" loading="lazy" src="https://farm6.staticflickr.com/5555/14913048326_781741c323.jpg" width="500"/></a></p>
 <p>Ở bên này làm bánh Việt có một cái hơi khó là đôi khi không thể mua đủ nguyên liệu. Chẳng hạn mình không tìm được mứt sen, mứt bí, hay hạt dưa. Nên thay cho hạt dưa thì mình dùng hạt thông (<em>pine nut) </em>hoặc đậu phộng/ hạt lạc (<em>peanut</em>). Với mứt bí thì mình thay bằng mứt đu đủ, vị tuy không thanh bằng nhưng cũng giòn kiểu hơi giống nhau. Thứ nguyên liệu thay thế mà mình thích nhất có lẽ là “hạt sen sên đường” tự làm từ hạt sen khô. Hạt sen được đun nhỏ lửa trong nước đường, vừa mềm vừa bùi lại chỉ hơi ngọt thanh, ăn rất dễ chịu và không làm cho nhân bị quá ngọt như mứt sen mua sẵn.</p>
 <p>Công thức cụ thể đây nhé</p>
@@ -45,10 +41,7 @@ description: "nhân thập cẩm bánh trung thu, nhân sữa dừa bánh trung 
 <p style="text-align: left;"><a href="https://www.flickr.com/photos/55490207@N05/14749377989/" title="IMG_8269 by LinhTrang9185, on Flickr"><img alt="IMG_8269" class="aligncenter" height="361" loading="lazy" src="https://farm4.staticflickr.com/3867/14749377989_578c7527da.jpg" width="500"/></a></p>
 <p style="text-align: left;"><span style="color: #800000;"><strong>Cách làm </strong></span></p>
 <p style="text-align: left;">1. Chuẩn bị nguyên liệu:</p>
-<p style="text-align: left;">* Cách làm <span style="text-decoration: underline;"><strong>mỡ đường</strong></span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p style="text-align: left;">* Cách làm <span style="text-decoration: underline;"><strong>mỡ đường</strong></span></p>
 <p style="text-align: left;">– Mỡ phần thái hạt lựu. Đun sôi nước rồi cho mỡ vào luộc trong khoảng 2 – 3 phút. <em>Chỉ luộc đến khi mỡ vừa chín tới, không luộc quá lâu, mỡ sẽ mất độ giòn</em>. Đổ mỡ ra rổ, xóc cho ráo nước.</p>
 <p style="text-align: left;">– Trộn mỡ với đường theo tỉ lệ lượng đường = 1/2 lượng mỡ. Để mỡ ra hong gió trong vài tiếng cho mỡ chuyển trong.</p>
 <p style="text-align: left;">– Nên chuẩn bị mỡ đường trước một ngày. Mỡ có thể để trong hộp kín ở nhiệt độ phòng (nơi thoáng mát).</p>
@@ -64,7 +57,6 @@ description: "nhân thập cẩm bánh trung thu, nhân sữa dừa bánh trung 
 <p style="text-align: left;">(*) <strong><span style="text-decoration: underline;">Lưu ý:</span></strong></p>
 <p style="text-align: left;">– <span style="color: #0000ff;"><em>Tất cả các nguyên liệu cần phải được thái nhỏ về cùng một cỡ</em></span>. K<span style="color: #0000ff;"><em>ích thước thông thường là cỡ hạt lựu</em></span>. Nếu các nguyên liệu quá to, khi nắm lại thành nhân tròn sẽ rất khó, sẽ cần nhiều nước và bột để kết dính. Khi ăn ngoài cảm giác rời rạc sẽ còn cảm giác của vị bột nhiều.</p>
 <p style="text-align: left;">– <span style="color: #0000ff;"><em>Nếu làm bánh nhỏ thì các nguyên liệu có thể thái nhỏ hơn nữa</em></span>. Như mình làm bánh 75 gram thì sau khi thái hạt lựu, mình cho tất cả các nguyên liệu (trừ vừng và lá chanh) vào máy xay (<em>food processor)</em>, xay thêm khoảng 10 giây cho các nguyên liệu nhỏ hơn một chút. Nhân chưa đến mức nát và nhuyễn, vẫn còn nguyên miếng, khi ăn vẫn phân biệt được các vị, nhưng không quá to. Rất dễ nắm lại, mà khi cắt bánh ra cảm giác viên nhân cũng kết dính và ít rời rạc hơn.</p>
-
 
 <p style="text-align: left;">– <span style="color: #0000ff;"><em>Định lượng các nguyên liệu có thể thay đổi, thêm bớt tùy khẩu vị</em></span>.</p>
 <p style="text-align: center;"><i>Nhân sau khi xay – đã nhỏ hơn một chút </i></p>
@@ -142,4 +134,4 @@ description: "nhân thập cẩm bánh trung thu, nhân sữa dừa bánh trung 
 <li><a href="/banh-trung-thu-cach-lam-banh-deo/" target="_blank">Cách làm bánh dẻo kiểu Việt Nam ít ngọt</a></li>
 <li><a href="/banh-trung-thu-chia-se-kinh-nghiem-lam-banh-deo/" target="_blank">Giải đáp các thắc mắc/ vấn đề thường gặp khi làm bánh dẻo</a></li>
 </ol>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

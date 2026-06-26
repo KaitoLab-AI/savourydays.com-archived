@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2013/01/ChocolateCake.jpg"
 description: "Chocolate cake, gateau sô cô la, Valentine, quà tặng Valentine"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
 <p>——————————————</p>
 <p>Tháng 2 tới ngoài Tết Nguyên Đán ra thì còn có một ngày lễ cũng rất đặc biệt là Valentine. Tuy ngày Valentine năm nay khá gần với Tết nhưng chắc không nên vì vậy mà “bỏ quên” một dịp để bày tỏ tình cảm với người yêu thương của chúng mình nhỉ? ;) Thật ra để chuẩn bị cho Valentine thì mình đã làm kha khá thứ, và nếu không có gì thay đổi thì “kha khá thứ” này sẽ chính thức ra mắt các bạn trong sách “Quà tặng ngọt ngào”. À quên, tin vui mới nhận được hôm nay là đã có lịch phát hành sách. Mình đang đợi thêm một vài thông tin cụ thể hơn nữa rồi sẽ cập nhật sớm cho cả nhà nhé.</p>
-<p>Món bánh trong bài này mình làm cách đây khá lâu rồi, nhưng muốn đợi đến gần ngày Valentine mới đăng vì ý tưởng ban đầu cũng xuất phát từ Valentine. Bánh gồm 3 lớp bạt Chocolate Gateau và 3 lớp kem rượu Chocolate. Bạt bánh được điều chỉnh từ công thức <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/">Gateau cơ bản bất bại</a> nên rất dễ làm. Và vì là một loại Sponge, thành phần bột mì trong công thức lại ít nên bạt bánh khá xốp, mềm và nhẹ. Phần kem bánh là ý tưởng kết hợp từ Chocolate Mousse và Chocolate Ganache. Kem xốp và mềm theo kiểu tan trong miệng như Mousse, nhưng không phải là Mousse vì hoàn toàn không có chất tạo đông. Tóm lại là mình rất hài lòng vì công thức này không chỉ đạt yêu cầu về khoản “ngon miệng”, “ngon mắt”, mà còn không quá khó, các bạn chưa có nhiều kinh nghiệm làm bánh cũng có thể làm được.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Món bánh trong bài này mình làm cách đây khá lâu rồi, nhưng muốn đợi đến gần ngày Valentine mới đăng vì ý tưởng ban đầu cũng xuất phát từ Valentine. Bánh gồm 3 lớp bạt Chocolate Gateau và 3 lớp kem rượu Chocolate. Bạt bánh được điều chỉnh từ công thức <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/">Gateau cơ bản bất bại</a> nên rất dễ làm. Và vì là một loại Sponge, thành phần bột mì trong công thức lại ít nên bạt bánh khá xốp, mềm và nhẹ. Phần kem bánh là ý tưởng kết hợp từ Chocolate Mousse và Chocolate Ganache. Kem xốp và mềm theo kiểu tan trong miệng như Mousse, nhưng không phải là Mousse vì hoàn toàn không có chất tạo đông. Tóm lại là mình rất hài lòng vì công thức này không chỉ đạt yêu cầu về khoản “ngon miệng”, “ngon mắt”, mà còn không quá khó, các bạn chưa có nhiều kinh nghiệm làm bánh cũng có thể làm được.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8426149719/" title="IMG_9363-2 by LinhTrang9185, on Flickr"><img alt="IMG_9363-2" class="aligncenter" height="305" loading="lazy" src="http://farm9.staticflickr.com/8232/8426149719_125e5287cc.jpg" width="500"/></a></p>
 <p><span style="color: #993300;"><strong>Nguyên liệu</strong></span></p>
 <p><strong>A. Bạt bánh (Khuôn tròn đường kính 18-20cm)</strong></p>
@@ -46,10 +42,7 @@ description: "Chocolate cake, gateau sô cô la, Valentine, quà tặng Valentin
 <p>Cách làm giống như cách làm <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/">Gateau cơ bản bất bại</a>. Các bạn lưu ý, ở bước (2) nên <strong>trộn kĩ và thật đều</strong> ba loại bột gồm: Bột mỳ, bột ngô và bột cacao. Sau khi trộn xong bằng máy ở bước (6), nên dùng spatula trộn thêm vài vòng (theo kiểu fold), cắm phới sâu xuống đáy âu để vét, đề phòng trường hợp bột bị lắng xuống đáy.</p>
 <p>Bánh sau khi nướng xong để nguội trên rack rồi xẻ làm 3 lớp bạt. Khi xẻ bánh gateau kiểu này, nếu không quen, các bạn có thể dùng tăm để định vị như trong hình (<em>Hình minh họa từ wikihow.com</em>). Sau đó dùng dao cắt một đường viền quanh bánh để tạo “mốc”, rồi dùng một tay để giữ mặt trên của bánh, một tay cầm dao cắt dứt khoát theo đường khía từ trước này.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8427240652/" title="550px-Cut-a-Cake-Layer-in-Half-Step-1 by LinhTrang9185, on Flickr"><img alt="550px-Cut-a-Cake-Layer-in-Half-Step-1" class="aligncenter" height="335" loading="lazy" src="http://farm9.staticflickr.com/8183/8427240652_52af11cc33.jpg" width="500"/></a></p>
-<p><strong>B. Kem tươi Chocolate</strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong>B. Kem tươi Chocolate</strong></p>
 <p>1. Bẻ 120gram Chocolate thành miếng nhỏ. Cho vào bát cùng 15gram bơ.</p>
 <p>2. Đun sôi 70ml kem tươi. Đổ vào bát Chocolate. Để nguyên khoảng 1-2 phút rồi dùng thìa hoặc nĩa quấy đến khi Chocolate và bơ tan hết. Hỗn hợp hòa quyện. Cho rượu Rum và vanilla, quấy đều.</p>
 <p>Để nguội. Thi thoảng quấy đều để hỗn hợp không bị đóng váng trên mặt.</p>
@@ -66,6 +59,5 @@ description: "Chocolate cake, gateau sô cô la, Valentine, quà tặng Valentin
 <p><a href="http://www.flickr.com/photos/55490207@N05/8426149725/" title="IMG_9333 by LinhTrang9185, on Flickr"><img alt="IMG_9333" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8518/8426149725_1a1fe3a6b5.jpg" width="500"/></a></p>
 <p>Trét kem lên các lớp bánh. Lượng kem trong công thức đủ để làm 2 lớp kem ở cốt bánh và phủ ngoài bánh như trong hình. Phần búp kem Chocolate trang trí là mình làm Chocolate Ganache riêng, nhưng mình thấy dùng Chocolate Ganache để bắt kem khá là khó nên mình không giới thiệu phần này. Các bạn có thể dùng các loại quả tươi để trang trí, đặc biệt là dâu tây, bánh sẽ rất đẹp và ngọt ngào, thích hợp với ngày Valentine :)</p>
 
-
 <p>Nếu trời nóng ẩm, các bạn nên đậy kín rồi bảo quản trong tủ lạnh. Còn trời mùa đông khô lạnh như ở châu Âu thì bảo quản ở nhiệt độ phòng cũng không sao. Dùng trong khoảng 2 ngày.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2011/06/Lassi-Xoai.jpg"
 description: "Cách làm lassi xoài chanh leo ngon tuyệt. Công thức nước uống giải khát mùa hè, ngon mát và bổ dưỡng - Savoury Days"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Năm nay Bỉ được mùa nắng. Tại vì default thời tiết ở đây là âm u và gió, đôi khi kèm mưa nhỏ nữa. Và mùa hè thì thường là rất ngắn ngủi, chỉ có một khoảng thời gian tầm tháng 5, đầu tháng 6. Nhưng năm nay thì trời đẹp bất ngờ ngay từ tháng 4. Nắng vàng như rót mật và trời xanh trong vắt, chỉ có vài ngày trời mưa. Nói chung là chuyện lạ, và các bạn Bỉ thì mừng khỏi nói, tin trời nắng thậm chí còn được đưa lên trang nhất trên báo của các bạn ý cơ mà :D</p>
 <p>Thời tiết đẹp thì tất nhiên là thích. Nhưng cũng có những ngày trời đẹp quá mức cần thiết. Chẳng hạn như hôm qua, 30 độ C và nắng chói chang từ 6h sáng đến 7h tối :-| 30 độ ở nhà mình là bình thường chứ ở bên này là bắt đầu kinh khủng rồi, tại vì không có quạt, không có điều hòa, không có gì hết, chỉ có cửa sổ và gió trời thôi.</p>
 <p>Trời nóng nên đi cả ngày về chẳng muốn ăn, chỉ thèm cái gì thật mát và thật fresh để quét đi tất cả những mệt mỏi và nóng nực. Thế  là chạy vào bếp cắt, gọt, trộn, xay. Mất chưa đầy 5 phút và đây là “thành phẩm”:</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5797791434/" title="Mango &amp; Passion Fruit Lassi by LinhTrang9185, on Flickr"><img alt="Mango &amp; Passion Fruit Lassi" class="aligncenter" height="700" loading="lazy" src="http://farm3.static.flickr.com/2513/5797791434_4314d4f15e.jpg" width="466"/></a></p>
-<p>Làm được 2 ly, chụp ảnh xong thì xử lí hết một ly. Ly còn lại để tủ lạnh, buổi tối ăn cơm và tắm rửa sạch sẽ xong, mở cửa sổ thật rộng để đón gió mát, ngồi đọc sách trên ghế sofa, nghe <a href="http://mp3.zing.vn/bai-hat/Up-On-The-Roof-Lauren-Alaina-ft-Scotty-McCreery/ZWZBB9OF.html">Upon the roof</a> và nhấm nháp vị chua dịu mát lạnh tê lưỡi của Lassi. Đời còn gì tươi hơn thế ;)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Làm được 2 ly, chụp ảnh xong thì xử lí hết một ly. Ly còn lại để tủ lạnh, buổi tối ăn cơm và tắm rửa sạch sẽ xong, mở cửa sổ thật rộng để đón gió mát, ngồi đọc sách trên ghế sofa, nghe <a href="http://mp3.zing.vn/bai-hat/Up-On-The-Roof-Lauren-Alaina-ft-Scotty-McCreery/ZWZBB9OF.html">Upon the roof</a> và nhấm nháp vị chua dịu mát lạnh tê lưỡi của Lassi. Đời còn gì tươi hơn thế ;)</p>
 <p>——————-</p>
 <p><strong>CÁCH LÀM LASSI XOÀI SỮA CHUA</strong></p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
@@ -34,9 +30,6 @@ description: "Cách làm lassi xoài chanh leo ngon tuyệt. Công thức nướ
 <p>Chanh leo lấy phần ruột, pha với 2-3 thìa nước, lọc lấy nước cốt chanh leo.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5799132823/" title="Mango &amp; Passion Fruit Lassi by LinhTrang9185, on Flickr"><img alt="Mango &amp; Passion Fruit Lassi " class="aligncenter" height="209" loading="lazy" src="http://farm3.static.flickr.com/2335/5799132823_31e5c79745.jpg" width="500"/></a></p>
 <p>Cho xoài, chanh leo, sữa chua, sữa tươi, mật ong, đá vào máy xay, xay nhuyễn. Thêm mật ong nếu cảm thấy thiếu ngọt.</p>
-<p>Dùng lạnh thì ngon hơn rất nhiều ;)</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Dùng lạnh thì ngon hơn rất nhiều ;)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5799134225/" title="Mango &amp; Passion Fruit Lassi by LinhTrang9185, on Flickr"><img alt="Mango &amp; Passion Fruit Lassi" class="aligncenter" height="700" loading="lazy" src="http://farm4.static.flickr.com/3502/5799134225_fdffa4400b.jpg" width="498"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

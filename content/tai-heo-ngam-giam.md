@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2019/01/cách-làm-tai-lợn-ngâm-giấm-banner-610
 description: ""
 ---
 
-
 <p><span style="color: #000000;">Tai heo dường như là nguyên liệu ngày càng được ưa chuộng trong các món ăn Tết bởi khả năng chống ngấy, ít béo “siêu cấp” của mình. Cùng với món giò tai, tai lợn hay tai heo ngâm dấm là món ăn mà mình nghĩ gia đình nào cũng có thể chuẩn bị cho ngày Tết. Cùng một công làm tai heo nhưng lại làm được tới hai món ăn ngon để chiêu đãi khách. Và nếu khách đến nhà có những món như thế này thay cho thịt mỡ, bánh chưng, nem rán thì mình tin là sự ngưỡng mộ cùng cảm kích dành cho người chủ bếp cũng tăng lên nhiều.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7878" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/taingamgiam_final-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #800000;"><strong>Nguyên liệu:</strong></span></p>
@@ -28,10 +27,7 @@ description: ""
 <li><em><span style="color: #000000;">50 gr bột canh</span></em></li>
 </ul>
 <p><span style="color: #800000;"><strong> Cách làm</strong></span></p>
-<p><span style="color: #000000;">1. Sơ chế nguyên liệu:</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">1. Sơ chế nguyên liệu:</span></p>
 <p><span style="color: #000000;">– Tai heo cạo cho sạch lông (nếu có), dùng muối và dấm xát kĩ, đặc biệt là các phần kẽ có dính bẩn cho đến khi trắng sạch, rửa lại với nước cho sạch.</span></p>
 <p><span style="color: #000000;">– Cà rốt, củ cải nạo vỏ, thái miếng vừa ăn</span></p>
 <p><span style="color: #000000;">– Tỏi, hành bóc vỏ, thái lát (Để lại 2 củ hành đập dập)</span></p>
@@ -41,10 +37,7 @@ description: ""
 <p><img alt="" class="aligncenter size-large wp-image-7880" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/taingamgiam1-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">2. Bắc nồi nước lên bếp, cho gừng và sả đập dập cùng với 1 thìa muối và tai heo vào luộc chín, khoảng 20’. Lưu ý không luộc quá lâu, tai dễ bị mềm quá và mất giòn. Gắp tai heo ra thả ngay vào âu nước đá lạnh cho tai được giòn. Sau đó thái thành các miếng dày khoảng 0,3 cm.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7881" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/taingamgiam2-1024x683.jpg" width="1024"/></p>
-<p><span style="color: #000000;">3. Trong 1 nồi khác, cho 300 ml dấm táo, 100ml nước lọc, 350 gr đường và 50 gr gia vị đun sôi, hớt bọt rồi tắt bếp để cho thật nguội. Nêm nếm lại cho vừa ăn.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">3. Trong 1 nồi khác, cho 300 ml dấm táo, 100ml nước lọc, 350 gr đường và 50 gr gia vị đun sôi, hớt bọt rồi tắt bếp để cho thật nguội. Nêm nếm lại cho vừa ăn.</span></p>
 <p><span style="color: #000000;">4. Trong 1 âu to, trộn đều tai heo,cà rốt, củ cải, hành tỏi thái lát, tiêu sọ, ớt quả, rồi đổ hỗn hợp giấm đường đã nguội vào trộn cho đều.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7882" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/taingamgiam4-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">5. Cho vào lọ sạch, đậy kín, cất trong tủ lạnh 1-2 ngày là ăn được. Bảo quản trong tủ lạnh trong vòng 2 tuần.</span></p>
@@ -57,9 +50,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

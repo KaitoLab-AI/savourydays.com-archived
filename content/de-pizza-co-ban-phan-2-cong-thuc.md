@@ -12,10 +12,7 @@ description: "Tự làm pizza đơn giản, pizza đế giòn, làm pizza tại 
 <p><span style="color: #ff0000;">* <strong>Toàn bộ nội dung bài viết và hình ảnh thuộc bản quyền của Savoury Days (trừ các hình ảnh &amp; nội dung có ghi nguồn trích dẫn). Vui lòng không sao chép, đăng tải hoặc sử dụng lại dưới bất kì hình thức nào nếu không có sự đồng ý của tác giả.</strong></span></p>
 <p>———————————-</p>
 <p>Bài trước mình đã nói về <a href="/de-pizza-co-ban-phan-1/">các chú ý trong thao tác khi làm đế Pizza</a> rồi, bài này mình nói thêm một chút về các loại công thức làm Pizza rồi sẽ đi luôn vào cách làm cụ thể nhé :)</p>
-<p>Công thức làm Pizza có rất nhiều phiên bản, với các tỉ lệ thành phần nguyên liệu khác nhau. Có một số công thức đọc lên sẽ có cảm giác cực kì phức tạp và mất công, chẳng hạn như các công thức sử dụng men Biga, mất 1-2 ngày để chuẩn bị trước. Cũng có những công thức làm nhanh theo kiểu “mì ăn liền”, sau 2h là có thể có Pizza nóng trên bàn ăn rùi.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Công thức làm Pizza có rất nhiều phiên bản, với các tỉ lệ thành phần nguyên liệu khác nhau. Có một số công thức đọc lên sẽ có cảm giác cực kì phức tạp và mất công, chẳng hạn như các công thức sử dụng men Biga, mất 1-2 ngày để chuẩn bị trước. Cũng có những công thức làm nhanh theo kiểu “mì ăn liền”, sau 2h là có thể có Pizza nóng trên bàn ăn rùi.</p>
 <p>Công thức mà mình giới thiệu dưới đây cũng là một dạng công thức làm nhanh, không phải chuẩn bị men Biga trước. Lý do chọn công thức này là mình nghĩ có lẽ một công thức nhanh sẽ tiện lợi hơn cho các chị em cũng không có nhiều thời gian như mình. Nhưng có một điều có lẽ nên giải thích thêm. Mình thấy một vài tài liệu cho rằng men Biga thực chất chỉ giúp bánh nở chứ không có công dụng gì nhiều, cho nên sử dụng men nở thông thường (men instant chẳng hạn) vừa nhanh lại đơn giản hơn. Hiểu như vậy là không chính xác. Việc sử dụng men Biga có một mục đích rất quan trọng là tăng hương vị cho bánh, cũng giống như các phương pháp pre-fermented khác (lý do tại sao các bạn có thể đọc thêm tại <strong><a href="/lam-banh-mi-quy-trinh-co-ban-cac-luu-y-phan-3-u-bot-tao-hinh-nuong-banh-va-bao-quan/">ĐÂY</a></strong>). Cho nên mặc dù mất thời gian nhưng công thức có sử dụng Biga mình vẫn nghĩ có những ưu điểm riêng của nó, có điều đợt này mình bận nhiều việc quá, khi nào có nhiều thời gian hơn mình sẽ giới thiệu sau nhé.</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu (3 Pizza đế mỏng đường kính 20cm)</strong></span></p>
 <ul>
@@ -34,10 +31,7 @@ description: "Tự làm pizza đơn giản, pizza đế giòn, làm pizza tại 
 <p><a href="http://www.flickr.com/photos/55490207@N05/7188995909/" title="2012-05-281 by LinhTrang9185, on Flickr"><img alt="2012-05-281" class="aligncenter" height="300" loading="lazy" src="http://farm8.staticflickr.com/7080/7188995909_530c25848b.jpg" width="500"/></a></p>
 <p>3. Đổ bột ra mặt bàn đã phủ một lớp mỏng bột áo. Nhồi bột trong khoảng 15 – 20 phút, đến khi có một khối bột mịn dẻo, đàn hồi (hoặc dùng máy nhồi bột trong khoảng 10-15 phút đến khi đạt) (hình 4-5).</p>
 <p><span style="text-decoration: underline;"><strong>* Lưu ý:</strong></span></p>
-<p>– Hỗn hợp bột Pizza khá ướt và nhão, đặc biệt là trong khoảng 5 phút đầu tiên sẽ thấy bột rất dính tay. Nhưng trong quá trình nhồi thì bột sẽ ngấm nước, Gluten phát triển, làm khối bột trở nên đàn hồi và “khô” dần. Các bạn có thể sử dụng thêm bột áo để nhồi bột dễ dàng hơn. Nhưng <em>không nên vì thấy bột quá nhão trong giai đoạn đầu mà cho rằng bột chịu nước kém và tăng thêm bột</em>,<em> vì nếu ngay từ đầu đã nhồi dễ dàng thì bột sẽ dễ bị khô sau khi nhồi xong. </em></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>– Hỗn hợp bột Pizza khá ướt và nhão, đặc biệt là trong khoảng 5 phút đầu tiên sẽ thấy bột rất dính tay. Nhưng trong quá trình nhồi thì bột sẽ ngấm nước, Gluten phát triển, làm khối bột trở nên đàn hồi và “khô” dần. Các bạn có thể sử dụng thêm bột áo để nhồi bột dễ dàng hơn. Nhưng <em>không nên vì thấy bột quá nhão trong giai đoạn đầu mà cho rằng bột chịu nước kém và tăng thêm bột</em>,<em> vì nếu ngay từ đầu đã nhồi dễ dàng thì bột sẽ dễ bị khô sau khi nhồi xong. </em></p>
 <p>– Cách nhồi bột bằng tay các bạn có thể xem thêm hướng dẫn tại <strong><a href="/lam-banh-mi-quy-trinh-co-ban-cac-luu-y-phan-2-cach-nhao-nhoi-bot/">ĐÂY</a></strong>.</p>
 <p>– Khối bột sau khi nhồi xong sẽ đàn hồi, ấn thử ngón tay vào thấy vết lõm phổng trở lại. Bột nhão và hơi dính, chạm ngón tay vào cảm giác hơi dính tay nhưng nhấc lên thì bột không dính theo tay.</p>
 <p><span id="more-2800"></span>4. Dùng chút dầu Olive xoa đều lên khắp khối bột. Cho bột vào bát, đậy khăn ẩm lên trên hoặc dùng nilon bọc kín. Ủ bột ở nhiệt độ phòng đến khi bột nở gấp đôi (<em>tùy theo nhiệt độ mà thời gian ủ có thể dao động trong khoảng 45 phút – 90 phút, nhiệt độ càng cao thì bột nở càng nhanh, nhưng bột nở chậm sẽ cho bánh có mùi vị ngon hơn). </em></p>
@@ -54,7 +48,6 @@ description: "Tự làm pizza đơn giản, pizza đế giòn, làm pizza tại 
 <p>– K<strong>hông nên xếp quá nhiều nhân</strong>, lớp nhân mỏng sẽ cho bánh ngon hơn.</p>
 <p>– Nếu sử dụng các loại sauce thì nên dùng sauce lỏng một chút, vì sauce sẽ đặc lại trong quá trình nướng.</p>
 
-
 <p>– Nếu có sử dụng các loại rau tươi hoặc lá gia vị tươi (như basil tươi) thì nên trộn với dầu Olive và xếp ở dưới lớp pho mát, tránh để các loại rau này bị cháy</p>
 <p>– Nếu có sử dụng thịt hun khói, salami hay xúc xích thì có thể xếp lên trên cùng để khi nướng xong các nguyên liệu này có độ giòn. Còn nếu là các loại thịt hay hải sản tươi sống thì nên làm chín trước vì thời gian nươngs Pizza khá ngắn, khoảng 10-12 phút, đôi khi sẽ không đủ để làm chín các loại thịt tươi.</p>
 <p>– Pho mát thường sử dụng là Mozzarella. Nhưng các loại pho mát khác như Cheddar, Parmesan cũng có thể được dùng, và đều có thể tạo ra lớp pho mát chảy, có thể kéo sợi trên mặt bánh, với điều kiện là pho mát chất lượng tốt.</p>
@@ -70,9 +63,6 @@ description: "Tự làm pizza đơn giản, pizza đế giòn, làm pizza tại 
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

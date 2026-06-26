@@ -20,10 +20,7 @@ description: ""
 <li><span style="color: #000000;">Cách trang trí hoa quả đơn giản</span></li>
 <li><span style="color: #000000;">Kỹ thuật và các lưu ý khi làm bánh bông lan chiffon</span></li>
 </ul>
-<p><span style="color: #000000;">* <strong>Lớp BÁNH LẠNH 2</strong>: học làm các loại <strong>Cheesecake nhiệt đới (chanh dây hoặc dừa, dứa, xoài), Mousse chocolate trang trí chậu cây bạc hà, Panna cotta truyền thống với sốt hoa quả, Cách làm bạt bánh ga-tô cơ bản </strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">* <strong>Lớp BÁNH LẠNH 2</strong>: học làm các loại <strong>Cheesecake nhiệt đới (chanh dây hoặc dừa, dứa, xoài), Mousse chocolate trang trí chậu cây bạc hà, Panna cotta truyền thống với sốt hoa quả, Cách làm bạt bánh ga-tô cơ bản </strong></span></p>
 <p><span style="color: #000000;">– Các kiến thức và kĩ năng chính:</span></p>
 <ul>
 <li><span style="color: #000000;">Kiến thức cơ bản và cách phân biệt các loại nguyên liệu, dụng cụ chính để làm bánh lạnh</span></li>
@@ -42,10 +39,7 @@ description: ""
 <p><span style="color: #000000;">– Lưu ý: do lò nướng tại lớp học là lò công nghiệp, rất khác với lò gia đình nên với các công thức bánh chiffon và ga-tô cơ bản học viên sẽ tập trung vào thao tác đánh trứng, trộn bột và được hỗ trợ giải đáp thắc mắc khi nướng bánh ở nhà sau thời gian học trên lớp.</span></p>
 <p><span style="color: #000000;">* <strong>Địa điểm học</strong>: phòng 301 – tầng 3 toà nhà Bakerland 26 Bích Câu – Hà Nội (phòng học rộng rãi, có điều hoà, nước uống)</span></p>
 <p><span style="color: #000000;"><strong>* Thời gian học:</strong></span></p>
-<p><span style="color: #000000;">– Lớp BÁNH LẠNH 1: <b>Mousse xoài, Tiramisu trà xanh, Chậu cây bạc hà Milo pudding, Cách làm bạt bánh chiffon </b></span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">– Lớp BÁNH LẠNH 1: <b>Mousse xoài, Tiramisu trà xanh, Chậu cây bạc hà Milo pudding, Cách làm bạt bánh chiffon </b></span></p>
 <ul>
 <li><span style="color: #000000;">Thứ 7 ngày 9/6: từ 13.00 – 16.00</span></li>
 <li><span style="color: #000000;">Thứ 7 ngày 23/6: từ 9.00 – 12.00</span></li>
@@ -67,9 +61,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

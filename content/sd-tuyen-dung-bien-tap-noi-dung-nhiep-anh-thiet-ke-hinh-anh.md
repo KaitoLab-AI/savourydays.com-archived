@@ -12,10 +12,7 @@ description: ""
 <p data-block="true" data-editor="4kv7i" data-offset-key="1k0ql-0-0"><span data-offset-key="5ikfh-0-0" style="color: #000000;">Để thực hiện các kế hoạch củng cố và mở rộng hoạt động cả online lẫn offline của Savoury Days trong thời gian tới, SD team cần thêm người hỗ trợ. Nếu bạn là người yêu thích nấu nướng hay chụp ảnh, và muốn góp phần truyền cảm hứng cũng như niềm vui bếp tới bạn bè khắp nơi trên thế giới thì hãy đến với bọn mình nhé :-)</span></p>
 <p class="_1mf _1mj" data-offset-key="66gsp-0-0"><span data-offset-key="66gsp-0-0" style="color: #000000;">Cụ thể các vị trí cần nhân sự như sau: </span></p>
 <p class="_1mf _1mj" data-offset-key="8a32q-0-0"><span style="color: #000000;"><strong>(1) BIÊN TẬP NỘI DUNG &amp; TRỢ LÝ MANAGER:</strong></span></p>
-<p class="_1mf _1mj" data-offset-key="3p018-0-0"><span style="color: #000000;"><strong>– Mô tả công việc: </strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p class="_1mf _1mj" data-offset-key="3p018-0-0"><span style="color: #000000;"><strong>– Mô tả công việc: </strong></span></p>
 <ul>
 <li class="_1mf _1mj" data-offset-key="b0hrs-0-0"><span style="color: #000000;">Hỗ trợ viết công thức và các bài viết liên quan tới nấu nướng (chia sẻ kinh nghiệm bếp núc, tổng hợp các kiến thức hay về bếp núc từ tài liệu tiếng Anh…)</span></li>
 <li class="_1mf _1mj" data-offset-key="b0hrs-0-0"><span style="color: #000000;">Thử công thức (nấu hoặc nướng thử). Nấu món ăn để chụp ảnh/ quay video.</span></li>
@@ -45,10 +42,7 @@ description: ""
 <p class="_1mf _1mj" data-offset-key="m0f1-0-0"><span style="color: #000000;"><strong>Lưu ý: hồ sơ ở dạng Word hoặc PDF, đính kèm theo mail.</strong></span></p>
 <p class="_1mf _1mj" data-offset-key="2df9e-0-0"><span data-offset-key="2df9e-0-0" style="color: #000000;">+ Tiêu đề của email ghi rõ: Ứng tuyển Biên tập nội dung</span></p>
 <p class="_1mf _1mj" data-offset-key="apu3h-0-0"><span data-offset-key="apu3h-0-0" style="color: #000000;">+ <strong><span style="color: #ff0000;">Thời gian nộp hồ sơ: đến hết ngày 8/4/2017.</span></strong> Nếu bạn đọc được thông báo sau thời gian này và vẫn cảm thấy mình thích hợp với công việc thì vẫn có thể gửi hồ sơ ứng tuyển nhé.</span></p>
-<p class="_1mf _1mj" data-offset-key="f0o26-0-0"><span data-offset-key="f0o26-0-0" style="color: #000000;">+ Các mốc thời gian xét tuyển cụ thể như sau:</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p class="_1mf _1mj" data-offset-key="f0o26-0-0"><span data-offset-key="f0o26-0-0" style="color: #000000;">+ Các mốc thời gian xét tuyển cụ thể như sau:</span></p>
 <ul>
 <li class="_1mf _1mj" data-offset-key="aaikc-0-0"><span data-offset-key="aaikc-0-0" style="color: #000000;">Thông báo trúng tuyển vòng 1 (lọc hồ sơ): 15/4/2018 (lưu ý: <span style="color: #ff0000;"><strong>bọn mình sẽ chỉ gửi mail thông báo tới các bạn trúng tuyển</strong></span>)</span></li>
 <li class="_1mf _1mj" data-offset-key="aaikc-0-0"><span style="color: #000000;">Phỏng vấn thử việc: 16/4 – 28/4</span></li>
@@ -90,7 +84,6 @@ description: ""
 </ul>
 <p class="_1mf _1mj" data-offset-key="cqm67-0-0"><span style="color: #000000;">+ Bắt đầu làm việc từ tháng 5/2017. Thời gian thử việc: 3 tháng. Các chế độ nghỉ phép thoả thuận cùng lương </span></p>
 
-
  <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
 <a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
@@ -98,9 +91,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

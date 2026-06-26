@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2013/03/BanhCuonChiffon.jpg"
 description: "bánh cuộn, cách cuộn bánh, bánh bông lan"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Tự nhiên bị thèm bánh cuộn và trong nhà còn một lọ mứt nhỏ, mãi chưa dùng đến, nên kết quả là có món bánh cuộn trong hình. Bình thường bánh cuộn thì mình hay làm theo hai công thức, Gateau Nhật Bản hoặc Gateau cơ bản. Nhưng lần này làm thử theo <a href="http://my.opera.com/Andee-chuot/blog/show.dml/3956003">công thức của Andee </a>– là công thức bánh cuộn được rất nhiều bạn yêu thích. Nhà hết trứng, chỉ còn 2 quả nên bạt bánh hơi mỏng nhưng rất ngon. Bánh “chắc” hơn so với Gateau Nhật Bản vì nhiều bột hơn, nhưng vẫn đủ độ ẩm và mềm mại nhờ cách làm theo kiểu Chiffon.</p>
 <p>Công thức này không khó làm. Bạn nào chưa thạo với việc đánh trứng, hay trộn bột theo kiểu Fold thì có thể đọc thêm một số bài viết sau nhé:</p>
 <ol>
@@ -32,10 +31,7 @@ description: "bánh cuộn, cách cuộn bánh, bánh bông lan"
 <li><em>1/2 thìa cafe cream of tartar (có thể thay bằng nước cốt chanh hoặc dấm). </em></li>
 </ul>
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
-<p>1. Làm nóng lò ở 180 độ C (hai lửa). Chuẩn bị khuôn nướng bánh cuộn (khay nướng kích thước 20x30cm). Lót một miếng giấy nướng bánh hoặc giấy trắng ở đáy khuôn.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>1. Làm nóng lò ở 180 độ C (hai lửa). Chuẩn bị khuôn nướng bánh cuộn (khay nướng kích thước 20x30cm). Lót một miếng giấy nướng bánh hoặc giấy trắng ở đáy khuôn.</p>
 <p>2. Cho lòng đỏ vào âu cùng 25gram đường. Rây bột mì, bột ngô và bột nở (nếu có) vào âu, cho sữa tươi, dầu ăn, vanilla. Dùng phới quấy nhẹ tay theo một chiều, đến khi các nguyên liệu hòa quyện, hỗn hợp hơi sệt.</p>
 <p>3. Đánh bông lòng trắng với cream of tartar, muối và đường đến chóp cứng. Cách đánh bông cụ thể và hình minh họa các bạn xem thêm trong bài viết về cách đánh lòng trắng trứng, link ở đầu bài.</p>
 <p>4. Trộn lòng trắng với hỗn hợp lòng đỏ và bột như sau: Cho 1/3 số lòng trắng vào âu đựng lòng đỏ. Dùng phới lồng đánh trứng quấy theo một chiều, đến khi hai hỗn hợp hòa quyện. Chia phần lòng trắng còn lại thành 2 phần, lần lượt cho vào âu đựng lòng đỏ. Dùng spatula (hoặc phới lồng) trộn nhẹ nhàng theo kiểu fold đến khi hỗn hợp hòa quyện.</p>
@@ -45,10 +41,7 @@ description: "bánh cuộn, cách cuộn bánh, bánh bông lan"
 <p>5. Đổ bột vào khuôn. Dùng dao nhỏ hoặc spatula dàn bột cho phẳng. Nướng ở nhiệt độ 180 độ C trong khoảng 15 phút. Nhiệt độ và thời gian nướng có thể thay đổi tùy theo loại lò (lò nhỏ nên nướng ở nhiệt độ thấp hơn). Các bạn có thể xem thêm hướng dẫn về cách chỉnh nhiệt độ và thời gian ở đây: <a href="/lo-nuong-kinh-nghiem-nuong-banh/">Phần 1</a> – <a href="/kinh-nghiem-nuong-banh-phan-2/">Phần 2</a></p>
 <p>Bánh chín là khi ấn nhẹ tay lên mặt bánh thấy vết lõm phồng trở lại ngay lập tức.</p>
 <p>6. Sau khi bánh chín, dùng dao mỏng rọc quanh thành khuôn. Lấy bánh ra khỏi khuôn rồi dùng một chiếc khăn sạch cuộn bánh lại khi bánh còn nóng ấm. Cách cuộn bánh ở <a href="/banh-cuon-kem-tuoi-dua-tra-xanh/">ĐÂY</a>.</p>
-<p>Bánh này có thể cuộn nguội nhưng mình nghĩ cuộn khi còn ấm vẫn tốt hơn. Mình cuộn bằng khăn nên khi cầm vào bánh hoàn toàn không bị nóng, và khăn cũng giúp hơi nước trong bánh thoát dễ dàng, tránh tình trạng bị hấp hơi.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Bánh này có thể cuộn nguội nhưng mình nghĩ cuộn khi còn ấm vẫn tốt hơn. Mình cuộn bằng khăn nên khi cầm vào bánh hoàn toàn không bị nóng, và khăn cũng giúp hơi nước trong bánh thoát dễ dàng, tránh tình trạng bị hấp hơi.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8547754579/" title="IMG_9881-1 by LinhTrang9185, on Flickr"><img alt="IMG_9881-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8233/8547754579_3ef76b4669_z.jpg" width="442"/></a></p>
 <p>Sau khi bánh nguội, mở bánh ra và trét nhân (kem tươi, mứt quả… ) vào giữa. Bánh có thể bảo quản trong tủ lạnh từ 1-2 ngày.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

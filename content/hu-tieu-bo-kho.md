@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2014/09/HuTieuBoKho1.jpg"
 description: "hủ tiếu bò kho, bánh mì bò kho"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Ngoài Bắc cũng có món bò kho, nhưng bò kho ở Hà Nội thì thường là kho với gừng sả theo kiểu kho khô, còn bò kho có nước để ăn cùng với hủ tiếu hay bánh mì theo kiểu miền Nam thì không phổ biến lắm. Mình may mắn trước đây có chị hàng xóm là người miền Nam nấu ăn rất ngon nên học lỏm được món này. Cũng lâu rồi không làm, mấy hôm nay trời lại hơi lành lạnh, tự nhiên thèm thứ gì đó nóng nóng và có nước thay cho cơm trắng quen thuộc hàng ngày, nên lọ mọ vào bếp làm một nồi ăn cho vài bữa.</p>
 <p>Nấu bò kho khó nhất chắc là khoản nêm gia vị thôi, làm sao để gia vị vừa đủ cho dậy mùi, nhưng không quá nồng hay quá hắc, vì các thứ dùng để nêm nếm vào món bò kho đều là gia vị mạnh cả. Trước đây, khi mới học nấu ăn thi thoảng mình có dùng viên gia vị bò kho. Nhưng sau này nấu nhiều rồi thì cảm thấy gia vị bò kho bán sẵn không ổn lắm, đôi khi hơi quá ngọt so với khẩu vị của mình hoặc có mùi lạ. Mình lại mắc bệnh hay lo, không biết trong gia vị có những thành phần gì. Mà gia vị để nấu bò kho thực ra cũng không quá phức tạp, nên tự nêm nếm là an tâm nhất :)</p>
 <p><img alt="IMG_8646-1" class="aligncenter" height="327" loading="lazy" src="https://farm3.staticflickr.com/2943/15359712212_4d7ec38b0b.jpg" width="500"/></p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
-<p><strong>* Phần nguyên liệu A:</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>* Phần nguyên liệu A:</strong></p>
 <ul>
 <li><em>500 gr thịt bò bắp (beef shank) </em></li>
 <li><em>1.5 thìa cafe (teaspoon) bột canh hoặc muối</em></li>
@@ -49,10 +45,7 @@ description: "hủ tiếu bò kho, bánh mì bò kho"
 <p>2. Làm sốt cà chua:</p>
 <p>– Đun nóng dầu ăn, phi thơm hành.</p>
 <p>– Cho cà chua (bổ múi cau) vào chảo. Nêm thêm chút muối và đường cho cà chua đậm đà. Đảo đều. Cho vào chảo khoảng 1/2 bát con nước lạnh. Để lửa vừa cho hỗn hợp trong chảo sôi liu riu. Đun trong khoảng 10 – 15 phút, đến khi cà chua chín mềm nhuyễn có thể dễ dàng dầm nát thì bắc ra khỏi bếp.</p>
-<p>– Lọc cà chua qua rây. Nếu hỗn hợp quá đặc, có thể cho thêm chút nước. Kết quả sau bước này là chúng mình sẽ có nước sốt cà chua nhuyễn mịn. Phần vỏ và hột sẽ được giữ lại trong rây. Các bạn có thể dùng sốt cà chua đóng hộp (loại nguyên chất), nhưng mình nghĩ dùng cà chua tươi mùi vị sẽ ngon hơn.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>– Lọc cà chua qua rây. Nếu hỗn hợp quá đặc, có thể cho thêm chút nước. Kết quả sau bước này là chúng mình sẽ có nước sốt cà chua nhuyễn mịn. Phần vỏ và hột sẽ được giữ lại trong rây. Các bạn có thể dùng sốt cà chua đóng hộp (loại nguyên chất), nhưng mình nghĩ dùng cà chua tươi mùi vị sẽ ngon hơn.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/15173331450/" title="2014-09-251 by LinhTrang9185, on Flickr"><img alt="2014-09-251" class="aligncenter" height="313" loading="lazy" src="https://farm4.staticflickr.com/3874/15173331450_ef9feeb022.jpg" width="500"/></a></p>
 <p>3. Nấu bò kho:</p>
 <p>– Đun nóng dầu ăn trong chảo, cho hành vào phi thơm.</p>
@@ -68,5 +61,3 @@ description: "hủ tiếu bò kho, bánh mì bò kho"
 <p>* Yêu cầu thành phẩm: Thịt bò chín mềm nhưng không bị bã, ngấm gia vị mặn ngọt đậm đà, nước dùng có màu đỏ sánh đẹp, dậy mùi thịt bò quyện với cà chua và ngũ vị hương.</p>
 <p>Chúc cả nhà cuối tuần thật vui và thoải mái! ^.^</p>
 
-
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

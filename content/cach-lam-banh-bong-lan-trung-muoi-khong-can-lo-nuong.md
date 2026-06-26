@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2015/10/bong-lan-trung-muoi.jpg"
 description: "Bài viết chia sẻ cách làm bánh bông lan trứng muối đơn giản, dễ thành công với video hướng dẫn chi tiết. Bánh có thể làm bằng nồi cơm hoặc lò nướng"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>[<span style="color: #ff0000;"><em>Phần cốt bánh trong bài có thể nướng bằng lò hoặc nồi cơm điện nên không nhất thiết cần lò nướng cho công thức nà</em><em>y</em></span>]</p>
 <p>Nhớ hồi đầu nghe tên món bánh này thấy ngạc nhiên và “kì lạ” ghê lắm vì không tưởng tượng ra một thứ bánh ngọt như bánh bông lan mà ăn với các loại đồ mặn như trứng muối, phô mai, xúc xích… thì nó thế nào. Rồi cũng rón rén thử với cốt <a href="/banh-bong-lan-tra-xanh-trung-muoi/" target="_blank"><strong>bánh bông lan kem tươi, vị trà xanh và trứng muối</strong></a>, thấy hóa-ra-cũng-hay-ho-ra-phết ;) Bẵng đi một thời gian dài bận rộn với bài vở và vô số các món ăn hấp dẫn khác, thấy bánh bông lan trứng muối hình như vẫn chưa giảm độ nóng, qua việc News Feed của Facebook hàng ngày vẫn thấy có cập nhật ảnh bánh của bạn bè làm để cho gia đình ăn, để tặng hay để bán. Cho nên lại lọ mọ làm lại, nhân tiện quay video để các bạn tiện tham khảo luôn.</p>
 <p>Bánh bông lan trứng muối, nếu mình không nhầm, thì nguyên thủy chỉ có bánh bông lan với lòng đỏ hột vịt muối, đổ trên chảo gang thành những chiếc bánh be bé như nắm tay trẻ con thôi. Sau này mới có biến tấu thêm các vị mới và đủ thứ nhân mặn như pho-mát, xúc xích, chà bông… Lúc trước làm bánh bông lan trứng muối mình vẫn có chút băn khoăn trong khâu chọn cốt bánh. Bánh bơ là loại cốt chắc chắn và cũng béo ngậy nhất, có thể xếp trứng lên mặt bánh thoải mái mà không lo bánh xẹp. Nhưng nếu bánh đã có pho-mát, lại thêm sốt nữa mà cốt nhiều bơ thì e là hơi ngấy. Lần trước mình <a href="/banh-bong-lan-tra-xanh-trung-muoi/" target="_blank">thử với cốt kem tươi </a>thì thấy bánh thơm và ăn vị cũng dễ chịu. Gần đây nhất khi làm <a href="/cach-lam-banh-hot-dog-khong-can-may-hay-banh-bong-lan-trung-muoi-trang-chao/" target="_blank"><strong>Hot Dog kiểu Việt Nam</strong></a>, dùng cốt bánh bông lan cơ bản với nhân xúc xích, pho-mát thấy rất ngon nên quyết định dùng cốt bánh này để làm ổ bông lan kẹp nhân mặt thật to cho-kịp-thời-đại luôn :)</p>
 <p><a href=" https://www.flickr.com/photos/savourydays/22306417769/" title=" BLTM FB by LinhTrang9185, on Flickr"><img alt=" BLTM FB" class="aligncenter" height="427" loading="lazy" src=" https://farm1.staticflickr.com/614/22306417769_63e84ea865.jpg " width="640"/></a></p>
-<p>Chiếc bánh trong hình của mình có hai phần:</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Chiếc bánh trong hình của mình có hai phần:</p>
 <p>– Phần bạt bánh mình dùng <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/" target="_blank"><strong>công thức Ga-tô cơ bản bất bại,</strong></a> 3 trứng trong khuôn 18 cm, sau đó xẻ làm đôi. Mình nướng bạt bánh trước rồi mới xếp nhân để tránh việc nhân chìm xuống hoặc bánh xẹp khi mở lò xếp nhân.</p>
 <p>– Phần nhân bánh mình dùng: xúc xích, pho-mát, chà bông (ruốc thịt lợn) và một loại sốt mà mình tạm đặt tên là sốt bơ trứng. Phần sốt này vừa giúp cho bánh thêm ẩm, vừa giữ nhân trên mặt bánh không bị xô lệch và vừa giúp cho bánh thêm thơm ngon nữa.</p>
 <p>Lý do làm sốt là bởi gần đây có lần được một độc giả hỏi về loại sốt dầu màu vàng, thơm vị bơ hay dùng trên bánh bông lan trứng muối ở nhà. Độc giả đó ăn thấy ngon nên muốn hỏi công thức. Mình chưa nếm thử món sốt này bao giờ. Khi đi tìm hiểu thử thì thấy một số bạn giới thiệu cách làm sốt dầu trứng (từ dầu, trứng, dấm). Thực chất thì sốt dầu trứng này chính là sốt mayonnaise làm tại nhà. Mình không muốn làm loại sốt mayonnaise này lắm vì một phần là vị của nó không thực sự xuất sắc. Phần quan trọng hơn là mayonnaise sử dụng trứng sống và 1 lượng lớn dầu ăn, là hai thứ không tốt lắm cho sức khỏe. Vì có trứng sống nên mayonnaise tự chế cũng cần được dùng càng sớm càng tốt để tránh vi khuẩn xâm nhập vào gây đau bụng.</p>
@@ -56,10 +52,7 @@ description: "Bài viết chia sẻ cách làm bánh bông lan trứng muối đ
 </em></li>
 <li><em>khoảng 1/2 bát con (loại dùng ăn cơm) chà bông/ ruốc thịt</em></li>
 </ul>
-<p><span style="color: #800000;"><strong>Cách làm</strong></span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <p>(*) <span style="color: #0000ff;"><em>Món bánh này có video hướng dẫn, khi xem các bạn nhớ bật CC để xem phụ đề tiếng Việt và chuyển chế độ HD (nút bánh xe góc phải phía dưới video) để xem video rõ nhất nhé.</em></span></p>
 <p><strong>A. Bạt bánh bông lan</strong></p>
 <p>Chuẩn bị bạt bánh theo <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/" target="_blank"><strong>công thức cách làm ga-tô cơ bản bất bại</strong></a>. Mình đã làm video và đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank"><strong>YouTube Channel của Savoury Days.</strong></a> Các bạn có thể xem video phía dưới hoặc xem trực tiếp tại YouTube theo link này nhé: https://youtu.be/StPeZBscS_U</p>
@@ -79,5 +72,3 @@ description: "Bài viết chia sẻ cách làm bánh bông lan trứng muối đ
 <hr/>
 <p>Các bạn có thể xem thêm <a href="/cach-lam-banh-bong-lan-trung-muoi-khong-can-lo-nuong-2/">cách làm bánh bông lan trứng muối làm với lò nướng, lò vi sóng hoặc nồi hấp với video hướng dẫn chi tiết</a>.</p>
 
-
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

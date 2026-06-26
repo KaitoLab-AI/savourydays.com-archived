@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2019/08/IMG_6897.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Lớp trung thu online đã tương đối ổn, tuần này có nhiều thời gian rảnh rỗi hơn, tụi mình lại thử bánh mới.</span></p>
 <p><span style="color: #000000;">Trà hoa mộc bấy lâu vẫn pha, rất thích mùi hương thanh mát đầy quyến rũ nên năm nay quyết định phải cho vào bánh. Còn nhân dâu tây là do muốn tiếp tục khám phá các loại nhân bánh không quá ngọt, cũng nhân tiện ở studio đang có sẵn mứt sinh tố dâu còn từ hồi làm mousse nữa.</span></p>
 <p><span style="color: #000000;">Vậy là buổi sáng sớm mấy chị em đến, nấu ít đậu rồi xay, rồi chia thành hai chảo nhân. Một chảo sên cùng nước hoa mộc và hạt chia đã ngâm nở. Chảo còn lại pha sinh tố mứt dâu vào. Đứng sên trong tiếng nhạc nhẹ nhàng, thấy cũng zen ra phết :P</span></p>
 <p><span style="color: #000000;">Nhân mứt dâu rất ngon, thơm vị dâu, lại có vị chua chua ngòn ngọt dễ ăn cực kì. Có điều màu mứt dâu pha vào nhân đậu xanh thành ra kiểu màu hồng tro, hồng hơi tái nên mình cho thêm xíu màu thực phẩm đỏ cho đẹp mắt. Sên đến khi nhân gần đạt, mịn, mượt, dẻo, nhìn thích mắt dã man.</span></p>
-<p><span style="color: #000000;">Nhân hoa mộc thì chao ôi là thơmmmmmmmmm. Thơm kiểu quyến rũ, thơm nức mũi ấy. Có thêm hạt chia tí tách cũng vui miệng. Cách làm hai loại nhân này cũng đơn giản thôi. Mỗi phần nhân mình dùng 100 g đậu xanh khô, 45 g đường và 45 g dầu ăn. Với nhân hoa mộc: mình ngâm 1.5 tsp hoa mộc khô (3 gram) trong 50 ml nước nóng, và ngâm 10 g hạt chia trong 50 ml nước nóng khoảng 15 phút. Sau khi đã cho hết dầu ăn vào sên cùng nhân thì mình cho hoa mộc với hạt chia vào sên cùng.</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">Nhân hoa mộc thì chao ôi là thơmmmmmmmmm. Thơm kiểu quyến rũ, thơm nức mũi ấy. Có thêm hạt chia tí tách cũng vui miệng. Cách làm hai loại nhân này cũng đơn giản thôi. Mỗi phần nhân mình dùng 100 g đậu xanh khô, 45 g đường và 45 g dầu ăn. Với nhân hoa mộc: mình ngâm 1.5 tsp hoa mộc khô (3 gram) trong 50 ml nước nóng, và ngâm 10 g hạt chia trong 50 ml nước nóng khoảng 15 phút. Sau khi đã cho hết dầu ăn vào sên cùng nhân thì mình cho hoa mộc với hạt chia vào sên cùng.</span></p>
 <p><span style="color: #000000;">Nhân dâu tây dễ hơn, hiện ở VN có mứt sinh tố dâu tây của Berrino hoặc của Golden farm, thi thoảng mình hay dùng làm mousse rất tiện. Với mỗi phần nhân làm từ 100 g đậu xanh, mình dùng thêm 120 g sinh tố dâu. Cũng cho vào sau khi đã cho hết dầu ăn. Rồi cứ thế sên đến khi đạt.</span></p>
 <p><span style="color: #000000;">Sau khi sên xong nhân, để nguội rồi chia đóng bánh. Năm nay có các mẫu khuôn hoa sen, hoa hồng và khuôn mặt rồng phượng đơn giản nhưng sắc nét, đẹp kiểu thanh nhã, rất hợp với bánh trung thu cổ truyền. Mỗi khuôn hay bộ khuôn có giá tầm 120K/ bộ thôi, dày dặn và dễ dùng, nhìn chung là cực kì ưng. Khuôn lò xo cỡ 150 g, mình hay làm bánh to hơn chút xíu, khoảng 105 g nhân và 55 g vỏ, cho bánh nhìn cao ráo.</span></p>
 <p><span style="color: #000000;">Đóng bánh xong rồi, mang đi nướng thôi</span></p>
@@ -26,10 +22,7 @@ description: ""
 <p><span style="color: #000000;"><img alt="" class="aligncenter size-large wp-image-8354" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/08/IMG_6869-1024x683.jpg" width="1024"/></span></p>
 <p><span style="color: #000000;"><img alt="" class="aligncenter size-large wp-image-8353" height="684" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/08/IMG_6866-1024x684.jpg" width="1024"/></span></p>
 <p><span style="color: #000000;">Bánh sau 3 lần nướng và 2 lần quét trứng, để tới mai màu sẽ vàng đều hơn và vỏ mềm hơn</span></p>
-<p><span style="color: #000000;"><img alt="" class="aligncenter size-large wp-image-8355" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/08/IMG_6905-1024x683.jpg" width="1024"/></span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;"><img alt="" class="aligncenter size-large wp-image-8355" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/08/IMG_6905-1024x683.jpg" width="1024"/></span></p>
 <p><span style="color: #000000;">Bỏ vào hộp trông cũng sang chảnh chanh sả ra phết :D</span></p>
 <p><span style="color: #000000;"><img alt="" class="aligncenter size-large wp-image-8356" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/08/IMG_6911-1024x683.jpg" width="1024"/></span></p>
 <p><span style="color: #000000;">Nhân hoa mộc hạt chia và nhân dâu tây đều được làm dựa trên nhân đậu xanh. Tỉ lệ nguyên liệu đã có ở phía trên.</span></p>
@@ -42,4 +35,4 @@ description: ""
 <p><span style="color: #000000;">* Các nguyên liệu, dụng cụ như khuôn, hộp giờ đã vào mùa rồi nên rất sẵn, ở đâu cũng có. Khuôn và hộp trong bài mình  mua ở <a href="http://Abby.vn">Abby.vn</a>, Các bạn ở xa có thể đặt mua gửi tới tận nhà nhé.</span></p>
 <p><span style="color: #000000;">* Các bạn có thể xem tổng hợp các công thức về bánh nướng, bánh dẻo trung thu ở bài viết này nhé: <a href="/tong-hop-cach-lam-banh-nuong-banh-deo-trung-thu-a-z/">/tong-hop-cach-lam-banh-nuong-banh-deo-trung-thu-a-z/</a></span></p>
 <p><span style="color: #000000;">* Lớp trung thu online hiện vẫn đang ưu đãi giảm 15% học phí, nhưng chỉ đến hết ngày mai, 14/8. Nếu các bạn quan tâm, có thể tham khảo nội dung chương trình và cách đăng ký ở đây: <a href="/mo-dang-ki-lop-hoc-lam-banh-trung-thu-online-uu-dai-giam-15-hoc-phi-den-10-8/">/mo-dang-ki-lop-hoc-lam-banh-trung-thu-online-uu-dai-giam-15-hoc-phi-den-10-8/</a></span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

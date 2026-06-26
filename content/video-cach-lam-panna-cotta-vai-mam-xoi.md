@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2021/06/cach-lam-panna-cotta-vai-mam-xoi-banner.jpg"
 description: "Lớp thạch vải mát lịm hoà quyện với panna cotta béo ngậy núng nính,thêm vị quả mâm xôi thơm lừng. MÓn tráng miệng này rất dễ làm"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="font-weight: 400; color: #000000;">Giải cứu vải nhưng không ăn kịp thì làm gì? </span></p>
 <p><span style="font-weight: 400; color: #000000;">Vui mừng hân hoan háo hức giới thiệu với cả nhà “nàng thơ mùa hạ” mới của tụi mình, Panna Cotta thạch vải – mâm xôi ạ ;) </span></p>
 <p><span style="font-weight: 400; color: #000000;">“Bạn ấy” đầu tiên là đẹp, làm người khác phải ố á trầm trồ, tiếp theo là núng nính mềm mịn thơm mát lịm tim, sau đấy là cực kỳ nhanh gọn dễ làm. </span><span style="font-weight: 400; color: #000000;">Nhưng đặc biệt nhất phải kể đến sự kết hợp cực kỳ – cực kỳ đỉnh cao giữa vải và mâm xôi. Khi ăn trong miệng thì chua chua ngọt ngọt, tươi mát đúng “vị” của mùa hè, nuốt xuống rồi thì hương vải còn vấn vương mãi ở cổ họng 😉😉</span></p>
 <p><span style="font-weight: 400; color: #000000;">Trong video còn hướng dẫn làm vải ngâm đường, một giải pháp cực kỳ hợp lý để tích trữ vải dùng dần. Vải ngâm đường thơm mát ngọt lịm, có thể dùng để pha trà vải, làm thạch, làm kem, hay dùng làm nước chè khúc bạch cho mấy ngày nắng nóng thì đều hết xảy 😁</span></p>
-<p><span style="font-weight: 400; color: #000000;">P/s: Nếu bạn đã từng phải lòng panna cotta thạch trà đào “triệu view” năm ngoái của tụi mình, thì món này còn gây si mê hơn vài phần đấy 😉</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">P/s: Nếu bạn đã từng phải lòng panna cotta thạch trà đào “triệu view” năm ngoái của tụi mình, thì món này còn gây si mê hơn vài phần đấy 😉</span></p>
 <h2><span style="color: #800000;">CÁCH LÀM PANNA COTTA VẢI – MÂM XÔI </span></h2>
 <p><strong><span style="color: #000000;">Nguyên liệu (cho 1 khuôn chữ nhật kích thước 15 x 6.5 x 6.5 cm)</span></strong></p>
 <p><strong><span style="color: #000000;">A. Vải ngâm đường</span></strong></p>
@@ -61,10 +57,7 @@ description: "Lớp thạch vải mát lịm hoà quyện với panna cotta béo
 </ul>
 <p><strong><span style="color: #000000;">* Lưu ý chung về nguyên liệu:</span></strong></p>
 <p><span style="font-weight: 400; color: #000000;">– Gelatin sẽ làm cho thạch và panna cotta đông kiểu mềm dẻo, “núng nính” nên không thay thế được bằng bột thạch. Dùng gelatin dạng lá ngon hơn gelatin bột.</span></p>
-<p><span style="font-weight: 400; color: #000000;">– Tỉ lệ gelatin trong công thức theo mình là phù hợp để cho panna cotta vừa đủ cứng cáp để đổ ra khỏi khuôn, nhưng vẫn mềm dẻo núng nính. Càng nhiều gelatin thạch sẽ càng cứng hơn.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">– Tỉ lệ gelatin trong công thức theo mình là phù hợp để cho panna cotta vừa đủ cứng cáp để đổ ra khỏi khuôn, nhưng vẫn mềm dẻo núng nính. Càng nhiều gelatin thạch sẽ càng cứng hơn.</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Nước ngâm vải sẽ có độ đặc loãng khác nhau, các bạn nên cân bằng ml thay vì gram nhé. Cân ml có thể dùng bộ thìa đong (1 thìa canh (tbsp) = 15ml; 1 thìa cafe (tsp) = 5ml).</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Lượng đường trong thạch và panna cotta có thể thay đổi tùy theo khẩu vị và độ ngọt của quả tươi. </span></p>
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
@@ -81,7 +74,6 @@ description: "Lớp thạch vải mát lịm hoà quyện với panna cotta béo
 <p><span style="color: #000000;">4. Đun sôi 1 nồi nước lớn. Khi nước gần sôi thì chuẩn bị sẵn 1 âu nước đá lạnh to. </span></p>
 <p><span style="color: #000000;">5. Nước sôi thì tắt bếp, cho toàn bộ vải vào trụng trong khoảng 1.5 – 2 phút. Bước này sẽ giúp vải ngấm đường tốt hơn. </span></p>
 <p><span style="color: #000000;">6. Vớt vải ra, thả ngay vào âu nước lạnh. Ngâm vải trong khoảng 5 phút cho vải hết nóng. </span></p>
-
 
 <p><span style="color: #000000;">7. Chuẩn bị sẵn một bát nước đá rất lạnh. Bóc vỏ, dùng mũi dao nhọn lọc bỏ hạt vải, sao cho phần cùi vải còn nguyên. Thả ngay cùi vải vào bát nước đá.</span></p>
 <p><span style="color: #000000;">8. Ngâm cùi vải trong nước đá khoảng 7 – 10 phút rồi vớt ra rổ, lắc nhẹ cho vải ráo nước. Cố gắng thao tác nhanh không để vải bị hết lạnh.</span></p>
@@ -109,4 +101,4 @@ description: "Lớp thạch vải mát lịm hoà quyện với panna cotta béo
 <p><span style="color: #000000;">6. Khi panna cotta đã nguội và thạch trong khuôn đã đông. Dùng thìa múc panna cotta, đổ rất nhẹ nhàng vào khuôn. KHÔNG đổ mạnh tay, tránh làm hỏng lớp thạch bên dưới.</span></p>
 <p><span style="color: #000000;">7. Để thạch vào ngăn mát 8 giờ đến khi thạch đông lại hoàn toàn.</span></p>
 <p><span style="color: #000000;">8. Gỡ thạch: Nhúng khuôn vào nước nóng khoảng 2 – 3 giây đến khi thấy thạch hơi chảy và tách nhẹ khỏi khuôn. Úp ngược khuôn ra đĩa. Bảo quản thạch trong ngăn mát tủ lạnh được 3 – 4 ngày.</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

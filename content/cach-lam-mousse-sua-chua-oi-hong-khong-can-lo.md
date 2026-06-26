@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2022/04/IMG_0138-3-scaled.jpg"
 description: "Món bánh tráng miệng không dùng lò, thanh mát vị sữa chua, thơm mùi ổi hồng, cách tạo hình cực xinh"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="font-weight: 400;">Một món ăn siêu dễ thương, mát lạnh, thanh mát dễ ăn và cực kỳ dễ làm để chào hè đây ạ 😁Ổi và sữa chua là hương vị quả rất quen thuộc với người Việt (mọi người chắc ai cũng có tuổi thơ dữ dội với gói kẹo Oishi ổi và sữa chua 😄) mà SD lại chưa có bánh nào vị ổi cả, như thế làm sao mà đượcccc???</span></p>
 <p><span style="font-weight: 400;">Mousse sữa chua mát lạnh, chua chua thanh thanh, xốp tan trong miệng, thạch ổi hồng thơm mát đặc trưng, thêm đế bánh Oreo giòn giòn, ăn đến đâu là mát mẻ dễ chịu đến đó, cực phù hợp làm tráng miệng cho những bữa cơm nhiều đạm 😁</span></p>
 <p><span style="font-weight: 400;">Cách làm cực dễ, bạn nào không có lò cũng bon chen thoải mái nha ;)</span></p>
@@ -20,10 +19,7 @@ description: "Món bánh tráng miệng không dùng lò, thanh mát vị sữa 
 <li><em><span style="font-weight: 400;">15 – 25 gram đường (không bắt buộc, có thể điều chỉnh theo khẩu vị)</span></em></li>
 <li><em><span style="font-weight: 400;">15 gram gelatin dạng lá</span></em></li>
 </ul>
-<p><strong>B. Đế bánh quy</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>B. Đế bánh quy</strong></p>
 <ul>
 <li><em><span style="font-weight: 400;">12 cái bánh Oreo, bỏ phần kem trắng ở giữa</span></em></li>
 <li><em><span style="font-weight: 400;">40 gram bơ động vật không muối, đun chảy </span></em></li>
@@ -48,10 +44,7 @@ description: "Món bánh tráng miệng không dùng lò, thanh mát vị sữa 
 <p><strong>A. Thạch ổi hồng</strong></p>
 <p>1. Gelatin ngâm nước lạnh tới khi gelatin nở mềm.</p>
 <p><span style="font-weight: 400;">2. Cho nước, sinh tố ổi, đường vào nồi. Khuấy đều trên lửa vừa tới khi hỗn hợp gần sôi, cho lá gelatin đã vắt kiệt nước vào, khuấy đều cho gelatin tan hoàn toàn. </span></p>
-<p><span style="font-weight: 400;">3. Ở bước này nếu muốn màu thạch đậm hơn có thể dùng thêm màu thực phẩm hồng.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="font-weight: 400;">3. Ở bước này nếu muốn màu thạch đậm hơn có thể dùng thêm màu thực phẩm hồng.</span></p>
 <p><span style="font-weight: 400;">4. Đổ thạch vào khuôn (mình dùng khuôn vuông 18cm để thạch có độ dày vừa phải). Hớt bọt. Để thạch nguội rồi cho vào tủ lạnh tối thiểu 3 giờ tới khi thạch đông hoàn toàn.</span></p>
 <p><span style="font-weight: 400;">5. Sau khi thạch đông, dùng khuôn cắt bánh quy cắt thành các hình tùy thích. Một phần thành cắt dạng khối nhỏ để trộn cùng mousse sữa chua.</span></p>
 <p><span style="font-weight: 400;">6. Giữ lạnh các phần thạch tới khi dùng.</span></p>
@@ -67,7 +60,6 @@ description: "Món bánh tráng miệng không dùng lò, thanh mát vị sữa 
 <p><span style="font-weight: 400;"><strong>Lưu ý:</strong> Nếu làm chảy gelatin bằng lò vi sóng, chỉ quay ở mức nhiệt thấp, 10 giây lấy ra để khuấy đều và kiểm tra một lần, tránh việc gelatin bị cháy, vón cục ở đáy bát vì nhiệt cao hoặc thời gian lâu.</span></p>
 <p><span style="font-weight: 400;">3. Sữa chua để nguội ở nhiệt độ phòng, trộn đều với đường xay. Từ từ đổ gelatin vào, vừa đổ vừa khuấy đều. Lưu ý: Sữa chua cần để nguội hoànn toàn, nếu không khi đổ gelatin vào sẽ làm gelatin vón cục hoặc đông lại rất nhanh.</span></p>
 <p><span style="font-weight: 400;">4. Đánh kem tươi đến khi bông mềm (gần cứng). Chia sữa chua thành 2 – 3 phần, lần lượt trộn với kem tươi bằng kỹ thuật fold.</span></p>
-
 
 <p><span style="font-weight: 400;">5. Đổ ½ lượng mousse vào khuôn, xếp thạch ổi cắt khối nhỏ vào, đổ nốt phần mousse còn lại vào, dàn đều khắp khuôn.</span></p>
 <p><span style="font-weight: 400;">6. Để mousse vào tủ lạnh 4 – 6 giờ cho mousse đông lại.</span></p>
@@ -85,4 +77,4 @@ description: "Món bánh tráng miệng không dùng lò, thanh mát vị sữa 
 <p><span style="font-weight: 400;"><strong>* Cách lấy bánh:</strong> Dùng khăn nóng áp quanh thành khuôn, hoặc dùng máy sấy tóc sấy rất nhanh quanh thành khuôn cho bánh hơi chảy ra một chút. Lưu ý nếu dùng máy sấy chỉ sấy mỗi mặt khoảng 1 – 2 giây, tránh làm bánh chảy quá.</span></p>
 <p><img alt="" class="alignnone wp-image-9092" height="372" loading="lazy" sizes="(max-width: 554px) 100vw, 554px" src="/wp-content/uploads/2022/04/IMG_0293-300x201.jpg" width="554"/></p>
 <p> </p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

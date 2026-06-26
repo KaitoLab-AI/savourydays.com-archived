@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2022/06/IMG_6317.jpg"
 description: "Món chè ngọt mát nhưng không ngấy với bánh lọt dẻo dai, thơm mùi lá dứa, hạt lựu giòn giòn, đậu xanh đánh nhuyễn bùi bùi và nước cốt dừa béo ngậy"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <div class="" data-block="true" data-editor="r47g" data-offset-key="2upd7-0-0">
 <div class="_1mf _1mj" data-offset-key="2upd7-0-0">Món chè “cầu vồng” cho những ngày đầu tuần oi ả đây ạ 😁 Một món chè không quá “thanh cảnh” như chè Hà Nội, nhưng cũng không quá “ngấy” như các loại chè nhiều cốt dừa.</div>
 </div>
@@ -40,10 +39,7 @@ description: "Món chè ngọt mát nhưng không ngấy với bánh lọt dẻo
 <li><em><span style="font-weight: 400;">20 gram củ dền hoặc màu thực phẩm đỏ</span></em></li>
 </ul>
 <p><strong>D. Nước cốt dừa<br/>
-</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+</strong></p>
 <ul>
 <li><em><span style="font-weight: 400;">400 gram nước cốt dừa</span></em></li>
 <li><em><span style="font-weight: 400;">100 gram sữa tươi</span></em></li>
@@ -60,10 +56,7 @@ description: "Món chè ngọt mát nhưng không ngấy với bánh lọt dẻo
 <p><strong>B. Bánh lọt lá dứa:</strong></p>
 <p><span style="font-weight: 400;">1. Xay lá dứa với nước, lọc qua rây để lấy nước cốt. Cho nước cốt vào nồi cùng dầu ăn và 1 nhúm muối nhỏ.</span></p>
 <p><span style="font-weight: 400;">2. Trộn bột năng và bột gạo, từ từ cho khoảng ⅓ lượng bột vào nồi nước lá dứa. Khuấy hỗn hợp trên lửa nhỏ khoảng 2 phút để bột hơi sệt lại, tắt bếp.</span></p>
-<p><span style="font-weight: 400;">3. Từ từ cho nốt chỗ bột khô còn lại vào nồi và khuấy đều để tạo thành 1 hỗn hợp mịn mượt.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="font-weight: 400;">3. Từ từ cho nốt chỗ bột khô còn lại vào nồi và khuấy đều để tạo thành 1 hỗn hợp mịn mượt.</span></p>
 <p><span style="font-weight: 400;">4. Đun 1 nồi nước sôi để luộc bánh lọt và chuẩn bị sẵn 1 âu nước đá lạnh. </span></p>
 <p><span style="font-weight: 400;">5. Cho bột vào túi bắt kem hoặc dụng cụ ép bột có lỗ nhỏ, từ từ bóp bột vào nồi nước. Luộc sợi bột cho đến khi bột nổi lên mặt nước và chuyển trong. Vớt sợi bột ra âu nước đá lạnh.</span></p>
 <p> </p>
@@ -77,4 +70,4 @@ description: "Món chè ngọt mát nhưng không ngấy với bánh lọt dẻo
 <p><img alt="" class="alignnone wp-image-9163" height="727" loading="lazy" sizes="(max-width: 487px) 100vw, 487px" src="/wp-content/uploads/2022/06/4-1-201x300.jpg" width="487"/></p>
 <p> </p>
 </div>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

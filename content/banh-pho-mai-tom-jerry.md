@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2020/05/banh-pho-mai-tom-jerry-banner.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Món cheesecake này “ăn điểm” chắc 9 phần là nhờ “ngoại hình” rồi. Miếng bánh xinh y như một miếng pho-mai trong phim Tom &amp; Jerry ấy. Mình thích nó cũng là vì điểm này, trông rất hay, ngộ nghĩnh, thú vị, nhà có trẻ con thì chắc không nhóc nào từ chối được đâu (trẻ lớn U40 như mình còn thích nữa kia mà :D) </span></p>
 <p><span style="color: #000000;">Món này không mới, công thức trên Youtube có cũng nhiều, nhưng cách mình làm có điều chỉnh đi một chút. Đa số các công thức mà mình thấy trên Youtube đều có 1 lớp socola trắng cứng bên ngoài, trong là kem pho-mai. Như vậy e là hơi ngọt và ngấy nữa bởi socola trắng lúc nào cũng rất ngọt và nếu bánh chỉ có kem pho-mai không ăn cũng hơi nhàm, kiểu không có gì làm điểm nhấn ấy. Nên mình sửa lại công thức, bỏ lớp vỏ socola đi, phần pho-mai đánh cùng với vỏ cam vàng bào mịn và cho thêm bạt bánh gato vào giữa. Bánh có mùi cam thơm the mát, chua dìu dịu, thêm phần bạt gato ở giữa, dễ ăn hơn rất nhiều. </span></p>
 <h2><span style="color: #000000;">CÁCH LÀM JERRY CHEESECAKE </span></h2>
@@ -22,10 +21,7 @@ description: ""
 <li><em><span style="color: #000000;">4 Miếng bạt bánh gato</span> (không bắt buộc) </em></li>
 </ul>
 <p>* <strong>Khuôn làm pho-mai các bạn có thể mua từ shoppee nhé, tên là “khuôn silicon làm bánh phô-mai 3D” </strong></p>
-<p><span style="color: #800000;"><strong>Cách làm</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/fSV2s_Gdt5A" width="560"></iframe></div>
 <p><span style="font-weight: 400; color: #000000;">1. Xử lý gelatin</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Với gelatin lá: Ngâm gelatin trong nước lạnh đến khi gelatin nở mềm. Cho gelatin sang một bát khác, cho vào bát 20ml nước, quay chảy gelatin bằng lò vi sóng trong 15 – 20 giây đến khi gelatin tan hoàn toàn. Nếu không có lò vi sóng, các bạn có thể chưng cách thủy gelatin để gelatin tan hết.</span></p>
@@ -36,7 +32,4 @@ description: ""
 <p><span style="font-weight: 400; color: #000000;">4. Cho từ từ kem tươi lạnh vào âu creamcheese, vừa cho vừa đánh ở tốc độ thấp nhất tới khi kem hòa quyện.</span></p>
 <p><span style="font-weight: 400; color: #000000;">5. Cho kem phomai vào khuôn, đặt vào một lớp bạt bánh gato, phủ kem đầy khuôn và dùng dao gạt ngang khuôn để có lớp mặt phẳng. Để cả khuôn bánh vào ngăn đá trong 6 – 8 tiếng tới khi kem đông lại và có thể gỡ khuôn. Sau khi gỡ bánh, rã đông bánh ở ngăn mát trong 2 – 3 tiếng cho bánh mềm lại.</span></p>
 <p><span style="font-weight: 400; color: #000000;">* Bạt bánh gato có thể thay bằng bánh lady fingers (bánh sampa), cạo lớp đường bên ngoài cho bớt ngọt, nhúng thật nhanh qua sữa rồi cho vào khuôn bánh. </span></p>
-<div align="center" id="google-ads-body-post-end">
 
-
-</div><!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2011/08/Muffin-chocolate-610x350.jpg"
 description: ""
 ---
 
-
 <p>Tình hình là hôm nay mình đã nướng (tử tế) mẻ bánh đầu tiên trong đời…</p>
 <p>…và….</p>
 <p>KHÔNG BỊ HỎNG :D</p>
 <p>:D/ :D/ :D/</p>
-<p>mừng quá cho nên phải mang đi khoe luôn</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>mừng quá cho nên phải mang đi khoe luôn</p>
 <p>em nó đây: <em><strong>Muffin chocolate &amp; coffee</strong></em></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6018516714/" title="Chocolate coffee muffin by LinhTrang9185, on Flickr"><img alt="Chocolate coffee muffin" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6132/6018516714_0a3aaba71b.jpg" width="346"/></a></p>
 <p>Bạn nào thích cà phê thì chắc sẽ thích bánh muffin này, vì nó thơm mùi cà phê lắm, ăn cũng không bị quá ngọt, lại có thêm chút vị cà phê pha chocolate đắng nữa :)</p>
@@ -31,9 +27,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

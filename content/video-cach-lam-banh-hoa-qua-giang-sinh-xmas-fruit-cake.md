@@ -12,10 +12,7 @@ description: ""
 <p><a href=" https://www.flickr.com/photos/savourydays/23495538565/" title=" IMG_5017 by LinhTrang9185, on Flickr"><img alt=" IMG_5017" class="aligncenter" height="640" loading="lazy" src=" https://farm6.staticflickr.com/5798/23495538565_bb1f2e4ec3_z.jpg" width="512"/></a></p>
 <p>Giáng sinh sắp đến rồi, chỉ còn khoảng 3 tuần nữa thôi và mình nghĩ đây cũng là thời điểm rất thuận lợi nếu bạn muốn làm một ổ bánh Giáng sinh thơm nức, đậm đà cho đúng ngày lễ. Tuy loại bánh này thường cần một vài tuần để quét rượu, nhưng với công thức mà mình đã giới thiệu tại SD thì không nhất thiết phải đợi lâu như vậy. Do bánh rất mềm xốp và ẩm, ngay từ khi nướng xong nên bạn có thể dùng ngay hoặc đợi để quét rượu – tùy thích nhé.</p>
 <p>Bánh làm không khó nhưng mình hi vọng là video sẽ giúp bạn cảm nhận được rõ hơn các bước làm và đặc biệt là bánh sau khi nướng xong: như thế nào là ổn :)</p>
-<p>Để tránh bị loãng, mình đăng video trong bài viết có công thức đầy đủ. Mời các bạn xem trong bài <a href="/khoi-dong-xmas-baking-voi-xmas-fruit-cake-banh-hoa-qua-giang-sinh/" target="_blank"><strong>cách làm Xmas fruit cake</strong></a> nhé.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Để tránh bị loãng, mình đăng video trong bài viết có công thức đầy đủ. Mời các bạn xem trong bài <a href="/khoi-dong-xmas-baking-voi-xmas-fruit-cake-banh-hoa-qua-giang-sinh/" target="_blank"><strong>cách làm Xmas fruit cake</strong></a> nhé.</p>
 <p>À, trong tháng 12 này mình cũng sẽ làm một loạt bài giới thiệu các công thức món ăn cả mặn và ngọt dành cho lễ giáng sinh và mừng Năm mới. Xmas fruit cake là món mở màn, nhà bánh gừng (phiên bản 2 ngon hơn, đẹp hơn ;) ) sẽ được giới thiệu trong một vài ngày tới. Nếu các bạn có đề nghị làm video hướng dẫn cách nấu món mặn hay món ngọt nào thì các bạn có thể để lại yêu cầu dưới bài này hoặc dưới video tại YouTube nha. Mình sẽ chọn các món được yêu cầu nhiều nhất để quay hướng dẫn :)</p>
 <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
@@ -24,9 +21,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

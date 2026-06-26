@@ -8,8 +8,6 @@ image: "/wp-content/uploads/2019/06/cách-làm-bánh-mousse-sầu-riêng-banner-
 description: "Cách làm bánh Mousse sầu riêng thơm ngon tuyệt đỉnh, cách làm có video hướng dẫn chi tiết và các mẹo giúp thành công. Cùng làm một món mousse thật ngon"
 ---
 
-
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Mousse sầu riêng mình giới thiệu từ 2015. Đến bây giờ, tuy đã 4 năm rồi nhưng danh hiệu “thiên hạ đệ nhất mousse” vẫn chưa có món nào soán được ngôi của “nàng”. Danh hiệu này hồi đó tuy là do mình đặt, nhưng trong thời gian vừa qua đã được chứng thực bởi rất rất nhiều người, từ những người nếm thử cho tới những người làm thử. Thậm chí còn có nhận xét là mousse của khách sạn 5* cũng không bằng, hihi. Và cũng có cả những người vốn không chịu được mùi sầu riêng, nhưng ăn món này xong lại quay ra thành  nghiền ;) Mùa sầu riêng đang chính vụ, còn chờ đợi gì nữa mà không làm một ổ để xoa dịu tiết trời nóng nực. Video dưới đây là để cho các bạn dễ hình dung hơn khi làm bánh nha, còn công thức thì vẫn vậy thôi. Mình gõ lại ở dưới để các bạn tiện theo dõi nhé.</span></p>
 <h2>CÁCH LÀM BÁNH MOUSSE SẦU RIÊNG</h2>
 <p><span style="color: #800000;"><strong>* Dụng cụ:</strong></span></p>
@@ -19,10 +17,7 @@ description: "Cách làm bánh Mousse sầu riêng thơm ngon tuyệt đỉnh, c
 </ul>
 <p><span style="color: #800000;"><strong>* Nguyên liệu</strong></span></p>
 <p><span style="color: #000000;"><strong>A. Cốt bánh gateau</strong></span></p>
-<p>Các bạn có thể dùng cốt <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/"><strong>ga-tô cơ bản bất bại</strong></a>, cốt<a href="/video-cach-lam-ga-to-hong-kong-xop-am-min-mem-cong-thuc-banh-chiffon-khuon-tron/"><strong> ga-tô Hong Kong</strong></a> hoặc <strong><a href="/video-cach-lam-banh-ga-to-bang-noi-com-dien/" rel="noopener noreferrer" target="_blank">cốt gateau cơ bản bằng nồi cơm điện</a> </strong>nếu không có lò nướng. Bánh trong video là 3 trứng nướng trong khuôn 15 cm để nhỏ hơn một chút, cho mousse phủ lên bánh hoàn toàn.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Các bạn có thể dùng cốt <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/"><strong>ga-tô cơ bản bất bại</strong></a>, cốt<a href="/video-cach-lam-ga-to-hong-kong-xop-am-min-mem-cong-thuc-banh-chiffon-khuon-tron/"><strong> ga-tô Hong Kong</strong></a> hoặc <strong><a href="/video-cach-lam-banh-ga-to-bang-noi-com-dien/" rel="noopener noreferrer" target="_blank">cốt gateau cơ bản bằng nồi cơm điện</a> </strong>nếu không có lò nướng. Bánh trong video là 3 trứng nướng trong khuôn 15 cm để nhỏ hơn một chút, cho mousse phủ lên bánh hoàn toàn.</p>
 <p><span style="color: #000000;"><strong>B. Mousse sầu riêng</strong></span></p>
 <ul>
 <li><span style="color: #000000;"><em>9 gram Gelatin </em></span></li>
@@ -43,10 +38,7 @@ description: "Cách làm bánh Mousse sầu riêng thơm ngon tuyệt đỉnh, c
 <p><span style="color: #000000;">2. Chuẩn bị Mousse sầu riêng:</span></p>
 <p><span style="color: #000000;">– Ngâm Gelatin vào nước lạnh khoảng 10 phút để Gelatin nở mềm. Nếu dùng Gelatin bột thì cần khoảng 40 – 50 ml nước, Gelatin lá nên dùng nhiều nước hơn.</span></p>
 <p><span style="color: #000000;">– Xay sầu riêng với sữa cho mịn nhuyễn. Nếu không có máy xay, các bạn có thể dầm sầu riêng trong sữa rồi lọc qua rây, sầu riêng chín thường rất mềm nên khi đi qua rây sẽ thành mịn. Nếu các bạn muốn giữ lại các thớ sầu riêng trong Mousse thì cũng nên dùng cách này.</span></p>
-<p><span style="color: #000000;">– Cho lòng đỏ trứng và đường vào nồi. Dùng phới đánh đều tới khi trứng đường hòa quyện và chuyển thành dạng bông mịn, màu vàng nhạt.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">– Cho lòng đỏ trứng và đường vào nồi. Dùng phới đánh đều tới khi trứng đường hòa quyện và chuyển thành dạng bông mịn, màu vàng nhạt.</span></p>
 <p><span style="color: #000000;">– Cho hỗn hợp sầu riêng, sữa và 75 gram kem tươi vào nồi đựng trứng đường, quấy đều tới khi các nguyên liệu hòa quyện.</span></p>
 <p><span style="color: #000000;">– Đặt nồi lên bếp đun lửa vừa. Vừa đun vừa quấy đều tay và liên tục (để sầu riêng không bị dính vào đáy nồi và cháy).</span></p>
 <p><span style="color: #000000;">– Khi từ nồi bắt đầu có hơi nước bốc lên, hạ  lửa nhỏ, quấy thêm khoảng 1 phút. Bắc khỏi bếp, vắt Gelatin cho ráo nước rồi thả vào nồi. Quấy nhanh và đều tay đến khi Gelatin tan và hòa quyện hết trong hỗn hợp kem trứng sầu riêng này. Để nguội. Thi thoảng quấy đều để trên mặt hỗn hợp kem này không bị đóng váng.</span></p>
@@ -56,4 +48,4 @@ description: "Cách làm bánh Mousse sầu riêng thơm ngon tuyệt đỉnh, c
 <p><span style="color: #000000;">– Đặt 1/2 bạt bánh vào khuôn Mousse. Nếu dùng khuôn đế rời thì có thể lót thêm 1 miếng giấy nến ở dưới đế khuôn để lấy bánh ra và di chuyển bánh được dễ dàng. Đổ 1/2 lượng Mousse vào khuôn. Tiếp tục đặt phần bạt bánh còn lại lên trên Mousse và đổ nốt phần Mousse còn lại vào khuôn. Lắc và vỗ nhẹ khuôn để Mousse dàn phẳng mặt. Để ngăn mát tủ lạnh tối thiểu 4 giờ để Mousse đông hoàn toàn.</span></p>
 <p><span style="color: #000000;">– Khi Mousse đã đông, dùng khăn nóng áp quanh thành khuôn khoảng 30 giây hoặc lâys máy sấy tóc, hơ nhẹ 5 – 10 giây quanh khuôn. Hơi nóng sẽ làm bánh chảy một chút và tự tách khỏi khuôn. Lưu ý không sấy hoặc áp khăn quá lâu sẽ làm thành bánh bị chảy nhiều. </span></p>
 <p>– Gỡ bánh ra khỏi khuôn. Trang trí với kem tươi đánh bông và hanh nhân lát rang chín. <span style="color: #000000;">Bánh bảo quản lạnh, dùng trong khoảng 1 – 2 ngày.</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

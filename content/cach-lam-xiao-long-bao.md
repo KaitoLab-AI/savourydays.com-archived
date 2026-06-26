@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2018/10/cách-làm-xiao-long-bao-banner.jpg"
 description: "Cách làm Xiao Long Bao (Tiểu Long Bao) với phần vỏ bột tự cán bằng tay và nhân thịt với nước soup thơm ngon hấp dẫn. Công thức kèm video chi tiết"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Gió đầu mùa năm nay đến sớm hơn hẳn những năm trước. Mới đầu tháng 10 mà trời đã sang thu, hơi hanh hao một chút nhưng mát mẻ dễ chịu, cảm hứng ăn uống vì thế mà hình như cũng dâng trào hơn :P Nghe nói năm nay mùa đông đến sớm, lại hình như lạnh hơn hẳn. Nên team SD từ khi chớm thu đã bắt đầu chuẩn bị một danh sách dài thực phẩm cho những ngày gió rét rồi. Và mở đầu là món ăn đầy quyến rũ có cái tên “Tiểu Long Bao” này đây. </span></p>
 <p><span style="color: #000000;">Là một món dim sum tương đối đặc biệt, Tiểu Long Bao cần dùng khi còn rất nóng, lý tưởng là khi vừa mới hấp chín xong, và lúc ăn nhất định phải có một cái thìa thật to. Để làm gì ư? Để có thể giữ được tất cả phần nước thơm ngọt trào ra từ nhân của miếng Xiao Long Bao ấy. Nước soup này cũng chính là nguyên liệu đặc biệt nhất của Xiao Long Bao, làm cho chiếc dim sum be bé trở nên đặc biệt hơn nhiều nhiều lần. Lớp vỏ mỏng dai, nhân thịt mềm bùi béo thơm phức hoà quyện trong nước dùng ngọt lịm được ninh từ xương thịt và các loại gia vị sẽ khiến cho bạn cảm thấy công sức bỏ ra làm món ăn này thật là xứng đáng. </span></p>
 <p><span style="color: #000000;">Để có được phần nước soup này bên trong Xiao Long Bao, các công thức truyền thống thường ninh nguyên liệu với bì lợn trong khoảng thời gian khá dài để bì tiết ra chất làm đông, sau đó lọc nước này rồi để lạnh thành thạch (giống như cách làm món thịt đông của người Việt). Để tiết kiệm thời gian, tụi mình đã chỉnh sửa công đoạn này, thay bì lợn bằng gelatin – nguyên liệu tạo đông rất phổ biến để làm các món tráng miệng. Gelaltin không chỉ giúp nước đông nhanh mà còn sạch sẽ và giúp chúng ta bớt được kha khá công đoạn xử lí bì lợn nữa. </span></p>
 <p><span style="color: #000000;">Cách làm Xiao Long Bao có khá nhiều công đoạn nhưng sẽ không quá mất thời gian nếu bạn có thể rủ rê được cả nhà cùng vào bếp, mỗi người giúp một chân một tay, cùng gói gói ghém ghém và chờ từng chiếc Xiao Long Bao nóng hổi từ chiếc xửng hấp nghi ngút khói. Tuy không cố ý nhưng video Xiao Long Bao lại ra mắt vào đúng ngày có gió mùa về miền Bắc, và trùng dịp cuối tuần nữa. Vậy còn chờ gì nữa nhỉ? Sáng mai đi mua nguyên liệu, “triển” ngay và luôn thôi ;)</span></p>
-<p><span style="font-family: arial, helvetica, sans-serif;">Video cách làm món ăn này đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" rel="noopener noreferrer" target="_blank">kênh YouTube của Savoury Days.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo <a href="https://youtu.be/rhTIHk5H7ao" rel="noopener noreferrer" target="_blank"><strong>link này</strong></a> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="https://youtu.be/AhsvW5TjQfc" rel="noopener noreferrer" target="_blank">cách làm bánh flan này.</a> </strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="font-family: arial, helvetica, sans-serif;">Video cách làm món ăn này đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" rel="noopener noreferrer" target="_blank">kênh YouTube của Savoury Days.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo <a href="https://youtu.be/rhTIHk5H7ao" rel="noopener noreferrer" target="_blank"><strong>link này</strong></a> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="https://youtu.be/AhsvW5TjQfc" rel="noopener noreferrer" target="_blank">cách làm bánh flan này.</a> </strong></span></p>
 <p><span style="font-family: arial, helvetica, sans-serif;"><div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/rhTIHk5H7ao" width="560"></iframe></div></span></p>
 <h2><span style="color: #000000;">CÁCH LÀM XIAO LONG BAO </span></h2>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
@@ -52,10 +48,7 @@ description: "Cách làm Xiao Long Bao (Tiểu Long Bao) với phần vỏ bột
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <p><strong><span style="color: #000000;">A. Phần soup thạch</span></strong></p>
 <p><span style="color: #000000;">1. Gừng cạo sơ vỏ, rửa sạch, thái lát. Hành lá bỏ rễ, rửa sạch, cắt khúc 10 cm. </span></p>
-<p><span style="font-weight: 400; color: #000000;">2. Sườn rửa sạch, cho vào nồi đổ ngập nước, đun sườn ở lừa vừa đến khi nước sôi, để khoảng 2 phút rồi rửa sạch sườn với nước để bỏ hết bọt bẩn. </span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">2. Sườn rửa sạch, cho vào nồi đổ ngập nước, đun sườn ở lừa vừa đến khi nước sôi, để khoảng 2 phút rồi rửa sạch sườn với nước để bỏ hết bọt bẩn. </span></p>
 <p><span style="font-weight: 400; color: #000000;">3. Đổ sườn vào nồi với 1 lít nước, cho gừng, hành lá và ½ thìa canh nước tương đảo đều. Đun sôi sườn sau đó hạ lửa nhỏ, ninh sườn trong khoảng 30 – 35 phút đến khi thịt sườn mềm nhừ</span></p>
 <p><span style="font-weight: 400; color: #000000;">4. Ngâm gelatin với 40 ml nước lạnh đến khi gelatin mềm</span></p>
 <p><span style="font-weight: 400; color: #000000;">5. Lọc lấy 250ml nước ninh sườn, cho gelatin đã ngâm mềm vào đảo đều đến khi gelatin tan hết. Đổ phần thạch ra khuôn cho nguội bớt rồi để vào tủ lạnh trong 5 – 6 tiếng đến khi gelatin đông lại. </span></p>
@@ -71,7 +64,6 @@ description: "Cách làm Xiao Long Bao (Tiểu Long Bao) với phần vỏ bột
 <p><span style="font-weight: 400; color: #000000;">Lưu ý: khối bột sẽ hơi khô so với bột làm bánh mì, hoàn toàn không dính tay, khi nhồi cảm giác hơi nặng tay. Nếu bột quá khô đến mức rời rạc, cho thêm nước, nếu bột dính tay thì bổ sung thêm bột mì</span></p>
 <p><span style="font-weight: 400; color: #000000;">3. Dùng bọc thực phẩm bọc kín, để bột nghỉ trong 30 phút</span></p>
 <p><strong><span style="color: #000000;">D. Cán bột và bọc nhân</span></strong></p>
-
 
 <p><span style="font-weight: 400; color: #000000;">1. Sau 30 phút nghỉ, khối bột đã hoàn toàn mịn và mềm hơn khá nhiều. Chia bột thành từng phần nặng 7 – 8 gram</span></p>
 <p><span style="font-weight: 400; color: #000000;">2. Cán bột:</span></p>
@@ -90,4 +82,4 @@ description: "Cách làm Xiao Long Bao (Tiểu Long Bao) với phần vỏ bột
 <li><span style="color: #000000;">Lưu ý: Không hấp bánh quá lâu hoặc hấp ở lửa to sẽ làm vỏ bánh bị bục</span></li>
 </ul>
 <p><span style="font-weight: 400; color: #000000;">5. Nước chấm: gừng thái chỉ trộn cùng nước tương. </span><span style="color: #000000;">Dùng nóng. Khi ăn chấm nhẹ vào nước tương sau đó cho vào bát/thìa sâu lòng, dùng đũa tách nhẹ phần vỏ để nước soup bên trong chảy ra ngoài</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

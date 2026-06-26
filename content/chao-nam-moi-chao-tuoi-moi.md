@@ -12,10 +12,7 @@ description: "Tết nguyên đán, du học sinh, nước Bỉ, savoury days"
 <p>Năm nay tuy không thể về nhà nhưng Tết của mình lại có nhiều điều đặc biệt khác. Đầu tiên là một đêm Tất niên cực kì ấm áp và rất nhiều tiếng cười với các bạn sinh viên Việt Nam ở Antwerp. Mặc dù tất cả mọi người đều bận đi học, đi làm, nhưng công tác chuẩn bị Tết thì không vì vậy mà kém khí thế hơn. Niềm vui không chỉ ở đêm Giao thừa, mà đến từ trước đó cả tuần, khi mọi người í ới gọi nhau trên Facebook để bàn bạc kế hoạch Tất niên. Khi “cành đào” được “xách tay” theo đường tàu hỏa từ Leuven đến Antwerp. Và đặc biệt là khi tất cả mọi người, mỗi người một chân một tay cùng chuẩn bị cơm Tết.</p>
 <p>Những chiếc bánh chưng “đầu tiên trong đời” được gói với sự hỗ trợ của rất nhiều clip hướng dẫn trên Youtube cũng như trợ giúp từ xa của người thân. Không có lá dong và lạt nên phải dùng lá chuối với dây thừng, và thậm chí cả lá chuối cũng thiếu nên để đủ lá gói bánh, phải dùng thêm cả giấy bạc. Khuôn gói bánh được làm từ hộp nhựa đựng thức ăn. Tóm lại là “sáng tạo” đến hết khả năng có thể. Ai cũng hồi hộp, có lẽ có cả một chút lo lắng nữa, nhưng kết quả thì tuyệt vời hơn cả mong đợi. Bánh không chỉ đẹp về hình thức mà “nội dung” cũng tuyệt, dền, dẻo, thơm, không chê vào đâu được ^.^</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8469573633/" title="IMG_9523 by LinhTrang9185, on Flickr"><img alt="IMG_9523" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8252/8469573633_e373f70fc2.jpg" width="500"/></a></p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/8470666704/" title="IMG_9531 by LinhTrang9185, on Flickr"><img alt="IMG_9531" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8370/8470666704_4797e857a1.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8470666704/" title="IMG_9531 by LinhTrang9185, on Flickr"><img alt="IMG_9531" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8370/8470666704_4797e857a1.jpg" width="500"/></a></p>
 <p>Tết Việt tất nhiên không thể thiếu hoa mai, hoa đào. Và đây là cành đào được “trồng” bởi sinh viên Việt Nam ở Antwerp ;)</p>
 <p>Cũng đầy đủ, cả hoa cả lộc nhé<span id="more-3735"></span></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8469573689/" title="IMG_9493 by LinhTrang9185, on Flickr"><img alt="IMG_9493" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8381/8469573689_d56e4fa704.jpg" width="500"/></a></p>
@@ -25,10 +22,7 @@ description: "Tết nguyên đán, du học sinh, nước Bỉ, savoury days"
 <p><a href="http://www.flickr.com/photos/55490207@N05/8469573675/" title="IMG_9508 by LinhTrang9185, on Flickr"><img alt="IMG_9508" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8242/8469573675_05b6814241.jpg" width="500"/></a></p>
 <p>toàn cảnh bàn thờ (vẫn còn thiếu 1/2 số món chưa được sắp lên)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8470666708/" title="IMG_9515 by LinhTrang9185, on Flickr"><img alt="IMG_9515" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8514/8470666708_de8cdb8f49.jpg" width="500"/></a></p>
-<p>Mọi nghi lễ đã được thực hiện xong hết rồi, giờ đến lượt bọn mình măm măm thôi.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Mọi nghi lễ đã được thực hiện xong hết rồi, giờ đến lượt bọn mình măm măm thôi.</p>
 <p>Cận cảnh cơm Tết ở Antwerp nhé: Bánh chưng, gà luộc, nem rán, giò thủ, giò lụa, canh măng, xôi, nem chua, salad các loại… (nghĩ lại vẫn thấy thèm :-&lt;)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8469573731/" title="2013-02-11 by LinhTrang9185, on Flickr"><img alt="2013-02-11" class="aligncenter" height="375" loading="lazy" src="http://farm9.staticflickr.com/8233/8469573731_e313010b6f.jpg" width="500"/></a></p>
 <p>Tết năm nay ngoài đêm Giao thừa rất vui và ấm cúng thì mình còn nhận được nhiều điều đặc biệt khác nữa, vì ngày 30 Tết năm nay cũng là ngày đánh dấu việc mình chính thức “già” thêm một tuổi. Mặc dù không dự định tổ chức nhưng cuối cùng mình vẫn nhận được rất nhiều lời chúc mừng sinh nhật từ các anh chị em, bạn bè ở đây. Và đặc biệt hơn cả là một màn thổi nến sinh nhật độc nhất vô nhị này :D</p>
@@ -42,9 +36,6 @@ description: "Tết nguyên đán, du học sinh, nước Bỉ, savoury days"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

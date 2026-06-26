@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2013/10/KimChiCuCai.jpg"
 description: "Cách làm kim chi củ cải và canh sườn bò nấu kim chi. Có thể dùng với cơm nóng và các món nướng hay kho, hoặc nấu các loại canh thịt bò, sườn, hay hải sản."
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Độ này trời lạnh nên mình tích cực làm kim chi hơn. So với dưa muối thì kim chi không mất nhiều thời gian đợi, sau 1-2 ngày đã có thể ăn được, lại làm được nhiều món khác nhau. Ăn sống với cơm nóng và các món nướng hay kho. Hoặc nấu các loại canh thịt bò, canh sườn hay canh hải sản. Hay rang cơm, nấu mì đều ngon cả.</p>
 <p>Cách làm kim chi mình có viết từ rất lâu, <a href="/cach-lam-kim-chi/">công thức dành cho kim chi cải thảo</a>. Lần này biến tấu một chút, làm với củ cải. Thật ra đúng kiểu phải là củ cải Hàn Quốc, loại mình tròn mập ú, có một cái “đuôi” nhỏ màu xanh trông rất chi là đáng yêu. Nhưng ở bên này không có củ cải HQ nên mình muối bằng củ cải thường, cũng mập nhưng thân dài chứ không tròn trịa như củ cải Hàn Quốc. So với kim chi cải thảo thì kim chi củ cải làm nhanh hơn nhiều. Vì không mất công rửa từng bẹ lá, cũng không phải nhồi nhân giữa các lớp lá. Củ cải lại vừa giòn vừa ngọt. Ăn vã cũng ngon rồi, nhưng tuyệt nhất là đem nấu canh, chẳng bao giờ sợ rau bị nát hay nhũn.</p>
 <p>Làm kim chi theo mình hiểu thì có một số nguyên tắc cơ bản trong quá trình làm nước sốt để trộn, chẳng hạn như cần một số nguyên liệu tạo mùi “fishy” như cá khô, rong biển, tôm khô… ; cần tinh bột để giúp lên men; cần gừng, tỏi, hành… vừa giúp lên men nhanh, vừa tạo mùi vị thơm ngon đặc trưng cho kim chi; và chắc chắn là cần rất nhiều ớt nữa. Phần nguyên liệu này quyết định khá lớn đến mùi vị và độ chua của kim chi. Một khi đã làm thành thạo phần “sốt” này thì có thể áp dụng với nhiều loại rau khác nhau như cải thảo, cải bắp, củ cải, dưa chuột… Cách làm dưới đây mình dựa trên công thức kim chi với cải thảo. Bạn nào mới làm thì có thể xem cả công thức đó, để nắm được các lưu ý và các bước cơ bản nhé.</p>
 <p style="text-align: left;"><span style="color: #800000;"><strong>KIM CHI CỦ CẢI</strong></span></p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/10192361964/" title="IMG_3233-1 by LinhTrang9185, on Flickr"><img alt="IMG_3233-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7438/10192361964_5c7ea40341_z.jpg" width="443"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/10192361964/" title="IMG_3233-1 by LinhTrang9185, on Flickr"><img alt="IMG_3233-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7438/10192361964_5c7ea40341_z.jpg" width="443"/></a></p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <ul>
 <li><em>1kg củ cải </em></li>
@@ -50,10 +46,7 @@ description: "Cách làm kim chi củ cải và canh sườn bò nấu kim chi. 
 <p>4. Tôm khô, cá khô rửa sơ cho sạch đất cát. Cho vào nồi với 200ml nước, vặn lửa to, đợi nước sôi thì hạ lửa nhỏ, ninh trong khoảng 30-40 phút. Sau khi ninh xong thì lọc lấy phần nước (được khoảng 130-150ml). Cho gạo nếp hoặc xôi trắng vào ngâm trong nước dùng này cho gạo mềm. Để nguội.</p>
 <p>5. Cho táo/ lê, tỏi, gừng, hành, nước dùng &amp; cơm nếp vào máy xay, xay thật nhuyễn. Pha thêm nước mắm, đường, ớt.</p>
 <p>6. Cà rốt gọt vỏ, bào sợi to. Hành lá &amp; hành boa- rô thái khoanh tròn.</p>
-<p>7. Cho củ cải, cà rốt, hành lá, hành boa rô vào chậu. Đổ phần hỗn hợp chuẩn bị ở bước (5) vào âu. Trộn thật đều. Sau khi trộn xong, có thể nếm thử để điều chỉnh độ mặn ngọt cho phù hợp với khẩu vị của gia đình. Nên làm mặn hơn một chút, khi kim chi chua sẽ thành vừa ăn.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>7. Cho củ cải, cà rốt, hành lá, hành boa rô vào chậu. Đổ phần hỗn hợp chuẩn bị ở bước (5) vào âu. Trộn thật đều. Sau khi trộn xong, có thể nếm thử để điều chỉnh độ mặn ngọt cho phù hợp với khẩu vị của gia đình. Nên làm mặn hơn một chút, khi kim chi chua sẽ thành vừa ăn.</p>
 <p>8. Cho kim chi vào hộp, đậy kín. Để ở nhiệt độ phòng trong khoảng 1 ngày (nếu trời lạnh có thể để lâu hơn, đến khi kim chi chua như ý muốn) rồi cho vào ngăn mát tủ lạnh. Bảo quản trong tủ lạnh trong khoảng 1-2 tháng.</p>
 <p><span style="color: #800000;"><strong>CANH SƯỜN BÒ NẤU KIM CHI</strong></span></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/10192550643/" title="IMG_3239-1 by LinhTrang9185, on Flickr"><img alt="IMG_3239-1" class="aligncenter" height="327" loading="lazy" src="http://farm8.staticflickr.com/7338/10192550643_851db63575.jpg" width="500"/></a></p>
@@ -72,4 +65,4 @@ description: "Cách làm kim chi củ cải và canh sườn bò nấu kim chi. 
 <p>Cho sườn vào nồi, đổ nước lạnh vừa ngập rồi đun sôi. Nếu còn bọt thì hớt sạch. Cách làm này sẽ giúp nước ninh trong và thơm ngon hơn. Hạ nhỏ lửa, ninh sườn trong khoảng 1h (với bếp thường, nồi thường) đến khi sườn mềm.</p>
 <p>2. Hành khô, gừng, hành tây nướng ở lửa vừa cho cháy xém vỏ ngoài. hCạo bỏ lớp cháy đen này rồi rửa sạch. Đập dập miếng gừng. Cắt hành tây làm 2 hoặc 4 miếng. Cho vào nồi nước ninh cùng với sườn.</p>
 <p>3. Sau khi sườn đã mềm. Cho kim chi &amp; nước kim chi vào nồi. Quấy đều. Nêm lại mắm, muối cho vừa ăn (thường thì kim chi đã mặn sẵn rồi nên sẽ không cần thêm nhiều mắm muối). Nấu ở lửa vừa thêm khoảng 15-20 phút cho các nguyên liệu thật ngấm vị kim chi và thịt bò. Dùng nóng.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

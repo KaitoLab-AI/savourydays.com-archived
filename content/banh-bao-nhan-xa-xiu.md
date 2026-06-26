@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2013/09/BanhBaoXaXiu1.jpg"
 description: "Savoury Days xin giới thiệu loạt bài về cách làm bánh bao với thành phẩm là những chiếc bánh bao xa xíu, bánh bao kim sa, bánh bao chay trắng mềm thơm ngon."
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Ở bên này ngày khô lạnh nhiều hơn ngày nóng, nên nhiều khi nhớ khủng khiếp cảm giác cầm cái bánh bao còn nghi ngút hơi, nhấp nháp lớp vỏ mềm xốp, rồi đến phần nhân thịt trứng bùi bùi, thơm thơm. Nhớ thế nhưng mà mãi vẫn chưa làm được, một phần vì không có thời gian, một phần khác là cảm giác làm bánh bao rất phức tạp, rồi thì thiếu nồi hấp… cho nên cứ lần lữa mãi. Đến tận gần đây, vì lâu quá rồi chẳng được ăn, thèm không chịu nổi nên có đứa mới thật sự hạ quyết tâm lăn lên mạng tìm công thức hướng dẫn cách làm bánh bao rồi lăn vào bếp làm bánh :)</p>
 <p>Vì chưa làm bánh bao bao giờ nên mình có tham khảo khá nhiều công thức và kinh nghiệm của các chị em khác trên mạng, và cuối cùng quyết định thử với công thức vỏ bánh của chị Cindy Phương (mình xem tại blog của chị <a href="http://my.opera.com/Huyen-Phan/blog/show.dml/36914742">Huyền Phan</a>) – là công thức đã được rất nhiều chị em thử và khen ngợi. Kết quả đúng là trên cả mong đợi. Bột nhồi xong đã cảm giác là ngon rồi. Và lúc mở nắp nồi hấp ra, thấy bánh nở phồng trắng tinh, rồi vội vàng xé một miếng và nếm thử, thấy đúng cái vị mà mình vẫn nhớ…. chao ôi là sung sướng :D :D Hóa ra làm bánh bao cũng không khó như mình nghĩ!!! Và mấy ngày gần đây lại có bữa sáng với bánh bao nóng và sữa đậu nành ^.^</p>
 <p>Sau lần đầu tiên thành công rực rỡ, mình thử thêm một vài lần nữa để chỉnh sửa lại công thức vỏ bánh (cho bớt phức tạp hơn), và thử với một vài loại nhân khác. Đến hôm nay thì thấy rất hài lòng nên mình ghi lại công thức, kinh nghiệm và cách làm bánh bao mà mình tổng hợp được ở đây, hi vọng sẽ giúp được nhiều bạn đang muốn tự làm bánh bao, đặc biệt là các bạn ở xa nhà như mình :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/9896905506/" title="Char siu bao - Bánh bao xá xíu by LinhTrang9185, on Flickr"><img alt="Cách làm bánh bao xá xíu" class="aligncenter" height="369" loading="lazy" src="http://farm3.staticflickr.com/2839/9896905506_17e69cc664.jpg" width="500"/></a></p>
-<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <p><strong>A. Vỏ bánh</strong></p>
 <p>* <em><strong>Phần thứ nhất</strong></em>:</p>
 <ul>
@@ -61,10 +57,7 @@ description: "Savoury Days xin giới thiệu loạt bài về cách làm bánh 
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <p><span style="text-decoration: underline;"><strong>CẬP NHẬT</strong></span>: <span style="color: #ff0000;">Vì sau khi đăng, công thức bánh bao này đã được rất nhiều bạn bè thử nghiệm và phần lớn đều phản hồi rất rất tốt. Nên tháng 11/2015 mình có quay lại video hướng dẫn cách làm bánh bao từ A-Z, bao gồm phần trộn vỏ bánh và nhồi bột, chuẩn bị nhân thịt trứng muối và cách bắt múi hình hoa theo kiểu bánh bao Việt Nam.</span></p>
 <p>Video đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" rel="noopener noreferrer" target="_blank"><strong>YouTube của Savoury Days</strong></a>. Nếu các bạn không xem được video tại blog thì có thể xem trực tiếp ở link này <a href="https://youtu.be/Kn08wqEswNg" rel="noopener noreferrer" target="_blank">https://youtu.be/Kn08wqEswNg</a></p>
-<p>Khi xem các bạn nhớ bật chế độ HD để xem video rõ nét và CC nếu cần phụ đề tiếng Anh hoặc Việt nha :)</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Khi xem các bạn nhớ bật chế độ HD để xem video rõ nét và CC nếu cần phụ đề tiếng Anh hoặc Việt nha :)</p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/Kn08wqEswNg" width="560"></iframe></div>
 <p>Trong video này mình có một vài thay đổi nhỏ về công thức và cách làm , cụ thể là:</p>
 <p>1. Mình dùng men instant nên không kích hoạt. Nếu các bạn dùng men khô hoặc muốn kiểm tra xem men có còn tốt hay không thì các bạn kích hoạt như hướng dẫn trong phần ở dưới.</p>
@@ -85,7 +78,6 @@ description: "Savoury Days xin giới thiệu loạt bài về cách làm bánh 
 <p>Cho ra bàn, nhồi tay trong khoảng 10-15 phút đến khi mặt bột tương đối mịn, ấn thử vào khối bột thấy vết lõm phồng trở lại (khối bột có đàn hồi). Các bạn có thể xem thêm hướng dẫn cách nhồi bột tại <a href="/lam-banh-mi-quy-trinh-co-ban-cac-luu-y-phan-2-cach-nhao-nhoi-bot/"><strong>ĐÂY</strong></a></p>
 <p>Nguyên tắc thông thường là<em> càng nhồi kĩ và bột càng dai (đàn hồi tốt) thì thớ bánh càng da</em>i. Tuy nhiên, <em>bánh bao không cần thớ dai như bánh mì nên nhồi bột bánh bao khá nhẹ nhàng, không mệt như làm bánh mì</em>, cũng không cần nhồi bằng máy. Chỉ cần bột tương đối đàn hồi và có mặt bột mịn là ổn. Nếu nhồi bằng máy, nên giảm bớt thời gian và tốc độ.</p>
 <p><em><strong>Tùy vào độ hút nước của bột mì mà bột có thể khô hoặc nhão</strong></em>. Mình làm thì bao giờ khối bột cũng rất vừa phải, không quá khô hay nhão, khi nhồi hoàn toàn không cần dùng bột áo, tay nhồi bột cũng sạch bong và khô ráo. Nếu bột quá khô (nhồi thấy nặng tay, khó nhồi) thì có thể thêm 1 chút dầu ăn hoặc nước. Nếu quá nhão, hãy thêm 5-10gram bột áo.</p>
-
 
 <p>3. Chuẩn bị một chiếc âu hay nồi lớn. Quét một lớp mỏng dầu ăn bên trong lòng âu. Cho khối bột vào, lật khối bột cho dầu ăn bao đều bên ngoài bột. Đậy nắp vung nồi hoặc phủ khăn ẩm/ bọc nilon/ cho vào túi kín (để giữ cho bột không bị khô). Ủ đến khi bột nở gấp 2.5 – 3 lần.</p>
 <p>Nhiệt độ ủ tốt nhất là trong khoảng 25-38 độ C. Nên nếu là ngày mùa hè thì có thể ủ ở nhiệt độ phòng. Mùa đông trời lạnh, các bạn có thể ủ trong lò nướng bằng cách bật lò ở nhiệt độ 50 – 70 độ C trong khoảng 3-5 phút rồi tắt lò, cho âu đựng bột vào ủ. Hoặc ủ trong lò vi sóng, đặt thêm 1 bát nước sôi to để giữ ẩm và giữ nhiệt.</p>
@@ -159,4 +151,4 @@ description: "Savoury Days xin giới thiệu loạt bài về cách làm bánh 
 <p>——-</p>
 <p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ email: <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi hành động cố tình vi phạm sẽ chịu xử lí theo quy định của pháp luật.</span></strong></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

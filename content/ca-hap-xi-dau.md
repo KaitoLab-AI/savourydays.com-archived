@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2013/04/CaHapXiDau.jpg"
 description: "cá hấp xì dầu, món ăn hàng ngày, món ăn đơn giản"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
 <p>——————————————</p>
 <p>Đi chợ cuối tuần, dự định sẽ mua ít thịt gà và thịt bê, hoặc chân giò để làm giả cầy (vì bên này vẫn đang lạnh lắm), thế mà cuối cùng đi ngang qua hàng hải sản lại không cầm lòng được trước nào là mực, nào là cá, rồi ốc, hàu, tôm,.. thứ nào cũng tươi roi rói. Nên rốt cuộc là thay vì thịt gà, thịt bê thì trong chiếc giỏ đi chợ của mình tuần này có tôm tươi (vẫn còn nhảy tanh tách), một con mực, một con cá hồi và đặc biệt là nửa kg ốc be bé con con nữa ^.^</p>
-<p>Mực và tôm thì làm sạch sẽ, rồi chia thành túi nhỏ để đông lạnh, mỗi lần ăn chỉ cần lấy ra một túi là xong. Phần vỏ và đầu tôm thừa được cho vào nồi cùng một bộ xương gà, thêm vài củ hành khô nướng thơm với 1-2 cái rễ cây mùi. Thế là đã có nước dùng để nấu mỳ hải sản hay nấu canh cho mấy bữa trong tuần. Riêng ốc –  lâu lắm mới gặp – thì được dành để làm món đơn giản nhất – nhưng cũng tuyệt hảo nhất – là ốc hấp sả lá chanh chấm mắm gừng. Cuối cùng là con cá hồi nửa kg, sau khi đã được làm sạch sẽ thì chặt thành mấy khúc. Khúc làm sốt teriyaki, khúc hấp xì dầu, riêng đầu và đuôi thì để dành cho món canh chua cá. Tuần này bếp nhà mình thế là toàn “đặc sản” ;)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Mực và tôm thì làm sạch sẽ, rồi chia thành túi nhỏ để đông lạnh, mỗi lần ăn chỉ cần lấy ra một túi là xong. Phần vỏ và đầu tôm thừa được cho vào nồi cùng một bộ xương gà, thêm vài củ hành khô nướng thơm với 1-2 cái rễ cây mùi. Thế là đã có nước dùng để nấu mỳ hải sản hay nấu canh cho mấy bữa trong tuần. Riêng ốc –  lâu lắm mới gặp – thì được dành để làm món đơn giản nhất – nhưng cũng tuyệt hảo nhất – là ốc hấp sả lá chanh chấm mắm gừng. Cuối cùng là con cá hồi nửa kg, sau khi đã được làm sạch sẽ thì chặt thành mấy khúc. Khúc làm sốt teriyaki, khúc hấp xì dầu, riêng đầu và đuôi thì để dành cho món canh chua cá. Tuần này bếp nhà mình thế là toàn “đặc sản” ;)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8692659496/" title="IMG_0366-1 by LinhTrang9185, on Flickr"><img alt="IMG_0366-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8257/8692659496_a6ec6c693d_z.jpg" width="465"/></a></p>
 <p>Cá hấp này là món của trưa ngày hôm qua, làm nhanh và ngon lắm, đặc biệt là mùi tanh của cá sau khi hấp thì hoàn toàn biến mất không một chút dấu vết nào luôn, chỉ còn lại mùi thơm của xì dầu, dầu vừng, hành gừng và thìa là. Ăn với cơm hoặc bún đều ngon hết ý.</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu (2 phần ăn) </strong></span></p>
@@ -40,8 +36,5 @@ description: "cá hấp xì dầu, món ăn hàng ngày, món ăn đơn giản"
 <p><a href="http://www.flickr.com/photos/55490207@N05/8691542317/" title="2013-04-28 by LinhTrang9185, on Flickr"><img alt="2013-04-28" class="aligncenter" height="400" loading="lazy" src="http://farm9.staticflickr.com/8262/8691542317_b0db447f4a.jpg" width="500"/></a></p>
 <p>3. Lấy 1/2 số hành, thìa là, gừng cho vào bụng cá. Hấp trong khoảng 18-20 phút đến khi cá vừa chín tới.</p>
 <p>4. Gắp cá ra đĩa, rưới nước xì dầu còn trong bát lên mình cá. Rắc tiêu xay, xếp thêm hành, thì là, gừng, ớt lên miếng cá. Đun sôi dầu ăn rồi dội lên miếng cá. Dầu ăn sôi sẽ làm thịt cá săn lại và chín hành, thì là.. Dùng nóng.</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/8689037884/" title="IMG_0363-1 by LinhTrang9185, on Flickr"><img alt="IMG_0363-1" class="aligncenter" height="334" loading="lazy" src="http://farm8.staticflickr.com/7045/8689037884_21a7c69657.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
+<p><a href="http://www.flickr.com/photos/55490207@N05/8689037884/" title="IMG_0363-1 by LinhTrang9185, on Flickr"><img alt="IMG_0363-1" class="aligncenter" height="334" loading="lazy" src="http://farm8.staticflickr.com/7045/8689037884_21a7c69657.jpg" width="500"/></a></p>
 
-
-</div>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

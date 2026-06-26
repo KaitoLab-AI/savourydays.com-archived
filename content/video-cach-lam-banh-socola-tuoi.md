@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2020/11/cách-làm-bánh-socola-tươi-banner.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Ôi cái bánh này ngon thật cả nhà ạ ^.^ Bảo sao mà mới xuất hiện nhưng độ hot tăng không ngừng. Xem mấy hàng bánh thì thấy món này có vẻ luôn là món hết hàng trước tiên. Mình thích “ẻm” vì ẻm dễ ăn, rất mềm ẩm, thơm, đậm vị chocolate mà lại không cần kem tươi đi kèm vì cốt bánh không đã ngon rùi, nên có thể ăn… hơi nhiều nhiều mà không lo béo :D Và với khẩu vị của người Việt, không thích béo nhiều thì mình nghĩ vị này sẽ rất hợp. </span></p>
 <p><span style="color: #000000;">Cách làm món này hơi giống kiểu Ogura cake, trộn bột giống kiểu Chiffon/ gato Hồng Kông rồi nướng cách thuỷ. Nhờ nướng cách thuỷ nên bánh rất dễ làm, không lo xẹp lõm nên chỉ cần khâu trộn bột ổn là khả năng thành công rất cao. Trong công thức tụi mình dùng bơ, chocolate và bột cacao để tạo vị socola đậm và “béo” (từ tiếng Anh là ‘rich’ thì đúng bản chất hơn, nhưng mình không biết nên dịch qua tiếng Việt thế nào), tụi mình cũng dùng thêm ít vỏ cam/ chanh bào vụn để giúp bánh thêm thú vị nữa. Cách làm như sau nha: </span></p>
 <h2>CÁCH LÀM BÁNH SOCOLA TƯƠI</h2>
@@ -28,10 +27,7 @@ description: ""
 <li><em><span style="color: #000000;">1/2 thìa cafe cream of tartar (có thể thay bằng chanh hoặc dấm)</span></em></li>
 </ul>
 <p><span style="text-decoration: underline;"><strong><span style="color: #000000; text-decoration: underline;">*Lưu ý:</span></strong></span></p>
-<p><span style="color: #000000;">– Cam vàng trong công thức này dùng để bào lấy vỏ, tuy không bắt buộc nhưng tinh dầu vỏ cam rất hợp với socola, giúp bánh có mùi thơm và hơi the the rất dễ chịu. Mình dùng vỏ của 1 quả cam cho công thức này, thấy vị the vừa đủ, nếu bạn không muốn có vị the nhiều hoặc làm ít hơn thì có thể bớt vỏ cam đi nhé.</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">– Cam vàng trong công thức này dùng để bào lấy vỏ, tuy không bắt buộc nhưng tinh dầu vỏ cam rất hợp với socola, giúp bánh có mùi thơm và hơi the the rất dễ chịu. Mình dùng vỏ của 1 quả cam cho công thức này, thấy vị the vừa đủ, nếu bạn không muốn có vị the nhiều hoặc làm ít hơn thì có thể bớt vỏ cam đi nhé.</span></p>
 <p><span style="color: #000000;">– Socola trong các cửa hàng làm bánh ở Việt Nam có 2 loại, socola compound và nguyên chất, công thức này dùng loại nguyên chất 55 – 65% cacao.</span></p>
 <p><span style="color: #000000;">– Bơ dùng loại bơ động vật không muối, không dùng các loại bơ thực vật (như bơ Tường An, Meizan).</span></p>
 <p><span style="color: #000000;">– Nếu không có bột làm bánh ngọt (bột mì số 8/ cake flour) thì thay bằng 40 gram bột mì đa dụng và 10 gram bột ngô, tuy nhiên dùng bột làm bánh ngọt sẽ ngon hơn.</span></p>
@@ -42,10 +38,7 @@ description: ""
 <p><span style="color: #000000;">– Làm nóng lò nướng ở 160 độ C, 2 lửa.</span></p>
 <p><span style="color: #000000;">– Lót giấy nến chống dính vào khuôn. Nếu khuôn của bạn là loại khuôn gia công, ở phần mấu nối các góc của khuôn thường sẽ bị hở, vì vậy dùng giấy bạc bọc kĩ 2 lớp ở ngoài khuôn để khi nướng cách thủy nước không lọt vào trong.</span></p>
 <p><span style="color: #000000;">– Đun 1 ấm nước sôi để nướng cách thủy.</span></p>
-<p><span style="color: #000000;">– Cam vàng rửa sạch, lau khô, dùng dụng cụ chuyên dụng để bào thật vụn vỏ cam. Lưu ý chỉ bào phần vỏ màu cam bên ngoài, không bào vào phần cùi trắng sẽ dễ bị đắng.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">– Cam vàng rửa sạch, lau khô, dùng dụng cụ chuyên dụng để bào thật vụn vỏ cam. Lưu ý chỉ bào phần vỏ màu cam bên ngoài, không bào vào phần cùi trắng sẽ dễ bị đắng.</span></p>
 <p><span style="color: #000000;">2. Cho socola băm nhỏ vào 1 cái bát khô, cho đặt bát vào âu nước nóng, khuấy đều tới khi socola tan hết.</span></p>
 <p><span style="text-decoration: underline; color: #000000;"><strong>* Lưu ý:</strong></span></p>
 <p><span style="color: #000000;">– Khuấy đều tay, tránh việc socola tiếp xúc với đáy bát nóng quá lâu sẽ làm socola bị tách nước.</span></p>
@@ -62,7 +55,6 @@ description: ""
 <p><span style="color: #000000;">– Khi cho bột vào sẽ có hiện tượng bột lổn nhổn, bơ hơi chảy ra, tuy nhiên không cần lo lắng, sau khi cho lòng đỏ vào khuấy đều thì hỗn hợp sẽ mịn mượt trở lại.</span></p>
 <p><span style="color: #000000;">Cho phần socola đun chảy và vanilla vào âu. Trộn đều tới khi hỗn hợp mịn mượt thì dừng lại, không khuấy quá nhiều dễ làm bánh bị dai.</span></p>
 
-
 <p><span style="color: #000000;">6. Đặt âu bột lên nồi nước nóng để giữ ấm. Nước trong nồi chỉ nóng vừa đủ để giữ ấm âu bột, không được quá nóng sẽ làm hỗn hợp bột bị chín.</span></p>
 <p><span style="color: #000000;">7. Cho một nhúm muối nhỏ vào âu lòng trắng, đánh ở tốc độ vừa tới khi có nhiều bọt khí to nổi lên thì cho cream of tartar vào. Tiếp tục đánh tới khi bọt khí nhỏ dần như bọt xà phòng thì cho dần dần 100 gram đường vào, sau khi cho hết đường thì tăng tốc độ máy lên cao nhất. Đánh tới khi lòng trắng bông gần cứng, kéo que đánh trứng lên thấy có chóp kéo theo nhưng hơi ngoặt xuống thì dừng lại.</span></p>
 <p><span style="color: #000000;">8. Lấy ⅓ chỗ lòng trắng đánh bông cho vào hỗn hợp lòng đỏ, trộn nhẹ nhàng bằng phới lồng đến khi lòng trắng hòa quyện, hỗn hợp lòng đỏ lỏng ra bớt.</span></p>
@@ -72,4 +64,4 @@ description: ""
 <p><span style="color: #000000;">Lưu ý: Có thể dùng khay liền đi kèm lò (kể cả khay đen) để nướng cách thủy nếu không có khay riêng. Nhưng vẫn phải đảm bảo lượng nước ngập ít nhất ⅓ khuôn.</span></p>
 <p><span style="color: #000000;">12. Sau khi lấy bánh ra khỏi lò, úp ngược khuôn ra đĩa để lấy bánh ra, lột bỏ phần giấy lót. Nếu bạn muốn giữ phần mặt bánh mịn đẹp thì lại lật ngược bánh lên rack (để phần đáy bánh tiếp xúc với rack), để nguội hoàn toàn trên rack. Bánh khi nóng nếu gõ nhẹ vào bánh sẽ hơi rung rinh kiểu jiggly, nhưng khi nguội thì bánh sẽ cứng lại nha.</span></p>
 <p><span style="color: #000000;">Bảo quản bánh trong hộp kín ở ngăn mát tủ lạnh khoảng 3 – 4 ngày.</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

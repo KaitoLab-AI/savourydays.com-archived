@@ -12,10 +12,7 @@ description: ""
 <p>Thông tin cụ thể về chương trình, đơn vị tổ chức, cách thức đăng kí và giải thưởng các bạn xem thêm trong thông báo ở dưới của Món ngon Việt Nam nhé. Để đăng kí thì các bạn vào link này nha: <a href="http://www.monngonvietnam.vn/user/10618">http://www.monngonvietnam.vn/user/10618</a> (chỉ cần thông tin cá nhân và chia sẻ một mẹo nhỏ về nấu ăn của bản thân thôi :) ).</p>
 <p>Mong sẽ sớm được “gặp” các bạn trong Cộng đồng Savoury Days vào cuối tuần này :)</p>
 <p style="text-align: center;"><a href="/wp-content/uploads/2012/04/ok.png"><img alt="" class="aligncenter wp-image-2324" height="288" loading="lazy" sizes="(max-width: 614px) 100vw, 614px" src="/wp-content/uploads/2012/04/ok.png" title="ok" width="614"/></a></p>
-<p style="text-align: center;">———————</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p style="text-align: center;">———————</p>
 <p>Hoà cùng không khí rộn ràng của cả nước tưng bừng đón mừng kỷ niệm 37 năm giải phóng miền Nam thống nhất đất nước 30/04/1975. Cộng đồng ẩm thực Món Ngon Việt Nam cùng với các cộng đồng ẩm thực Kokotaru, Kiwisite, KitchenArt và Savourydays hội ngộ cùng nhau và tổ chức một thi tranh tài nấu các món ăn Sài Gòn, món ăn Nam Bộ xưa… Đây sẽ là một cơ hội để những thành viên yêu thích ẩm thực được hội ngộ gặp gỡ, và trao đổi kinh nghiệm cùng nhau. Và đây cũng sẽ là một ngày hội giúp các bạn hiểu hơn về ẩm thực Sài Gòn xưa, từ đó khéo léo biến tấu và sáng tạo ra những món ăn không những thơm ngon, lạ miệng mà vẫn giữ được hương vị quê hương xưa…</p>
 <p><span id="more-2323"></span>Chương trình này do Cộng đồng MNVN cùng với các cộng đồng Chuyên Gia Ẩm Thực tổ chức, dưới sự tài trợ giải thưởng chương trình The Coffee Bean &amp; Tea Leaf, và sự bảo trợ thông tin cuả tạp chí Món Ngon Việt Nam, Báo Người Lao Động và tạp chí Thời Trang Trẻ tạo ra một ngày hội <strong>hội ngộ</strong> giưã các cộng đồng và một cuộc thi trổ tài nấu các món ăn Sài Gòn phải thể hiện được ý tưởng “<strong>Sài Gòn xưa và nay</strong>”.</p>
 <p><strong><span style="text-decoration: underline;">Thời gian:</span></strong></p>
@@ -62,9 +59,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

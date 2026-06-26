@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/03/Crepe.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Crepe là một trong những loại “bánh” không cần lò nướng, rất dễ làm, nguyên liệu không đòi hỏi những thứ quá phức tạp và từ vỏ Crepe cơ bản mọi người có thể biến tấu theo rất nhiều cách khác nhau để tạo ra các loại Crepe mặn hoặc ngọt tùy theo khẩu vị, sở thích của gia đình và dành cho các dịp khác nhau. Chính vì tất cả những lý do này mà Crepe được chọn làm chủ đề tháng 3 cho hoạt động chụp ảnh theo tháng của Hội Food Photography. Mong là từ những bàn tay khéo léo và tài hoa của các thành viên, tháng 3 tới hội sẽ có rất nhiều món Crepe ngon với ảnh chụp đẹp.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6943445993/" title="IMG_2498-1 by LinhTrang9185, on Flickr"><img alt="IMG_2498-1" class="aligncenter" height="349" loading="lazy" src="http://farm8.staticflickr.com/7177/6943445993_53dc36acb0.jpg" width="500"/></a></p>
 <p>Công thức mà mình giới thiệu trong bài này là công thức Crepe cơ bản, mình tham khảo và điều chỉnh từ hai công thức của Julia Child và Alton Brown tại Food network. Công thức rất đơn giản và dễ làm, chỉ có một điều quan trọng là sau khi trộn bột xong nên có một khoảng thời gian nhất định để bột “nghỉ” trong tủ lạnh. Điều này sẽ giúp vỏ bánh Crepe mịn &amp; “mướt” hơn.</p>
 <p>Cuối cùng, thêm một chuyện ngoài lề nữa về Pancake và Crepe. Có thể sẽ có bạn thắc mắc rốt cuộc thì hai loại bánh này khác nhau như thế nào? Vì thành phần nguyên liệu khá là giống nhau, hỗn hợp bột pha xong đều tương đối loãng, đều dùng chảo để chiên và bánh đều có hình dạng tròn, mặc dù 1 cái nhỏ và phồng còn 1 cái thường to và xẹp lép :P Thật ra thì cũng có một vài điểm khác nhau, cụ thể là như thế này:</p>
-<p>1. Về hình dạng bên ngoài, như nói ở trên Pancake nhỏ và phồng, có độ xốp mềm. Crepe thì to và mỏng.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>1. Về hình dạng bên ngoài, như nói ở trên Pancake nhỏ và phồng, có độ xốp mềm. Crepe thì to và mỏng.</p>
 <p>2. Về thành phần nguyên liệu, để giúp Pancake nở phồng và xốp mềm, bột nở hoặc muối nở thường được sử dụng. Ngoài ra, lòng trắng trứng đánh bông cũng là một “chất xúc tác” rất tốt giúp pancake nở xốp mềm khi rán. Crepe thì không cần những thứ này.</p>
 <p>3. Về cách thưởng thức, Pancake thường được dùng kèm với các loại mứt, syrup (đặc biệt là Maple syrup), chocolate sauce… Crepe thì ngoài phần vỏ còn có một phần quan trọng nữa là nhân (fillings). Nhân này có thể là nhân ngọt như hoa quả, mứt, syrup, bơ lạc, chocolate… cũng có thể là nhân mặn như các loại salad dạng rau củ hoặc hải sản, đồ nguội trộn với dressing dạng kem (mayonnaise, sữa chua..). Phần nhân này, đặc biệt là nhân ngọt, có thể chế biến cùng lúc với khi làm Crepe, bằng cách chiên vàng 1 mặt Crepe rồi đặt nhân lên trên, “gói” lại ngay trên chảo. Hoặc có thể làm riêng phần vỏ rồi bọc với nhân hoặc ăn kèm với nhân.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6943446195/" title="IMG_2486 by LinhTrang9185, on Flickr"><img alt="IMG_2486" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7204/6943446195_3ac8a24013_z.jpg" width="439"/></a></p>
@@ -41,10 +37,7 @@ description: ""
 <li><em>1gr muối</em></li>
 <li><em>Bơ để phết chống dính cho chảo khi rán</em></li>
 </ul>
-<p><strong>Nếu muốn làm Crepe ngọt thì có thể cho thêm</strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong>Nếu muốn làm Crepe ngọt thì có thể cho thêm</strong></p>
 <ul>
 <li><em>20gram đường (hoặc điều chỉnh tùy theo khẩu vị và nhân ăn kèm)</em></li>
 <li><em>5ml vanilla dạng lỏng (hoặc 5gram vani bột)</em></li>
@@ -70,9 +63,8 @@ description: ""
 <p style="text-align: center;"><em>Crepe với dâu tây và Maple syrup cũng rất ngon và mát :)</em></p>
 <p> </p>
 
-
 <p><a href="http://www.flickr.com/photos/55490207@N05/6943446323/" title="IMG_2493-1 by LinhTrang9185, on Flickr"><img alt="IMG_2493-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7051/6943446323_5c88a0a84e_z.jpg" width="432"/></a><br/>
 Chúc các bạn thành công &amp; mong sẽ nhận được nhiều ảnh đẹp &amp; công thức hay từ cả nhà :)</p>
 <p style="text-align: right;"><em>Linh Trang (<a href="">Savoury Days</a>)</em></p>
 <p style="text-align: right;"><em>White poplar (<a href="http://www.lanvaobep.org/">Lăn Vào Bếp</a>)</em></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

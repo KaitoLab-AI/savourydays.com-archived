@@ -8,17 +8,13 @@ image: "/wp-content/uploads/2014/04/BanhBoNuongLaDua.jpg"
 description: "bánh bò nướng đơn giản"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <div>
 <div>
 <p>Bánh bò nướng không phải là món phổ biến tại Hà Nội (hoặc ít ra khi mình còn ở nhà thì là như vậy), cho nên lần đầu tiên khi nhìn thấy món bánh này, mình đã nghĩ: “Bánh gì mà kì cục!” (:P). Mình làm thử một phần vì tò mò, một phần khác vì cảm giác nó là kiểu bánh mà mình sẽ thích. Và đúng thế thật. Bánh bò có lẽ là loại bánh có tốc độ “tiêu thụ” hàng đầu ở nhà mình. Một ổ bánh to, quay đi quay lại đã thấy chỉ còn vài miếng, mà vẫn chẳng hiểu ăn lúc nào, ăn kiểu gì mà hết nhanh thế :P Ăn nhanh đến mức chả dám làm tiếp, mặc dù thành phần của bánh bò, nếu so với gateau thì khả năng “gây phì” vẫn thấp hơn nhiều, do chỉ có đường là đáng ngại, còn thì không có bột mì, nên có thể gọi là <em>gluten-free </em>cũng được.</p>
 <p>Cách làm bánh bò truyền thống, như mình đọc được trên mạng, thì đa phần đều khá mất thời gian vì phải ủ men cơm rượu. Nhanh thì 24h, mà lâu thì có khi đến 72h. Tuy nhiên, thật may là vẫn có công thức kiểu “siêu tốc” dùng bột nở, thời gian làm chỉ mất khoảng 15 phút thôi. Vấn đề chính là, tất cả các công thức này đều nói rằng chỉ có thể dùng bột nở loại <em>single-acting</em>, mà cụ thể là Alsa gói màu hồng, không thể dùng các loại bột nở <em>double acting</em> vì khả năng bánh xẹp rất cao. Nhưng, hiện nay thì không có nhiều nhà sản xuất bán <em>single acting </em><em>baking powder</em> nữa<b>. </b>Hầu hết bột nở trên thị trường đều là <em>double acting</em> nhờ ưu điểm  hạn chế bánh bị chai hoặc nở kém nếu trộn bột quá nhiều. Như ở Bỉ thì mình chẳng biết phải mua bột nở loại <em>single-acting</em> ở đâu, bột nở Alsa gói màu hồng thì chưa bao giờ nhìn thấy. Nên mình thử thay thế bột nở bằng muối nở (baking soda) và cream of tartar. Kết quả rất tuyệt vời. Bánh nở tốt, rễ tre búa xua, nhìn dưới mặt đáy bánh thì thấy tổ ong lỗ chỗ. Tuy mình chưa được ăn bánh bò truyền thống bao giờ, nhưng mùi vị của bánh bò nướng theo công thức “siêu tốc” này thì mình rất thích: mềm mềm, dẻo dẻo, dai dai, giòn giòn, ngậy béo và thơm ngọt mùi của lá dứa cốt dừa. Túm lại là cực kì ưng ý nên chép lại công thức cho bạn nào cũng thèm bánh bò mà không có thời gian ủ hoặc không tìm được bột nở Alsa :)</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/13995938566/" title="IMG_6527-1 by LinhTrang9185, on Flickr"><img alt="IMG_6527-1" class="aligncenter" height="330" loading="lazy" src="https://farm3.staticflickr.com/2935/13995938566_ab1914a5f2.jpg" width="500"/></a></p>
 <p><span style="color: #800000;"><strong>Mức độ</strong></span>: Dễ</p>
-<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn bundt (khuôn có lõi giữa liền, khác với khuôn Angle Food Cake/ khuôn Chiffon cũng có lõi giữa nhưng đế rời) hoặc khuôn Muffin/ Cupcake (xem giải thích thêm trong phần cách làm)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn bundt (khuôn có lõi giữa liền, khác với khuôn Angle Food Cake/ khuôn Chiffon cũng có lõi giữa nhưng đế rời) hoặc khuôn Muffin/ Cupcake (xem giải thích thêm trong phần cách làm)</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu (</strong><span style="color: #000000;">tham khảo và điều chỉnh từ <a href="http://pinkiefoodblog.blogspot.be/2008/05/vietnamese-baked-comb-cake-bnh-b-nng.html"><span style="color: #000000;">Pinkie food blog</span></a></span><strong>)</strong></span></p>
 <ul>
 <li><em>200 ml nước cốt dừa (coconut milk)</em></li>
@@ -37,10 +33,7 @@ description: "bánh bò nướng đơn giản"
 <p>Bánh bò nướng làm theo công thức này rất nhanh, chỉ mất khoảng 15 phút cho tất cả các công đoạn, nên mình sẽ trình bày lần lượt từng bước mình làm, kể cả cân đong nguyên liệu và làm nóng lò nhé.</p>
 <p>1. Bật lò ở 180 độ C (hai lửa). Đặt khuôn nướng vào trong lò để làm nóng khuôn (<strong><em>khuôn phải được làm nóng trước để bánh có rễ tre). </em></strong></p>
 <p>Nên dùng khuôn có lõi giữa như khuôn bundt, vì nhờ lõi giữa này mà nhiệt sẽ truyền được vào phần chính giữa bánh, giúp bánh nở đều và có rễ tre tốt hơn. Nếu không có khuôn bundt, các bạn có thể dùng khuôn nhỏ như Muffin hay Cupcake hoặc Ramekin. Có thể dùng khuôn không có lõi giữa, nhưng không nên đổ bột quá nhiều bột vào trong khuôn vì khả năng phần chính giữa bánh bị xẹp sẽ cao.</p>
-<p>Không dùng khuôn đế rời vì bột bánh rất lỏng, có thể sẽ bị rò ra ngoài.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Không dùng khuôn đế rời vì bột bánh rất lỏng, có thể sẽ bị rò ra ngoài.</p>
 <p>2. Cho đường và nước cốt dừa vào nồi. Đặt lên bếp đun ở lửa vừa, vừa đun vừa quấy đều. Khi đường vừa tan hết thì bắc nồi ra khỏi bếp (<strong><em>tốt nhất là giữ cho nước cốt dừa ở mức ấm nóng, không để sôi).</em> </strong>Cho <em>pandan paste</em> hoặc nước cốt lá dứa. Quấy đều, để nguội. Các bạn có thể tự điểu chỉnh lượng <em>pandan paste </em>tùy theo khẩu vị và ý muốn về độ đậm nhạt về màu sắc của bánh nhé.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/13995940046/" title="IMG_5030 by LinhTrang9185, on Flickr"><img alt="IMG_5030" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7160/13995940046_5d2f78ee61.jpg" width="500"/></a></p>
 <p>3. Sau khi làm nóng lò khoảng 10 phút, lò đã đạt gần đến nhiệt độ yêu cầu (180 độ C) thì lấy khuôn ra khỏi lò. Dùng chổi quét một lớp dầu quanh thành trong của khuôn. Cho khuôn vào lại trong lò để khuôn tiếp tục được làm nóng.</p>
@@ -61,7 +54,6 @@ description: "bánh bò nướng đơn giản"
 <p>Khi lấy ra khỏi lò, bánh có thể sẽ hơi co lại một chút nhưng không co quá nhiều. Khi cắt bánh theo chiều dọc sẽ thấy có nhiều “rễ tre”, cắt theo chiều ngang sẽ thấy các lỗ nhỏ như tổ ong. Bánh mềm và dẻo, dai, giòn, thơm ngậy, ngọt vừa phải.</p>
 <p>Nên dùng bánh trong ngày, vì càng để lâu bánh sẽ càng cứng và mất độ giòn, dẻo dai.</p>
 
-
 <p style="text-align: center;"><em>Mặt đáy bánh – làm trong khuôn loaf </em></p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/14015859512/" title="IMG_5043 by LinhTrang9185, on Flickr"><img alt="IMG_5043" class="aligncenter" height="331" loading="lazy" src="https://farm8.staticflickr.com/7061/14015859512_e8480e6a98.jpg" width="500"/></a></p>
 <p>(*) <span style="color: #ff0000;"><strong>Một vài ghi chú &amp; mẹo thành công </strong></span></p>
@@ -81,4 +73,4 @@ description: "bánh bò nướng đơn giản"
 <p><a href="https://www.flickr.com/photos/55490207@N05/13995938896/" title="IMG_6517-2 by LinhTrang9185, on Flickr"><img alt="IMG_6517-2" class="aligncenter" height="484" loading="lazy" src="https://farm3.staticflickr.com/2895/13995938896_78db63817c.jpg" width="500"/></a></p>
 </div>
 </div>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

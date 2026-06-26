@@ -8,17 +8,12 @@ image: "/wp-content/uploads/2021/01/Cách-làm-lạc-tẩm-mắm-đường-tỏi
 description: "Cách làm lạc tẩm mắm đường tỏi ớt siêu ngon, hợp với mọi dịp, đặc biệt là Tết Nguyên Đán, có thể mời khách nhâm nhi hay dùng làm đồ nhắm"
 ---
 
-
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Lạc rang húng lìu ư? Ngon đấy nhưng hơi “quen” quá rùi. </span></p>
 <p><span style="color: #000000;">Lạc rang mắm ư? Cũng ngon đấy nhưng chỉ ăn với cơm được thôi. </span></p>
 <p><span style="color: #000000;">Lạc tẩm mắm đường tỏi ớt này thì không chỉ mới mà còn siêu ngon, hợp với mọi độ tuổi mọi giới tính, và mọi dịp nhé ;) Món này làm kinh doanh ngày Tết cũng rất hợp, đảm bảo sẽ đắt hàng nên tụi mình lựa chọn đây là món Tết đầu tiên mở màn cho chuyên mục đồ Tết năm nay tại Savoury Days. Làm kiểu này hạt lạc sẽ</span><span style="color: #000000;"> thấm đẫm vị thơm thơm, cay cay, mặn ngọt đặc trưng của mắm, tỏi, ớt. Lạc cũng rất giòn, giòn tan luôn và không hề dính răng, giữ được nguyên lớp vỏ vàng nâu đẹp mắt. Nhà bạn nào có lò nướng thì nhàn lắm. Cách làm không phức tạp nhưng có 1 số lưu ý quan trọng để thành phẩm đạt chuẩn như trên, các bạn đọc cách làm ở dưới kĩ trước khi làm nhé.</span></p>
 <p><span style="font-weight: 400; color: #000000;">Tiếp theo món này sẽ là rất nhiều món Tết hay ho khác nữa, đăng “lai rai” từ giờ đến Tết trên các kênh của Savoury Days, cả nhà theo dõi nhé, mất món nào là sẽ tiếc lắm đó ;) </span></p>
 <h2><span style="color: #800000;">CÁCH LÀM LẠC TẨM MẮM ĐƯỜNG TỎI ỚT</span></h2>
-<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <ul>
 <li><em><span style="font-weight: 400; color: #000000;">500 gram lạc</span></em></li>
 <li><em><span style="font-weight: 400; color: #000000;">110 gram đường trắng</span></em></li>
@@ -38,10 +33,7 @@ description: "Cách làm lạc tẩm mắm đường tỏi ớt siêu ngon, hợ
 <p><span style="font-weight: 400; color: #000000;">– Tỏi băm nhỏ, đun nóng dầu ăn trong 1 chiếc chảo sâu lòng, cho tỏi vào phi ở lửa vừa- nhỏ tới khi tỏi hơi hanh vàng thì vớt ra. <span style="color: #ff0000;">Lưu ý, chỉ phi đến khi tỏi hơi hanh vàng, tỏi sẽ vàng hơn trong quá trình để nguội. Tỏi khi nguội chỉ được hơi vàng, nếu tỏi vàng vừa ăn thì lúc sấy trong lò sẽ dễ bị cháy làm cho lạc có vị đắng. </span></span></p>
 <p><span style="font-weight: 400; color: #000000;">– Ớt bỏ hạt, băm nhỏ.</span></p>
 <p><span style="font-weight: 400; color: #000000;">2. Cho đường và 100 gram nước vào chảo, lượng nước này có thể tùy chỉnh miễn sao nước ngập mặt đường là được. </span></p>
-<p><span style="font-weight: 400; color: #000000;">3. Đun đường trên lửa vừa tới khi hỗn hợp sôi thì hạ nhỏ lửa, đun tiếp tới khi đường chuyển màu vàng nâu, nước đã bay hơi hết. </span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">3. Đun đường trên lửa vừa tới khi hỗn hợp sôi thì hạ nhỏ lửa, đun tiếp tới khi đường chuyển màu vàng nâu, nước đã bay hơi hết. </span></p>
 <p><span style="font-weight: 400; color: #000000;">Lưu ý: Trong quá trình đun, KHÔNG ĐƯỢC KHUẤY nếu không sẽ làm lại đường (đường kết tinh lại trong chảo), chỉ thỉnh thoảng lắc nhẹ chảo cho đường tan. Nếu đường bị kết tinh thì cần làm lại, không cố dùng phần đường đó sẽ làm hỏng sốt.</span></p>
 <p><span style="font-weight: 400; color: #000000;">4. Khi đường đã vàng thì cho 30 gram nước vào (lúc này chảo rất nóng nên khi đổ nước cần đổ nhẹ nhàng, đứng xa để tránh đường bắn lên sẽ bị bỏng). Khuấy đều đến khi đường và nước hòa quyện hết.</span></p>
 <p><span style="font-weight: 400; color: #000000;">5. Cho nước mắm, ớt vào đảo đều, nâng nhiệt lên mức vừa, để sốt sôi lăn tăn khoảng 30 – 45 giây cho nước bay hơi bớt. </span></p>
@@ -55,4 +47,4 @@ description: "Cách làm lạc tẩm mắm đường tỏi ớt siêu ngon, hợ
 <p><span style="font-weight: 400; color: #000000;">Lưu ý: Cần bóp khi lạc còn đang ấm, sốt chưa bị cứng lại, nếu sốt khi cứng quá khi bóp rất dễ làm rơi vỏ lạc ra.</span></p>
 <p><span style="font-weight: 400; color: #000000;">10. Lạc thành phẩm cho vào hộp kín, nếu bảo quản tốt, không bị ẩm thì có thể được khoảng 1 – 1.5 tháng. </span></p>
 <p><span style="font-weight: 400; color: #000000;">Nếu sau khi sấy lạc bị dính răng thì có nghĩa là sấy chưa đủ khô, cho vào lò sấy tiếp là được.</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

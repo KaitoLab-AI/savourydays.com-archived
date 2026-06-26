@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2013/02/Souffle1.jpg"
 description: "cách làm souffle, lava cake, bánh chocolate nhân lỏng, chocolate ganache"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
 <p>——————————————</p>
 <p>Tuần làm việc đầu năm mới của cả nhà thế nào? Hi vọng là tất cả mọi người đều đã có một khoảng thời gian thật vui và hiệu quả. Mình thì không có khái niệm “tuần làm việc đầu năm mới”, nhưng tuần vừa rồi của mình là một tuần khá bận rộn, mệt mỏi và hơi quá tải một chút. Hi vọng cuối tuần thu xếp nấu nướng một tí, chụp choẹt một tí, ngồi hít hà mùi vanilla với chocolate từ lò nướng thì sẽ thấy mọi thứ tươi sáng trở lại :)</p>
-<p>Món mà mình giới thiệu trong bài viết này là Chocolate Soufflé – một món tráng miệng có cách làm cực kì đơn giản mà hiệu quả thì tuyệt vời: mềm, xốp, nhẹ bỗng, nhờ thành phần không có một tẹo bột nào và nở hoàn toàn nhờ vào lòng trắng trứng đánh bông. Đúng như tên gọi (souffle = thổi phồng), Souffle sẽ nở phồng rất “ác liệt” trong lò (ngồi ngắm thích cực kì :”&gt;), nhưng sẽ xẹp khá nhanh sau khi lấy ra khỏi lò, nên cần phải được dùng nóng, ngay sau khi nướng xong. Cũng vì vậy nên mình nghĩ Souffle không nên làm nhiều. Còn nếu “chẳng may” thừa thì các lần tiếp theo, bạn có thể hâm nóng Souffle lại bằng lò vi sóng khoảng 20-30 giây là bánh sẽ tương đối ngon lành trở lại.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Món mà mình giới thiệu trong bài viết này là Chocolate Soufflé – một món tráng miệng có cách làm cực kì đơn giản mà hiệu quả thì tuyệt vời: mềm, xốp, nhẹ bỗng, nhờ thành phần không có một tẹo bột nào và nở hoàn toàn nhờ vào lòng trắng trứng đánh bông. Đúng như tên gọi (souffle = thổi phồng), Souffle sẽ nở phồng rất “ác liệt” trong lò (ngồi ngắm thích cực kì :”&gt;), nhưng sẽ xẹp khá nhanh sau khi lấy ra khỏi lò, nên cần phải được dùng nóng, ngay sau khi nướng xong. Cũng vì vậy nên mình nghĩ Souffle không nên làm nhiều. Còn nếu “chẳng may” thừa thì các lần tiếp theo, bạn có thể hâm nóng Souffle lại bằng lò vi sóng khoảng 20-30 giây là bánh sẽ tương đối ngon lành trở lại.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8496899297/" title="IMG_9653 by LinhTrang9185, on Flickr"><img alt="IMG_9653" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8378/8496899297_e84422b1de_z.jpg" width="450"/></a></p>
 <p>Trong công thức dưới đây, ngoài Chocolate Souffle thì mình còn có thêm một phần nữa, lấy ý tưởng từ Molten lava cake – một loại bánh có phần nhân lỏng, thường được dùng khi ấm nóng (cắm thìa vào là nhân sẽ trào ra cực hấp dẫn). Mình khá là thích sự kết hợp này, vì cảm giác khi ăn rất thú vị: dưới lớp Souffle rất mềm, rất nhẹ là phần nhân Chocolate Ganache lỏng, thơm lựng, làm cho bánh dường như ngọt ngào và đậm đà hơn rất nhiều.</p>
 <p><span style="color: #800000;"><strong>Mức độ</strong>:</span> Bình thường</p>
@@ -34,10 +30,7 @@ description: "cách làm souffle, lava cake, bánh chocolate nhân lỏng, choco
 <li><em>¼ thìa cafe (tsp) cream of tartar (có thể thay bằng nước cốt chanh hoặc dấm, lượng tương đương)</em></li>
 </ul>
 <p>(*) <em><strong>Ghi chú</strong></em>: CT Souffle này dùng Chocolate, mình chưa thử với CT dùng bột Cacao nên không có tỉ lệ để thay nguyên liệu nếu các bạn dùng bột Cacao</p>
-<p><strong>Chocolate Ganache</strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong>Chocolate Ganache</strong></p>
 <ul>
 <li><em>50 gram chocolate (hàm lượng cacao 56-60%)</em></li>
 <li><em>50 gram heavy cream (kem tươi/ whipping cream có hàm lượng béo 35-40%)</em></li>
@@ -65,7 +58,6 @@ description: "cách làm souffle, lava cake, bánh chocolate nhân lỏng, choco
 <p>3. Cho ¼ tsp vanilla &amp; coffe extract vào bát đựng Chocolate, bơ và trứng. Quấy đều đến khi các nguyên liệu hòa quyện, hỗn hợp mịn mượt.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8496900357/" title="IMG_9618 by LinhTrang9185, on Flickr"><img alt="IMG_9618" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8384/8496900357_c005f5b84f.jpg" width="500"/></a></p>
 
-
 <p>4. Phần lòng trắng còn lại đánh cùng cream of tartar và đường đến bông cứng (stiff peak). Các lưu ý và cách đánh lòng trắng trứng xem thêm tại <strong><a href="/danh-bong-long-trang-trung/">ĐÂY</a> và<a href="/danh-bong-trung-phan-2/"> ĐÂY</a></strong></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8496900483/" title="IMG_9616 by LinhTrang9185, on Flickr"><img alt="IMG_9616" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8242/8496900483_67e1f2e5a6.jpg" width="500"/></a></p>
 <p>5. Lấy 1/3 chỗ lòng trắng trứng, cho vào bát đựng chocolate và lòng đỏ, quấy đều.</p>
@@ -84,4 +76,4 @@ description: "cách làm souffle, lava cake, bánh chocolate nhân lỏng, choco
 <p>* <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;"><strong>Lưu ý:</strong></span></span> Souffle là loại tráng miệng dễ làm và khả năng hỏng rất thấp. Một trong những yếu tố quan trọng nhất là <span style="color: #ff0000;">p<strong>hải đánh trứng được đến bông cứng (stiff peak)</strong></span> và <span style="color: #ff0000;"><strong>thao tác đúng kĩ thuật khi trộn ở bước (5)</strong></span>, tránh để bọt khí trong lòng trắng trứng bị vỡ quá nhiều.</p>
 <p>Chúc cả nhà cuối tuần vui vẻ :)</p>
 <p> </p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

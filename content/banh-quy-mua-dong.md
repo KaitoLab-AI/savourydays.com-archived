@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2011/12/BanhQuyMuaDong1.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Vẫn là bơ, bột, sữa, đường, trứng, nhưng bởi vì mỗi chiếc bánh nhỏ đều mang theo tất cả các hương vị của Mùa đông, cho nên gọi là <em>Bánh quy Mùa đông :)</em></p>
 <p>Đến đây thì câu hỏi – nếu có – hẳn sẽ là “Cái gì là hương vị của Mùa đông?” :)</p>
 <p>Câu trả lời chắc là sẽ rất đa dạng và phong phú, bởi vì mỗi người sẽ có một hay một vài hương vị riêng của mình. Với mình thì hương vị của Mùa đông là vị ngọt ngào của mỗi thìa mật ong chanh mỗi sáng, là mùi thơm the dịu của mứt vỏ cam giúp ngọt giọng trong những ngày gió mùa về, là mùi ấm nồng cay cay của ly trà gừng sau mỗi lần quay trở về nhà từ mưa gió hay tuyết lạnh, và cả mùi thơm của bánh quế tỏa ra từ lò nướng trong một buổi tối rảnh rỗi nữa :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6592702135/" title="Orange honey ginger cookie &amp; Camomile tea by LinhTrang9185, on Flickr"><img alt="Orange honey ginger cookie &amp; Camomile tea" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7143/6592702135_2af0dbc951_z.jpg" width="437"/></a></p>
-<p>Bởi vì cứ mỗi khi mùa đông đến là bao giờ cũng có (ít nhất một trong) những thứ này trong nhà, cho nên hương vị cũng dần trở nên quen thuộc, làm nên “một phần tất yếu của cuộc sống” trong những ngày Đông lạnh. Và đến một ngày thì nảy ra ý tưởng “gửi” tất cả mọi hương vị này vào trong một miếng bánh nhỏ xinh, để dù cho là ở nhà, hay trong phòng làm việc, hay là trên tàu, lúc nào cũng có thể ngửi và “nếm” hương vị ngọt ngào ấm áp của mùa đông của riêng mình :)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Bởi vì cứ mỗi khi mùa đông đến là bao giờ cũng có (ít nhất một trong) những thứ này trong nhà, cho nên hương vị cũng dần trở nên quen thuộc, làm nên “một phần tất yếu của cuộc sống” trong những ngày Đông lạnh. Và đến một ngày thì nảy ra ý tưởng “gửi” tất cả mọi hương vị này vào trong một miếng bánh nhỏ xinh, để dù cho là ở nhà, hay trong phòng làm việc, hay là trên tàu, lúc nào cũng có thể ngửi và “nếm” hương vị ngọt ngào ấm áp của mùa đông của riêng mình :)</p>
 <p>Lần đầu tiên làm ra bánh ăn cũng được, nhưng chưa thực sự ưng ý lắm, vì chưa đạt được độ giòn như mong muốn, nhưng bù lại là một vài tấm ảnh tương đối vừa ý. Bánh quy gừng mật ong cam với trà hoa cúc, cứ mỗi lần nhìn vào là lại có cảm giác nhẹ bẫng, bình yên. Lần thứ hai thử một công thức mới và vừa ý hơn rất nhiều, bánh ngọt vừa, giòn tan, thơm mùi gừng, quế, thêm chút ngọt ngào của mật ong và hương cam lẩn khuất trong mỗi miếng bánh nhỏ. Cả hộp bánh 100 cái mang đi mời đồng nghiệp, chỉ trong buổi sáng đã gần hết vì ai cũng thích sự kết hợp từ các hương vị của Mùa đông :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6592701919/" title="Orange honey ginger cookie &amp; Camomile tea by LinhTrang9185, on Flickr"><img alt="Orange honey ginger cookie &amp; Camomile tea" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7004/6592701919_9b7da59073_z.jpg" width="424"/></a></p>
 <p><em>Công thức mà mình giới thiệu trong phần dưới đây là công thức đã chỉnh sửa, vì đợt này mình bận quá nên không có thời gian chụp ảnh tử tế, chỉ bấm vội được mấy cái bánh lúc đang để trên rack đợi nguội hẳn, cả nhà thông cảm nha. </em></p>
@@ -40,10 +36,7 @@ description: ""
 <p>3. Chia hỗn hợp khô ở (1) thành 2-3 phần. Lần lượt cho bột vào âu bơ đường trứng, đánh đều sau mỗi lần thêm bột.</p>
 <p>4. <em>Bột sau khi trộn xong sẽ khá dính nên cần để vào tủ lạnh để bột bớt dính rồi mới cán và cắt thành hình</em>. Cách làm là: Chuẩn bị một miếng giấy nến rộng, đổ bột lên miếng giấy này, gấp miếng giấy lại và dùng tay nén bột thành miếng dẹt (nén bột qua miếng giấy, không trực tiếp đụng tay vào bột) (hình 1-2). Bọc kín miếng bột, để tủ lạnh từ 1-2 tiếng, đến khi bột đủ cứng để cán.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6592702567/" title="2011-12-25 by LinhTrang9185, on Flickr"><img alt="2011-12-25" class="aligncenter" height="334" loading="lazy" src="http://farm8.staticflickr.com/7163/6592702567_22a5df0b65.jpg" width="500"/></a><br/>
-5. Cán bột thành miếng mỏng, dẹt, dày không quá 0.5cm. Dùng cookie cutter cắt bột thành từng miếng bột nhỏ. Nhẹ nhàng chuyển các miếng bột này lên khay nướng đã lót sẵn giấy nến/ tấm nướng bánh Silpat.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+5. Cán bột thành miếng mỏng, dẹt, dày không quá 0.5cm. Dùng cookie cutter cắt bột thành từng miếng bột nhỏ. Nhẹ nhàng chuyển các miếng bột này lên khay nướng đã lót sẵn giấy nến/ tấm nướng bánh Silpat.</p>
 <p><em><strong>Lưu ý: </strong></em></p>
 <div><em>– Bánh sẽ nở thêm nên không nên cán quá dày, bánh sẽ dễ bị cứng. </em></div>
 <div>– <em>Bột khá dính nên có thể xoa bột mỳ khô lên mặt phẳng cán bột và cây lăn bột cho dễ cán. Mình thì đặt thêm 1 miếng giấy nến lên mặt bột rồi cán qua miếng giấy này. </em></div>
@@ -51,4 +44,4 @@ description: ""
 <div>– <em>Nếu không có cookie cutter thì có thể lăn bột thành cây dạng hình trụ tròn, để tủ lạnh cho bột tương đối cứng lại rồi dùng dao cắt thành khoanh tròn, dày khoảng 0.5cm. </em></div>
 <p><em>6. </em>Vặn lò lên 165 độ C trước khi nướng từ 10-15 phút. Nướng bánh ở 165 độ trong khoảng 12-15 phút hoặc đến khi bánh chín vàng, phần rìa bánh có màu hơi vàng nâu. Với lượng bột ở trên thì mình làm được khoảng 100 cái bánh quy như trong hình, nướng mất 3 mẻ. <em>Sau khi nướng xong thì xếp toàn bộ bánh vào khay, sấy ở nhiệt độ 100-110 độ trong khoảng 10-15 phút, bánh sẽ giòn hơn rất nhiều. </em>Bánh chín để nguội rồi bảo quản trong hộp kín<em>. </em></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6592702381/" title="IMG_1078 by LinhTrang9185, on Flickr"><img alt="IMG_1078" class="aligncenter" height="334" loading="lazy" src="http://farm8.staticflickr.com/7159/6592702381_15b36b96f8.jpg" width="500"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

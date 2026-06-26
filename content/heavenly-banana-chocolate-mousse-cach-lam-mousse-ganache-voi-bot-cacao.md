@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2014/02/HeavenlyChocoCake.jpg"
 description: "valentine, chocolate mousse, chocolate ganache"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Mùa đông châu Âu lạnh giá và u ám, làm cho người ta thấy thèm nhiều hơn những thứ ngọt ngào và ấm áp, như một tách chocolate nóng còn nghi ngút khói, một miếng bánh đậm đà vị cacao xốp mềm tan trong miệng, mùi thơm ngọt của những thứ quả đến từ miền đất nhiệt đới… Và nếu tất cả những hương vị ấy có thể được đưa vào trong một món ăn… thì còn gì tuyệt hơn nhi? 8-&gt;</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/12342263855/" title="Heavenly banana &amp; chocolate mousse cake by LinhTrang9185, on Flickr"><img alt="Heavenly banana &amp; chocolate mousse cake" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3755/12342263855_e7ab5e804d.jpg" width="500"/></a></p>
 <p>Công thức hôm nay là một sự thử nghiệm mới. Chocolate mousse và Chocolate Ganache lần này được làm với nguyên liệu hoàn toàn là bột cacao nguyên chất để có thêm một lựa chọn cho các bạn không tìm được chocolate với hàm lượng ca cao trên 50% (là yêu cầu thông thường cho chocolate dùng làm mousse và ganache, để đảm bảo độ đậm đặc và hương vị chocolate trong bánh). Công thức hơi dài một chút do có nhiều thành phần, nhưng khi thực hiện, mọi người có thể thay đổi, thêm bớt các phần tùy theo điều kiện về thời gian, nguyên liệu và sở thích nhé.</p>
@@ -17,10 +16,7 @@ description: "valentine, chocolate mousse, chocolate ganache"
 <li><em>1 khuôn tròn đường kính 20cm làm đế bánh</em></li>
 <li><em>1 khuôn tròn đế rời hoặc mousse ring đường kính 18cm để ráp bánh</em></li>
 </ul>
-<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <p><strong>A. Chocolate Sponge Cake</strong></p>
 <ul>
 <li><em>35 gr bột mì đa dụng hoặc pastry flour</em></li>
@@ -71,10 +67,7 @@ description: "valentine, chocolate mousse, chocolate ganache"
 <li>Phần D tham khảo công thức tại: <a href="/mini-cakes-cach-danh-bong-kem-tuoi-cong-thuc-chocolate-ganache/">Chocolate Ganache</a>.</li>
 </ul>
 <p>4. Chọn dùng bột ca cao nguyên chất không đường (<strong>không dùng bột sữa Milo</strong>). Bột ca cao càng thơm ngon sẽ cho bánh có mùi vị Chocolate đậm đà và ngon hơn.</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/12342413023/" title="IMG_4624-1 by LinhTrang9185, on Flickr"><img alt="IMG_4624-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7397/12342413023_6852bbb0dc_z.jpg" width="451"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12342413023/" title="IMG_4624-1 by LinhTrang9185, on Flickr"><img alt="IMG_4624-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7397/12342413023_6852bbb0dc_z.jpg" width="451"/></a></p>
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <p><b>A. Chocolate Sponge Cake </b></p>
 <p>Làm theo công thức <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/">Ga-tô cơ bản bất bại</a>. Bột ca cao được rây và trộn đều với bột mì, các thao tác khác không thay đổi. Vì trong CT Gateau cơ bản bất bại đã có ghi chú rất cụ thể các thao tác và các chú ý rồi, nên ở đây mình chỉ tóm tắt lại hình ảnh các bước thôi nhé.</p>
@@ -90,7 +83,6 @@ description: "valentine, chocolate mousse, chocolate ganache"
 <p>Hỗn hợp sau khi trộn dầu &amp; nước xong rất mịn và bông đặc, không bị loãng.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/12342416263/" title="IMG_4601 by LinhTrang9185, on Flickr"><img alt="IMG_4601" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2823/12342416263_bcda909efe.jpg" width="500"/></a></p>
 <p>5. Rây từng phần bột vào âu, trộn đều (<em>mình dùng máy trộn ở tốc độ thấp nhất, chỉ trộn vừa đủ, không đánh quá lâu sẽ làm vỡ bọt khí trong trứng đánh bông</em>).</p>
-
 
 <p><a href="http://www.flickr.com/photos/55490207@N05/12342416093/" title="IMG_4602 by LinhTrang9185, on Flickr"><img alt="IMG_4602" class="aligncenter" height="333" loading="lazy" src="http://farm6.staticflickr.com/5542/12342416093_c344da4d76.jpg" width="500"/></a></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/12342266465/" title="IMG_4603 by LinhTrang9185, on Flickr"><img alt="IMG_4603" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7323/12342266465_166ed519b5.jpg" width="500"/></a></p>
@@ -137,4 +129,4 @@ description: "valentine, chocolate mousse, chocolate ganache"
 <p>Bánh bảo quản lạnh, dùng trong 1 đến 2 ngày. Khi ăn, dùng một con dao lưỡi mảnh, nhẹ nhàng rọc quanh thành bánh rồi rút khuôn ra. Mặt bánh trang trí tùy thích với hoa quả hoặc chocolate bào vụn.</p>
 <p>* <strong>Ghi chú</strong>: Bánh trong ảnh mình để tủ lạnh trong thời gian ngắn nên phần Ganache còn hơi chảy. Nếu để bánh qua đêm, Ganache sẽ tương đối cứng và giòn.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/12342708564/" title="IMG_4629-1 by LinhTrang9185, on Flickr"><img alt="IMG_4629-1" class="aligncenter" height="342" loading="lazy" src="http://farm4.staticflickr.com/3667/12342708564_4e9fd2ccec.jpg" width="500"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2017/03/cách-làm-tart-trứng-banner.jpg"
 description: "Học cách làm tart trứng Hồng Kông thơm ngon với Linh Trang Savoury Days. Công thức kèm video hướng dẫn chi tiết với các lưu ý và mẹo giúp thành công"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Thi thoảng mình có cảm giác là hình như ở Việt Nam tart trứng của KFC quá phổ biến nên “đè bẹp” một món “anh chị em họ” của nó là tart trứng Hồng Kông. Ít thấy các bạn làm món này mà trong cửa hàng cũng không thấy bán nhiều nữa.</p>
 <p>Thật ra thì tart trứng Hồng Kông mình thấy ngon đâu hề kém tart trứng KFC nhỉ, hay một phần lí do cũng bởi vì mình không khoái tart trứng KFC lắm. Nhưng so với tart trứng KFC với lớp vỏ là bột ngàn lớp thì tart trứng HK có cách làm nhanh và đơn giản hơn nhiều. Đế tart chỉ là trộn rồi  nướng giống kiểu bánh quy bơ, còn nhân thì hệt như làm bánh flan vậy thôi.</p>
 <p>Một ưu điểm khác nữa là món tart này có thể ăn nóng hay nguội đều hợp cả. Nếu là trời lạnh thì có thể quay vi sóng hay dùng lò nướng tầm 150 độ C trong 3 – 5 phút để bánh hơi âm ấm trở lại, dùng kèm bột quế rất ngon (vụ bột quế này là mình học từ món tart trứng Bồ Đào Nha – món tart trứng chuẩn mà phiên bản lỗi chính là tart KFC ý). Còn trời nóng thì có thể ăn bánh nguội hay lạnh cũng được. Phần đế bánh nếu nóng thì sẽ giòn bùi kiểu hơi giống bánh quy, còn lạnh thì chỉ bùi thôi, nhưng đều dễ ăn và ngon như nhau.</p>
 <p>Công thức này thì phần vỏ tart mình dùng công thức vỏ của Gordon Ramsay còn nhân kem trứng thì mình dùng sữa và kem tươi thay cho chỉ sữa tươi với sữa đặc như một số công thức của Hồng Kông. Lý do là kem tươi cho nhân kem thơm ngậy và “mướt” hơn nhiều :) Và cách làm như sau nhé:</p>
 <h2>CÁCH LÀM TART TRỨNG HỒNG KÔNG</h2>
-<p><strong><span style="color: #800000;">Nguyên liệu</span> (làm được 20 – 22 tart nhỏ)</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong><span style="color: #800000;">Nguyên liệu</span> (làm được 20 – 22 tart nhỏ)</strong></p>
 <p><strong>A. Phần vỏ bánh</strong></p>
 <ul>
 <li><em>230 g bột mì đa dụng</em></li>
@@ -60,13 +56,10 @@ description: "Học cách làm tart trứng Hồng Kông thơm ngon với Linh T
 <li>Đánh tan trứng với đường</li>
 <li>Cho sữa và kem tươi vào trộn đều, lọc lại hỗn hợp qua rây.</li>
 </ol>
-<p>C. Nướng bánh.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>C. Nướng bánh.</p>
 <ol>
 <li>Đổ nhân kem trứng vào các khuôn. Nếu chưa dùng hết thì để hỗn hợp còn thừa vào tủ lạnh (phần nhân này đủ cho phần vỏ bánh, nhưng nếu lò nhỏ có thể sẽ cần nướng nhiều lần).</li>
 <li>Nướng bánh ở nhiệt 150 độ C trong 20 – 25 phút. Để bánh nguội hoàn toàn trước khi gỡ bánh ra khỏi khuôn.</li>
 </ol>
 <p>(*) <strong>Lưu ý về nhiệt độ nướng: </strong>Với món bánh này, khi nướng phần nhân bánh không nên để nhiệt độ quá cao. Nếu là lò nhỏ, nên nướng ở rãnh thấp nhất của lò và có thể tắt lửa trên, chỉ nướng lửa dưới. Tốt nhất là nướng tới khi mặt bánh se nhưng lắc thử còn hơi rung rinh một chút rồi các bạn tắt lò và để bánh trong lò thêm 5 – 10 phút. Như vậy bánh sẽ chín đúng độ, phần kem vừa mịn vừa mượt. Nếu nướng ở nhiệt độ quá cao, mặt bánh dễ bị phồng, cháy và khô, trong khi phần nhân có thể bị rỗ (do kem trứng sôi) và ăn hơi giống trứng nướng.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

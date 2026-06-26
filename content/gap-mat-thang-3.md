@@ -13,10 +13,7 @@ description: ""
 <div style="clear: both;"></div>
 <p style="text-align: center;"><em>không khí tại địa điểm gặp mặt ngày hôm qua ^^</em></p>
 <p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/8588224747/" title="IMG_0024 by LinhTrang9185, on Flickr"><img alt="IMG_0024" height="333" loading="lazy" src="http://farm9.staticflickr.com/8529/8588224747_dae3d704f7.jpg" width="500"/></a></p>
-<p style="text-align: left;">Mặc dù đã nắm được số lượng các bạn sẽ tới dự từ trước qua đăng kí trên blog, nhưng thực sự mình vẫn rất bất ngờ và cảm động trước tình cảm của mọi người. Đặc biệt là khi  thời tiết ở Hà Nội đợt này không dễ chịu tí nào, vẫn đang là mùa Xuân nhưng tiết trời đã oi bức và nóng nực như mùa Hè. Ngày hôm qua có lẽ là đỉnh điểm của sự oi nóng. Nhiệt độ buổi trưa chắc phải đến khoảng 31-32 độ C. Phòng địa điểm gặp mặt mặc dù đã được huy động điều hòa và quạt hết cỡ nhưng không khí vẫn khá ngột ngạt và bí bức. Mình  thực sự áy náy vì không lo được cơ sở vật chất tốt hơn, nhưng cũng rất cảm động vì các bạn đã không kể đến cái nóng trong phòng mà ngồi lại với mình đến tận cuối buổi. Cảm ơn cả nhà nhiều lắm lắm :x<span id="more-3854"></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p style="text-align: left;">Mặc dù đã nắm được số lượng các bạn sẽ tới dự từ trước qua đăng kí trên blog, nhưng thực sự mình vẫn rất bất ngờ và cảm động trước tình cảm của mọi người. Đặc biệt là khi  thời tiết ở Hà Nội đợt này không dễ chịu tí nào, vẫn đang là mùa Xuân nhưng tiết trời đã oi bức và nóng nực như mùa Hè. Ngày hôm qua có lẽ là đỉnh điểm của sự oi nóng. Nhiệt độ buổi trưa chắc phải đến khoảng 31-32 độ C. Phòng địa điểm gặp mặt mặc dù đã được huy động điều hòa và quạt hết cỡ nhưng không khí vẫn khá ngột ngạt và bí bức. Mình  thực sự áy náy vì không lo được cơ sở vật chất tốt hơn, nhưng cũng rất cảm động vì các bạn đã không kể đến cái nóng trong phòng mà ngồi lại với mình đến tận cuối buổi. Cảm ơn cả nhà nhiều lắm lắm :x<span id="more-3854"></span></p>
 <p style="text-align: left;">“Chương trình” họp mặt diễn ra có lẽ là suôn sẻ :) Phần đầu tiên các bạn chủ yếu đặt câu hỏi xoay quanh làm bánh và nấu nướng. Hôm qua nói thật là mình có hơi hồi hộp và “ca-mơ-run” một chút, nên đôi chỗ trả lời hơi thiếu trôi chảy, nhưng hi vọng là cả nhà hài lòng với các câu trả lời. Có một phần bonus không có trước trong kế hoạch, là vì có một số bạn đề nghị mình hướng dẫn cách đánh bông lòng trắng trứng và fold lòng trắng trực tiếp, và mình nghĩ đây cũng là một ý hay, nên quyết định cho thêm vào chương trình. Phòng hôm qua hơi đông, có một số bạn chắc không nhìn được rõ hết thao tác, nhưng mong là việc giải thích trực tiếp vẫn tốt và rõ ràng hơn là mô tả bằng lời qua blog :)</p>
 <p>Phần thứ 2 của buổi gặp mặt ngày hôm qua là đấu giá đồ làm bánh để ủng hộ cho chương trình “Cơm có thịt” đã thành công hơn mong đợi của mình rất nhiều. Tất cả các món đồ đều được mua lại với giá cao gấp đôi, thậm chí là gấp ba so với giá thành ban đầu. Cảm ơn cả nhà, mình thật sự rất rất vui và cảm động, vì mình biết các chị em mua lại không hẳn chỉ vì muốn có món đồ, mà nhiều hơn là vì muốn góp một phần cho bữa cơm của các em nhỏ. Tổng số tiền thu được từ việc bán đấu giá (cả gốc &amp; lãi) là: 5.700.000 VND. Số tiền này, cùng với một phần tiền hỗ trợ của công ty Văn Việt (đơn vị xuất bản sách Quà tặng ngọt ngào) tổng cộng là: 7.200.000 VND. Mình xin thay mặt cả nhà chuyển số tiền này đến TK của chương trình “Cơm có thịt” với tên “Savoury Days và bạn bè”, sau khi chuyển khoản thành công sẽ thông báo lại để mọi người cùng biết nhé.</p>
 <p>Buổi họp mặt ngày hôm qua cũng là lần đầu tiên mình tham dự (và tự tổ chức) một sự kiện có đông người tham gia như vậy, nên chắc là đã có rất nhiều điểm thiếu sót, mong các anh chị, các bạn và các em thông cảm. Nhưng việc tổ chức và tiến hành buổi gặp mặt hôm qua có thể sẽ gặp nhiều khó khăn hơn rất nhiều, nếu không có sự giúp đỡ của rất nhiều bạn bè và các anh chị em. Cảm ơn chị Hạnh (Leuven) vì đã gửi tặng rất nhiều đồ làm bánh để bán đấu giá. Cảm ơn công ty Văn Việt, em Nam Khanh và em Thạnh đã giúp đỡ về tài chính và chuẩn bị. Cảm ơn em Na và em Tata đã rất nhiệt tình mang dụng cụ và nguyên liệu, và cả làm trợ lý cho “bài học đánh trứng và fold bột” nữa. Cảm ơn chị Trang và chị Hạnh đã nhiệt tình hỗ trợ trong màn đấu giá. Cảm ơn cô chủ và các bạn ở quán Berberchum đã giúp đỡ về địa điểm và nước uống, cũng như thu dọn “chiến trường” sau buổi họp mặt. Đặc biệt cảm ơn em trai và em gái Tahi &amp; Oni đã giúp đỡ trong mọi công tác tổ chức trước cũng như trong suốt cả buổi gặp gỡ.</p>
@@ -26,10 +23,7 @@ description: ""
 <p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/8589326252/" title="IMG_0069 by LinhTrang9185, on Flickr"><img alt="IMG_0069" height="333" loading="lazy" src="http://farm9.staticflickr.com/8373/8589326252_d14f0aee33.jpg" width="500"/></a></p>
 <p style="text-align: center;"><em>lắng nghe….</em></p>
 <p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/8589325686/" title="IMG_0086 by LinhTrang9185, on Flickr"><img alt="IMG_0086" height="333" loading="lazy" src="http://farm9.staticflickr.com/8509/8589325686_0278e5f15e.jpg" width="500"/></a></p>
-<p style="text-align: center;"><em>…và trả lời ‘chất vấn’</em></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p style="text-align: center;"><em>…và trả lời ‘chất vấn’</em></p>
 <p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/8589326450/" title="IMG_0034 by LinhTrang9185, on Flickr"><img alt="IMG_0034" height="333" loading="lazy" src="http://farm9.staticflickr.com/8378/8589326450_766ffc5372.jpg" width="500"/></a></p>
 <p style="text-align: center;"><em>giới thiệu đồ đấu giá</em></p>
 <p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/8589324300/" title="IMG_0122 by LinhTrang9185, on Flickr"><img alt="IMG_0122" height="333" loading="lazy" src="http://farm9.staticflickr.com/8514/8589324300_c8db863e9f.jpg" width="500"/></a></p>
@@ -49,9 +43,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2013/12/VerticalOperaCake.jpg"
 description: "Cách làm bánh Opera, kem bơ mocha, chocolate ganache"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Opera cake là món bánh mà mình đã muốn làm từ rất lâu rồi, nhưng mãi đến bây giờ mới có thời gian để chính thức thử nghiệm “em ấy”. Opera cake truyền thống gồm các lớp bạt gateau hạnh nhân tẩm syrup cà phê, xen kẽ với các lớp kem bơ mocha và Chocolate ganache. Nhờ sự kết hợp này mà mỗi miếng bánh là sự tổng hòa của hạnh nhân bùi, cà phê thơm, chocolate ngọt ngào và kem bơ béo ngậy. Ngày trời lạnh thêm một tách cà phê nóng nữa là hết sảy ^.^.</p>
 <p>Opera cake thông thường có khoảng 7 – 8 lớp xen kẽ nhau, rất mỏng và đều chằn chặn nên khi cắt bánh ra sẽ thấy các tầng màu vàng nâu, nâu nhạt, nâu sậm xen kẽ nhau lần lượt làm cho bánh nhìn cực kì chỉn chu và hấp dẫn. Đáng lẽ ra phải làm các lớp như vậy, nhưng khi tham khảo công thức và ngắm nghía các khoanh bánh mẫu thì mình tự nhiên lại nảy ra ý nghĩ nếu xoay dọc các lớp bánh này thì sẽ thế nào nhỉ? Trước đây khi làm <a href="/cheesecake-so-co-la-chuoi-vertical-cheesecake/">Vertical Banana Cheesecake </a>vì không lường trước được sự cố với phần Mousse nên bánh hơi thiếu chỉn chu một chút, nhưng với Opera cake, kem bơ “cứng” hơn nên xử lí sẽ đơn giản hơn.</p>
 <p>Nghĩ là làm, và kết quả của một buổi sáng là chiếc bánh trong hình. Về thành quả so với “sức lao động” bỏ ra thì mình không có gì phàn nàn. Mặc dù nếu làm lại lần nữa, khi đã có kinh nghiệm rồi thì chắc các lớp bánh sẽ đều nhau và đẹp hơn, cũng sẽ có nhiều lớp hơn. Nhưng dù sao thì cảm giác khi cắt bánh ra vẫn là rất… hí hửng và sung sướng :D</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/11189938934/" title="IMG_4163-1 by LinhTrang9185, on Flickr"><img alt="IMG_4163-1" class="aligncenter" height="500" loading="lazy" src="http://farm8.staticflickr.com/7380/11189938934_b519c38368.jpg" width="347"/></a></p>
-<p>Bánh làm không phải là rất khó nhưng hơi lỉnh kỉnh và mất thời gian một chút. Có điều mình nghĩ hiệu quả “bất ngờ” của bánh chắc sẽ đủ bù lại cho công sức bỏ ra (có khi còn hơn ấy chứ :) ).</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Bánh làm không phải là rất khó nhưng hơi lỉnh kỉnh và mất thời gian một chút. Có điều mình nghĩ hiệu quả “bất ngờ” của bánh chắc sẽ đủ bù lại cho công sức bỏ ra (có khi còn hơn ấy chứ :) ).</p>
 <p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khay nướng 20 x 30cm</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <p><strong>A. Bạt bánh gateau hạnh nhân </strong></p>
@@ -62,10 +58,7 @@ description: "Cách làm bánh Opera, kem bơ mocha, chocolate ganache"
 </ul>
 <p>(*) Nếu Chocolate có hàm lượng cacao thấp hơn 54% hoặc cao hơn 65% thì cần điều chỉnh lượng đường trong công thức hoặc tăng/ giảm lượng Chocolate trong phần B và D. Chocolate có càng nhiều cacao thì càng đắng và sẽ làm cho hỗn hợp đặc hơn. Vì vậy nếu dùng Chocolate có % cacao lớn thì nên tăng đường hoặc giảm bớt lượng Chocolate (tương tự với Chocolate có % cacao thấp).</p>
 <p><span style="color: #800000;"><strong>Cách làm </strong></span></p>
-<p><strong>A. Bạt gateau hạnh nhân (làm theo kiểu Chiffon)</strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong>A. Bạt gateau hạnh nhân (làm theo kiểu Chiffon)</strong></p>
 <p>1. Làm nóng lò nướng ở 175 độ C (hai lửa). Chuẩn bị khay nướng cỡ 20 x 30cm. Lót giấy nướng hoặc giấy trắng ở đáy khuôn (<strong><em>chuẩn bị hai tờ giấy trắng hoặc hai khuôn vì sẽ phải nướng hai bạt</em></strong>). Không cần chống dính thành khuôn.</p>
 <p>2. Cho lòng đỏ trứng &amp; đường vào âu. Dùng phới lồng nhẹ nhàng quấy đều cho trứng và đường hòa quyện. Cho dầu ăn &amp; sữa tươi vào âu, quấy đều. Cuối cùng, rây bột mì, bột ngô và bột hạnh nhân. Dùng phới lồng quấy nhẹ nhàng theo một chiều đến khi các nguyên liệu hòa quyện.</p>
 <p>3. Đánh bông lòng trắng trứng với muối, cream of tartar và đường đến khi lòng trắng trứng bông cứng, bóng dẻo, nhấc que đánh lên thấy tạo chóp.</p>
@@ -85,7 +78,6 @@ description: "Cách làm bánh Opera, kem bơ mocha, chocolate ganache"
 <p>Sau khi xong phần bạt thứ hai, ta sẽ có 2 cuộn bánh. Để cho cả 2 cuộn nguội hẳn. Trong thời gian chờ thì đi chuẩn bị các phần còn lại.</p>
 <p><strong>B. Kem bơ Mocha chocolate</strong></p>
 <p>1. Chuẩn bị kem bơ với 200gr bơ nhạt, 2 lòng trắng trứng và 60gr đường theo <a href="/trang-tri-banh-kem-bo-kieu-thuy-sy-voi-long-trang-trung-swiss-buttercream/">công thức kem bơ kiểu Thụy Sỹ</a>.</p>
-
 
 <p>2. Bẻ nhỏ chocolate, cho vào bát. Đun kem tươi đến gần sôi thì đổ vào bát đựng chocolate. Cho thêm cà phê (ấm nóng). Quấy đều đến khi chocolate tan hết, hỗn hợp hòa quyện. Cho va-ni vào quấy đều. Để nguội (<em>thi thoảng nên quấy đều để tránh cho lớp trên mặt bị khô). </em></p>
 <p>3. Cho kem bơ vào âu (<em>nếu kem lạnh thì phải để cho kem hết lạnh hẳn mới dùng)</em>. Để máy ở tốc độ thấp nhất. Đánh kem bơ trong khoảng 30 đến 45 giây cho kem mềm bớt. Chia phần kem sô-cô-la (đã nguội) làm 2 đến 3 phần. Từ từ cho từng phần kem sô-cô-la vào âu, đánh đều cho hòa quyện với kem bơ rồi cho phần tiếp theo. Làm đến khi hết kem sô-cô-la, các nguyên liệu hòa quyện. Ta có kem bơ mịn và mượt.</p>
@@ -112,4 +104,4 @@ description: "Cách làm bánh Opera, kem bơ mocha, chocolate ganache"
 <p>2. Sau khi kem bơ đã cứng lại, lấy bánh ra ngoài, nhẹ nhàng đổ phần Chocolate Ganache lên bên ngoài, dùng spatula hay dao nhỏ để dàn cho Chocolate chảy phủ đều quanh thành bánh. Để bánh vào tủ lạnh thêm 2 – 3h cho Chocolate Ganache đông cứng hẳn. <em>Mình thấy <strong>tốt nhất nên để qua đêm cho kem bơ thật cứng, khi cắt bánh sẽ sắc nét và đẹp hơn</strong>. </em></p>
 <p>3. Khi cắt, dùng một con dao thật sắc, nhúng qua nước nóng rồi lau khô và cắt dứt khoát. Lau sạch dao sau mỗi lần cắt.</p>
 <p>(*) Nếu không muốn làm bánh theo kiểu dọc, vẫn thao tác nướng bạt bánh như trên nhưng không cuộn lại mà chia bạt bánh làm nhiều phần bằng nhau rồi xếp các tầng bánh xen kẽ với kem, sẽ có Opera cake truyền thống với các lớp bạt xen kẽ.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

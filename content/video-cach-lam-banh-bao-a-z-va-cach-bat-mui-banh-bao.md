@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2015/11/banh-bao.jpg"
 description: "Video hướng dẫn cách làm bánh bao mềm xốp thơm ngon và cách bắt múi bánh bao hình hoa, cách làm bánh bao xá xíu, bánh bao sữa chay, bánh bao kim sa, ..."
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Theo yêu cầu của rất nhiều bạn đọc của SD, mình làm video quay đầy đủ tất cả các công đoạn làm bánh bao, từ cách nhồi bột (bằng tay), cách ủ bột, chuẩn bị nhân, tạo hình và hấp nhé :)</p>
 <p>Công thức thì vẫn như cũ, <a href="/banh-bao-nhan-xa-xiu/" target="_blank"><strong>cách làm vỏ bánh đăng tại đây</strong></a> và <a href="/banh-bao-heo-con-cach-lam-nhan-thit-trung-muoi-lap-xuong/" target="_blank"><strong>cách làm nhân bánh đăng tại đây</strong></a>. Có một vài thay đổi trong phần cách làm như sau nhé:</p>
 <p>1. Mình dùng men instant nên không kích hoạt. Nếu các bạn dùng men khô hoặc muốn kiểm tra xem men có còn tốt hay không thì các bạn kích hoạt như hướng dẫn trong bài cách làm bánh bao xá xíu (link cách làm vỏ bánh ở trên) nhé.</p>
 <p>2. Cách tạo hình trong video này là theo kiểu bắt thành 8 múi khá phổ biến tại Việt Nam. Cách này tương đối dễ và cho múi đẹp. Khi bắt múi, các bạn lưu ý là mép bột không được dính dầu mỡ nếu không sẽ bị bung ra.</p>
-<p><a href=" https://www.flickr.com/photos/savourydays/22322530724/" title=" Vietnamese steamed buns/ Bánh bao by LinhTrang9185, on Flickr"><img alt=" Vietnamese steamed buns/ Bánh bao " class="aligncenter" height="427" loading="lazy" src=" https://farm6.staticflickr.com/5715/22322530724_439a86c305_z.jpg " width="640"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href=" https://www.flickr.com/photos/savourydays/22322530724/" title=" Vietnamese steamed buns/ Bánh bao by LinhTrang9185, on Flickr"><img alt=" Vietnamese steamed buns/ Bánh bao " class="aligncenter" height="427" loading="lazy" src=" https://farm6.staticflickr.com/5715/22322530724_439a86c305_z.jpg " width="640"/></a></p>
 <p>3. Ngoài ra, có một vài lưu ý/ mẹo thành công ngắn gọn mà mình tổng hợp lại từ kinh nghiệm bản thân và các phản hồi cũ là:</p>
 <ul>
 <li>Nhồi bột đủ, không quá nhiều sẽ làm bánh dai, nhưng không quá ít vì vỏ bánh sẽ kém mịn và xốp</li>
@@ -42,4 +38,4 @@ description: "Video hướng dẫn cách làm bánh bao mềm xốp thơm ngon v
 <li><a href="/video-banh-bao-kim-sa-banh-bao-trung-muoi-liu-sha-bao/" target="_blank">Cách làm bánh bao kim sa</a></li>
 <li><a href="/cach-lam-banh-bao-kim-sa-vi-sau-rieng/" target="_blank">Cách làm bánh bao kim sa vị sầu riêng</a></li>
 </ul>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

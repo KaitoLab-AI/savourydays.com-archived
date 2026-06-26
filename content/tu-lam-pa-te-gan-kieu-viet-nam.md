@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2011/12/PateGan.jpg"
 description: "pate gan"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Không biết nhà mình có ai thích ăn pa-tê với cơm hoặc xôi (nhưng lại không thích ăn pa-tê với bánh mỳ lắm) như mình không nhỉ? :D</p>
 <p>Ừ thì công nhận là sở thích hơi bị kì quặc một tí :”&gt;</p>
 <p>Nhưng mà pa-tê với xôi và (thật nhiều) hành phi giòn tan thật sự là rất ngon muh ;)</p>
 <p>Nhưng mà – thêm một chữ “nhưng” nữa – là muốn ăn kiểu này thì phải là pa-tê kiểu Việt Nam cơ. Tức là loại pa-tê không mịn hẳn hoàn toàn, ăn vào thấy rõ vị bùi bùi của gan mà không bị bứ và thơm phức chứ không hơi hăng hắc kiểu một số loại pa-tê đóng hộp bán ngoài siêu thị. Pa-tê gan kiểu này ngoài ăn với xôi hay cơm (hoặc bánh mỳ :P) thì cán thành miếng mỏng vừa rồi rán lên, để lớp vỏ ngoài giòn giòn nhưng bên trong vẫn mềm cũng ngon.</p>
-<p>(hik, ngồi viết thôi mà cũng thấy thèm thế chứ :”&gt;)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>(hik, ngồi viết thôi mà cũng thấy thèm thế chứ :”&gt;)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6438579799/" title="IMG_0109-1 by LinhTrang9185, on Flickr"><img alt="IMG_0109-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7173/6438579799_d6ecf8cdc6_z.jpg" width="439"/></a></p>
 <p>Pa-tê gan cũng có nhiều cách làm, nhưng chủ yếu mình thấy các công thức là pa-tê gan kiểu Âu, thường có thêm khá nhiều loại lá thơm. Công thức của mình thì không có nhiều thứ như vậy, về cách làm cũng đơn giản, thậm chí không có máy xay cũng có thể làm được pa-tê ngon để ăn ;)</p>
 <p><strong>Nguyên liệu </strong></p>
@@ -36,10 +32,7 @@ description: "pate gan"
 <p><strong>Cách làm</strong></p>
 <p>1. Chuẩn bị nguyên liệu:</p>
 <p>– Gan gà rửa sạch, ngâm với sữa tươi khoảng 30-45 phút. Bước này giúp khử độc gan và cũng giúp mùi vị thơm ngon hơn. Sau khi ngâm gan thì rửa lại một lần nữa, lọc bỏ phần gân, thái lát mỏng (nếu nhà không có máy xay thì việc thái gan thành lát mỏng sẽ giúp gan dễ nhuyễn mịn hơn).</p>
-<p>– Hành tây lột vỏ, bằm nhỏ</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>– Hành tây lột vỏ, bằm nhỏ</p>
 <p>– Tỏi lột vỏ, bằm nhuyễn.</p>
 <p>2. Bắc chảo lên bếp. Để lửa vừa &amp; cho bơ vào chảo. Ngay khi bơ vừa chảy hết thì cho hành tây vào, xào thơm trong khoảng 2 phút.</p>
 <p>3. Cho gan gà và thịt vào xào cùng hành. Nêm muối, tiêu cho vừa ăn. Xào đến khi gan và thịt chín khoảng 80%.</p>
@@ -49,4 +42,4 @@ description: "pate gan"
 <p>* Nếu nhà có máy xay, các bạn cho hỗn hợp gan &amp; thịt vào máy xay để hỗn hợp gan thịt đạt độ nhuyễn như mong muốn. Thường thì sau khi chín hỗn hợp cũng tương đối nhuyễn rồi nên mình chỉ xay thêm vài nhát thôi, không xay quá nhuyễn vì mình cũng không thích pa-tê nhuyễn kiểu như vậy.</p>
 <p>6. Đổ hỗn hợp ra bát hoặc hộp đựng, để nguội rồi cho vào tủ lạnh. Pa-tê bảo quản trong tủ lạnh được khoảng 3-4 ngày, để đông đá thì lâu hơn.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6438579459/" title="IMG_0105-1 by LinhTrang9185, on Flickr"><img alt="IMG_0105-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7165/6438579459_ea7049dfe5_z.jpg" width="416"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2019/03/cách-làm-phở-xào-giòn-banner.jpg"
 description: "Cách làm phở xào giòn: Bánh phở giòn rụm, bên trong lại mềm, dùng kèm thịt xào rau với sốt thơm phức cùng nước chấm chua ngọt, chỉ mới nghe tả thôi đã"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Nếu cảm thấy món phở xào thông thường đã hơi nhàm chán thì bạn thử đổi vị với món phở xào giòn này xem sao nhé. Bí quyết của tụi mình khi làm món phở này là trộn bánh phở với lòng đỏ trứng và bột ngô. Hai thứ nguyên liệu này sẽ giúp cho bánh phở giòm rụm mà lại có vị đậm đà và màu vàng ươm từ trứng nữa. Phần “topping” ăn kèm là tuỳ gia đình thôi, tụi mình làm thịt bò xào rau theo kiểu truyền thống và phổ biến, nhưng các bạn có thể biến tấu với các loại nguyên liệu khác như là tôm, mực, thịt lợn… cũng như dùng rau củ theo mùa nhé.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8236" height="588" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/03/cách-làm-phở-xào-giòn-banner-1024x588.jpg" width="1024"/></p>
 <h2>CÁCH LÀM PHỞ XÀO GIÒN</h2>
@@ -34,10 +33,7 @@ description: "Cách làm phở xào giòn: Bánh phở giòn rụm, bên trong l
 <li><em><span style="color: #000000;">50 ml dầu ăn</span></em></li>
 </ul>
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
-<p><span style="color: #000000;">1. Thịt bò để ngăn đá tủ lạnh cho hơi cứng lại, thái thật mỏng. Hành, tỏi bóc vỏ, băm nhỏ. Ướp thịt bò với dầu hào, 1 thìa cafe gia vị, hạt tiêu, ½ chỗ hành tỏi băm. Để 30’ cho ngấm.</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">1. Thịt bò để ngăn đá tủ lạnh cho hơi cứng lại, thái thật mỏng. Hành, tỏi bóc vỏ, băm nhỏ. Ướp thịt bò với dầu hào, 1 thìa cafe gia vị, hạt tiêu, ½ chỗ hành tỏi băm. Để 30’ cho ngấm.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8239" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/03/phoxaogion1-1024x682.jpg" width="1024"/></p>
 <p><span style="color: #000000;">2. Sơ chế các nguyên liệu khác</span></p>
 <p><span style="color: #000000;">– Rau cải bỏ gốc, rửa sạch, chẻ đôi. Cà chua rửa sạch, bổ múi cau</span></p>
@@ -47,10 +43,7 @@ description: "Cách làm phở xào giòn: Bánh phở giòn rụm, bên trong l
 <p><span style="color: #000000;">– Nấm hương ngâm nở, rửa sạch, thái chỉ</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8240" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/03/phoxaogion2-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">3. Chuẩn bị bánh phở</span></p>
-<p><span style="color: #000000;">– Trứng gà tách lấy phần lòng đỏ, đánh tan nhẹ</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">– Trứng gà tách lấy phần lòng đỏ, đánh tan nhẹ</span></p>
 <p><span style="color: #000000;">– Nhẹ nhàng tách bánh phở thành từng sợi</span></p>
 <p><span style="color: #000000;">– Rắc 1 thìa cafe gia vị lên bánh phở, dùng tay trộn nhẹ cho gia vị thấm vào sợi phở.</span></p>
 <p><span style="color: #000000;">– Trộn đều lòng đỏ trứng gà vào bánh phở</span></p>
@@ -67,9 +60,8 @@ description: "Cách làm phở xào giòn: Bánh phở giòn rụm, bên trong l
 <p><span style="color: #000000;">7. Cho thêm 1/2 thìa dầu ăn, để lửa lớn. Cho hành tây vào xào chín. Sau đó cho cà rốt và rau cải vào xào đến chín. Tiếp tục cho nấm hương vào chảo, đảo đều, sau đó cho cà chua bổ múi cau vào, đảo thêm khoảng 1 – 2 phút để cà chua hơi mềm. Nêm lại gia vị cho vừa miệng.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8245" height="681" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/03/phoxaogion7-1024x681.jpg" width="1024"/></p>
 
-
 <p><span style="color: #000000;">8. Hòa bột năng với khoảng nửa bát con nước lạnh. Trút lại bát thịt bò xào sơ vào lại chảo, đảo đều. Cho bột năng vào chảo, nhanh tay đảo cho bột hòa quyện với hỗn hợp rau thịt. Cho hành lá, rau thơm thái khúc vào chảo, đảo đều và tắt bếp.</span></p>
 <p><span style="color: #000000;"><img alt="" class="aligncenter size-large wp-image-8246" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/03/phoxaogion8-1024x682.jpg" width="1024"/></span></p>
 <p><span style="color: #000000;">9. Cho bánh phở áp chảo giòn 2 mặt lên đĩa, có thể dùng kéo cắt bánh phở thành từng miếng cho dễ ăn. Đổ hỗn hợp thịt bò xào rau lên trên, rắc chút hạt tiêu. Ăn kèm tương ớt và chanh.</span></p>
 <p><span style="color: #000000;">Yêu cầu thành phẩm: Bánh phở được áp chảo có màu vàng ruộm, bên ngoài giòn rụm, bên trong chín mềm. Thịt bò chín mềm ngọt, các loại rau chín vừa độ, không bị nát, màu sắc tươi tắn.</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

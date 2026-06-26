@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/08/BanhQuyLuoiMeo1.jpg"
 description: "Cách làm bánh quy lưỡi mèo với các nguyên liệu đơn giản dễ tìm, nhanh và khả năng thành công cao"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Tình hình là sau gần 6 tuần đi lung tung khắp nơi, cuối cùng mình đã ĐƯỢC về nhà :D/ :D/ :D/</p>
 <p>Chẳng biết có ai đi chơi mà lại mong về nhà như mình không :”&gt; Nhưng quả thật là trong những ngày cuối cùng của đợt nghỉ dài ngày vừa rồi, mình chỉ mong thời gian trôi nhanh nhanh để được về với cái “máng nhợn” ở Antwerp, không rộng rãi gì nhưng lúc nào cũng có cảm giác bình yên, nhẹ nhàng và thoải mái, và đặc biệt là về với cái bếp, với cái tủ lạnh chật cứng đồ ăn và nhất cái lò thơm phức mùi bánh chín ấy . Cứ nghĩ đến việc hàng ngày lại được ăn cơm Việt Nam theo đúng kiểu Việt Nam – chứ không phải cơm Việt Nam lai căng nửa VN nửa Thái hay nửa VN nửa Trung Quốc mua trong nhà hàng Việt là sung sướng ngập tràn rùi ^.^</p>
 <p>Đi vắng tận cả tháng rưỡi, không được đụng vào nồi niêu xoong chảo mấy, ảnh lại càng không chụp, cho nên chắc sẽ cần ít thời gian để quay lại với nhịp làm việc &amp; cuộc sống như trước. Nhưng chắc sẽ nhanh thôi vì đợt vừa rồi mình cũng không dành được nhiều thời gian cho blog và 888 với các bạn, nên đợt tới nhất định là phải “bù” lại rồi ;)</p>
 <p>Cập nhật tình hình một tí, giờ quay lại chủ đề chính của bài hôm nay nhé. Bánh lưỡi mèo (Cat’s tongue hay Langues de Chat) là loại bánh khá dễ làm và đơn giản (độ khó chắc khoảng 1 sao rưỡi/ 5 sao thôi :) ), lại dễ ăn và rất thơm ngon (giòn tan và thơm ngậy mùi bơ, rất thích hợp cho các bữa tiệc trà, hoặc tiệc – cà phê – với mình là đồ ăn cứu đói trong giờ làm việc :D).</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/7752215868/" title="IMG_5642-1 by LinhTrang9185, on Flickr"><img alt="IMG_5642-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7267/7752215868_eb215c24e9_z.jpg" width="427"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7752215868/" title="IMG_5642-1 by LinhTrang9185, on Flickr"><img alt="IMG_5642-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7267/7752215868_eb215c24e9_z.jpg" width="427"/></a></p>
 <p>Công thức làm bánh lưỡi mèo thì có rất nhiều, nhìn chung là cũng na ná nhau. Công thức mà mình sử dụng là được chỉnh sửa từ công thức của Julia Child và Joy of Baking. Công thức cơ bản là bánh vị Vanilla, còn bánh vị trà xanh và cà phê, ca cao là biến tấu. Mình đặc biệt thích vị trà xanh, mang đi mời các đồng nghiệp cũng thích, vì nó mát mát, nhẹ nhẹ, kiểu… hay lắm ấy, chẳng biết tả thế nào nữa :”&gt;</p>
 <p>Cuối cùng, tên gọi của bánh lưỡi mèo xuất phát từ hình dáng của nó, giống lưỡi con mèo, nhưng bột bánh này còn có thể dùng làm bánh nhiều hình dạng khác, tùy theo sự sáng tạo của người làm, có điều là nên làm mỏng một chút thì bánh sẽ giòn ngon hơn là bánh dày – mình thấy như vậy :)</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu </strong></span></p>
@@ -42,10 +38,7 @@ description: "Cách làm bánh quy lưỡi mèo với các nguyên liệu đơn 
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <p>1. Lót giấy nướng bánh vào khay nướng hoặc quét một lớp bơ lạnh rồi rắc một lớp bột mỏng lên khay để chống dính.</p>
 <p>2. Cho bơ (<em>đã để mềm ở nhiệt độ phòng – nhưng không bị chảy</em>) &amp; muối vào âu. Để máy đánh trứng ở tốc độ chậm, đánh khoảng 30-60 giây hoặc đến khi bơ nhuyễn.</p>
-<p>3. Từ từ rây đường vào âu. Tăng máy đánh trứng lên tốc độ gần cao nhất, đánh đều sau mỗi lần thêm đường. Đánh đến khi bơ bông xốp, chuyển sang màu trắng ngà hoặc hơi vàng nhạt (hình 3)</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>3. Từ từ rây đường vào âu. Tăng máy đánh trứng lên tốc độ gần cao nhất, đánh đều sau mỗi lần thêm đường. Đánh đến khi bơ bông xốp, chuyển sang màu trắng ngà hoặc hơi vàng nhạt (hình 3)</p>
 <p>* <em>Nên cho đường từ từ, từng chút một, đánh cho hòa quyện rồi mới thêm đường. Cách này làm đường và bơ dễ hòa quyện hơn, giúp bơ bông xốp nhanh hơn, các bọt khí tạo ra từ bơ bông xốp cũng nhiều và ổn định hơn.</em></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7752216320/" title="Banh luoi meo by LinhTrang9185, on Flickr"><img alt="Banh luoi meo" class="aligncenter" height="400" loading="lazy" src="http://farm9.staticflickr.com/8444/7752216320_8974a8cc3d.jpg" width="500"/></a></p>
 <p>4. Cho hương liệu – nếu có – vào âu bơ, đánh đều. Hương liệu ở đây có thể là vanilla, hoặc các chiết xuất như chiết xuất lá dứa, cà phê,…</p>
@@ -62,7 +55,6 @@ description: "Cách làm bánh quy lưỡi mèo với các nguyên liệu đơn 
 <p>Bánh lưỡi mèo có nhiều bơ nên khi nướng bơ này sẽ chảy ra làm cho bánh có hình dạng dẹt, sau đó bánh mới cứng lại. Một vấn đề hay gặp là bơ chảy ra quá nhanh, làm bánh quá dẹt hoặc có hình dạng không được đẹp mắt. Việc cho bột bánh vào ngăn mát tủ lạnh ở bước 7 là để làm bơ mát, khi đưa vào lò sẽ chảy chậm hơn, giúp hạn chế tình trạng chảy quá nhiều như trên.</p>
 <p>Nhiệt độ và thời gian nướng bánh tùy theo lò mà có thể sẽ khác nhau. Như ở lò nhà mình (52 lít) thì mình nướng ở rãnh chính giữa lò. Sau 7-9 phút, khi bánh đã xong quá trình “chảy bơ” và hơi cứng lại thì mình nâng khay bánh lên một nấc để bánh chín vàng đều. Tuy nhiên, với lò nhỏ thì các bạn cẩn thận với việc điều chỉnh như thế này nhé, vì có thể sẽ làm cháy mặt bánh. Ngoài ra, không nên nướng 2 khay đồng thời vì nhiệt sẽ phân tán không đồng đều giữa các khay, dễ làm bánh bị cháy hoặc sống.</p>
 
-
 <p>Bánh nướng đến khi rìa bánh có màu nâu vàng là được, khoảng 15 phút. Khi nướng xong bánh khá mềm nhưng để ở nhiệt độ phòng một vài phút bánh sẽ cứng giòn Nếu để bên ngoài lâu bánh bị ỉu thì các bạn có thể cho vào lò sấy lại trong khoảng 5-10 phút ở nhiệt độ 110 độ C.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7752216796/" title="1 by LinhTrang9185, on Flickr"><img alt="1" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8433/7752216796_549fd00cf0.jpg" width="500"/></a></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/7752216562/" title="2 by LinhTrang9185, on Flickr"><img alt="2" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8444/7752216562_cb30608317.jpg" width="500"/></a></p>
@@ -70,4 +62,4 @@ description: "Cách làm bánh quy lưỡi mèo với các nguyên liệu đơn 
 <p>——-</p>
 <p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ email: <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi hành động cố tình vi phạm sẽ chịu xử lí theo quy định của pháp luật.</span></strong></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

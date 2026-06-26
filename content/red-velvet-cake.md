@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2013/09/RedVelvetCake1.jpg"
 description: "Red velvet cake, chocolate cake, rose cake, trang trí bánh hoa hồng"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Thanh lịch, sang trọng, quý phái, nhưng đồng thời cũng cực kì sexy, bốc lửa và quyến rũ – đó chỉ có thể là Red Velvet Cake!</p>
 <p>Mê hoặc lòng người không chỉ bằng vẻ ngoài hấp dẫn với phần cốt bánh đỏ rực rỡ xen kẽ giữa những lớp kem trắng muốt mịn màng, Red Velvet Cake còn là sự hòa quyện hoàn hảo của vị cacao đậm đà với kem tươi béo ngậy, cùng chút chua chua, mằn mặn của kem pho-mát. Là món bánh thích hợp cho mọi dịp liên hoan, đãi tiệc, nhưng có lẽ phổ biến nhất vẫn là tiệc mừng đám cưới và ngày lễ Tình nhân (còn gì tuyệt hơn việc bày tỏ tấm lòng mình với bạn ấy bằng một miếng bánh ngọt ngào nhỉ? ;) ).</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/9718633308/" title="02 by LinhTrang9185, on Flickr"><img alt="02" class="aligncenter" height="640" loading="lazy" src="http://farm3.staticflickr.com/2856/9718633308_235396569f_z.jpg" width="427"/></a></p>
 <p><strong><span style="color: #800000;">Dụng cụ</span></strong>: Khuôn tròn đường kính 20-22cm</p>
-<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <p><b>A. Phần cốt bánh </b></p>
 <ul>
 <li><i>240ml sữa tươi không đường</i></li>
@@ -47,10 +43,7 @@ description: "Red velvet cake, chocolate cake, rose cake, trang trí bánh hoa h
 <p>1. Làm nóng lò ở 170 độ C – chế độ 2 lửa. Chống dính thành khuôn bằng bơ hoặc xịt chống dính. Lót một tờ giấy nến hoặc giấy trắng ở đáy khuôn.</p>
 <p>2. Cho 15ml dấm (hoặc nước cốt chanh) vào 240ml sữa tươi. Quấy đều rồi để khoảng 10-15 phút. Sữa sẽ kết tủa tạo ra sản phẩm giống với buttermilk. Các bạn cũng có thể thay hỗn hợp này bằng 240ml buttermilk đóng hộp sẵn.</p>
 <p>3. Rây bột mỳ, bột nở (baking powder) và bột cacao vào bát, dùng phới lồng trộn đều.</p>
-<p>4. Cho bơ vào âu, để máy ở tốc độ vừa, đánh khoảng 1 phút cho bơ mềm. Tăng dần tốc độ máy, từ từ cho đường vào. Đánh đến khi bơ bông xốp, chuyển sang màu trắng ngà.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>4. Cho bơ vào âu, để máy ở tốc độ vừa, đánh khoảng 1 phút cho bơ mềm. Tăng dần tốc độ máy, từ từ cho đường vào. Đánh đến khi bơ bông xốp, chuyển sang màu trắng ngà.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6853686059/" title="2012-02-08 by LinhTrang9185, on Flickr"><img alt="2012-02-08" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7050/6853686059_77297d27be.jpg" width="500"/></a></p>
 <p>5. Để máy ở tốc độ vừa, cho lần lượt từng quả trứng, đánh đều. Cho va-ni, đánh cho hòa quyện. Vét thành và đáy âu.</p>
 <p>6. Cho màu thực phẩm đỏ vào hỗn hợp sữa dấm đã chuẩn bị ở (2), khuấy đều.</p>
@@ -67,7 +60,6 @@ description: "Red velvet cake, chocolate cake, rose cake, trang trí bánh hoa h
 <p><b>C. Hoàn thiện</b></p>
 <p>Sau khi bánh đã nguội hẳn thì cắt bánh làm 2 hoặc 3 lớp. Trét kem vào giữa các lớp và phủ kem đều bên ngoài bánh. Trang trí tùy thích.</p>
 
-
 <p>Để bắt hoa hồng như trong hình, các bạn sử dụng đuôi 1M hoặc 2D của Wilton (đuôi sò mở hoặc sò khép 6 cánh). Đặt túi kem thẳng đứng vuông góc với mặt bánh, bắt xoắn ốc từ trong ra ngoài. Nếu muốn bắt hoa quanh thành bánh, nên để kem trong tủ lạnh tối thiểu 2h để kem thật đặc, bắt hoa sẽ sắc nét và đứng hơn.</p>
 <p>Bánh bảo quản lạnh, dùng ngon nhất là sau khi để bánh trong tủ lạnh qua đêm.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

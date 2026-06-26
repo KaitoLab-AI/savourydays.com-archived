@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2015/05/MochiKem.jpg"
 description: "cách làm mochi kem"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Vỏ bánh dày Mochi với nhân kem lạnh là một trong những sự kết hợp ăn ý và kì diệu nhất trong thế giới đồ ăn mà mình từng biết. Vỏ bánh mềm dẻo dai bọc ngoài nhân kem mát lạnh ngọt lịm người, trời nóng mùa hè có vài viên thì còn gì tuyệt hơn nhỉ :).</p>
 <p>Làm Mochi kem không phải là quá khó về mặt thao tác, vì vỏ Mochi có thể làm được chỉ sau vài phút trộn bột rồi quay trong lò vi sóng. Vấn đề mà mình gặp với Mochi kem là cần dùng bột gì, theo tỉ lệ ra sao để có lớp vỏ vừa dẻo dai nhưng vẫn có độ giòn, và sau khi rã đông thì mềm chứ không cứng hay sượng. Một điểm nữa là nhân kem và vỏ phải có độ tan đá gần như đồng thời, tránh cho vỏ mềm thì nhân thành ra quá mềm, lỏng và nhão như kem tươi đánh bông.</p>
 <p>Vì lí do này mà mình mất kha khá thời gian để thử công thức Mochi kem với các mùi vị khác nhau. Đến giờ thì mới chỉ được 1 công thức gần như hoàn hảo, đạt được tất cả các yêu cầu kể trên là Mochi kem vị sầu riêng thôi. Đã đến mùa sầu riêng rồi, trời cũng nóng rồi nên mình chia sẻ công thức này trước. Các vị khác mình cần thử lại một chút nữa, khi yên tâm là công thức chuẩn rồi thì mình sẽ chia sẻ tại blog nhé.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/17017626944" title="IMG_2024-1 by Trang Linh, on Flickr"><img alt="IMG_2024-1" height="800" loading="lazy" src="https://c2.staticflickr.com/6/5448/17017626944_523c3a4806_c.jpg" width="741"/></a></p>
-<p><span style="color: #800000;"><strong>Mức độ:</strong></span> Trung bình</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Mức độ:</strong></span> Trung bình</p>
 <p><span style="color: #800000;"><strong>Số lượng</strong></span>: 12 – 16 viên Mochi tùy kích thước</p>
 <p><strong><span style="color: #800000;">Nguyên liệu</span></strong></p>
 <p><strong>A. Kem sầu riêng</strong></p>
@@ -39,10 +35,7 @@ description: "cách làm mochi kem"
 <p>Khuôn bằng silicon, mềm dẻo không dính nên làm kem rất thích, khi kem đông xong chỉ cần “bóc” ra là xong.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/17614136976" title="IMG_8522 by Trang Linh, on Flickr"><img alt="IMG_8522" class="aligncenter" height="427" loading="lazy" src="https://c2.staticflickr.com/6/5325/17614136976_0f21cc86b9_z.jpg" width="640"/></a></p>
 <p>Nếu không có khuôn hình cầu thì bạn có thể làm kem vào hộp bình thường, sau đó dùng cây múc kem dạng cầu để múc từng viên kem ra nhé.</p>
-<p>Khi các viên kem đã đông cứng hẳn thì chuẩn bị vỏ sầu riêng.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Khi các viên kem đã đông cứng hẳn thì chuẩn bị vỏ sầu riêng.</p>
 <p>2. Rây bột nếp, bột năng, đường vào bát. Trộn đều. Vét một lỗ trống ở giữa bát, cho các nguyên liệu còn lại (gồm nước cốt dừa, sữa, sầu riêng và chiết xuất sầu riêng nếu có) vào bát. Trộn đều đến khi hỗn hợp hòa quyện, mịn mượt. Lọc qua rây để loại bỏ các vụn bột vón cục.</p>
 <p>3. Cho hỗn hợp bột vào bát dùng trong lò vi sóng có nắp đậy. Hoặc bọc kín bằng nilon dùng cho lò vi sóng. Cho bát vào lò vi sóng nấu. Thời gian nấu sẽ tùy thuộc vào công suất lò. VD: Mình đặt công suất 500W thì nấu trong khoảng 4.5 phút rồi lấy ra ngoài quấy đều, nấu thêm 3.5 – 4 phút nữa là bột chín. Lò công suất cao hơn thì thời gian nấu sẽ ngắn hơn.</p>
 <p>Bột chín sẽ chuyển trong, dai và dẻo. Khi ở trong lò sẽ thấy bột sôi lục bục. Nếm thử không còn thấy vị bột sống nữa.</p>
@@ -59,7 +52,6 @@ description: "cách làm mochi kem"
 <p>6. Cắt bột thành miếng vuông có kích thước gấp rưỡi đường kính của viên kem. Lấy nhân kem ra khỏi tủ đá để chuẩn bị gói. <strong><em>Nếu trời nóng, nên lấy vài viên một, tránh để kem chảy nhanh khi để ở ngoài trời. </em></strong></p>
 <p style="text-align: center;"><em>Bột sau khi cắt </em></p>
 
-
 <p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/17017594924" title="IMG_8534 by Trang Linh, on Flickr"><img alt="IMG_8534" class="aligncenter" height="427" loading="lazy" src="https://c2.staticflickr.com/6/5325/17017594924_70c3eaa5a3_z.jpg" width="640"/></a><em>Kem đã đông cứng hoàn toàn</em></p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/17637713792" title="IMG_8533 by Trang Linh, on Flickr"><img alt="IMG_8533" class="aligncenter" height="427" loading="lazy" src="https://c1.staticflickr.com/9/8806/17637713792_1ddb54300e_z.jpg" width="640"/></a></p>
 <p>7. Đặt viên kem vào giữa miếng bột, túm các góc miếng bột và dính lại. Làm tiếp với các phần bột và kem còn lại.</p>
@@ -70,4 +62,4 @@ description: "cách làm mochi kem"
 <p><a href="https://www.flickr.com/photos/55490207@N05/17637688072" title="IMG_8544 by Trang Linh, on Flickr"><img alt="IMG_8544" class="aligncenter" height="427" loading="lazy" src="https://c2.staticflickr.com/8/7799/17637688072_8b525fcdef_z.jpg" width="640"/></a></p>
 <p>(*) <em>Bột vỏ mochi theo công thức này rất mềm và không quá dai hay dính, rất dễ gói. Nhưng để việc gói kem được dễ và nhanh thì các bạn lưu ý là nhân kem cần phải rất lạnh, kiểu đông và khô như đá viên vậy. Ngoài ra, không nên để kem dính vào mép bột, sẽ khó dính các mép này lại với nhau.</em></p>
 <p>8. Dùng nilon bọc thực phẩm, bọc từng viên bánh, để lại vào ngăn đá. Bảo quản trong ngăn đá, khi ăn lấy ra ngoài để ở nhiệt độ phòng trong khoảng 10 – 25 phút (tùy trời nóng hay mát) cho bột mềm và đỡ lạnh hơn.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

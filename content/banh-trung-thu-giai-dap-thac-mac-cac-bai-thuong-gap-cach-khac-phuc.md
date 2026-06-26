@@ -12,10 +12,7 @@ description: "bánh nướng trung thu, sên nhân bánh, vỏ bánh nướng, k
 <p><em><span style="color: #ff0000;">* Bài viết mang tính chất chia sẻ kinh nghiệm và phi lợi nhuận. Các bạn có thể lưu lại để dùng tham khảo. Vui lòng không đăng tải lại tại bất kì địa chỉ nào khác. </span></em></p>
 <p>———————–</p>
 <p><strong><span style="color: #000000;">A. Trứng muối</span> (<a href="/trung-muoi/">Cách làm trứng muối</a>)</strong></p>
-<p>Với mình, trứng muối giúp cho mùi vị của bánh trung thu ngon hơn rất nhiều. Vị bùi béo và hơi mằn mặn của trứng muối phù hợp với cả nhân ngọt lẫn nhân mặn của bánh trung thu. Thông thường, <em><span style="color: #0000ff;">trứng muối sau khoảng 3 – 4 tuần là có thể dùng được</span></em>. <span style="color: #0000ff;"><em>Trứng muối đạt sẽ có lòng đỏ cứng và màu đỏ tươi hoặc gần sẫm, thơm các vị gừng, hồi, quế.</em></span>.. Lòng trắng của trứng muối rất mặn nên thường bỏ đi, chỉ lấy lòng đỏ. Lò<em><span style="color: #0000ff;">ng đỏ này có thể nướng hoặc hấp chín, hoặc để sống, trộn với ít dầu ăn rồi trữ đông lạnh trong 2 – 3 thán</span></em>g.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Với mình, trứng muối giúp cho mùi vị của bánh trung thu ngon hơn rất nhiều. Vị bùi béo và hơi mằn mặn của trứng muối phù hợp với cả nhân ngọt lẫn nhân mặn của bánh trung thu. Thông thường, <em><span style="color: #0000ff;">trứng muối sau khoảng 3 – 4 tuần là có thể dùng được</span></em>. <span style="color: #0000ff;"><em>Trứng muối đạt sẽ có lòng đỏ cứng và màu đỏ tươi hoặc gần sẫm, thơm các vị gừng, hồi, quế.</em></span>.. Lòng trắng của trứng muối rất mặn nên thường bỏ đi, chỉ lấy lòng đỏ. Lò<em><span style="color: #0000ff;">ng đỏ này có thể nướng hoặc hấp chín, hoặc để sống, trộn với ít dầu ăn rồi trữ đông lạnh trong 2 – 3 thán</span></em>g.</p>
 <p>Lọ để muối trứng<em><span style="color: #0000ff;"> nên dùng lọ thủy tinh hoặc sành sứ</span> </em>sẽ tốt hơn lọ nhựa do nồng độ muối trong nước khá cao. Luôn phải có một <span style="color: #0000ff;"><em>tấm nan tre hoặc vật nặng chèn miệng lọ (ví dụ túi nilon đựng nước) để trứng luôn chìm trong nước.</em></span> Trứng nổi trên mặt nước sẽ dễ bị thối hoặc mốc. Một quả hỏng có thể ảnh hưởng đến cả lọ.</p>
 <p>Nếu trong quá trình muối phát hiện thấy có quả hỏng hoặc trong nước có dấu hiệu lạ (nổi váng..): Nếu phát hiện sớm và dấu hiệu không quá nghiêm trọng thì bỏ phần hỏng và đổ nước đi, nấu lại nước mới. Cẩn thận hơn có thể đập thử một quả khác trong lọ để kiểm tra, nếu trứng thơm, lòng đỏ có dấu hiệu cứng lại thì không vấn đề gì.</p>
 <p><span style="color: #0000ff;"><em>Để trứng trong nhân bánh tròn đẹp, nên muối trứng hơi “già” một chút cho trứng cứng hẳn,</em></span> khi đóng bánh trứng sẽ ít bị méo hơn.</p>
@@ -25,10 +22,7 @@ description: "bánh nướng trung thu, sên nhân bánh, vỏ bánh nướng, k
 <p>Địa chỉ và giá thành các nguyên liệu cho vào rượu MQL ở Việt Nam đã được một số bạn chia sẻ trong phần phản hồi của bài về rượu MQL. Nên cố gắng mua được đủ nguyên liệu, còn nếu không thể thì cũng không phải là vấn đề rất lớn.</p>
 <p>Rượu MQL mình tự ngâm sẽ hơi khác với rượu MQL của Trung Quốc một chút. Theo mình thấy thì rượu tự ngâm có mùi vị kiểu Việt Nam đặc trưng hơn và cũng rẻ hơn.</p>
 <p><strong>C. Khuôn bánh &amp; lò nướng (<a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/">Cách chọn khuôn bánh trung thu</a>)</strong></p>
-<p>Về khuôn bánh, <em><span style="color: #0000ff;">thường thì mình dùng hai loại 50 gr và 75 gr</span> </em>do cảm giác bánh nhỏ dễ ăn và ít ngán hơn bánh to. Khuôn dễ dùng nhất có lẽ là loại khuôn nhựa không lò xo, chỉ cần ấn bánh vào khuôn rồi tháo nắp để lấy ra. Nếu dùng khuôn lò xo và chưa thạo đóng bánh thì chọn khuôn tròn sẽ dễ đóng bánh đẹp hơn khuôn vuông. Nếu là bánh nướng, nên chọn khuôn có vết khắc sâu để bánh được sắc nét.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Về khuôn bánh, <em><span style="color: #0000ff;">thường thì mình dùng hai loại 50 gr và 75 gr</span> </em>do cảm giác bánh nhỏ dễ ăn và ít ngán hơn bánh to. Khuôn dễ dùng nhất có lẽ là loại khuôn nhựa không lò xo, chỉ cần ấn bánh vào khuôn rồi tháo nắp để lấy ra. Nếu dùng khuôn lò xo và chưa thạo đóng bánh thì chọn khuôn tròn sẽ dễ đóng bánh đẹp hơn khuôn vuông. Nếu là bánh nướng, nên chọn khuôn có vết khắc sâu để bánh được sắc nét.</p>
 <p>Khuôn của mình mang từ Việt Nam sang, nhưng mình cũng có mua được thêm khuôn từ Amazon và Ebay, bạn nào ở nước ngoài có thể tìm kiếm “mooncake mold” nhé. Nếu không có khuôn, vẫn có thể làm được bằng cách nặn hình các con thú như heo, chó, thỏ…</p>
 <p><em><span style="color: #0000ff;">Mình luôn dùng lò nướng để nướng mọi loại bánh</span></em>. Các lò thủy tinh, vi sóng, lò halogen nồi nướng thường chỉ có một lửa phía trên nắp hoặc phía dưới. Điều này dễ làm cho phần mặt bánh tiếp xúc với lửa trên (rất nóng) sẽ dễ bị cháy, trong khi ở phía dưới không có nhiệt sẽ bị sống. Mình không có kinh nghiệm gì với việc nướng bánh trong các loại dụng cụ này. Mặc dù khi nướng có thể lật mặt bánh để bánh chín đều, nhưng bánh trung thu thường nướng trong thời gian ngắn và khi còn nóng thì vỏ bánh rất mềm nên nếu lật không khéo mặt bánh sẽ bị hỏng.</p>
 <p><strong>D. Nước đường bánh nướng (<a href="/banh-trung-thu-cach-nau-nuoc-duong-cho-banh-nuong/">Cách nấu nước đường cho bánh nướng</a>)</strong></p>
@@ -44,7 +38,6 @@ description: "bánh nướng trung thu, sên nhân bánh, vỏ bánh nướng, k
 <p><span style="color: #0000ff;"><em>M</em></span><em style="color: #0000ff;">ục đích của việc sên nhân là rút bớt nước trong hỗn hợp đi, thay vào bằng dầu ăn, đường và mạch nha (nếu có)</em>. <span style="color: #0000ff;"><em>Nhân càng được sên kĩ (ở lửa nhỏ) để nước bay hơi nhiều và càng ngấm dầu thì càng dẻo</em></span>. Dầu (và mạch nha) có thể ví như chất kết nối tinh bột trong nhân, giúp cho nhân tuy không có nước nhưng không bị khô hay bứ.</p>
 <p>Nói cách khác, <span style="color: #0000ff;"><em>để nhân được mềm dẻo thì phải có dầu ăn trong nhân và càng ít nước càng tốt</em></span>. Có một lưu ý trong quá trình sên là khi nhân càng khô thì sẽ càng khó hòa quyện với các nguyên liệu khác như dầu ăn hay mạch nha. Vì vậy nên<span style="color: #0000ff;"><em> cần cho dầu ăn (và các nguyên liệu khác) vào khi nhân vẫn còn loãng</em></span>. Và quấy liên tục để các nguyên liệu được hòa quyện.</p>
 <p>Đôi khi, mọi người sên nhân xong thấy dầu bám nhiều ở bên ngoài thì nghĩ rằng mình đã cho quá nhiều dầu và tự động giảm bớt dầu đi. <span style="color: #0000ff;"><em>Nguyên nhân thực ra không phải là do quá nhiều dầu mà là do cho dầu chậm</em></span>, khi nhân đã bắt đầu khô, làm cho tinh bột khó hút và hòa quyện với dầu. “Chữa” bằng cách giảm dầu thậm chí có thể gây tác dụng ngược, vì khi cho ít dầu hơn, nhân sẽ kém mềm dẻo, mặc dù để nguội vẫn khô và đứng, đủ để đóng bánh, nhưng khi cắt ra sẽ dễ bị bở, ăn thấy bứ.</p>
-
 
 <p><span style="color: #0000ff;"><em>Cách phòng tránh hiện tượng nhân bị khô tốt nhất, theo mình nghĩ, là sên nhân ở lửa nhỏ và cho dầu ăn vào khi nhân còn loãng.</em></span> Nếu bạn dùng bếp ga, lửa thường nóng hơn bếp bình thường, thì nên cho dầu vào trong giai đoạn đầu, và có thể cho nhiều nước hơn một chút. Khi nhân đã bắt đầu đặc, quấy thấy nặng tay thì hạ lửa nhỏ và không cho thêm gì nữa. Sên đến khi nhân vừa dẻo mềm thì bắc xuống. Vì nếu nhân đã khô rồi mà vẫn tiếp tục sên thì cũng có thể bị chảy dầu.</p>
 <p>Bột bánh dẻo cho vào sẽ giúp nhân đứng và dễ nặn hơn, nhưng không nên cho quá nhiều vì cũng dễ làm nhân bị khô và bở.</p>
@@ -115,9 +108,6 @@ description: "bánh nướng trung thu, sên nhân bánh, vỏ bánh nướng, k
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

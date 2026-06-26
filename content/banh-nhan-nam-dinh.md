@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2015/01/BanhNhanNamDinh.jpg"
 description: "bánh nhãn Nam Định, cách làm bánh nhãn"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Mải công việc quá chẳng để ý thời gian. Hôm qua xem lịch mới nhận ra tháng 1 đã đi qua hết một phần ba rồi. Những ngày này, vừa mong thời gian trôi nhanh hơn, vừa mong thời gian trôi chậm lại. Nhanh hơn để chóng nhìn thấy những đứa con tinh thần mà mình đã “thai nghén” trong hàng chục tháng trời. Còn chậm hơn vì biết khi có thể được gặp chúng cũng sẽ là lúc có rất nhiều thay đổi xảy ra và một giai đoạn mới sẽ bắt đầu. Tốt hơn hay xấu hơn, chưa thực sự biết được. Nhưng có một điều là chắc chắn mình sẽ phải nói lời tạm biệt với rất nhiều thứ mà mình đã rất quen thuộc và yêu mến…</p>
 <p>Thời gian vừa rồi bận bịu nhiều thứ nên mình cũng có ít thời gian vào bếp hơn. Nhưng chắc sẽ phải cố gắng quay lại sớm thôi. Vì chỉ còn khoảng một tháng nữa là đến Tết Nguyên Đán rồi. Sẽ lại có dịp để “bày bừa” bao nhiêu là món ngon. Như món bánh nhãn này chẳng hạn. Hồi làm món này lần đầu tiên, mình thật sự thắc mắc sao các ông bà hồi xưa “siêu” quá, nghĩ ra món ăn đơn giản mà lại quá ngon miệng như thế này. Bánh chỉ được làm từ bột và trứng rồi chiên lên, thế mà giòn tan, hơi ngòn ngọt và bùi bùi. Bánh rán ngập trong dầu mà không ngấy tí nào. Ngồi nhấm nháp vui miệng mà không để ý thì có khi hết cả rổ lúc nào không hay. Hơi giống kiểu bánh bi zon zon ngày xưa mình thích, nhưng bánh nhãn bùi và đậm đà hơn. Bánh có thể để lâu nên để tiếp khách đợt Tết mình nghĩ chắc sẽ rất hợp.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/16066958860" title="IMG_9846 by Trang Linh, on Flickr"><img alt="IMG_9846" class="aligncenter" height="333" loading="lazy" src="https://farm9.staticflickr.com/8586/16066958860_e685c3efa4.jpg" width="500"/></a></p>
 <p><span style="color: #800000;"><strong>Nguyên liệu </strong></span></p>
-<p><em>Phần nguyên liệu này làm được khoảng 50 – 70 viên tùy kích cỡ to nhỏ. Các bạn có thể tăng lên nhiều hơn tùy thích nhé. </em></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><em>Phần nguyên liệu này làm được khoảng 50 – 70 viên tùy kích cỡ to nhỏ. Các bạn có thể tăng lên nhiều hơn tùy thích nhé. </em></p>
 <p><strong>A. Phần bánh</strong></p>
 <ul>
 <li><em>60 gram trứng (1 quả trứng gà công nghiệp hoặc 2 quả trứng gà ta)</em></li>
@@ -37,10 +33,7 @@ description: "bánh nhãn Nam Định, cách làm bánh nhãn"
 <p><a href="https://www.flickr.com/photos/55490207@N05/16228424026" title="IMG_7970 by Trang Linh, on Flickr"><img alt="IMG_7970" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7574/16228424026_114361b7e0.jpg" width="500"/></a></p>
 <p>Sau khi trộn xong, ta sẽ có một khối bột dẻo mịn và <strong>không dính tay. </strong>Nếu khối bột còn ướt thì các bạn có thể cho thêm chút bột nếp. Nếu khối bột quá khô và bở thì cho thêm chút nước.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/16252491891" title="IMG_7955 by Trang Linh, on Flickr"><img alt="IMG_7955" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7537/16252491891_1d1ba3cdd4.jpg" width="500"/></a></p>
-<p>Lượng bột nếp sẽ thay đổi tùy theo loại bột bạn sử dụng (do mỗi loại bột hút nước nhiều ít khác nhau). Các bạn có thể dùng bột nếp tự xay từ gạo. Tuy nhiên cần điều chỉnh lượng bột, miễn sao sau khi trộn xong ta có một khối bột không dính tay là được.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Lượng bột nếp sẽ thay đổi tùy theo loại bột bạn sử dụng (do mỗi loại bột hút nước nhiều ít khác nhau). Các bạn có thể dùng bột nếp tự xay từ gạo. Tuy nhiên cần điều chỉnh lượng bột, miễn sao sau khi trộn xong ta có một khối bột không dính tay là được.</p>
 <p>3. Lấy một phần bột nhỏ, vê thành viên tròn. Khi rán bột sẽ nở gấp 3 – 4 lần nên vê bột nhỏ một chút thì bánh sẽ vừa miệng và xinh xắn hơn. Viên bột nhỏ rán cũng nhanh chín và dễ giòn lâu hơn là viên bột to.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/16252491641" title="IMG_7956 by Trang Linh, on Flickr"><img alt="IMG_7956" class="aligncenter" height="333" loading="lazy" src="https://farm9.staticflickr.com/8561/16252491641_1689c87df5.jpg" width="500"/></a></p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/16066804848" title="IMG_7957 by Trang Linh, on Flickr"><img alt="IMG_7957" class="aligncenter" height="333" loading="lazy" src="https://farm9.staticflickr.com/8667/16066804848_6f558e4c82.jpg" width="500"/></a></p>
@@ -61,7 +54,6 @@ description: "bánh nhãn Nam Định, cách làm bánh nhãn"
 <p><a href="https://www.flickr.com/photos/55490207@N05/16254330975" title="IMG_7968 by Trang Linh, on Flickr"><img alt="IMG_7968" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7524/16254330975_dd85b46659.jpg" width="500"/></a></p>
 <p>Nhanh tay đảo đều rồi bắc ra khỏi bếp. Tiếp tục đảo đến khi đường khô lại hoàn toàn.</p>
 
-
 </div>
 <p><a href="https://www.flickr.com/photos/55490207@N05/16066803168" title="IMG_7969 by Trang Linh, on Flickr"><img alt="IMG_7969" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7559/16066803168_a43e803e97.jpg" width="500"/></a></p>
 <p>Với phần đường này, các bạn có thể thêm các loại hương liệu tùy thích, chẳng hạn như mình có làm một ít với đường vàng và bột quế (cách làm cũng như trên), mùi vị bánh rất thơm, ăn trời lạnh hợp.</p>
@@ -75,4 +67,4 @@ description: "bánh nhãn Nam Định, cách làm bánh nhãn"
 <div>– Bánh nhãn đúng kiểu sẽ có ruột đặc, giòn (có thể hơi cứng một chút) và giòn từ trong ra ngoài, không có một tí xíu dẻo nào trong ruột nhé. Bánh làm đủ giòn thì có thể để khá lâu, một vài tuần mà không bị dai hay ỉu.</div>
 <div>– Nếu bánh của bạn bị ỉu hay dai sớm thì nguyên nhân có thể là bạn rán bánh chưa đủ kĩ để bánh chín hoàn toàn. Việc này nghe thì đơn giản nhưng khá là khó vì đôi khi nếm thử, vì vỏ ngoài bánh đã giòn rồi nên nhiều khi làm ta không nhận ra được rằng trong ruột bánh chưa thực sự giòn hẳn, vẫn còn chỗ dai.</div>
 <div>Túm lại là cần phải kiên trì rán bánh kĩ thì vỏ bánh sẽ giòn thôi. Bạn nào làm bánh chưa được như ý muốn thì đừng nản, thử lại xem sao nhé. Chúc các bạn thành công :)</div>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

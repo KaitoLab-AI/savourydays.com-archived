@@ -19,10 +19,7 @@ description: "Quà tăng ngọt ngào, savoury days, sheila crafts, sách dạy 
 <li><span class="Apple-style-span" style="line-height: 13px;">Nhà sách Thăng Long<br/>
 </span></li>
 </ul>
-<p>* <strong>Các tỉnh thành phố khác và nước ngoài:</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>* <strong>Các tỉnh thành phố khác và nước ngoài:</strong></p>
 <ul>
 <li><a href="http://tiki.vn/"><span class="Apple-style-span" style="line-height: 13px;">www.tiki.vn</span></a></li>
 <li><a href="http://www.vinabook.com/">www.vinabook.com </a></li>
@@ -36,9 +33,6 @@ description: "Quà tăng ngọt ngào, savoury days, sheila crafts, sách dạy 
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

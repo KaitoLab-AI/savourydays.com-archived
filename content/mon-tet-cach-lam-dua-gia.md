@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2019/01/duagia4.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Một món dưa cực kỳ dễ làm, nhanh được ăn, màu sắc lại đẹp mắt, cả ngon miệng nữa chứ, nguyên liệu thì sẵn có trong ngày Tết, chỉ cần rửa rửa, trộn trộn 1 tí là xong, có ngay 1 đĩa rau dưa kiểu muối xổi ăn kèm với các món thịt nhiều đạm ngày tết, tội gì không thử các bạn nhỉ?</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7907" height="684" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/duagia_final-1024x684.jpg" width="1024"/></p>
 <p><span style="color: #000000;"><span style="color: #800000;"><strong>Nguyên liệu</strong></span>:</span></p>
@@ -23,10 +22,7 @@ description: ""
 <li><em><span style="color: #000000;">Hũ thủy tinh to đựng dưa</span></em></li>
 </ul>
 <p><span style="color: #800000;"><strong>Cách làm:</strong></span></p>
-<p><span style="color: #000000;">1. Sơ chế nguyên liệu:</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">1. Sơ chế nguyên liệu:</span></p>
 <p><span style="color: #000000;">– Giá đỗ rửa sạch, vẩy thật khô</span></p>
 <p><span style="color: #000000;">– Hành, hẹ cắt bỏ rễ, rửa sạch, vẩy khô</span></p>
 <p><span style="color: #000000;">– Cà rốt nạo vỏ, thái chỉ</span></p>
@@ -36,9 +32,6 @@ description: ""
 <p><span style="color: #000000;">– Để thật nguội</span></p>
 <p><span style="color: #000000;">3. Cho giá đỗ, hành, hẹ và cà rốt vào âu to, đổ nước ngâm đã nguội hẳn vào, trộn nhẹ nhàng cho đều.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7910" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/duagia3-1024x683.jpg" width="1024"/></p>
-<p><span style="color: #000000;">4. Chuyển hỗn hợp vào lọ đựng, đổ hết phần nước dấm đường vào. Dùng phên hoặc que tre gài vào thành lọ sao cho tất cả nguyên liệu được ngập trong nước. Đậy kín nắp lọ đựng.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">4. Chuyển hỗn hợp vào lọ đựng, đổ hết phần nước dấm đường vào. Dùng phên hoặc que tre gài vào thành lọ sao cho tất cả nguyên liệu được ngập trong nước. Đậy kín nắp lọ đựng.</span></p>
 <p><span style="color: #000000;">5. Ngâm dưa từ 1-2 ngày (tùy thời tiết) là có thể ăn được</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

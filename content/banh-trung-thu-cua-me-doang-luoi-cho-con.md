@@ -12,10 +12,7 @@ description: "Cách làm bánh dẻo đơn giản, dành cho những bạn chưa
 <p>Sau một hồi tư vấn thì mình chợt nghĩ có thể nhiều bà mẹ khác cũng ở trong tình huống giống như cô bạn mình. Bé con có lẽ không đòi nhưng mẹ vẫn muốn làm gì đó cho con nhân dịp Tết. Mua bánh thì tất nhiên là dễ rồi. Nhưng điều quan trọng đâu phải ở cái bánh mà là khoảng thời gian ở cùng con, chơi vui cùng con. Vậy nên mình ghi lại những thứ mà mình tư vấn cho cô bạn, và cả hộp bánh mình làm mẫu cho bạn ấy nữa. Hy vọng sẽ có thể tiếp thêm tự tin, cảm hứng và cả sự dũng cảm cho các bà mẹ không có nhiều thời gian và không khoái công việc bếp núc, nhưng vẫn muốn thử làm bánh cùng con và cho con trong mùa Trung thu này nhé <span class="_47e3 _5mfr" title="smile emoticon"><img alt="" class="img" height="16" loading="lazy" src="https://www.facebook.com/images/emoji.php/v9/f4c/1/16/1f642.png" width="16"/><span class="_7oe">:)</span></span></p>
 <p>Bánh mà mình chọn cho cô bạn là bánh dẻo Singapore (bánh dẻo tuyết/ bánh dẻo lạnh). Lý do chính gồm:</p>
 <p>(1) bánh dẻo không cần lò nướng vì bột bánh dẻo được xay từ gạo nếp đã nổ bỏng chín rồi. Cho nên làm xong bánh là có thể ăn luôn, không cần nấu nướng gì cả</p>
-<p>(2) bánh dẻo Sing rất rất dễ làm, trộn bột đơn giản, không phải căn chỉnh như bánh dẻo truyền thống, thậm chí cả nước đường cũng chẳng cần phải chuẩn bị trước, có khi chỉ tầm 10 phút thôi là đã trộn xong bột, rồi đóng khuôn là xong</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>(2) bánh dẻo Sing rất rất dễ làm, trộn bột đơn giản, không phải căn chỉnh như bánh dẻo truyền thống, thậm chí cả nước đường cũng chẳng cần phải chuẩn bị trước, có khi chỉ tầm 10 phút thôi là đã trộn xong bột, rồi đóng khuôn là xong</p>
 <p>(3) bánh dẻo Sing để lạnh nên vỏ mát, mềm, dẻo, rất thơm ngon, lại có thể điều chỉnh lượng đường nếu nhà không thích ăn đồ ngọt.</p>
 <p>Dụng cụ làm bánh dẻo Sing cũng đơn giản. Mình gợi ý với bạn bộ khuôn mini như trong hình dưới. Khuôn này vốn để ép cơm cho cơm hộp Nhật Bản (bento), nhưng dùng làm bánh trung thu cũng hợp, đơn giản nhưng hoa văn sắc nét, không dễ mất phom dáng hay hoa văn. Khuôn không cần chống dính, úp ngược gõ một cái là bánh tự rơi ra. Hình thù thì dễ thương mà thao tác dễ dàng nên hai mẹ con có thể làm cùng nhau luôn (đảm bảo là bé con sẽ rất thích <span class="_47e3 _5mfr" title="smile emoticon"><img alt="" class="img" height="16" loading="lazy" src="https://www.facebook.com/images/emoji.php/v9/f4c/1/16/1f642.png" width="16"/><span class="_7oe">:)</span></span> ).</p>
 <p>Công thức làm bánh dẻo Sing thì đã có tại SD, có cả video hướng dẫn, chỉ cần xem video và làm theo là được (yên tâm là làm hỏng còn khó hơn làm thành công <span class="_47e3 _5mfr" title="grin emoticon"><img alt="" class="img" height="16" loading="lazy" src="https://www.facebook.com/images/emoji.php/v9/f51/1/16/1f603.png" width="16"/><span class="_7oe">:D</span></span>): <a data-ft='{"tn":"-U"}' data-lynx-mode="origin" href="/video-cach-lam-banh-deo-lanh-singapore/" rel="noopener noreferrer" target="_blank">/video-cach-lam-banh-deo-lanh-si…/</a></p>
@@ -59,9 +56,6 @@ description: "Cách làm bánh dẻo đơn giản, dành cho những bạn chưa
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

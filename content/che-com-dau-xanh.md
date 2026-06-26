@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2011/06/Che-com-dau-xanh.jpg"
 description: "Học cách làm chè cốm đậu xanh thơm ngon cùng Savoury Days. Cốm là loại đặc sản của mùa Thu Hà Nội, có thể làm rất nhiều món ngon như chè, cốm xào, bánh cốm"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Mới nhận được nửa kg cốm tiếp viện từ nhà cho nên phải mang ra làm ngay không có để lâu nó “nguội” mất :D Nhân tiện mấy hôm nay ở bên này đang nắng nóng điên cuồng, thành ra nấu bát chè cốm đậu xanh “giải nhiệt” luôn ;). Kể ra giá có ít bột sắn thì chắc chắn sẽ mình sẽ làm chè cốm, vừa thơm vừa mát. Nhưng mà chẳng có nên đành dùng bột năng thay thế vậy, sẵn nhà lại có nhiều đậu xanh nên bỏ thêm thử ít đậu xanh vào nữa, và thế là mình có một món chè kết hợp cốm – đậu xanh ^.^</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5877035733/" title="Chè cốm đậu xanh by LinhTrang9185, on Flickr"><img alt="Chè cốm đậu xanh" class="aligncenter" height="500" loading="lazy" src="http://farm6.static.flickr.com/5315/5877035733_685397f666.jpg" width="349"/></a></p>
 <p style="text-align: center;"><em>(ảnh chụp lúc 9h tối nên ánh sáng xấu quá &gt;.&lt;)</em></p>
 <p>Tại vì nấu nhanh để làm món tráng miệng nên lần này không có ảnh các bước, cũng như là chẳng có định lượng cụ thể gì cả, sozi cả nhà nha… Nhưng mình nghĩ chắc là cũng không cần thiết lắm vì món này đơn giản ý mà, nguyên liệu cũng có thể cho nhiều hoặc ít tùy ý thích của các bạn nhé ;)</p>
 <h2>CÁCH LÀM CHÈ CỐM ĐẬU XANH</h2>
-<p><strong>Nguyên liệu</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>Nguyên liệu</strong></p>
 <ul>
 <li><em>2 nắm đậu xanh đã cà vỏ</em></li>
 <li><em>2 nắm cốm khô</em></li>
@@ -36,7 +32,4 @@ description: "Học cách làm chè cốm đậu xanh thơm ngon cùng Savoury D
 <p>Chè chín vừa ăn thì bắc ra khỏi bếp, thêm đường nếu cần. Cho vani hoặc tinh dầu hoa bưởi (mình dùng cốm khô nên gần như chẳng còn mùi cốm gì hết, không rõ cốm tươi có thơm hơn không, nếu cốm tươi đã thơm rồi thì chắc là không cần cho thêm vani đâu :) ). Khi ăn múc chè ra bát, chan nước cốt dừa lên trên.</p>
 <p><strong><em>Yêu cầu thành phẩm</em></strong>: Chè dẻo vị cốm, thơm mùi đậu xanh và va ni, ngầy ngậy beo béo của nước cốt dừa. Ăn nóng hoặc lạnh đều ngon cả :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5874081596/" title="Chè cốm đậu xanh by LinhTrang9185, on Flickr"><img alt="Chè cốm đậu xanh" class="aligncenter" height="500" loading="lazy" src="http://farm6.static.flickr.com/5234/5874081596_c3f3e79380.jpg" width="346"/></a></p>
-<div align="center" id="google-ads-body-post-end">
 
-
-</div><!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

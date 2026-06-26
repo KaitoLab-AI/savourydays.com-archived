@@ -21,10 +21,7 @@ description: ""
 <li><a href="https://www.facebook.com/henry.tran.792197?fref=ufi">Vy Vy</a></li>
 <li><a href="https://www.facebook.com/hoangtrang.dang?fref=ufi">Đặng Hoàng Trang</a></li>
 </ol>
-<p>Nhờ mọi người gửi giúp mình thông tin gồm họ tên, địa chỉ và số điện thoại vào địa chỉ mail savourydaysvn@gmail.com nhé. Mình sẽ chuyển lại và nhờ Nhã Nam gửi quà đến các bạn sớm nhất có thể.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Nhờ mọi người gửi giúp mình thông tin gồm họ tên, địa chỉ và số điện thoại vào địa chỉ mail savourydaysvn@gmail.com nhé. Mình sẽ chuyển lại và nhờ Nhã Nam gửi quà đến các bạn sớm nhất có thể.</p>
 <p>Về lịch thì hiện tại đã có ở các trụ sở của Nhã Nam tại Hà Nội, nếu các bạn muốn mua trực tiếp thì có thể tới một trong các địa chỉ sau:</p>
 <div>– Hiệu sách Nhã Nam, 59 Đỗ Quang (ngõ 61 Trần Duy Hưng cũ), mở cửa từ 8h00 – 19h00 tất cả các ngày trong tuần.</div>
 <div>– Hiệu sách Nhã Nam, số 22, chung cư B14, dưới chân cầu đi bộ ngã ba Phạm Ngọc Thạch – Lương Định Của, mở cửa từ 8h00 – 22h00 tất cả các ngày trong tuần.</div>
@@ -47,9 +44,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2013/11/BanhMiHokkaido.jpg"
 description: "bánh mì sữa mềm, bánh mì hokkaido, cách làm bánh mì ngon"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><em><span style="color: #ff0000;">Nếu bạn là “người mới” trong lĩnh vực “làm bánh mì” thì trước khi bắt tay vào làm thứ một công thức bất kì, hãy dành ra đôi ba phút để đọc thông tin mà mình đã chia sẻ trong các bài viết dưới đây nhé</span> </em></p>
 <ol>
 <li>Phân biệt các loại bột làm bánh, cách sử dụng, thay thế các loại bột : <a href="/?p=1997">Phần 1</a> – <a href="/?p=2022">Phần 2</a></li>
@@ -25,10 +24,7 @@ description: "bánh mì sữa mềm, bánh mì hokkaido, cách làm bánh mì ng
 <p>—————————————————–</p>
 <p>Đây là một loại bánh mì cực cực ngon, rất rất ngon. Bánh có một phần nguyên liệu là kem tươi nên ngay từ khi nhồi đã thấy thơm mùi kem sữa rồi. Còn lúc nướng lên thì … khỏi phải nói, cả căn bếp cứ gọi là thơm lừng luôn. Chỉ hơi tiếc là đã rất rất lâu rồi mình mới lại làm bánh mì, và đợt này sức khỏe không được ổn lắm nên nhồi bột cũng chưa thật đạt. Cho nên phần ruột bánh chưa được như ý muốn. NHƯNG, kể cả khi chưa đạt thì bánh cũng đã “siêu” ngon rồi, nên công thức này mình nhất định phải ghi lại để sau này còn làm nhiều nữa.</p>
 <p>Bánh mì sữa Hokkaido không phải là loại bánh mì mới, rất nhiều chị em đã thử nó từ cách đây 2, 3 năm. Có hai công thức, một công thức làm như bánh mì bình thường, một công thức dùng bột Tangzhong (hay Water roux). Mình giới thiệu công thức làm theo cách nhào bình thường trước, phần Tangzhong mình sẽ làm và ghi chú lại trong một bài khác. Lý do tại sao mình muốn giới thiệu công thức “thông thường” trước là vì mình nghĩ công thức này sẽ tiện cho các bạn không có nhiều thời gian và các bạn mới học làm bánh, chưa có nhiều kinh nghiệm. Và công thức này thật sự rất ngon, có thể dùng làm nhiều loại bánh khác nhau như bánh mì gối vuông hay làm bánh mì nhỏ có nhân kem trứng, nhân xúc xích, thịt nguội, phô mai…  Và còn một lí do nữa là mình nghĩ so với bánh làm theo kĩ thuật Tangzhong, công thức này có nhiều dinh dưỡng hơn. Lý do cụ thể thì mình sẽ giải thích sau nhé.</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/10722414235/" title="IMG_3774-1 by LinhTrang9185, on Flickr"><img alt="IMG_3774-1" class="aligncenter" height="640" loading="lazy" src="http://farm4.staticflickr.com/3666/10722414235_e1fa020d98_z.jpg" width="427"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/10722414235/" title="IMG_3774-1 by LinhTrang9185, on Flickr"><img alt="IMG_3774-1" class="aligncenter" height="640" loading="lazy" src="http://farm4.staticflickr.com/3666/10722414235_e1fa020d98_z.jpg" width="427"/></a></p>
 <p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: 2 khuôn loaf hoặc 2 khuôn bánh mì gối dài 25cm</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu </strong>(tham khảo từ <a href="http://schneiderchen.de/237Hokkaido-Milky-Loaf.html">Angie’s recipes</a>)</span></p>
 <ul>
@@ -50,10 +46,7 @@ description: "bánh mì sữa mềm, bánh mì hokkaido, cách làm bánh mì ng
 <p>(*) <span style="color: #0000ff;">Vì sau gần 2 năm, công thức bánh mì Hokkaido vẫn được các bạn độc giả của SD đặc biệt yêu thích nhờ hương vị thơm ngon của bánh nên tháng 11/2015 mình làm video hướng dẫn cách làm bánh, bao gồm tất cả các công đoạn từ A-Z :)</span></p>
 <p><span style="color: #0000ff;">Nếu các bạn không xem được video dưới đây thì có thể xem trực tiếp tại <a href="https://youtu.be/ta6ViUlx-CE" style="color: #0000ff;" target="_blank"><strong>kênh YouTube của SD</strong></a> nhé (các bạn có thể subscribe/ đăng kí để nhận thông báo khi có video mới được tải lên nha)</span></p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/ta6ViUlx-CE" width="560"></iframe></div>
-<p> </p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p> </p>
 <p>* <span style="text-decoration: underline;"><strong>Lưu ý:</strong></span></p>
 <p>– <span style="color: #0000ff;">Trong video mình dùng men instant nên không có khâu kích hoạt men như bước (1) dưới đây. Tuy nhiên, để chắc chắn là men còn tốt và có thể dùng được thì các bạn nên thực hiện như bước (1) ở dưới nhé.</span></p>
 <p><span style="color: #0000ff;">– Trong video mình chỉ dùng 1/2 định lượng công thức ở trên – cho 1 khuôn loaf.</span></p>
@@ -69,7 +62,6 @@ description: "bánh mì sữa mềm, bánh mì hokkaido, cách làm bánh mì ng
 <p>A. <em><strong>Nhồi bột bằng ta</strong></em>y:</p>
 <p>– Phủ một chiếc khăn ẩm hoặc nilon lên mặt âu. Để bột nghỉ khoảng 20 – 30 phút. Bước này sẽ giúp bột hấp thụ nước, hình thành một phần Gluten, giúp cho việc nhồi bột tiếp theo dễ dàng và bột ít bị dính, ướt hơn.</p>
 <p>– Đổ bột ra mặt bàn có phủ một lớp bột áo mỏng. Nhào bột trong khoảng 30 – 40 phút đến khi có một khối bột dẻo mịn, đàn hồi, không dính tay (hoặc nhào bằng máy trong thời gian tương tự), ấn thử gón tay lên mặt bột sẽ thấy phồng trở lại.</p>
-
 
 <p>Cách nhồi bột các bạn xem thêm tại <a href="/?p=2293"><b>ĐÂY</b></a>.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/10722502024/" title="IMG_3751 by LinhTrang9185, on Flickr"><img alt="IMG_3751" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3795/10722502024_000e7a48db.jpg" width="500"/></a></p>
@@ -97,4 +89,4 @@ description: "bánh mì sữa mềm, bánh mì hokkaido, cách làm bánh mì ng
 <p><a href="http://www.flickr.com/photos/55490207@N05/10722501554/" title="IMG_3768 by LinhTrang9185, on Flickr"><img alt="IMG_3768" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2874/10722501554_d8b6acb6c2.jpg" width="500"/></a></p>
 <p>Có thể dùng khi bánh còn ấm nóng. Nhưng nếu muốn cắt lát theo kiểu bánh mì gối thì phải đợi bánh nguội hẳn mới cắt, nếu không bánh sẽ dễ bị bết, dính trong ruột.</p>
 <p>Bảo quản trong hộp/ túi kín, ở nơi thoáng mát. Dùng được trong khoảng 1-2 ngày.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -12,10 +12,7 @@ description: ""
 <p>Quay lại chuyện chính là đi dọn ảnh &amp; tổng kết ảnh cũ (<em>khổ thế, ngay cả lúc chán mà vẫn mắc bệnh dài dòng</em> :-&lt;) Trong lúc dọn ảnh mình tình cờ thấy lại album mang tên Keukenhof 2011 – chụp từ hồi tháng 4, thế là mở ra xem, và….thấy đời tươi tỉnh hơn một chút :D Bớt chán được một tí nên lại có cảm hứng “kể lể” một tí về khu vườn này với cả nhà ;)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5635231991/" title="Colorful Keukenhof by LinhTrang9185, on Flickr"><img alt="Colorful Keukenhof" class="aligncenter" height="303" loading="lazy" src="http://farm6.static.flickr.com/5144/5635231991_f2759c78bf.jpg" width="500"/></a></p>
 <p>Keukenhof là tên của một công viên tại Hà Lan, cách thủ đô Amsterdam khoảng 40-50 phút đi bus (<em>mình đi lâu rồi nên cũng không nhớ chính xác lắm, hình như là tầm đấy thì phải</em> :”&gt;). Keukenhof còn được gọi là “vườn châu Âu” (<em>the Garden of Europe</em>) và trong suốt 50 năm trở lại đây nó là vườn hoa lớn nhất thế giới với diện tích 32 hec-ta và khoảng 7 triệu hạt giống hoa được gieo trồng hàng năm. Vườn mở cửa quanh năm nhưng thời điểm chính dành cho việc triển lãm hoa là từ khoảng giữa tháng 3 đến giữa tháng 5 hàng năm. Khách đến thì đông vô kể (<em>“xui xẻo” mà đi vào ngày đông khách thì đừng hi vọng chụp hình mà không có bóng người ở đằng sau</em> :D) Sơ sơ một vài thông tin về Keukenhof là như vậy, bạn nào muốn biết thêm thì có thể vào xem thêm tại Wikipedia hoặc website của khu vườn này ở địa chỉ <a href="http://www.keukenhof.nl/">www.keukenhof.nl/</a>  nhé.</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/5640188836/" title="IMG_0261 by LinhTrang9185, on Flickr"><img alt="IMG_0261" class="aligncenter" height="354" loading="lazy" src="http://farm6.static.flickr.com/5265/5640188836_5cb93734b7.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5640188836/" title="IMG_0261 by LinhTrang9185, on Flickr"><img alt="IMG_0261" class="aligncenter" height="354" loading="lazy" src="http://farm6.static.flickr.com/5265/5640188836_5cb93734b7.jpg" width="500"/></a></p>
 <p>Mình thì biết đến Keukenhof từ trước khi sang Hà Lan học, hình như là một năm trước đấy, qua ảnh của một người bạn. Cảm giác lúc ấy là “chao ôi sao mà đẹp thế”, và sao mà… ghen tị thế :P Và ngồi ao ước giá mà mình có thể được một lần đến nơi ấy, để được tận  mắt chiêm ngưỡng khung cảnh tuyệt vời ấy và được chụp ảnh giữa hàng trăm bông hoa đủ màu sắc nữa chứ :P :P</p>
 <p>Thế xong rồi (may mắn làm sao) là ước mơ cũng trở thành hiện thực. Mình nhớ có ba thứ mà mình mong đợi nhiều nhất khi sang Hà Lan học là thảm lá vàng của mùa thu, tuyết trắng mùa đông và khi mùa xuân đến là Keukenhof. Mong chờ đến mức mà cứ thi thoảng lại ngồi xem đi xem lại mấy bức hình chụp Keukenhof của các anh chị học ở Hà Lan mấy năm trước đó, rồi thì lên kế hoạch trước bao nhiêu lâu để được đến thăm “vườn thượng uyển châu Âu”.</p>
 <p>Nhưng mà… lần đến thăm Keukenhof đầu tiên của mình lại chả được như mong đợi gì cả <em>(tóm lại thì đời vẫn chỉ là mơ một nửa thôi</em>). Năm ấy lạnh và hoa nở muộn, khi mình đi thì tuy vườn đã mở cửa được một vài tuần, nhưng rất nhiều hoa vẫn chưa nở, thành ra cuối cùng chủ yếu là ngắm hoa trong nhà kính. Chưa kể là trời cũng lạnh nữa, cho nên đi ra ngoài chụp ảnh một lúc là lại muốn chạy vào nhà cho ấm. Kết luận là chả hay tí nào :-&lt;</p>
@@ -25,10 +22,7 @@ description: ""
 <p>Năm vừa rồi, lại đến mùa Keukenhof, nhưng rút kinh nghiệm đau thương của năm đầu tiên, mình nghiên cứu thời tiết cẩn thận hơn. Và bởi vì muốn chụp ảnh nữa nên mình chọn đi vào ngày thường để tránh đám đông và những thứ phiền toái kèm theo khác :D May mắn làm sao là năm vừa rồi châu Âu đón một mùa Xuân tràn ngập nắng ấm. Cuối tháng Ba mà đã thấy chồi non mọc trên cành và hoa dại nở trắng li ti trên bãi cỏ xanh. Thời tiết thuận lợi nên hoa trong vườn có vẻ nở đều và theo đúng kế hoạch hơn. Ngày mà mình chọn đi cũng là một ngày nắng rất đẹp, trời xanh trong vắt chẳng có một gợn mây nào :)</p>
 <p>Và mình đã thấy một Keukenhof rất khác….</p>
 <p><span id="more-1231"></span></p>
-<p>Một Keukenhof rực rỡ sắc màu của hàng nghìn loài hoa khác nhau, đẹp như trong tranh vậy</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Một Keukenhof rực rỡ sắc màu của hàng nghìn loài hoa khác nhau, đẹp như trong tranh vậy</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5637584372/" title="Keukenhof by LinhTrang9185, on Flickr"><img alt="Keukenhof" class="aligncenter" height="362" loading="lazy" src="http://farm6.static.flickr.com/5185/5637584372_b4a03ce93f.jpg" width="500"/></a></p>
 <p>Một Keukenhof thơ mộng và bình yên, khiến người ta đến nơi rồi chỉ ước giá mà thời gian có thể trôi chậm lại, để được ở đây thật lâu, để được mãi tận hưởng không khí thoáng đãng trong lành và thuần khiết này</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5637582150/" title="Keukenhof by LinhTrang9185, on Flickr"><img alt="Keukenhof" class="aligncenter" height="320" loading="lazy" src="http://farm6.static.flickr.com/5306/5637582150_648559499d.jpg" width="500"/></a></p>
@@ -44,7 +38,6 @@ description: ""
 <p style="text-align: center;"><em>Đây là lợi thế của việc đi ngày thường, đi vào dịp lễ thì đừng hi vọng khung cảnh “trống vắng” như này.</em></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5640696486/" title="IMG_0719 by LinhTrang9185, on Flickr"><img alt="IMG_0719" class="aligncenter" height="272" loading="lazy" src="http://farm6.static.flickr.com/5262/5640696486_21181daa22.jpg" width="500"/></a></p>
 <p style="text-align: center;"> <em>Tulip ở khắp nơi </em></p>
-
 
 <p><a href="http://www.flickr.com/photos/55490207@N05/5636999365/" title="Keukenhof by LinhTrang9185, on Flickr"><img alt="Keukenhof" class="aligncenter" height="333" loading="lazy" src="http://farm6.static.flickr.com/5102/5636999365_b3d37da76a.jpg" width="500"/></a></p>
 <p> </p>
@@ -73,9 +66,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

@@ -12,10 +12,7 @@ description: ""
 <p style="text-align: left;">Nhà ở Antwerp bây giờ thì ngay giữa trung tâm, đất chật người đông nên chẳng còn cơ hội thấy những mảnh vườn nhỏ như ở Hà Lan nữa. Nhưng mà bù lại thì từ khoảng giữa tháng 3 là ở quảng trường đối diện nơi mình ở, cuối tuần nào cũng có chợ hoa. Cho nên có “đứa” dạo này cuối tuần nhiều khi không cần mua gì nhưng vẫn cố nghĩ ra món để có cớ chạy ra chợ, mua đồ thì ít mà lượn lờ chợ ngắm hoa với cây thì nhiều… :P</p>
 <p style="text-align: center;"><em>Bây giờ là 9h sáng, giờ này thì vẫn còn sớm cho nên chợ vẫn còn vắng người, và một số cửa hàng bây giờ cũng mới lục tục bày cây và hoa lên giá. </em></p>
 <p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/6996964974/" title="IMG_3847 by LinhTrang9185, on Flickr"><img alt="IMG_3847" class="aligncenter" height="303" loading="lazy" src="http://farm8.staticflickr.com/7190/6996964974_1b017b4f24.jpg" width="500"/></a></em></p>
-<p style="text-align: center;"><em>Hoa được trồng trong các chậu nhỏ, đặt riêng theo loại để khách dễ chọn. Mỗi loại cây đều có ghi tên và giá cả rất rõ ràng (khỏi phải mặc cả :P). Và vì là cây nên thường hay bán kèm 2, hoặc 3 cây, hoặc có khuyến mại theo kiểu mua 2 hay 3 cây thì giảm 50cent – 1EUR (ví dụ 1 cây thì 3EUR, 2 cây 5EUR)</em></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p style="text-align: center;"><em>Hoa được trồng trong các chậu nhỏ, đặt riêng theo loại để khách dễ chọn. Mỗi loại cây đều có ghi tên và giá cả rất rõ ràng (khỏi phải mặc cả :P). Và vì là cây nên thường hay bán kèm 2, hoặc 3 cây, hoặc có khuyến mại theo kiểu mua 2 hay 3 cây thì giảm 50cent – 1EUR (ví dụ 1 cây thì 3EUR, 2 cây 5EUR)</em></p>
 <p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/7143051231/" title="IMG_3874 by LinhTrang9185, on Flickr"><img alt="IMG_3874" height="320" loading="lazy" src="http://farm8.staticflickr.com/7054/7143051231_fd5c430ed0.jpg" width="500"/></a></em></p>
 <p style="text-align: center;"><em>6EUR cho 2 cây ;)</em></p>
 <p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/7143050933/" title="IMG_3876 by LinhTrang9185, on Flickr"><img alt="IMG_3876" height="308" loading="lazy" src="http://farm8.staticflickr.com/7043/7143050933_8ffc92f416.jpg" width="500"/></a></em></p>
@@ -25,10 +22,7 @@ description: ""
 <p style="text-align: center;"><span id="more-2468"></span></p>
 <p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/7143051265/" title="IMG_3873 by LinhTrang9185, on Flickr"><img alt="IMG_3873" height="326" loading="lazy" src="http://farm8.staticflickr.com/7206/7143051265_a19117f760.jpg" width="500"/></a></em></p>
 <p style="text-align: center;"><em>Hoa bạt ngàn, nhìn thế này cũng đâu khác gì vườn hoa đâu nhỉ? </em></p>
-<p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/6996964248/" title="IMG_3854 by LinhTrang9185, on Flickr"><img alt="IMG_3854" height="333" loading="lazy" src="http://farm9.staticflickr.com/8028/6996964248_e5a1c6c215.jpg" width="500"/></a></em></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/6996964248/" title="IMG_3854 by LinhTrang9185, on Flickr"><img alt="IMG_3854" height="333" loading="lazy" src="http://farm9.staticflickr.com/8028/6996964248_e5a1c6c215.jpg" width="500"/></a></em></p>
 <p style="text-align: center;"><em>một vườn hoa panse</em></p>
 <p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/7143052273/" title="IMG_3862 by LinhTrang9185, on Flickr"><img alt="IMG_3862" height="307" loading="lazy" src="http://farm8.staticflickr.com/7194/7143052273_d8c2cd0f7f.jpg" width="500"/></a></em></p>
 <p style="text-align: center;"><em>thêm một vườn hoa cúc trắng </em></p>
@@ -45,7 +39,6 @@ description: ""
 <p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/6996964050/" title="IMG_3859 by LinhTrang9185, on Flickr"><img alt="IMG_3859" height="322" loading="lazy" src="http://farm8.staticflickr.com/7120/6996964050_d1dc57999a.jpg" width="500"/></a></em></p>
 <p style="text-align: center;"><em>cây này thì đã có cả quả rồi, thành chùm lúc lỉu nhé (trông thích mắt nhỉ? :) )</em></p>
 
-
 <p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/6996962548/" title="IMG_3875 by LinhTrang9185, on Flickr"><img alt="IMG_3875" height="290" loading="lazy" src="http://farm8.staticflickr.com/7235/6996962548_3796fd64a9.jpg" width="500"/></a></em></p>
 <p style="text-align: center;"><em>và quất cảnh  – nhìn cái này lại thấy nhớ chợ hoa Tết ở nhà thế </em></p>
 <p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/7143050643/" title="IMG_3878 by LinhTrang9185, on Flickr"><img alt="IMG_3878" height="500" loading="lazy" src="http://farm9.staticflickr.com/8143/7143050643_395c2821f4.jpg" width="370"/></a></em></p>
@@ -56,9 +49,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

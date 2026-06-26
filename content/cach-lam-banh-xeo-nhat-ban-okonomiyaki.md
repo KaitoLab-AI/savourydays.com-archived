@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2019/03/cách-làm-bánh-xèo-nhật-bản-banner.jp
 description: "Cách làm BÁNH XÈO NHẬT BẢN Okonomiyaki thơm ngon, chuẩn vị, đúng kiểu Nhật và không hề khó chút nào. Các bạn xem chi tiết ở bên dưới nha"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Okonomiyaki là một món ăn thuộc nhóm “thú vị” với mình. Thay vì gọi là bánh xèo, mình nghĩ có khi cái tên “bánh rán thập cẩm” lại phù hợp hơn với món ăn này hơn :P Mình ăn món này cũng nhiều lần rồi, nhưng ấn tượng nhất chắc là lần đi ăn ở Tokyo, ngồi cùng với các bạn bè quanh một cái bàn chiên bánh xèo theo đúng kiểu Nhật (ở Việt Nam thường là bánh làm sẵn trong bếp rồi bày lên đĩa hơn). Trời bên ngoài hơi mưa lành lạnh, ngồi trong nhà hàng đổ bánh, rồi tự chọn các loại nhân và topping, rưới sốt lên trên, vừa thổi phù phù vừa ăn. Chao ôi là ngon!</span></p>
 <p><span style="color: #000000;">Cũng như <a href="/cach-lam-takoyaki/"><strong>Takoyaki</strong></a>, đây là món ăn mà chúng mình hoàn toàn có thể làm ở trong bếp gia đình, vì cách làm khá đơn giản, nguyên liệu cũng dễ tìm mà khả năng thành công lại rất cao nữa. Và cùng với Takoyaki, cơm chiên <a href="/cach-lam-com-chien-trung-omurice/"><strong>Omurice</strong></a>, SD xin gửi tới các bạn thêm một món Nhật nữa để chiêu đãi cả gia đình nhé!</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8285" height="1024" loading="lazy" sizes="(max-width: 816px) 100vw, 816px" src="/wp-content/uploads/2019/03/cách-làm-bánh-xèo-nhật-bản-816x1024.jpg" width="816"/></p>
 <h2><span style="color: #000000;">CÁCH LÀM BÁNH XÈO NHẬT BẢN OKONOMIYAKI</span></h2>
 <p><strong><span style="color: #800000;">Nguyên liệu:</span></strong></p>
-<p><strong><span style="color: #000000;">* Phần bánh xèo</span></strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong><span style="color: #000000;">* Phần bánh xèo</span></strong></p>
 <ul>
 <li><em><span style="color: #000000;">3 quả trứng gà to (như trứng gà công nghiệp)</span></em></li>
 <li><em><span style="color: #000000;">120 ml nước dashi (siêu thị bán các gói để pha sẵn, rất nhiều)</span></em></li>
@@ -48,10 +44,7 @@ description: "Cách làm BÁNH XÈO NHẬT BẢN Okonomiyaki thơm ngon, chuẩn
 <p><span style="color: #000000;">– Đậu đũa rửa sạch, thái nhỏ</span></p>
 <p><span style="color: #000000;">– Hành lá rửa sạch, thái nhỏ</span></p>
 <p><span style="color: #000000;">* Rau có thể thay đổi theo khẩu vị gia đình. Ngoài rau, các bạn cũng có thể dùng thêm các nguyên liệu khác theo sở thích như bạch tuộc, cá, mực… (đã làm chín tái) nhé. </span></p>
-<p><span style="color: #000000;">2. Làm nước sốt Okonomiyaki: Trộn đều tất cả các nguyên liệu làm sốt. Thêm 2 thìa nước, đun sôi lăn tăn. Nêm nếm lại theo khẩu vị. Đun trong khoảng 2 phút đến khi sốt hơi đặc lại thì tắt bếp, để nguội</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">2. Làm nước sốt Okonomiyaki: Trộn đều tất cả các nguyên liệu làm sốt. Thêm 2 thìa nước, đun sôi lăn tăn. Nêm nếm lại theo khẩu vị. Đun trong khoảng 2 phút đến khi sốt hơi đặc lại thì tắt bếp, để nguội</span></p>
 <p><span style="color: #000000;">3. Trong 1 âu lớn, đánh tan 3 quả trứng với 120 ml nước dashi, cho bột mỳ vào âu và trộn đều. Hỗn hợp bột thu được không quá lỏng như nước nhưng cũng không quá sệt như bột quấy cho em bé. Bột quá loãng khi rán bánh sẽ khó kết dính, bột quá đặc sẽ làm cho bánh hơi dày, dai, dễ bị sống bên trong.</span></p>
 <p><span style="color: #000000;">* Lưu ý là tuỳ từng loại bột có độ hút nước khác nhau, và tuỳ trứng to hay nhỏ mà hỗn hợp của bạn có thể có độ đặc loãng khác nhau. Bởi vậy, nên khi làm, các bạn có thể sẽ cần điều chỉnh lượng nguyên liệu trong công thức nhé.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8282" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/03/cách-làm-bánh-xèo-nhật-3-1024x683.jpg" width="1024"/></p>
@@ -62,4 +55,4 @@ description: "Cách làm BÁNH XÈO NHẬT BẢN Okonomiyaki thơm ngon, chuẩn
 <p><img alt="" class="aligncenter size-large wp-image-8286" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/03/cách-làm-okonomiayki-5-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">6. Nhẹ nhàng chuyển bánh lên đĩa rộng, rưới nước sốt okonomiyaki, sốt mayonaise lên trên, rắc cá bào khắp mặt bánh. Có thể dùng kèm gừng hồng theo khẩu vị.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8289" height="684" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/03/cách-làm-okonomiyaki-1024x684.jpg" width="1024"/></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

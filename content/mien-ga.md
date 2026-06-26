@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2013/06/MienGa.jpg"
 description: "miến gà, phở gà, cách ninh nước dùng"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
 <p>——————————————</p>
 <p>Có một thời gian “Miến gà” là món thuộc hàng cao cấp khó nhằn đối với mình (chẳng hiểu sao, nhưng hồi ấy nghĩ rằng ai nấu được món này đều là siêu đầu bếp cả). Nhớ một lần đi tìm công thức, thấy người nấu mô tả là tối đi làm về muộn, vào bếp làm vội bát miến, thấy hâm mộ vô cùng vì nếu là mình chắc không thể “làm vội” mà ra bát miến được.</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/8941414381/" title="IMG_0760-1 by LinhTrang9185, on Flickr"><img alt="IMG_0760-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8270/8941414381_c957c0d922_z.jpg" width="459"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8941414381/" title="IMG_0760-1 by LinhTrang9185, on Flickr"><img alt="IMG_0760-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8270/8941414381_c957c0d922_z.jpg" width="459"/></a></p>
 <p>… giờ thì chắc vẫn chưa “làm vội” ra được bát miến ngon nhưng ít nhất là không thấy “sợ” và “ngại” khi nghĩ đến món miến gà nữa :P</p>
 <p>Như tất cả các món nước khác, một trong những thứ quan trọng nhất của bát miến gà ngon, theo mình là nước dùng. Nhưng so với nhiều món nước khác thì nước dùng của miến gà mình nghĩ là khá dễ làm, và dễ làm ngon. Với các món nước ăn với thịt gà, mình nghĩ có lẽ điều quan trọng nhất là làm sao nước dùng ngọt nhưng vẫn thanh và nhẹ nhàng. Cho nên không cần quá nhiều thứ gia vị, đơn giản nhất là củ hành, miếng gừng nướng sơ, ninh kèm xương gà với đầu cổ cánh. Xương gà nhanh mềm nên cũng không cần ninh lâu, độ 45 phút với nồi thường là có phần nước dùng tương đối ổn rồi. Nước dùng này ngoài để ăn miến gà, phở gà, thì còn có thể cải biên, thêm ít mọc để ăn với bún, hoặc thả một số loại củ như su hào, cà rốt vào là thành bát canh ngọt ăn cơm :)</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu (4 phần ăn)</strong></span></p>
@@ -36,12 +32,9 @@ description: "miến gà, phở gà, cách ninh nước dùng"
 <p>2. Hành, gừng và hành tây nướng trên bếp đến khi chín thơm. Nên nướng ở lửa vừa để hành gừng chín bên trong mà vỏ không bị cháy bên ngoài. Cạo sạch vỏ rồi rửa lại cho sạch. Thả vào nồi.</p>
 <p>Lấy 3-4 rễ cây mùi rửa sạch, thả vào nồi.</p>
 <p>3. Thêm nước sao cho đủ 4 người ăn. Đợi nước sôi thì hớt sạch bọt nếu có. Nêm nếm gia vị (dùng muối hoặc bột nêm, không dùng nước mắm vì có thể sẽ làm chua nước). Ninh thêm 30-40 phút đến khi nước ngọt (không nên ninh lâu quá, sẽ làm xương gà bị bở ra).</p>
-<p>4. Hành, mùi, rau răm rửa sạch, hành thái khoanh tròn phần màu xanh, phần màu trắng chẻ sợi nhỏ. Mùi, rau răm thái nhỏ.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>4. Hành, mùi, rau răm rửa sạch, hành thái khoanh tròn phần màu xanh, phần màu trắng chẻ sợi nhỏ. Mùi, rau răm thái nhỏ.</p>
 <p>5. Ngâm miến trong nước ấm cho mềm, hoặc luộc theo chỉ dẫn trên bao gói. Cắt sợi miến cho vừa ăn.</p>
 <p>6. Trình bày:</p>
 <p>Tráng bát ăn miến qua nước sôi. Trần lại miến trong nước dùng (đang sôi) rồi xếp vào bát cùng thịt gà, hành, mùi, răm. Chan nước dùng (đang sôi sùng sục trong nồi). Dùng nóng với chanh tươi (hoặc dấm) và ớt.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8942034518/" title="IMG_0756-1 by LinhTrang9185, on Flickr"><img alt="IMG_0756-1" class="aligncenter" height="640" loading="lazy" src="http://farm6.staticflickr.com/5325/8942034518_f3267f7932_z.jpg" width="440"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/11/MacaronPhan3.jpg"
 description: "Cách làm Macarons chuẩn kiểu Pháp"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p> </p>
 <p><a href="/macarons-phan-1-the-nao-la-chuan/">Phần 1: Thế nào là Macarons “đúng”?</a></p>
 <p><a href="/macarons-nguyen-lieu-va-dung-cu/">Phần 2: Nguyên liệu &amp; Dụng cụ</a></p>
 <p><strong>Phần 3: Cách làm Macaron kiểu Pháp</strong></p>
-<p>Trong phần trước mình đã giới thiệu với các bạn về các nguyên liệu cơ bản và dụng cụ để làm Macaron rồi, phần này mình sẽ tiếp tục với cách làm cụ thể nhé. Thường thì mình hay có hình minh họa cho các bước thực hiện, nhưng riêng với Macarons thì mình không chụp hình mà giới thiệu với các bạn một số clip làm Macarons mà mình chọn lọc từ Youtube. Bởi vì Macarons cần sự chính xác cao nên xem trực tiếp video mình nghĩ sẽ tốt hơn nhiều. Các bạn có thể xem clip trước để có cái nhìn khái quát về làm Macarons, rồi đọc phần mô tả cách làm của mình, hoặc ngược lại. Mình sẽ cố gắng ghi chú cụ thể cho các bước nên khi xem video các bạn không nhất thiết phải hiểu hết người ta nói gì, chỉ xem để biết cách đánh trứng, trộn bột… là được.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Trong phần trước mình đã giới thiệu với các bạn về các nguyên liệu cơ bản và dụng cụ để làm Macaron rồi, phần này mình sẽ tiếp tục với cách làm cụ thể nhé. Thường thì mình hay có hình minh họa cho các bước thực hiện, nhưng riêng với Macarons thì mình không chụp hình mà giới thiệu với các bạn một số clip làm Macarons mà mình chọn lọc từ Youtube. Bởi vì Macarons cần sự chính xác cao nên xem trực tiếp video mình nghĩ sẽ tốt hơn nhiều. Các bạn có thể xem clip trước để có cái nhìn khái quát về làm Macarons, rồi đọc phần mô tả cách làm của mình, hoặc ngược lại. Mình sẽ cố gắng ghi chú cụ thể cho các bước nên khi xem video các bạn không nhất thiết phải hiểu hết người ta nói gì, chỉ xem để biết cách đánh trứng, trộn bột… là được.</p>
 <p>Hai clip mà mình nghĩ là khá tốt và rõ ràng là:</p>
 <ul>
 <li><a href="http://www.youtube.com/watch?v=H3sHPk4U2-U&amp;feature=fvwrel">http://www.youtube.com/watch?v=H3sHPk4U2-U&amp;feature=fvwrel</a></li>
@@ -51,10 +47,7 @@ description: "Cách làm Macarons chuẩn kiểu Pháp"
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <p>1. Cân các nguyên liệu chính xác. Xem thêm các lưu ý về chuẩn bị nguyên liệu và dụng cụ tại <a href="/macarons-nguyen-lieu-va-dung-cu/">ĐÂY</a>.</p>
 <p>2. Rây bột hạnh nhân và đường icing (65gram) vào âu. Trộn đều. Nếu có máy xay thì cho hỗn hợp vào máy xay khoảng 20-30 giây cho bột và đường thật mịn. Rây lại lần nữa.</p>
-<p>* <span style="text-decoration: underline;"><strong>Lưu ý:</strong></span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>* <span style="text-decoration: underline;"><strong>Lưu ý:</strong></span></p>
 <p>– Đường icing <em>t</em><strong>ốt nhất là mua sẵn</strong>. Mình không có kinh nghiệm làm với đường icing tự xay nhưng từ những gì mình đọc trên mạng thì khả năng thất bại với đường icing tự xay cao hơn.</p>
 <p>– Bột hạnh nhân tự xay: trong <a href="/macarons-nguyen-lieu-va-dung-cu/">phần 2</a> mình có giải thích cách xay bột và các lưu ý khi xay bột rồi, các bạn xem lại nhé. Nhớ đừng để bột hạnh nhân bị bết do dầu tiết ra.</p>
 <p>3. Cho lòng trắng trứng vào âu cùng vài hạt muối. Để máy ở tốc độ thấp, đánh đến khi lòng trắng bắt đầu nổi bọt khí lớn thì cho cream of tartar. Tăng dần tốc độ, đến khi các bọt khí nhỏ dần, li ti giống như bọt xà phòng cạo râu thì từ từ cho đường (phần 13gram) vào. Tăng tốc độ đến cao nhất. Đánh đến khi lòng trắng bắt đầu bông và thấy có vân khi chạy máy thì hạ xuống tốc độ vừa. Đánh tiếp tới khi lòng trắng trứng đạt tình trạng bóng dẻo, kéo lên thấy có chóp, đầu chóp hơi cong nhưng không oặt xuống. Đây là tình trạng sau bông mềm và gần như bông cứng(stiff peak), nhưng chưa hẳn đến bông cứng.</p>
@@ -70,7 +63,6 @@ description: "Cách làm Macarons chuẩn kiểu Pháp"
 <p style="text-align: center;"><em>Hình minh hoạ từ: http://notsohumblepie.blogspot.be</em></p>
 <p>* <span style="text-decoration: underline;"><strong>Lưu ý</strong></span>:</p>
 <p>– Kĩ thuật trộn bột rất quan trọng, tốt nhất là <em><strong>trộn theo kiểu “fold-in”</strong></em>: xúc và đảo từ dưới, hất lên để lòng trắng phủ lên bột. Cách trộn này sẽ giúp nguyên liệu hòa quyện và hạn chế bọt khí trong lòng trắng trứng bị vỡ. Các bạn có thể tham khảo thêm cách trộn bột trong các clip mình đã đưa nhé. Ví dụ ở phút 2.40 trong clip này: <a href="http://www.youtube.com/watch?v=H3sHPk4U2-U&amp;feature=fvwrel">http://www.youtube.com/watch?v=H3sHPk4U2-U&amp;feature=fvwrel</a></p>
-
 
 <p>– Trong quá trình trộn, hỗn hợp sẽ dần dần trở nên dẻo hơn, lòng trắng hòa quyện với bột ở dạng “sợi”. Nếu các bạn gặp hiện tượng lòng trắng cảm giác lộp phộp, khi trộn thậm chí cảm thấy được cả bọt khí vỡ thì nhiều khả năng là bạn đã đánh lòng trắng quá tay.</p>
 <p>– <em><strong>Không trộn quá ít hoặc quá nhiều.</strong></em> Thế nào là quá ít hay quá nhiều thì rất khó nói, bởi vì nó phụ thuộc vào kĩ thuật trộn của bạn. Như mình làm thì mỗi lần mình trộn khoảng 8-10 nhát, tổng cộng sau 4 lần cho bột là 35 – 40 nhát.</p>
@@ -117,4 +109,4 @@ description: "Cách làm Macarons chuẩn kiểu Pháp"
 <p>—————–</p>
 <p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng dưới bất kì hình thức nào, vui lòng liên hệ với Linh Trang theo địa chỉ mail</span> savourydaysvn@gmail.com. <span style="color: #ff0000;">Mọi trường hợp cố tình vi phạm sẽ chịu sự xử lí theo pháp luật.</span></strong></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -8,16 +8,11 @@ image: "/wp-content/uploads/2011/07/Cari-ga-AnDo-610x350.jpg"
 description: "Học cách làm cà ri gà kiểu Ấn Độ với Savoury Days. Thịt gà mềm thơm với các thứ gia vị kiểu Ấn, không hề hắc mà ngược lại, thơm \"điếc mũi\" luôn nhé."
 ---
 
-
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><a href="http://www.flickr.com/photos/55490207@N05/5984229565/" title="IMG_5105 by LinhTrang9185, on Flickr"><img alt="IMG_5105" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6150/5984229565_c5a93ac2d5.jpg" width="374"/></a></p>
 <p>Ở nhà cũ của mình, trong số các hàng xóm có một cậu nhóc người Ấn Độ. Cu cậu đang học năm cuối ĐH, qua bên này thực tập 3 tháng. Lúc ở Ấn Độ thì cu cậu hoàn toàn không phải đụng vào chuyện bếp núc, đây lại là lần đầu tiên xa nhà, thành ra rất hay có cảnh nhóc mang laptop vào trong bếp rồi nấu ăn theo chỉ đạo từ xa của bạn gái qua Skype :D Nhưng có một điều mình phải công nhận là cậu nhóc rất có năng khiếu nấu nướng. Vì hàng xóm Ấn Độ thì hồi ở Hà Lan mình cũng đã từng có. Và ấn tượng về mọi món mà nó nấu chỉ có một từ để mô tả là “siêu kinh dị”. Nhưng đồ ăn cu hàng xóm mới này của mình nấu thì nhiều khi phải nói là thơm điếc mũi luôn, mặc dù nó luôn dùng rất nhiều loại gia vị mạnh như gừng, tỏi, bột cà ri.. nhưng mình cảm giác sự pha trộn nguyên liệu của nó thường luôn rất hợp lý, cho nên nó mới ra được mùi thơm hấp dẫn như vậy.</p>
 <p>Món cà-ri này là mình học được từ cậu nhóc. Mình không phải là người “hảo” cà-ri, nhưng món này thì mình rất thích. Nó không quá ngậy và béo như cà-ri có nước cốt dừa, và mùi thơm tuy là rất đặc trưng nhưng không hề bị hắc hay khó chịu. Vấn đề duy nhất của món này là phải có bột <a href="http://en.wikipedia.org/wiki/Garam_masala">Garam masala</a>. Loại bột này mua ở đây thì đơn giản vì không chỉ ở chợ châu Á mà trong cả siêu thị Tây mình cũng thấy có bán. Nhưng ở Việt Nam thì mình không rõ liệu có thể mua được ở đâu không. Nhưng nếu kiếm được thì đây là một món rất rất nên làm, vì cách làm thì không hề khó, và ngooonnnnnnn cực kì ấy ;)</p>
 <p>* <em><strong>Bổ sung tin mới</strong>: vừa có một bạn nhắn mình là ở TP HCM, trong chợ Bến Thành có hẳn một cửa hàng tên là “Cà ri anh Hai”, có bán rất nhiều loại gia vị, trong đó có Garam masala ^^ Cảm ơn bạn nhiều nha. Thêm 1 thông tin nữa là ngoài Hà Nội mình thấy mọi người hay mua các thứ gia vị và nguyên liệu để nấu đồ ăn nước ngoài tại cửa hàng Liên Hoa ở chợ tạm Phùng Hưng. Các bạn nếu tiện đường thì rẽ thử qua nhé, biết đâu ngoài bột Garam ra lại tìm thấy nhiều thứ hay ho khác nữa ;) </em></p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/5990496417/" title="Chicken curry by LinhTrang9185, on Flickr"><img alt="cách làm cà ri gà" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6009/5990496417_9bf0ab1190.jpg" width="374"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5990496417/" title="Chicken curry by LinhTrang9185, on Flickr"><img alt="cách làm cà ri gà" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6009/5990496417_9bf0ab1190.jpg" width="374"/></a></p>
 <h2>CÁCH LÀM CÀ RI GÀ KIỂU ẤN ĐỘ</h2>
 <p><strong>Nguyên liệu</strong></p>
 <ul>
@@ -50,14 +45,11 @@ description: "Học cách làm cà ri gà kiểu Ấn Độ với Savoury Days. 
 <p>– Ướp thịt gà với tất cả các loại gia vị trong phần nguyên liệu. Muối thì các bạn nêm tùy theo khẩu vị nha. Lúc ướp không cần cho quá nhiều vì nếu nhạt thì có thể điều chỉnh lúc nấu được. Bột Garam Masala có mùi khá “đặc trưng”, nếu không quen thì các bạn có thể ướp 1 teaspoon, khi nấu cho thêm cũng không sao. Nhưng cá nhân mình thì khá thích mùi này :)</p>
 <p>– Trong lúc đợi thịt gà ướp thì gọt vỏ khoai tây, cắt thành khối vừa ăn. Ngâm khoai tây trong một bát nước lạnh để khoai tây khỏi bị thâm.</p>
 <p>– Hành tây bỏ vỏ, thái múi cau mỏng.</p>
-<p><em><strong>2. Chế biến</strong></em></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><em><strong>2. Chế biến</strong></em></p>
 <p>– Để lửa to, đun nóng dầu ăn trong chảo. Cho hành tây vào xào sơ khoảng 1 phút, khi hành tây có mùi thơm thì cho thịt gà đã ướp &amp; khoai tây vào. Đảo đều.</p>
 <p>– Khi thịt gà hết màu của thịt sống thì đổ hỗn hợp thịt &amp; khoai vào một cái nồi (để nấu tiếp, nếu chảo có nắp vung thì không cần chuyển sang nồi). Đổ nước nóng cho gần ngập thịt. Đun lửa to, đợi nước sôi thì hớt bọt (nếu có).</p>
 <p>– Vặn lửa nhỏ. Nêm lại gia vị trong nồi cho vừa ăn. Nấu đến khi thịt gà &amp; khoai tây chín mềm (mình nấu thì mất tầm 20 phút, không nên nấu quá lâu vì thịt gà chín quá sẽ dễ bị bã, khoai tây bị mềm và bở).</p>
 <p>– Pha bột ngô với 1-2 thìa nước cho bột ngô tan hết. Từ từ đổ nước pha bột này vào nồi, vừa đổ vừa khuấy, đến khi nước cà-ri sệt như mong muốn.</p>
 <p>– Nêm nếm lại gia vị nếu cần. Dùng nóng với bánh mỳ hoặc cơm trắng.<br/>
 <a href="http://www.flickr.com/photos/55490207@N05/5984767712/" title="Chicken curry by LinhTrang9185, on Flickr"><img alt="Chicken curry" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6007/5984767712_2d743b6c92.jpg" width="374"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

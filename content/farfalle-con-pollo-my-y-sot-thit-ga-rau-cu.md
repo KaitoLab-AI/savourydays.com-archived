@@ -8,16 +8,11 @@ image: "/wp-content/uploads/2011/06/My-Y-thit-ga-610x350.jpg"
 description: "Cách làm mỳ Ý sốt thịt gà. Sốt có thịt gà và rau củ, không chỉ thơm ngon mà còn bổ dưỡng. Công thức kèm hình ảnh minh hoạ chi tiết. Savoury Days"
 ---
 
-
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Tại vì tuần này có ngày 1/6, cho nên tự nhiên nghĩ là nên làm món gì đặc biệt một chút, món gì mà có thể dùng để dụ các bạn lớp mầm, chồi, lá ấy :) Suy nghĩ một hồi cuối cùng thì mình chọn pasta, tại vì hình như trẻ con bạn nào cũng thích pasta thì phải. Điều này ít ra là đúng với hầu như tất cả các bạn trẻ con mình quen, cộng với một số nhiều các bạn trẻ con mình biết khác :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5789330287/" title="Farfalle con Pollo by LinhTrang9185, on Flickr"><img alt="Farfalle con Pollo " class="aligncenter" height="700" loading="lazy" src="http://farm6.static.flickr.com/5147/5789330287_f53ac89286.jpg" width="490"/></a></p>
 <p>Món mỳ này mình học từ một người bạn đồng nghiệp. Cái tên “con Pollo” xuất phát từ một món ăn của châu Mỹ Latin, gồm thịt gà nấu với một số loại rau củ. Còn Farfalle là một loại short pasta mình rất thích, lí do chính là vì nó quá..xinh, xinh không chịu nổi ý, như thế này này:</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5789885254/" title="Farfalle by LinhTrang9185, on Flickr"><img alt="Farfalle " class="aligncenter" height="700" loading="lazy" src="http://farm4.static.flickr.com/3358/5789885254_343f1575ce.jpg" width="495"/></a></p>
-<p>Nói thêm tí teo nữa về món ăn. Vì là dành cho các bạn mầm, chồi, lá nên mình chọn công thức không có quá nhiều kem bơ (mặc dù có thể là các bạn ấy sẽ thích vị ngậy béo, nhưng nhiều kem bơ quá thì chắc là sẽ không được tốt cho tiêu hóa). Và trong sốt dùng với mỳ có rất nhiều loại rau củ, cho nên món ăn không chỉ đủ chất mà còn rất chi là nhiều màu (bắt mắt) nữa. Cuối cùng là thịt gà làm cho sốt vừa thơm, vừa ngọt. Nói chung là ngoài dụ trẻ con ra thì món này chắc dụ trẻ lớn cũng được ;)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Nói thêm tí teo nữa về món ăn. Vì là dành cho các bạn mầm, chồi, lá nên mình chọn công thức không có quá nhiều kem bơ (mặc dù có thể là các bạn ấy sẽ thích vị ngậy béo, nhưng nhiều kem bơ quá thì chắc là sẽ không được tốt cho tiêu hóa). Và trong sốt dùng với mỳ có rất nhiều loại rau củ, cho nên món ăn không chỉ đủ chất mà còn rất chi là nhiều màu (bắt mắt) nữa. Cuối cùng là thịt gà làm cho sốt vừa thơm, vừa ngọt. Nói chung là ngoài dụ trẻ con ra thì món này chắc dụ trẻ lớn cũng được ;)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5789330059/" title="Farfalle con Pollo by LinhTrang9185, on Flickr"><img alt="Farfalle con Pollo " class="aligncenter" height="700" loading="lazy" src="http://farm6.static.flickr.com/5189/5789330059_7e59727bc2.jpg" width="503"/></a></p>
 <p>———–</p>
 <p><strong>CÁCH LÀM MỲ Ý SỐT THỊT GÀ RAU CỦ “CON POLLO”</strong></p>
@@ -41,10 +36,7 @@ description: "Cách làm mỳ Ý sốt thịt gà. Sốt có thịt gà và rau 
 <p>1. Chuẩn bị nguyên liệu: cà rốt, hành tây, cần tây băm nhỏ; tỏi băm vụn</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5789886000/" title="Farfalle con Pollo by LinhTrang9185, on Flickr"><img alt="Farfalle con Pollo " class="aligncenter" height="337" loading="lazy" src="http://farm3.static.flickr.com/2627/5789886000_dd1390b116.jpg" width="500"/></a></p>
 <p>2. Để lửa vừa. Cho 1 thìa canh (1 tbsp = 15 ml) dầu olive vào chảo. Cho thịt ba chỉ hun khói vào. Rang thịt ba chỉ với dầu olive trong khoảng 2 phút.</p>
-<p>3. Khi thịt ba chỉ bắt đầu săn lại thì cho hành tây vào, xào sơ cùng thịt ba chỉ trong 1 – 2 phút. Tiếp theo cho cần tây và cà rốt vào xào cùng thịt. Hạ nhỏ lửa, đậy nắp nồi, đun khoảng 4-5 phút.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>3. Khi thịt ba chỉ bắt đầu săn lại thì cho hành tây vào, xào sơ cùng thịt ba chỉ trong 1 – 2 phút. Tiếp theo cho cần tây và cà rốt vào xào cùng thịt. Hạ nhỏ lửa, đậy nắp nồi, đun khoảng 4-5 phút.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5789332255/" title="Farfalle con Pollo by LinhTrang9185, on Flickr"><img alt="Farfalle con Pollo " class="aligncenter" height="333" loading="lazy" src="http://farm6.static.flickr.com/5107/5789332255_53577599d4.jpg" width="500"/></a></p>
 <p>4. Cho tỏi băm &amp; nêm gia vị cho rau củ trong nồi. Mình dùng chicken bouillon, là một loại gia vị cô đặc từ nước hầm gà và một số loại rau củ. Các bạn có thể dùng muối hoặc gia vị bình thường cũng không sao. Đảo đều hỗn hợp rau củ &amp; gia vị. Tiếp tục để lửa nhỏ, đun thêm 10 phút (trong giai đoạn này có thể cho thêm chút nước lã nếu cảm thấy trong nồi quá cạn, tránh để rau bị cháy nhé)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5789887052/" title="Farfalle con Pollo by LinhTrang9185, on Flickr"><img alt="Farfalle con Pollo " class="aligncenter" height="333" loading="lazy" src="http://farm3.static.flickr.com/2760/5789887052_f3e7584bd8.jpg" width="500"/></a></p>
@@ -58,4 +50,4 @@ description: "Cách làm mỳ Ý sốt thịt gà. Sốt có thịt gà và rau 
 <p>…và thế là đã xong rồi ;) Sốt thịt gà mình có thể làm nhiều trong một lần, sau đấy để tủ lạnh hoặc tủ đá, lần sau ăn hâm nóng lại là có món mỳ ngon lành, nóng sốt. Ngoài ra sốt ăn cùng với bánh mỳ cũng rất ngon nhé, không kém gì pasta đâu, nhưng mà mình vẫn thích pasta hơn :)</p>
 <p>Chúc cả nhà ngon miệng :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5789884490/" title="Farfalle con Pollo by LinhTrang9185, on Flickr"><img alt="Farfalle con Pollo " class="aligncenter" height="700" loading="lazy" src="http://farm4.static.flickr.com/3592/5789884490_57ecf85b43.jpg" width="491"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

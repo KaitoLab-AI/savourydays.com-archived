@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2022/05/IMG_6428-scaled.jpg"
 description: "Xoài chín với mùi thơm đặc trưng và vị ngọt nhiệt đới, kết hợp nước cốt dừa ngậy béo, sữa chua thanh mát và lớp topping yến mạch giòn tan, chắc chắn sẽ làm hài lòng bất kì ai ở bất kì độ tuổi nào, cực phù hợp cho những buổi tụ tập gia đình, bạn bè."
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="font-weight: 400;">Món bánh dành riêng cho mùa hè năm nay!!!!!! Một tổ hợp kiểu nhiệt đới kinh điển gồm xoài – dừa – sữa chua, kết hợp với bạt bánh socola mềm xốp, trong tạo hình khiến bất kì “tâm hồn biển cả” nào cũng phải xao xuyến, thì đã đủ làm ngôi sao mở màn cho mùa hè rực rỡ chưa ạ? 😁</span></p>
 <p><span style="font-weight: 400;">Xoài chín với mùi thơm đặc trưng và vị ngọt nhiệt đới, kết hợp nước cốt dừa ngậy béo, sữa chua thanh mát và lớp topping yến mạch giòn tan, chắc chắn sẽ làm hài lòng bất kì ai ở bất kì độ tuổi nào, cực phù hợp cho những buổi tụ tập gia đình, bạn bè. Lưu ngay lại để sẵn sàng làm mọi người “lác mắt” vì chiếc bánh quá ư xịn xò của bạn nhé 😉</span></p>
 <h2><span style="color: #800000;"><strong>Cách làm MOUSSE XOÀI – DỪA – SỮA CHUA</strong></span></h2>
@@ -24,10 +23,7 @@ description: "Xoài chín với mùi thơm đặc trưng và vị ngọt nhiệt
 <li><em><span style="font-weight: 400;">25 gram đường xay</span></em></li>
 <li><em><span style="font-weight: 400;">Xoài tươi cắt miếng và dừa non để cho vào giữa bánh (không bắt buộc)</span></em></li>
 </ul>
-<p><strong>B. Bạt bánh socola</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>B. Bạt bánh socola</strong></p>
 <p><span style="font-weight: 400;">Bạn có thể chọn bất kì công thức bạt bánh socola nào tùy thích. Mình dùng công thức bạt gato cơ bản bất bại 4 trứng nướng trong khay 22x30cm</span></p>
 <p><span style="font-weight: 400;">Công thức kèm các lưu ý quan trọng mình đã ghi rất cụ thể tại đây, chỉ thay 10 gram bột mì bằng 10 gram bột cacao nguyên chất, cụ thể bạn xem tại bài viết giúp mình nhé:</span></p>
 <p><span style="font-weight: 400;">/gateau-co-ban-bat-bai-no-fail-sponge-cake/</span></p>
@@ -45,10 +41,7 @@ description: "Xoài chín với mùi thơm đặc trưng và vị ngọt nhiệt
 <p><span style="font-weight: 400;">1. Xay nhuyễn thịt xoài với nước cốt dừa, sữa đặc.</span></p>
 <p><span style="font-weight: 400;">2. Ngâm gelatin trong nước lạnh tới khi gelatin nở mềm</span></p>
 <p><span style="font-weight: 400;">3. Đun hỗn hợp xoài trên lửa nhỏ nhất tới khi ấm nóng thì cho gelatin (đã ngâm mềm và vắt kiệt nước) vào, khuấy nhanh tay cho gelatin tan hoàn toàn.</span></p>
-<p><span style="font-weight: 400;">4. Bắc nồi khỏi bếp, cho sữa chua vào khuấy đều, để hỗn hợp này nguội hoàn toàn.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="font-weight: 400;">4. Bắc nồi khỏi bếp, cho sữa chua vào khuấy đều, để hỗn hợp này nguội hoàn toàn.</span></p>
 <p><span style="font-weight: 400;">5. Đánh kem tươi với đường tới khi kem bông mềm, gần cứng. Cách đánh kem tươi xem thêm tại bài viết này: </span><a href="/cach-lam-kem-tuoi-danh-bong-va-cach-chua-kem-tuoi-tach-nuoc/"><span style="font-weight: 400;">/cach-lam-kem-tuoi-danh-bong-va-cach-chua-kem-tuoi-tach-nuoc/</span></a></p>
 <p><span style="font-weight: 400;">6. Chia hỗn hợp xoài thành 3 phần, trộn với kem tươi theo kĩ thuật fold.</span></p>
 <p><span style="font-weight: 400;">7. Hoàn thiện bánh:</span></p>
@@ -65,5 +58,3 @@ description: "Xoài chín với mùi thơm đặc trưng và vị ngọt nhiệt
 <p><img alt="" class="alignnone wp-image-9146" height="527" loading="lazy" sizes="(max-width: 527px) 100vw, 527px" src="/wp-content/uploads/2022/05/IMG_6458-300x300.jpg" width="527"/></p>
 <p> </p>
 
-
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -12,10 +12,7 @@ description: "bánh hỏng, nguyên nhân bánh xẹp, bánh ẩm ướt, bánh 
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
 <p>——————————————</p>
 <p>Mình thật sự muốn viết bài viết này từ lâu lắm rồi nhưng vì không thu xếp được thời gian nên đến giờ mới có thể thực hiện được. Có hai lí do chính để viết về chủ đề này. Một là các thắc mắc về lò nướng và cách nướng bánh (cách đặt khay, chỉnh nhiệt độ, thời gian nướng sao cho phù hợp) có lẽ là một trong những chủ đề được quan tâm nhất tại Savoury Days. Có những câu hỏi mà mình nhận được phải đến vài chục lần, điển hình là “<em>Có thể nướng bánh bằng lò vi sóng/ lò nướng thủy tinh/ nồi nướng… được không</em>?”. Nên mình nghĩ có một bài viết giải thích chính thức thì các bạn tìm câu trả lời cũng dễ hơn. Hai là từ các phản hồi trên blog, mình nhận thấy thất bại vì nguyên nhân liên quan đến lò nướng chiếm tỉ lệ khá lớn, nên hi vọng là bài viết này sẽ giúp được cho các bạn phần nào trong việc chọn lò, hiểu rõ lò của mình và nướng bánh thành công hơn :)</p>
-<p><strong>I. Kinh nghiệm chọn lò nướng</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>I. Kinh nghiệm chọn lò nướng</strong></p>
 <p><a href="/wp-content/uploads/2012/12/tumblr_lps0yp3Bkh1qhpzp8o1_500.jpg"><img alt="" class="aligncenter size-full wp-image-3461" height="386" loading="lazy" sizes="(max-width: 450px) 100vw, 450px" src="/wp-content/uploads/2012/12/tumblr_lps0yp3Bkh1qhpzp8o1_500.jpg" title="tumblr_lps0yp3Bkh1qhpzp8o1_500" width="450"/></a></p>
 <p>Lò nướng là dụng cụ quan trọng hàng đầu trong lĩnh vực bánh trái. Không chỉ vì công dụng của nó là giúp cho bánh chín, mà còn vì một chiếc lò nướng tốt, nhiệt độ chuẩn sẽ giúp cho bạn tránh được nhiều thất bại trong khi làm bánh.</p>
 <p>Để có thể nướng được bánh thì <strong>một chiếc lò cần tối thiểu các điều kiện sau đây</strong>:</p>
@@ -30,10 +27,7 @@ description: "bánh hỏng, nguyên nhân bánh xẹp, bánh ẩm ướt, bánh 
 <p><em>Lò để nướng bánh nói chung nên chọn lò to từ 42l trở lên bạn ạ, dưới 42l khó canh nhiệt độ lắm, nhất là lò TQ thì lại càng khó nói, cùng 1 nấc nhiệt 150 nhưng có hôm nhiệt kế lò đo đc 155 có hôm lại 160,… rất ảo *_* Nướng chiffon là thấy rõ nhất về chênh lệch nhiệt, 1 bên thành này cao hơn bên thành kia và cháy mặt bánh trong khi bên trong chưa chín hoặc đậy giấy nhôm thì có hiện tượng nở lổn nhổn rất khó chịu :(<img alt=":(" src="http://static.ak.fbcdn.net/images/blank.gif" title=":("/></em></p>
 <p><em>Một số kinh nghiệm của mình trong quá trình 1 năm lọ mọ tự học làm bánh hi vọng giúp được cho bạn ít nhiều :D<img alt=":D" src="http://static.ak.fbcdn.net/images/blank.gif" title=":D"/> Và tớ thấy mua lò nướng loại như Sanaky thôi cũng ổn rùi….</em></p></blockquote>
 <p><strong>II. Nguyên tắc nướng bánh cơ bản &amp; Thất bại thường gặp </strong></p>
-<p>Các loại bánh ngọt nói chung (không tính bánh mì) thường sẽ trải qua quá trình chuyển hóa từ bột thành bánh chín như  sau:</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Các loại bánh ngọt nói chung (không tính bánh mì) thường sẽ trải qua quá trình chuyển hóa từ bột thành bánh chín như  sau:</p>
 <p>1. Trong hỗn hợp bột có các hơi khí. Hơi khí này thường sinh ra từ hai nguồn:</p>
 <ul>
 <li>Nhờ bột nở (baking powder) hoặc muối nở (baking soda) – thường gặp với các công thức bánh nhiều chất béo như bơ, dầu ăn…</li>
@@ -58,7 +52,6 @@ description: "bánh hỏng, nguyên nhân bánh xẹp, bánh ẩm ướt, bánh 
 <p style="text-align: left;">2. <span style="color: #800000;"><strong>Nhiệt trong lò cao + nướng không đủ thời gian</strong></span>: Bánh nở nhanh, có thể nứt mặt. Mặt bánh có thể có hiện tượng hơi cháy, cắm tăm vào thấy khô nhưng khi lấy ra thì bánh xẹp hoặc co lại, bên trong vẫn còn ẩm ướt, hoặc đặc dẻo. Lý do giống (1), và do bánh chưa chín hết, hơi ẩm vẫn còn bên trong nên sau khi lấy ra khỏi lò, phần hơi ẩm này “kéo” bánh co lại, làm bánh xẹp, lõm.</p>
 <p>3. <strong><span style="color: #800000;">Nướng không đủ thời gian</span></strong>: Bánh nở bình thường, bên ngoài vàng đẹp, nhưng sau khi lấy khỏi lò thì xẹp hoặc co lại, bên trong còn hơi ẩm ướt. Lý do như giải thích ở (2).</p>
 <p>4. <span style="color: #800000;"><strong>Nướng không đủ thời gian + nhiệt độ thấp</strong></span>: Hiện tượng giống (3) nhưng mặt bánh thường sẽ có màu vàng nhạt, có thể còn mùi bột hoặc mùi tanh của trứng.</p>
-
 
 <p style="text-align: center;"><em>Bánh nướng chưa đủ chín, lượng ẩm còn nhiều làm bánh bị lõm và ruột bết đặc</em></p>
 <p style="text-align: center;"><a href="/wp-content/uploads/2012/12/6982103910_99133f12a6_z.jpg"><img alt="" class="aligncenter wp-image-3464" height="305" loading="lazy" sizes="(max-width: 406px) 100vw, 406px" src="/wp-content/uploads/2012/12/6982103910_99133f12a6_z.jpg" title="6982103910_99133f12a6_z" width="406"/></a></p>
@@ -85,9 +78,6 @@ description: "bánh hỏng, nguyên nhân bánh xẹp, bánh ẩm ướt, bánh 
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

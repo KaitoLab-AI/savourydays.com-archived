@@ -12,10 +12,7 @@ description: ""
 <p>BTC lớp học làm bánh Savoury Days xin thông báo đã có lịch học làm bánh trong tháng 9 tại Savoury days Kitchen &amp; Studio ở Hà Nội. Mời các anh chị và các bạn xem thông tin cụ thể về các lớp học tại bài viết này:</p>
 <blockquote class="wp-embedded-content" data-secret="DFK7LOLA1D"><p><a href="/lop-hoc-lam-banh/">LỚP HỌC LÀM BÁNH</a></p></blockquote>
 <p><iframe class="wp-embedded-content" data-secret="DFK7LOLA1D" frameborder="0" height="282" marginheight="0" marginwidth="0" sandbox="allow-scripts" scrolling="no" security="restricted" src="/lop-hoc-lam-banh/embed/#?secret=DFK7LOLA1D" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="“LỚP HỌC LÀM BÁNH” — Savoury Days" width="500"></iframe></p>
-<p>Cảm ơn các anh chị, bạn đã quan tâm và ủng hộ. Mong sẽ sớm được đón tiếp các anh chị và các bạn tại lớp học.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Cảm ơn các anh chị, bạn đã quan tâm và ủng hộ. Mong sẽ sớm được đón tiếp các anh chị và các bạn tại lớp học.</p>
 <p><img alt="" class="aligncenter size-large wp-image-7645" height="768" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/06/2018-1024x768.jpg" width="1024"/></p>
 <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
@@ -24,9 +21,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

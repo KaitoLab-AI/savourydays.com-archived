@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2011/08/muffin-tao1.jpg"
 description: "Học cách làm bánh muffin táo với Linh Trang Savoury Days. Bánh mềm, thơm, nhẹ, xốp, có cách làm đơn giản, không đòi hỏi nhiều dụng cụ phức tạp"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Mình vốn rất không thích mùi quế, món có quế duy nhất mà mình thích chắc là phở bò. Sang bên này nấu ăn nhiều và sử dụng quế nhiều hơn nên cũng “có cảm tình” hơn tí chút, nhưng nói chung là vẫn không chuộng lắm. Duy chỉ có  một món mà mình luôn luôn có cảm giác là nếu thiếu quế thì sẽ chẳng ra vị gì cả, đấy là món bánh táo <em>apple pie.</em> Trong suy nghĩ của mình thì bánh táo mà thiếu đi mùi thơm ngòn ngọt cay cay của bột quế thì thực sự là rất vô duyên. “Định kiến” này dẫn đến một mặc định khác là khi làm bánh mà có táo thì tốt nhất là nên cho ít bột quế vào, dù cho nó không phải là <em>apple pie</em> đi chăng  nữa :P</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6086634590/" title="Apple muffin by LinhTrang9185, on Flickr"><img alt="Apple muffin " class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6196/6086634590_9f09de941f.jpg" width="342"/></a></p>
 <p>Về muffin táo thì các bước cơ bản vẫn (đơn giản) như mọi khi. Và thành phần chính vẫn là bột, dầu ăn, trứng, đường, chỉ thêm 1 quả táo giòn cắt miếng nhỏ, ít sữa chua và một nhúm bột quế thôi là có một món muffin mới cho bữa sáng hay bữa ăn nhẹ rùi ;)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6086098087/" title="Apple muffin by LinhTrang9185, on Flickr"><img alt="Apple muffin " class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6197/6086098087_1335691167.jpg" width="355"/></a></p>
-<p> </p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p> </p>
 <h2>CÁCH LÀM MUFFIN TÁO</h2>
 <p><strong>Nguyên liệu (làm được 9 cái cỡ nhỏ như trong hình)</strong></p>
 <ul>
@@ -39,10 +35,7 @@ description: "Học cách làm bánh muffin táo với Linh Trang Savoury Days. 
 <p><a href="http://www.flickr.com/photos/55490207@N05/6086085945/" title="1 by LinhTrang9185, on Flickr"><img alt="1" class="aligncenter" height="346" loading="lazy" src="http://farm7.static.flickr.com/6186/6086085945_18abe0a66e.jpg" width="500"/></a></p>
 <p>3. Trong một âu khác trộn trứng, sữa tươi, sữa chua và dầu ăn. Cho táo vào trộn đều. (hỗn hợp ướt)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6086632540/" title="2 by LinhTrang9185, on Flickr"><img alt="2" class="aligncenter" height="346" loading="lazy" src="http://farm7.static.flickr.com/6190/6086632540_c02ba19150.jpg" width="500"/></a></p>
-<p>4. Đổ hỗn hợp ướt vào hỗn hợp khô. Dùng cây trộn bột trộn nhẹ nhàng nhưng dứt khoát, lưu ý vét thành và đáy âu. Quá trình trộn này chỉ kéo dài tầm 10-15s. Ngay khi hai hỗn hợp vừa hòa quyện với nhau và không còn thấy bột khô nữa thì dừng ngay lại (không trộn đến khi bột mịn, mượt vì sẽ làm bánh chai cứng và có nhiều ống rỗng bên trong)</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>4. Đổ hỗn hợp ướt vào hỗn hợp khô. Dùng cây trộn bột trộn nhẹ nhàng nhưng dứt khoát, lưu ý vét thành và đáy âu. Quá trình trộn này chỉ kéo dài tầm 10-15s. Ngay khi hai hỗn hợp vừa hòa quyện với nhau và không còn thấy bột khô nữa thì dừng ngay lại (không trộn đến khi bột mịn, mượt vì sẽ làm bánh chai cứng và có nhiều ống rỗng bên trong)</p>
 <p>5. Chia bột vào các khuôn. Mình đổ hơi ít bột, khoảng hơn 1/2 khuôn 1 chút, các bạn có thể đổ khoảng 3/4 khuôn, khi nướng bánh sẽ nở vượt khuôn một chút, nhưng có lẽ trông sẽ hấp dẫn hơn ;)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6086087433/" title="3 by LinhTrang9185, on Flickr"><img alt="3" class="aligncenter" height="361" loading="lazy" src="http://farm7.static.flickr.com/6063/6086087433_1ed93443b9.jpg" width="500"/></a></p>
 <p>6. Nướng bánh ở nhiệt độ 180<sup>0</sup> C trong 20 phút. Thử bánh chín bằng cách cắm một que tăm vào giữa bánh, nếu rút lên thấy que khô là bánh chín. Bánh chín bỏ ra rack cho nguội.</p>
@@ -50,4 +43,4 @@ description: "Học cách làm bánh muffin táo với Linh Trang Savoury Days. 
 <p>Muffin có thể bảo quản trong hộp kín từ 2-3 ngày. Muffin táo mình thấy ngon nhất là khi còn hơi ấm, nên các bạn có thể cho vào lò vi sóng quay một chút cho ấm rồi ăn, rất ngon, và hợp với tiết trời se mát của mùa thu :)</p>
 <p>Enjoy!</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6086089299/" title="Apple muffin by LinhTrang9185, on Flickr"><img alt="Apple muffin " class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6077/6086089299_e808886c7b.jpg" width="350"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

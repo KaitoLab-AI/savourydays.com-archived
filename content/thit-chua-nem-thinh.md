@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2014/05/ThitChuaNemThinh.jpg"
 description: "cách làm nem nắm, nem thính, thịt chua"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Nhân tiện có bì lợn đã làm sạch sẵn trong tủ lạnh, thính gạo cũng vẫn còn, và tự nhiên lại nhớ đến một loạt các món nem nắm, thịt chua, nem thính mà mình vốn rất thích khi còn ở Việt Nam. Cho nên kết quả là có cái món Đông Tây kết hợp này: Thịt trụng sơ trong nước sôi cho chín tái, trộn với bì, mắm, đường, chanh, thêm tỏi, thính gạo, lá chanh. Ăn kèm bún, dưa chuột và mắm nêm. Chẳng biết gọi tên nó là gì cho phải, chỉ biết một điều là nó cực cực cực Ngooooooon!!!!! Thịt được chần đủ để đảm bảo vệ sinh, nhưng không chín quá kĩ, sau đó lại bóp với tỏi và chanh nên rất mềm và ngọt, thêm bì giòn, vị chua chua, mằn mặn, ngòn ngọt và thơm mùi của tỏi, của thính gạo. Nếu có thêm lá ổi, lá sung hay đinh lăng ăn kèm thì chắc còn “phê” nữa. Nhưng ở bên này chẳng kiếm đâu được mấy loại lá ấy nên mình mua dưa chuột thế vào, để có rau cho mát ruột. Nhìn chung là ngon, nhanh, dễ và rất hợp với mùa hè ^.^</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/14235202012/" title="IMG_6685-1 by LinhTrang9185, on Flickr"><img alt="IMG_6685-1" class="aligncenter" height="640" loading="lazy" src="https://farm3.staticflickr.com/2930/14235202012_7de59cddfc_z.jpg" width="478"/></a></p>
 <p>Công thức mình không đong đếm cụ thể lắm, nhưng cũng đơn giản thôi, nguyên liệu (cho 2 người ăn) gồm có:</p>
@@ -22,10 +21,7 @@ description: "cách làm nem nắm, nem thính, thịt chua"
 <li><em>Lá chanh thái chỉ</em></li>
 </ul>
 <p><em><strong><em>Ghi</em> chú thêm về nguyên liệu:</strong></em></p>
-<p>– Ngoài thịt nạc vai, các bạn có thể mua nạc mông, hoặc dùng thịt bò như thăn bò, bắp bò… nên chọn loại thịt nào không có quá nhiều mỡ, khi ăn sẽ không bị ngấy.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>– Ngoài thịt nạc vai, các bạn có thể mua nạc mông, hoặc dùng thịt bò như thăn bò, bắp bò… nên chọn loại thịt nào không có quá nhiều mỡ, khi ăn sẽ không bị ngấy.</p>
 <p>– Bì lợn nhanh nhất là mua sẵn ở hàng bán nem chạo, mua cả bì và thính gạo, để riêng rồi về nhà trần lại bì lợn cho sạch, xả lại qua nước lạnh, để cho khô ráo là xong.</p>
 <p>Nếu muốn làm từ bì tươi thì hơi cực một chút vì sẽ cần phải tẩy mùi mấy lượt để bì hết hôi, sau đó luộc rồi để nguội, thái mỏng hoặc thái chỉ (đoạn này mệt nhất vì bì cứng, thái khá mỏi tay).</p>
 <p>Mình ở bên này có tìm mua được bì đông lạnh đã thái chỉ sẵn ở chợ châu Á. Bì còn sống, nhưng đã được thái nhỏ rồi, nên cũng đỡ hơn. Mình xử lí bì thì có mấy bước sau:</p>
@@ -41,10 +37,7 @@ description: "cách làm nem nắm, nem thính, thịt chua"
 <p>– Thính gạo nếu không mua sẵn thì có thể tự làm. Mình trộn theo tỉ lệ 6 gạo tẻ: 2 gạo nếp: 2 đậu xanh. Rửa sạch, để cho thật khô rồi rang trong chảo chống dính, ở lửa vừa đến chín thơm (nhưng không để cháy nhé). Để nguội rồi mang đi xay nhuyễn là có thính ngon. Có thể làm nhiều rồi bỏ vào lọ kín, dùng dần.</p>
 <p>Sau khi đã có những thứ trên rồi thì các bước còn lại đơn giản thôi, như thế này nhé:</p>
 <p>1. Thịt thái lát mỏng. Có thể để thịt vào ngăn đá khoảng 15 – 20 phút cho thịt hơi cứng lại, thái mỏng sẽ dễ hơn.</p>
-<p>2. Đun 1 nồi nước sôi. Đợi nước sôi to thì cho thịt vào, đảo nhanh tay cho thịt chín đều. Để thịt trong nồi khoảng 5 giây (dễ nhất là đếm từ 1 đến 5 :) ) thì đổ thịt ra rổ rồi xóc cho thật ráo nước. Các bạn có thể chần thịt lâu hơn, nhưng đừng làm cho thịt chín kĩ quá, sẽ mất vị ngọt và dễ bị khô nữa.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>2. Đun 1 nồi nước sôi. Đợi nước sôi to thì cho thịt vào, đảo nhanh tay cho thịt chín đều. Để thịt trong nồi khoảng 5 giây (dễ nhất là đếm từ 1 đến 5 :) ) thì đổ thịt ra rổ rồi xóc cho thật ráo nước. Các bạn có thể chần thịt lâu hơn, nhưng đừng làm cho thịt chín kĩ quá, sẽ mất vị ngọt và dễ bị khô nữa.</p>
 <p>3. Cho thịt vào bát, cho tỏi bằm và nước cốt chanh (với 300 gr thịt mình dùng 1 quả chanh tươi). Đeo găng tay rồi trộn và bóp nhẹ cho thịt ngấm chanh và tỏi, thịt sẽ tiếp tục “chín” tiếp nhờ tỏi và chanh này.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/14050818938/" title="2014-05-21 by LinhTrang9185, on Flickr"><img alt="2014-05-21" class="aligncenter" height="500" loading="lazy" src="https://farm3.staticflickr.com/2902/14050818938_38eaa098d2.jpg" width="500"/></a></p>
 <p>4. Cho bì, đường, nước mắm và tiêu xay vào trộn cùng thịt. Lượng đường và mắm này có thể thay đổi tùy theo khẩu vị và loại nước mắm mà bạn dùng. Mình dùng khoảng 1 thìa canh đường và 1.5 thìa canh nước mắm (thìa to để ăn phở, như trong hình, nhưng lượng đường nhiều hơn trong hình nhé).</p>
@@ -53,4 +46,4 @@ description: "cách làm nem nắm, nem thính, thịt chua"
 <p>5. Để thịt khoảng 15  – 20 phút cho ngấm. Chắt hết nước tiết ra từ thịt. Phần nước này có thể bỏ đi hoặc dùng để pha nước chấm. Trộn thịt và bì với thính gạo và lá chanh thái chỉ. Có thể cho thêm ớt tươi nếu thích.</p>
 <p>Xong rồi, măm măm thôi!! ^.^</p>
 <p>Yêu cầu thành phẩm thì như đã mô tả ở đầu bài: thịt mềm ngọt, màu trắng hông tươi, bì giòn, vị chua mặn ngọt vừa phải. Có thể dùng với cơm, bún hoặc cuốn nem chấm nước mắm chua ngọt. Món này rất hợp với mùa hè, dành cho chị em ăn chơi hoặc để anh em nhậu với bia đều ngon cả ;)</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2012/12/BanhQuyChocoQuaKho1.jpg"
 description: "bánh quy giáng sinh, cách làm oreo, bánh quy chocolate"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
 <p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
 <p>——————————————</p>
 <p>Món bánh trong bài lần này là một loại trong túi quà Giáng sinh của mình gửi tặng cô giáo hướng dẫn luận án. Cô hướng dẫn mình từ khi làm luận văn thạc sĩ ở Hà Lan, giờ lại tiếp tục với luận án TS nên hai cô trò có một thời gian khá dài làm việc cùng nhau. Có lẽ vì cô cũng là người châu Á, và hai cô trò có nhiều điểm giống nhau trong cách làm việc và tính cách nữa, nên với mình thì cô không chỉ là người thầy mà thân thiết hơn rất nhiều. Giáng sinh năm nay đáng lẽ ra mình qua thăm thầy cô nhưng vì kế hoạch thay đổi nên không đi được, cho nên thay vào đó là một túi quà với rất nhiều bánh quy tự làm :)</p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/8293909104/" title="2012-12-16 by LinhTrang9185, on Flickr"><img alt="2012-12-16" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8504/8293909104_e0357607c4.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8293909104/" title="2012-12-16 by LinhTrang9185, on Flickr"><img alt="2012-12-16" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8504/8293909104_e0357607c4.jpg" width="500"/></a></p>
 <p>Vì trong túi quà đã có mùi thơm của dừa và hạnh nhân từ<strong> <a href="/banh-quy-dua-hanh-nhan-almond-coconut-cookies/">bánh quy dừa</a></strong>, mùi thơm của bơ, mứt quả và rượu Rum từ <a href="/banh-quy-bo/"><strong>bánh quy bơ</strong></a>, nên mình nghĩ nếu có thêm vị Chocolate chắc sẽ rất tuyệt. Và thế là có loại bánh Chocolate với quả khô này. Bánh giòn kiểu như bánh quy Oreo, thơm mùi Chocolate và có vị dẻo dẻo chua chua ngọt ngọt của quả khô nữa.</p>
 <p><span style="color: #800000;"><strong>Mức độ</strong></span>: Bình thường</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
@@ -45,10 +41,7 @@ description: "bánh quy giáng sinh, cách làm oreo, bánh quy chocolate"
 <p>2. Cho bơ và muối vào âu. Để máy ở tốc độ chậm, đánh khoảng 30-60 giây cho bơ mềm nhuyễn.</p>
 <p>3. Cho đường vào âu bơ. Để máy ở tốc độ vừa, đánh đến khi bơ và đường hòa quyện, bơ bông xốp. Tuy nhiên <em>không cần đánh quá bông như làm các loại bánh quy bơ hay bánh gateau bơ</em>. Mình dùng máy cầm tay, đánh mất khoảng 5 phút.</p>
 <p>4. Cho lòng đỏ trứng và vanilla vào âu. Đánh cho hòa quyện. <strong>Lưu ý</strong>: <em>Trứng phải ở nhiệt độ phòng, nếu không sẽ dễ gây hiện tượng ốc trâu (cảm giác như bơ tách nước thành các vụn nhỏ li ti, lợn cợn).</em></p>
-<p>5. Rây bột thành 2-3 phần vào âu. Để máy ở tốc độ chậm, đánh hòa quyện sau mỗi lần thêm bột. Các bạn sẽ thấy bột có vẻ rất khô và rời rạc thành từng vụn nhỏ. Sau khi đã cho hết bột, các bạn có thể dùng spatula hoặc thìa gỗ để trộn đến khi hỗn hợp quyện thành một khối đồng nhất.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>5. Rây bột thành 2-3 phần vào âu. Để máy ở tốc độ chậm, đánh hòa quyện sau mỗi lần thêm bột. Các bạn sẽ thấy bột có vẻ rất khô và rời rạc thành từng vụn nhỏ. Sau khi đã cho hết bột, các bạn có thể dùng spatula hoặc thìa gỗ để trộn đến khi hỗn hợp quyện thành một khối đồng nhất.</p>
 <p>6. Chuẩn bị một miếng giấy nến, đổ bột ra giấy. Nắn bột thành hình trụ hoặc hình khối vuông tùy thích. Bột sẽ hơi dính nên tốt nhất là nắn bằng giấy hoặc có thể xoa chút dầu ăn lên tay để thao tác dễ hơn. Ngoài ra, có thể chia bột thành hai khối. Bọc kín cả khối bột bằng giấy nến hoặc nilon rồi để tủ lạnh từ 1.5-2 tiếng, đến khi bột cứng lại có thể cắt được.</p>
 <p>* <strong>Lưu ý</strong>: <em>tùy vào loại bột cocoa và nhiệt độ phòng, nhiệt độ tủ lạnh mà thời gian để bột cứng có thể sẽ khác nhau. Cách tốt nhất là sau khoảng 1 tiếng các bạn kiểm tra thử xem bột có thể cắt được chưa. Không nên để quá lâu làm bột quá cứng sẽ khó làm. </em></p>
 <p>7. Bật lò trước khi nướng bánh khoảng 10-15 phút, nhiệt độ 170 độ C – hai lửa. Chuẩn bị khay nướng có lót tấm nướng bánh hoặc giấy nướng bánh. Nếu không có giấy nướng, có thể chống dính khay bằng cách quét 1 lớp bơ mỏng lên khay rồi rắc 1 lớp bột mỏng, úp ngược khay cho bột thừa rơi hết.</p>
@@ -60,4 +53,4 @@ description: "bánh quy giáng sinh, cách làm oreo, bánh quy chocolate"
 <p>– <em>Việc nướng ở nhiệt độ và thời gian bao nhiêu còn tùy thuộc vào lò. Nếu là lò nhỏ, có thể sẽ cần giảm nhiệt độ và nướng ở thời gian lâu hơn</em>.</p>
 <p>– <em>Nếu bánh chưa được đủ giòn như ý muốn, sau khi nướng xong hết, các bạn có thể bật lò ở 100-110 độ C rồi cho toàn bộ bánh vào sấy trong khoảng 5-10 phút (không nên lâu hơn vì có thể sẽ làm cho bánh bị khô cứng). </em></p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/8293909612/" title="IMG_8554 by LinhTrang9185, on Flickr"><img alt="IMG_8554" class="aligncenter" height="362" loading="lazy" src="http://farm9.staticflickr.com/8081/8293909612_a9301be26b.jpg" width="500"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

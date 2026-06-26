@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2015/05/TricolorPannaCotta.jpg"
 description: "panna cotta, cách làm thạch, gelatine"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Panna Cotta là một loại đồ tráng miệng rất dễ làm, đẹp mắt và có thể biến tấu theo nhiều kiểu để thay đổi mùi vị tùy theo sở thích nữa. Thành phần cơ bản của Panna Cotta thường gồm kem tươi, sữa tươi và Gelatin để tạo đông cho nên hương vị “điển hình” là mềm, mịn, thơm và hơi ngậy một chút. Panna Cotta cũng đông chắc như thạch nhưng nhờ Gelatin nên mềm dẻo chứ không giòn như thạch. Kiểu đông “mềm dẻo” này có lẽ cũng hợp hơn khi trong thành phần có kem sữa, bỏ vào miệng là cảm thấy vị thơm ngậy ngọt ngào tan chảy trên đầu lưỡi ngay :) Panna Cotta có thể tạo hình trong khuôn nhỏ, trang trí theo nhiều kiểu khác nhau. Nên nếu muốn gây ấn tượng với khách mời trong khi không có nhiều thời gian để chuẩn bị thì Panna Cotta, theo mình nghĩ, là một sự lựa chọn rất rất tốt.</p>
 <p>Như đã nói ở trên, Panna Cotta là một loại tráng miệng có nhiều kiểu biến tấu đa dạng. Công thức cơ bản của Panna Cotta mà mình thấy rất nhiều đầu bếp nổi tiếng dùng có tỉ lệ các nguyên liệu là <em><strong>50% kem tươi, 50% sữa tươi và 25 gram Gelatin cho 1 lít chất lỏng</strong></em>. Càng nhiều Gelatin thì sản phẩm sẽ càng đông cứng và đặc hơn. Cá nhân mình thích Panna Cotta kiểu mềm mềm, cầm thìa ấn vào có cảm giác sóng sánh như nước nhưng vẫn đủ đông nên mình hay dùng ít Gelatin hơn tỉ lệ trên một chút. Từ công thức cơ bản này, các bạn có thể trộn thêm mùi vị tùy thích, ví dụ thêm bột trà xanh, bột ca cao hoặc các loại chiết xuất với nhiều mùi vị khác nhau.</p>
 <p>Món mình làm ngày hôm nay gồm hai phần Panna Cotta vị va-ni, sô-cô-la với một lớp mousse xoài ở trên cùng. Mousse mềm thơm và nhuyễn mịn, ăn kèm với hai phần Panna Cotta còn lại rất hợp, mùi vị trung hòa, ngọt vừa đủ và chua cũng vừa đủ. Ăn rất thích :)</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/18011130496" title="IMG_2092-1 by Trang Linh, on Flickr"><img alt="IMG_2092-1" class="aligncenter" height="402" loading="lazy" src="https://c2.staticflickr.com/6/5339/18011130496_744bcb07e3_z.jpg" width="640"/></a></p>
-<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span> (cho 4 cốc nhỏ)</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span> (cho 4 cốc nhỏ)</p>
 <p><strong>A. Panna Cotta vị Va-ni</strong></p>
 <ul>
 <li><em>60 ml sữa tươi không đường</em></li>
@@ -47,10 +43,7 @@ description: "panna cotta, cách làm thạch, gelatine"
 <p>1. Vì loại cốc sử dụng có thể có kích thước khác nhau, nên để cân đong được định lượng nguyên liệu chính xác, các bạn có thể tự đong lượng nguyên liệu cần thiết bằng cách sau.</p>
 <p>Đặt cốc lên cân, để cốc nghiêng như trong hình, đổ nước vào đầy đến mức mà bạn muốn (tượng trưng cho lớp Panna Cotta đầu tiên), rồi đong xem lượng nước này có thể tích/ khối lượng bao nhiêu.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/17851362909" title="IMG_8669 by Trang Linh, on Flickr"><img alt="IMG_8669" class="aligncenter" height="428" loading="lazy" src="https://c4.staticflickr.com/8/7783/17851362909_b53ff0f515_z.jpg" width="640"/></a></p>
-<p>Như trong hình thì mình đong được 30 gram/ 30 ml nước. Tức là, cho mỗi cốc, phần Panna Cotta vị va-ni cần dùng là 30 ml. Như vậy để đủ cho 4 cốc thì cần 30 x 4 = 120 ml chất lỏng. Dựa vào công thức Panna Cotta cơ bản (50% kem tươi, 50% sữa tươi, 25 gram Gelatin cho 1 lít chất lỏng) thì mình tính ra tỉ lệ công thức như ở đầu bài.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Như trong hình thì mình đong được 30 gram/ 30 ml nước. Tức là, cho mỗi cốc, phần Panna Cotta vị va-ni cần dùng là 30 ml. Như vậy để đủ cho 4 cốc thì cần 30 x 4 = 120 ml chất lỏng. Dựa vào công thức Panna Cotta cơ bản (50% kem tươi, 50% sữa tươi, 25 gram Gelatin cho 1 lít chất lỏng) thì mình tính ra tỉ lệ công thức như ở đầu bài.</p>
 <p>Phần Panna Cotta Chocolate thì mình tính bằng khoảng 2/3 lượng Panna cotta vanilla. Còn Mousse xoài mình áng chừng thôi, làm dư một chút cũng không sao :)</p>
 <p>Nếu cốc của các bạn có kích thước khác hoặc các bạn muốn làm với số lượng nhiều hơn thì có thể tự điều chỉnh tỉ lệ này nhé.</p>
 <p>2. Làm Panna Cotta vị Vanilla</p>
@@ -67,7 +60,6 @@ description: "panna cotta, cách làm thạch, gelatine"
 <p>(*) Lượng đường và lượng bột cacao có thể điều chỉnh theo khẩu vị. Các bạn có thể dùng chocolate thay cho bột cacao. Nếu chocolate có hàm lượng cacao lớn hơn 60% thì nên giảm lượng kem tươi và tăng lượng sữa tươi trong công thức (có thể dùng tỉ lệ 35% kem tươi, 65% sữa tươi rồi thêm chocolate để panna cotta không bị cứng).</p>
 <p>– Vắt lá Gelatin cho ráo nước rồi bỏ vào nồi quấy nhanh tay để Gelatin tan hết và hòa quyện. Nếu dùng Gelatin bột thì đổ cả Gelatin và nước ngâm vào nồi. Để cho hỗn hợp nguội bớt. Thi thoảng quấy đều, tránh hỗn hợp đóng váng trên mặt. <em>Cần phải để nguội vì nếu hỗn hợp còn nóng, khi đổ vào cốc sẽ làm phần Panna Cotta va-ni trong cốc bị tan chảy. </em></p>
 
-
 <p>– Chia hỗn hợp vào các cốc như trong hình. Cho vào tủ lạnh để đông hẳn.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/17851360209" title="IMG_8674 by Trang Linh, on Flickr"><img alt="IMG_8674" class="aligncenter" height="428" loading="lazy" src="https://c2.staticflickr.com/6/5321/17851360209_41cac22883_z.jpg" width="640"/></a></p>
 <p>4. Làm Mousse Xoài (khi 2 phần Panna Cotta đã đông lại)</p>
@@ -80,4 +72,4 @@ description: "panna cotta, cách làm thạch, gelatine"
 <p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/18011135006" title="IMG_2079-1 by Trang Linh, on Flickr"><img alt="IMG_2079-1" class="aligncenter" height="428" loading="lazy" src="https://c2.staticflickr.com/6/5342/18011135006_61630500c4_z.jpg" width="640"/></a></p>
 <p style="text-align: center;"><em>Có thể trang trí bằng lá bạc hà tươi :)</em></p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/18038443171" title="IMG_2090-1 by Trang Linh, on Flickr"><img alt="IMG_2090-1" class="aligncenter" height="640" loading="lazy" src="https://c2.staticflickr.com/8/7763/18038443171_8833307d46_z.jpg" width="637"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2014/05/Anmitsu2.jpg"
 description: "mochi, anmitsu, đậu đỏ, kem trà xanh"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>(*) Nhắn nhe: Tuần vừa rồi mình đi vắng nên không vào blog trả lời phản hồi được. Bạn nào còn thắc mắc vẫn cần giải đáp thì chịu khó gõ lại hoặc để lại thêm 1 dòng “nhắc” dưới câu hỏi nhé. Mình sẽ cố gắng trả lời sớm :)</p>
 <p>————————–</p>
 <p>Mình tình cờ tìm thấy Anmitsu trong một lần đi lang thang trên mạng tìm hiểu về đồ ăn Nhật, và ngay lập tức “kết nổ dĩa” em nó. Ấn tượng về Anmitsu ngay trong lần “gặp gỡ” đầu tiên đã rất đặc biệt. Trước hết là “đẹp” – theo một kiểu rất Nhật Bản: đơn giản, không cầu kì mà hài hòa và tinh tế. Chắc có thể ví mỗi bát Anmitsu như một bức tranh hội tụ đủ thứ màu sắc và hương vị thơm ngon: trắng muốt của bánh dày, trắng trong của thạch, xanh non của kem trà, đỏ sậm của đậu, cùng vàng, trắng, xanh từ hoa quả tươi. Chỉ mới nhìn mà như đã cảm thấy trên đầu lưỡi sự tươi mát ngọt lành từ các loại nguyên liệu rồi.</p>
 <p>Không chỉ đẹp, Anmitsu còn tạo cho mình ấn tượng rằng đây hẳn sẽ là một món ăn rất thú vị. Tuy mỗi nguyên liệu đều không có gì đặc biệt, nhưng khi kết hợp lại, sự tổng hòa của vị dẻo mềm từ bánh mochi, vị mát lạnh thơm ngái từ kem trà, ngọt bùi từ đậu đỏ, giòn tan của thạch và chua ngọt từ hoa quả tươi… có lẽ không hẳn chỉ là “thú vị” mà phải gọi là “tuyệt hảo” mới đúng.</p>
-<p><a href="https://www.flickr.com/photos/55490207@N05/13998087678/" title="IMG_6598-1 by LinhTrang9185, on Flickr"><img alt="IMG_6598-1" class="aligncenter" height="640" loading="lazy" src="https://farm6.staticflickr.com/5487/13998087678_c7a86d00dd_z.jpg" width="606"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13998087678/" title="IMG_6598-1 by LinhTrang9185, on Flickr"><img alt="IMG_6598-1" class="aligncenter" height="640" loading="lazy" src="https://farm6.staticflickr.com/5487/13998087678_c7a86d00dd_z.jpg" width="606"/></a></p>
 <p>Vì có quá nhiều ấn tượng tốt đẹp như vậy nên mình đã tranh thủ thời gian làm thử ngay. Kết quả không khác nhiều so với tưởng tượng ban đầu. Chỉ có một điều là với mình hình như món ăn vẫn còn hơi “khô”. Có lẽ là khẩu vị cá nhân thôi, nhưng mình nghĩ nếu có thêm chút nước, chẳng hạn như thêm chút nước cốt dừa hay chè đậu đỏ nấu loãng hơn, hoặc phần nước đường cho nhiều hơn một chút, chắc mọi thứ sẽ mát mẻ, dễ “trôi” và hấp dẫn hơn rất nhiều.</p>
 <p>Anmitsu rất dễ làm và cũng có nhiều biến tấu, tùy vào khẩu vị và sở thích mà người làm có thể thay đổi một số nguyên liệu để tạo ra các loại Anmitsu khác nhau. Công thức mà mình giới thiệu tại đây gồm kem trà xanh, thạch Agar (Kanten), đậu đỏ (anko), bánh nếp (Shiratama Dango), nước đường (kuromitsu) và một vài loại quả tươi. Tuy nhìn thì thấy nhiều vậy nhưng chuẩn bị Anmitsu không mất nhiều sức. Tất cả đều có thể tự làm, ngoài kem và đậu đỏ phải chuẩn bị trước thì các thành phần còn lại có thể làm ngay trước khi ăn, mất độ 10 – 15 phút gì đó thôi. Trong công thức dưới đây mình sẽ viết các nguyên liệu theo thứ tự mà mình đã chuẩn bị nhé.</p>
 <p><strong>Số lượng</strong>: 4 phần ăn</p>
@@ -31,10 +27,7 @@ description: "mochi, anmitsu, đậu đỏ, kem trà xanh"
 <p>2. Cho kem tươi (lạnh) vào âu. Rây bột trà vào âu. Dùng phới lồng cầm tay hoặc dùng máy đánh trứng ở mức thấp nhất, đánh cho kem tươi và bột trà hòa quyện.</p>
 <p>3. Cho sữa đặc vào âu. Tiếp tục dùng phới lồng hoặc để máy đánh trứng ở tốc độ thấp nhất, đánh đều. Sau khi các nguyên liệu đã hòa quyện, các bạn có thể nếm thử và tự điều chỉnh mùi vị kem theo ý mình. Ví dụ: nếu thấy chưa đủ mùi trà thì cho thêm bột trà, chưa đủ ngọt thì cho thêm sữa, nếu hỗn hợp quá ngọt thì cho thêm 10 – 20ml kem tươi….</p>
 <p>4. Tăng dần tốc độ máy, đánh đến khi hỗn hợp đặc lại thì hạ thấp tốc độ, đánh tiếp đến khi kem vừa đạt “bông cứng”: kem đặc, chạy máy thấy có vân, nhấc que đánh lên thấy có chút chóp nhọn trên mặt âu. <strong>Lưu ý: </strong><em>khi kem bắt đầu đặc thì nên đánh ở tốc độ thấp nhất hoặc dùng phới lồng, đánh bằng tay để dễ theo dõi độ bông của kem và dừng lại ngay khi kem vừa đủ bông. Không đánh quá lâu hoặc quá nhiều, kem tươi sẽ bị tách nước, tạo ra hiện tượng ốc trâu (lợn cợn, lổn nhổn)</em>.</p>
-<p>5. Đổ kem vào hộp đựng, đậy nắp kín. Để vào ngăn đá. Tùy vào lượng kem và độ lạnh của tủ đá mà sau khoảng 3 – 4h là có thể dùng được.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>5. Đổ kem vào hộp đựng, đậy nắp kín. Để vào ngăn đá. Tùy vào lượng kem và độ lạnh của tủ đá mà sau khoảng 3 – 4h là có thể dùng được.</p>
 <p><strong>B. Mứt đậu đỏ (Anko)</strong></p>
 <ul>
 <li><em>200 gr đậu đỏ</em></li>
@@ -72,7 +65,6 @@ description: "mochi, anmitsu, đậu đỏ, kem trà xanh"
 </ul>
 <p>Cho tất cả các nguyên liệu vào nồi. Đặt lên bếp, đun ở lửa vừa – cao. Vừa đun vừa quấy đều. Khi hỗn hợp sôi thì hạ lửa nhỏ, quấy đều đến khi đường tan hết, nước trở nên đặc sánh thì tắt bếp. Để nguội.</p>
 
-
 <p><strong>F. Hoa quả ăn kèm</strong></p>
 <p>Các bạn có thể chọn các loại hoa quả tùy theo mùa và khẩu vị. Nên chọn các loại quả có nhiều màu sắc, sẽ làm món ăn hấp dẫn hơn.</p>
 <p><strong>E. Trình bày:</strong></p>
@@ -81,4 +73,4 @@ description: "mochi, anmitsu, đậu đỏ, kem trà xanh"
 <p>Trong mùa nóng, các bạn có thể chuẩn bị trước các loại nguyên liệu và để tủ lạnh. Riêng với bánh nếp, nếu muốn để lâu thì cần bảo quản bánh trong nước. Khi dùng nên luộc hoặc hấp lại cho bánh mềm trở lại.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/14181438761/" title="IMG_6600-1 by LinhTrang9185, on Flickr"><img alt="IMG_6600-1" class="aligncenter" height="551" loading="lazy" src="https://farm3.staticflickr.com/2903/14181438761_cf87d46d06_z.jpg" width="640"/></a></p>
 <p>* <em>Công thức tham khảo và chỉnh sửa từ <a href="http://www.justonecookbook.com/recipes/anmitsu/">Just One Cookbook </a></em></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

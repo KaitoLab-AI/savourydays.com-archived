@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2015/04/GateauNBSauRieng.jpg"
 description: "ga-tô nhật bản, japanese cotton cheesecake"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Chào cả nhà,</p>
 <p>Mình đã quay trở lại với nồi niêu xoong chảo và cái bếp bừa bộn (nhưng bù lại, hầu như ngày nào cũng rất thơm ;) ) của mình rồi đây ^.^ Thời gian “đi vắng” vừa qua không chỉ có riêng một tháng về nhà mà còn cả khoảng dài trước đó nữa, có rất nhiều điều để kể và để nhớ. Nhưng chắc xin hẹn một bài khác vì hôm nay mình đã chuẩn bị một món bánh rất đặc biệt để tặng cả nhà nhân dịp “lâu lắm rồi chúng mình mới gặp nhau” rồi :) Nên chúng mình “uống trà, ăn bánh” trước đã rồi nghe chuyện sau nhé ;)</p>
 <p>Bánh của ngày hôm nay không hẳn là mới nhưng so với “chị em” của nó đã từng xuất hiện tại SD thì “bạn mới” này có lẽ là hơn không chỉ một mà rất nhiều bậc. Tên của “bạn ấy” là <strong>gateau phô-mai Nhật Bản – <em>phiên bản sầu riêng</em>.</strong></p>
 <p>Gateau phô-mai Nhật Bản là một trong những công thức mà mình cực kì ưng ý. Nếu như các loại bánh khó khác như chiffon hay gateau Nhật Bản đôi khi cũng có lúc xẹp hay lõm mặt thì với Gateau phô-mai Nhật Bản mình chưa bao giờ thất bại. Còn vị ngon của bánh thì không cần phải quảng cáo rồi. Vì bánh vốn dĩ đã rất ngon nên mình chưa bao giờ nghĩ tới chuyện sẽ cho thêm hương liệu khác vào bánh. Nhưng sau khi thử với sầu riêng thì mình thực sự bị chinh phục hoàn toàn. Sầu riêng bình thường có mùi khó chịu là thế mà không thể ngờ được khi cho vào bánh và mang nướng lên lại có hương thơm quyến rũ và ngọt ngào khủng khiếp, nó vừa đậm đà, vừa ngây ngất, theo kiểu….khó tả lắm. Nói chung là nướng bánh này thì đừng nên đứng trong bếp, nếu không bao tử sẽ kêu réo rất nhanh :P</p>
-<p><a href="https://www.flickr.com/photos/55490207@N05/16993839666/" title="IMG_1345 by LinhTrang9185, on Flickr"><img alt="IMG_1345" class="aligncenter" height="640" loading="lazy" src="https://farm9.staticflickr.com/8705/16993839666_47dc733bf5_z.jpg" width="516"/></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="https://www.flickr.com/photos/55490207@N05/16993839666/" title="IMG_1345 by LinhTrang9185, on Flickr"><img alt="IMG_1345" class="aligncenter" height="640" loading="lazy" src="https://farm9.staticflickr.com/8705/16993839666_47dc733bf5_z.jpg" width="516"/></a></p>
 <p>Vì có sầu riêng nên mình phải điều chỉnh lại công thức một chút, kết quả cũng rất thú vị. Bánh không quá béo ngậy, rất mềm xốp và nhẹ, đặc biệt là ẩm và mịn tan trong miệng, rất giống kiểu của Japanese cotton souffle mà mình đã từng được nếm thử ở Tokyo. Túm lại là ưng ý với em này lắm lắm lắm lắm lắm, cho nên ghi lại công thức ở đây để tặng lại cả nhà, chúc các bạn cũng sẽ thành công và có cảm giác mãn nguyện như mình khi nếm thử bánh nhé ;)</p>
 <p><span style="color: #800000;"><strong>Mức độ</strong></span>: <strong>Khó</strong></p>
 <p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn tròn đế liền đường kính 20 cm (cắt giấy nến lót dưới đáy khuôn)</p>
@@ -43,10 +39,7 @@ description: "ga-tô nhật bản, japanese cotton cheesecake"
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <p>Cách làm của bánh về cơ bản giống với Japanese cotton cheesecake, đã được giới thiệu với hướng dẫn các bước rất tỉ mỉ <a href="/japanese-cotton-cheese-cake-banh-pho-mai-nhat-ban/"><strong>tại bài viết này</strong></a>, các bạn có thể xem lại, đặc biệt lưu ý các khâu khó như: Đánh lòng trắng trứng, trộn bột và nướng cách thủy nhé.</p>
 <p>1. Xay nhuyễn thịt sầu riêng tươi. Nếu không có máy xay thì có thể cho sầu riêng vào rây hay rá, dùng thìa hoặc nĩa miết cho sầu riêng rơi qua rây. Sầu riêng chín mềm làm theo cách này rất dễ và nhanh.</p>
-<p style="text-align: center;"><em>Sầu riêng mới rã đông </em></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p style="text-align: center;"><em>Sầu riêng mới rã đông </em></p>
 <p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/16397406244/" title="IMG_8299 by LinhTrang9185, on Flickr"><img alt="IMG_8299" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7600/16397406244_5d7d9d32a2.jpg" width="500"/></a></p>
 <p style="text-align: center;"><em>Miết qua rây </em></p>
 <p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/16397405234/" title="IMG_8301 by LinhTrang9185, on Flickr"><img alt="IMG_8301" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7641/16397405234_4a35c4a3a7.jpg" width="500"/></a></p>
@@ -62,7 +55,6 @@ description: "ga-tô nhật bản, japanese cotton cheesecake"
 <p><a href="https://www.flickr.com/photos/55490207@N05/17018377892/" title="IMG_8307 by LinhTrang9185, on Flickr"><img alt="IMG_8307" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7634/17018377892_908a5a4885.jpg" width="500"/></a></p>
 <p>Lọc hỗn hợp qua rây một lần nữa để hỗn hợp thật mịn. Để sang một bên.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/17019814475/" title="IMG_8309 by LinhTrang9185, on Flickr"><img alt="IMG_8309" class="aligncenter" height="333" loading="lazy" src="https://farm9.staticflickr.com/8697/17019814475_8f8c13a617.jpg" width="500"/></a></p>
-
 
 <p>Làm nóng lò ở nhiệt độ 160 độ C (hai lửa). Đun nước sôi để nướng cách thủy.</p>
 <p>4. Đánh bông lòng trắng trứng với muối, cream of tartar và đường. Cần đánh lòng trắng trứng đến bông cứng: lòng trắng bóng mịn, nhấc que đánh lên thấy chóp hơi cong nhưng không bị oặt xuống. <em>Vì hỗn hợp lòng đỏ khá “nặng” do có nhiều chất béo, nên nếu lòng trắng đánh không đủ cứng, khi trộn cùng hỗn hợp lòng đỏ các bọt khí sẽ dễ bị vỡ, làm bột bánh bị loãng, khi nướng sẽ nở kém.</em></p>
@@ -86,4 +78,4 @@ description: "ga-tô nhật bản, japanese cotton cheesecake"
 <li><a href="/gateau-pho-mai-nhat-ban-vi-sau-rieng-durian-japanese-cheese-souffle/">Gateau phô-mai Nhật Bản vị sầu riêng</a></li>
 <li><a href="/video-japanese-cotton-cheese-souffle-gateau-pho-mai-nhat-ban/">[VIDEO] Japanese cotton cheese souffle – Gateau phô-mai Nhật Bản</a></li>
 </ol>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

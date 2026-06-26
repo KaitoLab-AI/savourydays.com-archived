@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2015/06/BanhBaoKimSa1.jpg"
 description: "Cách làm bánh bao kim sa của Savoury Days với nhân bánh vàng sáng đẹp, vị rất thơm ngon, ngọt vừa, ngậy nhưng không ngấy, đặc biệt là độ tan chảy rất tốt."
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Hôm nay mình muốn giới thiệu với các bạn cách làm bánh bao kim sa. Vì món bánh này mà 5 chục trứng muối định dành làm bánh trung thu của mình đã vơi đi quá nửa :”&gt;</p>
 <p>Biết Liu Sha Bao lâu rồi nhưng gần đây mới có thời gian và động lực để thử nó. Mặc dù mình trước nay vẫn thích các loại bánh bao mặn hơn, nhưng với món bánh này thì ngoài hương vị, còn có một thứ giống như “thử thách” mà mình muốn chinh phục nữa. Chắc không cần nói các bạn cũng đoán được nhỉ? Đấy là: <em>Làm sao cho phần nhân bánh có thể chảy được thành dòng mịn mượt, đẹp đẽ :)<br/>
 </em></p>
 <p>Mình đã thử khá nhiều cách khác nhau và cuối cùng ưng công thức bánh bao kim sa dưới đây nhất. Nguyên liệu cho công thức này khá đơn giản và thông dụng, không cần dùng tới Gelatin hay bột Custard (mình không thích loại bột này vì cảm giác nó có mùi gì đó rất “hóa học”). Nhân bánh có màu vàng sáng đẹp, vị rất thơm ngon, ngọt vừa, ngậy nhưng không ngấy. Đặc biệt là độ tan chảy rất rất tốt. Bánh đã hấp xong để qua đêm và hấp lại, hay để trong ngăn đá vài ngày rồi mới hấp thì nhân vẫn đều chảy đẹp cả. Cực kì ưng ý luôn ^.^ . Và đây là cách làm bánh bao kim sa của mình.</p>
 <p><span style="color: #800000;"><strong>Mức độ:</strong></span> Trung bình</p>
-<p><span style="color: #800000;"><strong>Số lượng</strong>:</span> 15 cái nhỏ</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Số lượng</strong>:</span> 15 cái nhỏ</p>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <p><strong>A. Nhân bánh</strong></p>
 <ul>
@@ -49,10 +45,7 @@ description: "Cách làm bánh bao kim sa của Savoury Days với nhân bánh v
 <p>Nếu không xem được tại blog, các bạn có thể xem trực tiếp tại YouTube: <a href="https://youtu.be/hSOmKAxRn48">https://youtu.be/hSOmKAxRn48</a></p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/hSOmKAxRn48" width="560"></iframe></div>
 <p>Cách làm cụ thể đã có trong video, ở phần dưới này mình ghi chú một vài lưu ý để tránh thất bại và giúp bánh ngon nhé :)</p>
-<p>1. <strong>Về nguyên liệu</strong>:</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>1. <strong>Về nguyên liệu</strong>:</p>
 <p>– Dùng các nguyên liệu ngon và tốt để làm nhân bánh sẽ giúp nhân có mùi vị thơm ngon hơn.</p>
 <p>– Dùng bơ động vật không muối sẽ ngon hơn bơ thực vật/ magarine.</p>
 <p>– Sữa đặc có thể dùng loại của Nestley hoặc sữa Ông Thọ</p>
@@ -68,7 +61,6 @@ description: "Cách làm bánh bao kim sa của Savoury Days với nhân bánh v
 <p>– Các lưu ý cụ thể đã có trong bài viết <a href="/banh-bao-nhan-xa-xiu/" target="_blank">cách làm bánh bao cơ bản</a></p>
 <p>– Nếu không có máy thì nhồi bột bằng tay như trong clip. Tùy lượng bột và kĩ thuật nhồi, sẽ mất khoảng 15 – 20 phút.</p>
 <p>– Nếu nhồi bằng stand mixer, thời gian sẽ ngắn hơn. Chỉ nhồi ở tốc độ vừa – thấp. Tránh nhồi quá nhiều sẽ làm hỏng bột.</p>
-
 
 <p>– Phần bột trong công thức nhiều hơn so với lượng nhân, sẽ thừa ra khoảng 150 gram bột. Bột này có thể bọc kín bằng nilon rồi để ngăn đá, khi dùng rã đông trong ngăn mát tủ lạnh. Hoặc có thể tăng lượng nhân thêm 1/3 công thức :)</p>
 <p>– Các bạn có thể làm bánh với cỡ to hơn nhưng lưu ý tỉ lệ vỏ bánh: nhân là khoảng 2 lần (bánh của mình làm có 15 gr nhân và 30 gr vỏ).</p>
@@ -87,4 +79,4 @@ description: "Cách làm bánh bao kim sa của Savoury Days với nhân bánh v
 <li><a href="/video-cach-lam-banh-bao-a-z-va-cach-bat-mui-banh-bao/" target="_blank">Cách làm bánh bao A-Z cùng các công thức bánh bao trứng muối lạp sườn, bánh bao sữa chay, bánh bao nhân cade, bánh bao kim sa vị sầu riêng …</a></li>
 <li><a href="/banh-bao-nhan-xa-xiu/" target="_blank">Cách làm bánh bao – Công thức làm bánh bao nhân xá xíu</a></li>
 </ul>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

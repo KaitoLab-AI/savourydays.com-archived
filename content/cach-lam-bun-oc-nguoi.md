@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2019/02/cách-làm-bún-ốc-nguội-bannerjpg.jpg"
 description: "Cách làm bún ốc nguội - một món ăn ngon truyền thống của Hà Nội, không chỉ hợp với những ngày nóng mà trong mùa đông ăn vẫn rất \"vào\". Cách làm không hề ph"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p> </p>
 <p><span style="color: #000000;">Bún ốc nguội là món ăn cực kỳ truyền thống của Hà Nội, ngày trước mình hay ăn ở một hàng trên phố Đội Cấn và cũng chỉ thấy có hàng ấy là chuẩn vị. Từ khi hàng bún ốc ấy đóng cửa mình cũng không đi ăn ở chỗ khác nữa vì không tìm được địa chỉ nào hợp khẩu vị hơn. Nhìn vào một suất bún ốc nguội thì thấy có vẻ khá đơn điệu, chỉ có một bát gốm kiểu thời “chị Dậu” đựng chừng 5, 7 con ốc mít, chan nước chấm nguội, một chiếc mẹt lót lá chuối để một lớp bún lá hến (loại bún lá nhỏ), và đĩa rau sống các loại ăn kèm. Chỉ đơn giản, mộc mạc vậy thôi mà để lại ấn tượng khó phai. Chìa khóa của món bún ốc này nằm ở phần nước chấm nguội, sự kết hợp cân bằng giữa nước luộc ốc, giấm bỗng, mẻ, gia vị… để ra được hương vị rất thanh, nhẹ, dễ ăn và không cảm thấy bị lạnh bụng như nhiều người thường nghĩ về món này. Vì nghiện món này mà mãi chưa tìm được địa chỉ ưng ý khác nên mình đã mò mẫm tự làm ở nhà xem sao, và kết quả thật bất ngờ, nước chấm pha xong cũng “ra được cái vị” quen thuộc, ta nói vui gì đâu :D)</span></p>
 <p><span style="color: #000000;">Một phần bún ốc nguội rất đơn giản, chỉ có nước dùng ngọt thanh của ốc, chua nhẹ vị dấm bỗng, cay cay thơm thơm mùi ớt chưng, ăn cùng ốc giòn giòn thôi, nhưng cũng vì thế và ăn xong cảm giác rất dễ chịu và nhẹ bụng. Bún ốc nguội thường được yêu thích nhất vào mùa hè, nhưng mình nghĩ sau một mùa Tết với quá nhiều “sự ngấy” từ bánh chưng, xôi nếp, nem rán, giò chả thì đây chắc chắn là món ăn “đắt hàng” với cả nhà.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8104" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocnguoi_final-1024x682.jpg" width="1024"/></p>
 <h2><span style="color: #800000;"><span style="color: #000000;">CÁCH LÀM BÚN ỐC NGUỘI </span></span></h2>
-<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <ul>
 <li><em><span style="color: #000000;">1 kg ốc mít cả vỏ</span></em></li>
 <li><em><span style="color: #000000;">300 gr xương cục</span></em></li>
@@ -42,10 +38,7 @@ description: "Cách làm bún ốc nguội - một món ăn ngon truyền thốn
 <p><span style="color: #000000;">3. Chuẩn bị các nguyên liệu khác:</span></p>
 <p><span style="color: #000000;">– Cà chua rửa sạch, thái nhỏ.</span></p>
 <p><span style="color: #000000;">– Hành khô bóc vỏ, thái mỏng.</span></p>
-<p><span style="color: #000000;">– Sả rửa sạch, đập dập, cắt khúc dài 3cm</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">– Sả rửa sạch, đập dập, cắt khúc dài 3cm</span></p>
 <p><span style="color: #000000;">– Rau sống, tía tô rửa sạch, vẩy khô, thái nhỏ vừa ăn.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8108" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocnguoi3-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">4. Hấp cách thủy ốc:</span></p>
@@ -63,5 +56,3 @@ description: "Cách làm bún ốc nguội - một món ăn ngon truyền thốn
 </span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8111" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocnguoi8-1024x683.jpg" width="1024"/></p>
 
-
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

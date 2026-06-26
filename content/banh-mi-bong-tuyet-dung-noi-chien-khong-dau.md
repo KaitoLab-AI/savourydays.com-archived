@@ -8,8 +8,6 @@ image: "/wp-content/uploads/2021/12/cach-lam-banh-my-bong-tuyet-banner-610x300.j
 description: "Cách làm bánh mì hình bông tuyết vừa đẹp vừa ngon cho Giáng sinh và Năm mới. Bánh có thể nướng bằng nồi chiên không dầu"
 ---
 
-
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="font-weight: 400; color: #000000;">“Nàng thơ” Bánh mì của mình quay trở lại với phiên bản Giáng Sinh vừa “hoành tráng”, vừa mềm xốp, vừa thơm nức nở mùi kem tươi, phomai, lá thơm đây ạ 😁</span></p>
 <p><span style="font-weight: 400; color: #000000;">Vỏ bánh thì vẫn là công thức Bánh mì sữa Hokkaido thần thánh bao năm, phần nhân thì mình dùng tương cà và phomai, ăn giống vị của Pizza, trẻ con và người lớn đều thích. Ngoài ra, việc tạo hình thế này không chỉ đẹp và có không khí Giáng Sinh mà còn rất dễ ăn, mỗi người lấy 1 miếng rất vừa vặn và phù hợp cho các bữa tiệc, cả nhà thử nha. Giáng Sinh tới gần lắm rùiiiiii </span></p>
 <p><span style="font-weight: 400; color: #000000;">Trong video mình dùng nồi chiên không dầu của 2GOOD, nồi nhỏ xinh, có cả nhiệt trên và dưới dùng nướng bánh rất tiện. Nếu bạn dùng lò nướng thì mình cũng có ghi cách nướng tại công thức rồi nha ^^</span></p>
@@ -31,10 +29,7 @@ description: "Cách làm bánh mì hình bông tuyết vừa đẹp vừa ngon c
 <li><em><span style="font-weight: 400; color: #000000;">Phomai bột parmesan (có thể dùng phomai mozzarella nhưng sẽ dễ bị chảy và làm bánh không rõ hình ngôi sao)</span></em></li>
 <li><em><span style="font-weight: 400; color: #000000;">Lá thơm Ý (Italian mixed herbs)</span></em></li>
 </ul>
-<p><span style="color: #800000;"><strong>Cách làm</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/ngVSeXBkMdU" width="560"></iframe></div>
 <ol>
 <li><span style="font-weight: 400; color: #000000;"> Cách nhồi bột bánh mì sữa mình đã ghi rất chi tiết kèm video minh họa và các lưu ý quan trọng tại đây, mọi người xem nhé:</span></li>
@@ -57,4 +52,4 @@ description: "Cách làm bánh mì hình bông tuyết vừa đẹp vừa ngon c
 <li><span style="font-weight: 400; color: #000000;"> Bánh sau khi nướng để nguội trên rack, có thể ăn kèm với tương cà và mayonnaise. </span></li>
 <li><span style="font-weight: 400; color: #000000;"> Bảo quản: Bánh để trong túi kín, nếu để nhiệt độ phòng cần dùng trong ngày, hoặc để ngăn mát tủ lạnh 5 – 7 ngày, ngăn đá 3 – 4 tuần. Trước khi ăn có thể làm nóng bằng cách quay lò vi sóng 30 – 45 giấy hoặc nướng trong lò ở 180 độ C trong 5 phút.</span></li>
 </ol>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

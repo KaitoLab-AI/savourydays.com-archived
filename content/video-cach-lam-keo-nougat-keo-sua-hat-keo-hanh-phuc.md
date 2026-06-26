@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2019/01/Cách-làm-kẹo-nougat-kẹo-hạnh-phúc-k
 description: "Cách làm kẹo nougat (kẹo sữa hạt - kẹo hạnh phúc): chỉ từ 3 nguyên liệu chính cơ bản, chúng ta có thể biến tấu và làm được rất nhiều món kẹo Nougat"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Ở các khu chợ nông dân cuối tuần và hội chợ ẩm thực ở Bỉ, Đức và khu vực Đông Âu mình vẫn hay thấy loại kẹo này. Đúng hơn là luôn bị hấp dẫn bởi loại kẹo này và một món kẹo khác là Fudge. Lần nào đi qua hàng kẹo cũng phải chụp ảnh Nougat với Fudge, nhưng… không bao giờ mua vì nghĩ là kẹo kiểu này hẳn sẽ “rất rất ngọt và toàn là đường, chả có gì hay ho hấp dẫn!”</span></p>
 <p><span style="color: #000000;">Thế rồi từ Tết năm ngoái mình thấy món kẹo này bắt đầu phổ biến hơn trong các group nấu ăn, đến Tết năm nay lại càng hot hơn nữa. Nên mình bắt đầu tò mò. Bởi nếu nhiều người Việt đã thích như vậy thì hẳn là kẹo không thể quá ngọt và quá dở như mình vẫn nghĩ (vì người Việt mình vốn dĩ không thích ăn ngọt mà). Vậy là mình làm thử, và cảm thấy… thật là may quá vì đã thử. Nếu không thì đã bỏ sót mất một món ngon cho Tết chỉ vì giả định vô lý của mình rồi.</span></p>
 <p><span style="color: #000000;">“Tưởng không ngon và ngon không tưởng” chắc là câu phù hợp nhất để nói về món kẹo Nougat này. Ban đầu, khi chỉ nhìn qua hình ảnh thì mình tưởng tượng món kẹo này sẽ cứng cứng, xốp xốp và toàn đường. Nhưng sau khi làm thử mới biết hoá ra Nougat lại là kiểu kẹo hơi mềm mềm dẻo dẻo (khi để ở nhiệt độ phòng), thơm kiểu kẹo sữa, lại có thêm các loại hạt giòn bùi, nho khô hơi ngòn ngọt, dùng kèm với trà nóng phải nói là hợp vô cùng tận luôn.</span></p>
 <p><span style="color: #000000;">Cách làm Nougat rất đơn giản. Đa phần các công thức giống nhau và chia theo hai phương pháp chính: (1) đánh lòng trắng trứng với siro đường và (2) dùng marshmallow. Cách (1) cho kẹo trắng hơn nhưng khá là phức tạp, lại phải theo dõi nhiệt độ của trứng nữa. Nên mình chọn cách (2) để làm kẹo mềm, trộn marshmallow với bơ và sữa bột nguyên kem, cực nhanh, cực dễ (làm hỏng còn khó hơn là làm thành công :D). Tuy nhiên, mình cũng có một số ghi chú lại để giúp kẹo ít ngọt và thơm ngon hơn, các bạn đọc trong phần cách làm nha.  </span></p>
-<p><span style="color: #000000;">À mà không hiểu sao ở VN món kẹo này còn được gọi là kẹo hạnh phúc (kẹo sữa hạt thì có thể hiểu được), hihi, nhưng mà tên gọi thật là dễ thương cho nên mình để cả cái tên này ở đầu bài. Thật ra thì tự mình có thể làm ra một món ăn vừa ngon vừa đẹp để làm quà tặng Tết cũng là một niềm hạnh phúc không nhỏ mà, nhỉ? :)</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">À mà không hiểu sao ở VN món kẹo này còn được gọi là kẹo hạnh phúc (kẹo sữa hạt thì có thể hiểu được), hihi, nhưng mà tên gọi thật là dễ thương cho nên mình để cả cái tên này ở đầu bài. Thật ra thì tự mình có thể làm ra một món ăn vừa ngon vừa đẹp để làm quà tặng Tết cũng là một niềm hạnh phúc không nhỏ mà, nhỉ? :)</span></p>
 <h2>CÁCH LÀM KẸO NOUGAT (KẸO SỮA HẠT – KẸO HẠNH PHÚC)</h2>
 <p><strong><span style="color: #800000;">Nguyên liệu (làm được 35 – 40 cái) </span></strong></p>
 <ul>
@@ -38,10 +34,7 @@ description: "Cách làm kẹo nougat (kẹo sữa hạt - kẹo hạnh phúc): 
 <p><span style="color: #000000;">4. </span><span style="color: #000000;">Một điểm mà mình rất thích ở Nougat chính là khả năng biến tấu thành các loại kẹo khác nhau. Các bạn giữ nguyên cách làm, chỉ cần thay các loại hạt và quả khô là có món kẹo mới rồi. Ngoài các loại hạt trong công thức, bạn có thể dùng hạt bí, hạt lạc, hạt dưa, hạt điều, hạt mắc-ca…, cranberry khô, mơ khô, mận khô… tuỳ thích nhé. Khi biến tấu, nên lưu ý những việc sau:</span></p>
 <p><span style="color: #000000;">– Sự kết hợp màu sắc và hương vị của các loại quả và hạt: ví dụ hạt dẻ cười màu xanh đi với quả cranberry màu đỏ sẽ rất đẹp.</span></p>
 <p><span style="color: #000000;">– Quả khô như nho hay cranberry quá cứng thì cần ngâm nước cho mềm, hoặc ngâm rượu Rum cũng được. Quả đã mềm sẵn như mơ, mận.. thì không cần ngâm.</span></p>
-<p><span style="color: #000000;">– Hạt nên nướng chín hoặc rang trên chảo chín vàng thơm, để nguội rồi dùng.</span><span style="color: #000000;"> </span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">– Hạt nên nướng chín hoặc rang trên chảo chín vàng thơm, để nguội rồi dùng.</span><span style="color: #000000;"> </span></p>
 <p><span style="color: #000000;">– Màu thực phẩm không bắt buộc, nếu dùng thì nên mua các loại màu nhập khẩu và là màu gel như của Wilton, sẽ an toàn hơn và không cần cho quá nhiều màu (sẽ làm ướt kẹo). Kẹo sẽ hơi có màu vàng là màu từ bột kem sữa và bơ nên khi pha màu các bạn lưu ý là màu có thể sẽ bị thay đổi một chút nhé.</span></p>
 <p><span style="color: #000000;">– Có thể dùng bột trà và bột ca cao hoặc cafe tan, pha vào cùng bột sữa, nấu trên chảo để làm vị trà xanh và vị chocolate.</span></p>
 <p><span style="color: #000000;">– Hương hoa hồng trong công thức này không bắt buộc nhưng nên có. Hoặc có thể dùng vani, hương quả dâu, cam… cho vào một chút, sẽ giúp kẹo thơm ngon hơn và bớt ngấy (do át được mùi bơ sữa). Các loại hương mà mình dùng là loại hương thực phẩm của Rayner’s nhập khẩu, có bán ở các cửa hàng bán đồ làm bánh ở Việt Nam.</span></p>
@@ -58,7 +51,6 @@ description: "Cách làm kẹo nougat (kẹo sữa hạt - kẹo hạnh phúc): 
 <p><span style="color: #000000;">4. Cho kẹo marshmallow vào, đảo đều ở lửa nhỏ nhất đến khi kẹo chảy hoàn toàn.</span></p>
 <p><span style="color: #000000;">Lưu ý: Phải để lửa nhỏ nhất và đảo liên tục cho marshmallow chảy đều, không bị cháy và tách đường.</span></p>
 
-
 <p><span style="color: #000000;">5. Khi kẹo đã chảy, cho hương hoa hồng và màu hồng (nếu có dùng) vào đảo đều. Cho bột sữa vào đảo đều ở lửa nhỏ nhất đến khi bột sữa hòa quyện.</span></p>
 <p><span style="color: #000000;">6. Khi bột sữa đã tan hết, cho toàn bộ số hạt đảo đều. Ở bước này kẹo đã rất nặng tay, mọi người có thể trộn theo kiểu tương tự như kĩ thuật fold trong làm bánh sẽ dễ hơn. Đảo đến khi hạt trộn đều vào kẹo, khối kẹo bắt đầu róc chảo thì tắt bếp.</span></p>
 <p><span style="color: #000000;">7. Đổ kẹo ra một tờ giấy nến, đặt 1 tờ giấy nến khác lên và dùng cây cán bột cán mỏng tùy thích. Bóc tờ giấy nến trên mặt ra, lúc này kẹo vẫn rất dính, có thể dùng miếng cắt bột để gạt kẹo xuống và chỉnh lại hình dáng của kẹo (cụ thể trong video). Nếu có khuôn bạn có thể đổ vào khuôn lót giấy nến chống dính và dàn đều. Kẹo này phù hợp với khuôn vuông 16cm.</span></p>
@@ -66,4 +58,4 @@ description: "Cách làm kẹo nougat (kẹo sữa hạt - kẹo hạnh phúc): 
 <p><span style="color: #000000;">9. Để kẹo nguội và khô hoàn toàn. Sẽ mất khoảng 2 – 3 tiếng trong tủ lạnh và khoảng 4 – 5 tiếng ở nhiệt độ phòng. Dùng dao cắt kẹo thành kích cỡ tùy thích.</span></p>
 <p><span style="color: #000000;">10. Bảo quản: Mình dùng giấy gạo để bọc kẹo, cho vào gói và dùng máy dập hàn miệng túi lại, rất đẹp, lịch sự và an toàn.</span></p>
 <p><span style="color: #000000;">Giấy gạo là loại giấy chuyên dùng gói kẹo, có thể ăn được (loại giấy bọc ngoài kẹo dừa Bến Tre). Kẹo có thể bảo quản trong ngăn mát tủ lạnh trong 30 – 40 ngày. </span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

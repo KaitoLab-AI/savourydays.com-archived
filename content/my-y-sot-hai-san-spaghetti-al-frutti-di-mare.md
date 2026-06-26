@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2011/10/Pasta-hai-san.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Món nì cộng với <a href="/?p=665">Bolognese</a> và <a href="/?p=723">Carbonara</a> là có lẽ thành bộ ba sốt pasta phổ biến &amp; quen thuộc nhất. Nhưng so với 2 loại kia thì mình thích Frutti di Mare hơn vì làm vừa nhanh (Bolognese toàn phải hầm vài tiếng, rất là mệt mỏi) và nó lại không bị nhiều béo như Carbonara. Cách làm Frutti di Mare thì rất dễ, quan trọng nhất là có hải sản tươi và đặc biệt là trong số hải sản cần có con Mussels (chẳng hiểu ở nhà dịch con này là gì, trông nó hơi giống con trùng trục/ hến nhưng mà to hơn kha khá). Lý do là Mussels sẽ giúp cho nước sốt có một hương vị rất đặc biệt, đúng kiểu mặn mòi của biển nhưng hoàn toàn không phải là mùi tanh như cá. Ngoài ra từ kinh nghiệm nấu mấy món Âu có hải sản của mình thì mình thấy các loại gia vị dùng cho Frutti di Mare (parsley, thyme, …) tốt nhất là cố gắng giữ như công thức yêu cầu, đặc biệt là thyme. Bạn nào ngại dùng nhiều thứ lằng nhằng thì có thể mua lọ hỗn hợp gia vị khô dành riêng cho mỳ Ý cũng được, nhưng cố gắng đừng bớt đi loại nào nhé, vì nó sẽ mất vị ý ;)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6294926149/" title="Fruitti di Mare by LinhTrang9185, on Flickr"><img alt="Fruitti di Mare" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6217/6294926149_792a1a93e1_z.jpg" width="434"/></a></p>
 <p><strong>Nguyên liệu (2 phần ăn)</strong></p>
@@ -30,10 +29,7 @@ description: ""
 <li><em>Muối, tiêu</em></li>
 </ul>
 <p><em><span id="more-1083"></span></em></p>
-<p><strong>Cách làm </strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>Cách làm </strong></p>
 <p>1. Đun sôi một nồi nước to. Đợi nước sôi thì cho vào nồi một chút muối (ngon nhất là dùng muối biển – sea salt). Cầm cả bó mỳ thả vào nồi nước rồi để mỳ tự trôi xuống. Khi mỳ đã vào trong nồi hết thì thi thoảng dùng thìa khuấy nhẹ cho sợi mỳ không bị dính vào nhau hay dính vào đáy nồi. Hạ lửa vừa luộc mỳ đến gần chín theo chỉ dẫn trên bao (vì còn xào mỳ nữa nên đừng luộc chín quá nhé, về sau xào sợi mỳ sẽ dễ bị nát). Mỳ chín đổ ra rổ, xóc cho ráo nước rồi trộn mỳ với 1 thìa dầu Olive cho mỳ khỏi bị dính vào nhau.</p>
 <p>Trong lúc đợi luộc mỳ thì làm sốt hải sản như sau:</p>
 <p>2. Bắc chảo (sâu lòng) lên bếp. Cho 1 thìa dầu Olive vào chảo, phi thơm hành, tỏi trong khoảng 2 phút (hình 1). Cho cà chua vào xào với chút muối &amp; tiêu thêm khoảng 2 phút. Cho rượu vang, nước cam, vỏ cam, parsley, basil, thyme vào đảo đều, nêm lại muối, tiêu cho vừa ăn (hình 2).</p>
@@ -42,4 +38,4 @@ description: ""
 <p>4. Để lửa vừa, cho mỳ vào chảo, trộn đều cho ngấm sốt. Nêm lại muối và tiêu. Xào đến khi sốt cạn quyện vào mỳ sợi mỳ săn bóng (hình 4).</p>
 <p>5. Gắp mỳ ra đĩa, có thể rắc thêm một ít parsley tươi lên trên. Nếu làm đúng công thức thì mỳ sẽ có một hương vị cực kì đặc trưng như mình nói ở trên là thơm mặn mòi của biển nhưng hoàn toàn không tanh, sợi mỳ chín, săn dẻo mà không bị nhũn nát. Mỳ ăn nóng &amp; tuyệt nhất là có thêm 1 ly vang trắng lạnh đi kèm ;)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6295456266/" title="Fruitti di Mare by LinhTrang9185, on Flickr"><img alt="Fruitti di Mare" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6220/6295456266_ba5d61139a_z.jpg" width="427"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

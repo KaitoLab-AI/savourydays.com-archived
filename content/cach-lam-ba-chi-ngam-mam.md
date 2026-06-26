@@ -8,8 +8,6 @@ image: "/wp-content/uploads/2019/01/bachingammamfinal-610x350.jpg"
 description: ""
 ---
 
-
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Trong những ngày Tết bận rộn, thực đơn nhà nhà đều giống nhau với các món truyền thống như nem, giò, bánh chưng, canh măng… thì 1 đĩa thịt ba chỉ ngâm mắm thái miếng mỏng, màu nâu vàng cánh gián óng ả với phần bì trong veo, thớ thịt săn chắc, đậm đà, lạ miệng, ngon và chống ngán rất hiệu quả. Món này có thể ăn kèm với bánh chưng rất hợp, hoặc cầu kì hơn là cuốn với các loại rau thơm, cà rốt, chuối xanh, dứa, dưa chuột… thành món gỏi cuốn vô cùng hấp dẫn.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7900" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/bachingammamfinal-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #800000;"><strong>Nguyên liệu:</strong></span></p>
@@ -23,10 +21,7 @@ description: ""
 <li><em><span style="color: #000000;">3 quả ớt</span></em></li>
 </ul>
 <p><strong><span style="color: #800000;">Cách làm:</span></strong></p>
-<p><span style="color: #000000;">1. Thịt ba chỉ cắt dọc theo thớ thịt thành từng miếng có bề ngang khoảng 4cm, rửa sạch.</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">1. Thịt ba chỉ cắt dọc theo thớ thịt thành từng miếng có bề ngang khoảng 4cm, rửa sạch.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7896" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/bachingammam1-1024x682.jpg" width="1024"/></p>
 <p><span style="color: #000000;">2. </span><span style="color: #000000;">Đun sôi nồi nước với chút muối và hành khô đập dập, thả thịt vào luộc chín, hớt bọt cho sạch. Vớt thịt ra thả và chậu nước lạnh cho thịt được giòn, để thật ráo.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7897" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/bachingammam2-1024x682.jpg" width="1024"/></p>
@@ -36,10 +31,7 @@ description: ""
 <p><span style="color: #000000;">Thịt luôn phải ngập trong nước mắm và nắp đậy phải kín nếu không phần thịt hở ra rất dễ mốc.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7898" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/bachingammam4-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">5. Để hũ thịt vào nơi mát mẻ ngâm trong khoảng 2 tuần là ăn được. Ngâm càng lâu thì thịt càng thấm và giòn hơn. Khi ăn, thái thịt thật mỏng, cho vào lò vi sóng quay khoảng 20 giây cho thịt trong lại là được, không nên quay lâu sẽ làm thịt bị khô.</span></p>
-<p><img alt="" class="aligncenter size-large wp-image-7899" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/bachingammam5-1024x682.jpg" width="1024"/></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><img alt="" class="aligncenter size-large wp-image-7899" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/bachingammam5-1024x682.jpg" width="1024"/></p>
 <p><span style="color: #000000;">Thịt ba chỉ ngâm mắm được dùng làm món cuốn cùng rau sống, chuối xanh, dứa rất ngon, hoặc ăn với bánh chưng, dưa kiệu muối… cũng rất hợp.</span></p>
 <p><span style="color: #000000;">Yêu cầu thành phẩm: Thịt săn chắc, đậm đà, phần bì giòn và trong sau khi được hâm nóng lại.</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

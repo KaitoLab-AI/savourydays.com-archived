@@ -8,8 +8,6 @@ image: "/wp-content/uploads/2018/02/cách-làm-mứt-cà-rốt-banner-610x350.jp
 description: "Cách làm mứt cà rốt dẻo ngọt, mềm thơm ngon. Công thức kèm theo các lưu ý quan trọng để không thất bại."
 ---
 
-
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Mứt cà rốt đã từng là thứ mứt đáng sợ nhất với mình trong hộp mứt Tết. Nghĩ tới miếng mứt khô cứng đanh, ăn chỉ thấy toàn đường ngọt đến khé cổ là đã muốn chạy rồi. Thế nhưng sau khi được nếm thử miếng mứt theo công thức gia truyền của mẹ bạn Thu Quỳnh trong SD team thì mình thay đổi hẳn suy nghĩ về món mứt này. So với mứt cà rốt mua sẵn ngoài hàng thì mứt nhà làm như một loại khác hẳn vậy, hoàn toàn không giống một tí nào luôn: mứt không hề quá ngọt, vẫn thơm vị cà rốt, hơi dẻo dẻo, mềm chứ không hề dai. Phải nói là ngon kinh khủng, đúng kiểu “món mứt khiến trẻ nhỏ len lén nhón thêm vài miếng nữa, còn “trẻ lớn” thì ôm bình trà nhâm nhi hết nửa lọ có khi vẫn chưa chán”. Thích nhất có lẽ là khi nấu và sên mứt, hương thơm đặc trưng của cà rốt quyện trong mùi ngọt ngào của đường tạo thành một kiểu hương vị rất đặc biệt, đúng kiểu mùi Tết, khiến cho người đứng sên chẳng thấy mệt mà chỉ có một cảm giác thư thái và náo nức đón Xuân về.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7526" height="680" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/02/mutcarotfinal-1024x680.jpg" width="1024"/></p>
 <p> </p>
@@ -18,10 +16,7 @@ description: "Cách làm mứt cà rốt dẻo ngọt, mềm thơm ngon. Công t
 <li><em><span style="color: #000000;">500 gram cà rốt</span></em></li>
 <li><em><span style="color: #000000;">300 gram đường cát trắng</span></em></li>
 </ul>
-<p><span style="color: #800000;"><strong>Cách làm</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <p><span style="color: #000000;">1. Cà rốt nên chọn củ tươi, mập mạp. Rửa sạch rồi gọt vỏ, bỏ cuống, cắt thành khúc dài tầm 5 – 7 cm. Sau đó thái dọc hoặc thái vát thành miếng dày khoảng 4 – 5 mm. Lưu ý: không thái mứt quá mỏng bởi khi làm mứt dễ bị mất nhiều nước và bị dai và cứng. Không thái mứt quá dày do đường không ngấm vào hết bên trong mứt, khiến mứt dễ bị nát khi sên. Tỉa hoa 5 – 6 cánh tròn sẽ rất đẹp nhưng khi sên cánh hoa dễ bị gãy.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7527" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/02/mutcarot1-1024x682.jpg" width="1024"/></p>
 <p><span style="color: #000000;">2. Cho cà rốt vào nồi hay chảo sâu lòng mà bạn sẽ dùng để nấu mứt. Cho đường vào theo tỉ lệ lượng đường bằng khoảng 60% lượng cà rốt. Không nên cho quá ít đường vì mứt sẽ khó khô lại khi sên. Nếu chưa quen, bạn có thể tăng đường lên bằng khoảng 70 – 75 % lượng cà rốt. Nhiều đường, sên mứt sẽ dễ thành công hơn. Tuy nhiên mứt có thể sẽ khô và hơi dai cứng hơn.</span></p>
@@ -31,10 +26,7 @@ description: "Cách làm mứt cà rốt dẻo ngọt, mềm thơm ngon. Công t
 <p><span style="color: #000000;">3. Sau khi đường đã tan hết, đặt nồi lên bếp đun ở lửa trung bình cao cho nước bay hơi, nước đường cạn sệt lại dần. Trong quá trình này không khuấy đảo, vì miếng cà rốt dày và có nhiều nước, cần có thời gian để ép phần nước đó ra và để miếng cà rốt ngấm đường. Đảo nhiều ở bước này có thể sẽ khiến cà rốt bị nát nhừ.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7529" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/02/mutcarot3-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">4. Đường càng sệt lại, càng hạ lửa nhỏ hơn. Khi đường đã rất đặc, bong bóng sủi lên trong nồi nhỏ dần lại thì giảm xuống mức lửa nhỏ nhất. Ở bước này, cách 2 – 3 phút đảo nhẹ một lần theo cách như sau:</span></p>
-<p><span style="color: #000000;">Cầm đôi đũa thẳng, áp đũa sát hoặc gần sát thành nồi, đầu đũa chạm đáy nồi. Giữ cho đầu đũa chạm đáy nồi và chạy đũa thành hình vòng tròn quanh đáy nồi. Tay còn lại giữ quai nồi, hoặc có thể nghiêng nồi một chút cho dễ đảo. Cách đảo này sẽ hạn chế việc làm cho mứt bị nát và giúp mứt khô ráo nhanh hơn.  </span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">Cầm đôi đũa thẳng, áp đũa sát hoặc gần sát thành nồi, đầu đũa chạm đáy nồi. Giữ cho đầu đũa chạm đáy nồi và chạy đũa thành hình vòng tròn quanh đáy nồi. Tay còn lại giữ quai nồi, hoặc có thể nghiêng nồi một chút cho dễ đảo. Cách đảo này sẽ hạn chế việc làm cho mứt bị nát và giúp mứt khô ráo nhanh hơn.  </span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7530" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/02/mutcarot5-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">6. Sên một lúc trên lửa nhỏ nhất để nước đường tiếp tục cạn nhiều hơn. Thi thoảng kiểm tra đường bằng cách như sau: Chập hai đầu đũa lại, nhúng vào chỗ nào có nhiều đường trong chảo. Nhấc lên và nhẹ nhàng tách hai chiếc đũa ra. Nếu thấy đường ở đầu đũa có thể kéo thành sợi mỏng như sợi chỉ, không bị đứt dễ dàng, thì để thêm 1 – 2 phút nữa rồi tắt bếp.</span></p>
 <p><span style="color: #000000;">Tơ sợi đường càng nhiều thì chứng tỏ đường đã càng đạt. Lưu ý là lúc này <strong>trong nồi vẫn còn rất ướt</strong>. Ta chỉ để nồi trên bếp đến giai đoạn này là cần bắc xuống, nếu để lâu hơn, đường sẽ dễ cháy và chuyển thành caramel hoặc mứt dễ bị chảy nước.</span></p>
@@ -42,4 +34,4 @@ description: "Cách làm mứt cà rốt dẻo ngọt, mềm thơm ngon. Công t
 <p><img alt="" class="aligncenter size-large wp-image-7531" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/02/mutcarot6-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">8. Để mứt nguội hẳn trong nồi rồi rũ bớt đường và bỏ vào lọ hay hộp kín, nên có thêm túi hút ẩm. Để nơi thoáng mát, dùng được trong 3 – 4 tuần. Nếu có miếng mứt nào bị quăn, phần bên trong chưa có đường kết tinh, có thể còn hơi ướt thì dùng tay tách cho miếng mứt phẳng phiu rồi nhúng miếng mứt vào phần đường còn lại sau khi sên, để đường bám đều lên các phần mứt bị ướt.</span></p>
 <p><span style="color: #000000;">Đường còn thừa lại có thể dùng để pha trà, kho thịt cá rất thơm và ngon, hoặc dùng để sên các mẻ mứt cà rốt tiếp theo.</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

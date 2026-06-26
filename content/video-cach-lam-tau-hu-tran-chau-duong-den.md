@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2020/03/cách-làm-tàu-hũ-trân-châu-đường-đ
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #ff0000;"><strong>NHẮN: Mừng ngày 8/3 và khai giảng khoá học làm bánh mới (lớp “BÁNH GATO KEM”), tụi mình đang có chương trình ưu đãi giảm 20% học phí cho tất cả các khoá học. Chi tiết các bạn xem tại đây (/lop-hoc-lam-banh/)  hoặc inbox FB Savoury days nha. </strong></span></p>
 <p>———–</p>
 <p><span style="font-weight: 400; color: #000000;">Quà 8-3 của SD tặng các chị em và cả các anh em đây ạ ;) </span></p>
 <p><span style="font-weight: 400; color: #000000;">Đợt mình đi Sing, ăn mấy sản phẩm tàu hủ/ tào phớ, sữa đậu bên đó, cứ gọi là thích mê cái sự vừa thơm, vừa béo, vừa ngọt mát dễ ăn của các bạn ấy. Tào phớ với sữa đậu ở VN cũng nhiều, nhưng mua ngoài hàng thì không điều chỉnh được vị theo ý mình, lại đắt hơn tự làm nhiều nữa. Sữa đậu tự vắt nên béo và thơm, lúc thành pudding như món này thì núng nính núng nính, hợp với vị dẻo dai của trân châu đường đen cực kì. Combo thần thánh luôn ý! Cách làm hơi mất thời gian tí thôi chứ hoàn toàn không khó. Còn nếu bạn nào đã có chỗ mua sẵn sữa đậu ngon thì cứ dùng sữa đậu mua sẵn đó cũng được, về chỉ làm pudding thôi, nhanh và dễ hơn một cái chớp mắt ;) </span></p>
-<p><span style="font-weight: 400; color: #000000;">Trân châu, đường đen có rất sẵn ở các hàng bán nguyên liệu làm bánh, bốc điện thoại gọi là có ship đến cửa. À, với món này để làm cho “xịn” y như ngoài hàng thì cả nhà nên dùng loại cốc có đáy lõm xuống như cốc tụi mình dùng trong video nhé, sẽ có chỗ đổ trân châu lên trên ;) Cốc tụi mình mua ở Abby, các nguyên liệu trân châu, đường đen.. ở <a href="https://abby.vn"><strong>Abby</strong></a> cũng có luôn (<a href="https://abby.vn"><strong>Abby</strong></a> có ship toàn quốc và cửa hàng ở HN, TPHCM nhé). </span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">Trân châu, đường đen có rất sẵn ở các hàng bán nguyên liệu làm bánh, bốc điện thoại gọi là có ship đến cửa. À, với món này để làm cho “xịn” y như ngoài hàng thì cả nhà nên dùng loại cốc có đáy lõm xuống như cốc tụi mình dùng trong video nhé, sẽ có chỗ đổ trân châu lên trên ;) Cốc tụi mình mua ở Abby, các nguyên liệu trân châu, đường đen.. ở <a href="https://abby.vn"><strong>Abby</strong></a> cũng có luôn (<a href="https://abby.vn"><strong>Abby</strong></a> có ship toàn quốc và cửa hàng ở HN, TPHCM nhé). </span></p>
 <h2><span style="font-weight: 400; color: #000000;">CÁCH LÀM TÀU HŨ TRÂN CHÂU ĐƯỜNG ĐEN </span></h2>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <ul>
@@ -46,10 +42,7 @@ description: ""
 <ol start="5">
 <li><span style="font-weight: 400; color: #000000;"> Sau khi nước sôi, hạ nhỏ lửa và đun liu riu thêm 15 phút (vì trong đậu nành có một số chất mà nếu không được nấu kĩ sẽ gây ra đầy bụng, khó tiêu). </span></li>
 </ol>
-<p><span style="font-weight: 400; color: #000000;">Lưu ý:</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">Lưu ý:</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Trong quá trình đun không đậu vung sẽ làm nước đậu bị trào</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Thỉnh thoảng khuấy đều để đậu không bị cháy.</span></p>
 <ol start="9">
@@ -71,4 +64,4 @@ description: ""
 <li><span style="font-weight: 400; color: #000000;"> Úp ngược cốc ra đĩa, đổ phần trân châu đã nguội lên và thưởng thức.</span></li>
 </ol>
 <p><span style="font-weight: 400; color: #000000;">Tàu hũ cần được bảo quản ở ngăn mát tủ lạnh, càng nhiều gelatin thì càng để được lâu ở nhiệt độ phòng. Nên ăn trong vòng 2 ngày.</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

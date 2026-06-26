@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2011/07/Sua-chua-nectarine.jpg"
 description: "Học cách làm sữa chua dâu tây với sốt dâu tây tươi và sốt caramel mận tuyệt ngon. Công thức đơn giản, chỉ mất khoảng 15 - 20 phút là bạn sẽ có món sữa chua."
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Tiếp nối thành công từ món <a href="/?p=293"><strong>sữa chua dâu tây</strong> </a>hôm trước, và nhân tiện vẫn đang có nhiều dâu tây nên phải tranh thủ.. ăn triệt để (không có một thời gian nữa muốn cũng chả có mà ăn :P) cho nên nhà mình dạo này hay có sữa chua dâu, hông cần mua ngoài siêu thị nữa ;;) Mấy lần trước thì chỉ có sữa chua &amp; mứt dâu tây thôi, nhưng lần này thì có thêm một lớp nectarine caramel trên mặt như thía này ;)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5850045210/" title="1 by LinhTrang9185, on Flickr"><img alt="1" class="aligncenter" height="500" loading="lazy" src="http://farm4.static.flickr.com/3115/5850045210_f80361f724.jpg" width="346"/></a><br/>
 Cái quả nectarine này chả biết nên dịch tên sang tiếng Việt là đào hay mận nữa.. :-s Theo trên mạng giải thích thì nectarine thuộc họ hàng nhà đào (peach), hình dáng giống quả đào, mùi thơm cũng giống quả đào luôn. Nhưng vỏ thì láng mịn và ăn giòn y như quả mận :D không biết ở nhà mình có bán không nhỉ?</p>
@@ -25,10 +24,7 @@ Cái quả nectarine này chả biết nên dịch tên sang tiếng Việt là 
 <li><em>½  thìa canh bơ nhạt</em></li>
 </ul>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5849491183/" title="5 by LinhTrang9185, on Flickr"><img alt="5" class="aligncenter" height="500" loading="lazy" src="http://farm6.static.flickr.com/5107/5849491183_7707447704.jpg" width="368"/></a><br/>
-<strong>Cách làm</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<strong>Cách làm</strong></p>
 <p><em><strong>1. Làm mứt dâ</strong></em>u</p>
 <p>Dâu rửa sạch, bỏ núm, cắt miếng nhỏ. Trộn dâu với đường. Tiếp theo cho nước cốt chanh, trộn đều. Để 1-2 tiếng cho dâu ra nước.</p>
 <p>Cho dâu vào nồi hoặc chảo chống dính. Để lửa vừa, vừa đun vừa khuấy và hớt bọt đến khi có hỗn hợp mứt dâu hơi sệt là được. Để nguội.</p>
@@ -38,7 +34,4 @@ Cái quả nectarine này chả biết nên dịch tên sang tiếng Việt là 
 <p><em><strong>3. Trình bày</strong></em></p>
 <p>Lọ rửa sạch, lau khô. Đổ lớp mứt dâu đầu tiên xuống đáy lọ. Để vào tủ lạnh cho mứt se mặt tương đối rồi đổ tiếp sữa chua lên trên (có thể khuấy sữa chua cho mịn trước khi đổ). Cho caramelized nectarine lên trên cùng. Để lạnh &amp; dùng lạnh.</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5850046224/" title="3 by LinhTrang9185, on Flickr"><img alt="3" class="aligncenter" height="500" loading="lazy" src="http://farm3.static.flickr.com/2790/5850046224_dc897841dc.jpg" width="346"/></a></p>
-<div align="center" id="google-ads-body-post-end">
 
-
-</div><!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

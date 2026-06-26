@@ -12,10 +12,7 @@ description: "Cùng tìm hiểu và du lịch chợ ẩm thực ở Antwerp - th
 <p>Chợ năm nay họp ở Antwerp từ ngày 20-24 tháng 7. Rất tiếc là mình không biết sớm hơn, năm sau chắc chắn sẽ chú ý vụ này. Ở Antwerp thì chợ mở ở ngoài trời, tại Groenplaats (quảng trường trung tâm Antwerp). Ấn tượng đầu tiên của mình là rất vui :D chợ tuy không to lắm nhưng nhiều hàng quán và đông người, rất phù hợp với một đứa ham vui như mình ^.^</p>
 <p>Mình nghĩ các chủng loại hàng hóa trong chợ chắc sẽ thay đổi theo từng năm, nhưng tại chợ Antwerp năm nay thì đồ ăn là nhiều nhất (thêm một điểm nữa “hợp” với sở thích của mình :D). Chẳng hạn như là bánh ngọt nì</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5973576082/" title="2 by LinhTrang9185, on Flickr"><img alt="2" class="aligncenter" height="313" loading="lazy" src="http://farm7.static.flickr.com/6145/5973576082_8007138b31.jpg" width="500"/></a></p>
-<p> </p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p> </p>
 <p>và người bán hàng thì cực kì nhiệt tình chào mời mọi người ăn thử</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5973575892/" title="1 by LinhTrang9185, on Flickr"><img alt="1" class="aligncenter" height="344" loading="lazy" src="http://farm7.static.flickr.com/6123/5973575892_10edcec9a4.jpg" width="500"/></a></p>
 <p> </p>
@@ -25,10 +22,7 @@ description: "Cùng tìm hiểu và du lịch chợ ẩm thực ở Antwerp - th
 <p> </p>
 <p>Không chỉ có xúc xích mang về, người đến chợ còn có thể thưởng thức xúc xích và thịt nướng ngay tại chỗ, ở những cửa hàng như thế này:</p>
 <p><span id="more-451"></span></p>
-<p><a href="http://www.flickr.com/photos/55490207@N05/5973575980/" title="3 by LinhTrang9185, on Flickr"><img alt="3" class="aligncenter" height="337" loading="lazy" src="http://farm7.static.flickr.com/6132/5973575980_7831aed702.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5973575980/" title="3 by LinhTrang9185, on Flickr"><img alt="3" class="aligncenter" height="337" loading="lazy" src="http://farm7.static.flickr.com/6132/5973575980_7831aed702.jpg" width="500"/></a></p>
 <p> </p>
 <p>và cả đây nữa</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/5973576260/" title="4 by LinhTrang9185, on Flickr"><img alt="4" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6130/5973576260_8ec5671d53.jpg" width="500"/></a></p>
@@ -44,7 +38,6 @@ description: "Cùng tìm hiểu và du lịch chợ ẩm thực ở Antwerp - th
 <p><a href="http://www.flickr.com/photos/55490207@N05/5973577120/" title="8 by LinhTrang9185, on Flickr"><img alt="8" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6130/5973577120_3ed8c7cd42.jpg" width="500"/></a></p>
 <p> </p>
 <p>hay là đồ gỗ thủ công, hoặc một cửa hàng chỉ bán toàn hành với tỏi (mình tự hỏi mua một chuỗi kia về thì ăn bao lâu mới hết nhỉ??)</p>
-
 
 <p><a href="http://www.flickr.com/photos/55490207@N05/5973577314/" title="9 by LinhTrang9185, on Flickr"><img alt="9" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6122/5973577314_084e0e6911.jpg" width="500"/></a></p>
 <p> </p>
@@ -73,9 +66,6 @@ description: "Cùng tìm hiểu và du lịch chợ ẩm thực ở Antwerp - th
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

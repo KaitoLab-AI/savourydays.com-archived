@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2014/07/JapaneseCottonSouffle1.jpg"
 description: "japanese cotton cheesecake, ga-tô phô-mai Nhật, tự làm cream cheese"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Cream cheese (kem phô-mai) là nguyên liệu cơ bản của rất rất nhiều món tráng miệng ngon lành như cheesecake, cheese souffle,.. ngoài ra có thể dùng làm kem trang trí bánh, ăn kèm với bánh mì… Nhờ vị chua mặn dịu đặc trưng mà các món có cream cheese tuy ngậy béo nhưng lại không hề ngấy chút nào. Điểm trừ duy nhất cuả cream cheese có lẽ là giá cả. Giá thành cho một hộp cream cheese be bé có khi đủ để làm cả một chiếc bánh kem to. Vì vậy nên nếu có thể dùng gì để thay thế cream cheese hay tự làm cream cheese tại nhà chắc là sẽ rất tuyệt :)</p>
 <p>Thật ra thì có thể làm được. Cách làm rất đơn giản, giống như làm sữa chua Hy Lạp thôi: đầu tiên làm sữa chua, sau đó tách bỏ nước thì phần còn lại sẽ là cream cheese. Nói là như vậy nhưng không phải tách nước bất kì loại sữa chua nào cũng cho ra cream cheese được. Nếu là sữa chua thông thường thì chỉ cho sản phẩm là sữa chua Hy Lạp (strained yogurt) hoặc phô-mai sữa chua (yogurt cheese). Còn muốn có cream cheese thì trong sữa chua này cần có một lượng kha khá cream nữa. Cream cheese làm theo kiểu này, tuy chưa thể bằng được với Kraft Philadelphia Cream cheese (nói thật là nếu ngon được bằng Philadelphia cream cheese thì hãng Kraft phá sản lâu rùi). Nhưng mùi vị mình thấy hoàn toàn không tệ. Mình cũng đã thử dùng cream cheese này để làm bánh, cụ thể là Japanese cotton souffle, thấy kết quả cực kì ổn nên mình giới thiệu cả hai công thức ở dưới đây nhé :)</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/14474580347/" title="IMG_8130-1 by LinhTrang9185, on Flickr"><img alt="IMG_8130-1" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3835/14474580347_102d2e8f51.jpg" width="500"/></a>————–</p>
@@ -19,10 +18,7 @@ description: "japanese cotton cheesecake, ga-tô phô-mai Nhật, tự làm crea
 <li><em>30 – 40 ml sữa chua không đường để làm men cái </em></li>
 </ul>
 <p>Làm sữa chua như thông thường (xem <a href="/cong-thuc-sua-chua-co-khong-duong-sua-chua-uong/">cách làm cụ thể tại đây</a>). Sữa tươi được pha với kem tươi và đun nóng đến 85 – 90 độ C rồi để nguội về 42 – 44 độ C, sau đó trộn men cái. Ủ sữa trong âu hoặc lớn, không cần chia vào các âu nhỏ.</p>
-<p>Sau khoảng 5 – 6h (tùy nhiệt độ ủ), khi sữa đã đủ chua thì tiến hành tách nước theo <a href="/cong-thuc-sua-chua-hy-lap-sua-chua-deo/">cách làm sữa chua Hy Lạp.</a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Sau khoảng 5 – 6h (tùy nhiệt độ ủ), khi sữa đã đủ chua thì tiến hành tách nước theo <a href="/cong-thuc-sua-chua-hy-lap-sua-chua-deo/">cách làm sữa chua Hy Lạp.</a></p>
 <p><strong><em>Để tách nước nhanh</em></strong>, trước khi tách nước có thể ngâm cả bát sữa chua vào nước nóng khoảng 90 – 100 độ C trong 1h đồng hồ. Mình để cả âu trong tủ lạnh, tách nước trong 36 giờ thì có <em><strong>260 gram cream cheese (từ 500ml sữa ban đầu)</strong></em>(thời gian tách nước có thể thay đổi nhé). Cream cheese này về kết cấu mình thấy khá ổn, kem đặc nhưng vẫn mịn mượt, gần giống như Philadelphia cream cheese.</p>
 <p style="text-align: center;"><em>Cream cheese sau 36h tách nước, nhìn có vẻ cứng nhưng khi múc thử vẫn rất mềm, mượt và mịn</em></p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/14657810261/" title="IMG_5765 by LinhTrang9185, on Flickr"><img alt="IMG_5765" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3910/14657810261_7a721e7594.jpg" width="500"/></a></p>
@@ -48,10 +44,7 @@ description: "japanese cotton cheesecake, ga-tô phô-mai Nhật, tự làm crea
 <li><em>50 gr đường hạt mịn </em></li>
 <li><em>1 gr (1/4 tsp) cream of tartar (hoặc thay bằng chanh/ dấm lượng tương đương)</em></li>
 </ul>
-<p>(*) <strong>Ghi chú:</strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>(*) <strong>Ghi chú:</strong></p>
 <p>– Nếu trong cream cheese homemade có vị ngọt (do trong sữa chua có thêm sữa đặc/ đường) thì có thể giảm đường từ phần 20 gr đường. Phần 50 gr đường để đánh lòng trắng nên giữ nguyên để lòng trắng đánh bông tốt, có độ dẻo.</p>
 <p>– Nếu không có cake flour, có thể thay tổng lượng bột (50 gr cake flour + 20 gr bột ngô) bằng 40 gr bột mì đa dụng + 30 gr bột ngô. Tuy không hoàn toàn tương đương nhưng sẽ không ảnh hưởng nhiều tới độ mềm mịn xốp của bánh</p>
 <p><strong><span style="color: #800000;">Dụng cụ</span>: </strong>Mình dùng khuôn vuông 15 x 15 cm. Nếu dùng khuôn lớn hơn, các bạn có thể tăng công thức, nhưng không nên đổ bột quá cao trong khuôn vì thành bánh sẽ dễ bị gãy sau khi lấy ra do bánh có lượng ẩm cao lại ít bột.</p>
@@ -68,7 +61,6 @@ description: "japanese cotton cheesecake, ga-tô phô-mai Nhật, tự làm crea
 <p>3. Rây bột mì và bột ngô, trộn đều. Lọc hỗn hợp qua rây 1 – 2 lần.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/14638051616/" title="IMG_5769 by LinhTrang9185, on Flickr"><img alt="IMG_5769" class="aligncenter" height="333" loading="lazy" src="https://farm3.staticflickr.com/2923/14638051616_00cc1ba6bc.jpg" width="500"/></a></p>
 <p>4. Đánh lòng trắng trứng với 50 g đường và cream of tartar đến bông gần cứng (không đánh quá cứng sẽ rất khó trộn với hỗn hợp lòng đỏ, xem thêm ghi chú trong bài về JCC). Trộn lòng trắng với hỗn hợp bột.</p>
-
 
 <p><a href="https://www.flickr.com/photos/55490207@N05/14638051596/" title="IMG_5770 by LinhTrang9185, on Flickr"><img alt="IMG_5770" class="aligncenter" height="333" loading="lazy" src="https://farm6.staticflickr.com/5233/14638051596_77a3430088.jpg" width="500"/></a></p>
 <p>Bột sau khi trộn xong: mịn, bông, không thấy bọt khí lớn</p>
@@ -89,4 +81,4 @@ description: "japanese cotton cheesecake, ga-tô phô-mai Nhật, tự làm crea
 <li><a href="/gateau-pho-mai-nhat-ban-vi-sau-rieng-durian-japanese-cheese-souffle/">Gateau phô-mai Nhật Bản vị sầu riêng</a></li>
 <li><a href="/video-japanese-cotton-cheese-souffle-gateau-pho-mai-nhat-ban/">[VIDEO] Japanese cotton cheese souffle – Gateau phô-mai Nhật Bản</a></li>
 </ol>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

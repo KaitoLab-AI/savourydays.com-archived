@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2018/10/Cách-làm-tart-pho-mai-chảy.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="font-weight: 400; color: #000000;">Dạo này đang bị thích mấy thứ chảy lỏng và “phun trào”. Nếu dùng tiếng miền Nam để mô tả thì sẽ là vì: “Thấy ngon gì đâu á!” :-D </span></p>
 <p><span style="color: #000000;">Món bánh này hình như đã hot từ khá lâu ở Việt Nam rồi phải không nhỉ? Và với truyền thống luôn đi sau thời đại của bạn Trang thì giờ mới làm là chuẩn rồi. Có điều mình nghĩ làm món bánh này vào thời điểm này chắc hợp lí hơn. Vì giữa mùa hè mà ăn món bánh Pablo này e là sẽ hơi nóng và ngấy, nhưng trong tiết trời thu dịu mát “làm gì cũng thích” như một tuần nay, thì kiểu bánh phô-mai thơm lừng béo ngậy này là sự lựa chọn hoàn hảo rồi. </span></p>
 <p><span style="font-weight: 400; color: #000000;">Món bánh này mình đánh dấu 1 sao vì nhìn thấy “kì diệu” vậy thôi chứ làm siêu dễ và nhanh cả nhà ạ, khả năng thành công lại cao nữa chứ. Mà bánh cũng không hề ngấy đâu nhé, rất vừa miệng. Ngoài món tart chính, các bạn có thể làm thêm sốt chanh dây, hoặc rắc thêm một xíu bột trà xanh, bột ca-cao hay cà phê lên mặt bánh, sẽ rất hợp vị đấy, mà cũng giúp bánh thơm ngon hơn nhiều nữa. </span></p>
 <p><span style="color: #000000;">Cách làm như sau nha: </span></p>
 <h2><span style="color: #000000;"><strong>CÁCH LÀM TART PHÔ-MAI NHÂN CHẢY – PABLO CHEESTART </strong></span></h2>
-<p><span style="color: #000000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;"><strong>Nguyên liệu</strong></span></p>
 <p><span style="color: #000000;"><strong>A. Phần vỏ tart</strong></span></p>
 <ul>
 <li><span style="color: #000000;"><em><span style="font-weight: 400;">90 gram cake flour (hoặc thay bằng 80 gram bột mì và 10 gram bột ngô)</span></em></span></li>
@@ -47,10 +43,7 @@ description: ""
 <p><span style="font-family: arial, helvetica, sans-serif;"><div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/7D4a-CjR4Qg" width="560"></iframe></div></span></p>
 <p> </p>
 <p><strong><span style="color: #000000;">A. Phần vỏ tart</span></strong></p>
-<p><span style="color: #000000;">1. Rây bột, đường và muối vào âu, trộn đều</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">1. Rây bột, đường và muối vào âu, trộn đều</span></p>
 <p><span style="color: #000000;">2. Bơ lạnh cắt nhỏ cho vào âu, dùng đầu ngón tay bóp nhanh cho bơ và bột hòa quyện</span></p>
 <p><span style="color: #000000;">3. Cho trứng vào âu, dùng tay trộn đều đến khi các nguyên liệu hòa quyện, ta được một khối một mềm, dẻo, bột không dính tay nhưng không khô, nếu ấn dẹt ra không bị vỡ. Nếu bột khô, cho thêm trứng, nếu bột ướt thì bổ sung thêm bột mì</span></p>
 <p><span style="color: #000000;">4. Bọc kín khối bột cho và ngăn đá tủ lạnh trong 20 phút</span></p>
@@ -67,7 +60,6 @@ description: ""
 <p><span style="color: #000000;">2. Cán mỏng mỗi phần bột (2 mm), có thể dùng một chút bột mì để chống dính hoặc đặt bột vào giữa tờ giấy nến/giấy nilon để cán</span></p>
 <p><span style="color: #000000;">3. Đặt bột đã cán mỏng vào khuôn, ấn cho bột dàn đều và dính sát khuôn, dùng dĩa châm phần đáy bột</span></p>
 
-
 <p><span style="color: #000000;">4. Đặt cả khay bột vào ngăn đá tủ lạnh trong 15 phút </span></p>
 <p><span style="color: #000000;">5. Làm nóng lò nướng ở 180°C, hai lửa</span></p>
 <p><span style="color: #000000;">6. Khi bột đã nghỉ đủ thời gian trong tủ lạnh, lấy khay bột ra, dùng giấy nến hoặc giấy lót cupcake đặt vào mỗi phần bột và đổ đá nướng bánh (hoặc đỗ/gạo) lên trên. Mục đích của việc này là đè nặng không cho bột phồng lên khi nướng. Nướng bánh ở 180°C trong 7 phút</span></p>
@@ -79,4 +71,4 @@ description: ""
 <p><span style="color: #000000;">11. Đánh tan ½ lòng đỏ trứng gà với 1 tbsp bơ nhạt, dùng chổi phết thật nhẹ nhàng lên mặt bánh, tránh làm ảnh hưởng đến lớp kem pho mai</span></p>
 <p><span style="color: #000000;">12. Nướng bánh ở 220°C trong 10 phút</span></p>
 <p><span style="font-weight: 400; color: #000000;">Nhân phomai sẽ chảy nếu ăn bánh lúc còn nóng ấm. Bảo quản bánh bằng cách cho vào hộp kín và để vào tủ lạnh, bánh ăn lạnh cũng rất ngon nhưng nếu bạn thích nhân ấm và chảy thì có thể cho vào lò vi sóng quay trong 20-25 giây nhé.</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

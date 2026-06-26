@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2022/02/IMG_5672-2-scaled.jpg"
 description: "Bánh 9 tầng mây là “anh em” với bánh da lợn, đều dẻo dẻo, dai dai, giòn giòn, ngọt thanh và thơm béo mùi nước cốt dừa. Có thể ăn không hoặc ăn kèm chè đều rất ngon"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <div role="banner">
 <div aria-hidden="false" class="rq0escxv byvelhso q10oee1b poy2od1o j9ispegn kr520xx4 ooia0uwo kavbgo14">
 <div class="">
@@ -23,10 +22,7 @@ description: "Bánh 9 tầng mây là “anh em” với bánh da lợn, đều 
 <p><span style="font-weight: 400; color: #000000;">Trong công thức tụi mình dùng các loại bột rau của để tạo màu, bột rau củ này các cửa hàng bán đồ làm bánh đều có rất nhiều. Nếu không có bột, các bạn có thể ép nước rau củ tươi để thay cho nước trong công thức nhé ;)</span></p>
 <h2><span style="color: #993300;">Cách làm BÁNH 9 TẦNG MÂY (dai – dẻo – giòn)</span></h2>
 <p><strong><span style="color: #993300;">Nguyên liệu: </span></strong></p>
-<p><strong><span style="color: #000000;">(A) Phần bột bánh</span></strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong><span style="color: #000000;">(A) Phần bột bánh</span></strong></p>
 <ul>
 <li><em><span style="font-weight: 400; color: #000000;">185 gram bột năng</span></em></li>
 <li><em><span style="font-weight: 400; color: #000000;">35 gram bột gạo</span></em></li>
@@ -53,10 +49,7 @@ description: "Bánh 9 tầng mây là “anh em” với bánh da lợn, đều 
 </div>
 <div></div>
 <div class="kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x c1et5uql">
-<p><strong><span style="color: #000000;">B. Hấp bánh</span></strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong><span style="color: #000000;">B. Hấp bánh</span></strong></p>
 <p><span style="color: #000000;">1. Chuẩn bị:</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Quét 1 lớp dầu ăn mỏng khắp lòng khuôn để chống dính.</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Đun sôi nồi nước để hấp bánh. Dùng khăn để lót nắp vung tránh hơi nước rơi vào bánh khi hấp.</span></p>
@@ -83,7 +76,6 @@ description: "Bánh 9 tầng mây là “anh em” với bánh da lợn, đều 
 <p><span style="font-weight: 400; color: #000000;">Bánh có thể ăn kèm với chè gồm: </span></p>
 <p><span style="font-weight: 400; color: #000000;">1. Nước cốt dừa: Hòa tan nước cốt dừa với nước/sữa tươi theo tỉ lệ 1:1, thêm đường và sữa đặc tùy khẩu vị. Khuấy đều trên lửa nhỏ tới khi hỗn hợp ấm nóng, gần sôi là được.</span></p>
 
-
 <p><span style="font-weight: 400; color: #000000;">2. Trân châu: Hợp nhất là trân châu nhân dừa. </span></p>
 <p><span style="color: #000000;"><span style="font-weight: 400;">3. Các loại thạch: Mình dùng thạch “giun” xanh (giống chè Thái), CT tại đây: </span><a href="/lod-chong-singapore-thach-giun-xanh-che-thai/" style="color: #000000;"><span style="font-weight: 400;">/lod-chong-singapore-thach-giun-xanh-che-thai/</span></a></span></p>
 <p><img alt="" class="alignnone wp-image-9088" height="335" loading="lazy" sizes="(max-width: 501px) 100vw, 501px" src="/wp-content/uploads/2022/02/IMG_5703-300x200.jpg" width="501"/></p>
@@ -103,4 +95,4 @@ description: "Bánh 9 tầng mây là “anh em” với bánh da lợn, đều 
 </div>
 </div>
 </div>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

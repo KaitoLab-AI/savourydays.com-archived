@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2015/02/ChaQueChaCom.jpg"
 description: "cách làm giò bò, giò lụa, chả quế, chả cốm"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><a href="/tu-lam-gio-cha-p1-bi-quyet-de-lam-gio-cha-thom-ngon-dai-gion/"><strong>Phần 1: Bí quyết để giò chả dai giòn, mịn, thơm ngon </strong></a></p>
 <p><a href="/tu-lam-gio-cha-p2-cach-lam-gio-lua-gio-bo/"><strong>Phần 2: Cách làm giò lụa </strong></a></p>
 <p>—————-</p>
 <p>Hai tuần vừa rồi là một khoảng thời gian cực kỳ “điên cuồng” của mình. Có quá nhiều thứ deadlines cùng đổ dồn vào một lúc. Và cái laptop gần đến tuổi về hưu sinh bao nhiêu thứ bệnh không rõ nguyên cớ. Thành ra muốn viết bài tiếp về giò chả mà mãi đến hôm nay mới làm được. Câu hỏi của các bạn về phần giò chả, vì mình không kịp trả lời từng bạn một, nên mình tóm tắt lại các câu hỏi chính ở đây nha.</p>
-<p>Đầu tiên là một số bạn hỏi mình về máy xay và máy trộn mà mình sử dụng. Máy xay thì mình dùng cối xay của Bosch đi kèm với máy đánh trứng cầm tay của mình, công suất máy là 550W. Vì công suất không phải là lớn và cối xay cũng nhỏ thôi (<a href="http://www.amazon.co.uk/Bosch-MFZ4050-Shredder-Compatible-Mixer/dp/B003YFHYUW/ref=sr_1_6?ie=UTF8&amp;qid=1422976065&amp;sr=8-6&amp;keywords=bosch+mixer+hand">hình cối cụ thể ở đây</a>), nên thường mỗi lần mình chỉ xay rất ít, khoảng 100 – 130 gram thịt vừa để đảm bảo là thịt không bị nóng lên, và cũng để giữ cho máy xay không bị hỏng. Máy xay sinh tố mình nghĩ có thể dùng được. Nhưng có lẽ vẫn nên có cối riêng để xay thịt, vì máy xay sinh tố thì có thể dùng để xay rau quả, đồ uống nữa. Tuy nói là rửa sạch nhưng dùng riêng biệt hai loại có lẽ vẫn an toàn hơn, giống như mình có thớt để thái riêng đồ ăn sống và chín vậy.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Đầu tiên là một số bạn hỏi mình về máy xay và máy trộn mà mình sử dụng. Máy xay thì mình dùng cối xay của Bosch đi kèm với máy đánh trứng cầm tay của mình, công suất máy là 550W. Vì công suất không phải là lớn và cối xay cũng nhỏ thôi (<a href="http://www.amazon.co.uk/Bosch-MFZ4050-Shredder-Compatible-Mixer/dp/B003YFHYUW/ref=sr_1_6?ie=UTF8&amp;qid=1422976065&amp;sr=8-6&amp;keywords=bosch+mixer+hand">hình cối cụ thể ở đây</a>), nên thường mỗi lần mình chỉ xay rất ít, khoảng 100 – 130 gram thịt vừa để đảm bảo là thịt không bị nóng lên, và cũng để giữ cho máy xay không bị hỏng. Máy xay sinh tố mình nghĩ có thể dùng được. Nhưng có lẽ vẫn nên có cối riêng để xay thịt, vì máy xay sinh tố thì có thể dùng để xay rau quả, đồ uống nữa. Tuy nói là rửa sạch nhưng dùng riêng biệt hai loại có lẽ vẫn an toàn hơn, giống như mình có thớt để thái riêng đồ ăn sống và chín vậy.</p>
 <p>Về máy quết thịt thì mình dùng chân quay dẹt của Bosch Mum (<a href="http://www.amazon.co.uk/Bosch-Styline-Kitchen-Machine-Mixer/dp/B006LHASKI/ref=sr_1_3?ie=UTF8&amp;qid=1422975850&amp;sr=8-3&amp;keywords=bosch+mum+kitchen+machine">link Amazon kèm hình</a>). Máy trộn khá ổn nhưng thường chỉ dùng được khi lượng thịt lớn, độ 700 gr trở lên. Còn lượng nhỏ hơn thì mình vẫn trộn tay. À, nếu các bạn có băn khoăn giữa máy Bosch với Kitchen Aid thì mình nghĩ mua Kitchen Aid vẫn tốt hơn, không chỉ quết thịt tốt mà cả trộn bột đánh trứng cũng tốt hơn nữa.</p>
 <p>Bạn nào có cối để giã thì không cần xay, mà cứ giã thôi nhé. Giã là một cách rất tốt để giữ được các thớ thịt trong khi vẫn làm cho thịt đủ nhuyễn, vì vậy nên giò sẽ rất dai. Còn khi xay bằng máy, vì thịt bị cắt thớ nhiều nên mới cần đến khâu quết.</p>
 <p>Về dụng cụ là như vậy. Trong bài trước mình đã chia sẻ cách làm giò lụa chi tiết. Đây cũng có thể coi là cách làm giò chả cơ bản. Các loại giò chả khác, hay mọc, thịt viên… đều áp dụng cùng một nguyên tắc xay quết chung như khi làm giò lụa, chỉ thay nguyên liệu và gia vị khác thôi. Nên trong phần tiếp theo đây mình xin chia sẻ nốt một số công thức cuả các loại giò chả thông dụng như giò bò, chả quế, chả cốm… nhé.</p>
@@ -26,10 +22,7 @@ description: "cách làm giò bò, giò lụa, chả quế, chả cốm"
 <p>Gia vị (cho 500 gr thịt): giống với gia vị giò lụa nhưng thêm tỏi (loại bột hoặc tỏi tươi bằm nhuyễn) và nhiều tiêu hạt đập hơi nát.</p>
 <p>Cách làm giống như giò lụa. Riêng tỏi và tiêu trộn vào sau cùng, trộn nhẹ nhàng, để nguyên liệu vừa hòa quyện. Tránh việc cho tỏi tiêu vào rồi bóp hoặc nhào trộn quá nhiều, vì tỏi và tiêu có thể làm cho thịt chín tái (giò sẽ bị bở, không dai).</p>
 <p>—————-</p>
-<p><strong>CHẢ HUẾ</strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong>CHẢ HUẾ</strong></p>
 <p>Nguyên liệu giống như giò lụa nhưng thêm nhiều tỏi, tiêu trộn vào sau cùng (xem thêm cách trộn trong cách làm “giò bò”). Chả Huế cũng có vị hơi ngọt nên có thể tăng đường trong công thức.</p>
 <p>Cách làm như giò lụa. Sau khi quết nhuyễn thì chia thịt thành các phần nhỏ, gói bằng lá chuối theo hình thuôn dài và hơi dẹt. Hấp trong thời gian ngắn hơn so với giò lụa.</p>
 <p>—————-</p>
@@ -53,7 +46,6 @@ description: "cách làm giò bò, giò lụa, chả quế, chả cốm"
 <p>– Quết phần hỗn hợp mật ong quế còn lại lên mặt thịt. Khi lò đủ nóng, cho thịt vào nướng ở khay giữa lò ở nhiệt độ 175 – 180 độ C. Sau khoảng 15 phút, khi thịt đã se mặt thì quay ngược khuôn lại (để thịt chín đều). Nếu là lò to thì có thể đẩy thịt lên nướng ở rãnh cao hơn một nấc. Nướng thêm 10 – 15 phút, đến khi chả chín, dùng tăm xâm thử vào giữa miếng chả thấy tăm khô ráo.</p>
 <p>Nếu không có lò nướng thì các bạn có thể rán. Nhưng mình nghĩ nên bọc chả trong lá chuối và hấp trước cho chả chín sơ qua rồi mới quết mặt và rán, như vậy chả sẽ đỡ khô hơn.</p>
 <p>————————</p>
-
 
 <p><strong>CHẢ CỐM</strong></p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/16260625736/" title="IMG_9375-1 by LinhTrang9185, on Flickr"><img alt="IMG_9375-1" class="aligncenter" height="341" loading="lazy" src="https://farm8.staticflickr.com/7470/16260625736_4f3f370f5c.jpg" width="500"/></a></p>
@@ -87,4 +79,4 @@ description: "cách làm giò bò, giò lụa, chả quế, chả cốm"
 <p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/15813271854/" title="IMG_6978 by LinhTrang9185, on Flickr"><img alt="IMG_6978" height="333" loading="lazy" src="https://farm8.staticflickr.com/7383/15813271854_49abb082a5.jpg" width="500"/></a></p>
 <p style="text-align: center;"><em>mang đi chiên vàng :)</em></p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/16435793095/" title="IMG_7018 by LinhTrang9185, on Flickr"><img alt="IMG_7018" class="aligncenter" height="333" loading="lazy" src="https://farm9.staticflickr.com/8681/16435793095_842088b67f.jpg" width="500"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

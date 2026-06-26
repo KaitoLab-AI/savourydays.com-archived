@@ -12,10 +12,7 @@ description: ""
 <p>Tuy không viết được dài nhưng cũng phải cố up cái ảnh cho nó đỡ bứt rứt :P</p>
 <p>Bánh sinh nhật đầu tay của mình – cốt bánh là <strong><a href="/?p=2102">Chocolate Buttermilk Cake</a></strong> (công thức này được dùng cho Baking Challenge 30 và được chị em khen lắm ;)), phủ <strong><a href="/?p=1206">Chocolate Ganache</a></strong> và trang trí bằng quả phúc bồn tử (Raspberry). Cá nhân mình rất thích sự kết hợp này, phúc bồn tử hơi chua nhưng ăn với Chocolate là vừa, bánh thơm phức, để tủ lạnh thoải mái mà không sợ bị khô :)</p>
 <p><a href="http://www.flickr.com/photos/55490207@N05/6874929308/" title="IMG_3124-1 by LinhTrang9185, on Flickr"><img alt="IMG_3124-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7196/6874929308_781d9e0bf4_z.jpg" width="427"/></a></p>
-<p> </p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p> </p>
 <p> </p>
 <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
@@ -24,9 +21,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

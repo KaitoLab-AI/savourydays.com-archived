@@ -16,10 +16,7 @@ description: "savoury days, quà tặng ngọt ngào"
 <li><strong><span style="color: #800000;">Địa điểm</span>: Quán Berber-chumm – Số 108 Quán Thánh – Ba Đình – Hà Nội</strong> <em>(nằm giữa ngã tư Quán Thánh cắt Yên Ninh và Quán Thánh cắt Cửa Bắc – đi theo chiều của phố Quán Thánh thì quán ở bên tay phải)</em></li>
 <li><strong><span style="color: #800000;">Thời gian</span>: 14.00 – 16.00 – Chủ nhật ngày 24/3</strong></li>
 </ul>
-<p>Địa điểm khá rộng và tiêu chí là “càng đông càng vui” nên <strong>mời các bạn ai có thời gian thì ghé chơi, không phải đăng kí trước</strong>. Chỉ có một lời nhờ vả duy nhất là <strong>mong mọi người cố gắng đến đúng giờ</strong> :) Ngoài ra, có một lưu ý hơi hơi quan trọng là địa điểm gặp mặt cần phải để giầy dép ngoài cửa. Nhưng có thể sẽ không có đủ chỗ để dép nếu có đông bạn tham dự, nên cả nhà tốt nhất là <em><strong>mang theo túi để đựng giầy dép hoặc tự bảo quản giầy dép của mình nha</strong>.</em></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Địa điểm khá rộng và tiêu chí là “càng đông càng vui” nên <strong>mời các bạn ai có thời gian thì ghé chơi, không phải đăng kí trước</strong>. Chỉ có một lời nhờ vả duy nhất là <strong>mong mọi người cố gắng đến đúng giờ</strong> :) Ngoài ra, có một lưu ý hơi hơi quan trọng là địa điểm gặp mặt cần phải để giầy dép ngoài cửa. Nhưng có thể sẽ không có đủ chỗ để dép nếu có đông bạn tham dự, nên cả nhà tốt nhất là <em><strong>mang theo túi để đựng giầy dép hoặc tự bảo quản giầy dép của mình nha</strong>.</em></p>
 <p>Địa điểm gặp mặt tại tầng 2 của quán, nước uống có thể gọi ở tầng 1, nhưng <strong>tiền nước không bao gồm trong chương trình, cả nhà tự thanh toán nhé.</strong></p>
 <p>Chương trình sẽ gồm hai phần chính:</p>
 <p>1. <strong><span style="color: #800000;">Giới thiệu, ăn uống, trò chuyện</span></strong> (888): Mọi câu hỏi liên quan đến các nội dung đã từng xuất hiện trên SD từ trước đến giờ (nấu nướng, bánh trái, ảnh ọt, học hành, du lịch) sẽ được cố gắng “xử lí” đến hết khả năng</p>
@@ -38,10 +35,7 @@ description: "savoury days, quà tặng ngọt ngào"
 <li>Thìa gỗ, lót khay nướng…</li>
 </ul>
 <p>Và một số món đồ “đặc biệt” khác, đến ngày 24.3 sẽ được “bật mí” ;)</p>
-<p><span style="color: #ff0000;">Một số món sẽ được bán với giá gốc, một số món khác, vì chỉ có 1 thứ nên sẽ được đấu giá. Nhưng giá khởi điểm sẽ thấp hơn so với giá gốc ban đầu</span>, vì mục đích của chương trình lần này không phải để kinh doanh buôn bán, mà mình mong là bạn bè đến tham dự ai cũng có niềm vui mang về, và ngoài niềm vui dành cho bản thân thì chúng mình có thể đóng góp chút ít cho bữa cơm của các em nhỏ nữa.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #ff0000;">Một số món sẽ được bán với giá gốc, một số món khác, vì chỉ có 1 thứ nên sẽ được đấu giá. Nhưng giá khởi điểm sẽ thấp hơn so với giá gốc ban đầu</span>, vì mục đích của chương trình lần này không phải để kinh doanh buôn bán, mà mình mong là bạn bè đến tham dự ai cũng có niềm vui mang về, và ngoài niềm vui dành cho bản thân thì chúng mình có thể đóng góp chút ít cho bữa cơm của các em nhỏ nữa.</p>
 <p>Hẹn gặp lại cả nhà vào Chủ nhật tới nhé! :x</p>
 <div class="ac advertise-end">
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
@@ -50,9 +44,6 @@ description: "savoury days, quà tặng ngọt ngào"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2022/02/1-scaled.jpg"
 description: "Món tráng miệng thanh mát, bổ dưỡng, bổ sung nhiều vitamin C từ cam tươi. Cách làm bất bại, không cần bất kì dụng cụ phức tạp nào"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="font-weight: 400; color: #000000;">Trời bắt đầu ấm lên, cam cũng vào cuối mùa, nhiều nước và rất ngọt, mình làm một món tráng miệng mát lạnh, siêu dễ, siêu nhanh để bổ sung vitamin C thì sao nhỉ? ;)</span></p>
 <p><span style="font-weight: 400; color: #000000;">Đợt này nhà mình tích trữ rất nhiều cam để bổ sung vitamin C, tăng cường đề kháng chống covid. Cam cuối mùa siêu ngọt và mọng nước, mỗi tội là nhanh hỏng, uống không kịp nên mình lôi ra làm thạch. Trộm vía là bình thường cả nhà ai cũng lười ăn cam, nhưng món này thì rất được yêu thích, để làm tráng miệng sau bữa ăn mặn là hết sảy, vừa ngon lại vừa bổ 😁</span></p>
 <h2><span style="color: #993300;">CÁCH LÀM THẠCH CAM TƯƠI</span></h2>
@@ -20,10 +19,7 @@ description: "Món tráng miệng thanh mát, bổ dưỡng, bổ sung nhiều v
 <li><em><span style="font-weight: 400; color: #000000;">1 nhúm muối nhỏ</span></em></li>
 </ul>
 <p><strong><span style="color: #000000;">Lưu ý:</span></strong></p>
-<p><span style="font-weight: 400; color: #000000;">– Các bạn nên chọn cam vàng có vỏ mỏng vừa, không dùng cam vỏ xanh sẽ dễ làm thạch bị đắng.</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">– Các bạn nên chọn cam vàng có vỏ mỏng vừa, không dùng cam vỏ xanh sẽ dễ làm thạch bị đắng.</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Dùng gelatin dạng lá ngon hơn dạng bột. Gelatin sẽ giúp thạch có kết cấu dẻo mềm, dễ tan trong miệng. Nếu dùng bột thạch, bạn nấu theo hướng dẫn gói thạch chứ không áp dụng như với gelatin nhé. </span></p>
 <p><span style="color: #993300;"><strong>Cách làm:</strong></span></p>
 <p><span style="color: #000000;">1. Chuẩn bị:</span></p>
@@ -33,9 +29,6 @@ description: "Món tráng miệng thanh mát, bổ dưỡng, bổ sung nhiều v
 <p><span style="font-weight: 400; color: #000000;"><strong>Lưu ý:</strong> Nếu bạn dùng gelatin bột, ngâm gelatin với 50 gram nước lạnh.</span></p>
 <p><span style="font-weight: 400; color: #000000;">3. Cho nước cam, đường, và 1 nhúm muối vào nồi, khuấy trên lửa nhỏ tới khi nước cam ẤM và đường tan hết, tắt bếp, cho gelatin đã đun chảy vào và khuấy đều tới khi hòa quyện.</span></p>
 <p><span style="font-weight: 400; color: #000000;"><strong>Lưu ý:</strong> Chỉ đun nước cam vừa đủ ấm để gelatin hòa quyện dễ hơn, không đun nóng sẽ dễ nước cam bị đắng hoặc biến đổi vị.</span></p>
-<p><span style="color: #000000;">4. Đổ hỗn hợp thạch vào vỏ cam, để trong ngăn mát tủ lạnh khoảng 3 – 4 tiếng tới khi thạch đông. Dùng dao sắc cắt nhẹ nhàng, đưa dao qua lại, không nhấn dao mạnh xuống vì sẽ làm thạch bị tách khỏi vỏ. Bọc kín và bảo quản trong ngăn mát, sử dụng trong vòng 2 ngày.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">4. Đổ hỗn hợp thạch vào vỏ cam, để trong ngăn mát tủ lạnh khoảng 3 – 4 tiếng tới khi thạch đông. Dùng dao sắc cắt nhẹ nhàng, đưa dao qua lại, không nhấn dao mạnh xuống vì sẽ làm thạch bị tách khỏi vỏ. Bọc kín và bảo quản trong ngăn mát, sử dụng trong vòng 2 ngày.</span></p>
 <p><strong style="color: #993300;"><img alt="" class="alignnone wp-image-9028" height="345" loading="lazy" sizes="(max-width: 518px) 100vw, 518px" src="/wp-content/uploads/2022/02/IMG_2309-1-300x200.jpg" width="518"/></strong></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

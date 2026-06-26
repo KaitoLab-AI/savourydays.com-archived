@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2014/07/NuocDuongBanhNuong.jpg"
 description: "nước đường bánh trung thu, bánh nướng"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><em>Trước khi viết bài, mình muốn gửi lời cảm ơn các chị Khai Tâm, chị Kiwi, chị NguyệtVA Baking fun</em><em>, Chị Phương (Fox Kitchen), Chị Hoàng Thụy (bếp Thienna), Chị Trần Việt Hà, Chị Ngọc Võ (Phan Vo’s Kitchen)… và rất nhiều chị em khác đã nhiệt tình chia sẻ công thức, kinh nghiệm, cũng như giải đáp các thắc mắc về bánh trung thu. Nhờ những chia sẻ của các chị mà những người đi sau như mình có nhiều tài liệu tham khảo và cũng rút ra được nhiều bài học để tránh thất bại khi làm :)</em></p>
 <p>Tuy năm nay mình mới làm bánh trung thu lần đầu tiên, nhưng số lần thử nghiệm của mình thì cũng kha khá rồi, có lẽ đủ để kết luận rằng: “<strong><em>Làm bánh trung thu không khó</em></strong>!”, nhưng có nhiều công đoạn chuẩn bị nguyên liệu khác nhau, nên công thức thường khá dài. Công thức của mình có thể sẽ còn dài hơn các công thức bánh trung thu khác. Vì mình hi vọng cả những bạn chưa bao giờ làm bánh, khi đọc công thức tại Savoury Days, cũng có thể làm theo được dễ dàng. Nên mình sẽ cố gắng viết đầy đủ tất cả những gì mình biết, tập trung vào giải thích các kĩ thuật và cả các lưu ý để tránh sai sót mà mình tự rút ra từ kinh nghiệm bản thân và tài liệu mình đã đọc nữa. Nếu trong quá trình làm có vấn đề phát sinh, chúng mình sẽ cùng thảo luận tiếp, nhưng <strong><em>rất mong mọi người sẽ đọc bài thật kĩ trước khi đặt câu hỏi nhé</em></strong>.</p>
 <p>——————–</p>
 <p><strong>PHẦN 1 – CHUẨN BỊ NƯỚC ĐƯỜNG CHO BÁNH NƯỚNG</strong></p>
-<p>Nước đường là một trong những nguyên liệu quan trọng nhất trong phần vỏ bánh nướng, quyết định độ ngọt, độ mềm, màu sắc và thời gian bảo quản bánh. Nước đường thường được nấu từ rất sớm. Để qua một thời gian, nước ngấu trở nên sậm màu hơn, đặc sánh hơn, đậm đà hơn, sẽ giúp bánh mềm mại và có màu nâu vàng đẹp hơn.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Nước đường là một trong những nguyên liệu quan trọng nhất trong phần vỏ bánh nướng, quyết định độ ngọt, độ mềm, màu sắc và thời gian bảo quản bánh. Nước đường thường được nấu từ rất sớm. Để qua một thời gian, nước ngấu trở nên sậm màu hơn, đặc sánh hơn, đậm đà hơn, sẽ giúp bánh mềm mại và có màu nâu vàng đẹp hơn.</p>
 <p>Tuy có một vài ý kiến cho rằng nước đường cần được nấu trước từ vài tháng đến một năm. Nhưng<em><strong> nếu không có thời gian chuẩn bị trước, thì vẫn có thể dùng nước đường mới nấu sau 10 – 14 ngày được</strong></em>. Mình có biết khá nhiều chị em dùng nước đường mới nấu mà bánh hoàn toàn ổn. Bản thân mình cũng đã làm bánh với nước đường mới chỉ nấu trong 2 tuần, nhưng bánh vẫn rất mềm mại, màu lên cũng đẹp. Nên bạn nào vẫn chưa kịp nấu nước đường thì cứ yên tâm nhé, nấu từ bây giờ hoàn toàn kịp cho Trung thu năm nay :)</p>
 <p>Nấu nước đường cũng không mất thời gian, nên có lẽ tự nấu được là tốt nhất. Mặc dù nước đường bán sẵn cũng có rất nhiều. Nhưng mình có tình cờ đọc được thắc mắc của một người bạn, rằng “không biết ngoài hàng người ta cho cái gì mà dùng nước đường mua sẵn thấy bánh mềm hơn hẳn”. Có thể chỉ là cảm giác, nhưng cũng có thể phỏng đoán “cho cái gì” là thật. “Cái gì” này cụ thể là gì và có tốt cho sức khỏe hay không thì không ai biết chắc, vì vậy nên mình nghĩ nếu có thể tự làm được, tự mình kiểm soát các nguyên liệu đầu vào, có lẽ vẫn là phương án yên tâm và an toàn hơn cả.</p>
 <p>Nguyên liệu nấu nước đường chỉ gồm đường, nước và ít chanh hoặc dứa (thơm). Ngoài ra có thể cho thêm mạch nha và nước tro tàu. Sau khi nấu thử một số loại nước đường với các công thức khác nhau và nguyên liệu khác nhau, rồi dùng làm bánh thì mình rút ra được một số kinh nghiệm về sử dụng nguyên liệu là:</p>
@@ -26,10 +22,7 @@ description: "nước đường bánh trung thu, bánh nướng"
 <p>4. <span style="color: #800000;"><strong>Nước tro tàu</strong></span> (Lye water): Có hai loại nước tro tàu tự nhiên (làm từ tro nấu từ rơm) và nước tro tàu công nghiệp. Nước tro tàu tự nhiên thì không sao nhưng nước tro tàu công nghiệp nếu dùng lượng lớn sẽ rất có hại cho sức khỏe. Do vậy nên nếu trong nhà có trẻ nhỏ thì các bạn lưu ý để chai nước tro tàu xa tầm với của các bé nhé.</p>
 <p>Nước tro tàu giúp làm mềm nước đường (từ đó giúp mềm bánh), và giúp bánh có màu nâu đẹp hơn. Tuy nhiên, vì đắn đo với tác hại của nước tro (ở bên này chỉ có nước tro công nghiệp, và chỉ có thể mua ở cửa hàng Trung Quốc) nên mình nấu thử nước đường có và không có nước tro rồi dùng làm bánh. Kết quả là bánh làm ra không khác nhau nhiều. Sau 1 ngày thì bánh không dùng nước tro vẫn xuống màu nâu đẹp và cũng rất mềm mại. Mình cũng có hỏi kinh nghiệm của một số chị bạn thì biết các chị cũng không dùng nước tro khi làm bánh. Nên <strong><em>nếu bạn nào không yên tâm thì có thể bỏ hẳn nước tro mà không ngại việc bánh sẽ cứng hơn hay kém đẹp hơn nhé.</em></strong></p>
 <p>Trên đây là các lưu ý chung, giờ là công thức và các bước cụ thể để nấu nước đường nha</p>
-<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <ul>
 <li><em>1kg đường (trắng, vàng hoặc nâu, xem ghi chú (1) ở trên) (mình dùng 1/2 đường trắng + 1/2 đường nâu đen)</em></li>
 <li><em>600ml nước</em></li>
@@ -52,7 +45,6 @@ description: "nước đường bánh trung thu, bánh nướng"
 <p><a href="https://www.flickr.com/photos/55490207@N05/14764498241/" title="IMG_5886 by LinhTrang9185, on Flickr"><img alt="IMG_5886" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3920/14764498241_55cbdf5134.jpg" width="500"/></a></p>
 <p>4. Cho nước cốt chanh và vỏ chanh vào nồi. Đun lửa nhỏ trong khoảng 50 – 65 phút (tùy độ to nhỏ của bếp).</p>
 <p style="text-align: center;"><em>Cho nước cốt chanh </em></p>
-
 
 <p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/14581032458/" title="IMG_5887 by LinhTrang9185, on Flickr"><img alt="IMG_5887" class="aligncenter" height="333" loading="lazy" src="https://farm3.staticflickr.com/2917/14581032458_e6a0397210.jpg" width="500"/></a></p>
 <p style="text-align: center;"><em>Cho vỏ chanh (nên úp phần múi chanh xuống dưới, để mặt vỏ quay lên trên – ngược với trong hình)</em></p>
@@ -112,4 +104,4 @@ description: "nước đường bánh trung thu, bánh nướng"
 <li><a href="/banh-trung-thu-chia-se-kinh-nghiem-lam-banh-deo/" target="_blank">Giải đáp các thắc mắc/ vấn đề thường gặp khi làm bánh dẻo</a></li>
 </ol>
 <p> </p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2017/10/Cách-làm-bánh-kem-sô-cô-la-banner.jpg"
 description: "Video hướng dẫn cách làm bánh kem sô-cô-la rất dễ, không cần tới máy đánh trứng. Phần kem trà sữa có hương vị tuyệt ngon và giống hệt với trà sữa để uống"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Lâu quá rồi chẳng có video nào mới. Bếp YouTube chuẩn bị mọc rêu rồi :P Thời gian vừa rồi mình bận nhiều việc quá nên cũng chẳng có cách nào khác. Hy vọng trong thời gian tới sẽ thu xếp để bù lại được.</p>
 <p>Chiếc bánh kem trong post này dành cho các bạn mới bắt đầu học làm bánh và không có nhiều kinh nghiệm. Bởi vì nó không yêu cầu quá nhiều nguyên liệu phức tạp, khâu chế biến cũng rất đơn giản, không cần phải có máy đánh trứng mà chỉ cần hai cái âu và một phới trộn là làm được rồi.</p>
 <p>Phần cốt bánh mình dùng lại một công thức cũ, đã giới thiệu từ lâu và được rất nhiều bạn yêu thích là món <a href="/incredibly-easy-chocolate-cake/"><strong>bánh Chocolate siêu dễ – siêu ngon ở trong bài này.</strong></a> Món bánh này mình rất thích, thi thoảng vẫn hay làm vì cách làm dễ, mà khả năng thành công cao hơn hẳn so với bánh dùng trứng đánh bông, bánh hầu như rất khó bị xẹp hay lõm. Thành phẩm thì đúng như tên goi – ngon “kinh khủng khiếp” ;).</p>
 <p>Còn phần kem là một bất ngờ nho nhỏ. Cái tên “kem trà sữa” mình đặt hoàn toàn không phải là nói quá đâu, vì hương vị của loại kem trong món bánh này hoàn toàn đạt đúng “chuẩn vị trà sữa” – loại đồ uống mà có lẽ hầu hết chúng ta đã đều quen thuộc rồi. Để tạo ra hương vị chuẩn trà sữa này thì mình dùng bột trà rang – Hojicha. So với bột trà xanh và bột tinh than tre thì có lẽ bột trà rang Hojicha chưa được thật nhiều người Việt biết đến, nhưng ngay trong lần nếm thử đầu tiên mình đã thấy ưng loại bột này cực kì. Kiểu vừa có vị thanh mát của trà, lại vừa có vị đậm đà, mùi “cháy” hơi giống kiểu cà phê hay caramel ấy, nếu dùng trong các món tráng miệng lạnh như kiểu mousse hay cheesecake chắc chắn là sẽ rất tuyệt.</p>
-<p>Trong video ngoài công thức bánh và kem thì còn có cả cách cắt bánh và trét kem nữa. Với kiểu trang trí như bánh này, bạn không cần phải chà láng kem trơn mịn mà chỉ cần trét kem lên bánh là đủ. Vì thành bánh đã có hạnh nhân giòn rụm che phủ rồi (hạnh nhân với kem trà hợp lắm ;) ). Còn mặt bánh thì làm mấy búp kem là đủ xinh :) Tóm lại là khâu nào cũng đơn giản và dễ, nên kể cả khi bạn chưa có nhiều kinh nghiệm làm bánh thì cũng đừng lo ngại gì cả nhé.</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Trong video ngoài công thức bánh và kem thì còn có cả cách cắt bánh và trét kem nữa. Với kiểu trang trí như bánh này, bạn không cần phải chà láng kem trơn mịn mà chỉ cần trét kem lên bánh là đủ. Vì thành bánh đã có hạnh nhân giòn rụm che phủ rồi (hạnh nhân với kem trà hợp lắm ;) ). Còn mặt bánh thì làm mấy búp kem là đủ xinh :) Tóm lại là khâu nào cũng đơn giản và dễ, nên kể cả khi bạn chưa có nhiều kinh nghiệm làm bánh thì cũng đừng lo ngại gì cả nhé.</p>
 <h2>CÁCH LÀM BÁNH KEM SÔ-CÔ-LA TRÀ SỮA</h2>
 <p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
 <p><strong>A. Phần cốt bánh</strong></p>
@@ -56,10 +52,7 @@ description: "Video hướng dẫn cách làm bánh kem sô-cô-la rất dễ, k
 <li>Bánh làm theo phương pháp này sẽ mềm, ẩm, xốp và đậm đà, nhưng không có kiểu bông nhẹ như bánh ga-tô làm theo kiểu đánh bông trứng. Dùng bánh với kem rất hợp và cân bằng vị, nhưng mình vẫn muốn nhấn mạnh việc này trước để tránh các bạn tự tưởng tượng ra vị bánh rồi sau đó thất vọng vì bánh không được như hình dung.</li>
 <li>Nếu có nhiều khuôn cỡ giống nhau, nên chia thành 2 – 3 phần, nướng trong 2 – 3 khuôn để làm 2 – 3 tầng bánh. Như vậy sẽ không cần mất công cắt bánh mà bánh cũng chín đều và đẹp hơn.</li>
 </ol>
-<p><strong>CÁC BƯỚC LÀM BÁNH</strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong>CÁC BƯỚC LÀM BÁNH</strong></p>
 <p><strong>A. Phần bạt bánh sô-cô-la</strong></p>
 <ol>
 <li>Làm nóng lò ở 175 độ C, chế độ hai lửa. Chống dính khuôn tròn 15 cm bằng cách quét 1 lớp bơ lên thành và đáy khuôn. Rắc 1 lớp bột mỏng phủ lên trên bơ, xoay khuôn cho bột dàn đều khắp bên trong khuôn. Úp ngược khuôn và gõ nhẹ cho bột thừa rơi ra ngoài. Lót một miếng giấy nướng bánh hoặc giấy trắng ở đáy khuôn.</li>
@@ -86,4 +79,4 @@ description: "Video hướng dẫn cách làm bánh kem sô-cô-la rất dễ, k
 <li>Dùng hạnh nhân để trang trí quanh thành bánh. Cho phần kem cuối cùng vào túi bắt kem, dùng đui sò mở hoặc khép (đui wilton 1M hoặc 2F) để bắt búp kem trang trí mặt bánh. Bảo quản bánh trong tủ lạnh và nên dùng trong 2 ngày.</li>
 </ol>
 <p>* <strong>Lưu ý: </strong>Kem cần được bảo quản lạnh trong các khoảng thời gian chờ, không dùng đến. Tốt nhất là phủ kem trước và bảo quản trong ngăn mát tủ lạnh. Ngay trước khi ăn mới trang trí hạnh nhân, như vậy hạnh nhân sẽ giữ được độ giòn tối đa.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

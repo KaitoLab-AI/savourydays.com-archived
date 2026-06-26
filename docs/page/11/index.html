@@ -10,17 +10,20 @@
 <header>
   <nav>
     <a class="site-title" href="/savourydays.com-archived/"><span>Savoury</span> Days</a>
-    <a href="/savourydays.com-archived/">Trang chủ</a>
+    <span class="spacer"></span>
+    <input id="search-box" type="search" placeholder="Tìm công thức…" autocomplete="off">
   </nav>
 </header>
 <main>
 <div class="container">
-  <h1 style="margin-bottom:1.5rem;">Công thức nấu ăn</h1>
-  <div class="recipe-grid">
+  <div class="index-header">
+    <h1>Công thức nấu ăn</h1>
+  </div>
+  <div class="recipe-grid" id="recipe-grid">
     
-    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-mut-gung/">
+    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-mut-gung/" data-title="cách làm mứt gừng">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2018/01/cach-lam-mut-gung.jpg" alt="Cách làm MỨT GỪNG" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2018/01/cach-lam-mut-gung.jpg" alt="Cách làm MỨT GỪNG" loading="lazy">
       
       <div class="card-body">
         <h2>Cách làm MỨT GỪNG</h2>
@@ -29,9 +32,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-mut-vo-buoi-deo/">
+    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-mut-vo-buoi-deo/" data-title="cách làm mứt vỏ bưởi dẻo">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2018/01/IMG_9983-1.jpg.jpg" alt="Cách làm MỨT VỎ BƯỞI DẺO" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2018/01/IMG_9983-1.jpg.jpg" alt="Cách làm MỨT VỎ BƯỞI DẺO" loading="lazy">
       
       <div class="card-body">
         <h2>Cách làm MỨT VỎ BƯỞI DẺO</h2>
@@ -40,9 +43,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-mut-chuoi-say-deo/">
+    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-mut-chuoi-say-deo/" data-title="cách làm mứt chuối sấy dẻo">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2018/01/cach-lam-chuoi-say-deo-banner.jpg" alt="Cách làm mứt chuối sấy dẻo" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2018/01/cach-lam-chuoi-say-deo-banner.jpg" alt="Cách làm mứt chuối sấy dẻo" loading="lazy">
       
       <div class="card-body">
         <h2>Cách làm mứt chuối sấy dẻo</h2>
@@ -51,9 +54,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-banh-gao-nhan-pho-mai-kieu-han-tokbukki/">
+    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-banh-gao-nhan-pho-mai-kieu-han-tokbukki/" data-title="cách làm bánh gạo cay nhân phô-mai kiểu hàn (tokbukki)">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2018/01/cách-làm-bánh-gạo-cay-banner.jpg" alt="Cách làm bánh gạo cay nhân phô-mai kiểu Hàn (Tokbukki)" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2018/01/cách-làm-bánh-gạo-cay-banner.jpg" alt="Cách làm bánh gạo cay nhân phô-mai kiểu Hàn (Tokbukki)" loading="lazy">
       
       <div class="card-body">
         <h2>Cách làm bánh gạo cay nhân phô-mai kiểu Hàn (Tokbukki)</h2>
@@ -62,9 +65,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/lich-hoc-lam-banh-thang-12018-tai-ha-noi/">
+    <a class="recipe-card" href="/savourydays.com-archived/lich-hoc-lam-banh-thang-12018-tai-ha-noi/" data-title="lịch học làm bánh tháng 1/2018 (tại hà nội)">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2017/12/IMG_8963-1.jpg" alt="LỊCH HỌC LÀM BÁNH THÁNG 1/2018 (tại HÀ NỘI)" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2017/12/IMG_8963-1.jpg" alt="LỊCH HỌC LÀM BÁNH THÁNG 1/2018 (tại HÀ NỘI)" loading="lazy">
       
       <div class="card-body">
         <h2>LỊCH HỌC LÀM BÁNH THÁNG 1/2018 (tại HÀ NỘI)</h2>
@@ -75,9 +78,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/banh-quy-gau-om-dua/">
+    <a class="recipe-card" href="/savourydays.com-archived/banh-quy-gau-om-dua/" data-title="bánh quy gấu “ôm” dứa">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2017/12/banh-quy-gau-banner.jpg" alt="Bánh quy gấu “ôm” dứa" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2017/12/banh-quy-gau-banner.jpg" alt="Bánh quy gấu “ôm” dứa" loading="lazy">
       
       <div class="card-body">
         <h2>Bánh quy gấu “ôm” dứa</h2>
@@ -86,9 +89,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/danh-sach-hoc-vien-khoa-banh-mi-co-ban-thang-112017/">
+    <a class="recipe-card" href="/savourydays.com-archived/danh-sach-hoc-vien-khoa-banh-mi-co-ban-thang-112017/" data-title="danh sách học viên khoá “bánh mì cơ bản” tháng 11/2017">
       
-      <div style="height:160px;background:#f0e6d6;"></div>
+      <div class="thumb-placeholder">🍜</div>
       
       <div class="card-body">
         <h2>DANH SÁCH HỌC VIÊN khoá “Bánh mì cơ bản” tháng 11/2017</h2>
@@ -99,9 +102,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/mau-don-dang-ki-lop-hoc-lam-banh-thang-112017/">
+    <a class="recipe-card" href="/savourydays.com-archived/mau-don-dang-ki-lop-hoc-lam-banh-thang-112017/" data-title="mẫu đơn đăng kí lớp học làm bánh tháng 11/2017">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2017/10/SD-Baking-class_banner.jpg" alt="Mẫu đơn ĐĂNG KÍ LỚP HỌC LÀM BÁNH THÁNG 11/2017" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2017/10/SD-Baking-class_banner.jpg" alt="Mẫu đơn ĐĂNG KÍ LỚP HỌC LÀM BÁNH THÁNG 11/2017" loading="lazy">
       
       <div class="card-body">
         <h2>Mẫu đơn ĐĂNG KÍ LỚP HỌC LÀM BÁNH THÁNG 11/2017</h2>
@@ -112,9 +115,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/lich-hoc-lam-banh-thang-11/">
+    <a class="recipe-card" href="/savourydays.com-archived/lich-hoc-lam-banh-thang-11/" data-title="lịch học làm bánh tháng 11">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2017/10/SD-Baking-class_banner.jpg" alt="LỊCH HỌC LÀM BÁNH THÁNG 11" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2017/10/SD-Baking-class_banner.jpg" alt="LỊCH HỌC LÀM BÁNH THÁNG 11" loading="lazy">
       
       <div class="card-body">
         <h2>LỊCH HỌC LÀM BÁNH THÁNG 11</h2>
@@ -125,9 +128,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-banh-mi-tao/">
+    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-banh-mi-tao/" data-title="[video] cách làm bánh mì táo">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2017/10/CÁCH-LÀM-Bánh-mì-táo-banner.jpg" alt="[VIDEO] Cách làm bánh mì táo" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2017/10/CÁCH-LÀM-Bánh-mì-táo-banner.jpg" alt="[VIDEO] Cách làm bánh mì táo" loading="lazy">
       
       <div class="card-body">
         <h2>[VIDEO] Cách làm bánh mì táo</h2>
@@ -136,9 +139,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/thong-bao-lop-hoc-lam-banh-tai-ha-noi-tu-thang-112017/">
+    <a class="recipe-card" href="/savourydays.com-archived/thong-bao-lop-hoc-lam-banh-tai-ha-noi-tu-thang-112017/" data-title="thông báo: lớp học làm bánh tại hà nội (từ tháng 11/2017)">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2017/10/SD-Baking-class-01.jpg" alt="Thông báo: LỚP HỌC LÀM BÁNH tại Hà Nội (từ tháng 11/2017)" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2017/10/SD-Baking-class-01.jpg" alt="Thông báo: LỚP HỌC LÀM BÁNH tại Hà Nội (từ tháng 11/2017)" loading="lazy">
       
       <div class="card-body">
         <h2>Thông báo: LỚP HỌC LÀM BÁNH tại Hà Nội (từ tháng 11/2017)</h2>
@@ -149,9 +152,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-banh-kem-so-co-la-tra-sua-hojicha-chocolate-cake/">
+    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-banh-kem-so-co-la-tra-sua-hojicha-chocolate-cake/" data-title="[video] cách làm bánh kem sô-cô-la trà sữa (hojicha chocolate cake)">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2017/10/Cách-làm-bánh-kem-sô-cô-la-banner.jpg" alt="[VIDEO] Cách làm bánh kem sô-cô-la trà sữa (Hojicha chocolate cake)" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2017/10/Cách-làm-bánh-kem-sô-cô-la-banner.jpg" alt="[VIDEO] Cách làm bánh kem sô-cô-la trà sữa (Hojicha chocolate cake)" loading="lazy">
       
       <div class="card-body">
         <h2>[VIDEO] Cách làm bánh kem sô-cô-la trà sữa (Hojicha chocolate cake)</h2>
@@ -160,9 +163,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/banh-trung-thu-cua-me-doang-luoi-cho-con/">
+    <a class="recipe-card" href="/savourydays.com-archived/banh-trung-thu-cua-me-doang-luoi-cho-con/" data-title="bánh trung thu của mẹ “đoảng & lười” cho con :)">
       
-      <img src="/savourydays.com-archivedhttps://www.facebook.com/images/emoji.php/v9/f9f/1/16/1f61b.png" alt="Bánh Trung Thu của mẹ “đoảng & lười” cho con :)" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archivedhttps://www.facebook.com/images/emoji.php/v9/f9f/1/16/1f61b.png" alt="Bánh Trung Thu của mẹ “đoảng & lười” cho con :)" loading="lazy">
       
       <div class="card-body">
         <h2>Bánh Trung Thu của mẹ “đoảng & lười” cho con :)</h2>
@@ -173,9 +176,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-banh-deo-khong-bi-xe-chay-mat-net-cung-kho/">
+    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-banh-deo-khong-bi-xe-chay-mat-net-cung-kho/" data-title="cách làm bánh dẻo không bị xệ, chảy, mất nét, cứng, khô…">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2017/09/cách-làm-bánh-dẻo-3.jpg" alt="Cách làm bánh dẻo không bị xệ, chảy, mất nét, cứng, khô…" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2017/09/cách-làm-bánh-dẻo-3.jpg" alt="Cách làm bánh dẻo không bị xệ, chảy, mất nét, cứng, khô…" loading="lazy">
       
       <div class="card-body">
         <h2>Cách làm bánh dẻo không bị xệ, chảy, mất nét, cứng, khô…</h2>
@@ -186,9 +189,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/chia-se-kinh-nghiem-lam-the-nao-de-vo-banh-nuong-trung-thu-cung-hay-mem-theo-y-minh/">
+    <a class="recipe-card" href="/savourydays.com-archived/chia-se-kinh-nghiem-lam-the-nao-de-vo-banh-nuong-trung-thu-cung-hay-mem-theo-y-minh/" data-title="chia sẻ kinh nghiệm: làm thế nào để vỏ bánh nướng trung thu cứng hay mềm theo ý mình">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2017/08/1-610x350.jpg" alt="Chia sẻ kinh nghiệm: Làm thế nào để vỏ bánh nướng trung thu cứng hay mềm theo ý mình" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2017/08/1-610x350.jpg" alt="Chia sẻ kinh nghiệm: Làm thế nào để vỏ bánh nướng trung thu cứng hay mềm theo ý mình" loading="lazy">
       
       <div class="card-body">
         <h2>Chia sẻ kinh nghiệm: Làm thế nào để vỏ bánh nướng trung thu cứng hay mềm theo ý mình</h2>
@@ -199,9 +202,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-banh-trung-thu-tiramisu-cho-cac-ban-moi-b2b4/">
+    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-banh-trung-thu-tiramisu-cho-cac-ban-moi-b2b4/" data-title="[video] cách làm bánh trung thu tiramisu (cho các bạn mới) – b2b#4">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2017/09/IMG_8163.jpg" alt="[VIDEO] Cách làm bánh trung thu Tiramisu (cho các bạn mới) – B2B#4" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2017/09/IMG_8163.jpg" alt="[VIDEO] Cách làm bánh trung thu Tiramisu (cho các bạn mới) – B2B#4" loading="lazy">
       
       <div class="card-body">
         <h2>[VIDEO] Cách làm bánh trung thu Tiramisu (cho các bạn mới) – B2B#4</h2>
@@ -210,9 +213,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/banh-trung-thu-ca-nuong-co-truyen/">
+    <a class="recipe-card" href="/savourydays.com-archived/banh-trung-thu-ca-nuong-co-truyen/" data-title="bánh trung thu cá nướng cổ truyền">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2017/08/IMG_8116-1.jpg.jpg" alt="Bánh trung thu cá nướng cổ truyền" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2017/08/IMG_8116-1.jpg.jpg" alt="Bánh trung thu cá nướng cổ truyền" loading="lazy">
       
       <div class="card-body">
         <h2>Bánh trung thu cá nướng cổ truyền</h2>
@@ -223,9 +226,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/ky-su-trung-thu-banh-nuong-ver-0-0-1/">
+    <a class="recipe-card" href="/savourydays.com-archived/ky-su-trung-thu-banh-nuong-ver-0-0-1/" data-title="ký sự trung thu – bánh nướng ver 0.0.1">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2017/08/1-610x350.jpg" alt="Ký sự Trung Thu – Bánh Nướng Ver 0.0.1" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2017/08/1-610x350.jpg" alt="Ký sự Trung Thu – Bánh Nướng Ver 0.0.1" loading="lazy">
       
       <div class="card-body">
         <h2>Ký sự Trung Thu – Bánh Nướng Ver 0.0.1</h2>
@@ -236,9 +239,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-bong-ngo-4-vi-bo-duong-pho-mai-tra-xanh-oreo-qua-tang-may-lam-bong-ngo/">
+    <a class="recipe-card" href="/savourydays.com-archived/cach-lam-bong-ngo-4-vi-bo-duong-pho-mai-tra-xanh-oreo-qua-tang-may-lam-bong-ngo/" data-title="cách làm bỏng ngô (4 vị: bơ đường, phô-mai, trà xanh, oreo) & quà tặng máy làm bỏng ngô">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2017/08/170811-Popcorn.jpg" alt="Cách làm bỏng ngô (4 vị: bơ đường, phô-mai, trà xanh, Oreo) & Quà tặng Máy làm bỏng ngô" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2017/08/170811-Popcorn.jpg" alt="Cách làm bỏng ngô (4 vị: bơ đường, phô-mai, trà xanh, Oreo) & Quà tặng Máy làm bỏng ngô" loading="lazy">
       
       <div class="card-body">
         <h2>Cách làm bỏng ngô (4 vị: bơ đường, phô-mai, trà xanh, Oreo) & Quà tặng Máy làm bỏng ngô</h2>
@@ -247,9 +250,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/video-cheesy-dinner-rolls-banh-mi-mem-pho-mai-chay-khong-can-nhoi/">
+    <a class="recipe-card" href="/savourydays.com-archived/video-cheesy-dinner-rolls-banh-mi-mem-pho-mai-chay-khong-can-nhoi/" data-title="[video] cheesy dinner rolls – bánh mì pho-mai chảy (không cần nhồi)">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2017/07/cách-làm-bánh-mì-không-cần-nhồi-banner.jpg" alt="[VIDEO] Cheesy Dinner Rolls – Bánh mì pho-mai chảy (không cần nhồi)" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2017/07/cách-làm-bánh-mì-không-cần-nhồi-banner.jpg" alt="[VIDEO] Cheesy Dinner Rolls – Bánh mì pho-mai chảy (không cần nhồi)" loading="lazy">
       
       <div class="card-body">
         <h2>[VIDEO] Cheesy Dinner Rolls – Bánh mì pho-mai chảy (không cần nhồi)</h2>
@@ -258,9 +261,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-banh-mi-cha-bong-nhan-pho-mai-khong-can-nhoi-bot/">
+    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-banh-mi-cha-bong-nhan-pho-mai-khong-can-nhoi-bot/" data-title="[video] cách làm bánh mì chà bông nhân phô mai (không cần nhồi bột)">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2017/07/IMG_7123-002.jpg" alt="[VIDEO] Cách làm bánh mì chà bông nhân phô mai (KHÔNG CẦN NHỒI BỘT)" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2017/07/IMG_7123-002.jpg" alt="[VIDEO] Cách làm bánh mì chà bông nhân phô mai (KHÔNG CẦN NHỒI BỘT)" loading="lazy">
       
       <div class="card-body">
         <h2>[VIDEO] Cách làm bánh mì chà bông nhân phô mai (KHÔNG CẦN NHỒI BỘT)</h2>
@@ -269,9 +272,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/banh-chuoi-than-thanh/">
+    <a class="recipe-card" href="/savourydays.com-archived/banh-chuoi-than-thanh/" data-title="cách làm bánh chuối “thần thánh”">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2017/07/banhchuoithanthanhfinal.jpg" alt="Cách làm bánh chuối “thần thánh”" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2017/07/banhchuoithanthanhfinal.jpg" alt="Cách làm bánh chuối “thần thánh”" loading="lazy">
       
       <div class="card-body">
         <h2>Cách làm bánh chuối “thần thánh”</h2>
@@ -280,9 +283,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/video-tong-hop-cach-lam-kem-khong-can-may-khong-may-lam-kem-khong-may-danh-trung/">
+    <a class="recipe-card" href="/savourydays.com-archived/video-tong-hop-cach-lam-kem-khong-can-may-khong-may-lam-kem-khong-may-danh-trung/" data-title="[video] tổng hợp cách làm kem không cần máy (không máy làm kem, không máy đánh trứng)">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2017/07/cách-làm-kem-không-cần-máy-banner.jpg" alt="[VIDEO] Tổng hợp cách làm KEM KHÔNG CẦN MÁY (không máy làm kem, không máy đánh trứng)" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2017/07/cách-làm-kem-không-cần-máy-banner.jpg" alt="[VIDEO] Tổng hợp cách làm KEM KHÔNG CẦN MÁY (không máy làm kem, không máy đánh trứng)" loading="lazy">
       
       <div class="card-body">
         <h2>[VIDEO] Tổng hợp cách làm KEM KHÔNG CẦN MÁY (không máy làm kem, không máy đánh trứng)</h2>
@@ -291,9 +294,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-cupcake-trung-muoi-tinh-than-tre/">
+    <a class="recipe-card" href="/savourydays.com-archived/video-cach-lam-cupcake-trung-muoi-tinh-than-tre/" data-title="[video] cách làm cupcake trứng muối tinh than tre">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2017/06/IMG_5940-1-610x350.jpg" alt="[VIDEO] Cách làm cupcake trứng muối tinh than tre" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2017/06/IMG_5940-1-610x350.jpg" alt="[VIDEO] Cách làm cupcake trứng muối tinh than tre" loading="lazy">
       
       <div class="card-body">
         <h2>[VIDEO] Cách làm cupcake trứng muối tinh than tre</h2>
@@ -303,7 +306,8 @@
     </a>
     
   </div>
-  <div class="pagination">
+  <p id="no-results">Không tìm thấy công thức nào.</p>
+  <div class="pagination" id="pagination">
     <a href="/savourydays.com-archived/page/10/">«</a>
     
       <a href="/savourydays.com-archived/page/1/">1</a>
@@ -388,6 +392,44 @@
     <a href="/savourydays.com-archived/page/12/">»</a>
   </div>
 </div>
+<script>
+(function(){
+  const box = document.getElementById('search-box');
+  const grid = document.getElementById('recipe-grid');
+  const noRes = document.getElementById('no-results');
+  const pagination = document.getElementById('pagination');
+  if (!box) return;
+
+  let allRecipes = null;
+  const BASE = '/savourydays.com-archived';
+
+  box.addEventListener('input', async function() {
+    const q = this.value.trim().toLowerCase();
+    if (!q) {
+      if (allRecipes) { grid.innerHTML = originalHTML; }
+      noRes.style.display = 'none';
+      pagination.style.display = '';
+      return;
+    }
+    if (!allRecipes) {
+      const r = await fetch(BASE + '/search.json');
+      allRecipes = await r.json();
+    }
+    const matches = allRecipes.filter(r => r.title.toLowerCase().includes(q));
+    pagination.style.display = 'none';
+    if (!matches.length) { grid.innerHTML = ''; noRes.style.display = 'block'; return; }
+    noRes.style.display = 'none';
+    grid.innerHTML = matches.map(r =>
+      `<a class="recipe-card" href="${BASE}/${r.slug}/">
+        <div class="thumb-placeholder">🍜</div>
+        <div class="card-body"><h2>${r.title}</h2><div class="date">${r.date ? r.date.slice(0,10) : ''}</div></div>
+      </a>`
+    ).join('');
+  });
+
+  const originalHTML = grid.innerHTML;
+})();
+</script>
 </main>
 <footer style="text-align:center;padding:2rem;color:#aaa;font-size:.85rem;">
   © Savoury Days · Lưu trữ

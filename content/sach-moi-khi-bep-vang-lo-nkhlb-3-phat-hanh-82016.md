@@ -12,10 +12,7 @@ description: "Sách Nhật ký học làm bánh 3 - chuyên đề về các món
 <p>Sau tập 2 của “Nhật ký học làm bánh”, mình đã suy nghĩ khá nhiều về việc sẽ viết tiếp gì đây? Không phải bởi không còn gì để viết mà ngược lại, có quá nhiều thứ muốn viết cho nên cần chọn chủ đề nào thiết thực nhất, có ích nhất cho bạn đọc của SD và tất cả các bạn yêu bếp.</p>
 <p>2016 cũng là một năm đặc biệt với riêng mình. Ngày 2/5 năm nay đánh dấu 5 năm tròn kể từ ngày Savoury Days chính thức hoạt động. Năm năm không phải là một khoảng thời gian rất dài, nhưng là một chặng đường rất có ý nghĩa với mình, chứng kiến nhiều sự thay đổi trong cuộc sống và con người, cũng là sự khởi đầu của rất nhiều hành trình mới. Bởi vậy nên mình cũng muốn quyển sách tiếp theo sẽ thực sự là một tác phẩm đặc biệt và xứng đáng với dấu mốc quan trọng này.</p>
 <p>Và sau bao nhiêu cân nhắc, thì “Khi bếp vắng lò – Các món tráng miệng không dùng lò nướng và đồ uống” đã được lựa chọn làm chủ đề cho tập 3 của Nhật ký học làm bánh. Từ lâu tại SD, chủ đề “<em><strong>tráng miệng không dùng lò</strong></em>” đã luôn là một nội dung thu hút nhiều sự chú ý và nhận được nhiều yêu cầu của các bạn nhất. “<em><strong>Nobake dessert”</strong> </em>không phải là thứ chỉ dành cho những căn bếp không được trang bị lò nướng, mà cả cho những ngày nóng nực không muốn đụng tới lò, cho những khi bận rộn không có đủ thời gian làm cả một cái bánh, hay cho những ai muốn thử sức với bánh trái nhưng chưa có nhiều kĩ năng, kinh nghiệm và dụng cụ.</p>
-<p>Lấy điều này làm “tinh thần chung” của cả cuốn sách, mình lựa chọn các công thức trong sách theo tiêu chí chung là “dễ” và “hơi dễ” ;) Những món ăn “hơi dễ” đều có hình  minh hoạ các bước để các bạn dễ hình dung về thao tác. Ngoài ra, ở đầu sách có một phần giới thiệu cụ thể các dụng cụ và nguyên liệu mà mình dùng trong sách. Ví dụ như kem tươi, kem pho-mát là gì, gelatin khác bột agar ở đâu…</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Lấy điều này làm “tinh thần chung” của cả cuốn sách, mình lựa chọn các công thức trong sách theo tiêu chí chung là “dễ” và “hơi dễ” ;) Những món ăn “hơi dễ” đều có hình  minh hoạ các bước để các bạn dễ hình dung về thao tác. Ngoài ra, ở đầu sách có một phần giới thiệu cụ thể các dụng cụ và nguyên liệu mà mình dùng trong sách. Ví dụ như kem tươi, kem pho-mát là gì, gelatin khác bột agar ở đâu…</p>
 <p><em>Video giới thiệu ngắn về nội dung sách. Nếu không xem được tại website, bạn có thể <a href="https://youtu.be/mrOv3aunPEo" target="_blank">xem trực tiếp tại ĐÂY</a> </em></p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/mrOv3aunPEo" width="560"></iframe></div>
 <p> </p>
@@ -27,10 +24,7 @@ description: "Sách Nhật ký học làm bánh 3 - chuyên đề về các món
 <p>(*) Sách chính thức phát hành tại Hà Nội và TP Hồ Chí Minh từ <strong>5/8/2016</strong>. <span style="color: #ff0000;">Tuy nhà in bắt đầu trả sách từ 1.8 như trong video nhưng vì nhu cầu quá cao nên đợt in đầu chưa đủ sách, các bạn đợi tới ngày 5.8 sẽ chắc chắn có sách nhé. </span></p>
 <p>(*) <span style="color: #ff0000;"><strong>CÁCH (ĐẶT) MUA SÁCH </strong></span></p>
 <p>– <strong>CÁCH 1: MUA TẠI HIỆU SÁCH </strong></p>
-<p>+ <a href="http://nhanam.vn/tin-tuc/thong-tin-he-thong-cac-cua-hang-cua-nha-nam" target="_blank"><strong>Tất cả các hiệu sách của Nhã Nam (sách giảm giá 25%) tại Hà Nội, Hải Phòng, Đà Nẵng và TP Hồ Chí Minh</strong>. </a><strong><a href="http://nhanam.vn/tin-tuc/thong-tin-he-thong-cac-cua-hang-cua-nha-nam">Địa chỉ cụ thể xem tại ĐÂY</a></strong>.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>+ <a href="http://nhanam.vn/tin-tuc/thong-tin-he-thong-cac-cua-hang-cua-nha-nam" target="_blank"><strong>Tất cả các hiệu sách của Nhã Nam (sách giảm giá 25%) tại Hà Nội, Hải Phòng, Đà Nẵng và TP Hồ Chí Minh</strong>. </a><strong><a href="http://nhanam.vn/tin-tuc/thong-tin-he-thong-cac-cua-hang-cua-nha-nam">Địa chỉ cụ thể xem tại ĐÂY</a></strong>.</p>
 <p>+ <strong>Các hiệu sách tại khu vực Đinh Lễ – Hà Nội (sẽ có sách muộn hơn một chút, có thể tầm 5 – 7/8)</strong></p>
 <p>– <strong>CÁCH 2: MUA ONLINE</strong>: <span style="color: #ff0000;">vì sách mới phát hành nên đa số các đại lý online đều chưa kịp nhập hàng. Dự kiến sẽ có sách trong tuần này, các bạn theo dõi tại những link sau đây nhé</span>:</p>
 <p>+ <a href="http://nhanam.com.vn/dat-truoc/1796/nhat-ky-hoc-lam-banh-3---khi-bep-vang-lo" target="_blank">Website của Nhã Nam</a>: <span style="color: #ff0000;">giảm 15%, kèm theo quà tặng, miễn phí vận chuyển</span></p>
@@ -42,9 +36,6 @@ description: "Sách Nhật ký học làm bánh 3 - chuyên đề về các món
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

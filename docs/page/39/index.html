@@ -10,17 +10,20 @@
 <header>
   <nav>
     <a class="site-title" href="/savourydays.com-archived/"><span>Savoury</span> Days</a>
-    <a href="/savourydays.com-archived/">Trang chủ</a>
+    <span class="spacer"></span>
+    <input id="search-box" type="search" placeholder="Tìm công thức…" autocomplete="off">
   </nav>
 </header>
 <main>
 <div class="container">
-  <h1 style="margin-bottom:1.5rem;">Công thức nấu ăn</h1>
-  <div class="recipe-grid">
+  <div class="index-header">
+    <h1>Công thức nấu ăn</h1>
+  </div>
+  <div class="recipe-grid" id="recipe-grid">
     
-    <a class="recipe-card" href="/savourydays.com-archived/xoi-xeo/">
+    <a class="recipe-card" href="/savourydays.com-archived/xoi-xeo/" data-title="xôi xéo">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2011/05/Xoi-xeo.jpg" alt="Xôi xéo" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2011/05/Xoi-xeo.jpg" alt="Xôi xéo" loading="lazy">
       
       <div class="card-body">
         <h2>Xôi xéo</h2>
@@ -29,9 +32,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/bun-suon-moc-doc-mung-bac-ha/">
+    <a class="recipe-card" href="/savourydays.com-archived/bun-suon-moc-doc-mung-bac-ha/" data-title="bún sườn mọc dọc mùng (bạc hà)">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2011/05/Bun-suon-moc.jpg" alt="Bún sườn mọc dọc mùng (bạc hà)" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2011/05/Bun-suon-moc.jpg" alt="Bún sườn mọc dọc mùng (bạc hà)" loading="lazy">
       
       <div class="card-body">
         <h2>Bún sườn mọc dọc mùng (bạc hà)</h2>
@@ -40,9 +43,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/muc-luc-hinh-anh/">
+    <a class="recipe-card" href="/savourydays.com-archived/muc-luc-hinh-anh/" data-title="mục lục món ăn bằng hình ảnh">
       
-      <img src="/savourydays.com-archivedhttp://farm3.static.flickr.com/2694/5752558724_ae301b6e37_s.jpg" alt="Mục lục món ăn bằng hình ảnh" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archivedhttp://farm3.static.flickr.com/2694/5752558724_ae301b6e37_s.jpg" alt="Mục lục món ăn bằng hình ảnh" loading="lazy">
       
       <div class="card-body">
         <h2>Mục lục món ăn bằng hình ảnh</h2>
@@ -51,9 +54,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/my-y-ngao-sot-bo-chanh/">
+    <a class="recipe-card" href="/savourydays.com-archived/my-y-ngao-sot-bo-chanh/" data-title="mỳ ý & ngao sốt bơ chanh">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2011/05/My-Y-ngao-610x350.jpg" alt="Mỳ Ý & ngao sốt bơ chanh" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2011/05/My-Y-ngao-610x350.jpg" alt="Mỳ Ý & ngao sốt bơ chanh" loading="lazy">
       
       <div class="card-body">
         <h2>Mỳ Ý & ngao sốt bơ chanh</h2>
@@ -62,9 +65,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/pho-xao-kieu-thai/">
+    <a class="recipe-card" href="/savourydays.com-archived/pho-xao-kieu-thai/" data-title="phở xào kiểu thái">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2011/05/Pho-xao-kieu-Thai.jpg" alt="Phở xào kiểu Thái" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2011/05/Pho-xao-kieu-Thai.jpg" alt="Phở xào kiểu Thái" loading="lazy">
       
       <div class="card-body">
         <h2>Phở xào kiểu Thái</h2>
@@ -73,9 +76,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/tom-nuong-teriyaki/">
+    <a class="recipe-card" href="/savourydays.com-archived/tom-nuong-teriyaki/" data-title="cách làm tôm nướng teriyaki">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2011/05/Tom-Teriyaki1-300x300.jpg" alt="Cách làm Tôm nướng Teriyaki" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2011/05/Tom-Teriyaki1-300x300.jpg" alt="Cách làm Tôm nướng Teriyaki" loading="lazy">
       
       <div class="card-body">
         <h2>Cách làm Tôm nướng Teriyaki</h2>
@@ -84,9 +87,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/trung-cuon-hanh-tay-chien-bo/">
+    <a class="recipe-card" href="/savourydays.com-archived/trung-cuon-hanh-tay-chien-bo/" data-title="trứng cuộn hành tây chiên bơ">
       
-      <img src="/savourydays.com-archived/wp-content/uploads/2011/05/Trung-cuon-hanh.jpg" alt="Trứng cuộn hành tây chiên bơ" loading="lazy">
+      <img class="thumb" src="/savourydays.com-archived/wp-content/uploads/2011/05/Trung-cuon-hanh.jpg" alt="Trứng cuộn hành tây chiên bơ" loading="lazy">
       
       <div class="card-body">
         <h2>Trứng cuộn hành tây chiên bơ</h2>
@@ -95,9 +98,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/gioi-thieu/">
+    <a class="recipe-card" href="/savourydays.com-archived/gioi-thieu/" data-title="về savoury days & tôi">
       
-      <div style="height:160px;background:#f0e6d6;"></div>
+      <div class="thumb-placeholder">🍜</div>
       
       <div class="card-body">
         <h2>Về Savoury Days & tôi</h2>
@@ -106,9 +109,9 @@
       </div>
     </a>
     
-    <a class="recipe-card" href="/savourydays.com-archived/video-nau-an/">
+    <a class="recipe-card" href="/savourydays.com-archived/video-nau-an/" data-title="video nấu ăn">
       
-      <div style="height:160px;background:#f0e6d6;"></div>
+      <div class="thumb-placeholder">🍜</div>
       
       <div class="card-body">
         <h2>Video nấu ăn</h2>
@@ -118,7 +121,8 @@
     </a>
     
   </div>
-  <div class="pagination">
+  <p id="no-results">Không tìm thấy công thức nào.</p>
+  <div class="pagination" id="pagination">
     <a href="/savourydays.com-archived/page/38/">«</a>
     
       <a href="/savourydays.com-archived/page/1/">1</a>
@@ -203,6 +207,44 @@
     
   </div>
 </div>
+<script>
+(function(){
+  const box = document.getElementById('search-box');
+  const grid = document.getElementById('recipe-grid');
+  const noRes = document.getElementById('no-results');
+  const pagination = document.getElementById('pagination');
+  if (!box) return;
+
+  let allRecipes = null;
+  const BASE = '/savourydays.com-archived';
+
+  box.addEventListener('input', async function() {
+    const q = this.value.trim().toLowerCase();
+    if (!q) {
+      if (allRecipes) { grid.innerHTML = originalHTML; }
+      noRes.style.display = 'none';
+      pagination.style.display = '';
+      return;
+    }
+    if (!allRecipes) {
+      const r = await fetch(BASE + '/search.json');
+      allRecipes = await r.json();
+    }
+    const matches = allRecipes.filter(r => r.title.toLowerCase().includes(q));
+    pagination.style.display = 'none';
+    if (!matches.length) { grid.innerHTML = ''; noRes.style.display = 'block'; return; }
+    noRes.style.display = 'none';
+    grid.innerHTML = matches.map(r =>
+      `<a class="recipe-card" href="${BASE}/${r.slug}/">
+        <div class="thumb-placeholder">🍜</div>
+        <div class="card-body"><h2>${r.title}</h2><div class="date">${r.date ? r.date.slice(0,10) : ''}</div></div>
+      </a>`
+    ).join('');
+  });
+
+  const originalHTML = grid.innerHTML;
+})();
+</script>
 </main>
 <footer style="text-align:center;padding:2rem;color:#aaa;font-size:.85rem;">
   © Savoury Days · Lưu trữ

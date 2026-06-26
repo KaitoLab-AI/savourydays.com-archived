@@ -12,10 +12,7 @@ description: ""
 <p><span style="color: #ff0000;">* <strong>Toàn bộ nội dung bài viết và hình ảnh thuộc bản quyền của Savoury Days (trừ các hình ảnh &amp; nội dung có ghi nguồn trích dẫn). <span style="text-decoration: underline;">Không sao chép, đăng tải hoặc sử dụng lại dưới bất kì hình thức nào</span> nếu không có sự đồng ý của tác giả.</strong></span></p>
 <p>———————————</p>
 <p>Lâu rồi mới lại viết nhật kí học làm bánh, cho nên xin phép cả nhà cho mình bắt đầu theo cách “truyền thống” là … than thở nhé :D</p>
-<p>Mình bắt đầu làm Chiffon từ khoảng tháng 3, không nhớ chính xác lắm nhưng cũng khá lâu rồi. Số lần làm thì thực sự là không đếm được vì quá nhiều. Các công thức về Chiffon mà mình đã thử đến giờ cũng không nhớ được là bao nhiêu, từ các công thức trong sách như là Professional Baking, sách của Cook’s Illustrated, của Rose Beranbaum,.. cho đến công thức trên website, food blog và công thức do mình tự điều chỉnh. Có lẽ Chiffon là loại bánh làm mình mất nhiều thời gian, công sức và… tiền của nhất (gồm xiền mua nguyên liệu cho nhiều bánh không hỏng &amp; rất nhiều bánh hỏng :-&lt;).</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Mình bắt đầu làm Chiffon từ khoảng tháng 3, không nhớ chính xác lắm nhưng cũng khá lâu rồi. Số lần làm thì thực sự là không đếm được vì quá nhiều. Các công thức về Chiffon mà mình đã thử đến giờ cũng không nhớ được là bao nhiêu, từ các công thức trong sách như là Professional Baking, sách của Cook’s Illustrated, của Rose Beranbaum,.. cho đến công thức trên website, food blog và công thức do mình tự điều chỉnh. Có lẽ Chiffon là loại bánh làm mình mất nhiều thời gian, công sức và… tiền của nhất (gồm xiền mua nguyên liệu cho nhiều bánh không hỏng &amp; rất nhiều bánh hỏng :-&lt;).</p>
 <p>Thật ra làm nhiều không phải là do Chiffon khó, mà bởi vì có 2 nguyên nhân chính. Một là vì khi đọc các hướng dẫn làm Chiffon và các phản hồi kèm theo thì ấn tượng của mình là đây là loại bánh mà 10 người làm chắc có đến 5-6 người thất bại. Cho nên mình rất muốn tìm ra nguyên nhân, bởi vì có hiểu được nguyên nhân thì mới khắc phục được thất bại. Lý do thứ hai, quan trọng hơn là mình muốn tìm ra công thức làm Chiffon cho khuôn thường (tức là khuôn không có lõi giữa), và phải là một công thức dễ thực hiện để khả năng thất bại cho  những người mới học là thấp nhất. Thật là tham vọng nhỉ… :”&gt;</p>
 <p><a href="/wp-content/uploads/2012/07/chiffon-cake-ck-1072219-l.jpg"><img alt="" class="aligncenter size-full wp-image-2971" height="300" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="/wp-content/uploads/2012/07/chiffon-cake-ck-1072219-l.jpg" title="chiffon-cake-ck-1072219-l" width="300"/></a></p>
 <p style="text-align: center;"><em>Hình minh họa (Nguồn: http://www.myrecipes.com/recipe/citrus-chiffon-cake-10000001072219/)</em></p>
@@ -31,10 +28,7 @@ description: ""
 <p>———————-</p>
 <p><span style="color: #800000;"><strong>Phần 1: Đặc điểm của Chiffon. Phân biệt Chiffon với các loại bánh (gateau/bông lan) khác và các biến thể của Chiffon.</strong></span></p>
 <p>Chiffon nằm trong nhóm Foam Cake – nhóm gồm các loại bánh nở dựa vào bọt khí có trong trứng hoặc lòng trắng trứng đánh bông, khác  với nhóm High Fat Cake, gồm các loại bánh có thành phần chất béo (dầu, bơ…) cao, và chủ yếu dựa vào bột nở để nở..</p>
-<p>Chiffon cơ bản thì dựa vào bọt khí trong lòng trắng trứng đánh bông để nở – khác với Sponge Cake (gateau cơ bản) dựa vào bọt khí trong cả quả trứng đánh bông để nở. Lượng bột trong Chiffon khá thấp, chất lỏng tương đối nhiều và chất béo được sử dụng là dầu ăn, cho nên đặc điểm chung của Chiffon là xốp, mềm, nhẹ và ẩm. Chính nhờ đặc điểm này mà Chiffon có vẻ được ưa chuộng hơn Sponge Cake (mặc dù nếu tay nghề tốt thì Sponge cake cũng không hề khô hay nghẹn bứ, chỉ là không được nhẹ như Chiffon thôi).</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Chiffon cơ bản thì dựa vào bọt khí trong lòng trắng trứng đánh bông để nở – khác với Sponge Cake (gateau cơ bản) dựa vào bọt khí trong cả quả trứng đánh bông để nở. Lượng bột trong Chiffon khá thấp, chất lỏng tương đối nhiều và chất béo được sử dụng là dầu ăn, cho nên đặc điểm chung của Chiffon là xốp, mềm, nhẹ và ẩm. Chính nhờ đặc điểm này mà Chiffon có vẻ được ưa chuộng hơn Sponge Cake (mặc dù nếu tay nghề tốt thì Sponge cake cũng không hề khô hay nghẹn bứ, chỉ là không được nhẹ như Chiffon thôi).</p>
 <p>Cách làm Chiffon phổ biến nhất, được các sách dạy làm bánh gọi là Chiffon Method, thật ra rất đơn giản, các bước chính là:</p>
 <ol>
 <li>Tách riêng lòng đỏ và lòng trắng trứng.</li>
@@ -54,9 +48,6 @@ description: ""
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

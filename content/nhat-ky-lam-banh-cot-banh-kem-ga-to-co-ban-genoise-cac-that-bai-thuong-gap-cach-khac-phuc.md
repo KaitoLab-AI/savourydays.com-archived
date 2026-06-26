@@ -12,10 +12,7 @@ description: "gato"
 <p>Quay về chủ đề chính, cốt bánh ga-tô, theo mình được biết thì thường được làm từ Sponge Cake. Sponge Cake là một trong những loại Foam Cake cơ bản và đơn giản nhất, bánh được làm bằng cách đánh bông trứng, không sử dụng bơ hoặc rất ít bơ, và cũng không cần bột nở vì bánh nở chủ yếu dựa vào bọt khí trong trứng đánh bông. So với High Fat Cake (bánh dùng nhiều chất béo như Pound cake, butter cake..) thì Sponge Cake xốp và nhẹ, bông hơn, sử dụng làm đồ tráng miệng thích hợp hơn. Và vì Sponge Cake không quá “nhẹ” như Chiffon nên có thể trang trí bằng các loại icing “nặng” như đường fondant mà không sợ xẹp bánh. Tuy nhiên, nhược điểm của Sponge Cake truyền thống là rất khô, ăn thường có cảm giác nghẹn và bứ. Cho nên mình không chọn giới thiệu Sponge Cake truyền thống làm bạt bánh ga-tô mà thay vào bằng Genoise kiểu Mỹ, cũng gần giống như Sponge Cake nhưng trong thành phần nguyên liệu có một vài thay đổi, cụ thể là có thêm chút bơ để giúp bánh có thêm mùi vị thơm ngon và khắc phục nhược điểm khô, nghẹn bứ của Sponge Cake truyền thống.</p>
 <p><a href="/wp-content/uploads/2012/02/genoise_gd.jpg"><img alt="" class="aligncenter size-full wp-image-1765" height="240" loading="lazy" sizes="(max-width: 320px) 100vw, 320px" src="/wp-content/uploads/2012/02/genoise_gd.jpg" title="genoise_gd" width="320"/></a></p>
 <p style="text-align: center;"><em>Ảnh minh họa lấy từ http://www.cuisine-french.com</em></p>
-<p>Làm Genoise không quá khó. Các bước cơ bản gần như giống hệt với cách làm Sponge Cake truyền thống – gọi là Sponge Method (phương pháp trộn bột cho các loại bánh Sponge Cake) – cụ thể như sau:</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Làm Genoise không quá khó. Các bước cơ bản gần như giống hệt với cách làm Sponge Cake truyền thống – gọi là Sponge Method (phương pháp trộn bột cho các loại bánh Sponge Cake) – cụ thể như sau:</p>
 <p style="text-align: center;">————————————</p>
 <p style="text-align: center;"><strong>Sponge/ Genoise Method </strong></p>
 <p style="padding-left: 30px;">1. Cân đong các thứ nguyên liệu theo chỉ dẫn trong công thức.</p>
@@ -25,10 +22,7 @@ description: "gato"
 <p style="padding-left: 30px;">5. Chia bột thành 2- 3 phần. Chia bơ thành 2-3 phần. Rây từng phần bột vào âu trứng, kèm theo một phần bơ (đổ nhẹ tay vào một bên thành âu). Dùng kỹ thuật fold trộn cho hòa quyện. <strong>Không trộn kỹ, sẽ dễ làm bọt khí vỡ, bánh chai, không nở được, hoặc nở kém, phần bên trong bị bết. </strong></p>
 <p style="padding-left: 30px;">* <strong>Lưu ý</strong>: <em>Nếu sử dụng bột nở, muối nở hoặc các loại bột khác ngoài bột mỳ (cacao, trà xanh..) thì cần rây mịn các loại bột này với bột mỳ rồi mới trộn tiếp với trứng.</em></p>
 <p style="padding-left: 30px;">6. Đổ bột vào khuôn và mang đi nướng <strong>ngay. </strong></p>
-<p style="text-align: center;">—————————————</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p style="text-align: center;">—————————————</p>
 <p>Thất bại thường gặp nhất với Genoise có lẽ là bánh xẹp sau khi nướng, hoặc xẹp ngay trong lò nướng, hoặc bánh nở kém (VD dùng 4 trứng mà bánh chỉ nở được 2-3cm…). Ngoài các nguyên nhân bên ngoài như là nhiệt độ lò nướng không ổn định, trứng cũ, không tươi… (các bạn có thể xem thêm các thất baị thường gặp khi làm bánh &amp; cách khắc phục tại<strong> <a href="/?p=977">ĐÂY</a></strong>), thì có 2 nguyên nhân liên quan đến “kỹ thuật” khi làm – và cũng là 2 điều nên chú ý khi làm Genoise hay Sponge là :</p>
 <p><span id="more-1613"></span></p>
 <p>(1). Đ<strong>ánh bông trứng: </strong>Sponge Method có hai cách đánh trứng cơ bản: <strong>đánh nóng</strong> (đặt âu trứng lên nồi nước nóng như trong bài) và <strong>đánh nguội</strong> (đánh trứng ở nhiệt độ phòng). Các bạn có thể dùng cách nào cũng được, tuy là mình thấy các sách dạy làm bánh Âu thường khuyên là đánh trứng nóng sẽ giúp bánh nở bông và mịn hơn.</p>
@@ -45,7 +39,6 @@ description: "gato"
 <p>– Luôn rây bột để tránh bị vón cục</p>
 <p>– Trộn theo kiểu đảo từ dưới lên, không quấy.</p>
 
-
 <p>– Trộn theo một chiều, nhẹ tay nhưng dứt khoát, nếu làm được nhanh thì càng tốt.</p>
 <p>– Trộn vừa đủ, không trộn quá kỹ hoặc quá lâu</p>
 <p>Chắc những điều cần chú ý thì vậy là tương đối đủ rồi :) Nếu có gì thiếu thì nhờ cả nhà bổ sung thêm nhé :) Bài tiếp theo mình sẽ giới thiệu công thức và cách làm Genoise của mình – bánh rất ngon, không bị khô tí nào, mình thường dùng “ăn vã”, không kem, không syrup gì cả :D</p>
@@ -57,9 +50,6 @@ description: "gato"
 <!-- quang cao google -->
 <!--matched content-->
 <h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
-
-
-
 
 <br/>
 </div>

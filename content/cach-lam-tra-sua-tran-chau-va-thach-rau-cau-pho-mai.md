@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2016/04/cach-lam-tra-sua-tran-chau.jpg"
 description: "Video hướng dẫn chi tiết cách làm trà sữa trân châu với thạch rau câu phô mai thơm ngon và đảm bảo an toàn vệ sinh thực phẩm. Cách làm trân châu nhiều vị"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Có một điều mà ngay cả bản thân mình cũng KHÔNG THỂ TIN NỔI. Đấy là tại sao SD tới giờ đã được gần 5 tuổi rồi mà vẫn chưa hề có hướng dẫn trà sữa trân châu tử tế. Quả thật là quá là lạ lùng với một con nghiện trân châu có thâm niên là mình luôn :P :P</p>
 <p>Thật ra thì SD cũng đã có bài nói qua về cách làm trân châu rồi, nhưng cũng từ khá lâu và là hướng dẫn rất ngắn thôi, ở trong bài về <a href="/che-bobo-chacha-bubur-cha-cha-cach-tu-lam-tran-chau/" target="_blank"><strong>cách làm chè Bo bo Cha cha</strong> </a>nếu bạn nào còn nhớ (không biết món chè này giờ ở Việt Nam còn thịnh hành nữa không nhỉ?). Nhưng cũng chỉ có vậy thôi. Còn về sự kết hợp thần thánh giữa trân châu với trà sữa và thạch phô-mai thì chính thức tới ngày hôm nay mới có bản hướng dẫn đầy đủ và tử tế tại SD :)</p>
 <p>Tự làm cả ba món trà sữa, trân châu và thạch rau câu nhân phô-mai đều không khó đâu, không khó một tí nào luôn ấy. Với tình hình an toàn vệ sinh thực phẩm ở nhà thì mình nghĩ càng nên làm tại nhà để yên tâm là không bị ăn po-ly-me hay các loại hương vị pha trà độc hại cho sức khoẻ. Giá thành trà tự làm có lẽ là cũng rẻ hơn mua sẵn nữa. Độ ngon thì không thua gì cả, thậm chí còn hơn vì trân châu ở nhà vừa to vừa ngon, lại còn muốn ăn bao nhiêu có bấy nhiêu nữa. Khâu mất thời gian nhất chắc là làm trân châu thôi, vì phải nặn từng viên nhỏ một. Mình hay tranh thủ lúc ngồi xem phim thì nặn trân châu, nhất cử lưỡng tiện :D</p>
 <p>Thôi không “tán nhảm” nữa, mình vào chủ đề chính luôn nhé. Video hướng dẫn cách làm đầy đủ đã được đăng tại <strong><a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days</a></strong> như mọi khi.<span style="color: #ff0000;"> Ở dưới video là công thức đầy đủ kèm theo một số giải thích và ghi chú thêm của mình. Các ghi chú này khá quan trọng và sẽ giúp các bạn tránh thất bại khi làm món đồ uống này nên đừng bỏ qua nhé.</span></p>
-<p>Nếu không xem được video tại blog, các bạn có thể xem trực tiếp trong <strong><a href="https://youtu.be/1FACs0csXV4" target="_blank">link này</a> </strong>nhé. Video có chế độ bản đẹp HD. Các bạn có thể xem hướng dẫn cách chỉnh chế độ HD ở cuối bài viết <strong><a href="/demo-flan-creme-caramel-kem-caramel/" target="_blank">cách làm bánh flan này.</a></strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Nếu không xem được video tại blog, các bạn có thể xem trực tiếp trong <strong><a href="https://youtu.be/1FACs0csXV4" target="_blank">link này</a> </strong>nhé. Video có chế độ bản đẹp HD. Các bạn có thể xem hướng dẫn cách chỉnh chế độ HD ở cuối bài viết <strong><a href="/demo-flan-creme-caramel-kem-caramel/" target="_blank">cách làm bánh flan này.</a></strong></p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/1FACs0csXV4" width="560"></iframe></div>
 <h3></h3>
 <h3>CÁCH LÀM TRÀ SỮA TRÂN CHÂU &amp; THẠCH RAU CÂU PHÔ-MAI</h3>
@@ -58,10 +54,7 @@ description: "Video hướng dẫn chi tiết cách làm trà sữa trân châu 
 <li>nước chanh leo pha với nước cam</li>
 <li>nước pha với chiết xuất lá dứa (dùng nước vắt từ lá dứa tươi cũng được nhưng màu nước lá dứa tự nhiên thường hơi nhạt).</li>
 </ul>
-<p>Bạn có thể chuẩn bị nước có màu và hương liệu khác tuỳ thích nha.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>Bạn có thể chuẩn bị nước có màu và hương liệu khác tuỳ thích nha.</p>
 <p>2. Mình dùng bột rau câu Agar để làm thạch. Bột Agar cho thạch có vị cứng và giòn. Bạn hoàn toàn có thể đổi loại bột thạch hay chất tạo đông khác theo ý thích nhé. Ví dụ như ở Việt Nam mình thấy có loại bột Jelly cho thạch mềm dẻo. Hoặc bên cạnh bột Agar, có thể dùng thêm gelatin để làm cho thạch mềm và dẻo hơn nhưng vẫn có độ cứng giòn… Trên các gói làm thạch thường có ghi lượng bột cần dùng, các bạn có thể dựa vào đây để tính lượng bột thạch cần dùng cho công thức.</p>
 <p>3. <strong>Để trà sữa có vị thơm và béo của sữa, mình thường dùng sữa đặc và sữa bột</strong>. Mình không pha sữa tươi do độ béo của sữa tươi không bằng sữa đặc. Nhưng mình cũng không dùng quá nhiều sữa đặc vì sẽ dễ át mất mùi trà.</p>
 <p>Bột sữa là thứ mình thường thêm vào để trà có vị béo và thơm của sữa trong khi không bị mất vị trà. Một vài công thức dùng kem tươi (whipping cream) nhưng mình nghĩ là không nên bởi khi để lạnh, chất béo trong kem tươi sẽ tạo váng trên mặt trà, nhìn không được đẹp mắt lắm. Nhìn chung thì khi dùng sữa bột, sữa đặc, đường và trà pha cùng nhau, mình thấy mùi vị của trà rất thơm ngon, không kém gì ngoài hàng cả.</p>
@@ -77,7 +70,6 @@ description: "Video hướng dẫn chi tiết cách làm trà sữa trân châu 
 <p>5. Làm tương tự với các phần thạch còn lại.</p>
 <p>6. Khi thạch nguội và tương đối đông thì để thạch vào tủ lạnh tới khi thạch đông cứng hẳn (mất khoảng 1 giờ).</p>
 <p><strong>B. <span style="text-decoration: underline;">Làm trà sữa</span></strong></p>
-
 
 <p>1. Cho các túi trà vào bình, đổ nước sôi để hãm trà.</p>
 <p>2. Khi nước trà còn ấm nóng, cho sữa đặc và sữa bột vào, quấy đều cho sữa tan. Lượng sữa đặc có thể thay đổi tuỳ khẩu vị nhưng không nên cho quá nhiều, vị sữa sẽ át vị trà. Nên dùng sữa bột vì sữa bột giúp cho trà có vị béo ngậy và thơm hơn và không át đi mùi trà quá nhiều như sữa đặc.</p>
@@ -104,4 +96,4 @@ description: "Video hướng dẫn chi tiết cách làm trà sữa trân châu 
 <p><strong>D. Thưởng thức</strong></p>
 <p>1. Gỡ rau câu đã đông cứng ra khỏi khuôn. Cắt thành miếng nhỏ vừa ăn nếu dùng khuôn là hộp lớn. Lưu ý: để trân châu không bị chảy nước, ngoài việc cần ngâm bột Agar nở trong khoảng 1 giờ thì nên để thạch trong khuôn tới khi dùng mới gỡ ra. Thạch gỡ ra sớm (và cắt miếng sớm) sẽ dễ bị chảy nước hơn.</p>
 <p>2. Cho trân châu, thạch vào cốc. Đổ trà sữa. Dùng lạnh.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

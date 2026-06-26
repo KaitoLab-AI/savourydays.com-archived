@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2019/02/Cách-làm-miến-lươn-nước-banner.jpg"
 description: "Cách làm miến lươn nước: Lươn xào mềm béo hay chiên vàng giòn rụm, đậm đà, ăn với sợi miến mướt mát và nước dùng ngọt thanh, trong veo tạo nên một"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p> </p>
 <p><span style="color: #000000;">Lươn xào mềm béo hay chiên vàng giòn rụm, đậm đà, ăn với sợi miến mướt mát và nước dùng ngọt thanh, trong veo tạo nên một sự hài hòa chuẩn mực cho một món ăn Hà Nội. Để làm miến lươn ngon thì tốt nhất nên chọn loại lươn đồng thân bé chỉ chừng hơn ngón tay, lươn sẽ thơm ngon, chắc thịt và nước ninh xương có vị nhẹ thơm, không tanh. Công thức dưới đây sẽ hướng dẫn các bạn có thể làm cả lươn xào mềm lẫn chiên giòn, rất tiện lợi để bạn biến tấu phần topping tùy theo ý thích và khẩu vị của từng thành viên trong gia đình. Bát miến lươn tự nấu ở nhà cũng chất lượng và thậm chí là ngon hơn cả ngoài hàng, từ nước dùng đậm đà, tới lươn chiên giòn tan nhưng vẫn rất “thật” vị thịt, không phải giòn của bột.</span></p>
 <h2><img alt="" class="aligncenter size-large wp-image-8135" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/mienluonnuoc_final-1024x683.jpg" width="1024"/></h2>
@@ -30,10 +29,7 @@ description: "Cách làm miến lươn nước: Lươn xào mềm béo hay chiê
 <li><em><span style="color: #000000;">4 gr tiêu xay</span></em></li>
 </ul>
 <p><span style="color: #800000;"><strong>Cách làm:</strong></span></p>
-<p><span style="color: #000000;">1. Chuẩn bị lươn:</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="color: #000000;">1. Chuẩn bị lươn:</span></p>
 <p><span style="color: #000000;">– Lươn làm sạch, lọc thịt và xương riêng, để ráo nước. Một nửa lươn thái sợi dài, dày khoảng 1 – 1,5 cm để làm lươn chiên giòn. Một nửa lươn thái khúc ngắn khoảng 6 – 7 cm làm lươn xào mềm.</span></p>
 <p><span style="color: #000000;">Mỗi loại lươn ướp với 2 gr hạt nêm và 2 gr tiêu xay (2 gram bằng khoảng ½ tsp/ thìa nhỏ/ thìa café).</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8137" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/mienluonnuoc1-1024x683.jpg" width="1024"/></p>
@@ -43,10 +39,7 @@ description: "Cách làm miến lươn nước: Lươn xào mềm béo hay chiê
 <p><span style="color: #000000;">3. Chuẩn bị các nguyên liệu khác</span></p>
 <p><span style="color: #000000;">– Miến ngâm với nước lạnh trong khoảng 15 phút cho nở mềm. Vớt ra để ráo.</span></p>
 <p><span style="color: #000000;">– Nấm hương ngâm với nước ấm trong 15 – 20 phút cho nở mềm, cắt bỏ chân, thái nhỏ một nửa.</span></p>
-<p><span style="color: #000000;">– Rau cần nhặt và rửa sạch, cắt khúc ngắn 6 – 7 cm. Giá đỗ rửa sạch vỏ, để ráo. Hành lá, rau răm nhặt rễ, rửa sạch, thái nhỏ.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #000000;">– Rau cần nhặt và rửa sạch, cắt khúc ngắn 6 – 7 cm. Giá đỗ rửa sạch vỏ, để ráo. Hành lá, rau răm nhặt rễ, rửa sạch, thái nhỏ.</span></p>
 <p><span style="color: #000000;">4. Làm lươn chiên giòn:</span></p>
 <p><span style="color: #000000;">– Trộn lươn với 50 gr bột năng (hoặc bột ngô/ bột khoai cũng được), tới khi bột phủ đều miếng lươn. Lưu ý lươn phải thật khô ráo để bột không bị vón cục, chỉ phủ một lớp áo bột mỏng bên ngoài nếu không khi ăn miếng lươn sẽ cảm giác còn mùi bột.</span></p>
 <p><span style="color: #000000;">– Làm nóng lượng dầu trong chảo vừa đủ ngập mặt lươn, giũ bớt bột thừa ở miếng lươn rồi thả vào chảo dầu. Chiên lươn trên lửa vừa tới khi lươn vàng giòn thì vớt ra, để ráo dầu.</span></p>
@@ -62,5 +55,3 @@ description: "Cách làm miến lươn nước: Lươn xào mềm béo hay chiê
 <p><span style="color: #000000;">*Yêu cầu thành phẩm: nước dùng lươn vị thanh ngọt vừa phải, thơm mùi hành lá, rau răm, không còn mùi tanh. Lươn xào đậm đà, lươn chiên giòn tan không nặng bột.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8141" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/mienluonnuoc9-1024x683.jpg" width="1024"/></p>
 
-
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

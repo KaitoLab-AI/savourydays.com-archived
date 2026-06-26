@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2015/02/PeanutBrittle1.jpg"
 description: "cách làm kẹo lạc, làm kẹo caramel, làm kẹo alpenliebe"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Mình làm thử món kẹo này phần vì tò mò, phần vì thấy cách làm của nó cũng đơn giản, nguyên liệu sẵn có mà lại không mất nhiều thời gian, chứ không hẳn vì thèm kẹo. Nhưng đến khi làm xong rồi, ăn thử thì thấy bất ngờ kinh khủng. Nếu bỏ phần lạc ra ngoài thì mùi vị của kẹo giống y xì như món kẹo cứng Alpenliebe mà trước đây mình đã từng rất rất thích: thơm, ngậy béo và không quá ngọt. Các bạn mình nếm thử cũng nói là giống (giá hồi xưa mà biết làm Alpenliebe dễ thế này thì đã tiết kiệm được bao nhiêu xiền mua kẹo rồi). Cũng vì lí do này mà mình đặt tên tiếng Việt cho món kẹo Peanut brittle này là “kẹo lạc Alpenliebe” :)</p>
 <p>Kẹo giòn, ngọt thơm ngậy, thêm vị bùi của lạc, ăn rất vui miệng, là món “nhắm” cực hợp với trà nóng, lại có thể để lâu, nên mình nghĩ làm cho dịp Tết Nguyên Đán sắp tới chắc sẽ rất ổn :)</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/16277778187/" title="IMG_0093-1 by LinhTrang9185, on Flickr"><img alt="IMG_0093-1" class="aligncenter" height="334" loading="lazy" src="https://farm8.staticflickr.com/7328/16277778187_1bc2350445.jpg" width="500"/></a></p>
 <p>* <span style="color: #800000;"><strong>Dụng cụ:</strong></span> Khay chữ nhật kích thước khoảng 18 x 23 cm và giấy nến để lót khay</p>
-<p>*<span style="color: #800000;"><strong> Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>*<span style="color: #800000;"><strong> Nguyên liệu</strong></span></p>
 <ul>
 <li><em>150 g đường</em></li>
 <li><em>70 g nước</em></li>
@@ -35,10 +31,7 @@ description: "cách làm kẹo lạc, làm kẹo caramel, làm kẹo alpenliebe"
 <p>…rồi vàng đậm hơn, nhưng chưa đến mức vàng nâu cánh gián như caramel để làm bánh flan.</p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/16276241290/" title="IMG_8070 by LinhTrang9185, on Flickr"><img alt="IMG_8070" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7322/16276241290_a0f51ac01b.jpg" width="500"/></a></p>
 <p>3. Ngay khi đường chuyển vàng đậm thì tắt bếp, nhanh tay cho các nguyên liệu còn lại vào, quấy đều. Hỗn hợp sẽ chuyển sang dạng sệt và dẻo, có màu hơi vàng nâu. Khi cho muối nở vào hỗn hợp sẽ hơi sủi bọt nhưng bọt khí này sẽ biến mất nhanh. <span style="text-decoration: underline;"><strong>Lưu ý</strong></span>: kẹo khi này rất nóng, cần cẩn thận nếu muốn nếm thử, kẻo dễ bị bỏng nhé.</p>
-<p><a href="https://www.flickr.com/photos/55490207@N05/15841150754/" title="IMG_8072 by LinhTrang9185, on Flickr"><img alt="IMG_8072" class="aligncenter" height="334" loading="lazy" src="https://farm8.staticflickr.com/7397/15841150754_b269c29a77.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15841150754/" title="IMG_8072 by LinhTrang9185, on Flickr"><img alt="IMG_8072" class="aligncenter" height="334" loading="lazy" src="https://farm8.staticflickr.com/7397/15841150754_b269c29a77.jpg" width="500"/></a></p>
 <p>4. Đổ kẹo vào khuôn, dùng thìa dàn đều. <strong>Khi đổ cần cẩn thận vì kẹo rất nóng, tránh để dây lên tay có thể sẽ gây bỏng.</strong></p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/15843587643/" title="IMG_8073 by LinhTrang9185, on Flickr"><img alt="IMG_8073" class="aligncenter" height="334" loading="lazy" src="https://farm9.staticflickr.com/8601/15843587643_f82d3524e8.jpg" width="500"/></a></p>
 <p>Để kẹo bớt nóng. Khi kẹo còn ấm thì dùng dao sắc cắt làm nhiều thanh nhỏ (cắt kẹo khi còn đang ấm sẽ dễ hơn nhiều). Để nguội hoàn toàn rồi bỏ kẹo vào lọ kín, đậy chặt nắp, dùng trong 2 – 3 tuần. Hoặc các bạn cũng có thể đợi cho kẹo nguội hoàn toàn và cứng lại rồi bẻ thành nhiều mảnh nhỏ theo đúng kiểu của <strong><em>peanut brittle.</em></strong></p>
@@ -50,4 +43,4 @@ description: "cách làm kẹo lạc, làm kẹo caramel, làm kẹo alpenliebe"
 <p>Ngay khi đường chuyển màu vàng hơi sậm là cần phải cho các nguyên liệu vào ngay (để lâu hơn, đường cháy nhiều kẹo sẽ dễ bị đắng). Vì vậy nên mình thường chuẩn bị các nguyên liệu sẵn sàng khi đợi đun đường, đặt ngay cạnh nồi. Khi đường vừa đạt là có thể đổ vào luôn.</p>
 <p>Làm cách này kẹo sẽ có màu vàng tươi. Nếu các bạn muốn kẹo có màu vàng sậm hơn thì có thể thay một phần đường trắng bằng đường vàng hoặc đường nâu.</p>
 <p>4. Ngoài lạc, các bạn có thể dùng các loại hạt khác tùy thích như vừng, hạt điều, hạt dẻ cười… mình nghĩ cũng sẽ rất ngon.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

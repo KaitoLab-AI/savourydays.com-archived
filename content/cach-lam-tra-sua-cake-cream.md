@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2022/04/1.jpg"
 description: "Cách làm trà sữa cake cream đơn giản, hương thơm mát từ hồng trà, béo ngậy từ kem phomai, vị ngọt đậm đà từ trân châu đường đen"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="font-weight: 400; color: #000000;">Lâu lắmm rùi SD không có công thức trà sữa nào mới, mùa hè năm nay “đền bù” cho cả nhà bằng một món trà sữa đang hot và siêu xịn nha 😁 </span></p>
 <p><span style="font-weight: 400; color: #000000;">“Ngôi sao” của món này chính là “cake cream”, loại kem được làm từ phomai và kem tươi, vị béo béo mằn mặn (giống như các loại kem trong bánh gato). Sự kết hợp giữa trà hồng trà thơm mát, ngọt ngào với kem phomai mặn béo ngậy thì quá kinh điển rồi. So với trà sữa kem cheese thì cake cream vừa béo ngậy hơn, vừa giúp cốc trà sữa trông “xịn” hơn rất nhiều, muốn mang đi xa cũng dễ hơn, không sợ kem bị chảy hay loãng ra nhé 😁 </span></p>
 <h2><span style="color: #993300;">Cách làm TRÀ SỮA CAKE CREAM</span></h2>
@@ -21,10 +20,7 @@ description: "Cách làm trà sữa cake cream đơn giản, hương thơm mát 
 <li><em><span style="font-weight: 400; color: #000000;">40 gram sữa bột (2 thìa canh)</span></em></li>
 <li><em><span style="font-weight: 400; color: #000000;">15 gram đường (điều chỉnh tùy khẩu vị)</span></em></li>
 </ul>
-<p><strong><span style="color: #000000;">B. Cake cream:</span></strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong><span style="color: #000000;">B. Cake cream:</span></strong></p>
 <ul>
 <li><em><span style="font-weight: 400; color: #000000;">50 gram cream cheese (hoặc phomai con bò cười), để mềm ở nhiệt độ phòng</span></em></li>
 <li><em><span style="font-weight: 400; color: #000000;">30 gram kem tươi (whipping cream)</span></em></li>
@@ -45,10 +41,7 @@ description: "Cách làm trà sữa cake cream đơn giản, hương thơm mát 
 <p><strong><span style="color: #000000;">B. Cake cream:</span></strong></p>
 <p><span style="font-weight: 400; color: #000000;">1. Cream cheese để ra ngoài nhiệt độ phòng trước 30 phút cho mềm. </span></p>
 <p><span style="font-weight: 400; color: #000000;">2. Rây đường bột, muối vào âu cream cheese, dùng phới lồng đánh tới khi cream cheese mịn nhuyễn.</span></p>
-<p><span style="font-weight: 400; color: #000000;">3. Cho vani và khoảng 1/2 thìa canh kem tươi vào âu cream cheese, trộn đều tới khi hòa quyện và cream cheese lỏng bớt ra. Tiếp tục cho từ từ từng thìa kem tươi vào âu, trộn tới khi hòa quyện rồi mới cho phần tiếp theo. </span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">3. Cho vani và khoảng 1/2 thìa canh kem tươi vào âu cream cheese, trộn đều tới khi hòa quyện và cream cheese lỏng bớt ra. Tiếp tục cho từ từ từng thìa kem tươi vào âu, trộn tới khi hòa quyện rồi mới cho phần tiếp theo. </span></p>
 <p><span style="font-weight: 400; color: #000000;"><strong>Lưu ý:</strong> Cần cho kem tươi từ từ để tránh việc cream cheese không hòa quyện hết và bị vón, làm hỗn hợp kem không mịn mượt.</span></p>
 <p><strong><span style="color: #000000;">C. Trân châu đường đen:</span></strong></p>
 <p><span style="font-weight: 400; color: #000000;">1. Đun sôi nước, cho trân châu vào và hạ lửa vừa, nấu trân châu khoảng 15 phút. Cách 5 phút kiểm tra lượng nước và đảo 1 lần để trân châu không bị dính dưới đáy nồi.</span></p>
@@ -59,4 +52,4 @@ description: "Cách làm trà sữa cake cream đơn giản, hương thơm mát 
 <p><span style="font-weight: 400; color: #000000;">2. Nhẹ nhàng rót trà vào cốc, tránh làm ảnh hưởng tới phần kem. Bạn có thể thêm sữa và xíu muối vào cake cream để làm lớp kem mặn ở trên trà sữa nhé. </span></p>
 <p><img alt="" class="alignnone wp-image-9105" height="507" loading="lazy" sizes="(max-width: 507px) 100vw, 507px" src="/wp-content/uploads/2022/04/collage-300x300.jpg" width="507"/></p>
 <p><span style="font-weight: 400; color: #000000;">Bảo quản trà trong ngăn mát tủ lạnh, dùng trong 2 ngày.</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

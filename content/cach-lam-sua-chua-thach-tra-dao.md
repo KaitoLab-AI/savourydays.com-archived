@@ -8,16 +8,12 @@ image: "/wp-content/uploads/2022/04/2-1-2.jpg"
 description: "Vị sữa chua nhà làm ngọt dịu, chua nhẹ, thạch đào giòn giòn thơm thơm, ăn mùa hè rất dễ chịu, nói chung là ngon - bổ - rẻ - đẹp nha"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="font-weight: 400;">Món ăn theo kiểu bình cũ rượu mới đang rất hot thời gian gần đây. Sữa chua và thạch đào thì quen rồi, nhưng ăn với nhau thì lại rất là “cuốn” theo kiểu vừa quen vừa lạ nhé 😁 Vị sữa chua nhà làm ngọt dịu, chua nhẹ, thạch đào giòn giòn thơm thơm, ăn mùa hè rất dễ chịu, nói chung là ngon – bổ – rẻ – đẹp nha 😉</span></p>
 <p><span style="font-weight: 400;">Cách làm cực đơn giản thôi, quan trọng nhất là phần sữa chua thì mình đã ghi công thức và các lưu ý rất kỹ rồi, mọi người thử xem sao nhé.</span></p>
 <h2><span style="color: #800000;"><strong> Cách làm SỮA CHUA THẠCH TRÀ ĐÀO</strong></span></h2>
 <p><strong>Nguyên liệu (cho 4-5 hũ dung tích 200ml)</strong></p>
 <p><strong>A. Công thức làm sữa chua các bạn xem tại:</strong></p>
-<p><a href="/cong-thuc-sua-chua-co-khong-duong-sua-chua-uong/"><span style="font-weight: 400;">/cong-thuc-sua-chua-co-khong-duong-sua-chua-uong/</span></a></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><a href="/cong-thuc-sua-chua-co-khong-duong-sua-chua-uong/"><span style="font-weight: 400;">/cong-thuc-sua-chua-co-khong-duong-sua-chua-uong/</span></a></p>
 <p><strong>B. Thạch trà đào:</strong></p>
 <p><em><span style="font-weight: 400;">200 gram nước sôi (để ngâm trà)</span></em></p>
 <p><em><span style="font-weight: 400;">1 gói trà túi lọc vị đào</span></em></p>
@@ -27,10 +23,7 @@ description: "Vị sữa chua nhà làm ngọt dịu, chua nhẹ, thạch đào 
 <p><strong>Lưu ý: </strong></p>
 <p><span style="font-weight: 400;">– Nếu không có siro đào hoặc nước đường ngâm đào thì bạn có thể thay thế bằng nước bình thường và thêm khoảng 5 gram đường nhé.</span></p>
 <p><span style="font-weight: 400;">– Bột thạch agar có thể bị chảy nước khi bảo quản tủ lạnh và làm ảnh hưởng tới sữa chua nên mình dùng gelatin. Thạch làm từ gelatin cũng có độ dẻo mềm, tan trong miệng và hợp với sữa chua hơn.</span></p>
-<p><span style="color: #800000;"><strong>C. Topping (không bắt buộc):</strong></span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="color: #800000;"><strong>C. Topping (không bắt buộc):</strong></span></p>
 <p><em><span style="font-weight: 400;">Đào ngâm </span></em></p>
 <p><em><span style="font-weight: 400;">Dừa sấy giòn</span></em></p>
 <p><em><span style="font-weight: 400;">Hạnh nhân </span></em></p>
@@ -47,5 +40,3 @@ description: "Vị sữa chua nhà làm ngọt dịu, chua nhẹ, thạch đào 
 <p><img alt="" class="alignnone wp-image-9096" height="342" loading="lazy" sizes="(max-width: 513px) 100vw, 513px" src="/wp-content/uploads/2022/04/6-1-300x200.jpg" width="513"/></p>
 <p><img alt="" class="alignnone wp-image-9097" height="345" loading="lazy" sizes="(max-width: 515px) 100vw, 515px" src="/wp-content/uploads/2022/04/IMG_1717-300x201.jpg" width="515"/></p>
 
-
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

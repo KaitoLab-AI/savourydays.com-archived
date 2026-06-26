@@ -8,15 +8,11 @@ image: "/wp-content/uploads/2014/05/GenoiseChocolate.jpg"
 description: "Làm bánh với nồi cơm điện, ga-tô nồi cơm điện"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Mấy lần làm bánh bằng nồi cơm điện đều có một cảm giác nhẹ nhàng, thảnh thơi, rất lạ mà không hiểu tại sao. Vì cũng từng ấy công đoạn đánh trứng trộn bột, chẳng khác nhiều so với dùng lò nướng, chỉ là thay vì cho vào lò thì cho vào nồi cơm thôi. Đến hôm trời nóng mới phát hiện, hóa ra lí do là bởi làm bằng nồi cơm điện thì bếp vẫn thoáng và mát, làm xong đi dọn dẹp hay nấu nướng món gì khác không thấy mồ hôi chảy ròng ròng như khi bật lò. Vậy là tìm được thêm một ưu điểm nữa của nồi cơm, mà chắc là rất hợp với những ngày nóng nực, khi “chẳng may” tự nhiên thèm ăn bánh mà nghĩ đến việc đụng vào lò đã thấy hãi hùng rồi :P</p>
 <p style="text-align: center;"><em>Strawberry Chocolate shortcake với cốt bánh làm bằng nồi cơm điện</em></p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/14195132091/" title="IMG_6618-1 by LinhTrang9185, on Flickr"><img alt="IMG_6618-1" class="aligncenter" height="640" loading="lazy" src="https://farm3.staticflickr.com/2911/14195132091_f5c50c73d6_z.jpg" width="451"/></a></p>
 <p><a href="/lam-ga-co-ban-voi-noi-com-dien/">Công thức Gateau cơ bản bằng nồi cơm điện</a> lần trước đã được rất nhiều bạn thử và phản hồi nhìn chung là tốt. Có một vài nhận xét là bánh chưa được ẩm như Chiffon. Điều này cũng không sai. Vì so với Gateau cơ bản, Chiffon có tỉ lệ chất lỏng so với bột nhiều hơn hẳn. Nhưng vì là món bánh đầu tiên và dành cho các bạn không có nhiều kinh nghiệm với bánh, nên mình chọn Sponge cake là loại bánh đơn giản và dễ thành công nhất. Sau khi đã quen với cách làm và cách chỉnh nồi, căn giờ, căn nhiệt của nồi cơm nhà mình rồi, các bạn có thể chuyển sang làm những công thức có lượng bột ít hơn và nhiều chất lỏng hơn, như <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/">Gateau cơ bản bất bại</a> chẳng hạn. Bánh sẽ tơi xốp, mềm mại hơn nhưng về độ nở sẽ không cao bằng công thức Sponge cake trong bài trước….. Riêng với Chiffon, vì là loại bánh ngay cả khi nướng bằng lò cũng có khả năng hỏng cao nên mình sẽ thử thêm một vài lần nữa, rồi ghi lại công thức để các bạn tham khảo sau nhé.</p>
-<p>Trong bài này thì mình xin giới thiệu tiếp hai loại bánh nữa cũng làm theo kiểu Sponge Cake (đánh trứng nguyên quả), nhưng so với Sponge cake truyền thống trong bài trước thì mềm, ẩm và thơm ngon hơn, là Genoise với hai vị Vanilla và Chocolate. Genoise cũng là một loại Sponge cake, nhưng trong thành phần có thêm bơ, nên bánh khi ăn sẽ cảm giác có vị “đậm đà” hơn, đồng thời cũng ẩm hơn so với Sponge cake. Cách làm Genoise không khác nhiều so với Sponge cake, chỉ thêm khâu trộn bơ vào sau khi trộn bột. Công thức Genoise  mà mình đã thử làm với nồi cơm điện gồm các nguyên liệu như sau:</p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p>Trong bài này thì mình xin giới thiệu tiếp hai loại bánh nữa cũng làm theo kiểu Sponge Cake (đánh trứng nguyên quả), nhưng so với Sponge cake truyền thống trong bài trước thì mềm, ẩm và thơm ngon hơn, là Genoise với hai vị Vanilla và Chocolate. Genoise cũng là một loại Sponge cake, nhưng trong thành phần có thêm bơ, nên bánh khi ăn sẽ cảm giác có vị “đậm đà” hơn, đồng thời cũng ẩm hơn so với Sponge cake. Cách làm Genoise không khác nhiều so với Sponge cake, chỉ thêm khâu trộn bơ vào sau khi trộn bột. Công thức Genoise  mà mình đã thử làm với nồi cơm điện gồm các nguyên liệu như sau:</p>
 <ul>
 <li>3 trứng gà (60gram/ quả cả vỏ)</li>
 <li>75 gram đường hạt mịn</li>
@@ -42,10 +38,7 @@ description: "Làm bánh với nồi cơm điện, ga-tô nồi cơm điện"
 <p>2. Các bước tiếp theo: chuẩn bị nồi (lót giấy và chống dính – nếu cần) &amp; đánh bông trứng thực hiện như trong bài <a href="/lam-ga-co-ban-voi-noi-com-dien/">Gateau cơ bản với nồi cơm điện</a>.</p>
 <p style="text-align: center;"><em>Trứng đánh bông đặc mịn, không có bọt khí, có thể chảy thành dòng mịn mượt</em></p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/13935993049/" title="IMG_5060 by LinhTrang9185, on Flickr"><img alt="IMG_5060" class="aligncenter" height="334" loading="lazy" src="https://farm8.staticflickr.com/7374/13935993049_2acb5ab250.jpg" width="500"/></a></p>
-<p>3. Chia bột làm 4 phần, rây từng phần vào âu đựng trứng đã đánh bông đặc, dùng spatula fold đều. Nên rây sao cho bột phủ đều khắp mặt âu, fold sẽ dễ hơn và không bị vón. Làm đến khi hết bột.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>3. Chia bột làm 4 phần, rây từng phần vào âu đựng trứng đã đánh bông đặc, dùng spatula fold đều. Nên rây sao cho bột phủ đều khắp mặt âu, fold sẽ dễ hơn và không bị vón. Làm đến khi hết bột.</p>
 <p style="text-align: center;"><em>Fold nhẹ tay và dứt khoát để không làm vỡ các bọt khí trong trứng</em></p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/14218551913/" title="IMG_5102 by LinhTrang9185, on Flickr"><img alt="IMG_5102" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7401/14218551913_08edf6c51f.jpg" width="500"/></a></p>
 <p>4. Múc khoảng 3 thìa canh hỗn hợp bột vừa trộn xong, cho vào âu đựng bơ sữa, trộn thật đều (quấy thoải mái, sao cho nguyên liệu hòa quyện hoàn toàn). Đổ ngược phần bơ sữa và bột này vào âu đựng trứng &amp; bột, fold đều.</p>
@@ -59,4 +52,4 @@ description: "Làm bánh với nồi cơm điện, ga-tô nồi cơm điện"
 <p><a href="https://www.flickr.com/photos/55490207@N05/14195889052/" title="IMG_5115 by LinhTrang9185, on Flickr"><img alt="IMG_5115" class="aligncenter" height="333" loading="lazy" src="https://farm6.staticflickr.com/5516/14195889052_088025803f.jpg" width="500"/></a></p>
 <p>(*) <span style="text-decoration: underline;"><strong>Lưu ý:</strong></span> <em><strong>nồi cơm của mình có đường kính 16cm, nếu nồi nhà bạn to hơn và muốn bánh nở cao thì cần tăng tất cả các nguyên liệu trong công thức theo tỉ lệ chênh lệch giữa diện tích đáy của hai nồi cơm nhé.</strong></em></p>
 <p><a href="https://www.flickr.com/photos/55490207@N05/14011743169/" title="IMG_6614-1 by LinhTrang9185, on Flickr"><img alt="IMG_6614-1" class="aligncenter" height="640" loading="lazy" src="https://farm8.staticflickr.com/7354/14011743169_b603d59856_z.jpg" width="491"/></a></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

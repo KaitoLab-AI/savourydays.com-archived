@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2022/02/IMG_2064-scaled.jpg"
 description: "Vỏ bánh quy thơm giòn, đậm vị chocolate, nhân chocolate tươi mềm mịn, tan ngay trong miệng. Món quà hoàn hảo cho ngày Valentine"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="font-weight: 400;">Món ăn kinh điển, không thể thiếu được mỗi dịp Valentine nay đã được nâng lên một tầm cao mới, ngon hơn, xịn hơn và siêu dễ làm ạ 😉</span></p>
 <p><span style="font-weight: 400;">Công thức bánh quy socola này ngon cực luôn ấy, ngay từ lúc trộn bột đã thơm nức nở rùi, thêm nhân socola tươi đậm vị chocolate, mềm tan ngay trong miệng, nói chung là Perfect All-kill cho các tín đồ chocolate. Dù không có ai để tặng, thì với mình món bánh này xứng đáng làm đi làm lại nhiều lần, để “xoa dịu” tinh thần mỗi lúc stress, hay để kết thúc một bữa ăn mặn theo cách hoàn hảo và ngọt ngào nhất 😉</span></p>
 <h2 style="text-align: left;"><span style="color: #993300;">Cách làm BÁNH QUY NHÂN SOCOLA TƯƠI (cho Valentine)</span></h2>
@@ -20,10 +19,7 @@ description: "Vỏ bánh quy thơm giòn, đậm vị chocolate, nhân chocolate
 <li><em><span style="font-weight: 400;">20 gram bơ động vật không muối</span></em></li>
 <li><em><span style="font-weight: 400;">½ thìa cafe rượu ruhm hoặc tinh chất vani (không bắt buộc)</span></em></li>
 </ul>
-<p><em><span style="font-weight: 400;">* Dùng khuôn 16cm thì phần nhân sẽ khá dày, nếu chỉ thích 1 lớp nhân mỏng thì dùng khuôn 18cm</span></em></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><em><span style="font-weight: 400;">* Dùng khuôn 16cm thì phần nhân sẽ khá dày, nếu chỉ thích 1 lớp nhân mỏng thì dùng khuôn 18cm</span></em></p>
 <p><span style="font-weight: 400;">B. Phần bánh quy chocolate (cho khoảng 16 – 18 bánh):</span></p>
 <ul>
 <li><em><span style="font-weight: 400;">90 gram bơ nhạt, để ở nhiệt độ phòng tới khi bơ mềm nhưng không chảy nước</span></em></li>
@@ -45,10 +41,7 @@ description: "Vỏ bánh quy thơm giòn, đậm vị chocolate, nhân chocolate
 <p><span style="font-weight: 400;">– Chocolate sử dụng trong công thức là loại chocolate nguyên chất 72% cacao, dùng chocolate càng ngon thì bánh càng ngon. 72% là loại chocolate khá đắng, bạn có thể dùng loại 65, 55% cacao. Tuy nhiên cần lưu ý % cacao càng thấp thì sẽ càng khó xử lý, thành phẩm sẽ nhanh bị mềm ở nhiệt độ phòng. </span></p>
 <p><strong><span style="color: #993300;">Cách làm</span></strong></p>
 <p><span style="font-weight: 400;">A. Phần nhân socola tươi (làm trước 1 ngày):</span></p>
-<p><span style="font-weight: 400;">1. Lót giấy nến vào lòng khuôn sao cho giấy nến cao bằng hoặc hơn thành khuôn 1 chút (để khi lấy ra dễ hơn). Cho chocolate băm nhỏ vào bát.</span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="font-weight: 400;">1. Lót giấy nến vào lòng khuôn sao cho giấy nến cao bằng hoặc hơn thành khuôn 1 chút (để khi lấy ra dễ hơn). Cho chocolate băm nhỏ vào bát.</span></p>
 <p><span style="font-weight: 400;">2. Cho whipping cream và bơ vào nồi, đun ở lửa nhỏ nhất, vừa đun vừa khuấy đều tới cho đến khi bơ tan hết, hỗn hợp nóng lên ở khoảng 35-37 độ thì tắt bếp. Đổ phần kem vào âu chocolate trộn đều cho chocolate tan từ từ.</span></p>
 <p><span style="font-weight: 400;">3. Khi bát chocolate hạ nhiêt và chocolate không thể tan được nữa, đặt bát chocolate cách thủy trên nồi nước ấm (không được sôi) để cho chocolate tiếp tục tan ra. Trong quá trình này cần đảm bảo nhiệt độ bát chocolate luôn dưới 40 độ, tốt nhất là ở trong khoảng 35-37 độ. Nếu thấy có dấu hiệu tăng nhiệt cần nhấc ngay bát chocolate ra và quấy ở bên ngoài.</span></p>
 <p><span style="font-weight: 400;">Lặp lại thao tác này đến khi chocolate tan hết. Cho vani hoặc rượu Ruhm vào trộn đều.</span></p>
@@ -65,10 +58,9 @@ description: "Vỏ bánh quy thơm giòn, đậm vị chocolate, nhân chocolate
 <p><span style="font-weight: 400;">Bột trộn xong khô ráo có thể <strong>vo thành viên mà không chảy nhão, tuy nhiên vẫn mềm dẻo, ấn tay vào không bị nứt bở</strong>. Nếu bột bị nứt/bở là bột bị khô quá. Để hạn chế tình trạng này, bạn có thể bớt lại 10 gram bột mì, sau khi trộn nếu thấy khối bội ướt quá thì trộn thêm. Nếu rơi vào trường hợp bột khô, bạn đánh tan 1 lòng đỏ trứng, cho thêm từng chút 1 vào, bóp đều cho bột mềm hơn nhé. </span></p>
 <p><span style="font-weight: 400;">5. Cán mỏng bột giữa 2 tờ giấy nến để chống dính, gập mép tờ giấy sao cho được hình chữ nhật kích thước khoảng 15×20. Cán bột mỏng trong khoảng hình chữ nhật sẽ cho khối bột phẳng mỏng 0,3 -0,4mm. Cất ngăn đá tủ lạnh khoảng 30 phút đến khi cứng hẳn lại.</span></p>
 
-
 <p><span style="font-weight: 400;">6. Sau khi phần bột đã đủ lạnh, lấy ra cắt hình theo ý thích. Các phần bột thừa có thể bóp đều, cán mỏng và tiếp tục thao tác như bình thường.</span></p>
 <p><span style="font-weight: 400;">7. Chuyển bột ra khay, nướng ở 180 độ khoảng 10-12 phút (làm nóng lò trước ít nhất 20 phút). Lấy bánh ra để nguội. Hạ nhiệt lò, sấy 100 độ 30-40 phút cho bánh khô ráo hoàn toàn và giòn lâu hơn.</span></p>
 <p><span style="font-weight: 400;">8. Sau khi sấy bánh để nguội hẳn. Cắt nhân vừa theo hình của bánh rồi kẹp vào giữa. </span></p>
 <p><span style="font-weight: 400;"><strong><span style="color: #993300;">Bảo quản</span></strong>: Với thời tiết dưới 22 độ C, có thể để bánh ở nhiệt độ phòng mà nhân chocolate không bị chảy. Tuy nhiên, cần bảo quản bánh trong tủ lạnh vì thành phần nhân bánh có nhiều kem sữa, dễ bị hỏng. Bánh bảo quản trong tủ lạnh được 2 – 3 tuần, tuy nhiên nên ăn sớm vì để càng lâu bánh quy sẽ càng ỉu do hút ẩm từ nhân bánh.</span></p>
 <p> </p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

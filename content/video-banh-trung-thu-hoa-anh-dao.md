@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2020/09/bánh-trung-thu-hoa-anh-đào-banner.jpg"
 description: ""
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Đăng ảnh “dập dòm” từ tuần trước mà giờ mới xong video để đăng được. Xin lỗi vì để cả nhà chờ lâu. Món bánh này mình sẽ không giới thiệu nhiều đâu vì mình nghĩ video và hình ảnh là đủ để nói lên hết rồi ;) Cách làm món bánh này không khác nhiều so với bánh trung thu truyền thống, vị cũng ổn, mang biếu tặng chắc chắn là rất đặc biệt. Chỉ có điều để làm nó không dễ. Trong cách làm dưới đây tụi mình có ghi chú rất nhiều lưu ý để có vỏ bánh màu đẹp, đúng chuẩn mà lại không bị khô, các bạn đọc kĩ trước khi làm nha.</p>
 <h2>CÁCH LÀM BÁNH TRUNG THU HOA ANH ĐÀO</h2>
 <p><span style="color: #800000;"><strong>Nguyên liệu (Cho khoảng 9-10 bánh 50 gram)</strong></span></p>
@@ -21,10 +20,7 @@ description: ""
 <li><em><span style="font-weight: 400; color: #000000;">140 (± 5) gram bột mì đa dụng</span></em></li>
 </ul>
 <p>* <span style="color: #ff0000;"><strong>Cách pha 10ml nước màu:</strong></span> <span style="color: #000000;">Pha 1 giọt màu hồng ( mình dùng màu Rose của Wilton, trong video nhìn thấy màu đỏ nhưng thực ra nó là màu hồng) và 5 giọt màu trắng với 10ml nước, khuấy đều cho tan. Nếu không có màu hồng, các bạn có thể dùng màu đỏ với lượng ít hơn. Cần có màu trắng vì màu trắng sẽ giúp cho vỏ bánh có màu hồng hoa anh đào. Nếu không có màu trắng, vỏ bánh sẽ ngả sang màu đỏ lòng tôm hoặc màu hồng cam nhạt vì có ánh vàng từ trong bột mì. Các bạn nên làm thử 1 mẻ nhỏ sau đó điều chỉnh lượng màu theo sở thích nhé.</span></p>
-<p><span style="font-weight: 400; color: #000000;">– Nên dùng các loại màu thực phẩm nhập khẩu từ hãng lớn như Wilton, American color</span></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">– Nên dùng các loại màu thực phẩm nhập khẩu từ hãng lớn như Wilton, American color</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Chỉ dùng tối đa 10ml nước nếu không vỏ bánh có thể bị nhão. </span></p>
 <p><strong><span style="color: #000000;">B. Nhân bánh</span></strong></p>
 <ul>
@@ -39,10 +35,7 @@ description: ""
 <p><strong><span style="color: #000000;">A. Vỏ bánh</span></strong></p>
 <p><span style="font-weight: 400; color: #000000;">1. Ngâm hoa anh đào muối trong nước khoảng 10 -15 phút cho hoa anh đào hết mặn. Sau đó vớt ra, để lên đĩa có lót giấy thấm nước.</span></p>
 <p><span style="font-weight: 400; color: #000000;">2. Cho 90 g si-rô ngô, 20 g dầu ăn, 10 ml nước màu vào bát to, trộn đều.</span></p>
-<p><span style="font-weight: 400; color: #000000;">3. Cho khoảng 2/3 bột mì vào hỗn hợp chất lỏng và trộn đều, đến đây nếu thấy bột cần thêm màu hồng hoặc trắng các bạn có thể cho thêm, sau đó cho ½ số bột còn lại vào, bóp đều. <span style="color: #ff0000;">Mỗi loại bột mì sẽ có độ hút nước khác nhau, do đó lượng bột cần dùng có thể thay đổi theo loại bột chứ không cố định như lượng ghi trong công thức.</span> Do vậy, các bạn nên theo dõi và kiểm tra khi thấy bột đạt, hơi ướt, dẻo, đứng, không dính tay thì dừng lại. </span></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><span style="font-weight: 400; color: #000000;">3. Cho khoảng 2/3 bột mì vào hỗn hợp chất lỏng và trộn đều, đến đây nếu thấy bột cần thêm màu hồng hoặc trắng các bạn có thể cho thêm, sau đó cho ½ số bột còn lại vào, bóp đều. <span style="color: #ff0000;">Mỗi loại bột mì sẽ có độ hút nước khác nhau, do đó lượng bột cần dùng có thể thay đổi theo loại bột chứ không cố định như lượng ghi trong công thức.</span> Do vậy, các bạn nên theo dõi và kiểm tra khi thấy bột đạt, hơi ướt, dẻo, đứng, không dính tay thì dừng lại. </span></p>
 <p><span style="font-weight: 400; color: #000000;">Lưu ý: Không nhồi quá lâu, quá kĩ hoặc cho nhiều bột khiến khối bột bị dai, chai và khô, dễ mất nét hoặc vỏ bánh bị khô khi nướng. </span></p>
 <p><span style="font-weight: 400; color: #000000;">4. Đậy kín mặt bột và để nghỉ 30 phút. </span><span style="font-weight: 400; color: #000000;">Bột chỉ nên để nghỉ tối đa 30 phút ở nhiệt độ phòng hoặc 2-3 giờ trong tủ lạnh, không để nghỉ quá lâu sẽ làm bột bị khô, đóng bánh không sắc nét.</span></p>
 <p><span style="font-weight: 400; color: #000000;"><strong>B. Chuẩn bị nhân bánh</strong>: Chia nhân trà xanh thành các phần 25 gram, phomai thành các phần 5 gram </span></p>
@@ -59,10 +52,9 @@ description: ""
 <p><span style="font-weight: 400; color: #000000;">* Lưu ý: </span></p>
 <p><span style="font-weight: 400; color: #000000;">– Với các loại vỏ bánh màu hiện đại, để giữ được màu vỏ bánh cần nướng ở nhiệt thấp trong thời gian dài hơn bánh truyền thống một chút. Vỏ bánh sau khi nướng xong cần chín hoàn toàn, bánh chín là khi vỏ bánh chuyển màu sáng hơn, trông “thô” và khi sờ vào thấy vỏ bánh cứng lại. <span style="color: #ff0000;">Để tránh việc bánh bị ngả màu vì nướng lâu, các bạn nên ngồi canh lò trong những phút cuối, khi thấy bánh đã chín thì lấy ra luôn.</span></span></p>
 
-
 <p><span style="font-weight: 400; color: #000000;">– Nếu muốn bánh bóng hơn, sau khi nướng lần 1 và đợi bánh nguội hoàn toàn, bạn có thể quét 1 lớp lòng trắng trứng mỏng lên bánh, tuy nhiên mình muốn bánh trông kiểu hơi “mộc” một chút nên không quét.</span></p>
 <p><span style="font-weight: 400; color: #000000;">5. Nướng bánh lần 2:</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Làm nóng lò nướng ở 150 độ C trước 15 phút.</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Cho bánh vào nướng lần 2 ở 150 độ C trong 7 – 8 phút, không nướng quá lâu sẽ làm bánh bị ngả vàng</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Bánh hiện đại chỉ nên nướng 2 lần để tránh làm bánh bị ngả vàng. Bánh sau khi nướng xong vỏ bánh sẽ rất cứng, để qua 1 ngày dầu từ nhân tươm ra sẽ làm bánh mềm ngon hơn.</span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

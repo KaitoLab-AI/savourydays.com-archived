@@ -8,16 +8,11 @@ image: "/wp-content/uploads/2020/09/Cach-lam-banh-trung-thu-hong-tra-banner-610x
 description: ""
 ---
 
-
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p><span style="color: #000000;">Còn một cuối tuần này để làm bánh trung thu nữa thôi. “Giờ chót” tụi mình vẫn còn một vài món bánh ngon tặng các bạn đây ;) Chỉ là một chút biến tấu nhưng làm cho món bánh trung thu quen thuộc mọi khi sẽ trở nên thú vị hơn rất nhiều đấy! Mochi dẻo mềm dai giúp cân bằng nhân bánh, làm nhân bánh thú vị hơn, lại không bị ngán hay ngọt quá. Nhân sen với hồng trà thì siêuuuuuuu hợp luôn, thơm ngon và tan ngay trên đầu lưỡi. </span></p>
 <p><span style="color: #000000;">Về cách làm thì cơ bản là bánh nhân nhuyễn truyền thống, không có gì đặc biệt. Và nhân sen đã có hướng dẫn chi tiết rồi nên trong video cách làm tụi mình tập trung vào phần làm mochi và vỏ bánh thôi nhé. Các bạn nhớ xem kĩ các lưu ý trước khi làm bánh nha. </span></p>
 <p><span style="color: #000000;">CÁCH LÀM BÁNH TRUNG THU HỒNG TRÀ MOCHI  </span></p>
 <p><span style="color: #800000;"><strong>Nguyên liệu (cho khoảng 10 bánh 50 gram)</strong></span></p>
-<p><strong><span style="color: #000000;">A. Nhân sen hồng trà</span></strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong><span style="color: #000000;">A. Nhân sen hồng trà</span></strong></p>
 <ul>
 <li><em><span style="font-weight: 400; color: #000000;">100 gram sen khô (hoặc 200g sen tươi)</span></em></li>
 <li><em>35 gram dầu ăn </em></li>
@@ -52,10 +47,7 @@ description: ""
 <p><span style="font-weight: 400; color: #000000;">– Mình muốn giữ vỏ bánh màu hơi ngả vàng để nhìn rõ bột hồng trà nên thay 1 nửa nước đường bánh nướng bằng đường ngô. Nếu muốn vỏ bánh giống vỏ truyền thống, các bạn có thể dùng công thức vỏ bánh nướng truyền thống tại bài viết trong link dưới nhé. Vì có thêm phần nước hồng trà nên sẽ cần tăng thêm 15-20 gram bột so với công thức trong link: </span><span style="color: #000000;"><a href="/banh-trung-thu-cach-lam-banh-nuong/" style="color: #000000;"><span style="font-weight: 400;">/banh-trung-thu-cach-lam-banh-nuong/</span></a></span></p>
 <p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/IMK8-SKd28E" width="560"></iframe></div>
-<p><strong><span style="color: #000000;">A. Nhân sen hồng trà</span></strong></p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p><strong><span style="color: #000000;">A. Nhân sen hồng trà</span></strong></p>
 <ol>
 <li><span style="font-weight: 400; color: #000000;"> Ngâm trà với nước sôi trong khoảng 15 phút, sau đó lọc bỏ phần lá trà, giữ lại nước trà để cho vào nhân.</span></li>
 <li><span style="font-weight: 400; color: #000000;"> Sen khô rửa sạch, nhặt bỏ các hạt hỏng, ngâm với nước ấm trong khoảng 2-3 giờ tới khi sen nở hết. Nếu dùng sen tươi bạn có thể bỏ qua bước ngâm này.</span></li>
@@ -82,7 +74,6 @@ description: ""
 <p><span style="font-weight: 400; color: #000000;">Với bánh 50 gram, chúng ta sẽ dùng 20 gram vỏ và 30 gram nhân (20 gram nhân hồng trà và 10 gram nhân mochi)</span></p>
 <p><span style="font-weight: 400; color: #000000;">Không nên làm quá nhiều mochi, khi bọc nhân sẽ khó và đóng xong bánh có thể sẽ không cứng cáp, dễ bị chảy xệ cho mochi dẻo. Bọc kín nhân mochi lại đến khi dùng để tránh nhân bị khô. </span></p>
 <p><strong><span style="color: #000000;">C. Vỏ bánh </span></strong></p>
-
 
 <ol>
 <li><span style="font-weight: 400; color: #000000;">Cho nước đường, corn syrup, dầu ăn, nước hồng trà và lá trà xay nhỏ vào âu, trộn đều.</span></li>
@@ -113,4 +104,4 @@ description: ""
 <p><span style="font-weight: 400; color: #000000;">– Làm nóng lò nướng ở 150 độ C trước 15 phút.</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Cho bánh vào nướng lần 2 ở 150 độ C trong 7 – 8 phút tới khi bánh chín, vỏ khô ráo hoàn toàn</span></p>
 <p><span style="font-weight: 400; color: #000000;">– Với các loại bánh hiện đại, mình chỉ nướng 2 lần để tránh việc bánh bị ngả vàng. Bánh sau khi nướng xong vỏ bánh sẽ rất cứng, để qua 1 ngày dầu từ nhân tươm ra sẽ làm bánh mềm ngon hơn. </span></p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+

@@ -8,7 +8,6 @@ image: "/wp-content/uploads/2016/11/cách-làm-sườn-xào-chua-ngọt-banner.j
 description: "Học cách làm sườn xào chua ngọt với Savoury Days để có món sườn thơm ngon, mềm, thấm sốt chua ngọt và không bị khô hay bã. Công thức kèm video hướng dẫn chi"
 ---
 
-<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
 <p>Sườn xào chua ngọt là một trong những món ăn mặn mà cả nhà mình đều rất thích, không chỉ vì phần sườn mềm thơm mà cả vì phần sốt chua chua ngòn ngọt trộn với cơm cực kì ngon nữa. <a href="/suon-xao-chua-ngot-my-best-sweet-sour-pork-ribs-recipe-ever/" target="_blank"><strong>Cách làm sườn xào chua ngọt</strong></a> mình đã chia sẻ tại SD từ rất lâu rồi. Cho tới bây giờ nó vẫn là cách làm chuẩn nhất mà mình biết, sản phẩm không có gì để chê cả, chỉ mỗi tội hơi mất thời gian một chút vì phải om sườn rồi rán, rồi xào sườn với sốt chua ngọt. Đợt gần đây mình chuyển sang làm cách mới, chuyển khâu om sườn từ bước đầu xuống cuối. Tiết kiệm được một chút thời gian và thao tác cũng gọn gàng đơn giản hơn. Sườn làm theo cách mới này cũng rất ngon, mềm và đậm đà, hoàn toàn không bị khô hay dai gì cả. Dùng với cơm trắng, một vài loại dưa món muối chua hay canh chua là “hết sảy con bà Bảy” luôn :P</p>
 <h2><strong>CÁCH LÀM SƯỜN XÀO CHUA NGỌT</strong></h2>
 <p><span style="color: #800000;"><strong>Số lượng</strong></span>: 2 – 3 phần ăn</p>
@@ -25,10 +24,7 @@ description: "Học cách làm sườn xào chua ngọt với Savoury Days để
 <li><em>1/2 thìa canh dầu hào (oyster sauce)</em></li>
 <li><em>1/2 thìa canh xì dầu/ nước tương (soy sauce)</em></li>
 </ul>
-<p><strong>Phần sốt chua ngọt</strong></p><div align="center" id="google-ads-body-post-mid">
-
-
-</div>
+<p><strong>Phần sốt chua ngọt</strong></p>
 <ul>
 <li><em>15 g hành khô (2 – 3 củ)</em></li>
 <li><em>7 g tỏi (2 – 3 tép)</em></li>
@@ -52,10 +48,7 @@ description: "Học cách làm sườn xào chua ngọt với Savoury Days để
 <p>2. Cho sườn vào nồi cùng 1/2 thìa cafe muối. Đổ nước ngập sườn. Đợi nước sôi thì đổ nước luộc đi và rửa lại cho sườn sạch rồi cho vào bát (bước này giúp sườn sạch và thơm hơn).</p>
 <p>3. Ướp sườn với tất cả các gia vị trong phần “gia vị ướp sườn”. Để 20 – 30 phút cho ngấm. <strong>Nếu không có thời gian thì có thể ướp sườn rồi rán luôn, không cần đợi</strong>.</p>
 <p>4. Bóc vỏ, băm nhỏ hành, tỏi trong phần “sốt chua ngọt”.</p>
-<p>5. Cho 60 ml dầu ăn vào chảo sâu lòng. Cho hành tỏi vào. Để lửa vừa. Khi hành tỏi bắt đầu chuyển màu vàng nhạt thì dùng vá (muôi có lỗ thủng) vớt hành tỏi ra ngoài. Hành tỏi sẽ tiếp tục vàng và rất giòn. Để vào bát để dùng sau.</p><div align="center" id="google-ads-body-post-end">
-
-
-</div>
+<p>5. Cho 60 ml dầu ăn vào chảo sâu lòng. Cho hành tỏi vào. Để lửa vừa. Khi hành tỏi bắt đầu chuyển màu vàng nhạt thì dùng vá (muôi có lỗ thủng) vớt hành tỏi ra ngoài. Hành tỏi sẽ tiếp tục vàng và rất giòn. Để vào bát để dùng sau.</p>
 <p>6. Để lửa to, cho sườn vào chiên với dầu vừa phi hành tỏi. Chiên thật nhanh trên lửa to, chỉ cần mặt ngoài của sườn rám vàng là được. Không chiên quá lâu dễ làm sườn bị khô. <strong>Nếu ướp sườn với hành, tỏi băm thì khi rán nên gạt hành tỏi ra ngoài để tránh hành tỏi bị cháy đen rồi bám vào sườn. </strong></p>
 <p>7. Khi sườn đã vàng đều, bắc chảo ra khỏi bếp, chắt bớt dầu ăn ra khỏi chảo, chỉ để lại khoảng 1/2 – 1 thìa canh dầu.</p>
 <p>8. Trong bát dùng để ướp sườn thường sẽ còn sót lại một phần gia vị ướp. Ta pha thêm vào nước ướp này 1 thìa canh đường, 2/3 thìa canh dấm, 1/2 thìa canh dầu hào và 120 ml nước nóng, trộn thật đều. Nếu không còn nước ướp sườn thì nêm thêm dầu hào và dấm sao cho hỗn hợp có vị chua, mặn, ngọt vừa ăn.</p>
@@ -63,4 +56,4 @@ description: "Học cách làm sườn xào chua ngọt với Savoury Days để
 <p>10. Sau khi om thì mở vung, để lửa to cho sốt bay hơi và cạn dần. Lưu ý trong cả quá trình đun và om sườn với sốt, thi thoảng cần trở mặt sườn để sườn ngấm sốt đều.</p>
 <p>11. Khi sốt cạn như ý muốn thì tắt bếp, cho hành tỏi phi vàng (ở bước 5) vào trộn đều cùng sườn. Việc này giúp cho sườn có mùi thơm hấp dẫn.</p>
 <p>Dùng nóng. Trong video mình dùng với <a href="/cach-muoi-dua-bap-cai-va-dua-cai-muoi-xoi/" target="_blank"><strong>dưa bắp cải muối chua</strong></a>, đã có cách làm tại blog, bạn click vào tên món ăn để xem nhé.</p>
-<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
+
