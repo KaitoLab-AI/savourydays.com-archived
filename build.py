@@ -22,6 +22,7 @@ STATIC_DIR = BASE_DIR / "static"
 TEMPLATES_DIR = BASE_DIR / "templates"
 PUBLIC_DIR = BASE_DIR / "docs"
 
+BASE_PATH = "/savourydays.com-archived"
 RECIPES_PER_PAGE = 24
 
 
@@ -63,6 +64,11 @@ def write(path: Path, content: str):
     path.write_text(content, encoding="utf-8")
 
 
+def fix_body_images(body_html: str) -> str:
+    """Prefix /wp-content/ image srcs with BASE_PATH for GitHub Pages subpath hosting."""
+    return body_html.replace('src="/wp-content/', f'src="{BASE_PATH}/wp-content/')
+
+
 def build(recipes: list[dict], env: Environment):
     PUBLIC_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -73,10 +79,14 @@ def build(recipes: list[dict], env: Environment):
     # Write CSS inline (avoids needing a separate file for the demo)
     (PUBLIC_DIR / "style.css").write_text(CSS, encoding="utf-8")
 
+    ctx = dict(site_name="Savoury Days", base=BASE_PATH)
+
     # Recipe pages
     recipe_tmpl = env.get_template("recipe.html")
     for recipe in recipes:
-        html = recipe_tmpl.render(recipe=recipe, site_name="Savoury Days")
+        r = dict(recipe)
+        r["body_html"] = fix_body_images(r.get("body_html", ""))
+        html = recipe_tmpl.render(recipe=r, **ctx)
         write(PUBLIC_DIR / recipe["slug"] / "index.html", html)
 
     # Homepage (paginated)
@@ -85,12 +95,7 @@ def build(recipes: list[dict], env: Environment):
     for page_num in range(1, total_pages + 1):
         start = (page_num - 1) * RECIPES_PER_PAGE
         chunk = recipes[start : start + RECIPES_PER_PAGE]
-        html = index_tmpl.render(
-            recipes=chunk,
-            page=page_num,
-            total_pages=total_pages,
-            site_name="Savoury Days",
-        )
+        html = index_tmpl.render(recipes=chunk, page=page_num, total_pages=total_pages, **ctx)
         if page_num == 1:
             write(PUBLIC_DIR / "index.html", html)
         write(PUBLIC_DIR / "page" / str(page_num) / "index.html", html)
@@ -104,11 +109,7 @@ def build(recipes: list[dict], env: Environment):
     cat_tmpl = env.get_template("category.html")
     for cat, cat_recipes in cats.items():
         slug = re.sub(r"[^\w]+", "-", cat.lower()).strip("-")
-        html = cat_tmpl.render(
-            category=cat,
-            recipes=cat_recipes,
-            site_name="Savoury Days",
-        )
+        html = cat_tmpl.render(category=cat, recipes=cat_recipes, **ctx)
         write(PUBLIC_DIR / "category" / slug / "index.html", html)
 
     # Search index
@@ -217,13 +218,13 @@ BASE_HTML = """\
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% block title %}{{ site_name }}{% endblock %}</title>
-<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="{{ base }}/style.css">
 </head>
 <body>
 <header>
   <nav>
-    <a class="site-title" href="/"><span>Savoury</span> Days</a>
-    <a href="/">Trang chủ</a>
+    <a class="site-title" href="{{ base }}/"><span>Savoury</span> Days</a>
+    <a href="{{ base }}/">Trang chủ</a>
   </nav>
 </header>
 <main>{% block content %}{% endblock %}</main>
@@ -243,11 +244,11 @@ RECIPE_HTML = """\
   <div class="meta">
     {% if recipe.date %}<span>{{ recipe.date[:10] }}</span> · {% endif %}
     {% for cat in (recipe.categories or []) %}
-      <a href="/category/{{ cat | lower | replace(' ', '-') }}/">{{ cat }}</a>{% if not loop.last %}, {% endif %}
+      <a href="{{ base }}/category/{{ cat | lower | replace(' ', '-') }}/">{{ cat }}</a>{% if not loop.last %}, {% endif %}
     {% endfor %}
   </div>
   {% if recipe.image %}
-  <img class="featured-img" src="{{ recipe.image }}" alt="{{ recipe.title }}" loading="lazy">
+  <img class="featured-img" src="{{ base }}{{ recipe.image }}" alt="{{ recipe.title }}" loading="lazy">
   {% endif %}
   <div class="body">{{ recipe.body_html }}</div>
   {% if recipe.tags %}
@@ -267,9 +268,9 @@ INDEX_HTML = """\
   <h1 style="margin-bottom:1.5rem;">Công thức nấu ăn</h1>
   <div class="recipe-grid">
     {% for r in recipes %}
-    <a class="recipe-card" href="/{{ r.slug }}/">
+    <a class="recipe-card" href="{{ base }}/{{ r.slug }}/">
       {% if r.image %}
-      <img src="{{ r.image }}" alt="{{ r.title }}" loading="lazy">
+      <img src="{{ base }}{{ r.image }}" alt="{{ r.title }}" loading="lazy">
       {% else %}
       <div style="height:160px;background:#f0e6d6;"></div>
       {% endif %}
@@ -277,19 +278,19 @@ INDEX_HTML = """\
         <h2>{{ r.title }}</h2>
         <div class="date">{{ r.date[:10] if r.date else '' }}</div>
         {% if r.categories %}
-        <div class="cats">{% for c in r.categories[:2] %}<a href="/category/{{ c | lower | replace(' ','-') }}/">{{ c }}</a>{% endfor %}</div>
+        <div class="cats">{% for c in r.categories[:2] %}<a href="{{ base }}/category/{{ c | lower | replace(' ','-') }}/">{{ c }}</a>{% endfor %}</div>
         {% endif %}
       </div>
     </a>
     {% endfor %}
   </div>
   <div class="pagination">
-    {% if page > 1 %}<a href="/page/{{ page - 1 }}/">«</a>{% endif %}
+    {% if page > 1 %}<a href="{{ base }}/page/{{ page - 1 }}/">«</a>{% endif %}
     {% for p in range(1, total_pages + 1) %}
       {% if p == page %}<span class="current">{{ p }}</span>
-      {% else %}<a href="/page/{{ p }}/">{{ p }}</a>{% endif %}
+      {% else %}<a href="{{ base }}/page/{{ p }}/">{{ p }}</a>{% endif %}
     {% endfor %}
-    {% if page < total_pages %}<a href="/page/{{ page + 1 }}/">»</a>{% endif %}
+    {% if page < total_pages %}<a href="{{ base }}/page/{{ page + 1 }}/">»</a>{% endif %}
   </div>
 </div>
 {% endblock %}
@@ -303,9 +304,9 @@ CATEGORY_HTML = """\
   <h1 style="margin-bottom:1.5rem;">{{ category }}</h1>
   <div class="recipe-grid">
     {% for r in recipes %}
-    <a class="recipe-card" href="/{{ r.slug }}/">
+    <a class="recipe-card" href="{{ base }}/{{ r.slug }}/">
       {% if r.image %}
-      <img src="{{ r.image }}" alt="{{ r.title }}" loading="lazy">
+      <img src="{{ base }}{{ r.image }}" alt="{{ r.title }}" loading="lazy">
       {% else %}
       <div style="height:160px;background:#f0e6d6;"></div>
       {% endif %}
