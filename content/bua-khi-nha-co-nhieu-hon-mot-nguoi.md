@@ -1,0 +1,36 @@
+---
+title: "Khi nhà có nhiều hơn một người :)"
+date: "2012-07-25"
+slug: "bua-khi-nha-co-nhieu-hon-mot-nguoi"
+categories: ["Chuyện hàng ngày"]
+tags: []
+image: "http://farm8.staticflickr.com/7265/7642642864_f495242251.jpg"
+description: "savoury days, linh trang, bữa cơm gia đình, món ăn hàng ngày"
+---
+
+<p>Chờ mãi, đợi mãi, mong mãi… cuối cùng thì mẹ và em gái mình cũng qua chơi được với mình. Vì là chuyến du lịch châu Âu đầu tiên của mẹ và em nên mấy mẹ con cũng tranh thủ “chạy sô” được một vài địa điểm du lịch nổi tiếng ở đây. Đi chơi thì thích nhưng riêng chuyện ăn uống thì khá là mệt, bởi vì đồ ăn chủ yếu chỉ toàn là đồ ăn nhanh, hoặc là pizza, pasta.. cho nên cuối tuần vừa rồi, sau khi cả nhà kết thúc chuyến du lịch dài ngày thì mình tranh thủ chui vào bếp cả nấu lẫn nướng để “bù đắp” cho dạ dày của mấy mẹ con sau cả một khoảng thời gian chỉ toàn sống bằng bột mì nướng với pho mát và kem tươi đủ loại :P</p>
+<p>Có lẽ là lâu lắm rồi, chắc từ khi mình bắt đầu sống ở Bỉ, mình mới lại chuẩn bị bữa cơm với lượng đồ ăn lớn như vậy :P Nhưng mà không hề gì, bởi vì trong bếp đã có thêm 2 phụ bếp rất chi là tích cực (tích cực giúp đỡ &amp; cả tích cực nếm nữa :D). Bao nhiêu món “tủ” được lôi ra hết: món mặn thì có <a href="/tu-lam-thit-xien-nuong-ngon-nhu-ngoai-hang-d/">thịt xiên nướng</a>, <a href="/thit-bo-kho-kho-kieu-xu-nghe/">bò kho xứ Nghệ</a>, <a href="/chan-gio-om-xi-dau/">chân giò om xì dầu</a>, <a href="/com-binh-dan/">đậu chiên trứng muối</a> rồi hải sản như là cá hồi sốt Teriyaki, lươn cuốn lá nếp nướng (món này làm nhanh mà rất thơm ngon, mẹ mình đặc biệt thích). Tráng miệng thì đơn giản hơn vì sau khi ăn <a href="/japanese-cotton-sponge-cake-hay-la-ga-to-nhat-ban-mem-nhu-bong-nhe-nhu-may/">Gateau Nhật Bản</a>, cả mẹ và em mình đều không thiết các loại bánh khác nữa :D</p>
+<p>Đồ ăn thì bữa nào cũng được xử lí rất nhanh gọn sau khi nấu xong cho nên chỉ chụp được một vài cái ảnh đại diện để “khoe” thôi  ^^ :”&gt;</p>
+<p style="text-align: center;"><em>Thịt nướng – lười xiên nên nướng trực tiếp theo kiểu chả nướng luôn :”&gt;</em></p>
+<p style="text-align: center;"><em> <a href="http://www.flickr.com/photos/55490207@N05/7642642864/" title="IMG_6576 by LinhTrang9185, on Flickr"><img alt="IMG_6576" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7265/7642642864_f495242251.jpg" width="500"/></a></em></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p style="text-align: center;"><em>Lươn cuốn lá dứa nướng – trong lò </em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7642643758/" title="IMG_6566 by LinhTrang9185, on Flickr"><img alt="IMG_6566" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7113/7642643758_c21d6d8b29.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>và ngoài lò :)</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7642643380/" title="IMG_6568 by LinhTrang9185, on Flickr"><img alt="IMG_6568" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8285/7642643380_0472b4378c.jpg" width="500"/></a></p>
+<p><span style="color: #ff0000;"><strong>P.S. Tử ngày mai mình lại đi công tác nên những phần tiếp theo của Chiffon mình không dám hứa là sẽ viết được ngay nhưng sẽ cố gắng viết sớm, cả nhà cố gắng đợi thêm một chút nhé. Cảm ơn mọi người nhiều nhiều :x</strong></span></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

@@ -1,0 +1,81 @@
+---
+title: "Bánh bông lan cuộn kem tươi hoa quả (Japanese Fruit Roll Cake)"
+date: "2015-10-21"
+slug: "banh-bong-lan-cuon-kem-tuoi-hoa-qua-japanese-fruit-roll-cake"
+categories: []
+tags: []
+image: "/wp-content/uploads/2015/10/rollcake.jpg"
+description: "Cách làm bánh bông lan cuộn kiểu Nhật mềm, mịn, xốp với nhân kem tươi hoa quả, có video hướng dẫn chi tiết."
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Lúc nào làm bánh cuộn cũng cảm thấy đời đẹp phơi phới, bởi làm thì vừa nhanh vừa đơn giản mà lại rất ngon. Khả năng hỏng thì… với bánh cuộn chắc chỉ có 1 vấn đề là bánh gãy khi cuộn thôi. Tại SD có một số công thức bánh cuộn khác nhau, nhưng hai công thức mà mình hay dùng nhất là <a href="/banh-cuon-chiffon/" target="_blank">bánh cuộn Chiffon</a> (đã giới thiệu trong sách <a href="/gioi-thieu-sach/" target="_blank">Nhật ký học làm bánh tập 1</a>) và <a href="/banh-cuon-kem-tuoi-dua-tra-xanh/" target="_blank">bánh cuộn bạt gateau Nhật Bả</a>n. Bánh cuộn Chiffon thì có kiểu xốp đậm đà nhờ lượng bột và chất lỏng khá cân bằng, tuy nhiên làm bánh cuộn Chiffon thì nên cuộn khi bánh còn nóng ấm, sẽ an toàn hơn. Gateau Nhật Bản có lượng bột ít hơn kha khá nên bánh rất mềm nhẹ, kiểu tan trong miệng, và rất dễ cuộn, kể cả khi bánh đã nguội cũng không sao. Phần bạt bánh trong công thức dưới đây mình có chỉnh lại một chút để khi làm đơn giản hơn, ít khâu hơn và bánh sau khi nướng có độ xốp tương đối, không quá mịn, ăn với các phần nhân sẽ ngon hơn.</p>
+<p>Về món bánh của ngày hôm nay thì hồi ở Tokyo, trong cửa hàng bánh nào mình cũng thấy có loại bánh cuộn nhân kem tươi hoa quả này, nhìn cuộn bánh tròn xoe nhân kem trắng với hoa quả đủ màu, kích thích kinh khủng. Mà công nhận  là bánh dễ ăn: bạt bánh mềm, kem tươi ngậy với hoa quả tươi chua chua ngọt ngọt. Thường thì hoa quả dùng cho bánh mình hay thấy có dâu tây, kiwi và quýt/ cam, nhưng bạn hoàn toàn có thể thay thế với loại hoa quả khác. Mình thì đang nghĩ tới một cuộn bánh nhân kem tươi với hồng chín, đang mùa hồng ngon mà ;)</p>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn chữ nhật 9 x 13 inches (22 x 33 cm) – tuy nhiên, có thể dùng khuôn cỡ nhỏ hơn một chút (VD: 20 x 30 cm) hoặc lớn hơn một chút cũng không sao.</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong>A. Phần bạt bánh</strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em>4 lòng đỏ trứng (18 – 20 gr/ lòng đỏ) – nhiệt độ phòng</em></li>
+<li><em>20 gram đường</em></li>
+<li><em>40 ml sữa tươi không đường</em></li>
+<li><em>40 gram dầu ăn thực vật (không dùng dầu Olive)</em></li>
+<li><em>1/2 thìa cafe vani chiết xuất (vanilla extract)</em></li>
+<li><em>30 gram bột mì đa dụng (all purpose flour)</em></li>
+<li><em>30 gram bột ngô (corn starch</em>)</li>
+<li><em>4 lòng trắng trứng (30 – 35 gr/ lòng trắng) – nhiệt độ phòng</em></li>
+<li><em>1 nhúm nhỏ muối</em></li>
+<li><em>3/8 thìa cafe cream of tartar – hoặc thay bằng nước cốt chanh hay dấm với lượng tương đương (đong 3/8 thìa cafe/ teaspoon bằng cách dùng thìa cỡ 1/2 và 1/4 teaspoon)</em></li>
+<li><em>60 gram đường – rây mịn</em></li>
+</ul>
+<p><strong>B. Phần nhân bánh</strong></p>
+<ul>
+<li><em>125 ml kem tươi 35 – 40% béo</em></li>
+<li><em>20 gram đường</em></li>
+<li><em>hoa quả tươi tùy thích (mình dùng 1 quả kiwi, 70 gr quýt đóng hộp và 8 – 10 quả dâu)</em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>Mời các bạn xem cách làm cụ thể trong video dưới đây. Nếu không xem được video, các bạn có thể xem trực tiếp tại <a href="https://youtu.be/3-lIGD6pmao" target="_blank"><strong>YouTube của SavouryDays </strong></a>(ai có tài khoản YouTube/G+ thì Subscribe kênh của SD để nhận thông báo video mới ngay khi video được đăng lên nhé ;) )</p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/3-lIGD6pmao" width="560"></iframe></div>
+<p>Tóm tắt cách làm như sau:</p>
+<p>Làm nóng lò nướng ở 170 độ C – hai lửa.</p>
+<p>1. Cho lòng đỏ và 20 gram đường vào âu, đánh nhẹ nhàng tới khi đường tan hết, hòa quyện với lòng đỏ.</p>
+<p>2. Cho sữa, dầu ăn, vanilla vào, trộn đều với lòng đỏ.</p>
+<p>3. Rây bột mì và bột ngô, trộn đều tới khi hỗn hợp mịn mượt, không có vón cục.</p>
+<p>4. Đánh lòng trắng trứng với muối, cream of tartar và đường tới bông cứng: lòng trắng bóng, dẻo, mịn, khi nhấc que đánh lên thấy có chóp nhọn, và chóp này không bị oặt xuống.</p>
+<p>* <strong><span style="text-decoration: underline;">Lưu ý:</span></strong> <em>lòng trắng, âu đựng và que đánh không được dính chất béo như lòng đỏ, dầu ăn, bơ, mỡ… nếu không sẽ không đánh bông được lòng trắng.</em></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>5. Trộn lòng trắng với hỗn hợp lòng đỏ bằng kĩ thuật fold. Sau khi trộn xong, hỗn hợp bông mịn, không có bọt khí to, không lỏng hoặc loãng.</p>
+<p>* <span style="text-decoration: underline;"><strong>Lưu ý:</strong></span></p>
+<p>– Nếu các bạn lỡ tay đánh lòng trắng quá cứng, khi trộn lòng trắng vào thấy lòng trắng lổn nhổn thành từng cục to nhỏ (thay vì hòa quyện theo dạng sợi như trong video) thì nên dùng phới lồng quấy  nhẹ để lòng trắng hòa tan bớt vào hỗn hợp lòng đỏ, rồi mới chuyển sang dùng phới dẹt để fold. Hoặc có thể dùng hoàn toàn phới lồng để trộn nhưng với kiểu fold.</p>
+<p>– Nếu sau khi trộn xong hỗn hợp bị lỏng, loãng, có nhiều bọt khí to thì nguyên nhân là do đánh bông trứng chưa đạt hoặc trộn sai kĩ thuật làm vỡ bọt khí trong trứng. Trường hợp này bánh nướng lên dễ bị dai và nở kém.</p>
+<p>6. Nướng bánh ở chính giữa lò, 170 độ C trong 25 – 30 phút, tới khi mặt bánh chuyển vàng, ấn nhẹ lên mặt bánh thấy vết lõm lập tức phồng trở lại.</p>
+<p>* <span style="color: #ff0000;"><em>Nhiệt độ nướng sẽ thay đổi tùy theo lò. Với lò nhỏ hoặc nhiệt độ chêcnh lệch không đều, có thể sẽ cần hạ thấp khay nướng và nướng ở nhiệt độ thấp hơn (150 – 160 độ C). Xem thêm hướng dẫn về cách chỉnh nhiệt lò trong hai bài viết sau:</em></span></p>
+<p><strong>A-Z: Lò nướng – Kinh nghiệm chọn lò – Cách chỉnh lò để bánh không bị xẹp, lõm, thắt eo, ẩm, cháy…</strong> <a href="/lo-nuong-kinh-nghiem-nuong-banh/">Phần 1</a> – <a href="/kinh-nghiem-nuong-banh-phan-2/">Phần 2</a></p>
+<p>7. Lấy bánh chín ra khỏi khuôn, gỡ bỏ giấy nến. Để bánh nguội hẳn. Nên đặt bánh lên 1 chiếc khăn sạch, dưới khăn là rack và đặt tất cả trên 1 khuôn cao. Lớp khăn này sẽ giúp cho bánh không bị dính vào rack, đồng thời cũng thoát hơi nước dễ hơn.</p>
+<p>8. Trong lúc đợi bánh nguội, đánh kem tươi với đường đến bông cứng. Khi kem đã gần đặc và có vân khi chạy máy, nên đánh ở tốc độ thấp nhất để tránh cho kem bị đánh quá đà và tách nước.</p>
+<p>Cắt hoa quả thành miếng nhỏ. Để kem và hoa quả vào tủ lạnh khoảng 30 phút, kem sẽ đặc và trét bánh dễ hơn.</p>
+<p>9. Khi bánh đã nguội, cắt bỏ phần rìa bánh vì phần này thường rất khô, sẽ làm gãy bánh khi cuộn. Đặt bánh lên 1 tờ giấy bạc, mặt nâu quay lên trên.</p>
+<p>10. Trét kem lên mặt bánh, chừa lại khoảng 0.5 cm riềm hai bên và 2 cm ở mép cuối cuộn bánh (do khi cuộn kem sẽ dồn xuống dưới). Xếp hoa quả lên trên phần kem.</p>
+<p>11. Nhẹ nhàng nhưng dứt khoát cuộn bánh lại. Giấy bạc có thể giúp cuộn bánh nếu bạn chưa quen tay vì giấy bạc khá cứng nên cuộn sẽ dễ hơn là dùng giấy nến hay khăn. Nên cuộn dứt khoát vì thường càng rón rén thì bánh càng dễ bị nứt.</p>
+<p>12. Sau khi cuộn xong, bọc chặt bánh bằng nilon bọc thực phẩm. Để bánh vào tủ lạnh khoảng 3 – 4 giờ để phần kem lạnh hẳn. Bảo quản bánh trong ngăn  mát tủ lạnh trong khoảng 2 ngày. Bánh ngon hơn nhiều khi để lạnh :)</p>
+<p>———</p>
+
+
+<p>CÁC CÔNG THỨC BÁNH CUỘN KHÁC:</p>
+<ol>
+<li><a href="/banh-cuon-kem-tuoi-dua-tra-xanh/" target="_blank">Bánh cuộn kem tươi trà xanh </a></li>
+<li><a href="/banh-cuon-chiffon/" target="_blank">Bánh cuộn Chiffon vị chocolate</a></li>
+<li><a href="/banh-cuon-phu-si/" target="_blank">Bánh cuộn Phú Sĩ </a>(vị dừa, lá dứa)</li>
+<li><a href="/banh-cuon-mut-dau-bat-banh-chiffon/" target="_blank">Bánh cuộn Chiffon mứt dâu</a></li>
+<li><a href="/banh-cuon-rafaello/" target="_blank">Bánh cuộn Rafaello (chocolate trắng, dừa)</a></li>
+<li><a href="/banh-cuon-chocolate-voi-kem-tuoi-anh-dao/" target="_blank">Bánh cuộn chocolate với kem tươi và anh đào</a></li>
+<li><a href="/banh-khuc-cay-giang-sinh/" target="_blank">Bánh cuộn khúc cây giáng sinh</a> (bạt chocolate sponge, cuộn kem tươi)</li>
+<li><a href="/banana-ice-cream-royal-charlotte-banh-cuon-kem-chuoi-hoang-gia/" target="_blank">Bánh cuộn kem chuối hoàng gia</a></li>
+</ol>
+<p> </p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

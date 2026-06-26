@@ -1,0 +1,62 @@
+---
+title: "Đặt sách “Nhật kí học làm bánh”"
+date: "2014-02-25"
+slug: "dat-sach-nhat-ki-hoc-lam-banh"
+categories: ["Sách nấu ăn", "Về tôi"]
+tags: ["nhật kí học làm bánh", "sách nấu ăn"]
+image: "http://farm3.staticflickr.com/2830/12769950675_981f70e5fc.jpg"
+description: "nhật kí học làm bánh, sách nấu ăn, savoury days"
+---
+
+<p><span style="text-decoration: underline; color: #ff0000;"><strong>THÔNG BÁO MỚI</strong></span></p>
+<p><em><strong>Toàn bộ sách in đợt 1 đã được đặt hết, nên bọn mình xin phép khóa form đăng kí trước thời hạn. Cảm ơn các bạn rất rất nhiều vì đã yêu quý Nhật kí học làm bánh, Nhã Nam và Savoury Days :x :x :x </strong></em></p>
+<p><em><strong>Hiện tại sách đang được in bổ sung. Nhã Nam đang cố gắng hết sức mình để kịp có sách phát hành tại các hiệu sách trên toàn quốc trước ngày 8.3. Các bạn nào chưa kịp đặt thì chờ thêm một tí xíu nữa thôi nha. </strong></em></p>
+<p><em><strong>Với các bạn đã đặt sách: Khi hệ thống thông báo đã đặt thành công tức là thông tin của các bạn đã được lưu lại trong danh sách. Nhã Nam sẽ gửi email xác nhận với bạn trong 1, 2 ngày tới, đặc biệt là thông tin về chuyển khoản. Sách sẽ được chuyển tới các bạn theo kế hoạch (Hà Nội và các tỉnh phía Bắc từ 3/3, thành phố Hồ Chí Minh và các tỉnh phía Nam từ 5/3)</strong></em></p>
+<p><em><strong>Một lần nữa cảm ơn cả nhà rất nhiều và mình cũng thay mặt ê-kíp làm sách xin lỗi các bạn phải chờ. Hi vọng nó sẽ là một sự chờ đợi xứng đáng ;)</strong></em></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>———————–</p>
+<p>Cả nhà yêu quý,</p>
+<p>Cuối cùng thì “em ấy” cũng chuẩn bị “ra mắt” rồi. Dù đã thuộc nằm lòng, nhắm mắt lại cũng có thể tưởng tưởng ra từng trang, từng trang, nhưng khi nghe tin từ NXB thông báo đã in xong bìa, đang sửa soạn để “em ấy” chuẩn bị xuất xưởng thì có một đứa tim vẫn nhảy lô tô trong lồng ngực, hồi hộp, bồn chồn, cả lâng lâng nữa (có giống với cảm giác của cô dâu trước ngày xuất giá không nhỉ, “biết thừa” chú rể rồi, yêu nhau bao lâu, tìm hiểu chán chê mê mải rồi, nhưng đến ngày cưới thì cảm giác hồi hộp vẫn y như ngày đầu gặp chàng ý :P).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12769950675/" title="Ảnh bìa by LinhTrang9185, on Flickr"><img alt="Ảnh bìa" class="aligncenter" height="335" loading="lazy" src="http://farm3.staticflickr.com/2830/12769950675_981f70e5fc.jpg" width="500"/></a></p>
+<p>Để đưa “Nhật kí học làm bánh” lên trang sách và đến tới bạn đọc, không thể không nhắc đến sự giúp đỡ rất lớn của Nhã Nam, đặc biệt là biên tập viên Hằng Nga và họa sĩ thiết kế Tùng Lâm đã cùng mình trải qua một chặng đường tuy không thật dài nhưng đầy “gian khổ” và xì-trét. Đôi khi “căng thẳng” với nhau chỉ vì một dòng chữ đặt lệch. Nhưng không ai giận ai vì mọi người đều hiểu rằng tất cả đều xuất phát từ tâm huyết và mong muốn sẽ làm ra một quyển sách không chỉ hay mà còn đẹp và giá trị không bị phai mờ theo thời gian.</p>
+<p>Hy vọng đây sẽ là món quà tinh thần nhiều ý nghĩa gửi tặng các mẹ, các cô, các chị em và tất nhiên, cả các anh em, những người có chung tình yêu với bánh và yêu căn bếp nhỏ của mình. Tuy sách chưa chính thức phát hành, nhưng để đáp lại sự chờ đợi và ủng hộ của rất nhiều bạn bè, Nhã Nam đã tạo điều kiện để mọi người có thể đặt mua trực tuyến trước. Sách đặt mua qua link (dưới) sẽ được giảm 20% so với giá bìa và <strong><em>mỗi quyển sách đều có thêm một bất ngờ nho nhỏ đi kèm nữa</em></strong> ;) (không tiết lộ được đâu vì nói ra thì còn gì “bất ngờ” nữa :P).</p>
+<p><span style="text-decoration: underline; color: #ff0000;"><strong>Link đặt sách</strong></span>: <del><a href="https://docs.google.com/forms/d/1vBTUYLn9VqBZ9Xecv2A7fvz-vz2ygbOJrf1KRowddhY/viewform">https://docs.google.com/forms/d/1vBTUYLn9VqBZ9Xecv2A7fvz-vz2ygbOJrf1KRowddhY/viewform</a></del></p>
+<p><span style="color: #ff0000;"><i>Link đặt sách online đã đóng, các bạn xem thêm cập nhật tình hình sách trong thông báo ở đầu bài và các bài viết mới về sách tại SD nhé. Cảm ơn các bạn nhiều. </i></span></p>
+<p>(*) <span style="color: #0000ff;"><strong>Các bạn ở nước ngoài có thể đặt sách qua www.vinabooks.com hoặc tiki.vn. Thông tin cụ thể mình sẽ thông báo sau nhé.</strong></span></p>
+<p><strong><em>—————</em></strong></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><b>Giới thiệu sách từ Nhã Nam</b></p>
+<blockquote><p><i>Nhật kí học làm bánh không chỉ đơn thuần là một </i><i>tập hợp các công thức bánh trái</i><i>. Nó trước hết là một quyển nhật kí về chặng đường tự vật lộn với bột, bơ, đường, trứng, sữa của một cô nàng không có nhiều kinh nghiệm bếp núc và hoàn toàn chẳng có hoa tay nào cả. </i><i></i></p>
+<p><i>Trong chặng đường học làm bánh gập ghềnh, nhiều thất bại, cô nàng ấy luôn thầm mong có một cuốn sách chỉ dẫn tỉ mỉ hơn cho những người mới bắt </i><i>đầu như mình. Công thức rất dễ tìm, nhưng bắt tay vào làm, cô mới nhận ra rằng với kẻ còn bỡ ngỡ, chúng sơ sài làm sao. Vậy nên, vừa mày mò học hỏi, Linh Trang vừa soạn luôn cuốn sách mình hằng mơ ước, cho những người mới sau này, với hy vọng cuốn sách ấy sẽ giúp chặng đ</i><i>ường của những người bạn trong bếp bánh suôn sẻ hơn.</i><i> </i></p>
+<p><i>Bởi vì </i><i>đây</i><i> là một quyển nhật kí, nên rất nhiều cô-gái-yêu-bánh khác có thể cũng sẽ tìm thấy mình trong một trang sách nào đó, khi vụng về cầm chiếc phới trộn những nhát đầu tiên, khi hồi hộp ngồi chờ chiếc bánh nở phồng lên trong lò nướng, khi háo hức phết từng miếng kem trắng muốt, rắc những bông kẹo đường đủ màu li</i><i> </i><i>ti, nhìn chiếc bánh xinh xắn </i><i>dần</i><i> thành</i><i> hình</i><i>, và cả khi thất vọng đến phát khóc bởi bao nhiêu công sức của mình đã biến thành một thứ gì đó chỉ có thể tặng cho thùng rác.</i></p>
+<p><i>Cũng b</i><i>ởi nó là một quyển nhật kí, lại được viết bởi một người làm khoa học và hơi cầu toàn, nên đôi chỗ phần ghi chép có thể hơi quá tỉ mỉ, và các đòi hỏi thì thật khắt khe. Nhưng </i><i>đ</i><i>ó là những kinh nghiệm thật, bài học thật mà người viết đã thu được từ những khó khăn và thất bại của chính bản thân mình trên chặng đường tự mày mò làm quen và chinh phục bánh trái. H</i><i>y</i><i> vọng rằng những bài học, những công thức, và những bức ảnh chụp sản phẩm được tạo ra từ chính lò nướng của tác giả sẽ </i><i>trao thêm</i><i> cảm hứng cho những ai còn ngại ngần hay lo lắng. Bởi những chiếc bánh </i><i>xinh đẹp và ngọt ngào </i><i>được tạo nên bởi 10 phần trăm khéo léo cùng</i><i></i><i> 90 phần trăm quyết tâm, kiên trì và hơn hết </i><i>thảy là khao khát</i><i> tự tay làm ra chúng.</i></p>
+<p><i>Sách gồm 7 chương với gần 40 công thức bánh cơ bản có kèm hình minh họa, bao quát 6 dòng bánh lớn và một chương riêng về Giáng sinh. Mỗi chương được mở đầu với một phần Nhật kí, ghi lại trải nghiệm của tác giả trong quá trình tự mày mò học làm bánh và những câu chuyện nhỏ khác về cuộc sống của một du học sinh. Tiếp nối bằng các kiến thức về phương pháp làm bánh cơ bản, bí quyết thành công và các công thức với rất nhiều biến tấu.</i></p></blockquote>
+<p> </p>
+<ul>
+<li>Sách dày 220 trang, in màu trên giấy couche matt, do Công ty cổ phần sách Nhã Nam và NXB Hồng Đức phát hành.</li>
+<li>Giá bìa: 94,000 VND.</li>
+<li><strong>Ngày phát hành chính thức trên toàn quốc và các địa chỉ nhà sách sẽ được cập nhật trong một vài ngày tới.</strong></li>
+</ul>
+<p>Một vài hình ảnh chụp lại từ sách:</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12770453013/" title="P13 by LinhTrang9185, on Flickr"><img alt="P13" class="aligncenter" height="364" loading="lazy" src="http://farm3.staticflickr.com/2870/12770453013_e466c8bf84.jpg" width="500"/></a></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12770759154/" title="P28 by LinhTrang9185, on Flickr"><img alt="P28" class="aligncenter" height="364" loading="lazy" src="http://farm8.staticflickr.com/7389/12770759154_487ecfe94d.jpg" width="500"/></a></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12770452783/" title="P65 by LinhTrang9185, on Flickr"><img alt="P65" class="aligncenter" height="364" loading="lazy" src="http://farm6.staticflickr.com/5538/12770452783_b971e95937.jpg" width="500"/></a></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12770968584/" title="P53 by LinhTrang9185, on Flickr"><img alt="P53" class="aligncenter" height="364" loading="lazy" src="http://farm8.staticflickr.com/7334/12770968584_2da58773da.jpg" width="500"/></a></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12770758404/" title="P91 by LinhTrang9185, on Flickr"><img alt="P91" class="aligncenter" height="364" loading="lazy" src="http://farm4.staticflickr.com/3739/12770758404_4ebaff3ece.jpg" width="500"/></a></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

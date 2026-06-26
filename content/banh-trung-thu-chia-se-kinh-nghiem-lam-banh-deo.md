@@ -1,0 +1,82 @@
+---
+title: "{Bánh trung thu} Chia sẻ kinh nghiệm làm bánh dẻo"
+date: "2014-09-04"
+slug: "banh-trung-thu-chia-se-kinh-nghiem-lam-banh-deo"
+categories: ["Bánh Việt Nam"]
+tags: ["bánh dẻo", "bánh trung thu"]
+image: "https://farm4.staticflickr.com/3897/15138119365_b857e86def.jpg"
+description: "bánh dẻo trung thu, bánh dẻo da tuyết, snowskin mooncake"
+---
+
+<p>Mấy ngày vừa rồi blog và Facebook liên tiếp nhận được bao nhiêu là bánh trung thu ngon của các bạn gửi về. Cảm ơn cả nhà rất nhiều vì đã cho mình cơ hội cùng chia sẻ niềm vui về những chiếc bánh nướng bánh dẻo homemade cực kì hấp dẫn :) Chỉ hơi tiếc là tuần vừa rồi mình ốm nên không phản hồi lại cho tất cả mọi người được. Mong các bạn đừng giận nhé.</p>
+<p>Hôm nay đỡ hơn rồi nên tranh thủ gõ thêm vài dòng bổ sung cho <a href="/banh-trung-thu-cach-lam-banh-deo/">công thức bánh dẻo đăng tuần trước</a>, cũng để giải đáp chung cho các phản hồi liên quan đến bánh dẻo mà mình chưa trả lời kịp hết. Hi vọng là mấy dòng ghi chú này sẽ có ích cho các bạn và vẫn kịp để có thêm một mẻ bánh ngon cho trung thu năm nay :)</p>
+<p>Như mình đã viết trong bài trước là công thức bánh dẻo mà mình giới thiệu là sản phẩm “lai” giữa bánh dẻo truyền thống Việt Nam và bánh dẻo da tuyết (<em>snowskin mooncake</em>) của Singapore/ Trung Quốc. Vì vậy nên làm theo công thức này không cần phải nấu nước đường như bánh dẻo VN, lượng đường cũng ít hơn rất nhiều, và cũng không cần dùng <em>shortening</em> như bánh dẻo da tuyết, nhưng bánh vẫn đủ dẻo, mềm và ăn lạnh như bánh dẻo da tuyết. Có một vài điểm cần lưu ý khi dùng công thức này là:</p>
+<p>– Không dùng nước đường của bánh dẻo truyền thống cho công thức này được.</p>
+<p>– Bánh cần bảo quản trong ngăn mát tủ lạnh. Nếu để ngoài nhiệt độ phòng thì không nên bọc kín (nếu không bánh sẽ chảy nước rất nhanh). Cũng chỉ nên để trong vòng một vài giờ vì ở nhiệt độ nóng ẩm lâu, bánh sẽ nhanh hỏng và mốc. Nếu muốn làm để biếu hay tặng, các bạn nhớ dặn người nhận để bánh vào tủ lạnh càng sớm càng tốt nhé.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>– Nên dùng bánh trong vòng 4 ngày, tính cả ngày làm bánh. Nếu muốn để lâu hơn, có thể để bánh trong tủ đá, khi nào dùng thì cho bánh xuống ngăn mát để bánh tự rã đông trong tủ lạnh.</p>
+<p>Khác với công thức da tuyết của Singapore, mình dùng dầu ăn trong công thức bánh dẻo này, là nguyên liệu vừa dễ kiếm và cũng ít gây cảm giác ngấy hơn so với <em>shortening</em> trong đa số các công thức bánh dẻo <em>snowskin. </em>Trong thành phần của bánh, nước và dầu ăn chiếm tỉ lệ khá lớn so với bột. Cả hai nguyên liệu này đều có tác dụng giúp bánh dẻo hơn, dễ đóng bánh sắc nét hơn và giúp bánh mềm dẻo, không bị khô mặc dù để trong tủ lạnh. Một vài ý kiến hỏi dầu và nước như vậy có quá nhiều không? Thật ra bản thân mình trước khi đăng công thức cũng có thử đi thử lại nhiều lần để chắc chắn là tỉ lệ nguyên liệu ổn. Nhưng sau khi nhận được phản hồi của các bạn thì mình có thử với một số loại bột làm bánh dẻo nhãn hiệu khác nhau và nhận thấy là tùy mỗi loại bột mà lượng nước và dầu ăn cần thiết sẽ khác nhau. Có lẽ vì nguyên nhân này mà một vài bạn thử CT thì rất ổn, một vài bạn khác lại gặp phải tình trạng bột bị nhão hoặc nhiều dầu.</p>
+<p>Việc này cũng không phải do bột bánh chất lượng tốt hay không tốt, mà tùy vào khâu sản xuất, bột mới hay bột cũ mà độ hút ẩm sẽ khác nhau. Vì vậy nên khi trộn, tùy theo tình trạng bột mà các bạn tự điều chỉnh nguyên liệu cho phù hợp nhé. Cách tốt nhất là trộn thử 1/2 hoặc 1/3 công thức để theo dõi xem bột của mình hút ẩm nhiều hay ít và từ đó điều chỉnh cho các lần sau.</p>
+<p>Nếu sau khi trộn hết lượng nguyên liệu như trong công thức mà bột vẫn nhão và cảm thấy nhiều dầu thì có hai cách khắc phục là:</p>
+<p>(1) Giảm bớt dầu ăn. Có thể giảm từ 1/2 đến 1/3 so với công thức (tức là chỉ dùng khoảng 15 – 25 gram dầu ăn cho 1 công thức vỏ bột bánh dẻo mà mình đã đăng). Không nên giảm quá nhiều vì dầu ăn là nguyên liệu cần thiết để giữ cho bánh không bị khô trong tủ lạnh. (Khi trộn xong bột nếu các bạn thấy vỏ ngoài bánh hơi dính dầu thì sau 1 ngày để trong tủ lạnh bánh sẽ không dính nữa và rất vừa ăn do lớp dầu này đã ngấm vào trong vỏ, giúp giữ vỏ bánh mềm dẻo kể cả khi để lạnh).</p>
+<p>(2) Tăng bột. Có thể tăng bột đến khi khối bột không còn nhão, đủ dẻo và không dính tay. Tuy nhiên, bột sau một khoảng thời gian sẽ còn nở ra, làm cho vỏ bánh khô hơn. Nên tốt nhất là trộn khối bột hơi ướt một chút, để bột nở ra là vừa. Nếu khi mới trộn mà bột đã khô ráo và dẻo quánh thì sẽ rất khó đóng khuôn sắc nét. Hoặc bánh có thể sẽ mất nét sau khi đóng khuôn xong. Ngoài ra, nếu tăng bột thì cần tăng cả đường nếu không bánh có thể sẽ bị nhạt.</p>
+<p>Ghi chú bổ sung như trên chắc là đủ hết rồi. Làm theo ct bánh dẻo của mình thì khả năng bột ướt có lẽ là cao hơn bột khô (nếu bột khô thì chỉ cần giảm bớt lượng bột là ổn). Chúc các bạn thành công và đón Trung thu thật vui cùng bạn bè và gia đình nhé.</p>
+<p>P.S.:<span style="color: #ff0000;"><em> mình vẫn đang ốm và cần nghỉ ngơi đến hết tuần này nên phản hồi tại blog và FB có thể mình sẽ không trả lời được hết, các bạn thông cảm nha.</em></span></p>
+<p>Cuối cùng là một số thành phẩm cực kì ấn tượng mà mình nhận được trong mấy ngày vừa qua do các bạn đọc của SD gửi về, xin phép chia sẻ lại tại đây để tiếp thêm cảm hứng cho các bạn khác ^.^</p>
+<p style="text-align: center;"><em>Bánh của bạn <a href="https://www.facebook.com/sua.cay?fref=ufi">Sữa Cay </a></em></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15138119365/" title="banh deo 4 by LinhTrang9185, on Flickr"><img alt="banh deo 4" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3897/15138119365_b857e86def.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Bánh của <a href="https://www.facebook.com/le.t.trang.5264">Lê Thu Trang </a></em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15138119465/" title="banh deo 1 by LinhTrang9185, on Flickr"><img alt="banh deo 1" class="aligncenter" height="500" loading="lazy" src="https://farm6.staticflickr.com/5551/15138119465_70eba5c1aa.jpg" width="447"/></a></p>
+<p style="text-align: center;"><em>Bánh của chị <a href="https://www.facebook.com/katedoquyenle?fref=nf">Kate D-Quyen Le</a></em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14951467000/" title="banh deo 3 by LinhTrang9185, on Flickr"><img alt="banh deo 3" class="aligncenter" height="500" loading="lazy" src="https://farm4.staticflickr.com/3884/14951467000_fb82437e2f.jpg" width="367"/></a></p>
+<p style="text-align: center;"><em>Bánh của chị <a href="https://www.facebook.com/nguyen.loan.73">Nguyễn Loan</a> </em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14951574157/" title="banh deo 2 by LinhTrang9185, on Flickr"><img alt="banh deo 2" class="aligncenter" height="375" loading="lazy" src="https://farm6.staticflickr.com/5575/14951574157_d130544891.jpg" width="500"/></a></p>
+<p>——-</p>
+<p><strong>BÀI VIẾT CÙNG CHỦ ĐỀ TRUNG THU</strong></p>
+<p><strong>A. Kiến thức chung</strong></p>
+<ol>
+<li>Tổng hợp cách làm bánh nướng, bánh dẻo trung thu</li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+<li><a href="/trung-muoi/" target="_blank">Cách làm trứng muối</a></li>
+<li><a href="/banh-trung-thu-cach-xu-li-trung-muoi-cho-nhan-banh-trung-thu/" target="_blank">Cách xử lí trứng muối để làm nhân bánh</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" target="_blank">Cách chọn khuôn bánh trung thu</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" target="_blank">Cách làm rượu Mai Quế Lộ</a></li>
+<li><a href="/tu-lam-mau-thuc-pham-tu-rau-cu-qua-tu-nhien/" target="_blank">Tự làm màu thực phẩm từ rau củ quả tự nhiên</a></li>
+</ol>
+<p><strong>B. Cách làm bánh nướng trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-nau-nuoc-duong-cho-banh-nuong/" target="_blank">Cách nấu nước đường bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-lam-banh-nuong/" target="_blank">Cách làm bánh nướng trung thu (</a>trộn bột, bọc nhân, đóng bánh và nướng)</li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-dau-xanh-tra-xanh-la-dua/" target="_blank">Cách làm nhân đậu xanh – trà xanh – lá dứa</a></li>
+<li><a href="/banh-trung-thu-nhan-thap-cam-nhan-sua-dua/" target="_blank">Cách làm nhân thập cẩm – sữa dừa</a></li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-sen-nhuyen/" target="_blank">Cách làm nhân sen nhuyễn</a></li>
+<li><a href="/banh-trung-thu-tra-xanh-nhan-dau-do/" target="_blank">Bánh trà xanh nhân đậu đỏ</a></li>
+<li><a href="/banh-trung-thu-banh-nuong-hoa-cuc-vi-chanh-leo-nghe-tay-va-chanh-vang/" target="_blank">Bánh hoa cúc vàng (vị nghệ tây, chanh vàng, chanh leo)</a></li>
+<li><a href="/red-velvet-rose-mooncake-banh-nuong-nhan-chocolate-rum-nho/" target="_blank">Bánh nướng hoa hồng đỏ (màu đỏ củ dền, nhân café, chocolate, rum nho)</a></li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+</ol>
+<p><strong>C. Cách làm bánh dẻo trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-lam-banh-deo/" target="_blank">Cách làm bánh dẻo kiểu Việt Nam ít ngọt</a></li>
+<li><a href="/banh-trung-thu-chia-se-kinh-nghiem-lam-banh-deo/" target="_blank">Giải đáp các thắc mắc/ vấn đề thường gặp khi làm bánh dẻo</a></li>
+</ol>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

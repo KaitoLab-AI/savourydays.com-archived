@@ -1,0 +1,71 @@
+---
+title: "Cách làm Mỳ tươi (không dùng máy cán)"
+date: "2018-03-20"
+slug: "cach-lam-my-tuoi-khong-dung-may-can"
+categories: []
+tags: []
+image: "/wp-content/uploads/2018/03/cách-làm-mỳ-tươi-banner.jpg"
+description: "Cách làm mỳ tươi tại nhà chỉ với 3 nguyên liệu đơn giản, không cần máy cán, rất dễ và đảm bảo vệ sinh an toàn thực phẩm, lại siêu ngon nữa."
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #000000;">* <em>Xin giới thiệu với các bạn đọc của SD một siêu phẩm mới từ thành viên Thu Quỳnh của SD team: mỳ tươi – cán bằng tay, không dùng máy. Là người quan sát cả quá trình làm kiêm nếm thử thì mình thấy công thức này quả thực là mất công và mất thời gian (:P) Tuy nhiên, khi ăn mới thấy công sức bỏ ra rất rất đáng. Sợi mì dai, thơm, để tủ lạnh vài ngày rồi nấu lại vẫn mềm mại chứ không bị cứng. Hay nhất là mì tự làm kiểu này có để trong bát cả tiếng cũng không thấy bị trương và mềm nhũn như mì công nghiệp. Hẳn là “có lăn vào bếp” có hơn rất nhiều! Hơn nữa, một lần cán cũng được kha khá mỳ, có thể dùng dần nên cũng không cảm thấy mình mất nhiều công quá mà “ăn loáng cái là hết” :) </em></span></p>
+<p><span style="color: #000000;"><em>Món mì tươi này bọn mình làm cùng với nước dùng của mì bò Đài Loan, phải nói là thơm ngon tuyệt hảo luôn. Mấy ngày trời mát như hôm nay ăn là tuyệt cú mèo! Trong bài hôm nay mình giới thiệu cách làm mì trước nhé. Nước dùng cho món mì Đài Loan mình sẽ đăng trong ngày mai hoặc ngày kia nhé . </em></span></p>
+<p><span style="color: #000000;"><em>——————-</em></span></p>
+<h2><span style="color: #000000;">CÁCH TỰ LÀM MỲ TƯƠI </span></h2>
+<p><span style="color: #000000;"><em>– công thức do Thu Quỳnh, thành viên SD team, thử nghiệm và biên soạn – </em></span></p>
+<p><span style="color: #000000;">Lần đầu tiên bắt gặp công thức mì tươi là cả một bầu trời hứng thú, nhưng khi bắt tay vào làm thể nào bạn cũng sẽ tự đặt ra câu hỏi như “Liệu có đáng bỏ ra từng ấy thời gian chỉ để làm mì không?” Hoặc tự nhủ “Thôi mất công quá, lần sau khỏi làm”. Nhưng hương vị mà mì tươi đem lại là thứ hương vị bạn chẳng thể tìm thấy ở bất kì gói mì đóng sẵn nào từ đắt đến rẻ, để rồi khi nấu tô mì từ mì đóng gói, bạn không thể cảm thấy thỏa mãn, bạn nhớ mùi vị tự nhiên của bột, cái đậm đà mộc mạc từ những sợi mì dai dai. Chỉ cần mì tươi ngon với nước dùng đậm đà thôi, chẳng cần thêm thịt cá phức tạp gì, đã đủ khiến bạn hài lòng rồi.</span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<ul>
+<li><em><span style="color: #000000;">300 gram bột mì đa dụng</span></em></li>
+<li><em><span style="color: #000000;">100 – 120 ml nước</span></em></li>
+<li><span style="color: #000000;"><em>½ thìa café muố</em>i</span></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><span style="color: #000000;">1. Trộn đều bột mì với muối và nước, nhào đều đến khi hết hẳn bột khô trong bát, hỗn hợp bột trở thành khối dẻo, có thể hơi đứt đoạn và lổn nhổn. Nên cho nước từ từ và theo dõi, khi nào khối bột hoà quyện, không quá khô hay nhão thì dừng lại. </span></p>
+<p><span style="color: #000000;">Phủ kín khối bột bằng ni-lon bọc thực phẩm, để nghỉ trong khoảng 30 phút.</span></p>
+<p style="text-align: center;"><em>Bột sau khi trộn với nước – Lượng nước có thể điều chỉnh, làm sao cho bột vừa phải, không quá khô hay nhão </em></p>
+<p><img alt="" class="aligncenter size-large wp-image-7570" height="681" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/03/IMG_0501-1024x681.jpg" width="1024"/></p>
+<p><span style="color: #000000;">2. Nhào bột:</span></p>
+<p><span style="color: #000000;">– Lần thứ nhất: Dàn bột lên giấy nến, phủ một tờ giấy nến khác lên, cán miếng bột ra to gấp 2 lần ban đầu, sau đó gấp đôi lại. Tiếp tục cán dài ra và gấp lại. Cứ cán và gấp như vậy như vậy khoảng 7~10 lần, sau đó bọc kín bột lại, để bột nghỉ khoảng 30 phút.</span></p>
+<p><span style="color: #000000;">Thời gian nghỉ này giúp khối bột tự tạo gluten một cách tự nhiên, giúp sợi mì dai hơn. Việc ta gấp và cán bột cũng giúp sợi mì dai giòn hơn, càng cán nhiều thì sợi mì càng dai.</span></p>
+<p><span style="color: #000000;">– Lần thứ hai: sau khi bột nghỉ 30 phút ta tiếp tục lặp lại động tác cán dài ra rồi gấp lại thêm 5~7 lần nữa. Bọc kín bột, để nghỉ thêm 30 phút.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #000000;">– Lần thứ ba: lúc này bột đã mềm dẻo và mịn hơn nhiều, tiếp tục lặp lại động tác cán dài ra rồi gấp lại thêm khoảng 5 lần nữa. Bọc kín bột, để nghỉ khoảng 30 phút.</span></p>
+<p style="text-align: center;"><em>bột sau khi nghỉ 30 phút đã mịn và dẻo hơn </em></p>
+<p><img alt="" class="aligncenter size-large wp-image-7571" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/03/IMG_0525-1024x682.jpg" width="1024"/></p>
+<p style="text-align: center;"><em>cán bột giữa hai tờ giấy nến để chống dính </em></p>
+<p><img alt="" class="aligncenter size-large wp-image-7572" height="681" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/03/IMG_0527-1024x681.jpg" width="1024"/></p>
+<p style="text-align: center;"><em>gấp đôi miếng bột lại </em></p>
+<p><img alt="" class="aligncenter size-large wp-image-7573" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/03/IMG_0529-1024x682.jpg" width="1024"/></p>
+<p style="text-align: center;"><em>rồi lại cán tiếp, lặp lại số lần như yêu cầu, để bột nghỉ rồi cán lần 2, lần 3 theo hướng dẫn ở trên </em></p>
+<p style="text-align: center;"><em>cán bột kĩ thì mì sẽ dẻo dai hơn </em></p>
+<p><img alt="" class="aligncenter size-large wp-image-7574" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/03/IMG_0545-1024x682.jpg" width="1024"/></p>
+<p><span style="color: #000000;">3. Sau 30 phút bột nghỉ, ta cán bột giữa hai lớp giấy nến, độ dày khoảng 3-4 mm. Xoa đều và nhiều bột khô lên khắp mặt bột mì để chống dính. Gấp đôi miếng bột để cắt cho dễ. Dùng dao thật sắc, thái boọt thành sợi có độ rộng khoảng 2~3 mm. Nếu dính dao, phủ thêm bột khô lên mặt miếng bột mì.</span></p>
+<p style="text-align: center;"><em>bột sau khi cán mỏng, phủ một lớp bột khô lên để chống dính </em></p>
+<p><img alt="" class="aligncenter size-large wp-image-7575" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/03/IMG_0561-1024x682.jpg" width="1024"/></p>
+<p style="text-align: center;"><em>gập đôi miếng bột lại, phủ bột khô lên mặt miếng bột để chuẩn bị cắt </em></p>
+<p><img alt="" class="aligncenter size-large wp-image-7576" height="680" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/03/IMG_0565-1024x680.jpg" width="1024"/></p>
+
+
+<p><span style="color: #000000;">4. Rắc nhiều bột khô lên phần mì vừa cắt xong để chống dính. Nhẹ nhàng dùng tay kéo dãn từng sợi mì, lưu ý không kéo quá mạnh làm đứt sợi mì. Bọn mình làm sợi mì khá to vì kiểu mì Đài Loan là sợi to, nhưng bạn có thể làm mì sợi nhỏ theo ý thích nhé. Cuối cùng giũ nhẹ các sợi mì để bột khô bám đều trên khắp các sợi mì, tránh mì bị dính nhau.</span></p>
+<p><span style="color: #000000;">Nếu ngại kéo từng sợi mì thì các bạn có thể vắt sợi mì qua thanh ngang của mắc phơi quần áo, để sợi mì tự chảy dài xuống và nhỏ lại. </span></p>
+<p style="text-align: center;"><em>cắt mì thành sợi to nhỏ theo ý muốn </em></p>
+<p><img alt="" class="aligncenter size-large wp-image-7577" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/03/IMG_0566-1024x683.jpg" width="1024"/></p>
+<p style="text-align: center;"><em>kéo dãn cho sợi mì dài ra và thuôn hơn theo ý thích </em></p>
+<p><img alt="" class="aligncenter size-large wp-image-7578" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/03/IMG_0576-1024x682.jpg" width="1024"/></p>
+<p style="text-align: center;"><em>cắt được 1 số sợi thì kéo dãn, rồi lại cắt tiếp </em></p>
+<p><img alt="" class="aligncenter size-large wp-image-7579" height="684" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/03/IMG_0575-1024x684.jpg" width="1024"/></p>
+<p style="text-align: center;"><em>xóc mì với một ít bột khô, giũ nhẹ cho mì không dính nhau </em></p>
+<p><img alt="" class="aligncenter size-large wp-image-7580" height="684" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/03/IMG_0582-1024x684.jpg" width="1024"/></p>
+<p><span style="color: #000000;">5. Đun sôi nước trong nồi to, nên sử dụng nhiều nước một chút, mì sẽ không bị bén đáy nồi.</span></p>
+<p><span style="color: #000000;">Nước sôi mạnh thì thả mì vào, dùng đũa khuấy nhẹ tay và sát đáy nổi để mì không dính vào nhau, đến khi sợi mì nổi, ăn thử thấy đã chín, không bở bột ở lõi là được (mì chín khá nhanh, khoảng 3 – 4 phút, không nấu quá lâu sợi mì dễ bị ngấm nhiều nước và quá mềm).</span></p>
+<p><span style="color: #000000;">Vớt mì ra chậu nước lạnh, xả nước lạnh nhiều lần để rửa trôi hết phần tinh bột thừa rồi vớt ra để ráo. Có thể rưới một chút dầu ăn để mì không dính vào nhau. Mỳ có thể để trong hộp kín, để ngăn mát tủ lạnh 3 – 4 ngày, khi ăn chần lại trong nước nóng cho mềm lại, dùng ăn với các loại nước mỳ Udon,  mỳ Đài Loan… tuỳ thích. </span></p>
+<p style="text-align: center;"><em>mỳ thành phẩm sau khi luộc chín</em></p>
+<p><img alt="" class="aligncenter size-large wp-image-7581" height="681" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/03/IMG_0588-1024x681.jpg" width="1024"/></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

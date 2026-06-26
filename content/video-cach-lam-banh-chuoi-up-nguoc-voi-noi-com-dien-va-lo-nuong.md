@@ -1,0 +1,83 @@
+---
+title: "[VIDEO] Cách làm bánh chuối úp ngược (với nồi cơm điện và lò nướng) & QUÀ TẶNG từ Zojirushi Việt Nam"
+date: "2016-01-16"
+slug: "video-cach-lam-banh-chuoi-up-nguoc-voi-noi-com-dien-va-lo-nuong"
+categories: []
+tags: []
+image: "/wp-content/uploads/2016/01/banh-chuoi-up-nguoc.jpg"
+description: "Một món bánh rất ngon với nguyên liệu dễ tìm, đơn giản và có thể làm với nồi cơm điện - công thức kèm video hướng dẫn cách làm chi tiết"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Dọn tủ mới phát hiện ra mấy quả chuối bị “bỏ rơi”, mà trong ngăn tủ lại còn rất nhiều hoa quả khác cũng phải giải quyết nữa, thế là lại tìm tới một cách giải quyết hoàn hảo và ngọt ngào là cho  vào bánh :)</p>
+<p>Bánh hoa quả kiểu “úp ngược” (upside-down) là một món bánh dễ làm và cũng rất dễ ăn. Bánh làm theo kiểu đánh bông bơ đường rồi trộn trứng và bột (creaming method) thường có khả năng thành công cao hơn nhiều so với các loại bánh làm với trứng đánh bông. Mặc dù cốt bánh bơ (bánh cake) vẫn hay phải chịu “tiếng oan” là đặc, khô, bứt, ngọt, ngấy. Nhưng với những loại cốt bánh bơ mình đã thử thì mình thấy hoàn toàn không phải vậy. Bánh bơ – nếu làm đúng công thức – thì sẽ vừa xốp, vừa mềm, lại vừa thơm ngậy và tan trong miệng nhờ có bơ nữa.</p>
+<p>Một điểm đặc biệt nữa của bánh bơ là vì không đỏng đảnh nhiều như bánh với trứng đánh bông, nên nếu không có lò nướng thì hoàn toàn có thể làm bằng nồi cơm điện được, khả năng thành công là khá cao. Nên bạn nào muốn thử sức mà trong nhà chưa có lò nướng thì có thể thử nghiệm với món bánh chuối này nhé :)</p>
+<p><strong>Dụng cụ</strong>: Nồi hoặc khuôn tròn đường kính 18 – 20 cm</p>
+<p><strong>Nguyên liệu </strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>A. PHẦN HOA QUẢ</p>
+<ul>
+<li><em>250 gr chuối (hoặc táo, dứa)</em></li>
+<li><em>30 – 40 ml nước cốt chanh </em></li>
+<li><em>50 gr bơ nhạt </em></li>
+<li><em>70 gr đường nâu </em></li>
+</ul>
+<p>B.PHẦN BÁNH BÔNG LAN</p>
+<ul>
+<li><em>180 gram bột mì đa dụng </em></li>
+<li><em>7 gram bột nở </em></li>
+<li><em>1/4 thìa cafe (1-2gram) bột quế </em></li>
+<li><em>1/8 thìa cafe bột ngũ vị hương </em></li>
+<li><em>120 gram bơ nhạt – để mềm ở nhiệt độ phòng</em></li>
+<li><em>một nhúm muối nhỏ </em></li>
+<li><em>85 gram đường </em></li>
+<li><em>5 ml vani chiết xuất </em></li>
+<li><em>2 trứng gà (60 – 65 gram/ quả cả vỏ) </em></li>
+<li><em>60 ml sữa tươi không đường – nhiệt độ phòng </em></li>
+<li><em>65 gram sữa chua không đường – nhiệt độ phòng </em></li>
+</ul>
+<p>Cách làm</p>
+<p>Mời các bạn xem video tại <strong><a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days</a></strong>. Nếu không xem được video tại blog thì các bạn có thể xem trực tiếp ở <strong><a href="https://youtu.be/C1yWQsAKVeI" target="_blank">link này</a></strong>.</p>
+<p>Khi xem các bạn nhớ chọn chế độ 720p (HD) để xem video được rõ nét nhất nha.</p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/C1yWQsAKVeI" width="560"></iframe></div>
+<p>(*) LƯU Ý QUAN TRỌNG</p>
+<p>– Các bạn có thể nướng bánh bằng lò ở nhiệt độ 165 độ C (hai lửa – làm nóng lò trước 15 phút), trong 45 – 50 phút, tới khi xiên thử que tăm vào chính giữa bánh, rút tăm lên thấy khô và sạch.</p>
+<p>– Nếu nồi cơm không có chức năng Cake: Các bạn bật nút “Nấu/ Cook” như bình thường. Với đa số nồi cơm thì sau khoảng 10 – 15 phút nồi sẽ tự động chuyển chế độ từ “Nấu/ Cook” sang “Giữ ấm/ Warm”. Nếu chỉ để chế độ này, có khả năng trong nồi sẽ thiếu nhiệt và bánh sẽ nở kém, hoặc không chín được hết phần bên trong. Do vậy, chúng ta cần bật lại nút “Nấu/ Cook” để nồi cơm làm nóng và đảm bảo đủ nhiệt giúp bánh nở.</p>
+<p>– TUY NHIÊN, mỗi nồi cơm sẽ có chế độ làm nóng khác nhau và nhiệt độ khác nhau. Do đó không có cách chỉnh nhiệt cố định cho tất cả các nồi mà các bạn <strong>cần tự theo dõi nồi của mình và đưa ra cách chỉnh nhiệt thích hợp nhất với nồi.</strong> Các bạn có thể thử trong lần đầu tiên làm bánh theo cách sau: Bật nút “Nấu/Cook” – khi nồi cơm chuyển “warm” thì khoảng 3 phút sau đó bật lại “Cook”. Cứ như vậy, chúng ta cần nướng bánh trong khoảng 50 phút để bánh chín hoàn toàn. Và tuỳ vào nồi mà số lần bật lại “Cook” có thể sẽ là 2 – 3 lần.</p>
+<p>NẾU:</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<ul>
+<li>phần chuối bị cháy thì có lẽ nhiệt trong nồi của bạn hơi cao quá, các lần làm kế tiếp bạn nên lót một lớp giấy nến dưới đáy nồi và giảm tần suất bật “Cook”.</li>
+<li>bánh sau khi lấy ra khỏi nồi bị xẹp nhiều, bánh đặc ẩm và có thể còn mùi trứng tanh: bánh chưa chín hẳn, bạn cần để trong nồi lâu hơn một chút, hoặc các lần kế tiếp chỉ làm 1/2 công thức, bánh thấp sẽ chín nhanh hơn</li>
+</ul>
+<p>———</p>
+<p><strong>MINI GAME VÀ QUÀ TẶNG TỪ ZOJIRUSHI VIỆT NAM</strong></p>
+<p>Chỉ còn chưa đầy 1 tháng nữa là tới Tết Nguyên Đán, ở bên mình vẫn đang là giữa mùa Đông, nhưng mỗi khi vào Savoury Days dù là website, Facebook hay Youtube thì đều thấy ấm áp và không khí náo nức lắm ấy. Dường như mọi người đã bắt đầu rục rịch chuẩn bị món ngon cho Tết rồi. Và để cho không khí đầu Xuân thêm “tưng bừng” hơn nữa thì cuối tuần này mình lại có một trò chơi nho nhỏ với 5 phần quà tặng từ Zojirushi Việt Nam (www.zojirushi.vn). Vì “vui là chính” (phần thưởng là chủ yếu ;) ), nên cách thức tham gia rất đơn giản thôi, các bạn xem cụ thể ở dưới nhé:</p>
+<p>* <strong>Đối tượng tham gia:</strong> tất cả các bạn bè của SD hiện đang sống tại Việt Nam hoặc có địa chỉ chính thức tại Việt Nam để có thể nhận quà tặng qua đường bưu điện</p>
+<p>* <strong>Giải thưởng: </strong>5 chiếc bình lưỡng tính của Zojirushi (đồ điện tử-gia dụng Nhật Bản), dung tích 0.35L, có thể giữ nước nóng hoặc lạnh trong 6h đồng hồ. Trị giá của 1 chiếc bình là 520.000 VND.</p>
+<p>* <strong>Thời gian</strong>: từ 16/1 đến hết ngày 21/1 (giờ Việt Nam)</p>
+<p>* <strong>Cách thức tham gia</strong>:</p>
+<p>(1) Chia sẻ/ Share <a href="https://www.facebook.com/savourydays/videos/948761055177480/" target="_blank">video tại Facebook của Savoury Days</a> (bằng cách nhấn nút share tại Video trên FB của SD). Để chế độ Share Public (cho tất cả mọi người) (nếu không Zojirushi sẽ không “nhìn thấy” các bạn để chọn người may mắn được :) ). Trong link chia sẻ có các hashtag #zojirushivn #savourydaysvn #giveaways (các bạn chỉ cần copy dòng này là được nhe :)</p>
+<p>(2) Để lại phản hồi ở dưới<a href="https://youtu.be/C1yWQsAKVeI"><strong> video tại YouTube</strong></a> giải thích lí do vì sao bạn muốn có chiếc bình nước này (thông tin về bình nước các bạn có thể tham khảo thêm tại <a href="http://www.zojirushi.vn" target="_blank">www.zojirushi.vn</a>, bình nước giải thưởng là loại bình lưỡng tính SM-AFE 35)</p>
+<p>* <strong>Cách thức chọn người trúng giải</strong>: Zojirushi và SD sẽ chọn ra ngẫu nhiên 2 trong số các bạn chia sẻ post và 3 trong số các bạn phản hồi ở dưới video để tặng quà (như vậy, các bạn không nhất thiết phải làm cả 2 bước trên nhưng nếu có cả 2 bước thì cơ hội trúng giải sẽ cao hơn nha :) ).</p>
+<p>* Danh sách các bạn may mắn sẽ được thông báo tại www.savourydays.com vào thứ Hai ngày 25/1/2016. Zojirushi sẽ chuyển phần quà tới địa chỉ của các bạn theo đường bưu điện.</p>
+<p>Chúc các bạn may mắn! :)</p>
+<p>———–</p>
+<p><strong>DANH SÁCH CÁC BẠN MAY MẮN NHẬN QUÀ TẶNG TỪ ZOJIRUSHI VN</strong></p>
+<p>Cảm ơn các bạn đã nhiệt tình tham dự mini game lần này. Mình xin thay mặt Zojirushi VN công bố danh sách các bạn may mắn nhận được các phần quà trong lần thi này nhé. Xin chúc mừng các bạn:</p>
+
+
+<ol>
+<li>Trần Thuỳ Anh (Facebook: https://www.facebook.com/tran.anh.1232)</li>
+<li>Tâm Cùi Bắp (Facebook: https://www.facebook.com/anhcoisanhdieu</li>
+<li>Nguyễn Mạnh (phản hồi tại YouTube)</li>
+<li>Hải Yến Nguyễn (phản hồi tại YouTube)</li>
+<li>Hoai Vu (phản hồi tại YouTube)</li>
+</ol>
+<p>Mời các bạn gửi mail tới địa chỉ savourydaysvn@gmail.com để thống nhất cách thức nhận quà tặng nhé. Vì sắp Tết rồi nên các bạn gửi mail sớm nha, Zojirushi sẽ cố gắng gửi quà cho các bạn trước Tết :)</p>
+<p>Một lần nữa cảm ơn các bạn và chúng mình sẽ chờ các mini game tiếp theo nhé ;)</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

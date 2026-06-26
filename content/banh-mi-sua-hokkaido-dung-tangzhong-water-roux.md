@@ -1,0 +1,99 @@
+---
+title: "Bánh mì sữa Hokkaido (dùng tangzhong/ water roux)"
+date: "2014-11-03"
+slug: "banh-mi-sua-hokkaido-dung-tangzhong-water-roux"
+categories: []
+tags: []
+image: "/wp-content/uploads/2014/11/BanhMiHokkaido.jpg"
+description: "tangzhong, bánh mì ngọt, bánh mì sữa, milk bun, hokkaido bread, water roux"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Các bài viết về kiến thức, kĩ năng cơ bản khi làm bánh mì:</p>
+<ol>
+<li>Phân biệt các loại bột làm bánh, cách sử dụng, thay thế các loại bột : <a href="/?p=1997">Phần 1</a> – <a href="/?p=2022">Phần 2</a></li>
+<li><a href="/?p=2068">Các chất gây nở (men nở, bột nở, muối nở..) – Phân loại, cách thay thế &amp; các lưu ý khi sử dụng</a></li>
+<li><a href="/?p=2138">Phân loại bánh mỳ – Hai phương pháp trộn bột bánh mỳ cơ bản và vài dòng chia sẻ</a></li>
+<li><strong>Làm bánh mỳ – Quy trình cơ bản và các lưu ý</strong>
+<ul>
+<li><a href="/?p=2277">Phần 1: Các bước làm bánh mỳ cơ bản &amp; Các chú ý về nguyên liệu</a></li>
+<li><a href="/?p=2293">Phần 2: Cách nhào/ nhồi bột </a></li>
+<li><a href="/?p=2332">Phần 3: Cách ủ bột, tạo hình, nướng bánh và bảo quản</a></li>
+</ul>
+</li>
+</ol>
+<p>—————————————————–</p>
+<p>Bánh mì sữa Hokkaido có lẽ là công thức bánh mì kiểu ngọt mềm mà mình thích nhất vì cả hương vị lẫn độ mềm, mịn, dai trong từng thớ bánh. <a href="/banh-mi-sua-hokkaido-hokkaido-milky-bread/">Công thức cũ </a>có cách làm khá đơn giản, không cầu kì, tỉ lệ thành công lại cao nên mình dùng khá thường xuyên. Nhưng ngoài công thức này thì còn một công thức khác có sử dụng bột <em>tangzhong</em> hay <em>water roux</em> – là một kĩ thuật  được rất nhiều blogger người châu Á ưa chuộng vì ưu điểm cho thớ bánh đặc biệt mềm và nhẹ của nó, lại có thể để bánh lâu ngày mà không bị khô. Bánh sản phẩm cũng rất ngon mà chỉ thêm một công đoạn chuẩn bị <em>tangzhong</em> khá nhẹ nhàng, nên thi thoảng mình cũng dùng để thay đổi.</p>
+<p>Tóm tắt về cách làm <em>tangzhong</em> là pha 1 phần bột với 5 phần nước hoặc sữa, quấy đều rồi đun đến 65 độ C thì để nguội rồi dùng để làm bánh. Nghe qua thấy có màn nhiệt độ 65 độ C thì sẽ cảm giác hơi phức tạp nhưng thực ra làm rất dễ vì có thể nhận biết bằng mắt được. Vì hỗn hợp khi đạt khoảng 65 – 70 độ C sẽ tự động chuyển sang trạng thái đục mờ và hơi sệt, giống như hồ dán hay cháo bột quấy loãng nên chỉ cần để ý một chút là ổn, không nhất thiết phải có nhiệt kế.</p>
+<p>Hai loại bánh Hokkaido dùng và không dùng <em>tangzhong</em> có khác nhau nhiều không? Về mặt hương vị thì mình thấy không khác nhiều. Bánh làm theo công thức không có <em>tangzhong</em> có vẻ thơm theo kiểu đậm đà của sữa hơn một chút. Nhưng bánh có dùng <em>tangzhong</em>, bù lại, rất mềm và rất nhẹ. Cảm giác cầm bánh mì mà như cầm gối bông ấy. Thớ bánh xé ra nhìn cũng rất sướng mắt. Tuy nhiên vì bánh nhẹ như vậy nên khi ăn có cảm giác không được “chất” như bánh không dùng <em>tangzhong</em>. Túm lại thì mỗi loại đều có ưu và nhược điểm nên so sánh cũng hơi khó, nhưng kết luận chung là ăn đều tuyệt như nhau. Và đây cũng chỉ là nhận định của mình thôi, nên mình nghĩ  các bạn nên thử cả hai để tự chọn ra loại bánh ưa thích theo khẩu vị của bản thân và gia đình nhé.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p style="text-align: center;"><em>Bánh mì sữa Hokkaido dùng tangzhong </em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15080532033/" title="IMG_8945-1 by LinhTrang9185, on Flickr"><img alt="IMG_8945-1" class="aligncenter" height="336" loading="lazy" src="https://farm4.staticflickr.com/3943/15080532033_76f9e5fa01.jpg" width="500"/></a></p>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: 1 khuôn loaf dài 25 cm, rộng 12 cm, cao 6 cm hoặc 1 khuôn tròn đường kính 20 cm, cao 8 – 10 cm</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong>A. Bột Tangzhong</strong></p>
+<ul>
+<li><em>20 gr bột làm bánh mì</em></li>
+<li><em>100 gr sữa tươi không đường </em></li>
+</ul>
+<p><strong>B. Bột bánh</strong></p>
+<ul>
+<li><em>270 gr bột làm bánh mì (protein 11,5 – 12,5%)</em></li>
+<li><em>4 gr muối</em></li>
+<li><em>20 gr sữa bột </em></li>
+<li><em>5 gr men instant</em></li>
+<li><em>1 trứng gà (50 gr không tính vỏ)</em></li>
+<li><em>100 gr kem tươi (35% béo)</em></li>
+<li><em>40 gr mật ong (hoặc thay bằng 30 gr đường kính trắng)</em></li>
+<li><em>90 gr Tangzhong</em></li>
+</ul>
+<p><strong>Cách làm</strong></p>
+<p>1. <strong>Chuẩn bị bột <em>tangzhong</em></strong></p>
+<p>Cho các nguyên liệu trong phần A vào nồi, quấy đều. Đặt nồi lên bếp đun ở lửa vừa, vừa đun vừa quấy đến khi hỗn hợp đạt 65 – 68 độ C. Khi này, hỗn hợp không còn lỏng mà chuyển sang dạng hơi sệt, màu trắng đục như hồ dán (loãng). Bột đọng trên thìa có thể quét ngón tay qua và tạo vệt như trong hình dưới. Đổ bột ra bát (thu được khoảng 100 – 105 gram bột), để nguội.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15515060640/" title="IMG_6991 by LinhTrang9185, on Flickr"><img alt="IMG_6991" class="aligncenter" height="334" loading="lazy" src="https://farm6.staticflickr.com/5607/15515060640_f328498a34.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>2. <strong>Trộn bột</strong>: Cho tất cả các nguyên liệu trong phần B vào âu. Trộn đều đến khi hỗn hợp hòa quyện thành một khối. Đậy nilon hoặc khăn ẩm lên mặt âu. Để bột nghỉ khoảng 5 – 10 phút rồi nhồi.</p>
+<p style="text-align: center;"><em>trộn đều :) </em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15515061030/" title="IMG_6910 by LinhTrang9185, on Flickr"><img alt="IMG_6910" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7466/15515061030_9884324470.jpg" width="500"/></a></p>
+<p>* <strong><span style="text-decoration: underline;">Ghi chú:</span></strong></p>
+<p>– Công thức này không kích hoạt men nên cần dùng loại men instant (<em>instant yeast/ instant dry yeast)</em>. Nên cho bột và men, quấy đều rồi mới cho các nguyên liệu còn lại, tránh để men tiếp xúc với muối vì muối làm yếu/ chết men.</p>
+<p>– Trứng và kem tươi nên ở nhiệt độ mát (không quá lạnh).</p>
+<p>– Kem tươi không nên thay bằng topping hoặc bơ &amp; sữa vì sẽ làm thay đổi hương vị của bánh.</p>
+<p>3.<strong> Nhồi bột</strong></p>
+<p>– Bằng tay: Bột khá nhão và dính nên có thể sẽ cần dùng thêm ít bột áo (không nên dùng quá 25 gram). Có thể nhồi trong khoảng 5 phút, để bột nghỉ 5 – 10 phút rồi tiếp tục nhồi. Bột có thời gian nghỉ sẽ bớt dính và nhồi cũng dễ hơn. Tùy vào kĩ thuật nhồi mà có thể mất từ 25 – 40 phút nhồi bột. Xem thêm cách nhồi bột tại<strong><a href="/lam-banh-mi-quy-trinh-co-ban-cac-luu-y-phan-2-cach-nhao-nhoi-bot/"> ĐÂY.</a></strong></p>
+<p>– Bằng máy: Nhồi ở tốc độ vừa trong khoảng 10 – 15 phút rồi để bột nghỉ 5 phút, rồi nhồi tiếp. Do hoạt động của máy sẽ làm khối bột nóng lên nên cần thời gian nghỉ (bột quá nóng sẽ làm bánh kém thơm ngon).</p>
+<p>Với công thức này cần nhồi bột rất kĩ để thớ bột được dẻo dai. Mình nhồi bằng máy cầm tay công suất 550W (tốc độ 3-4/5)  trong khoảng 10 phút, để nghỉ 5 phút, nhồi tiếp thêm 7 – 10 phút, nghỉ 5 phút, rồi nhồi tay thêm 5 – 7 phút nữa. Bột nhồi đạt sẽ rất dẻo, mịn, hơi trắng hơn so với lúc đầu, đàn hồi tốt (ấn ngón tay vào thấy vết lõm phồng trở lại) và hơi ướt dính (chạm ngón tay thấy hơi dính nhưng khi nhấc lên thì bột không dính theo tay, cảm giác hơi giống như khi chạm vào mép của giấy nhớ – <em>sticky note</em>)</p>
+<p>4. <strong>Ủ bột lần 1</strong></p>
+<p>– <span class="Apple-style-span">Dùng một chiếc âu hoặc bát to, quét 1 lớp dầu ăn <b>mỏng</b> lên đáy và thành âu. Cho khối bột vào âu, lật mặt khối bột để dầu ăn bao đều quanh cả khối bột. Dùng khăn ẩm hoặc nilon bọc kín âu. Ủ bột ở <b>nhiệt độ phòng </b>(25 – 32 độ C) đến khi bột nở gấp đôi.</span></p>
+<p>* <i>Không có thời gian ủ cố định vì tùy theo nhiệt độ ủ mà bột có thể nở nhanh hay chậm. “<b>Bột nở lớn gấp đôi”</b> là căn cứ tốt nhất. Ngoài ra, các bạn có thể kiểm tra bột ủ đạt bằng cách dùng 2 ngón tay cắm vào khối bột, sâu khoảng 1 – 2cm, nếu vết lõm giữ nguyên là bột đã ủ đủ, nếu vết lõm phồng trở lại thì cần phải ủ thêm.</i></p>
+<p style="text-align: center;"><em>bột trước khi ủ </em></p>
+
+
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/15697971141/" title="IMG_6924 by LinhTrang9185, on Flickr"><img alt="IMG_6924" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7502/15697971141_cb4c0f4f34.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>bột sau khi ủ </em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15080532353/" title="IMG_6929 by LinhTrang9185, on Flickr"><img alt="IMG_6929" class="aligncenter" height="334" loading="lazy" src="https://farm8.staticflickr.com/7566/15080532353_04e4d10a52.jpg" width="500"/></a></p>
+<p>5. <b>Tạo hình</b></p>
+<p>– Sau khi bột đã nở gấp đôi thì dùng mu bàn tay để “đấm” nhẹ hay ép nhẹ cho khí trong khối bột thoát ra ngoài. Lấy bột ra, nhào bằng tay lại sơ qua trong khoảng 1-2 phút.</p>
+<p>– Ở đây, tùy theo mục đích sử dụng mà các bạn có thể tạo hình bột thành một chiếc bánh mì gối cỡ lớn (xem thêm <a href="http://www.youtube.com/watch?v=CmQ2hbK7Nl4">cách tạo hình bánh mỳ cho khuôn loaf</a> ). Hoặc chia nhỏ thành nhiều phần (nên dùng cân để chia cho đều) rồi cuộn lại tạo thành các múi lớn cho bánh khuôn loaf theo cách giới thiệu ở công thức bánh mì Hokkaido cũ.</p>
+<p>– Lần này làm mình chia bột thành các phần nhỏ (mỗi phần nặng khoảng 76 – 78 gram) rồi vê tròn. Cách vê tròn bột các bạn có thể xem trong <a href="/hamburger-kieu-viet-nam-cach-tao-hinh-banh-mi-tron-cach-ve-tron-bot-banh/">bài viết này</a>. Tiếp theo, chuẩn bị một khuôn tròn đường kính 20 – 22 cm, chống dính cho khuôn bằng xịt chống dính hoặc dùng bơ lạnh quét đều lên lòng và thành khuôn. Đặt các viên bột vào khuôn như hình dưới. Bột sau khi ủ sẽ nở to và tự dính vào nhau, tạo thành hình bông hoa.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15080532433/" title="IMG_6930 by LinhTrang9185, on Flickr"><img alt="IMG_6930" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3953/15080532433_3d5e18ac89.jpg" width="500"/></a></p>
+<p>6.<strong> Ủ bột lần 2</strong></p>
+<p>– Ủ bột ở nơi ấm áp &amp; ẩm, đến khi bột nở gấp 2 – 2,5 lần. Mình ủ trong lò nướng bằng cách bật lò ở 50 độ C trong khoảng 3 phút rồi tắt đi. Đặt thêm 1 cốc nước sôi vào trong lò để giữ ẩm, tránh cho mặt bánh bị khô. Nhiệt độ nên ở khoảng 33 – 38 độ C, <strong>không được nóng hơn, sẽ làm men hoạt động chậm hoặc chết men.</strong></p>
+<p>– Làm nóng lò trước khi nướng bánh ở 15 phút, nhiệt độ 180 độ C (hai lửa). Vì cần làm nóng lò trước, nên khi bột nở khoảng 70-80%, các bạn có thể bật lò. Đến khi lò đủ nóng thì bánh cũng ủ vừa đủ. (<em>Nếu ủ bánh trong lò thì phải lấy bánh ra rồi mới bật lò nhé</em>).</p>
+<p>7. <strong>Nướng bánh</strong> ở 175 – 177 độ C trong khoảng 30 – 35 phút. Đặt khay bánh ở nấc thấp nhất của lò. Mặt bánh vàng khá nhanh, nên khi mặt bánh tương đối vàng thì lấy một tờ giấy bạc đậy lên để che cho mặt bánh khỏi bị cháy. Sau khi nướng khoảng 20 phút có thể hạ nhiệt xuống 170 độ C và nướng đến khi bánh chín. K<em>hông nên nướng ở nhiệt độ thấp hơn vì có thể sẽ làm cho vỏ bánh bị dày và cứng. </em></p>
+<p style="text-align: center;"><em>bột sau khi ủ lần 2, trước khi đưa vào lò </em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15699866645/" title="IMG_6935 by LinhTrang9185, on Flickr"><img alt="IMG_6935" class="aligncenter" height="334" loading="lazy" src="https://farm6.staticflickr.com/5609/15699866645_b58e642423.jpg" width="500"/></a></p>
+<p>8. Bánh chín lấy ra khỏi khuôn. Để mặt bánh bóng đẹp và thơm, có thể quét một lớp bơ (đã đun chảy) lên mặt bánh, hoặc quét kem tươi (quét từng chút một để có thời gian thẩm thấu).</p>
+<p>Có thể dùng khi bánh còn ấm nóng. Nhưng nếu muốn cắt lát theo kiểu bánh mì gối thì phải đợi bánh nguội hẳn mới cắt, nếu không bánh sẽ dễ bị bết, dính trong ruột.</p>
+<p>Bảo quản trong hộp/ túi kín, ở nơi thoáng mát. Dùng được trong khoảng 2-3 ngày (nhưng với hầu hết các loại bánh mì, dùng trong ngày nướng bánh bao giờ cũng ngon nhất).</p>
+<p style="text-align: center;"><em>Bánh sau khi lấy ra khỏi lò 5 phút </em></p>
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/15515060800/" title="IMG_6936 by LinhTrang9185, on Flickr"><img alt="IMG_6936" class="aligncenter" height="351" loading="lazy" src="https://farm8.staticflickr.com/7531/15515060800_a6c4f72aa8.jpg" width="500"/></a><i></i></p>
+<p style="text-align: center;"><i>xé một miếng ăn thử ^.^</i></p>
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/15514677847/" title="IMG_6940-1 by LinhTrang9185, on Flickr"><img alt="IMG_6940-1" class="aligncenter" height="334" loading="lazy" src="https://farm8.staticflickr.com/7561/15514677847_4c489fc77d.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>bên trong </em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15697970901/" title="IMG_6941-1 by LinhTrang9185, on Flickr"><img alt="IMG_6941-1" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3953/15697970901_66ac56233c.jpg" width="500"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,73 @@
+---
+title: "CÁCH LÀM BÁNH PHU THÊ (dai – dẻo – giòn)"
+date: "2022-03-15"
+slug: "cach-lam-banh-phu-the-dai-deo-gion"
+categories: []
+tags: []
+image: "/wp-content/uploads/2022/03/3.jpg"
+description: "Bánh phu thê dai, dẻo, giòn, nhân đậu xanh dừa bùi béo, thơm mát, có vị ngọt vừa phải, có thể biến tấu được nhiều hương vị"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400; color: #000000;">Một món bánh Việt mà mình cực thích, mỗi lần được mời đi đám hỏi là kiểu gì cũng “xí phần” mấy cái đem về :P Vỏ bánh dai dai, giòn giòn, mát mát, nhân đậu xanh dừa bên trong bùi bùi, béo béo, ăn được vài cái mà không ngán luôn ấy.</span></p>
+<p><span style="font-weight: 400; color: #000000;">Nhưng không hiểu sao mà mấy năm gần đây bánh phu thê ngoài quán ngọt hơn trước rất rất nhiều, thèm lắm mà cũng không ăn hết được 1 cái, nên thôi lại đành tự lăn vào bếp vậy 😁</span></p>
+<p><span style="font-weight: 400; color: #000000;">Bánh tự làm ngoài chuyện độ ngọt vừa phải, lại có thể biến tấu nhiều vị, cho bao nhiêu nhân tùy thích nữa, cách làm cũng rất đơn giản, nói chung là hờiiiii nha 😁</span></p>
+<h2><span style="font-weight: 400; color: #993300;">Cách làm BÁNH PHU THÊ (dai – dẻo – giòn) </span></h2>
+<p><span style="color: #993300;"><strong>Nguyên liệu</strong></span></p>
+<p><strong><span style="color: #000000;"> A. Phần bột bánh:</span></strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">150 gram bột năng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">20 gram tinh bột ngô</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 gram đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 nhúm muối nhỏ</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">450 gram nước</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Tinh chất lá dứa hoặc các loại hương liệu và màu thực phẩm tùy thích</span></em></li>
+</ul>
+<p><strong><span style="color: #993300;">Lưu ý: </span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">– Nếu bạn muốn dùng màu tự nhiên, có thể xay 15 gram lá nếp hoặc lá cẩm tươi với 470 gram nước, sau đó lọc qua rây, thu được khoảng 450 gram nước màu để làm bánh. Hoặc có thể dùng bột màu tự nhiên như màu củ dền, bột dành dành,..</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Mình không thích bánh quá dai nên dùng 1 chút tinh bột ngô để giúp bánh có độ giòn hơn, nếu bạn thích bánh dai và trong thì có thể dùng hoàn toàn bột năng nhé.</span></p>
+<p><strong><span style="color: #000000;">B. </span><span style="color: #000000;">Phần nhân bánh:</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">70 gram đậu xanh</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">30 gram dừa nạo</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1/2 thìa canh dầu dừa (hoặc dầu ăn)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1/2 thìa canh bột năng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1/4 thìa cà phê tinh chất vani</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 nhúm muối nhỏ</span></em></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;"><strong>Dụng cụ:</strong> Khuôn bánh inox hoặc silicon nhỏ (có thể dùng cốc làm flan), bạn có thể dùng khuôn nhựa nhưng cần dùng nhựa đảm bảo vì sẽ có bước hấp bánh, tránh việc nhựa bị chảy ra trong quá trình hấp.</span></p>
+<p> </p>
+<p><span style="color: #993300;"><strong>Cách làm:</strong></span></p>
+<p><strong><span style="color: #000000;">A. Phần nhân bánh:</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Vo sạch đậu xanh, ngâm với nước ấm trong khoảng 2-3 tiếng cho đậu nở mềm. Hấp trên lửa vừa tới khi đậu chín mềm, bở tơi (khoảng 20 – 30 phút). Nghiền nhuyễn đậu xanh khi đậu vẫn còn nóng.</span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Cho đậu xanh đã nghiền vào chảo, thêm đường, dừa nạo sợi, dầu dừa, vani và 1 nhúm muối. </span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400; color: #000000;">3. Hòa tan bột năng với 1 thìa canh nước, cho vào chảo đậu xanh. </span></p>
+<p><span style="font-weight: 400; color: #000000;">4. Sên đậu xanh ở lửa nhỏ khoảng 10-15 phút tới khi đậu xanh hòa quyện thành 1 hỗn hợp mềm dẻo. Cho đậu xanh ra bát, đậy sát mặt đậu bằng nilon thực phẩm để tránh đậu xanh bị khô mặt, để nguội</span></p>
+<p><span style="font-weight: 400; color: #000000;">5.Chia đậu xanh thành viên nhỏ 15-20 gram, vo tròn, đậy kín.</span></p>
+<p><strong><span style="color: #000000;">B. Phần vỏ bánh: </span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Trộn bột năng, tinh bột ngô, đường và muối, vừa thêm từ từ nước vừa khuấy đều. </span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Cho hỗn hợp vào chảo, dùng phới lồng khuấy đều ở LỬA NHỎ tới khi bột hơi đặc lại, nhấc phới lên bột vẫn chảy xuống thành dòng (xem thêm tại ảnh).</span></p>
+<p><span style="font-weight: 400; color: #000000;">3. Bắc chảo ra khỏi bếp, lúc này sẽ thấy bột hơi lợn cợn, dùng phới lồng khuấy bột mạnh tay để bột hòa quyện với nhau thành 1 hỗn hợp đồng nhất.</span></p>
+<p><span style="color: #993300;"><strong>Lưu ý: </strong></span></p>
+<p><span style="font-weight: 400; color: #000000;">– Luôn khuấy bột đều tay trên lửa nhỏ, tránh việc bột chín nhanh quá bị vón cục, khiến bánh thành phẩm không được mịn.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nếu thích trong bột bánh có dừa nạo thì bạn cho thêm 30 gram dừa nạo vào bột nhé</span></p>
+<p><span style="font-weight: 400; color: #000000;">Sau khi khuấy bột xong, cho thêm tinh chất lá dứa hoặc màu thực phẩm và khuấy đều. Nếu muốn làm nhiều màu thì bạn chia bột thành nhiều phần nhỏ để trộn màu nhé. </span></p>
+<p><strong><span style="color: #000000;">Hoàn thiện:</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Đun sôi nước, chuẩn bị xửng hấp và 1 chiếc khăn để tránh làm hơi nước rơi xuống bánh.</span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Quét 1 lớp mỏng dầu ăn vào khuôn, múc khoảng 20-25 gram bột vào khuôn, đặt viên đậu xanh đã vo tròn vào giữa, thêm 20-25 gram bột lên trên sao cho phủ kín viên nhân.</span></p>
+<p><img alt="" class="alignnone wp-image-9056" height="505" loading="lazy" sizes="(max-width: 505px) 100vw, 505px" src="/wp-content/uploads/2022/03/Collage-8-copy-300x300.jpg" width="505"/></p>
+
+
+<p><span style="font-weight: 400; color: #000000;">3. Hấp bánh trên lửa vừa (nước sôi lăn tăn) trong khoảng 5-7 phút tới khi bánh chuyển trong suốt, có thể nhìn thấy nhân bên trong. Trong quá trình hấp lót 1 tấm khăn sạch dưới vung để tránh nước rơi xuống bánh.</span></p>
+<p><span style="font-weight: 400; color: #000000;">4. Lấy bánh ra khỏi nồi hấp, để bánh nguội hoàn toàn trong khuôn. Trải 1 miếng nilon bọc thực phẩm lên mặt bàn, rắc thêm 1 ít vừng/mè rang, phần mè này sẽ ở trên mặt của bánh thành phẩm.</span></p>
+<p><img alt="" class="alignnone wp-image-9057" height="503" loading="lazy" sizes="(max-width: 503px) 100vw, 503px" src="/wp-content/uploads/2022/03/Collage-10-300x300.jpg" width="503"/></p>
+<p><span style="font-weight: 400; color: #000000;">5. Lấy bánh ra khỏi khuôn, úp mặt trên bánh xuống dưới, gói bánh chặt tay để bánh thành nhìn tròn đẹp. </span></p>
+<p><span style="font-weight: 400; color: #000000;"><span style="color: #993300;"><strong>* Bảo quản</strong></span>: Để bánh ở nơi thoáng mát, dùng trong 1-2 ngày. Bánh không dùng nhiều đường nên sẽ nhanh hỏng, đặc biệt là trong thời tiết nóng ẩm. Nếu muốn để lâu hơn, bảo quản bánh trong tủ lạnh được khoảng 4 – 5 ngày, khi dùng quay lò vi sóng ở tốc độ thấp nhất trong khoảng 10 – 20 giây cho bánh mềm trở lại. </span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

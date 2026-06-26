@@ -1,0 +1,56 @@
+---
+title: "Tự học làm bánh căn bản – Phần 1: Mở đầu"
+date: "2012-03-09"
+slug: "tu-hoc-lam-banh-can-ban-phan-1-mo-dau"
+categories: ["Kinh nghiệm nấu nướng", "Làm bánh"]
+tags: ["baking", "chia sẻ", "kiến thức cơ bản", "làm bánh", "tự học làm bánh"]
+image: "/wp-content/uploads/2012/03/HocLamBanhMoDau.jpg"
+description: ""
+---
+
+<p>Nói thật là mình khá băn khoăn khi bắt tay vào viết (chuỗi) bài này. Lý do thì nhiều, chẳng hạn như là mình chỉ mới bắt đầu làm bánh, cả kiến thức và kinh nghiệm đều chưa thật nhiều. Một lý do khác to hơn là tài liệu tham khảo về bánh trái thì vô vàn trên mạng, chỉ cần vài từ khóa và một cú click chuột là có thể dễ dàng có trong tay hàng trăm, hay hàng nghìn trang tài liệu về đủ thứ chủ đề liên quan đến baking, từ to như con voi đến nhỏ như con kiến. Chẳng biết có phải là mình sẽ làm một việc hơi .. thừa không??!</p>
+<p>Nhưng mà, mình vẫn muốn viết. Lý do cho việc này cũng rất nhiều. Mặc dù mình chưa có thật nhiều kinh nghiệm làm bánh, nhưng có lẽ đây là thời điểm thích hợp nếu muốn chia sẻ kinh nghiệm tự học làm bánh. Bởi vì mình nhận ra một điều là, khi càng làm nhiều, càng quen tay, thì những thứ mà mình chú ý đến khi làm bánh không còn giống như những ngày đầu tiên nữa, không còn chi tiết và không còn tỉ mỉ. Trong khi những cái “tỉ mỉ” và “chi tiết” này thật ra lại rất có ích với những người bắt đầu tự học làm bánh từ con số 0 , nên mình nghĩ viết tại thời điểm này có lẽ sẽ tốt hơn. Mình cũng không có tham vọng viết “cẩm nang, gì cũng có”, chỉ là cố gắng chia sẻ những kiến thức và kinh nghiệm mình tự rút ra trong quá trình học làm bánh, và đối với bản thân mình thì việc viết những bài viết này có lẽ cũng là một cách “tự ôn tập” tốt. Trong trường hợp tệ nhất là chẳng bạn nào thấy những bài viết này của mình có ích, thì giữ lại làm … của hồi môn cho con gái hoặc quà cưới cho con dâu sau này vậy :D (<em>con dâu nào nhận được quà cưới kiểu này chắc khóc thét mất :P</em>)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6821575266/" title="IMG_1066-1 by LinhTrang9185, on Flickr"><img alt="IMG_1066-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7177/6821575266_c31e688b02_z.jpg" width="439"/></a></p>
+<p>Chuỗi bài này cũng khác với chuỗi “Nhật kí làm bánh” của mình khá nhiều. Một bên là nhật kí – tức là có gì thì ghi hết lại, từ tâm sự dài dòng lòng thòng trong việc thử nghiệm công thức cho đến buôn bán than chuyện bánh bay thẳng từ lò nướng vào thùng rác – cho nên đôi khi các bạn đọc có thể sẽ hơi mệt một chút (<em>rất là xin lỗi cả nhà vụ này</em>). Còn chuỗi bài này thì nghiêng về hướng “tài liệu tham khảo” hơn, có nghĩa là chủ yếu cung cấp thông tin (và sẽ cố gắng rõ ràng, mạch lạc, ngắn gọn), tiết mục kể lể, buôn than hoặc phát biểu cảm nghĩ chắc sẽ có rất ít hoặc không có. Hi vọng là cả nhà đọc sẽ đỡ mệt hơn :D</p>
+<p>Các phần của chuỗi bài này, tạm thời dự kiến sẽ có:</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p style="padding-left: 30px;"><span id="more-1874"></span>1. Các dụng cụ làm bánh cơ bản</p>
+<p style="padding-left: 30px;">2. Các nguyên liệu làm bánh cơ bản</p>
+<ul style="padding-left: 30px;">
+<ul>
+<li>Các loại bột</li>
+<li>Sữa và các sản phẩm từ sữa</li>
+<li>Các loại men nở, bột nở</li>
+<li>Trứng &amp; việc sử dụng trứng trong làm bánh</li>
+<li>Các loại đường, chất tạo ngọt</li>
+</ul>
+</ul>
+<p style="padding-left: 30px;">3. Phân loại các loại bánh &amp; đánh giá độ khó dễ</p>
+<p style="padding-left: 30px;">4. Các phương pháp và kĩ thuật làm bánh cơ bản</p>
+<p style="padding-left: 30px;">5. .. chưa biết.. từ từ sẽ nghĩ tiếp …</p>
+<p>Đại loại là như vậy, vì mới là ý tưởng nên tạm thời mình cũng chưa có kế hoạch thật cụ thể, nhưng sẽ cố gắng duy trì đều đặn, tối thiểu 1 bài/ tuần nhé ;)</p>
+<p>Nội dung chính xong rùi, vì là bài mở đầu nên xin phép được thêm một phần phụ là vài tâm sự linh tinh… Thật ra trước đây mình không bao giờ nghĩ là làm bánh lại mang lại cho mình nhiều niềm vui như thế. Vui từ lúc đong đếm nhào trộn cho đến lúc ngồi canh trước lò, hít hà mùi bánh chín và đặc biệt là lúc lấy bánh ra khỏi lò, biết là mình đã thử nghiệm thêm một công thức thành công, sẽ có thêm một món bánh mới để chia sẻ và để chiêu đãi bạn bè (cả phục vụ chồng con sau này nữa :D). Tự học làm bánh không dễ, nhưng hoàn toàn là việc có thể làm được, và thật ra cũng có khá nhiều ưu điểm. Chẳng hạn như là nhờ tự học, tự tìm hiểu tài liệu nên kiến thức tự tích lũy được cũng nhiều, và từ nhiều nguồn chứ không chỉ từ một nguồn nào đó. Thất bại đương nhiên là có, số lần mà bản thân mình được hân hạnh diện kiến “mẹ thành công” từ khi bắt đầu học làm bánh đến giờ nói thật là không nhớ nổi là bao nhiêu. Nhưng mình nghĩ chắc chỉ có siêu nhân mới làm cái bánh nào là ngon lành cái bánh ấy. Cho nên nếu chẳng may có bị hỏng, thì cũng đừng nản chí nhé :) Và điều quan trọng là sau mỗi lần hỏng mình tự tìm hiểu xem nguyên nhân là gì, để rút kinh nghiệm cho lần sau. Như vậy sẽ tốt và có ích hơn rất nhiều là cứ liên tục làm đi làm lại, để rồi liên tục hỏng mà vẫn không biết tại sao lại hỏng, như thế thì sẽ xì-trét lắm.</p>
+<p>Mình vẫn chưa có thật nhiều kinh nghiệm về bánh trái, nhưng mình sẽ cố gắng chia sẻ những thứ mình biết theo cách dễ hiểu và tỉ mỉ nhất có thể. Vì vậy nên cũng mong cả nhà giúp đỡ bằng cách đọc thật kĩ các bài viết và các comments trước khi đặt câu hỏi, nhé? Việc này trước hết là có ích cho bản thân các bạn vì sẽ không phải đợi mình trả lời và mình cũng không phải lặp đi lặp lại 1 câu trả lời cho rất nhiều comment trong cùng một bài nữa.</p>
+<p>Một điều cuối cùng là làm bánh thật ra cũng là một môn khoa học, mỗi công thức đều có những đặc điểm và lý do riêng của nó, không phải ngẫu nhiên mà cần phải cho nguyên liệu theo trình tự 1-2-3 hay đổ cái A vào cái B mà không phải ngược lại. Cho nên trừ phi bạn có lí do và hiểu rất rõ ràng và chắc chắn là thay đổi sẽ tốt hơn, còn lại thì cố gắng đọc kĩ và làm theo công thức nha.</p>
+<p>Hết phần mở đầu, cuối tuần sẽ cố gắng up bài đầu tiên về các dụng cụ cần thiết cho việc sản xuất bánh trái tại nhà :)</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p style="text-align: center;"><em>Ảnh minh họa không có liên quan lắm đến nội dung bài viêt </em></p>
+<p style="text-align: center;"><em></em><em>Birthday cake pop – ảnh chụp làm đề bài cho Baking Challenge 30 – Cách làm sẽ up lên vào cuối tháng này ;)</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6949246323/" title="IMG_2630-1 by LinhTrang9185, on Flickr"><img alt="IMG_2630-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7070/6949246323_b0b4f24ac8_z.jpg" width="439"/></a></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

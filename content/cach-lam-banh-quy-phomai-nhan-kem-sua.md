@@ -1,0 +1,84 @@
+---
+title: "Cách làm BÁNH QUY PHOMAI NHÂN KEM SỮA"
+date: "2022-01-11"
+slug: "cach-lam-banh-quy-phomai-nhan-kem-sua"
+categories: []
+tags: []
+image: ""
+description: "Cách làm bánh quy pho-mai nhân kem sữa thơm ngon bằng nồi chiên không dầu. Công thức có video hướng dẫn chi tiết với các lưu ý thành công từ"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400; color: #000000;">Team “bánh quy kẹp nhân” xin mời dừng chân tại đây ạ 🥳</span></p>
+<p><span style="font-weight: 400; color: #000000;">Lớp vỏ bánh thơm mùi bơ sữa và phomai mằn mặn, cắn vào giòn tan, quyện với phần nhân ngậy béo tan trong miệng, tự hỏi sao tới bây giờ mình mới làm loại bánh quy kẹp nhân này vậy?? Bánh vừa ngon lại có cảm giác cực “xịn” (bánh quy lại kẹp hẳn nhân ở giữa cơ mà), gói ghém đẹp đẽ rồi để biếu tặng dịp Tết là chuẩn bài rùi 😉</span></p>
+<p><span style="font-weight: 400; color: #000000;">Cách làm thì cực đơn giản, vẫn như các loại bánh quy bơ thông thường nhưng công thức này bánh sẽ giữ vân tốt, khi nướng lên vẫn rất xinh ạ 😊 Trong video mình dùng nồi chiên không dầu của 2GOOD, nồi nhỏ xinh, có cả nhiệt trên và dưới dùng nướng bánh rất tiện. Nếu bạn dùng lò nướng thì mình cũng có ghi cách nướng tại công thức rồi nha ^^</span></p>
+<h2><span style="color: #800000;">CÁCH LÀM BÁNH QUY PHOMAI NHÂN KEM SỮA</span></h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><span style="color: #000000;"><strong>A. Bánh quy phomai:</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">90 gram bơ động vật không muối (để mềm ở nhiệt độ phòng, ấn tay vào thấy bơ lún xuống nhưng vẫn còn LẠNH)</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">60 gram đường bột</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">1 lòng đỏ trứng gà (20 gram)</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">1 thìa cafe chiết xuất vani</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">80 gram bột mì đa dụng</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">40 gram tinh bột ngô</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">40 gram bột phô mai lắc vị ngọt</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">10 gram bột sữa</span></em></span></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;"><strong>B. Nhân kem phomai</strong>:</span></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram bơ động vật không muối, để mềm ở nhiệt độ phòng nhưng chưa chảy nước</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram socola trắng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">15-20 gram bột phô mai lắc vị ngọt</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">* Lưu ý về nguyên liệu:</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">– Dùng bơ động vật, không dùng bơ thực vật (magarine) như Tường An hoặc Meizan.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Bột phomai lắc mình mua tại cửa hàng bán đồ làm bánh, loại bột này sẽ tạo ra hương phomai giống như bánh công nghiệp các bạn thường thấy. Nên dùng phô mai lắc vị ngọt, không nên sử dụng bột phô mai lắc thông thường vì loại này lượng muối khá nhiều sẽ làm cho bánh bị mặn. Nếu nhà bạn nào có bột phomai Wakodo Nhật Bản thì có thể dùng, mùi cũng rất thơm.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Phần socola trắng trong nhân nên sử dụng socola compound để nhân có thể cứng được ở nhiệt độ phòng. Nếu dùng socola nguyên chất nhân sẽ mềm chảy hơn, vẫn có thể sử dụng được nhưng thành phẩm bánh nên bảo quản trong tủ lạnh.</span></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><span style="color: #000000;"><div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/h_sRXebn3as" width="560"></iframe></div></span></p>
+<p><strong><span style="color: #000000;">A. Phần bánh</span></strong></p>
+<ol>
+<li><span style="font-weight: 400; color: #000000;"> Đánh bơ với đường ở tốc độ vừa tới khi bơ và đường hòa quyện, bơ hơi bông và chuyển màu nhạt hơn.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Cho lòng đỏ trứng và chiết xuất vani vào, đánh ở tốc độ thấp tới khi vừa hòa quyện thì dừng lại. </span></li>
+<li><span style="font-weight: 400; color: #000000;"> Trộn đều các loại bột: bột ngô, bột mì, bột sữa, bột phô mai với 1 ít muối, rây bột vào âu bơ, đánh ở tốc độ thấp nhất tới khi vừa hòa quyện thì dừng lại. Đeo bao tay nilon, bóp và nhào nhẹ nhàng cho hòa quyện thành 1 khối mềm dẻo.</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">* Lưu ý: </span></p>
+<p><span style="font-weight: 400; color: #000000;">– Trong suốt quá trình làm bơ không được chảy, nếu bơ có dấu hiệu chảy cần cho vào tủ lạnh ngay, khi bơ cứng lại rồi mới làm tiếp. Bơ chảy sẽ làm hỗn hợp bột chảy nhão, bánh bị cứng và không xốp.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400; color: #000000;">– Chỉ trộn bột tới khi vừa hòa quyện thì dừng lại, KHÔNG trộn quá nhiều sẽ làm bột bị chai, bánh bị cứng.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Khối bột sẽ hơi khô và nặng sau khi trộn hết bột khô, việc này sẽ giúp bánh giữ nét tốt khi nướng. Nếu thấy nặng quá máy đánh trứng không thể trộn được tiếp thì có thể bóp bằng tay tay cho các nguyên liệu hòa quyện hết.</span></p>
+<ol start="4">
+<li><span style="font-weight: 400; color: #000000;"> Cho từng chút bột vào túi bắt kem (Chỉ cho lượng ít một vì khối bột khá nặng và chắc, cho nhiều sẽ khó bóp). Lồng đui bắt kem vào túi khác, cắt đầu túi vừa đủ để hở phần đầu đui ra ngoài, không cắt quá to đui sẽ dễ bị tuột trong quá trình làm. </span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">Trong video mình dùng đui đan giỏ hoa số 896. Mọi người có thể sử dụng đui đan giỏ kích thước to hơn hoặc nhỏ hơn tùy thích, đui càng nhỏ bóp bột ra sẽ càng nặng hơn.</span></p>
+<ol start="5">
+<li><span style="font-weight: 400; color: #000000;"> Chuẩn bị khay nướng có lót giấy nến. Bóp bột lên khay thành các dải dài khoảng 5-6cm. Giữ khoảng cách ít nhất 1-2 cm giữa các dải bột. Chú ý bóp các dải bột dài đều nhau để khi ghép nhân sẽ đẹp hơn.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Nướng bánh:</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">– Với lò nướng: Nướng 180 độ 10-12 phút (lò nướng được làm nóng trước 20 phút) đến khi thấy bánh rám vàng hơn và hoàn toàn khô ráo.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Với NCKD: Nướng ở 160 độ C trong 10 – 12 phút.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Để nguội, hạ lò xuống 100 độ C. Khi lò đã hạ nhiệt, cho bánh vào sấy ở 100 độ khoảng 30 phút cho bánh giòn hơn. Bước sấy này không bắt buộc nhưng sẽ giúp bánh khô hơn, giòn lâu hơn.</span></p>
+<p><strong><span style="color: #000000;">B. Phần nhân</span></strong></p>
+<ol>
+<li><span style="font-weight: 400; color: #000000;"> Socola trắng băm nhỏ, cho vào âu. Đặt âu lên 1 nồi nước nóng, khuấy đều đến khi socola tan hết, để nguội bớt nhưng vẫn còn lỏng.</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">Lưu ý: Đáy âu KHÔNG được quá nóng, tránh làm socola bị cháy. Trong quá trình đun chảy KHÔNG được để nước rơi vào socola. Nếu sau khi chảy socola không mịn mượt mà bị lổn nhổn, tách nước thì socola đó đã bị cháy, không thể chữa được.</span></p>
+<ol start="2">
+<li><span style="font-weight: 400; color: #000000;"> Bơ để mềm ở nhiệt độ phòng, dùng phới dẹt miết cho mềm. Cho từng chút socola trắng vào trộn đều.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Cho bột phô mai vào, trộn cho hòa quyện. Cho phần nhân hoàn thiện vào túi bắt kem.</span></li>
+</ol>
+<p><strong><span style="color: #000000;">C. Hoàn thiện </span></strong></p>
+<ol>
+<li><span style="font-weight: 400; color: #000000;"> Cắt đầu túi nhân 0,5-0,8cm. Phun đều nhân kem vào mặt sau 1 miếng bánh quy, chỉ phun trong phạm vi ở giữa bánh, chừa lại 1 khoảng cách viền bánh.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Dùng 1 miếng bánh quy khác đặt lên, nhấn nhẹ nhàng cho kem dàn gần ra mép bánh.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Để phần nhân nguội hẳn và cứng lại. Bọc trong hộp, túi kín.</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">Bánh mới nướng xong ăn sẽ thấy hơi rời rạc và gắt vị phô mai 1 chút. Để bánh trong hộp kín qua 1 ngày, bánh xuống bơ và các nguyên liệu hòa quyện sẽ ngon, đằm hơn.</span></p>
+<p><span style="font-weight: 400; color: #000000;">Bánh nướng chuẩn có thể bảo quản trong hộp kín, để ở nhiệt độ phòng khoảng 10 – 15 ngày. Lâu hơn nên bảo quản tủ lạnh để bánh được giòn</span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

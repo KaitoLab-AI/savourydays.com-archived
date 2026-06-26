@@ -1,0 +1,60 @@
+---
+title: "Mời tham dự cuộc thi “Nhật kí học làm bánh – Niềm vui từ bếp”"
+date: "2014-04-01"
+slug: "moi-tham-du-cuoc-thi-nhat-ki-hoc-lam-banh-niem-vui-tu-bep"
+categories: ["Chuyện hàng ngày"]
+tags: ["nhật kí học làm bánh"]
+image: "https://farm8.staticflickr.com/7385/13567458325_01f9d4601c.jpg"
+description: "nhật kí học làm bánh, savourydays"
+---
+
+<p>Còn đúng một tháng nữa Savoury Days sẽ tròn ba năm tuổi và bước sang tuổi thứ 4. Tuổi thứ 3 này so với hai năm đầu tiên, cảm giác “em” lớn nhanh hơn, cũng vui tươi rộn ràng hơn nhờ thường xuyên được đón nhận tình cảm và sự chia sẻ của rất rất nhiều bạn bè từ khắp nơi trên thế giới. Một “dấu mốc” quan trọng khác ở tuổi thứ 3 này nữa là <em>Nhật kí học làm bánh,</em> với sự hỗ trợ rất lớn của công ty sách Nhã Nam, đã chính thức bước từ trang mạng lên trang giấy. Và để niềm vui được nhân thêm nhiều hơn, Savoury Days xin được mừng sinh nhật năm nay theo một cách hơi khác một chút, với cuộc thi “<strong>Nhật kí học làm bánh – Niềm vui từ bếp</strong>“.</p>
+<p>Ý tưởng của cuộc thi này xuất phát từ rất nhiều những chia sẻ mà mình nhận được tại SD trong 3 năm vừa qua – đôi khi chỉ là những dòng phản hồi rất ngắn nhưng đã mang lại cho mình bao nhiêu niềm vui và cả cảm hứng để tiếp tục vào bếp. Và mình nghĩ tại sao không thể nhân rộng niềm vui và những sự chia sẻ này hơn, để cảm hứng sẽ được lan truyền đến rất nhiều các bạn bè khác của Savoury Days nữa. Mỗi người chúng ta hẳn đều có những đoạn nhật kí trong bếp của riêng mình. Nếu có thể cùng chia sẻ những trang nhật kí đầy ắp niềm vui và sự tự hào khi tự tay mình làm ra những món ăn, mẻ bánh xinh đẹp, tiếp thêm động lực và cả sự tự tin vào bếp cho nhiều bạn khác, hẳn là sẽ rất tuyệt, nhỉ?</p>
+<p>Cách thức “dự thi” rất đơn giản. Bạn chỉ cần nấu một món theo công thức đã được chia sẻ tại Savoury Days (<span style="color: #ff0000;"><strong>các bạn lưu ý xem thêm yêu cầu về món ăn ở dưới nhé</strong></span>). Sau đó gửi hình chụp sản phẩm và một vài dòng chia sẻ cảm xúc, hay những niềm vui từ căn bếp của bạn đến email của Savoury Days. Tất cả các bài dự thi sẽ được đăng công khai tại <a href="https://www.facebook.com/savourydays"><strong>Facebook của Savoury Day</strong></a>s để mọi người cùng bình chọn (bằng nút Like). Ngoài ra, sẽ có một “ban bánh khảo” chấm điểm các bài thi nữa ;).</p>
+<p>Vì tiêu chí chung của cuộc thi là chia sẻ niềm vui từ bếp nên món ăn ngon, bức ảnh đẹp sẽ chỉ chiếm 1 phần thôi, còn lại là cảm hứng, câu chuyện mà bạn chia sẻ, và các yếu tố khác nữa. Mình luôn nghĩ là sự say mê và tình yêu chiếm phần lớn trong sự thành công của bất kì công việc gì, làm bánh cũng không là ngoại lệ. Cho nên kể cả khi bạn không có máy ảnh “xịn” hay mới bắt đầu làm bánh, thì cũng đừng ngại ngần trong việc tham gia nhé.</p>
+<p>Tuy “vui là chính” nhưng vì đây là cuộc thi nên chắc chắn một phần không thể thiếu là giải thưởng ;) Sẽ có <strong>1 giải nhất, 2 giải nhì và 5 giải ba</strong> được trao cho bài thi có số bình chọn tại Facebook cao nhất và bài thi do “ban bánh khảo” bình chọn :)</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Tóm tắt sơ qua nội dung là như vậy, giờ là gạch đầu dòng một số thông tin quan trọng (<span style="color: #ff0000;"><strong>nhờ cả nhà đọc kĩ trước khi gửi bài nha</strong></span>)</p>
+<p>(*) <span style="text-decoration: underline;"><strong>Hình thức tham gia &amp; Thời gian gửi bài dự thi</strong></span></p>
+<p>– Người tham dự chọn <span style="color: #0000ff;"><span style="text-decoration: underline;"><strong>một </strong></span><span style="color: #000000;">trong số những món dưới đây để làm và chụp ảnh </span></span></p>
+<ul>
+<li><span style="color: #000000;">Bánh theo công thức trong sách <em>Nhật kí học làm bánh</em></span></li>
+<li><span style="color: #000000;">hoặc một trong những món sau đây: <strong>mochi, kem lạnh (icecream), mousse, bánh bao.</strong></span></li>
+</ul>
+<p>– Gửi <strong>1 ảnh thành phẩm và 2 – 3 ảnh công đoạn</strong> cùng phần <strong>chia sẻ (<span style="color: #0000ff;">tối đa 200 từ</span>, </strong>có thể về một kỉ niệm của bạn với việc bếp núc, hay niềm vui đón nhận thành quả, sự hưởng ứng từ gia đình, bạn bè…) đến email <span style="color: #0000ff;"><strong>savourydaysvn@gmail.com</strong></span>. <span style="color: #ff0000;">Tiêu đề của email ghi rõ</span>: <strong>Tham dự cuộc thi “Niềm vui từ bếp”</strong>.</p>
+<p>(<span style="color: #ff0000;">mỗi bạn chỉ gửi <strong><span style="text-decoration: underline;">một</span></strong> món để tham gia nhé</span>)</p>
+<p>Ngoài ra, trong email các bạn ghi thêm giúp mình những thông tin sau đây:</p>
+<ul>
+<li>Họ tên</li>
+<li>Tỉnh, thành phố (hoặc đất nước) đang cư trú</li>
+<li>Địa chỉ facebook (không bắt buộc)</li>
+</ul>
+<p>– <strong>Thời gian gửi bài dự thi</strong>: <span style="color: #0000ff;">Từ ngày 2/4 đến hết ngày 18/4/2014</span>.</p>
+<p>– Tất cả bài dự thi (gồm ảnh thành phẩm và phần chia sẻ, kèm theo số thứ tự và họ tên người tham gia) sẽ được đăng tại Facebook của Savoury Days trong ngày 20/4/2014.</p>
+<p>–<strong> Thời gian bình chọn cho các bài dự th</strong>i: <span style="color: #0000ff;">Từ ngày 20/4 đến hết ngày 30/4/2014</span>.</p>
+<p>– <strong>Công bố kết qu</strong>ả: <span style="color: #0000ff;">ngày 2/5/2014</span>.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>(*) <span style="text-decoration: underline;"><strong>Giải thưởng</strong></span>:</p>
+<p>* 1 giải nhất gồm 1 bộ trang trí Cupcake của Wilton và 1 khuôn bánh Silicon sẽ được trao cho bài thi được ban giám khảo chấm với số điểm cao nhất.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13567458325/" title="Giai nhat_SD by LinhTrang9185, on Flickr"><img alt="Giai nhat_SD" class="aligncenter" height="500" loading="lazy" src="https://farm8.staticflickr.com/7385/13567458325_01f9d4601c.jpg" width="385"/></a></p>
+<p>* 2 giải nhì, mỗi giải 1 khuôn Silicon cỡ to được trao cho bài thi có số lượng Like cao nhất tại FB và bài thi được BGK chấm với số điểm cao thứ 2.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13567528433/" title="Giai nhi_SD by LinhTrang9185, on Flickr"><img alt="Giai nhi_SD" class="aligncenter" height="297" loading="lazy" src="https://farm8.staticflickr.com/7117/13567528433_281dff1a4c.jpg" width="500"/></a></p>
+<p>* 5 giải ba, mỗi giải 1 khuôn Silicon cỡ nhỏ dành cho 3 bài thi có số lượng Like cao thứ 2, 3, 4 tại FB và 2 bài thi do BGK chấm.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13567820364/" title="Giai ba_SD by LinhTrang9185, on Flickr"><img alt="Giai ba_SD" class="aligncenter" height="271" loading="lazy" src="https://farm8.staticflickr.com/7039/13567820364_fff2839fe9.jpg" width="500"/></a>Mong là Savoury Days sẽ tiễn tuổi thứ 3 và chào tuổi thứ 4 trong “không khí sôi động” và với rất nhiều món bánh ngon do chính các bạn của SD tự làm và gửi tặng ;)</p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

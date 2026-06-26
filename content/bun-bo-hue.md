@@ -1,0 +1,60 @@
+---
+title: "Bún bò Huế"
+date: "2012-09-28"
+slug: "bun-bo-hue"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/09/BunBoHue.jpg"
+description: "Cách làm bún bò Huế chuẩn vị Huế"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Ở bên này trời đã sang Thu rồi, mát mẻ và hanh khô, buổi sáng sớm và tối muộn thậm chí còn hơi lạnh, cho nên tần suất xuất hiện của các món nóng và có nước trong bếp nhà mình tăng đáng kể so với đợt trước. Hết phở rồi lại đến bún, miến, rồi cả mì, kiểu gì cũng ngon cả :) So với các món mặn ăn cơm, nấu món nước nhìn chung là mất nhiều công hơn, nhưng vật vã nhất thì chắc phải nói đến việc làm sao có được đủ và đúng nguyên liệu, hoặc tìm được nguyên liệu tương đương để thay thế. Chợ châu Á bên mình mặc dù cũng thuộc dạng lớn, nhưng không phải của người Việt nên vẫn có nhiều loại nguyên liệu, đặc biệt là gia vị và rau thơm có đi mỏi chân tìm mòn mắt cũng chẳng thấy. Một vài ví dụ điển hình như là tía tô (mà mình đã có lần than thở trong bài về món cà bung thì phải) và các loại mắm.</p>
+<p>Vì không có mắm nên mình cũng chần chừ mãi mới nấu bún bò Huế, tại cảm giác thiếu mắm ruốc thì không ra được vị bún bò. May quá gần đây lại được gửi “tiếp viện” một lọ mắm ruốc, mừng ơi là mừng, bởi vì giải quyết được vấn đề khó khăn nhất rồi, cho nên hai tuần nay, tuần nào bếp cũng thơm mùi hành, sả, ruốc… hay ngắn gọn hơn là thơm mùi bún bò :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8032862003/" title="IMG_6949-1 by LinhTrang9185, on Flickr"><img alt="IMG_6949-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8319/8032862003_6acbe4fb36_z.jpg" width="435"/></a></p>
+<p>Trong cách làm ở dưới đây mình giới thiệu cách  nấu có dùng mắm ruốc và cách nấu không dùng mắm, vì chắc là sẽ có nhiều bạn giống mình, ở xa thèm bún bò mà không mua được đủ nguyên liệu. Cách không có mắm ruốc là dùng viên gia vị bún bò thay thế (mua tại các chợ châu Á), tuy mùi vị không được thật đậm đà như bát bún khi có mắm, nhưng hoàn toàn không tệ đâu ;)</p>
+<p><strong><span style="color: #800000;">Nguyên liệu (3-4 bát to)</span></strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em>1kg đuôi bò (ox tail) </em></li>
+<li><em>1 miếng bắp bò có cả xương &amp; tủy (0.5kg)</em></li>
+</ul>
+<p><strong>hoặc</strong></p>
+<ul>
+<li><em>1kg xương bò/ xương heo</em></li>
+<li><em>1 miếng bắp bò khoảng 400-500gram</em></li>
+</ul>
+<ul>
+<li><em>1 củ hành tây</em></li>
+<li><em>5-6 củ hành hương (hành khô – shallot)</em></li>
+<li><em>5-6 củ sả</em></li>
+<li><em>Mắm ruốc <strong>hoặc </strong>1 hộp gia vị bún bò (gồm 4 viên)</em></li>
+<li><em>Bột nêm hoặc muối, nước mắm</em></li>
+<li><em>Ớt chưng</em></li>
+<li><em>Bún</em></li>
+<li><em>Rau ăn kèm (hành tây xắt mỏng, bắp chuối xắt mỏng, xà lách, giá đậu, rau thơm các loại)</em></li>
+</ul>
+<p><em>(*) Mình chỉ dùng đuôi bò và bắp bò (lí do chủ yếu là vì thấy đã đủ béo rồi :”&gt;) nhưng các bạn có thể thêm chân giò ninh cùng với xương bò, và khi ăn thì ngoài thịt bò còn có thể thêm tiết (huyết) heo, giò lụa, giò bò, giò sống, thịt bò tái… tùy thích nhé. </em></p>
+<p><span style="color: #800000;"><strong>Cách làm </strong></span></p>
+<p>1. Chuẩn bị xương &amp; thịt:</p>
+<p>– Đuôi bò làm sạch (lọc sạch da), chặt khúc. Xương chặt khúc. Ngâm vào nước muối loãng khoảng 1h. Cho xương &amp; đuôi vào nồi, thêm chút muối, đun lửa to đợi nước sôi thì đổ xương ra rổ, rửa cho sạch. Việc ngâm xương trước sẽ giúp loại bỏ 1 phần chất bẩn, nên thường chỉ cần luộc thêm 1 nước là ổn. Nếu các bạn không muốn hoặc ngại ngâm thì cho xương &amp; đuôi bò vào nồi nước lạnh, thêm ít muối. Đun sôi, đợi khoảng 2-3 phút rồi đổ xương và đuôi bò ra rổ, rửa sạch bọt bẩn và vụn thịt. Lặp lại 1-2 lần cho xương thật sạch.</p>
+<p>Phần bắp bò các bạn cũng cho vào luộc cùng xương và đuôi cho sạch, nhưng chỉ cần luộc 1 lần thôi nhé, không cần luộc nhiều lần như xương. Nếu dùng chân giò thì cũng làm tương tự (ngâm nước muối – luộc, rửa)</p>
+<p>2. Ướp đuôi &amp; bắp bò (và chân giò) với 2 viên gia vị bún bò (tán nhuyễn, có thể pha thêm chút nước sôi để hòa tan gia vị). Để 1h – 2h cho ngấm. Nếu có mắm ruốc thì pha 1-2 thìa mắm với chút nước lạnh, để lắng cặn, hoặc lược qua rây lấy phần nước mang đi ướp thịt, nêm thêm gia vị nếu cần.</p>
+<p>3. Trong lúc đợi ướp thịt thì nướng hành hương cho thật thơm, bóc bỏ phần vỏ cháy, rửa sạch. Sả đập dập, dùng 1 lá sả ngoài buộc túm lại thành 1 bó. Hành tây bóc vỏ, bổ làm 6-8 phần.</p>
+<p>Nhặt và rửa các loại rau. Bắp chuối nếu có thì xắt mỏng, ngâm qua nước muối loãng hoặc dấm cho trắng.</p>
+<p>4. Cho xương và đuôi bò vào nồi (cả giò heo nếu có). Vặn lửa to, đợi nước sôi thì hớt sạch bọt. Cho hành hương, hành tây và sả vào nồi nước. Ninh nhỏ lửa.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>5. Sau khoảng 45 phút (mình ninh trên bếp thường, dùng nồi thường, nồi áp suất có thể nhanh hơn), đuôi bò bắt đầu mềm thì cho bắp bò vào ninh cùng đến khi các nguyên liệu chín mềm. Vớt bắp bò ra, thái miếng mỏng. <em>Các bạn lưu ý là bắp bò chỉ luộc đến khi vừa mềm thì vớt ra nhé, đừng để lâu quá thịt sẽ dễ bị bã. </em></p>
+<p>6. Nêm thêm gia vị bún bò nếu cần, hoặc bột nêm, mì chình cho vừa mặn ngọt. Nếu có mắm ruốc Huế và muốn thêm vị mắm thì pha mắm ruốc (khoảng 1-2 thìa, tùy khẩu vị và tùy vị đậm nhạt của mắm) với nước lạnh, để lắng cặn, chắt lấy phần nước cho vào nồi bún. <em><strong>Nhưng không cho mắm vào nồi khi nước đang sôi nhé</strong>. </em></p>
+<p>Các bạn có thể phi thơm hành, tỏi, sả băm nhỏ, cho chút ớt bột vào xào (đảo nhẹ tay kẻo ớt bay lên gây cay hoặc bỏng mắt) rồi đổ vào nồi nước, để nồi nước dậy mùi và có thêm màu vàng đỏ. Mình bỏ qua bước này vì muốn nước dùng thanh và trong.</p>
+<p>7. Sắp bún vào bát, sắp thịt bắp bò, chân giò, đuôi bò, tiết heo, giò… (nếu có), thêm hành lá. Chan nước. Dùng nóng với các loại rau sống ăn kèm và ớt chưng.</p>
+<p>Hik… đói quá :( mới hôm qua vừa ăn mà đã lại thèm rồi :-&lt;</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8032860496/" title="IMG_6948-1 by LinhTrang9185, on Flickr"><img alt="IMG_6948-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8170/8032860496_810dd2e996_z.jpg" width="427"/></a></p>
+<p>——-</p>
+<p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ email: <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi hành động cố tình vi phạm sẽ chịu xử lí theo quy định của pháp luật.</span></strong></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

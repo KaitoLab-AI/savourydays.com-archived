@@ -1,0 +1,53 @@
+---
+title: "Cánh gà nướng cay kiểu Hàn Quốc"
+date: "2016-02-21"
+slug: "canh-ga-nuong-cay-kieu-han-quoc"
+categories: []
+tags: []
+image: "/wp-content/uploads/2016/02/canh-ga-han-quoc-ml.jpg"
+description: "Cách làm cánh gà nướng Hàn Quốc tuyệt ngon với lớp sốt chua cay mặn ngọt. Công thức kèm theo hình minh hoạ các bước - Savoury Days"
+---
+
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Với mình cánh gà là kiểu nguyên liệu “thần thánh”, vì mỗi khi nào không nghĩ ra nấu món gì cho bữa cơm là mình sử dụng biện pháp an toàn: cánh gà. Nướng, chiên rán, om, kho…, kiểu nào cũng có món để làm với cánh gà. Mà nhiều khi chỉ cần thay đổi gia vị một chút thôi là cũng có thể có món ngon mới. Không bao giờ sợ nhàm và cũng chẳng bao giờ lo món ăn có vị dở ẹc cả.</p>
+<p>Món cánh gà nướng cay này là một kiểu món được “phát minh” ra trong một lúc như thế. Mình thích món ăn Hàn Quốc nên trong tủ hay có sẵn mấy thứ gia vị kiểu Hàn. Toàn là những đồ cơ bản thôi, kiểu như tương ớt, tương đậu, xì dầu, dầu vừng… nhưng nếu linh hoạt một chút thì cũng làm được nhiều món ngon ra phết. Như món cánh gà nướng này, sơ chế đơn giản, chỉ cần ướp rồi cho vào lò nướng. Thành phẩm thì: thịt bên trong mềm ngọt lại được bao ngoài bởi một lớp sốt bóng đỏ au thơm phức, vị mằn mặn, ngòn ngọt, cay cay, ăn với cơm cũng ngon nhưng công thức chuẩn nhất là 1 đĩa thịt gà + 1 đĩa dưa chuột chẻ + một bộ phim hay và tí đồ uống cay cay nữa nhé ;)</p>
+<p><img alt=" ga nuong han quoc" class="aligncenter" height="426" loading="lazy" src=" https://farm2.staticflickr.com/1447/25050995282_2df8c9c6d3_z.jpg " width="640"/></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p>– 600 gram cánh gà</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>– Gia vị ướp gà:</p>
+<ul>
+<li>1.5 thìa canh (40 gram) tương ớt Hàn Quốc (Gochujang)</li>
+<li>1 thìa canh xì dầu (soy sauce)</li>
+<li>½ thìa canh dầu hào (oyster sauce)</li>
+<li>1 thìa canh mật ong</li>
+<li>½ thìa cafe bột tỏi (hoặc thay bằng ½ thìa canh tỏi tươi băm nhuyễn)</li>
+<li>¼ thìa cafe bột hành (hoặc thay bằng 1 thìa cafe hành hương băm nhuyễn)</li>
+<li>¼ thìa cafe bột gừng</li>
+<li>¼ thìa cafe dầu vừng (sesame oil)</li>
+</ul>
+<p>– 1 thìa canh mật ong (để dùng sau)</p>
+<p>(*) <strong>Ghi chú</strong>:</p>
+<ul>
+<li>1 thìa canh = 1 tablespoon = 15 ml</li>
+<li>1 thìa cafe = 1 teaspoon = 5 ml</li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm </strong></span></p>
+<p>1. Rửa sạch cánh gà, thấm khô. Có thể cắt đôi cánh ở phần khớp. Khía vài đường ở bên dưới cánh gà để cánh dễ ngấm gia vị.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/25169257925/" title=" ga nuong han quoc by LinhTrang9185, on Flickr"><img alt=" ga nuong han quoc" class="aligncenter" height="426" loading="lazy" src=" https://farm2.staticflickr.com/1579/25076016941_366a549672_z.jpg " width="640"/></a></p>
+<p>2. Trộn tất các loại gia vị trong phần gia vị ướp, nếm thử và điều chỉnh gia vị theo khẩu vị của bạn, thêm mặn, ngọt, cay nếu cần.</p>
+<p>3. Ướp thịt gà với gia vị vừa trộn. Nên ướp thịt trong tối thiểu 2 giờ hoặc tốt nhất là qua đêm (đậy kín để tủ lạnh) để thịt ngấm gia vị hoàn toàn.</p>
+<p>4. Làm nóng lò nướng ở 200 độ C. Xếp cánh gà lên khay nướng (tốt nhất là dùng khay có khe hở như trong hình, nếu không có khay kiểu này, bạn có thể nướng gà trực tiếp trên khay liền, lót giấy bạc trong khay). Lưu ý: quay mặt dưới của cánh gà ngửa lên trên.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/25169257925/" title=" ga nuong han quoc by LinhTrang9185, on Flickr"><img alt=" ga nuong han quoc" class="aligncenter" height="426" loading="lazy" src=" https://farm2.staticflickr.com/1694/24801554289_fa020dabf7_z.jpg " width="640"/></a></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>5. Nướng thịt ở rãnh giữa lò, 200 độ C trong 20 phút. Trộn phần nước ướp còn lại trong âu thịt với 1 thìa canh mật ong còn lại. Quét phần sốt này lên cánh gà (để lại khoảng ½ phần sốt cho mặt còn lại của cánh). Cho vào lò nướng thêm 10 phút.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/25169257925/" title=" ga nuong han quoc by LinhTrang9185, on Flickr"><img alt=" ga nuong han quoc" class="aligncenter" height="426" loading="lazy" src=" https://farm2.staticflickr.com/1650/25076011981_62ddba6318_z.jpg " width="640"/></a></p>
+<p>6. Lật cánh gà, quét nước sốt lên mặt còn lại này của cánh gà. Nướng thêm 10 – 15 phút tới khi mặt ngoài cánh gà hơi xém là được. Dùng nóng.</p>
+<p>Yêu cầu thành phẩm: cánh gà chín mềm, ngấm gia vị vào tận bên trong, phần sốt bên ngoài đậm đà với các vị mặn, ngọt, cay hài hoà vừa ăn.</p>
+<p><img alt=" ga nuong han quoc" class="aligncenter" height="800" loading="lazy" src=" https://farm2.staticflickr.com/1512/25169257925_3d45dc51d1_z.jpg " width="567"/></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,74 @@
+---
+title: "Cách làm Bánh dẻo lạnh nhân Cafe sữa Chocolava"
+date: "2018-09-18"
+slug: "cach-lam-banh-deo-lanh-nhan-cafe-sua-chocolava"
+categories: []
+tags: []
+image: "/wp-content/uploads/2018/09/IMG_6311-1.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #000000;">Quay đi quay lại đã thấy tuần sau là Rằm Trung thu rồi. Mùa trăng năm nay mình nhiều việc bận quá, có bao nhiêu kế hoạch, bao nhiêu thứ muốn thử mà cuối cùng chẳng kịp làm gì cả. Đã nghĩ là sẽ rửa khuôn xếp gọn rồi tạ lỗi với mọi người, đợi tới trung thu sang năm nhưng cuối cùng nhờ không khí nhà nhà bánh, người người bánh ở khắp nơi mà vẫn vớt vát được một vài sự sáng tạo mới :)</span></p>
+<p><span style="color: #000000;">Trung thu đã gần sát lắm rồi, giờ thì không còn kịp chuẩn bị nước đường hay trứng muối nữa. Học làm bánh nướng chắc vẫn kịp, nhưng có một món bánh khác nhanh hơn nhiều nhiều mà lại dễ làm, và rất ngon là bánh dẻo Singapore. Nếu bạn muốn làm gì đó cho trung thu mà không có thời gian lại cũng chẳng có kinh nghiệm bếp thì rất nên chọn món này. Bánh dẻo Sing không hề ngọt như bánh dẻo truyền thống, lại bảo quản trong tủ lạnh nên vị man mát, rất dễ ăn. Mình vốn thích vị cafe nên năm nay thay đổi nhân chút xíu, dùng sữa đặc thay đường để có vị cafe sữa, thấy nhân ngon hơn rất nhiều, thơm mà lại ngọt dịu và hơi beo béo. Còn lava chocolate là một màn nghịch ngợm, nếu bạn có thời gian thì thử xem sao nhé, không khó đâu mà khá là vui đấy ;)</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7650" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/09/IMG_6327-1.jpg-1024x683.jpg" width="1024"/></p>
+<h2><span style="color: #000000;">CÁCH LÀM BÁNH DẺO LẠNH NHÂN CAFE SỮA CHOCOLAVA </span></h2>
+<p><span style="color: #993300;"><b>Nguyên liệu</b></span></p>
+<p><span style="color: #000000;"><b>* Nhân cafe sữa</b></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">100 gram đậu xanh đã xát vỏ </span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">80 – 90 gram sữa đặc (tùy khẩu vị)</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">45 gram dầu ăn</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">10 gram bột cafe hòa tan</span></em></span></li>
+</ul>
+<p><span style="color: #000000;"><b>* Nhân lava chocolate</b></span></p>
+<ul>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">43 gram chocolate loại 70% cacao</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">37 ml (2 ½ tbsp) whipping cream</span></em></span></li>
+</ul>
+<p><span style="color: #000000;"><b>* Vỏ bánh dẻo lạnh chocolate</b></span></p>
+<ul>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">100 gram bột bánh dẻo</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">80 gram đường bột (icing sugar)</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">30 gram shortening</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">80 -120 ml sữa tươi không đường để lạnh</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">10 gram bột cacao nguyên chất không đường</span></em></span></li>
+</ul>
+<p><span style="color: #993300;"><b>Cách làm</b></span></p>
+<p><span style="font-weight: 400; color: #000000;">Về cơ bản, cách sên nhân cơ bản, cách làm bánh dẻo lạnh và các lưu ý quan trọng đều đã được đề cập rất đầy đủ và chi tiết lại video <span style="color: #0000ff;"><a href="/video-cach-lam-banh-deo-lanh-singapore/" style="color: #0000ff;"><strong>Cách làm bánh dẻo lạnh</strong> </a></span>của Savoury Days rồi, các bạn có thể nhấn vào link để xem nhé. Phần dưới đây mình sẽ tóm tắt các bước chính và một số lưu ý thôi. </span></p>
+<p><span style="color: #000000;"><b>A. Phần nhân bánh</b></span></p>
+<p><span style="color: #000000;">1. Rửa sạch đậu xanh rồi ngâm với nước nóng khoảng 2 giờ cho đậu mềm. Đun sôi, hớt bớt bọt rồi hạ lửa nhỏ, nấu liu riu tới khi đậu mềm nhừ. Thêm nước nếu nước quá cạn. Thi thoảng quấy đều cho đậu khỏi bị dính vào đáy nồi và cháy.</span></p>
+<p><span style="color: #000000;"><span style="font-weight: 400;">2. Hòa tan 10 gram cafe với khoảng 2 thìa (30 ml) nước sôi</span><span style="font-weight: 400;"><br/>
+</span><span style="font-weight: 400;"><br/>
+</span><span style="font-weight: 400;">3. Xay đậu thật kĩ, thật mịn. Nên xay với nhiều nước một chút, đậu sẽ dễ xay và dễ mịn hơn. Nhân có mịn tan hay không là phụ thuộc vào bước xay đậu này.</span><span style="font-weight: 400;"><br/>
+</span><span style="font-weight: 400;"><br/>
+</span><span style="font-weight: 400;">4. Lọc đậu qua rây đổ vào chảo (dùng chảo chống dính tốt). Cho sữa đặc, và ½ chỗ dầu ăn vào và đảo đều. </span><span style="font-weight: 400;"><br/>
+</span><span style="font-weight: 400;"><br/>
+</span><span style="font-weight: 400;">5. Sau khi dầu ăn hòa quyện (5 phút) cho nốt số dầu ăn còn lại vào chảo. Khi nhân tương đối sệt (sên được khoảng 20 – 25 phút) thì cho cafe vào đảo đều. Sên tiếp tới khi nhân đặc, sên thấy nặng tay thì hạ lửa nhỏ nhất. Sên tiếp tới khi nhân quyện thành một khối dẻo, đặc, mịn. Để nguội</span></span></p>
+<p><span style="color: #000000;"><b>B. Phần sốt chocolate lava </b></span></p>
+<p><span style="font-weight: 400; color: #000000;">1. Chocolate thái nhỏ, cho vào âu cùng kem tươi</span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Đặt âu chocolate lên miệng một nồi nước sôi lăn tăn (đáy âu không chạm nước), đảo nhẹ đến khi chocolate tan chảy hoàn toàn, để nguội rối cho vào túi bắt kem. </span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #000000;">3. Khi nhân còn ấm, chia thành các viên cỡ 20 gram, với mỗi phần nhân, bớt lại một phần nhỏ (khoảng 1/5 lượng nhân) để riêng. Với phần nhân còn lại, nặn thành viên tròn, dùng ngón tay nhẹ nhàng ấn thành 1 “hố” ở giữa, bơm phần chocolate vào, sau đó dùng phần nhân bỏ riêng “đậy” lên trên, nhẹ nhàng miết lại. Làm lần lượt đến khi hết nhân, bọc kín và để tủ lạnh khoảng 1 giờ</span></p>
+<p><span style="color: #000000;"><b>C. Phần vỏ bánh dẻo lạnh</b></span></p>
+<p><span style="color: #000000;">1. Hòa tan bột cacao với khoảng 2 thìa canh (30 ml) nước sôi, sau đó để nguội</span></p>
+<p><span style="color: #000000;"><span style="font-weight: 400;">2. Rây bột và đường, trộn đều. </span>Cho mỡ trừu/ shortening vào âu bột đường. Dùng ngón tay trộn nhanh để bột, đường và shortening quyện thành các vụn nhỏ.</span></p>
+<p><span style="color: #000000;">3. Vét bột để tạo một lỗ trống ở giữa bát, đổ 80 ml sữa lạnh vào, cho phần nước cacao vào trộn đều. Dùng thìa trộn đều tới khi các nguyên liệu hoà quyện thì đeo găng tay, nhồi bột tới khi bột thành khối dẻo mịn. Bọc kín, để nghỉ 10 – 15 phút.</span></p>
+<p><span style="color: #000000;"><span style="font-weight: 400;">* </span><b>Ghi chú</b></span></p>
+<p><span style="font-weight: 400; color: #000000;">– Độ hút nước của mỗi loại bột là khác nhau, nên cho trước 80ml, nếu thấy bột quá nhão/ ướt thì thêm bột khô; nếu thấy bột quá khô thì thêm sữa. Vỏ ướt và mềm một chút sẽ tốt hơn là vỏ bị khô.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Lượng shortening quyết định độ mềm của bánh. Cho quá ít shortening, bánh sẽ nhanh bị bở hoặc cứng.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Dùng găng tay sẽ nhồi bột dễ hơn nhiều vì bột khá dính.</span></p>
+<p><span style="color: #000000;">4. Chia bột thành các phần nặng 30 gram. Nên dùng bột bánh dẻo khô để chống dính cho mặt bàn, tay…</span></p>
+<p><span style="font-weight: 400; color: #000000;">* Mình dùng khuôn cỡ 50 gram. Nếu các bạn dùng khuôn cỡ khác thì các bạn tính trọng lượng bột và nhân theo kích thước khuôn nhé. Có thể dùng tỉ lệ 4 nhân: 6 vỏ hoặc 5 nhân: 5 vỏ. </span></p>
+<p><span style="color: #000000;">5. Cán bột thành hình tròn mỏng, rìa ngoài mỏng hơn ở giữa, đặt nhân vào, bọc kín. Lăn viên bánh qua bột khô để chống dính rồi đóng bánh.</span></p>
+<p><span style="color: #000000;">6. Sau khi đóng xong hết bánh, để bánh trong hộp kín hoặc bọc kín, bảo quản trong tủ lạnh, trước khi ăn để ra ngoài khoảng 10 phút rồi dùng.</span></p>
+<p><span style="font-weight: 400; color: #000000;">Bảo quản bánh trong hộp kín, để trong ngăn mát tủ lạnh, dùng trong 2 – 3 ngày. Hoặc có thể để đông lạnh, khi dùng rã đông trong ngăn mát tủ lạnh.</span></p>
+<p> </p>
+
+
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

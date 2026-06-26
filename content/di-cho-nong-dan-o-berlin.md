@@ -1,0 +1,83 @@
+---
+title: "Đi chợ nông dân ở Berlin"
+date: "2016-10-30"
+slug: "di-cho-nong-dan-o-berlin"
+categories: ["Du lịch"]
+tags: ["du lịch"]
+image: "/wp-content/uploads/2016/10/IMG_2001.jpg"
+description: "Đi chợ nông dân ở Berlin, cùng hoà mình vào trong nhịp sống của người dân nơi đây và thưởng thức các loại đặc sản"
+---
+
+<p>Chuyển qua Berlin, một trong những điều làm mình nuối tiếc nhất là không còn được đi chợ nông dân (<em>farmer market</em>) cuối tuần nữa. Hồi còn ở Bỉ mình thích chợ nông dân lắm. Có một khu chợ khá lớn ở cách nhà chỉ độ 15 phút đi bộ, là điểm đến quen thuộc mỗi sáng thứ bảy hàng tuần của mình. Mua sắm nhiều khi chỉ là phụ thôi vì những gì trong chợ có thì siêu thị cũng đều có cả. Đi chợ chủ yếu vì thích không khí nhộn nhịp huyên náo, thích ngắm nhìn những sạp rau quả tươi rói mới thu hoạch, thích nghe âm thanh rộn rã của những tiếng chào mời, trả giá… Cảm thấy như mình được trải nghiệm một góc khác của cuộc sống, vui tươi, nhộn nhịp và tràn trề sức sống, rất khác với nhịp điệu đều đều, êm êm của những ngày khác trong tuần.</p>
+<p>Berlin thật ra cũng có rất nhiều chợ họp cuối tuần. Chỉ có điều khu chợ nào cũng xa, nhiều khi đi chợ chỉ mất một giờ nhưng đi lại thì tốn tới tận hai tiếng. Nên dù tiếc ơi là tiếc nhưng mình vẫn phải ngậm ngùi từ bỏ thói quen đi chợ nông dân. Cứ như vậy qua gần hai năm rồi. Tới ngày hôm qua thì chuyện “ngoại lệ” đã tới.</p>
+<p>Berlin đã vào giữa thu. Ở bên này có hai khoảng thời gian mà mình yêu kinh khủng, đấy là khoảng hai đến ba tuần giữa tháng tư và hai đến ba tuần cuối tháng mười. Hai khoảng thời gian này đi ngoài đường, dù là người khô khan, kém mơ mộng nhất cũng không thể tránh khỏi việc ngơ ngẩn với khung cảnh trước mắt. Nếu như trong tháng tư, đường phố bỗng chốc khoác lên mình một chiếc áo màu xanh non căng tràn nhựa sống, xen lẫn sắc hồng của hoa anh đào nở rộ thì vào cuối tháng mười, nơi nơi lại bừng lên dưới sắc vàng óng ả và đỏ rực của lá mùa thu. Berlin có rất nhiều cây, thậm chí nhiều công viên chẳng khác nào một khu rừng nhỏ, nên vào thời điểm này lại càng đẹp, càng nên thơ và lãng mạn. Buổi sáng sớm, khi những chiếc máy quét lá còn chưa kịp làm việc, đi dạo trên phố sẽ ngỡ như mình lạc trong một thế giới khác. Những khi ấy việc duy nhất mình có thể làm là cố gắng giữ cho đầu óc trống rỗng, để tận hưởng hết vẻ đẹp của thời khắc chuyển mùa này, nghe tiếng lá vàng khô giòn vỡ vụn theo từng bước chân, và đón nhận cảm giác mát lạnh của gió lùa trong mái tóc.</p>
+<p>Mùa thu đẹp như thế nhưng mấy tuần gần đây đều chẳng có lúc nào tận hưởng được bởi cả hai vợ chồng đều bận. Và quan trọng hơn là trời dạo này vô cùng u ám, gió lạnh và mưa cũng nhiều. Tới hôm nay mới hửng chút nắng nên hai vợ chồng tranh thủ ra đường trước khi ông trời “suy nghĩ lại” :P. Và điểm đến được lựa chọn là chợ ở Winterfeldplatz – một trong những khu chợ nông dân lớn và nổi tiếng bậc nhất ở Berlin – vừa đi mua sắm, vừa nhân thể đi chơi và ngó nghiêng luôn.</p>
+<p>Chợ Winterfeldplatz nằm ở một khu vực của Berlin mà mình hầu như chẳng bao giờ đặt chân tới, nên dù vẫn trong thành phố nhưng khi xuống bus để đi bộ vào vẫn có cảm giác hơi kì lạ. Ở đây có lẽ có nhiều người Thổ sinh sống nên hai bên đường phố các siêu thị của Thổ khá nhiều, có cả mấy cửa hàng bán bánh mì kẹp thịt Kebap. Nhà cửa thì toàn kiểu chung cư cá hộp, cả trăm nhà giống nhau như một, nhà nào cũng lắp ăng ten Parabol to đùng và một số nhà treo cờ Thổ ngay trước cửa.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Đi trên đường lớn với một kiểu cảnh vật như thế, qua hai ngã tư, rẽ phải theo chỉ đường trên điện thoại, thấy mình như vừa bước qua khỏi lằn ranh, sang một khu vực hoàn toàn mới. Không còn bóng dáng của những khu chung cư với hàng trăm căn nhà hình hộp chen chúc nhau nữa mà là một con đường nhỏ, hai bên trồng rất nhiều cây cổ thụ đang rụng lá. Trên vỉa hè, một vài chiếc xe đạp tựa vào hàng rào sắt đã xỉn màu. Còn dưới chân và trước mắt mình là cả một thảm lá khô thi thoảng lại được cơn gió thổi tung phát ra những âm thanh giòn khô rụm. Bỗng nhiên lại cảm thấy may quá vì chợ nằm trong góc khuất này chứ không bị lẫn vào mớ cá hộp treo cờ Thổ ngoài kia.</p>
+<p>Còn gần trăm mét nữa mới tới nơi nhưng không khí chợ thì đã cảm nhận được rõ lắm rồi. Kiểu âm thanh quen thuộc mà lâu rồi mình mới lại nghe thấy. Những bóng người đi ngược chiều với chiếc giỏ mây bên trong chất đầy nào là bánh mì nâu giòn kiểu Đức, xúc xích căng bóng, pho-mát <em>blue cheese </em>điểm mốc xanh rì, thêm một bó hoa tươi rói bên trên. Và cả mùi thơm nữa chứ: Mùi của một thứ đồ ăn nào đó đang cháy xèo xèo trên than hồng, kiểu mà tất cả mọi người ở trong vòng bán kính mấy chục mét đều có thể ngửi thấy và “bị dụ dỗ” ấy.</p>
+<p>Cũng như mọi khu chợ nông dân khác, chợ ở đây có đủ mọi quầy hàng bán thực phẩm chủ đạo: từ các loại cơ bản như rau củ tươi, thịt và hải sản, pho-mát, mỳ ống cho tới những thứ đặc sản từ các vùng và các nước xung quanh như dầu Olive và rượu ngâm các loại thảo mộc từ Pháp và Ý, hoa quả khô của Hungary, bánh kẹo Đông Âu và cả một số quầy hàng đến từ những nơi xa tít tắp của châu Phi, châu Á và châu Mỹ nữa.</p>
+<p><em>bí đỏ để nấu ăn </em></p>
+<p><img alt="img_2001" class="aligncenter size-full wp-image-7213" height="1067" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2001.jpg" width="1600"/></p>
+<p><em>và bí để trang trí </em></p>
+<p><img alt="img_2046" class="aligncenter size-full wp-image-7218" height="1068" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2046.jpg" width="1600"/></p>
+<p><img alt="img_2047" class="aligncenter size-full wp-image-7219" height="1065" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2047.jpg" width="1600"/></p>
+<p><em>bạn đã bao giờ thấy quả bí mặc áo vàng quần xanh như thế này chưa? :P</em></p>
+<p><img alt="img_2051" class="aligncenter size-full wp-image-7220" height="1069" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2051.jpg" width="1600"/></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><em>Đang là mùa thu nên nhất định phải có táo </em></p>
+<p><img alt="img_1991" class="aligncenter size-full wp-image-7212" height="1067" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_1991.jpg" width="1600"/></p>
+<p><img alt="img_2062" class="aligncenter size-full wp-image-7222" height="1069" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2062.jpg" width="1600"/></p>
+<p><em>mùa thu cũng là mùa của nấm </em></p>
+<p><em><img alt="img_1957" class="aligncenter size-full wp-image-7209" height="1069" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_1957.jpg" width="1600"/></em></p>
+<p><em>các loại lá thơm tươi </em></p>
+<p><img alt="img_2012" class="aligncenter size-full wp-image-7215" height="1069" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2012.jpg" width="1600"/></p>
+<p><em>quầy hàng rau củ quả </em></p>
+<p><img alt="img_1986" class="aligncenter size-full wp-image-7211" height="1066" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_1986.jpg" width="1600"/></p>
+<p><em>salami đủ loại </em></p>
+<p><img alt="img_2004" class="aligncenter size-full wp-image-7214" height="1065" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2004.jpg" width="1600"/></p>
+<p><em>và pho-mát hoa oải hương </em></p>
+<p><img alt="img_1978" class="aligncenter size-full wp-image-7210" height="1068" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_1978.jpg" width="1600"/></p>
+<p><em>hoa tươi </em></p>
+<p><img alt="img_2074" class="aligncenter size-full wp-image-7224" height="1067" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2074.jpg" width="1600"/></p>
+
+
+<p><img alt="img_2079" class="aligncenter size-full wp-image-7225" height="1066" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2079.jpg" width="1600"/></p>
+<p><em>cùng hoa khô để trang trí </em></p>
+<p><img alt="img_2023" class="aligncenter size-full wp-image-7216" height="1066" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2023.jpg" width="1600"/></p>
+<p><em>hoa quả sấy khô đến từ Hungary </em></p>
+<p><img alt="img_2054" class="aligncenter size-full wp-image-7221" height="1067" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2054.jpg" width="1600"/></p>
+<p><em>cùng mứt quả tươi </em></p>
+<p><img alt="img_2095" class="aligncenter size-full wp-image-7226" height="1067" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2095.jpg" width="1600"/></p>
+<p>So với siêu thị thì các mặt hàng ở đây không rẻ hơn, thậm chí có nhiều thứ còn đắt hơn nhiều. Ví dụ nhé, giờ đang là mùa hồng, hồng trong siêu thị chắc chỉ khoảng 40 – 60 cent/ quả, nhưng hồng ở chợ có thể lên tới 2 EUR/ quả. Nhiều thứ rau củ khác cũng vậy, chưa kể những thứ “quý hiếm” hơn kiểu như hải sản hay thịt thú rừng. Nhưng mà “tiền nào của ấy”. Chỉ ở chợ nông dân bạn mới có cơ hội mua được những loại rau quả tươi ngon, vừa mới thu hoạch cách đây đôi ba tiếng. Có nhiều loại không hề bày bán trong siêu thị bởi được trồng trong vườn với số lượng ít, chỉ đủ cho nhà ăn và dư ra một chút để mang bán (thì lấy đâu ra dư mà cho vào siêu thị). Cũng chỉ có ở chợ nông dân mới có thể mua được những súc cá hồi, cá ngừ với chất lượng ngang ngửa tại cửa hàng sushi Nhật hay mực, tôm, bạch tuộc còn tươi, mới đánh bắt “ở bển” mang về :P Và còn với riêng mình thì chỉ ở chợ nông dân mới có thể mua được những thứ kiểu như xương hay đầu cá hồi để mang về om dưa. Cho nên, kể cả khi giá của một bộ xương cá kèm đầu có gần ngang ngửa với cá hồi tươi trong siêu thị thì sau khi mua vẫn thấy phấn khởi, mừng vui vô cùng :D</p>
+<p>Nhưng nếu chỉ nói tới mua bán thì đã cắt đi mất 2/3 “sự hay” của chợ nông dân rồi. Bởi chợ kiểu này còn là nơi hội họp, tụ tập thư giãn và nhậu nhẹt cuối tuần. Xen giữa những quầy hàng thực phẩm là các khu ki-ốt bán đồ ăn “ngay tại trận”. “Đừng đi chợ khi đói nếu bạn không có ý định tiêu tiền cho những quầy hàng này”, bởi đến cuối cùng, bạn sẽ không thể cưỡng lại được đâu. Như cái dạ dày và cái mũi của mình hôm nay đã bị mùi thơm của pho-mát nướng dắt từ giữa về đầu chợ cơ mà. Nhất là trong thời tiết 10 độ C như thế này thì biện pháp duy nhất để tránh bị lủng túi có lẽ là ăn trước thật no ở nhà. Rồi đi chợ chỉ là để “đi chợ” thôi :P</p>
+<p>Ở trong chợ Winterfeldplatz có khá nhiều cửa hàng ăn hấp dẫn. Chẳng rõ đồ ăn có thực sự ngon hay không nhưng dựa vào số lượng người xếp hàng trước quầy thì chắc chắn là không hề tệ. Hấp dẫn nhất trong một ngày trời lạnh như thế này vẫn là các loại đồ nướng: Xúc xích nướng trên than củi kẹp trong bánh  mì mềm với sốt mù tạt cay, món đặc sản <em>curry wurst </em>mà du khách nào cũng nhất định phải thử khi ghé thăm Đức. Cá nướng trên than hồng tới khi da hơi xém vàng, toả ra một thứ mùi thơm của mỡ cá béo ngậy pha lẫn trong mùi than cháy đầy dụ khị và mê hoặc. À còn cả cửa hàng <em>baguette</em> phết pho-mát nóng chảy nữa chứ. Kiểu bánh mì pho-mát này mình đã từng được nếm thử trong một hội chợ triển lãm ẩm thực ở Berlin. Pho-mát nguyên tảng cắm trên một cái xiên, đặt dưới một thanh nhiệt cực kì nóng để phần pho-mát ở trên cùng từ từ chảy ra và hơi xém, toả mùi hương thơm phức (để dễ tưởng tượng, các bạn hãy nghĩ tới pho-mát phủ trên Pizza nướng trong lò nhé). Phần pho-mát chảy dẻo quẹo và thơm ngạt ngào này sẽ được cạo ra và phết lên một miếng bánh mì nóng giòn. Rồi sau đó là <em>topping </em>theo yêu cầu của khách: hành, lá thơm, một chút thịt hun khói nướng giòn… Và lập tức thưởng thức thôi, để cảm nhận được miếng bánh mì vỏ ngoài giòn rụm, bên trong mềm xốp hoà quyện với pho-mát còn nóng hổi và dẻo thơm, thêm các thứ gia vị (giờ ngồi viết lại vẫn còn thấy nước miếng ứa ra…).</p>
+<p><em>cá nướng </em></p>
+<p><img alt="img_1951" class="aligncenter size-full wp-image-7208" height="1069" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_1951.jpg" width="1600"/></p>
+<p><em>xúc xích đặc sản </em></p>
+<p><img alt="img_2071" class="aligncenter size-full wp-image-7223" height="1067" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2071.jpg" width="1600"/></p>
+<p><em>bánh mì phết pho-mát nóng chảy </em></p>
+<p><img alt="img_2035" class="aligncenter size-full wp-image-7217" height="1067" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2035.jpg" width="1600"/></p>
+<p>Chợ mở từ sáng sớm, tới gần ba giờ chiều thì bắt đầu vãn và thưa dần. Lúc này gió cũng lạnh hơn và mưa lất phất, “hai thằng” mình cũng đã lượn lờ chán và ăn no bụng rồi nên quyết định đi về. Ra tới cổng chợ thì lại gặp một bất ngờ khác: NƯỚC MÍA! Ô, hoàn toàn không nhìn nhầm đâu, rõ ràng là cây mía béo múp nằm trên  bàn kìa. Trời ơi, bạn có hiểu được cái cảm giác sau bao nhiêu năm rồi mới lại gặp cố nhân không? Nó chính là lúc này đây, khi mình nhìn thấy mấy cây mía kia, cùng máy ép nước mía, và tấm bảng thì ghi rất rõ ràng rằng ở đây bán nước từ cây<em> sugar cane </em>(mía đường<em>). </em>Không có gì để chần chừ, vợ chồng mình xếp hàng mua ngay. Ở đây vẫn còn đông lắm, có lẽ chủ yếu vì lạ. Chắc không ít người châu Âu sẽ nhìn thấy cây mía lần đầu tiên ở cửa hàng này, và cả máy ép nước mía nữa chứ.</p>
+<p>Không khí ở đây cũng khác nhiều so với khu còn lại của chợ. Anh bán hàng người Costa Rica có kiểu ăn mặc đậm chất Nam Mỹ với chiếc mũ bê-rê trên đầu. Và từ chiếc đài nhỏ trong góc phát ra tiếng nhạc Bachata vui nhộn không lẫn đi đâu được. Sau một hồi chờ đợi, cuối cùng cũng đến lượt mình. Trời lạnh quá nên hai vợ chồng mua một cốc nước mía nóng. Mía được ép cùng chanh, và tuỳ theo yêu cầu của khách hàng mà có thể thêm gừng hay vài lá bạc hà vò nát. Mình chọn bạc hà, và phát hiện ra hai thứ này hợp nhau đáo để. Nước mía nóng uống cũng ngon lắm nhé. Vị ngọt của mía, vị chua the nhẹ từ chanh và bạc hà, cảm giác nước trôi tới đâu thì cơ thể được “tái tạo lại” (<em>refresh) </em>tới đó. Hơi tiếc vì ngày hôm nay đã là buổi bán hàng cuối cùng của anh chủ rồi. Sau đây sẽ là một đợt nghỉ đông dài cho tới tận đầu xuân năm sau.</p>
+<p><em>chẻ nhỏ mía để chuẩn bị cho vào máy </em></p>
+<p><img alt="img_2111" class="aligncenter size-full wp-image-7227" height="1065" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="/wp-content/uploads/2016/10/IMG_2111.jpg" width="1600"/></p>
+<p>Quay trở về nhà với một ba-lô nào là cá hồi, mỳ gnocchi tươi vị bí đỏ và rau chân vịt, táo organic, hoa ar-ti-sô … với một bó hoa hồng nho nhỏ nữa. Toàn là những thứ nguyên liệu không hề có trong dự kiến thực đơn cuối tuần. Nhưng thôi kệ, cuộc sống phải bất ngờ thì mới vui chứ! ;) Mùa đông đang lao sầm sập đến rồi. Chẳng rõ chợ mùa đông có vãn hơn không. Chắc là sẽ vãn đấy. Nhưng chắc mình sẽ vẫn phải quay lại thôi. Có thể sẽ là vào một ngày tuyết trắng. Hôm ấy sẽ nhất định để bụng rỗng và ăn thử món cá nướng cùng bánh Tiramisu chưa kịp nếm hôm nay, và có thể sẽ thử cả rượu vang nóng nấu cùng hồi quế kiểu Đức nữa chứ.</p>
+<p>Hẹn gặp lại nhé, chợ nông dân!</p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

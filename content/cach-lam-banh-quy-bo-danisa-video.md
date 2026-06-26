@@ -1,0 +1,59 @@
+---
+title: "Cách làm bánh quy bơ Danisa [VIDEO]"
+date: "2016-12-21"
+slug: "cach-lam-banh-quy-bo-danisa-video"
+categories: []
+tags: []
+image: "/wp-content/uploads/2016/12/cách-làm-bánh-quy-bơ-danisa-banner.jpg"
+description: "Học cách làm bánh quy bơ Danisa đơn giản với Savoury Days. Công thức này không cần máy đánh trứng, bánh rất thơm vị bơ và giòn xốp, có thể làm nhiều vị khác"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><em>Trước khi vào phần công thức mình muốn gửi lời cảm ơn tới tất cả các bạn đã hỏi thăm và chia sẻ thông tin về bếp tại Hà Nội sau <a href="/nho-giup-do-thue-bep-studio-tai-ha-noi/" target="_blank"><strong>post “nhờ vả” tuần trước</strong></a>. Mình đã liên hệ với một số địa điểm thích hợp. Thời gian này mình khá bận thu dọn đồ đạc và sửa soạn để về nhà nên không trả lời được hết tất cả phản hồi tại website và Facebook, mong các bạn thông cảm nhé.</em></p>
+<p>Trong bài hôm nay mình muốn giới thiệu với các bạn một công thức bánh quy mà mình dùng khá nhiều trong thời gian gần đây: một công thức bánh quy cực kì đơn giản và dễ làm mà mùi vị lại rất rất thơm ngon. Với món bánh này, chúng ta chỉ cần một âu trộn với một cái thìa là có thể làm được phần bột. Bánh có thể tạo hình theo nhiều kiểu khác nhau, và khi nướng thì giữ hình dạng rất tốt, không cần phải để tủ lạnh trước để bánh chậm chảy.</p>
+<p>So với <a href="/banh-quy-bo/" target="_blank"><strong>công thức bánh quy bơ cũ</strong></a>, công thức này cho bánh có phần giòn và cứng cáp hơn, giống kiểu bánh quy Danisa trong hộp thiếc xanh, loại bánh quy quen thuộc hay được dùng trong các dịp lễ Tết. Nói “giống kiểu” là bởi vì bánh tự làm thì chất lượng phải hơn bánh quy công nghiệp rồi ;) Bánh cũng có thể bảo quản trong vài tuần mà vẫn thơm ngon (trong điều kiện khô ráo, độ ẩm thấp nhé).</p>
+<p>Video cách làm đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo <a href="https://youtu.be/olebZ5dj8Zs" target="_blank"><strong>link này</strong></a> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="/demo-flan-creme-caramel-kem-caramel/" target="_blank">cách làm bánh flan này.</a> </strong></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/olebZ5dj8Zs" width="560"></iframe></div>
+<p> </p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<h2><strong>CÁCH LÀM BÁNH QUY BƠ DANISA </strong></h2>
+<p><span style="color: #800000;"><strong>Số lượng:</strong></span> 25 – 30 cái tuỳ kích cỡ</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<ul>
+<li><em>113 g bơ – để rất mềm nhưng chưa chảy nước</em></li>
+<li><em>1 lòng trắng trứng (30 – 33 gram) – ở nhiệt độ phòng</em></li>
+<li><em>65 g đường bột (icing sugar)</em></li>
+<li><em>4 ml (3/4 tsp) vani chiết xuất</em></li>
+<li><em>155 g bột mì đa dụng</em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Lưu ý</strong></span></p>
+<p>1. Nên dùng bơ động vật (loại không có muối). Tuy nhiên nếu bạn thích hương vị của bơ thực vật thì có thể thay thế. Mùi vị của bơ sẽ quyết định độ thơm ngon của bánh nên dùng bơ càng thơm ngon thì bánh sẽ càng ngon.</p>
+<p>2. Cân lòng trắng trứng cẩn thận. Không dùng quá nhiều lòng trắng (trên 35 gram) vì có thể làm bánh cứng.</p>
+<p>3. Không dùng đường kính trắng thay cho đường bột vì có thể đường sẽ không tan hết hoặc làm cho bột bánh quá ướt, hoặc làm bánh bị rỗ, có nhiều lỗ nhỏ li ti.</p>
+<p>4. Nếu không có chiết xuất vani tự nhiên thì có thể dùng quả vani, rạch dọc thân quả rồi cạo lấy hạt và dùng hạt này. Không dùng va-ni dạng hoá học vì dễ gây vị đắng cho bánh.</p>
+<p>5. Dùng bột mì đa dụng với protein trong khoảng 10,5 – 11%. Bột có hàm lương protein cao hơn sẽ làm bánh dễ bị cứng và khô, bột có hàm lượng protein thấp hơn (như bột làm bánh  ngọt/ bột mì số 8) sẽ khiến cho bánh dễ bị bở và ăn có cảm giác bột.</p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Cho bơ vào âu, dùng thìa đánh nhẹ cho bơ mềm nhuyễn. Cho lòng trắng trứng và đường bột (rây mịn) vào, trộn tới khi nguyên liệu vừa hoà quyện thì dừng lại.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>2. Rây mịn bột mì. Cho một nửa phần bột vào âu, trộn tới khi vừa hoà quyện thì cho nốt phần bột còn lại, trộn đều. Có thể dùng tay nhồi nhanh tới khi nguyên liệu hoà quyện thành khối bột. <strong>Không nhồi quá kĩ. </strong></p>
+<p>3. Làm nóng lò nướng ở 200 độ C/ 400 độ F. Chuẩn bị khay nướng có lót giấy nến nướng bánh. <strong>Lưu ý </strong><em>không nướng bằng khay đen đi kèm lò vì nhiệt truyền vào khay cao hơn (do khay tiếp xúc trực tiếp với thành lò), dễ làm cháy đế bánh. </em></p>
+<p>4. Cho bột vào túi bắt kem. Cắt đầu túi rồi lồng đui và thêm một túi bắt kem khác ở ngoài. Vì bột khá đặc nên lồng 2 túi bắt kem sẽ chắc chắn hơn và không lo ngại túi bị rách khi bóp bột mạnh. Bạn có thể dùng các loại đui sò 6 cánh mở, khép (Wilton 1M, 2D) hoặc đui sao như trong video.</p>
+<p>5. Bắt bột thành các miếng bánh tròn trên khay.</p>
+<p>6. Khi lò đủ nóng thì nướng bánh trên rãnh giữa lò ở 200 độ C trong 5 phút rồi hạ xuống 175 độ C, nướng thêm 5 – 7 phút tới khi rìa bánh chuyển nâu vàng. Nhiệt độ và thời gian nướng có thể thay đổi tuỳ theo từng loại lò và kích thước bánh. Nếu làm bánh nhỏ hoặc mỏng thì thời gian nướng ngắn hơn.</p>
+<p>7. Bánh chín lấy ra khỏi lò, để nguội hoàn toàn trên khay (không di chuyển khi bánh còn nóng vì dễ làm vỡ bánh). Bảo quản trong hộp kín, nên có thêm túi hút ẩm. Dùng trong 3 tuần.</p>
+<p>Bánh làm chuẩn sẽ thơm mùi bơ và vani, vị ngọt vừa phải, có độ cứng và giòn nhưng không quá bột hay vụn.</p>
+<p>* <span style="color: #800000;"><strong>Một số vấn đề thường gặp và cách giải quyết </strong></span></p>
+<p><em>– Nếu bánh bị vụn và dễ vỡ thì nguyên nhân là do bột mì của bạn hút nước hơi nhiều hoặc nướng trong lò quá lâu. Nên bớt một chút bột hoặc giảm thời gian nướng. </em></p>
+<p><em>– Nếu khi ăn bạn có cảm giác bánh quá khô, hơi bột hoặc bị nghẹn thì nguyên nhân cũng do loai bột bạn dùng hút nước hơi nhiều, có thể tăng khoảng 10 – 15 gram bơ. </em></p>
+<p><em>– Nếu bánh ỉu thì làm nóng lò ở 100 – 110 độ C, xếp tất cả bánh vào khay, nướng (sấy) ở nhiệt 100 – 110 độ C khoảng 5 phút. Không sấy quá lâu sẽ làm bánh khô và trở nên bứ hơn. </em></p>
+<p>– <em>Nếu bánh bị cháy viền quá nhanh thì cần xem lại nhiệt độ. Lưu ý là nhiệt trong lò có thể cao hơn nhiệt chỉnh bên ngoài, đặc biệt với các lò nhỏ, nên có nhiệt kế theo dõi. </em></p>
+<p>* <strong>Một vài ghi chú</strong></p>
+<p>1. Bạn có thể làm các loại bánh với những vị khác nhau từ công thức này. Ví dụ thay 5 gram bột mì bằng 5 gram bột trà xanh để làm bánh vị trà xanh. Với vị chocolate, có thể cần dùng 10 – 15 gram bột ca cao. Vì bột ca cao hút nước nhiều nên bột bánh có thể sẽ hơi khô. Để phòng ngừa tình trạng này, bạn có thể bớt một chút bột hoặc tăng thêm chút bơ trong công thức.</p>
+<p>2. Ngoài việc dùng túi và đui  bắt kem, bạn có thể cán mỏng bột bánh rồi dùng khuôn cắt bánh quy (xem thêm hướng dẫn trong bài “<a href="/cach-lam-banh-quy-hoa-anh-dao-video/" target="_blank"><strong>cách làm bánh quy hoa anh đào</strong></a>“), hoặc dùng cookie press hay đơn giản là lăn bột thành khối trụ tròn rồi cắt lát. Nếu bột quá dính tay, nên để bột vào tủ lạnh khoảng 30 phút cho bơ đông lại, bột bớt dính hơn rồi mới làm.</p>
+
+
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

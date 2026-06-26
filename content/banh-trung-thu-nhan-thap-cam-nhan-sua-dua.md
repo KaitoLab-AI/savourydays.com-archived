@@ -1,0 +1,145 @@
+---
+title: "{Bánh trung thu} Nhân thập cẩm & Nhân sữa dừa"
+date: "2014-08-16"
+slug: "banh-trung-thu-nhan-thap-cam-nhan-sua-dua"
+categories: []
+tags: []
+image: "/wp-content/uploads/2014/08/NhanThapCamBanhTThu1.jpg"
+description: "nhân thập cẩm bánh trung thu, nhân sữa dừa bánh trung thu"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #ff0000;">Ghi chú ngoài lề: <span style="text-decoration: underline;"><strong>Về thời gian bảo quản bánh nướng</strong></span></span></p>
+<p><em>Trong bài hôm qua mình quên mất vấn đề này. Thường bánh trung thu nếu muốn để lâu thì phải có nhiều đường và nhiều dầu ăn. Càng nhiều đường và dầu ăn thì càng ít lo hỏng hay mốc. Nhưng mình nghĩ chỉ vì để lâu mà phải chịu ăn cái bánh vừa ngọt vừa nhiều dầu (không chỉ không ngon mà còn hại cho sức khỏe) thì không đáng chút nào. Nên mình giảm khá nhiều đường và dầu so với các công thức khác. Mình có thử để bánh ở nhiệt độ phòng (bên này rất khô và mát) thì ăn bánh sau một tuần thấy vẫn ổn. Với thời tiết nóng ẩm như ở Việt Nam, mình nghĩ bánh ngon nhất là sau khoảng 2 – 3 ngày, khi vỏ bánh đã đủ mềm nhưng vẫn còn tươi mới. Nếu muốn để lâu hơn, tốt nhất là nên bọc kín rồi để ngăn đá. Khi ăn thì để bánh vào ngăn mát cho tan đá từ từ, rồi để ở nhiệt độ phòng, bánh hết lạnh hẳn ăn sẽ ngon như bánh mới làm.</em></p>
+<p>————</p>
+<h4>NHÂN THẬP CẨM BÁNH TRUNG THU</h4>
+<p>Nói thật là trong các loại bánh trung thu mà hồi xưa mình nếm thử ở nhà, mình sợ bánh nướng nhân thập cẩm nhất. Cứ nhìn thấy bánh nhân thập cẩm là nghĩ đến mùi dầu mỡ hôi, vị ngọt sắc của đường và mứt, vị ngậy béo đến phát ngấy, chưa kể lớp vỏ vừa khô vừa cứng bên ngoài. Chính vì ấn tượng không mấy tốt đẹp này mà nhân thập cẩm là loại nhân mà mình đầu tư nhiều thời gian hơn cả để tham khảo các công thức và thử nghiệm với nhiều loại nguyên liệu khác nhau, để làm sao có được mùi vị bánh thập cẩm ngày xưa nhưng nhất định phải “ngon hơn hàng” :-&gt;</p>
+<p>Ngó qua thị trường một chút thì thấy nhân bánh trung thu thập cẩm hiện tại cực kì đa dạng: nguyên liệu có đủ từ những thứ truyền thống như lạp xưởng, mỡ đường, hạt điều, mứt sen, mứt bí… cho đến những thứ hiện đại như jambon, mứt chanh, mứt cam, nho khô, cranberry khô, hồ đào, óc chó… Mới đầu mình cũng nghĩ là thêm vị này vị kia chắc sẽ ngon hơn, nhưng sau bao nhiêu lần thử thì mình vẫn cảm thấy nhân kiểu cổ truyền chỉ với một vài vị chính thống vẫn có vẻ hợp vị nhất. Chẳng biết có phải vì đã “già” rồi nên không ưng những vị hiện đại hay không. Nhưng với vị mặn, mình chỉ thích lạp xưởng (gà quay chắc cũng ngon nhưng chưa kịp thử) và cả một chút giòn béo của mỡ đường. Mình cũng thích nhân có vị bùi và nhất định phải thơm mùi lá chanh. Còn ngọt thì mình cố gắng giảm đến mức tối đa, nên hạn chế các loại mứt, kể cả mứt quả như cranberry, nho khô… vì tuy nói là có vị chua nhưng phần nhiều vẫn là ngọt .</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14913048326/" title="Homemade mooncakes by LinhTrang9185, on Flickr"><img alt="Homemade mooncakes" class="aligncenter" height="337" loading="lazy" src="https://farm6.staticflickr.com/5555/14913048326_781741c323.jpg" width="500"/></a></p>
+<p>Ở bên này làm bánh Việt có một cái hơi khó là đôi khi không thể mua đủ nguyên liệu. Chẳng hạn mình không tìm được mứt sen, mứt bí, hay hạt dưa. Nên thay cho hạt dưa thì mình dùng hạt thông (<em>pine nut) </em>hoặc đậu phộng/ hạt lạc (<em>peanut</em>). Với mứt bí thì mình thay bằng mứt đu đủ, vị tuy không thanh bằng nhưng cũng giòn kiểu hơi giống nhau. Thứ nguyên liệu thay thế mà mình thích nhất có lẽ là “hạt sen sên đường” tự làm từ hạt sen khô. Hạt sen được đun nhỏ lửa trong nước đường, vừa mềm vừa bùi lại chỉ hơi ngọt thanh, ăn rất dễ chịu và không làm cho nhân bị quá ngọt như mứt sen mua sẵn.</p>
+<p>Công thức cụ thể đây nhé</p>
+<p><strong>A. Phần nhân thập cẩm </strong></p>
+<ul>
+<li><em>40 gr mỡ đường (xem cách làm ở dưới)</em></li>
+<li><em>50 gr sen sên đường (cách làm ở dưới – có thể thay bằng mứt sen nhưng sẽ ngọt hơn)</em></li>
+<li><em>50 gr lạp xưởng</em></li>
+<li><em>50 gr hạt điều (cashew nuts)</em></li>
+<li><em>50 gr hạt bí (pumpkin seed)</em></li>
+<li><em>40 gr hạt dưa (mình thay bằng đậu phộng/ peanut hoặc hạt thông/ pine nut)</em></li>
+<li><em>40 gr vừng/ mè trắng (white sesame seeds)</em></li>
+<li><em>50 gr mứt bí (mình thay bằng mứt đu đủ – dried papaya) </em></li>
+<li><em>6 – 8 lá chanh (tùy khẩu vị – dùng lá chanh Thái/ kaffir lime leaves sẽ thơm hơn)</em></li>
+</ul>
+<p><strong> B. Phần nguyên liệu để kết dính nhân </strong></p>
+<ul>
+<li><em>vỏ 2 quả chanh vàng bào rất vụn </em></li>
+<li><em>1/4 thìa cafe (teaspoon) ngũ vị hương </em></li>
+<li><em>20 – 30 ml rượu Mai Quế Lộ </em></li>
+<li><em>20 – 40 gr bột bánh dẻo/ bột bánh in (cooked glutinous rice flour)</em></li>
+<li><em>nước lọ</em>c</li>
+</ul>
+<p style="text-align: center;"><em>Nhân thập cẩm của mình (quên mất đậu phộng khi chụp ảnh :”&gt;)</em></p>
+<p style="text-align: left;"><a href="https://www.flickr.com/photos/55490207@N05/14749377989/" title="IMG_8269 by LinhTrang9185, on Flickr"><img alt="IMG_8269" class="aligncenter" height="361" loading="lazy" src="https://farm4.staticflickr.com/3867/14749377989_578c7527da.jpg" width="500"/></a></p>
+<p style="text-align: left;"><span style="color: #800000;"><strong>Cách làm </strong></span></p>
+<p style="text-align: left;">1. Chuẩn bị nguyên liệu:</p>
+<p style="text-align: left;">* Cách làm <span style="text-decoration: underline;"><strong>mỡ đường</strong></span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p style="text-align: left;">– Mỡ phần thái hạt lựu. Đun sôi nước rồi cho mỡ vào luộc trong khoảng 2 – 3 phút. <em>Chỉ luộc đến khi mỡ vừa chín tới, không luộc quá lâu, mỡ sẽ mất độ giòn</em>. Đổ mỡ ra rổ, xóc cho ráo nước.</p>
+<p style="text-align: left;">– Trộn mỡ với đường theo tỉ lệ lượng đường = 1/2 lượng mỡ. Để mỡ ra hong gió trong vài tiếng cho mỡ chuyển trong.</p>
+<p style="text-align: left;">– Nên chuẩn bị mỡ đường trước một ngày. Mỡ có thể để trong hộp kín ở nhiệt độ phòng (nơi thoáng mát).</p>
+<p style="text-align: left;">* Cách làm <span style="text-decoration: underline;"><strong>hạt sen sên đường</strong></span>:</p>
+<p style="text-align: left;">– Luộc hạt sen tươi (đã bỏ hết tâm sen) với nước. Khi nước sôi thì bỏ nước luộc đầu tiên này đi. Rửa sạch hạt sen. Nếu dùng hạt sen khô cũng làm tương tự, nhưng nên luộc ở lửa vừa trong khoảng 4 – 5 phút, đến khi hạt sen nở to mới đổ nước luộc đi và rửa lại hạt sen.</p>
+<p style="text-align: left;">– Cho hạt sen vào nồi, đổ nước ngập cao hơn hạt sen một chút. Cho đường theo tỉ lệ lượng đường = 1/4 lượng hạt sen (có thể nhiều hơn chút xíu cũng được). Đun sôi rồi vặn lửa nhỏ đun liu riu đến khi hạt sen chín mềm. Trong quá trình đun, nếu nước cạn thì đổ thêm để nước vừa đủ ngập hạt sen. Khi hạt sen đã mềm (nhưng chưa đến mức bị nát) thì vặn lửa to để nước cạn bớt. Nếu thấy hơi nhạt, có thể cho thêm đường.</p>
+<p style="text-align: left;">– Đổ hạt sen ra rổ, đặt bát ở dưới rổ để hứng nước đường từ hạt sen. Để hạt sen khô ráo ở nhiệt độ phòng rồi thái làm đôi hoặc bốn (thành cỡ hạt lựu).</p>
+<p style="text-align: left;">* Các nguyên liệu khác:</p>
+<p style="text-align: left;">– Lạp xưởng hấp hoặc luộc chín rồi để ráo nước. Thái hạt lựu.</p>
+<p style="text-align: left;">– Hạt điều, hạt bí, hạt dưa (hoặc đậu phộng hay hạt thông) rang/ nướng chín. Thái hạt điều &amp; lạc thành cỡ nhỏ hơn (như hạt lựu).</p>
+<p style="text-align: left;">– Vừng/ mè rang chín.</p>
+<p style="text-align: left;">– Lá chanh rửa sạch, lau khô. Thái chỉ.</p>
+<p style="text-align: left;">(*) <strong><span style="text-decoration: underline;">Lưu ý:</span></strong></p>
+<p style="text-align: left;">– <span style="color: #0000ff;"><em>Tất cả các nguyên liệu cần phải được thái nhỏ về cùng một cỡ</em></span>. K<span style="color: #0000ff;"><em>ích thước thông thường là cỡ hạt lựu</em></span>. Nếu các nguyên liệu quá to, khi nắm lại thành nhân tròn sẽ rất khó, sẽ cần nhiều nước và bột để kết dính. Khi ăn ngoài cảm giác rời rạc sẽ còn cảm giác của vị bột nhiều.</p>
+<p style="text-align: left;">– <span style="color: #0000ff;"><em>Nếu làm bánh nhỏ thì các nguyên liệu có thể thái nhỏ hơn nữa</em></span>. Như mình làm bánh 75 gram thì sau khi thái hạt lựu, mình cho tất cả các nguyên liệu (trừ vừng và lá chanh) vào máy xay (<em>food processor)</em>, xay thêm khoảng 10 giây cho các nguyên liệu nhỏ hơn một chút. Nhân chưa đến mức nát và nhuyễn, vẫn còn nguyên miếng, khi ăn vẫn phân biệt được các vị, nhưng không quá to. Rất dễ nắm lại, mà khi cắt bánh ra cảm giác viên nhân cũng kết dính và ít rời rạc hơn.</p>
+
+
+<p style="text-align: left;">– <span style="color: #0000ff;"><em>Định lượng các nguyên liệu có thể thay đổi, thêm bớt tùy khẩu vị</em></span>.</p>
+<p style="text-align: center;"><i>Nhân sau khi xay – đã nhỏ hơn một chút </i></p>
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/14935681512/" title="IMG_6246 by LinhTrang9185, on Flickr"><img alt="IMG_6246" class="aligncenter" height="333" loading="lazy" src="https://farm6.staticflickr.com/5555/14935681512_070f2732a9.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Trộn đều với vừng và lá chanh </em></p>
+<p style="text-align: left;"><a href="https://www.flickr.com/photos/55490207@N05/14749485257/" title="IMG_6225 by LinhTrang9185, on Flickr"><img alt="IMG_6225" class="aligncenter" height="347" loading="lazy" src="https://farm4.staticflickr.com/3875/14749485257_774b3527b9.jpg" width="500"/></a></p>
+<p style="text-align: left;">2. Trộn nhân:</p>
+<p style="text-align: left;">– Cho tất cả các loại nhân vào âu lớn. Trộn đều. Ở bước này các bạn có thể nếm thử, nếu thấy thiếu ngọt thì thêm đường bột (<em>icing sugar)</em> hoặc nước đường bánh nướng. Nếu thấy thiếu mặn thì thêm chút xì dầu/ nước tương (<em>soya sauce</em>) hay dầu hào (<em>oyster sauce</em>) (dùng dầu hào có lẽ ngon hơn). Với mình thì phần nhân theo công thức này về mặn ngọt đều vừa đủ rồi nên mình không thêm gia vị nào khác.</p>
+<p style="text-align: left;">– Vì nhân thập cẩm gồm toàn các loại hạt và nhân khô nên để kết dính các nguyên liệu này thường sẽ cần dùng thêm bột bánh dẻo và chút chất lỏng (nước, rượu,..). Bột bánh dẻo gặp chất lỏng sẽ “nở” ra, tạo thành một chất kết dính, giúp các nguyên liệu dính lại với nhau và có thể dễ dàng nắm thành viên.</p>
+<p style="text-align: left;">Bột bánh dẻo được làm bằng cách nổ gạo nếp thành bỏng gạo rồi xay lấy bột. Mua được sẵn là tốt nhất.<em> </em><strong><em>Nếu</em><em> không có bột bánh dẻo, các bạn có thể rang bột nếp sống ở lửa nhỏ, đến khi bột nếp chín thơm. </em></strong><em>Bột nếp này sẽ có thể có màu vàng ngà, tuy không dùng làm bánh dẻo được nhưng cho vào nhân bánh trung thu (chỉ dùng một ít) thì mình nghĩ không ảnh hưởng gì. </em></p>
+<p style="text-align: left;"><strong><em>Không thay được bột bánh dẻo bằng bột ngô hay bột mì. </em></strong></p>
+<p style="text-align: left;">– Lượng bột, nước và rượu cho vào nhân không cố định, tùy vào độ khô hay nhão của nhân mà các bạn có thể điều chỉnh.</p>
+<p style="text-align: left;">– Cách trộn nhân như sau: đầu tiên cho chút rượu và nước, sau đó rắc một phần bột bánh dẻo vào trộn đều. Nếu thấy nhân chưa đủ kết dính thì thêm bột bánh. Nếu thấy nhân khô thì thêm nước. Rượu chỉ nên cho vừa phải, cho quá nhiều sẽ dễ bị nồng mùi và có vị đắng. Bột bánh dẻo cũng chỉ trộn vừa đủ, quá nhiều sẽ làm nhân khô và bị cứng khi bánh nguội. Trộn đến khi nào các bạn dùng thìa ép thử nhân vào thành âu, thấy nhân dính lại thành một khối là ổn.</p>
+<p style="text-align: left;"><a href="https://www.flickr.com/photos/55490207@N05/14935680942/" title="IMG_6248 by LinhTrang9185, on Flickr"><img alt="IMG_6248" class="aligncenter" height="334" loading="lazy" src="https://farm4.staticflickr.com/3904/14935680942_af2dc7fb43.jpg" width="500"/></a></p>
+<p style="text-align: left;">– Sau khi trộn xong, chia nhân thành các phần và nắm thành viên tròn. Lượng nhân sẽ bằng tổng khối lượng của tất cả các nguyên liệu (của cả hai phần A và B) cộng lại. Cách tính nguyên liệu tùy theo khuôn đã có trong các bài trước về nước đường và vỏ bánh.</p>
+<p style="text-align: left;">– Nhân thập cẩm nên dùng ngay, để tránh các loại hạt bị ỉu.</p>
+<p style="text-align: left;"><a href="https://www.flickr.com/photos/55490207@N05/14749384150/" title="IMG_6250 by LinhTrang9185, on Flickr"><img alt="IMG_6250" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3873/14749384150_9d26e47eeb.jpg" width="500"/></a></p>
+<p style="text-align: left;">——————</p>
+<h4 style="text-align: left;">NHÂN SỮA DỪA</h4>
+<p style="text-align: left;">Mình chưa ăn bánh trung thu với nhân sữa dừa bao giờ, nên có thể nhân sữa dừa này của mình sẽ không được giống lắm với nhân sữa dừa mà nhiều bạn thích và đề nghị làm thử. Nhưng với mình thì nó là một loại nhân ngon và dễ ăn. Dừa béo ngậy, dẻo và giòn giòn. Ngọt vừa phải, làm nhân bánh nướng hay bánh dẻo đều ổn cả. Mà làm thì nhanh hơn các loại nhân khác rất nhiều.</p>
+<p style="text-align: left;"><span style="color: #800000;"><strong>Nguyên liệu </strong></span></p>
+<ul style="text-align: left;">
+<li><em>200 gr dừa tươi nạo sợi </em></li>
+<li><em>90 gr sữa đặc có đường (condensed milk)</em></li>
+<li><em>100 gr nước cốt dừa (coconut milk)</em></li>
+<li><em>25 – 30 gr bột bánh dẻo/ bột bánh in (cooked glutinous rice flour)</em></li>
+<li><em>30 – 40 gr vừng/ mè trắng (white sesame seed) – rang chín </em></li>
+<li><em>5 ml (1 tsp) va-ni chiết xuất (không bắt buộc) </em></li>
+</ul>
+<p style="text-align: left;"><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p style="text-align: left;">1. Dừa tươi nạo sợi rất nhỏ. Ở bên này mình chỉ mua được dừa đông lạnh đã nạo sợi sẵn, sợi khá to nên mình cắt thành khúc nhỏ khoảng 1 cm.</p>
+<p style="text-align: left;">2. Trộn dừa với sữa đặc. Lượng sữa có thể điều chỉnh tùy theo khẩu vị (ăn nhạt hay ngọt). Để khoảng 30 – 45 phút cho dừa ngấm sữa. Nếu hỗn hợp quá khô, có thể thêm ít nước cốt dừa (từ phần cốt dừa trong công thức).</p>
+<p style="text-align: left;"><a href="https://www.flickr.com/photos/55490207@N05/14936046515/" title="IMG_6240 by LinhTrang9185, on Flickr"><img alt="IMG_6240" class="aligncenter" height="361" loading="lazy" src="https://farm6.staticflickr.com/5563/14936046515_3d9c727a7d.jpg" width="500"/></a></p>
+<p style="text-align: left;">3. Cho nước cốt dừa vào chảo chống dính. Đun lửa gần to đến khi nước cốt dừa nóng, có hơi nước bay lên từ chảo thì cho dừa trộn sữa đặc vào. Đảo đều. Hạ lửa vừa. Sên đến khi nước bay hơi gần hết, sợi dừa hơi se lại thì bắc ra khỏi bếp.</p>
+<p style="text-align: center;"><em>Cho dừa vào chảo trộn đều </em></p>
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/14913051326/" title="IMG_6241 by LinhTrang9185, on Flickr"><img alt="IMG_6241" class="aligncenter" height="336" loading="lazy" src="https://farm4.staticflickr.com/3865/14913051326_7fde96bc82.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Nhân dừa khi bắc ra khỏi bếp </em></p>
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/14932958651/" title="IMG_6243 by LinhTrang9185, on Flickr"><img alt="IMG_6243" height="333" loading="lazy" src="https://farm4.staticflickr.com/3923/14932958651_2dc2ea1ae6.jpg" width="500"/></a></p>
+<p style="text-align: left;">4. Cho bột bánh dẻo, vừng/ mè và vani (nếu có) vào trộn đều. Một công thức làm được khoảng 320 – 330 gram nhân.</p>
+<p style="text-align: center;"><em>Nhân dừa thành phẩm</em></p>
+<p style="text-align: left;"><a href="https://www.flickr.com/photos/55490207@N05/14749431038/" title="IMG_6244 by LinhTrang9185, on Flickr"><img alt="IMG_6244" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3860/14749431038_bb6f912598.jpg" width="500"/></a></p>
+<p style="text-align: left;">(*) <strong><span style="text-decoration: underline;">Ghi chú</span></strong>:</p>
+<p style="text-align: left;">– Nếu muốn nhân béo và thơm mùi sữa hơn, có thể cho thêm 20 – 25 gram sữa bột vào trộn cùng với sữa đặc và dừa.</p>
+<p style="text-align: left;">– Ở bước (3) không nên sên nhân quá khô, nhưng cũng không quá ướt vì nhiều nước nhân sẽ dễ bị hỏng và mốc hơn.</p>
+<p style="text-align: left;">– Lượng bột bánh dẻo có thể thay đổi tùy vào độ ướt của nhân. Nên rắc từng chút một và trộn thử, khi nào nhân vừa đủ độ dính, có thể nắm lại thành viên thì dừng lại.</p>
+<p style="text-align: left;">– Nhân sữa dừa thường không để được lâu ở nhiệt độ phòng, nên dùng bánh càng sớm càng tốt.</p>
+<p>———-</p>
+<p><strong>BÀI VIẾT CÙNG CHỦ ĐỀ TRUNG THU</strong></p>
+<p><strong>A. Kiến thức chung</strong></p>
+<ol>
+<li><a href="/tong-hop-cach-lam-banh-nuong-banh-deo-trung-thu-a-z/">Tổng hợp cách làm bánh nướng, bánh dẻo trung thu</a></li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+<li><a href="/trung-muoi/" target="_blank">Cách làm trứng muối</a></li>
+<li><a href="/banh-trung-thu-cach-xu-li-trung-muoi-cho-nhan-banh-trung-thu/" target="_blank">Cách xử lí trứng muối để làm nhân bánh</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" target="_blank">Cách chọn khuôn bánh trung thu</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" target="_blank">Cách làm rượu Mai Quế Lộ</a></li>
+<li><a href="/tu-lam-mau-thuc-pham-tu-rau-cu-qua-tu-nhien/" target="_blank">Tự làm màu thực phẩm từ rau củ quả tự nhiên</a></li>
+</ol>
+<p><strong>B. Cách làm bánh nướng trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-nau-nuoc-duong-cho-banh-nuong/" target="_blank">Cách nấu nước đường bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-lam-banh-nuong/" target="_blank">Cách làm bánh nướng trung thu (</a>trộn bột, bọc nhân, đóng bánh và nướng)</li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-dau-xanh-tra-xanh-la-dua/" target="_blank">Cách làm nhân đậu xanh – trà xanh – lá dứa</a></li>
+<li><a href="/banh-trung-thu-nhan-thap-cam-nhan-sua-dua/" target="_blank">Cách làm nhân thập cẩm – sữa dừa</a></li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-sen-nhuyen/" target="_blank">Cách làm nhân sen nhuyễn</a></li>
+<li><a href="/banh-trung-thu-tra-xanh-nhan-dau-do/" target="_blank">Bánh trà xanh nhân đậu đỏ</a></li>
+<li><a href="/banh-trung-thu-banh-nuong-hoa-cuc-vi-chanh-leo-nghe-tay-va-chanh-vang/" target="_blank">Bánh hoa cúc vàng (vị nghệ tây, chanh vàng, chanh leo)</a></li>
+<li><a href="/red-velvet-rose-mooncake-banh-nuong-nhan-chocolate-rum-nho/" target="_blank">Bánh nướng hoa hồng đỏ (màu đỏ củ dền, nhân café, chocolate, rum nho)</a></li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+</ol>
+<p><strong>C. Cách làm bánh dẻo trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-lam-banh-deo/" target="_blank">Cách làm bánh dẻo kiểu Việt Nam ít ngọt</a></li>
+<li><a href="/banh-trung-thu-chia-se-kinh-nghiem-lam-banh-deo/" target="_blank">Giải đáp các thắc mắc/ vấn đề thường gặp khi làm bánh dẻo</a></li>
+</ol>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

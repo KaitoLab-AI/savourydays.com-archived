@@ -1,0 +1,68 @@
+---
+title: "Nhật ký làm bánh – Phần 2: Muffins"
+date: "2011-08-10"
+slug: "nhat-ky-lam-banh-phan-2-muffins"
+categories: ["Kinh nghiệm nấu nướng", "Làm bánh"]
+tags: ["muffin"]
+image: "/wp-content/uploads/2011/08/Muffin-NKHLB.jpg"
+description: "Học cách làm bánh muffin cơ bản cùng Savoury Days, với các kĩ thuật trộn bột cơ bản và các lưu ý khi làm bánh."
+---
+
+<p><strong><em>Xem thêm về các loại bánh khác tại <a href="/?page_id=607">ĐÂY</a></em></strong></p>
+<p>Tiếp tục chủ đề bánh trái nhé ;)</p>
+<p>Thật ra so với lúc viết phần 1 của ‘nhật kí làm bánh’ thì bây giờ mình đã cảm thấy có hứng thú với baking hơn rất nhiều rồi :) Lý do là mấy hôm vừa rồi mình đã chính thức khai trương lò nướng, và những mẻ bánh đầu tiên đều (có thể nói là) thành công hơn mong đợi cả :”&gt; Bánh thơm, ngọt vừa, mềm, xốp, ẩm, để đến ngày thứ 3 ăn vẫn thấy uki, cho nên nói chung cũng có ít nhiều phấn khởi :”&gt; :”&gt; :D Với cả thật sự là có tự tay nướng bánh mới thấy việc ngồi ngắm bánh nở phồng lên trong lò và hít hà mùi thơm phức của bánh chín tỏa ra từ lò nướng hóa ra cũng là một việc rất hay ho và thú vị (đấy là chưa kể cái cảm giác sung sướng lúc lấy bánh ra từ lò và nếm thử nhé ;) )</p>
+<p>Loại bánh mà mình chọn cho tập 2 của “sự nghiệp bánh trái” của mình là Muffin.  Thật ra ý định ban đầu là Cupcake cơ vì theo ý kiến của một cao thủ làm bánh thì Cupcake là loại bánh khá dễ làm, và quan trọng hơn cả là  các “em ấy” nhìn chung đều rất rất xinh. Em nào cũng nhỏ nhắn tròn trịa, lại có vô số cách trang điểm với kem tươi, kem bơ, fondant, marzipan, … nữa chứ. Tha hồ mà có models để “tác nghiệp” nhé :-&gt; Tuy nhiên sau khi đọc chán chê các thể loại công thức Cupcake trên khá nhiều food blog với diễn đàn, và quan trọng hơn là tham khảo một số sách dạy nấu bánh, cộng với việc nướng thử Vanilla Cupcake (mở ngoặc, không bị hỏng, ăn được, đúng hơn là khá ngon nhưng vì chỉ là nướng thử cho nên nhìn chung là không đủ “tử tế” để mang đi khoe :D, đóng ngoặc) thì mình quyết định tập trung vào Muffin cho thật thành thạo với lò nướng, đường, trứng, bột.. đã rồi sẽ chuyển sang Cupcake hoặc một loại Cake nào đó sau.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6028876198/" title="Vanilla raisin muffins by LinhTrang9185, on Flickr"><img alt="Vanilla raisin muffins" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6127/6028876198_1e72fe386c.jpg" width="355"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p style="text-align: center;"><em>Ảnh: Muffin vanilla nho khô</em></p>
+<p>Có thể nhiều người sẽ cho rằng Muffin và Cupcake chẳng có gì khác nhau. Đều nho nhỏ xinh xinh, đều đựng trong cup giấy. Nhưng thật ra thì hai loại này về bản chất lại chẳng giống nhau tẹo nào. Muffin là quick bread (bánh mỳ làm nhanh), Cupcake là cake (mình không rõ lắm về việc ở nhà dịch tên các loại bánh như thế nào, nhưng có thể tạm dịch là “bánh ngọt” hay “bánh bông lan” được không nhỉ?). Vì là bánh mỳ nên Muffin không được nhẹ và mềm mịn như bánh bông lan mà “đặc” và nặng hơn. Ngoài ra Cupcake hay được trang trí với các loại kem bơ, còn Muffin thì tuy có thể ăn kèm với các loại kem bơ nhưng thường là chỉ trét lên bề mặt thôi chứ không trang trí thành hình hoa lá xoắn ốc đẹp &amp; điệu như Cupcake. Một điểm khác biệt nữa là rất nhiều công thức Muffin sử dụng dầu ăn chiết xuất từ thực vật để thay cho bơ, điểm này làm cho Muffin ít ngậy béo hơn cake, nhưng ưu điểm là giảm bớt được nguy cơ “lăn nhanh hơn đi” kể cả có ăn hơi nhiều hơn cần thiết một tí :D</p>
+<p>Thật ra mình nghĩ Muffin là loại bánh có rất nhiều ưu điểm. Chẳng hạn như là thành phần nguyên liệu để làm Muffin cực kì đa dạng, ngoài đường, bột, trứng ra thì chúng mình có thể tận dụng rất nhiều các loại nguyên liệu khác nhau để tạo ra nhiều loại Muffin theo sở thích, chẳng hạn như Muffin với hoa quả, với mứt, với các loại hạt khô hay kể cả Muffin nhân mặn (thịt hun khói, xúc xích, rau củ…). Ngoài ra Muffin cũng có thể được sử dụng cho nhiều mục đích khác nhau, không chỉ để tráng miệng mà còn có thể làm  đồ điểm tâm, hoặc cho các bữa ăn xế, hoặc đồ ăn nhẹ, hay là mang đi picnic, du lịch, thậm chí để làm  cả quà tặng nữa…</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6028821971/" title="Chocolate coffee muffin by LinhTrang9185, on Flickr"><img alt="Chocolate coffee muffin" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6122/6028821971_b2d6fc8f47.jpg" width="333"/></a></p>
+<p style="text-align: center;"><em>Ảnh: Muffin cà phê &amp; chocolate</em></p>
+<p>Bởi vì là một người mới bắt đầu học làm bánh, và lại là tự học chứ không có trường lớp hay người hướng dẫn gì, nên mình chọn muffin chứ không phải cupcake, vì cảm giác là so với cupcake, khả năng thành công với muffin cao hơn nhiều. Và làm muffin cũng đơn giản và nhanh hơn nhiều. Cụ thể, để làm muffin thì có mấy bước cơ bản sau đây: (không tính phần chuẩn bị nguyên liệu và cân đong nhé :&gt;)</p>
+<p><span id="more-532"></span></p>
+<ol start="1">
+<li>Trộn tất cả các nguyên liệu khô: bột mỳ, bột nở (baking powder), thuốc muối (baking soda), đường, muối, gia vị khô (ví dụ: bột quế), ca cao,…</li>
+<li>Trộn tất cả các nguyên liệu ướt: trứng, sữa, dầu ăn (hoặc bơ), sữa chua, nước hoa quả xay…</li>
+<li>Trộn 2 hỗn hợp ướt và khô ở trên với nhau.</li>
+<li>Đổ bột vừa trộn vào khuôn, mang đi nướng. Và…. Ola… chỉ sau tầm 20 phút thôi là chúng mình sẽ có những cái bánh muffin ấm nóng, xốp, mềm, ẩm, và thơm phức ^^</li>
+</ol>
+<p>Thế thôi!</p>
+<p>Dễ nhỉ?!! ;)</p>
+<p>Phương pháp như ở trên này trong sách làm bánh gọi là muffin-method (phương pháp muffin), ngoài muffin thì còn có thể dùng cho một số loại bánh khác như pancake, waffle.. Mình giữ nguyên tên gọi để sau này khi làm các loại bánh khác và sử dụng các phương pháp khác thì sẽ dễ phân biệt. Hơn nữa mình nghĩ là nếu nắm được các phương pháp trộn bột cơ bản thì cũng sẽ tốt hơn và chủ động hơn trong việc làm bánh về sau này – kiểu như là có background ý mà – hi vọng thế :)</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6028320861/" title="Apple muffin by LinhTrang9185, on Flickr"><img alt="Apple muffin" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6132/6028320861_0ffe75e908.jpg" width="357"/></a></p>
+<p style="text-align: center;"><em>Ảnh: Muffin táo</em></p>
+<p>Thật ra nếu đọc công thức muffin trên một số blog và website dạy làm bánh thì các bạn sẽ có thể thấy cách trộn nguyên liệu hơi khác so với trình tự ở trên. Cách trộn bột “khác” đó theo mình đọc được ở trong sách thì là cách trộn bột để làm “cake”, cũng là cách thường dùng để làm cupcake. Muffin trộn theo cách “khác” này, mặc dù có thể sẽ tạo ra loại bánh được nhiều người ưa chuộng hơn (do mềm, nhẹ và ngậy hơn), nhưng lại không phải là muffin thuần túy nữa, mà thành muffin lai cake rồi. Cho nên tạm thời mình chỉ áp dụng muffin-method thôi. Sau này khi chuyển sang làm loại bánh tiếp theo (chắc là cupcake :) thì sẽ chuyển sang nghiên cứu kĩ hơn + thực hành phương pháp dành cho cake.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6025435901/" title="Apple muffins by LinhTrang9185, on Flickr"><img alt="Apple muffins" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6132/6025435901_bdfec9c1fe.jpg" width="339"/></a><a href="http://www.flickr.com/photos/55490207@N05/6028876296/" title="Vanilla raisin muffins by LinhTrang9185, on Flickr"><br/>
+</a></p>
+<p style="text-align: center;"><em>Ảnh: Muffin táo</em></p>
+<p>Quay trở về muffin-method, như mình nói ở trên, cách làm muffin nhìn chung là nhanh và dễ, chỉ trộn tất cả lên rồi cho vào lò nướng là xong. Nhưng để có được muffin “chuẩn” thì có hai điều cần phải chú ý như sau:</p>
+<ol start="1">
+<li><span style="text-decoration: underline;"><strong>Không được trộn quá tay ở bước 3</strong></span> (là bước trộn nguyên liệu khô với nguyên liệu ướt). Trộn bột quá kỹ sẽ làm cho bánh bị chai, cứng, nở kém, không đạt được độ xốp mềm như mong muốn và có nhiều ống rỗng trong ruột bánh.</li>
+</ol>
+<p>Kinh nghiệm mà mình rút ra sau mấy mẻ muffin đầu tiên + tham khảo từ sách là sau khi đổ hỗn hợp khô vào hỗn hợp ướt (hoặc ngược lại) thì dùng muôi trộn bột trộn nhẹ nhàng và gọn (lưu ý vét thành và đáy âu). Quá trình trộn này chỉ kéo dài tầm 10-15s . Chỉ cần hỗn hợp bột khô trở thành “không khô nữa” (“tiêu chuẩn” của riêng mình là trong bát không còn nhìn thấy bột màu trắng) là dừng lại luôn. Hỗn hợp bột cuối cùng có thể sẽ lợn cợn, và vón cục nhưng mà kệ nó, sách bảo như thế mới đúng kiểu :D <strong>Đừng cố gắng để có một hỗn hợp bột mịn và mượt</strong> (hỏng đấy!!!)</p>
+<ol start="2">
+<li> Bột sau khi trộn xong thì đổ vào khuôn và <span style="text-decoration: underline;"><strong>nướng ngay</strong></span>. Bột khô và ướt có thể chuẩn bị trước không vấn đề gì, nhưng sau khi hai thứ này đã được đổ chung vào với nhau rồi, nếu không nướng ngay thì có thể làm cho bánh ở mẻ sau nở kém và không được xốp mềm như mong muốn. Cho nên chẳng hạn nếu muốn làm nhiều thì tốt nhất là bạn hãy chuẩn bị sẵn hai hỗn hợp khô và ướt, nướng xong mẻ đầu tiên rồi mới trộn và nướng tiếp mẻ thứ hai.</li>
+</ol>
+<p>Về muffin-method thì chỉ có hai chú ý như vậy thôi. Cũng không phải là phức tạp lắm, nhỉ? :) Ngoài ra thì có một vài lưu ý chung chung khác cho tất cả các loại bánh mà mình học được là để có mẻ bánh ngon nhất thì các nguyên liệu làm bánh cần phải tươi, không nên sử dụng nguyên liệu cũ đã để lâu ngày vì điều này có thể gây ảnh hưởng đến mùi vị và chất lượng bánh (độ nở, xốp mềm…).  Ngoài ra, các nguyên liệu nên được để ở nhiệt độ phòng. Tức là nếu trứng và sữa bảo quản trong tủ lạnh thì lấy ra cho bớt lạnh rồi mới dùng nhé :)</p>
+<p>Tạm thời là như vậy. Bài tiếp theo mình sẽ nói qua về các dụng cụ và nguyên liệu cần chuẩn bị, và giới thiệu với mọi người một vài công thức muffin mà mình thử nghiệm trong mấy hôm vừa rồi. À với cả vì mình vẫn đang là tập sự viên trong lĩnh vực bánh trái nên nếu các chị em (và cả anh em) nếu thấy trong phần bài viết trên của mình có chỗ nào cần sửa hay bổ sung thì cho mình biết với nha. Cảm ơn các bạn nhiều :)</p>
+<p>Phần tiếp: Dụng cụ và nguyên liệu cần thiết – Công thức vanilla muffin cơ bản</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6028876296/" title="Vanilla raisin muffins by LinhTrang9185, on Flickr"><img alt="Vanilla raisin muffins" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6083/6028876296_17e304fc8b.jpg" width="345"/></a></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

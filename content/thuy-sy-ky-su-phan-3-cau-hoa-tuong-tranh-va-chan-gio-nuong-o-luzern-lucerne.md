@@ -1,0 +1,51 @@
+---
+title: "Thụy Sỹ ký sự – Phần 3: Cầu hoa, tường tranh và chân giò nướng ở Luzern (Lucerne)"
+date: "2011-12-26"
+slug: "thuy-sy-ky-su-phan-3-cau-hoa-tuong-tranh-va-chan-gio-nuong-o-luzern-lucerne"
+categories: ["Du lịch"]
+tags: ["châu Âu", "du lịch", "phong cảnh đẹp", "thụy sỹ"]
+image: "/wp-content/uploads/2011/12/Luzern.jpg"
+description: ""
+---
+
+<p><strong>Xem các phần khác của <em>Thụy Sỹ kí </em>sự tại <a href="/?page_id=604">ĐÂY </a></strong></p>
+<p>Tình yêu Thụy Sỹ của mình – ngoảnh đi ngoảnh lại thế mà đã 4 tháng từ lúc đi chơi :-&lt; Ở trong bài ký sự phần 1 mình có nói là phải viết nhanh không có chẳng mấy chốc rồi sẽ quên mất. Giờ thì nỗi lo ấy đã gần như thành sự thật rồi :-( Vẫn còn tận một nửa chuyến đi với hai thành phố nữa mà giờ chỉ nhớ được mang máng các địa danh &amp; sự kiện thôi :-( Thật là chán mình quá đi! :-&lt;</p>
+<p>Ở cuối phần 2 mình đã tạm biệt Interlaken để đến Luzern (Lucerne) rồi nhỉ. Luzern thật ra không phải là nơi có nhiều thứ để chơi. Bọn mình chọn thành phố này một phần là do nó cũng là điểm xuất phát của nhiều chuyến du ngoạn lên núi hay đi thuyền dạo hồ. Kế hoạch ban đầu là như vậy, nhưng cuối cùng thì vì mải mê chơi ở Interlaken quá nên bọn mình chỉ có một ngày và một đêm ở Luzern. Thời gian ngắn, lại cộng thêm vì quá mải chơi ở Interlaken (và mải chụp ảnh nữa :D) cho nên khi rời Interlaken thì bọn mình cũng khá mệt, nên quyết định sẽ dành một ngày ở Luzern để đi dạo loanh quanh và nghỉ ngơi lấy sức để… chơi tiếp những ngày sau đấy :P</p>
+<p style="text-align: center;"><em>Cầu Chaple và Một góc Old Town của Luzern</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6569725891/" title="IMG_9018 by LinhTrang9185, on Flickr"><img alt="IMG_9018" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7009/6569725891_2c19cf5b9c.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Từ Interlaken đi tàu đến Luzern mất khoảng 2 tiếng đồng hồ. Có lẽ sẽ là thiếu sót nếu không kể về chuyện tàu xe ở Thụy Sỹ. Mình thật ra không đi du lịch nhiều (nếu so với dân “phượt” chính hiệu :P), chỉ đi được mấy nơi lớn và nổi tiếng ở châu Âu thôi, nhưng phần lớn là di chuyển bằng tàu nên mình cũng có kha khá “kinh nghiệm” với việc đi tàu và các loại tàu ở mấy nước xung quanh như Đức, Pháp, Hà Lan, Ý … Nếu mang tàu hỏa giữa các nước đi so sánh thì chắc tàu của Thụy Sỹ là số một. Tàu loại nào cũng sạch và đẹp hết ý, khoang hạng hai của tàu chậm tại Thụy Sỹ có khi cũng ngang ngửa với tàu nhanh của Đức. Và tất nhiên là tiền nào của nấy, giá vé tàu ở đây cũng hết ý luôn :-| Nhưng lần này đi vì bọn mình đi khá nhiều nên có mua một loại thẻ giảm giá vé tàu ngắn hạn của Thụy Sỹ, tuy là bản thân cái vé giảm giá cũng đắt nhưng tính tổng cộng thì cũng tiết kiệm được kha khá. Các bạn nào sang Thụy Sỹ du lịch thì nhớ để ý nghiên cứu vụ vé tàu này nhé :)</p>
+<p>Luzern tuy nói là nhỏ, nhưng ít ra là còn “thành phố” hơn Interlaken :D Một ví dụ đầu tiên là ngay tại cửa ga trung tâm Luzern có rất nhiều cửa hàng bán đồ ăn nhanh đủ loại như McDonald, Burger King, … có cả siêu thị nữa. Cho nên có một “đứa” sau khi từ ga đi ra nhìn thấy một mớ cửa hàng ăn nhanh như vậy thì mắt mũi cứ gọi là sáng rực như đèn pha ô tô :D Làm sao mà không sung sướng cho được khi cả mấy ngày trước đấy đồ ăn chủ yếu đều là bánh mỳ và đồ nguội mua từ siêu thị. Nhất là với cái bao tử vốn dĩ vẫn được chiều chuộng quá mức của mình nữa chứ. Có lẽ đấy là lần đầu tiên trong đời mình cảm thấy sung sướng và hạnh phúc như vậy khi nhìn thấy cửa hàng ăn nhanh :D. Mặc dù giá cả ở đây vẫn đắt nhưng vẫn còn đỡ hơn mấy bữa cơm 40 EUR ở Interlaken. Ngoài chuỗi cửa hàng ăn nhanh này ra thì bọn mình cũng tìm thấy vài cái siêu thị ở quanh ga và khách sạn. So với siêu thị ở Interlaken thì ở đây có nhiều lựa chọn hơn hẳn, giá cả cũng rẻ hơn nữa. Vấn đề ăn uống thế là có thể tương đối yên tâm :)</p>
+<p style="text-align: center;"><em>Một góc khác của Luzern nhìn từ bờ bên kia sông :)</em></p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2011/12/IMG_9114.jpg"><img alt="" class="aligncenter size-large wp-image-1523" height="327" loading="lazy" src="/wp-content/uploads/2011/12/IMG_9114-1024x682.jpg" title="IMG_9114" width="491"/></a></p>
+<p>Một trong những điểm nổi bật nhất của Lucern có lẽ là chiếc cầu Chapel (Chapel Bridge). Cầu được làm hoàn toàn bằng gỗ và vắt chéo (chứ không phải là vắt ngang) qua sông. Trước khi đi Thụy Sỹ bọn mình có được cảnh báo là ở đây mưa rất nhiều, nhất là lại vào thời gian đầu thu như khi bọn mình đi chơi nữa. Nhưng thật may là những ngày bọn mình ở Interlaken và Luzern trời đều đẹp tuyệt vời. Mát mẻ, trời xanh cao vút và nắng vàng óng ả như rót mật. Mình không biết cây cầu Chapel này vào mùa đông, khi tuyết rơi thì sẽ thế nào. Nhưng như ngày mình đến thì mình cảm giác trời xanh và nắng vàng dường như làm cho cây cầu trở nên đẹp hơn. Nhờ trời xanh nên mặt nước cũng xanh làm nổi bật màu nâu gụ của gỗ và những lẵng hoa tươi tắn và rất rạng rỡ treo ở hai bên lan can của cầu. Và nhờ ánh nắng vàng nên mọi thứ vốn đẹp lại càng trở nên lấp lánh hơn. Khung cảnh không chỉ thơ mộng mà còn thanh bình và yên ả, khiến cho người ta cứ muốn đứng ngắm mãi thôi.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6569725033/" title="IMG_9011 by LinhTrang9185, on Flickr"><img alt="IMG_9011" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7152/6569725033_5ee95db081.jpg" width="500"/></a></p>
+<p style="text-align: center;"><span id="more-1502"></span></p>
+<p style="text-align: center;"><em>Cầu Chapel và hoa trên thành cầu </em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6569728191/" title="IMG_9026 by LinhTrang9185, on Flickr"><img alt="IMG_9026" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7146/6569728191_e88348fab1.jpg" width="500"/></a></p>
+<p>Đi qua cầu, sang bờ bên kia sông là đến khu Old Town (tạm dịch: phố cổ) của Luzern. Có lẽ vì mình vốn thích những con phố hẹp, lát gạch ô nhỏ, và nhất là những đoạn dốc lên xuống nên mình đặc biệt thích khu Old Town này. Một điểm thú vị nữa là trên tường của rất nhiều ngôi nhà ở đây có vẽ tranh. Tranh thực sự chứ không chỉ là các hình vẽ trang trí hay Graffiti đâu. Có lẽ rất nhiều bức tranh gắn với các câu truyện hay sự tích nào đó, mình không hiểu hết được nên chỉ thấy… đẹp thôi. Nhiều bức tranh có lẽ đã được vẽ từ lâu lắm, vậy mà vẫn còn giữ được nguyên vẹn nét vẽ, màu sắc cũng không phai mờ.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p style="text-align: center;"><em>Một trong những bức tranh trên tường ở Luzern </em></p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2011/12/IMG_9092.jpg"><img alt="" class="aligncenter size-large wp-image-1520" height="334" loading="lazy" src="/wp-content/uploads/2011/12/IMG_9092-1024x682.jpg" title="IMG_9092" width="502"/></a></p>
+<p>Ngoài những ngôi nhà có tranh trên tường ra thì ở trong khu Old Town này với mình còn có một điểm cộng khác, là ở đây có rất nhiều cửa hàng và hàng ăn. Nếu như nhìn thấy cửa hàng đồ ăn nhanh trước cửa ga mắt mình sáng như đèn pin thì đến đây mắt chắc phải thành đèn pha ô tô rồi :P Đồ ăn không rẻ, nhưng so với mức giá cả đắt đỏ của Thụy Sỹ thì không phải là đắt. Bữa ăn đáng nhớ nhất của mình ở Luzern là trong một cửa hàng thuộc một siêu thị rất lớn. Không biết có phải vì nhà hàng gắn liền với siêu thị không mà giá ở đây mình nghĩ là rẻ, đồ ăn lại có nhiều thứ để lựa chọn. Và đây là một phần bữa ăn của bọn mình</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6569728727/" title="IMG_9083 by LinhTrang9185, on Flickr"><img alt="IMG_9083" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7029/6569728727_d8bc39ff21.jpg" width="500"/></a></p>
+<p>Cái chân giò nướng trong hình, nếu mình nhớ không nhầm thì có giá 7.5Fr – khoảng 7EUR – và rất ngon, thơm nức mũi và mềm ơi là mềm, không thua kém là mấy so với món chân giò nướng mình cực kì thích ở Berlin :P Điểm trừ duy nhất cho khu Old Town này có lẽ là sự ồn ào. Vì ở đây tập trung nhiều cửa hàng nên người đi lại cũng nhiều, tạo ra một không khí – theo mình – không được phù hợp lắm với sự cổ kính toát lên từ những ngôi nhà và các con dốc nhỏ nơi đây. Nhưng ở một vài cửa hàng cũng có nhiều thứ hay, ví dụ như thế này :)</p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2011/12/IMG_9086.jpg"><img alt="" class="aligncenter size-large wp-image-1521" height="327" loading="lazy" src="/wp-content/uploads/2011/12/IMG_9086-1024x682.jpg" title="IMG_9086" width="491"/></a></p>
+<p>Vì chỉ có một ngày nên bọn mình cũng không thăm quan được nhiều nơi ở Luzern, chủ yếu là đi dạo loăng quăng và chụp ảnh thôi :”&gt; Cho nên chuyện để kể cũng không nhiều lắm. Phần cuối cùng trong loạt bài ký sự này – về Zurich – nơi bọn mình dành đến 4 ngày để khám phá, có lẽ sẽ có nhiều chuyện hấp dẫn hơn, đặc biệt là với bạn nào  có tâm hồn ăn uống dào dạt  như mình (may quá, tuy là đã quên nhiều nhưng riêng chuyện ăn uống ở Zurich thì vẫn nhớ như in :D) Và phần cuối cùng này – hứa có cái bóng đèn – sẽ viết sớm ;)</p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

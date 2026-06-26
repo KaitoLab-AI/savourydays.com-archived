@@ -1,0 +1,50 @@
+---
+title: "Cách làm NỘM ĐU ĐỦ BÒ KHÔ"
+date: "2019-01-29"
+slug: "cach-lam-nom-du-du-bo-kho"
+categories: []
+tags: []
+image: "/wp-content/uploads/2019/01/cách-làm-nộm-bò-khô-banner.jpg"
+description: "Cách làm nộm đu đủ bò khô: Món nộm thần thánh gắn liền với tuổi thơ của mình, từ Hàm Long cho tới Bờ Hồ, chỉ cần nghĩ tới món nộm giòn sần sật với nước trộn"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #000000;">Món nộm thần thánh gắn liền với tuổi học trò và sinh viên của mình đây. Hà Nội có rất nhiều hàng nộm nổi tiếng gắn liền với các con phố như: Nộm Hàm Long, Lê Văn Hưu, Bờ Hồ… Mỗi hàng lại có bí quyết riêng, cực kỳ đặc trưng cho phần nước trộn, không hàng nào giống hàng nào nhưng đều rât ngon và dễ gây nghiện. Nguyên liệu chủ đạo của món nộm này là đu đủ xanh, cà rốt, lạc rang, rau kinh giới, phần thịt thì biến tấu đủ loại vô cùng phong phú: Thịt bò khô, chim quay, gan rán, nem chua…  Loại nào nào đi kèm cũng hợp.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7997" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/nombokhofinal-1024x683.jpg" width="1024"/></p>
+<h2>CÁCH LÀM NỘM ĐU ĐỦ BÒ KHÔ</h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu:</strong></span></p>
+<ul>
+<li><em><span style="color: #000000;">200 gr đu đủ xanh</span></em></li>
+<li><em><span style="color: #000000;">150 gr cà rốt</span></em></li>
+<li><em><span style="color: #000000;">100 gr thịt bò khô (các bạn có thể xem <a href="/thit-bo-kho-thit-bo-uot/"><strong>cách làm thịt bò khô</strong></a> tại đây nha)</span></em></li>
+<li><em><span style="color: #000000;">50 gr lạc/ đậu phộng</span></em></li>
+<li><em><span style="color: #000000;">20 gr rau kinh giới</span></em></li>
+<li><em><span style="color: #000000;">10 gr tỏi</span></em></li>
+<li><em><span style="color: #000000;">50 gr đường</span></em></li>
+<li><em><span style="color: #000000;">50 ml nước mắm</span></em></li>
+<li><em><span style="color: #000000;">50 ml nước cốt chanh</span></em></li>
+<li><em><span style="color: #000000;">1 quả ớt</span></em></li>
+<li><em><span style="color: #000000;">15 gr muối</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm:</strong></span></p>
+<p><span style="color: #000000;">1. Sơ chế nguyên liệu:</span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="color: #000000;">– Đu đủ xanh, cà rốt gọt vỏ, nạo/ thái sợi thật mỏng, dài.</span></p>
+<p><span style="color: #000000;">– Thịt bò khô xé sợi mỏng</span></p>
+<p><span style="color: #000000;">– Lạc rang chín, để nguội, se bỏ vỏ, giã dập</span></p>
+<p><span style="color: #000000;">– Rau kinh giới nhặt lấy lá, rửa sạch</span></p>
+<p><span style="color: #000000;">– Tỏi bóc vỏ, băm nhỏ lẫn cùng với ớt</span></p>
+<p><span style="color: #000000;">2. Cho 1 thìa cafe muối vào bóp nhẹ cùng đu đủ khoảng 2 – 3 phút rồi rửa sạch, vắt nhẹ cho bớt nước. Trộn cà rốt và đu đủ với 1 – 1.5 thìa canh đường (15 – 20 gram), để 15 – 20 phút rồi vắt nhẹ, bỏ nước đi. Cách làm này sẽ giúp cho đủ đủ và cà rốt rất giòn.</span></p>
+<p><span style="color: #000000;">3. Làm nước trộn: Trong 1 bát con, cho vào 50 ml nước mắm, 30 gr đường, 50 ml nước cốt chanh, khuấy thật kĩ đến khi tan hết đường. Cho ớt, tỏi băm nhuyễn vào, đảo đều. Nếm lại cho vừa khẩu vị. Lưu ý vì một phần đường đã có trong đu đủ và cà rốt nên nước trộn không cần ngọt nhiều.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7994" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/nombokho3-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">4. Trộn đều đu đủ, cà rốt, bò khô, rau kinh giới trong âu trộn, rưới nước sốt vào và trộn thật đều.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7995" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/nombokho4-1024x683.jpg" width="1024"/></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #000000;">5. Gắp ra đĩa, rắc lạc rang giã dập lên trên và thưởng thức thôi.</span></p>
+<p><span style="color: #000000;">Yêu cầu thành phẩm: Nộm đu đủ, cà rốt ngấm đậm đà đủ vị chua,  mặn, ngọt, hơi cay, rau giữ được độ giòn, màu sắc tươi sáng. Ăn 1 miếng đầy đủ rau giòn giòn, thịt bò dai dai, ngọt ngọt, lạc rang bùi bùi, tất cả hương vị hòa quyện đầy đủ trong miệng, thật ngon :)</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7996" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/nombokho5-1024x682.jpg" width="1024"/></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

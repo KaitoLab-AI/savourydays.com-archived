@@ -1,0 +1,45 @@
+---
+title: "Trang trí bánh – Tổng hợp các loại kem trang trí bánh cơ bản"
+date: "2013-11-12"
+slug: "trang-tri-banh-tong-hop-cac-loai-kem-trang-tri-banh-co-ban"
+categories: ["Trang trí bánh kem"]
+tags: ["trang trí bánh kem"]
+image: "/wp-content/uploads/2013/11/2233_1.jpeg"
+description: "trang trí bánh kem, các loại kem trang trí bánh"
+---
+
+<p>Ấp ủ viết một loạt bài về trang trí bánh từ tận…. năm ngoái mà đến tận bây giờ mới thực hiện được :”&gt;</p>
+<p>Thật ra với trang trí bánh thì mình vẫn chỉ là “người mới” hay là a-ma-tơ thôi, nhưng cũng chính vì lí do này mà mình muốn viết các bài về trang trí bánh, vì sẽ có thêm động lực để tìm hiểu lĩnh vực có rất nhiều thứ hay ho này :) Mục tiêu của mình cũng không phải là để trở thành người trang trí bánh chuyên nghiệp. Vì muốn thế phải có thời gian và cần cả năng khiếu, sự khéo léo… và nhiều nhiều thứ khác nữa. Mình chỉ hi vọng là sau này khi có dịp cần hay muốn làm một món quà đặc biệt để tặng cho bạn bè, người thân, thì hoàn toàn có thể tự làm được một chiếc bánh thật ngon và đẹp. Đơn giản thế thôi. Nên có thể chuỗi bài sắp tới này của mình sẽ không thật sự được chuyên nghiệp với các kĩ thuật phức tạp, nhưng cũng như “nhật kí học làm bánh”, mình muốn tập trung vào quá trình, các kinh nghiệm, các lưu ý… để cả những bạn chưa biết nhiều về làm bánh cũng đều có thể làm theo dễ dàng và thành công.</p>
+<p><a href="/wp-content/uploads/2013/11/2233_1.jpeg"><img alt="2233_1" class="aligncenter size-full wp-image-4940" height="380" loading="lazy" sizes="(max-width: 380px) 100vw, 380px" src="/wp-content/uploads/2013/11/2233_1.jpeg" width="380"/></a></p>
+<p> </p>
+<p style="text-align: center;"><em>Hình minh họa từ: http://www.lakeland.co.uk/2233/Professional-Piping-Set</em></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Tất cả các bài viết trong chuỗi bài này đều sẽ được đánh dấu với tiêu đề “trang trí bánh”, và sẽ chia thành các phần chính là:</p>
+<p>* Các loại kem trang trí: Phân loại và cách làm, lưu ý khi sử dụng với các loại kem trang trí bánh phổ biến như kem tươi, kem topping, kem bơ, ganache…</p>
+<p>* Các dụng cụ trang trí bánh cơ bản và cách sử dụng</p>
+<p>* Cách trang trí bánh kem đơn giản: chà láng, vẽ họa tiết…</p>
+<p>Nhìn chung, các thông tin đều không phải là rất mới. Nếu Google, các bạn cũng có thể tìm thấy rất nhiều tài liệu (mình cũng là Google mà tự học lại thôi :) ). Nhưng mình nghĩ nếu ghi lại các thứ một cách thật tập trung, có hệ thống thì sau này nếu cần tra cứu lại, và đặc biệt là với các bạn mới học, chắc cũng dễ và tiện hơn.</p>
+<p>Vài dòng mở đầu như vậy, giờ là vào phần chính nhé.</p>
+<p>Có rất nhiều loại kem trang trí bánh khác nhau. Nếu đọc trong sách tiếng Anh, các bạn có thể sẽ gặp hai thuật ngữ thông dụng nhất là <em>frosting</em> và <em>icing</em>. <em><strong>Frosting</strong></em><strong> </strong>dùng để chỉ các loại kem trang trí dựa trên bơ sữa (<em>cream/ butter base</em>) trong khi <strong><em>Icing</em></strong><em> </em>nghiêng về đường nhiều hơn. Cho nên mùi vị của <em>frosting </em>cũng thường là ngậy béo và đặc hơn, trong khi <em>icing</em> sẽ nhẹ nhàng và ngọt, nghiêng về hướng nhiều đường và ít hoặc không có kem hơn. Ví dụ cho <em>frosting </em>là kem bơ, kem sữa tươi, ví dụ cho <em>icing </em>là royal icing (kem đường để vẽ lên bánh quy) hay fondant, mazipan…</p>
+<p>Nếu chia nhỏ hơn nữa từ <em>frosting </em>và <em>icing, </em>chúng ta sẽ thấy có rất nhiều loại kem trang trí khác nhau, nhưng các loại thường gặp và thông dụng nhất là kem bơ, kem tươi, kem topping, đường icing, fondant, và ganache. Dưới đây là một bảng tổng kết các đặc điểm chính của từng loại kem. Mình tham khảo từ <a href="http://my.opera.com/CakesondemandbyDuriana/blog/show.dml/12052142">blog của chị Thu Trà</a>, là một blogger ẩm thực rất tài năng, có nhiều công thức bánh ngon và đặc biệt là trang trí bánh rất đẹp :)</p>
+<p>Đây là một trong những bảng tổng kết mà mình nghĩ có rất đầy đủ thông tin cơ bản và cần thiết. Phần 1 này xin được dừng tại đây, bài tiếp theo mình sẽ viết cụ thể về cách làm, cách sử dụng cho từng loại kem cụ thể.</p>
+<p><a href="/wp-content/uploads/2013/11/cacloaikem.jpg"><img alt="cacloaikem" class="aligncenter size-full wp-image-4941" height="595" loading="lazy" sizes="(max-width: 558px) 100vw, 558px" src="/wp-content/uploads/2013/11/cacloaikem.jpg" width="558"/></a></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p> </p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

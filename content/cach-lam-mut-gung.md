@@ -1,0 +1,48 @@
+---
+title: "Cách làm MỨT GỪNG"
+date: "2018-01-25"
+slug: "cach-lam-mut-gung"
+categories: []
+tags: []
+image: "/wp-content/uploads/2018/01/cach-lam-mut-gung.jpg"
+description: "cách làm mứt gừng dẻo, ngọt, thơm ngon cho ngày Tết. Công thức có kèm hình minh hoạ chi tiết các bước."
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<h1></h1>
+<p>Ngày Tết se lạnh được ngồi cùng gia đình, người thân, bạn bè, nhấm nháp những lát mứt gừng bên cạnh chén trà nóng có lẽ là khoảng thời gian hạnh phúc của rất nhiều người. Mứt gừng không chỉ để dùng trong dịp Tết mà là món ăn-bài thuốc nên có trong nhà quanh năm, nhờ khả năng giải độc, chống nôn mửa, bụng đầy trướng và đau bụng do ăn uống không điều độ… Có lẽ chính vì những lí do này mà mứt gừng, kẹo gừng, gừng sấy vẫn luôn là nằm trong nhóm những loại mứt kẹo đắt hàng nhất. Tuy rằng mua rất dễ, nhưng hãy thử dành thời gian để tự làm một lọ mứt gừng của riêng mình nhé, bạn sẽ thấy đáng công lắm ấy! Khác hẳn mứt gừng mua sẵn, mứt gừng tự làm không có quá nhiều đường, cũng không khô cứng mà dẻo thơm, có chút cay cay quyện với vị ngọt vừa phải, đảm bảo “ăn-là-nghiền-luôn”.</p>
+<p><img alt="" class="aligncenter size-large wp-image-7486" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/01/mutgungfinal-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<ul>
+<li><em>200 gram gừng tươi</em></li>
+<li><em>20 gram muối</em></li>
+<li><em>160 gram đường trắng</em></li>
+<li><em>2 quả chanh</em></li>
+</ul>
+<p><strong><span style="color: #800000;">Cách làm</span></strong></p>
+<p>1. Lưu ý về nguyên liệu:</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>– <strong>Gừng: </strong>chọn gừng ta và non sẽ cho ra mứt ngon nhất; tránh gừng quá già vì các lát mứt sẽ dễ bị nhiều xơ và vị cay nồng quá nhiều.</p>
+<p>– Lượng khẩu phần trong công thức chỉ mang tính tượng trưng, nếu làm nhiều hay ít hơn, bạn chỉ cần tăng hoặc giảm lượng đường, muối theo cùng tỉ lệ tăng hay giảm gừng là được.</p>
+<p>2. Gừng tươi ngâm nước khoảng 15 phút rồi dùng thìa hoặc dao cạo sạch vỏ sau đó rửa lại bằng nước sạch. Pha một âu nước nhỏ với ½ quả chanh, thái gừng thành từng lát với độ dày 1 – 2 mm rồi thả ngay vào âu nước chanh. Nước chanh giúp gừng giữ được màu vàng sáng và không bị thâm/xỉn lại. Nếu muốn ăn mứt gừng hơi có độ dẻo, bạn có thể thái lát hơi dày một chút, khoảng 2 – 3mm, tuy nhiên không được thái quá dày vì mứt gừng sẽ ướt ở bên trong và dễ chảy nước khi bảo quản.</p>
+<p><img alt="" class="aligncenter size-large wp-image-7487" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/01/mutgung2-1024x683.jpg" width="1024"/></p>
+<p>3. Sau khi gừng đã được cạo vỏ, thái lát và ngâm nước chanh, vớt ra rổ để một lát cho ráo. Cho gừng vào âu sạch, rắc muối và bóp nhẹ tay trong vòng 10’. Gừng sẽ mềm hơn, có thể dễ dàng uốn cong các lát gừng. Việc bóp muối sẽ làm cho gừng tiết ra bớt phần nước hăng và cay (có màu đục). Sau 10’, xả gừng dưới nước sạch vài lần cho gừng hết sạch muối, đổ ra rổ để ráo bớt nước.</p>
+<p><img alt="" class="aligncenter size-large wp-image-7488" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/01/mutgung3-1024x683.jpg" width="1024"/></p>
+<p>4. Đun một nồi nước nhỏ có pha nước cốt ½ quả chanh để luộc gừng (lượng nước đủ để ngập quá gừng khoảng 1 đốt ngón tay). Khi nước sôi, cho gừng vào luộc. Để lửa trung bình, luộc khoảng 10 – 15’ sau đó đổ ra rổ, xả sạch với nước lạnh. Lặp lại việc luộc gừng này khoảng 3-4 lần để gừng bớt vị cay (hoặc nếm thử khi nào thấy vị cay vừa phải thì dừng lại). Đổ gừng ra rổ, xóc cho ráo hết nước.</p>
+<p><img alt="" class="aligncenter size-large wp-image-7489" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/01/mutgung4-1024x683.jpg" width="1024"/></p>
+<p>5. Cho gừng vào chảo sâu lòng hoặc nồi. Cho đường vào theo tỉ lệ 10 phần gừng : 8 phần đường. Để khoảng 1 – 1.5 giờ tới khi đường tan hết thì sên mứt.</p>
+<p><img alt="" class="aligncenter size-large wp-image-7490" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/01/mutgung5-1024x683.jpg" width="1024"/></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>6. Bắc chảo gừng ướp đường lên bếp. Đun lửa to trong khoảng thời gian nước đường còn nhiều. Khi nước đường bắt đầu cạn lại thì lập tức hạ lửa. Gừng lúc này sẽ trở nên mềm và trong suốt, hơi kết dính với nhau.</p>
+<p><img alt="" class="aligncenter size-large wp-image-7491" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/01/mutgung6-1024x683.jpg" width="1024"/></p>
+<p>7. Tiếp tục sên gừng trên lửa nhỏ cho tới khi thấy trên vành chảo có hạt đường kết tinh li ti. Trong chảo gừng vẫn còn hơi ướt nhưng đầu đũa bắt đầu có hạt đường nhỏ thì tắt bếp, bắc chảo ra khỏi bếp.</p>
+<p><img alt="" class="aligncenter size-large wp-image-7493" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/01/mutgung7-1024x683.jpg" width="1024"/></p>
+<p>8. Tiếp tục đảo đều gừng liên tục để đường khô (nhờ sức nóng còn lại trong chảo) và tạo thành một lớp đường mịn nhỏ bao quanh miếng gừng. Lưu ý: khoảng thời gian đường kết tinh xung quanh gừng là rất rất nhanh, đôi khi chỉ cần 1- 2 phút là đã có sự biến chuyển rõ ràng. Bởi vậy cần bắc chảo ra khỏi bếp đủ sớm, nếu để chảo trên bếp quá lâu, gừng dễ bị khô cứng, không còn độ dẻo của mứt nữa.</p>
+<p><img alt="" class="aligncenter size-large wp-image-7492" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/01/mutgung8-1024x683.jpg" width="1024"/></p>
+<p>9. Để gừng nguội trong chảo. Khi gừng đã nguội hẳn, cho vào lọ thủy tinh/ hộp kín (có túi hút ẩm). Bảo quản ở nhiệt độ phòng, nơi khô ráo thoáng mát.</p>
+<p>Phần đường thừa ra sau khi sên mứt có thể dùng để sên mẻ mứt tiếp theo hoặc cho vào trà nóng. Nếu gừng bị chảy nước, chỉ cần lăn gừng qua đường này, hong ở nơi thoáng gió để gừng khô trở lại là được.</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

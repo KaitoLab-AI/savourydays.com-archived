@@ -1,0 +1,87 @@
+---
+title: "Thông báo – cuộc thi “Niềm vui từ bếp – 2016”"
+date: "2016-10-04"
+slug: "thong-bao-cuoc-thi-niem-vui-tu-bep-2016"
+categories: ["Chuyện hàng ngày"]
+tags: ["nhật kí học làm bánh"]
+image: "/wp-content/uploads/2016/10/Poster-v1-722x1024.jpg"
+description: ""
+---
+
+
+<p>Nếu là bạn đọc lâu năm của Savoury Days, hẳn bạn vẫn còn nhớ cuộc thi “Niềm vui từ bếp” được tổ chức trong 2 năm gần đây. Với mục đích chia sẻ thành quả và niềm vui trong căn bếp của riêng mình để cảm hứng vào bếp lan rộng hơn nữa, “Niềm vui từ bếp” đã nhận được sự hưởng ứng nhiệt tình từ bạn đọc từ khắp nơi trên thế giới. Và hai năm qua, bên cạnh những tập <strong><a href="/gioi-thieu-sach/" target="_blank">“Nhật ký học làm bánh”</a></strong> bản in thì tại Savoury Days còn có hai tập “Nhật ký học làm bánh (NKHLB)” “bản điện tử” khác. Trong mỗi tập NKHLB này lưu giữ rất nhiều tấm ảnh chụp thành quả của bạn đọc, những món bánh ngọt thơm xinh xắn và trên tất cả là những dòng nhật ký tràn đầy cảm hứng và niềm hạnh phúc khi chinh phục món bánh mới của các bạn :)</p>
+<p>Từ những thành công này, năm nay Savoury Days (SD) tiếp tục tổ chức “Niềm vui từ bếp” lần thứ 3. Mong là sẽ tiếp tục nhận được sự hưởng ứng nhiệt tình của tất cả các bạn. Vì năm nay có hai sự kiện khá quan trọng là việc SD tròn 5 tuổi và <a href="/cap-nhat-tinh-hinh-phat-hanh-sach-nhat-ky-hoc-lam-banh-tap-3-khi-bep-vang-lo/" target="_blank">ra mắt tập 3 của sách Nhật ký học làm bánh</a> nên hoạt động “Niềm vui từ bếp” cũng được tổ chức xôm tụ hơn các năm trước một chút, cụ thể như sau nhé.</p>
+<p>Trước hết là “Niềm vui từ bếp” năm nay không chỉ là hoạt động giữa SD và bạn đọc mà đã nhận được sự ủng hộ và hỗ trợ rất lớn từ <a href="http://nhanam.com.vn/" rel="nofollow" target="_blank"><strong>Nhã Nam</strong></a>, <a href="http://zojirushi.vn/" rel="nofollow" target="_blank"><strong>công ty Zojirushi Việt Nam</strong></a>, <a href="https://www.facebook.com/Nguyenlieu.Takeaway/" rel="nofollow" target="_blank"><strong>công ty TNHH Yên Nhiên</strong></a> và <strong><a href="http://khuonbanhnini.com/" rel="nofollow" target="_blank">Nini shop</a></strong>.</p>
+<p>Về nhà tài trợ đầu tiên – <a href="http://nhanam.com.vn/" rel="nofollow" target="_blank"><strong>Nhã Nam</strong></a> – đơn vị phát hành 3 tập sách “Nhật ký học làm bánh” là một tên tuổi lớn trong làng xuất bản Việt Nam nên chắc mình không cần “nhiều lời” giới thiệu nữa nhỉ? :)</p>
+<p>Nhà tài trợ thứ 2: <a href="http://zojirushi.vn/" rel="nofollow" target="_blank"><strong>Zojirushi</strong></a> tuy đến từ nước Nhật xa xôi nhưng có lẽ đã trở thành người bạn thân thiết với nhiều bà nội trợ Việt Nam với hai dòng sản phẩm nổi bật nhất là nồi cơm điện và các dụng cụ giữ nhiệt (bình nước nóng, camen/ hộp đựng cơm). Nhờ hệ thống áp suất cùng cảm ứng nhiệt hiện đại và khả năng “tự đánh giá” tình trạng gạo, nước trong nồi để điều chỉnh thời gian nấu cơm cho phù hợp mà cơm nấu với nồi của Zojirushi luôn rất dẻo thơm, không chỉ với gạo tẻ, gạo nếp mà cả gạo lứt và các thứ ngũ cốc vốn cần thời gian nấu dài hơn thông thường. Ngoài ra, một tính năng mà mình rất thích ở nồi cơm Zojirushi là chức năng làm bánh ngọt, rất tiện dụng đặc biệt trong những ngày trời nóng, và bánh làm ra thì luôn luôn ổn chứ không ngại chuyện xẹp lõm như nướng lò.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Nhà tài trợ thứ 3: <a href="https://www.facebook.com/Nguyenlieu.Takeaway/" rel="nofollow" target="_blank"><strong>Yên Nhiên</strong></a> tham gia sự kiện lần này với vai trò tài trợ chính nguyên liệu làm bánh sử dụng trong vòng 2 của cuộc thi và giải thưởng. Với định hướng cung cấp sản phẩm có nguồn gốc xuất xứ rõ ràng và chất lượng ngoại nhập, Yên Nhiên từ khi thành lập tới nay đã nhập khẩu và phân phối khá nhiều loại nguyên liệu làm bánh từ Nhật và Đức cho các cơ sở sản xuất trong nước. Sản phẩm mà Yên Nhiên gửi tặng bạn đọc Savoury Days trong cuộc thi lần này gồm bột tinh than tre thực phẩm, bột trà xanh và sốt trà xanh, tất cả đều có xuất xứ từ Nhật Bản cùng bột cacao nguyên chất Callebaut. Riêng các sản phẩm trà sử dụng lá trà trồng tự nhiên, có kiểm soát dư lượng phân bón, thuốc trừ sâu và có chứng chỉ đạt các tiêu chuẩn chất lượng quốc tế. Bản thân mình cũng đã dùng cả ba loại bột tinh than, bột trà, sốt trà này và rất ưng ý cả về màu sắc lẫn mùi vị của sản phẩm.</p>
+<p>Cuối cùng, <strong><a href="http://khuonbanhnini.com/" rel="nofollow" target="_blank">Nini shop</a></strong> là cửa hàng chuyên cung cấp các loại nguyên vật liệu và dụng cụ làm bánh ngoại nhập, “đóng đô” tại TP Hồ Chí Minh nhưng nhận chuyển phát đến các tỉnh thành trên khắp cả nước. Điều đặc biệt nhất của Nini shop là có bà chủ cực kì dễ thương và cũng là fan của bánh trái nên các sản phẩm mà shop nhập về đều được chị lựa chọn rất kĩ lưỡng (vì cũng để nhà dùng luôn một phần ;) ). Ngoài ra chị cũng có nhiều công thức bánh rất sáng tạo như là bánh mì hoa cúc làm từ bột ngũ cốc (tốt cho sức khoẻ hơn bột mì thường) hay bánh trung thu với nhân custard. Nếu bạn muốn học hỏi thêm thì hãy ghé thăm Nini shop nhé.</p>
+<p>Giới thiệu dài dòng một hồi như vậy không phải để quảng cáo đâu, mà là để “nhấn mạnh” một “vấn đề” cực kì cực kì quan trọng đó là cuộc thi của chúng ta năm nay có <span style="font-size: 14pt; color: #800000;"><strong>RẤT NHIỀU PHẦN QUÀ HẤP DẪN do các nhà tài trợ gửi tặng</strong><strong>. </strong></span>Nên nhất định không được bỏ qua nhé! ;) Để có cơ hội nhận được các phần quà này thì bạn chỉ cần thực hiện một số yêu cầu rất đơn giản như sau thôi:</p>
+<h2><strong>CUỘC THI “NIỀM VUI TỪ BẾP 2016”</strong></h2>
+<p><img alt="poster-v1" class="aligncenter wp-image-7171 size-large" height="1024" loading="lazy" sizes="(max-width: 722px) 100vw, 722px" src="/wp-content/uploads/2016/10/Poster-v1-722x1024.jpg" width="722"/></p>
+<p>* <strong>Thời gian</strong>: 3/10/2016 – 15/11/2016</p>
+<p>* <strong>Đối tượng tham dự</strong>: tất cả các bạn đọc của Savoury Days đang sinh sống tại Việt Nam (trừ nhân viên của các đơn vị tổ chức và tài trợ gồm Savoury Days, Nhã Nam, Yên Nhiên, Zojirushi Việt Nam và Nini shop).</p>
+<p>* <strong>Hình thức tham dự</strong>:</p>
+<p>– <strong>Vòng 1</strong>:</p>
+<p>+ Người tham dự <span style="color: #ff0000;">chọn một trong số các món được giới thiệu trong sách <strong>Nhật ký học làm bánh </strong>(tập 1, 2, 3)</span>, nấu và chụp ảnh món ăn <span style="color: #ff0000;"><strong>cùng với </strong></span>tập sách có món ăn đó. Có thể làm y hệt công thức trong sách hoặc biến tấu theo ý thích.</p>
+<p>+ Người tham dự gửi bài dự thi gồm ảnh và một phần chia sẻ ngắn (tối đa 150 từ) về kỉ niệm với bếp núc, món ăn dự thi, hay sách <strong>Nhật ký học làm bánh </strong>tới email <a href="mailto:savourydaysvn@gmail.com">savourydaysvn@gmail.com</a>. <span style="color: #ff0000;">Tiêu đề email ghi rõ: Tham dự cuộc thi “NKHLB – Niềm vui từ bếp 2016”.</span> Trong email cần có các thông tin sau đây:</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<ul>
+<li>Họ tên</li>
+<li>Tỉnh, thành phố đang cư trú</li>
+<li>Địa chỉ facebook (không bắt buộc)</li>
+<li>Tên món ăn:</li>
+<li>Phần chia sẻ (không quá 150 từ)</li>
+<li>Ảnh dự thi (file JPG., kích thước tối thiểu 1 MB, đính kèm theo mail bằng chức năng gửi “attachment/ đính kèm”)</li>
+</ul>
+<p><strong>Lưu ý</strong>: <span style="color: #ff0000;">mỗi người chỉ gửi 01 (một) bài dự thi. Các bài dự thi không có đủ thông tin hoặc ghi sai tiêu đề, sai thông tin theo yêu cầu trên sẽ bị loại (không thông báo).</span></p>
+<p>+ Thời gian gửi bài thi vòng 1: <strong>từ 4/10/2016 đến hết 24 giờ ngày 17/10/2016.</strong></p>
+<p>+ Bài dự thi (gồm ảnh và phần chia sẻ), kèm theo họ tên, số thứ tự của người tham gia sẽ được đăng tại Facebook của Savoury Days trong ngày 18/10/2016.</p>
+<p>+ Thời gian bình chọn cho các bài dự thi: <strong>từ ngày 18/10 đến hết 24h giờ ngày 23/10/2016</strong>.</p>
+<p>+ Từ các bài dự thi trong vòng 1 sẽ <span style="color: #ff0000;">chọn ra 10 bài gồm</span> <strong>5 bài có tổng lượng yêu thích + chia sẻ (like + share) cao nhất tại Facebook và 5 bài có điểm số cao nhất từ ban giám khảo</strong> để tham gia vòng 2.</p>
+<p>+ Công bố kết quả vòng 1: ngày 24/10/2016.</p>
+<p>– <strong>Vòng 2: </strong>10 bạn vượt qua vòng 1 sẽ được nhà tài trợ Yên Nhiên gửi tặng một phần quà gồm 50 gram <a href="https://www.facebook.com/commerce/products/1022734017774675/" target="_blank">bột trà xanh</a> (xuất xứ Nhật Bản), 50 gr <a href="https://www.facebook.com/commerce/products/1226050854080716/" target="_blank">bột tinh than tre</a> (xuất xứ Nhật Bản), và 200 g bột ca cao nguyên chất (trị giá 250.000 VND/ phần quà). Các phần quà này sẽ được gửi theo chuyển phát nhanh để tới tay các bạn trong ngày 25 hoặc 26/10/2016.</p>
+<p>+ Nhiệm vụ tại vòng 2 của các bạn là <span style="color: #ff0000;">sử dụng một hoặc tất cả các nguyên liệu này để làm một món theo công thức có trong sách “Nhật ký học làm bánh” tập 3</span>. Các bạn có thể dùng công thức gốc hoặc biến tấu dựa theo công thức trong sách, chụp ảnh công đoạn và thành phẩm.</p>
+<p>+ Thời gian để thực hiện và gửi bài dự thi trong vòng 2 là từ 25/10/2016 đến hết 24h ngày 6/11/2016.</p>
+<p>+ Bài dự thi cho vòng 2 sẽ gồm 1 ảnh thành phẩm và 2 – 3 ảnh công đoạn, kèm theo cảm nhận về món ăn và giải thích ý tưởng (nếu là công thức biến tấu). Cách thức nộp bài: gửi tới email <a href="mailto:savourydaysvn@gmail.com">savourydaysvn@gmail.com</a> tương tự như bài thi vòng 1.</p>
+<p>+ Bài thi của các bạn sẽ được đăng tại Facebook của Savoury Days ngày 7/11/2016.</p>
+<p>+ Thời gian bình chọn cho các bài dự thi từ 7/11/2016 đến hết 24h ngày 13/11/2016.</p>
+<p>+ Kết quả với các giải thưởng chung cuộc sẽ được công bố tại Facebook và Website của Savoury Days ngày 15/11/2016.</p>
+<p>+ Kết quả chung cuộc này sẽ được tính theo điểm cộng của 2 hạng mục gồm 50% điểm like + share từ Facebook và 50% điểm của ban giám khảo. Cụ thể, các bạn sẽ được nhận điểm lần lượt 10 – 9 – 8… – 1 dựa vào tổng lượng like và share trên ảnh tại Facebook. Điểm số này sẽ được nhân với 0.5 rồi cộng với điểm của BGK nhân với 0.5 để có điểm số cuối cùng.</p>
+<p>+ Điểm của BGK cho cả hai phần thi sẽ dựa trên tiêu chí: 40% món ăn (độ khó, độ sáng tạo), 20% trình bày – ảnh chụp, và 40% chia sẻ.</p>
+
+
+<p><strong>* Cơ cấu giải thưởng </strong></p>
+<p>– <strong>Với 10 bạn tham dự vòng 2,</strong> ngoài phần quà là các nguyên liệu bột trà, tinh than tre, bột cacao từ nhà tài trợ Yên Nhiên, mỗi bạn sẽ nhận thêm 01 <a href="http://zojirushi.vn/nap-xoay-mo-uong-truc-tiep/binh-luong-tinh-zojirushi-sm-ba35-1689480.html" rel="nofollow" target="_blank">bình lưỡng tính Zojirushi</a> (Nhật Bản), trị giá 610.000 VND/ bình và 01 cuốn sổ do Nhã Nam phát hành.</p>
+<p>– <strong>Với 3 bạn có điểm số cao nhất ở vòng 2</strong>, mỗi bạn sẽ nhận thêm các phần quà gồm:</p>
+<p>+ 1 <a href="http://khuonbanhnini.com/may-lam-banh-cupcake-mini-1-1-1339632.html" rel="nofollow" target="_blank">máy làm cupcake</a> trị giá 535.000 VND/ phần do Nini shop trao tặng</p>
+<p>+ 1 kg <a href="https://www.facebook.com/commerce/products/1123912617650491/" rel="nofollow" target="_blank">sốt trà xanh cô đặc</a> (xuất xứ Nhật Bản), trị giá 1.5 triệu VND/ phần do công ty Yên Nhiên trao tặng</p>
+<p>+ 1 voucher mua sách tại Nhã Nam trị giá 500.000 VND và 1 cuốn lịch bàn 2017 do Nhã Nam phát hành.</p>
+<p>– Ngoài các phần quà trên đây, <strong>người có điểm số cao nhất tại vòng 2 sẽ nhận thêm món quà đặc biệt từ nhà tài trợ Zojirushi Việt Nam là 1 <a href="http://zojirushi.vn/dien-tu/noi-com-dien-zojirushi-ns-wxq10-1186976.html" rel="nofollow" target="_blank">chiếc nồi cơm điện Zojirushi</a> trị giá 2.573.000 VND.</strong></p>
+<p>Tất cả các phần quà trên sẽ do các nhà tài trợ gửi trực tiếp cho các bạn nhận giải qua đường bưu điện. Giải thưởng không thể chuyển đổi sang tiền mặt.</p>
+<p>Xin chân thành cảm ơn các nhà tài trợ  <a href="http://nhanam.com.vn/" rel="nofollow" target="_blank"><strong>Nhã Nam</strong></a>, <a href="http://zojirushi.vn/" rel="nofollow" target="_blank"><strong>công ty Zojirushi Việt Nam</strong></a>, <a href="https://www.facebook.com/Nguyenlieu.Takeaway/" rel="nofollow" target="_blank"><strong>công ty TNHH Yên Nhiên</strong></a> và <strong><a href="http://khuonbanhnini.com/" rel="nofollow" target="_blank">Nini shop</a> </strong>đã đồng hành cùng sự kiện năm nay. Mong là chúng mình sẽ có thêm một cuốn “Nhật ký học làm bánh” bản điện tử nữa thật đẹp với rất nhiều món bánh ngon do bạn đọc gửi tham dự.</p>
+<p>————-</p>
+<p>Thông tin thêm về các tập sách Nhật ký học làm bánh:</p>
+<ul>
+<li>Nhật ký học làm bánh tập 1 và 2: <a href="/gioi-thieu-sach/" target="_blank">/gioi-thieu-sach/</a></li>
+<li>Nhật ký học làm bánh tập 3: <a href="/cap-nhat-tinh-hinh-phat-hanh-sach-nhat-ky-hoc-lam-banh-tap-3-khi-bep-vang-lo/" target="_blank">/cap-nhat-tinh-hinh-phat-hanh-sach-nhat-ky-hoc-lam-banh-tap-3-khi-bep-vang-lo/</a></li>
+</ul>
+<p> </p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

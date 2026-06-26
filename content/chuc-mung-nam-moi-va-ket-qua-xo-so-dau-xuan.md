@@ -1,0 +1,41 @@
+---
+title: "Chúc mừng năm mới và kết quả “xổ số” đầu xuân ^^"
+date: "2015-02-20"
+slug: "chuc-mung-nam-moi-va-ket-qua-xo-so-dau-xuan"
+categories: ["Bếp nhà mình"]
+tags: ["chuyện hàng ngày"]
+image: "https://farm9.staticflickr.com/8648/16405565089_0a5b21be3f_z.jpg"
+description: "savoury days, nhật ký học làm bánh"
+---
+
+<p>Lời đầu tiên của bài viết đầu tiên trong năm mới, xin là một lời chúc tốt đẹp nhất gửi đến tất cả các cô chú bác, anh chị em và bạn bè của Savoury Days. Xin chúc các cô chú, anh chị em và các bạn cùng gia đình thêm một năm dồi dào sức khỏe, bình an và tràn ngập niềm vui (đặc biệt là những niềm vui đến từ căn bếp nhé :) ).</p>
+<p>Thế là thêm một năm tròn nữa, Savoury Days được là căn bếp chung của rất nhiều bạn bè, những người có cùng tình yêu ăn uống và với công việc bếp núc. Năm vừa rồi vì bận với việc hoàn thành luận án nên mình không vào bếp thường xuyên được như những năm trước. Nhưng thật sự rất cảm ơn các bạn vì vẫn ghé chơi thường xuyên, thay mình giữ cho SD luôn ấm áp bởi rất nhiều những kinh nghiệm hay và các câu chuyện, những niềm vui nho nhỏ từ căn bếp của chính mình. Hy vọng là trong năm tới đây, và trong cả những năm sau đó, SD sẽ tiếp tục là căn bếp chung của tất cả mọi người, nơi để chúng ta cùng tìm kiếm và sẻ chia cảm hứng vào bếp, cùng trao đổi về mọi thứ liên quan đến bếp, và cùng chung vui với thành quả là những món ăn ngon, chiếc bánh thơm ngọt đến từ những chiếc bếp, chiếc lò của chính mình, nhé? :)</p>
+<p>Trong những ngày giáp Tết, tại Facebook của SD có một bài viết rất “tấp nập”, bởi có đến gần 200 phản hồi, mỗi phản hồi đều “thơm nức” bởi toàn là các món bánh ngon do các bạn tự làm, gửi lên SD để tiếp thêm cảm hứng và động lực, cũng như gợi ý cho các bạn khác về các món ngon cho dịp Tết. Cảm ơn các bạn rất nhiều vì đã nhiệt tình chia sẻ sản phẩm của mình. Bánh của ai cũng đều rất đẹp và ngon. Bản thân mình bật lên xem đi xem lại không biết bao nhiêu lần ấy ;) (bạn nào muốn xem lại thì có thể xem tại link này nhé: <a href="https://www.facebook.com/savourydays/photos/a.203790536341206.63450.172331076153819/790919627628291/?type=1">https://www.facebook.com/savourydays/photos/a.203790536341206.63450.172331076153819/790919627628291/?type=1</a>)</p>
+<p>Và như đã hứa, có một màn “quay xổ số” nho nhỏ để chọn ra 5 bạn trở thành chủ nhân của 5 bản in đầu tiên của sách “Nhật ký học làm bánh – tập 2” ^.^ Kết quả đã có, xin chúc mừng các bạn:<br/>
+1. Ngan Vu (FB: https://www.facebook.com/nganvk?fref=ufi)<br/>
+2. Qỳnh Như (https://www.facebook.com/profile.php?id=100007799809413&amp;fref=ufi )<br/>
+3. Dieu-Trinh Nguyen (https://www.facebook.com/trinhnippon?fref=ufi)<br/>
+4. Lê Trâm (https://www.facebook.com/le.tram.186?fref=ufi)<br/>
+5. Nam In (https://www.facebook.com/mrbanhngot?fref=ufi)</p>
+<p>Mời các bạn liên hệ với mình theo địa chỉ mail savourydaysvn@gmail.com để trao đổi về cách gửi sách nhé :)</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Cũng nhân dịp đầu năm mới, xin chia sẻ một vài thông tin về sách “mới” chuẩn bị ra mắt trong tháng 3 tới đây :) Tập 2 của “Nhật ký học làm bánh” được khởi động từ ngay khi tập 1 hoàn thành và chuẩn bị ra mắt. Cả một năm trời ấp ủ ý tưởng, lên khung nội dung, chuẩn bị về hình ảnh… tất cả ê-kíp làm sách gồm biên tập viên, họa sỹ của Nhã Nam và Linh Trang với vai trò “lon ton” (làm các việc còn lại gồm mua đồ, nướng bánh, chụp ảnh, rửa bát…) rất vui vì có thể cho ra mắt “cô em” sau đúng 1 năm từ ngày “cô chị” ra đời.</p>
+<p style="text-align: center;"><em>Bìa trước và bìa sau của sách </em></p>
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/16405565089/" title="nhatkyhoclambanhbiacung-01 by LinhTrang9185, on Flickr"><img alt="nhatkyhoclambanhbiacung-01" class="aligncenter" height="448" loading="lazy" src="https://farm9.staticflickr.com/8648/16405565089_0a5b21be3f_z.jpg" width="640"/></a></p>
+<p>So với “cô chị” thì “cô em” tập 2 này sẽ “đồ sộ” hơn một chút với 300 trang, khổ giấy to hơn và bìa cứng để có thể lật mở dễ dàng. Tuy nhiên không kém phần xinh đẹp với các hình ảnh minh họa gồm cả hình sản phẩm lẫn các bước thực hiện. Ngoài ra, “cô em” có lẽ cũng sẽ quyến rũ hơn bởi mang trong mình rất nhiều “bí ẩn” với rất nhiều câu chuyện, công thức và mẹo mực… chưa bao giờ xuất hiện tại blog. Bởi đã “thai nghén” trong suốt cả một năm nên mình cũng có rất nhiều điều muốn chia sẻ với cả nhà, từ chuyện vui cho đến buồn và cả những chuyện “thót tim” trong quá trình làm sách. Nhưng chắc xin hẹn lại một bài viết riêng khác (trong thời gian rất gần) nhé :)</p>
+<p>CHÚC MỪNG NĂM MỚI! Mong bình an, sức khỏe và hạnh phúc sẽ đến với tất cả mọi người! &lt;3</p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

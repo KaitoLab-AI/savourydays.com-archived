@@ -1,0 +1,54 @@
+---
+title: "Passion fruit Pound Cake – Bánh bông lan bơ chanh leo"
+date: "2011-10-07"
+slug: "passion-fruit-pound-cake-banh-bong-lan-bo-chanh-leo"
+categories: []
+tags: []
+image: "/wp-content/uploads/2011/10/cake-chanh-leo.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><em><strong><a href="/nhat-ky-hoc-lam-banh-pound-cake-phuong-phap-tron-bot-moi-that-bai-rat-nhieu-bai-hoc/">Xem thêm về Pound cake và phương pháp trộn bột cho Pound cake</a></strong>.</em></p>
+<p>Công thức Pound Cake này là mình học của cô Rose Levy Beranbaum trong cuốn The Cake Bible, nhưng có chỉnh sửa kha khá. Thứ nhất là mình thấy lượng bơ trong công thức gốc nhiều quá (185g bơ : 150g bột) nên mình giảm xuống còn 160g. Thứ hai là mình giảm kha khá đường so với công thức gốc, từ 150g đường xuống còn 110g (cho 150g bột). Sau này làm thử vài lần thì mình thấy cho đường trong khoảng từ 100g-110g là vừa (và mình nghĩ là mình cũng không phải là người ăn quá nhạt ;) ). Phần chanh leo là mình cho thêm vào. Khi đi tham khảo công thức thì mình thấy rất nhiều blog làm bánh bông lan bơ chanh theo công thức Pound cake với chanh thường (sử dụng vỏ chanh bào mỏng &amp; nước chanh). Tuy nhiên mình nghĩ là so với chanh thường thì chanh leo hay chanh dây “hấp dẫn” hơn hẳn cả về mùi lẫn vị cho nên mình dùng chanh leo :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6214952077/" title="Passion fruit pound cake by LinhTrang9185, on Flickr"><img alt="Passion fruit pound cake" class="aligncenter dung" height="640" loading="lazy" src="http://farm7.static.flickr.com/6108/6214952077_d50e5d0c93_z.jpg" width="427"/></a></p>
+<p>Công thức Pound Cake cơ bản đáng lẽ ra là không có chút sữa nào, nhưng công thức mà mình dùng thì có cho thêm 3 tablespoons sữa : 150g bột, và mình nghĩ là việc cho thêm sữa này khá hiệu quả vì bánh khi mình ăn thì thấy không đến nỗi quá khô và “nặng” như mình tưởng. Pound Cake ngoài việc dùng để ăn tráng miệng ra thì mình thấy ăn sáng cũng hợp. Bánh có thể bọc trong nilon bảo quản thức ăn (cling firm) rồi để ở nơi thoáng mát (khoảng 18-23 độ). Hoặc để trong tủ lạnh (thậm chí ngăn đá). Và mình thấy khi ăn cho vào lò vi song quay mấy chục giây cho bánh hơi ấm ấm thì cảm giác ăn xốp, ẩm và ngon hơn ấy :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6215467836/" title="Passion fruit pound cake by LinhTrang9185, on Flickr"><img alt="Passion fruit pound cake" class="aligncenter dung" height="640" loading="lazy" src="http://farm7.static.flickr.com/6093/6215467836_c1f629401c_z.jpg" width="444"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><strong>Nguyên liệu:</strong></p>
+<ul>
+<li><em>3 tablespoons sữa tươi không đường – <strong>ở nhiệt độ phòng</strong></em></li>
+<li><em>3 quả trứng (150gram không tính vỏ) – <strong>ở nhiệt độ phòng</strong></em></li>
+<li><em><em>160 gram bơ nhạt – <strong>ở nhiệt độ phòng</strong></em><br/>
+</em></li>
+<li><em>150gram bột mỳ thường (bột mỳ đa dụng/ all purpose flour) rây mịn (<strong>có nghĩa là rây bột mịn rồi đong được 150g</strong>)</em></li>
+<li><em>110gram đường</em></li>
+<li><em>¾ teaspoon bột nở (baking powder)</em></li>
+<li><em>¼ teaspoon muối</em></li>
+<li><em><em>1½ teaspoons vanilla extract</em></em></li>
+<li><em>6 quả chanh leo + </em><em>Đường để làm syrup chanh leo</em></li>
+</ul>
+<p><span id="more-902"></span></p>
+<p><strong>Cách làm (</strong>dùng two-stage method nhưng cả nhà có thể dùng <a href="/?p=729">creaming method </a>cũng không sao<strong>)</strong></p>
+<p>1. Vặn lò đến 170 độ C. Chống dính khuôn bằng cách xát một lớp bơ lạnh lên lòng khuôn. Rắc bột lên và xoay khuôn sao cho bột phủ đều mặt trong của khuôn. Úp ngược khuôn cho bột thừa rơi hết ra ngoài.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6219262049/" title="Passion fruit Pound Cake - Method 2 by LinhTrang9185, on Flickr"><img alt="Passion fruit Pound Cake - Method 2" class="aligncenter ngang" height="400" loading="lazy" src="http://farm7.static.flickr.com/6224/6219262049_c1bee62a5e.jpg" width="500"/></a></p>
+<p>2. Các nguyên liệu được cân đong và để ở nhiệt độ phòng (hình 1). Chanh leo bổ đôi lấy ruột, lọc với 2-3 thìa nước lấy nước cốt (hình 2).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6219783398/" title="Passion fruit Pound Cake - Method 1 by LinhTrang9185, on Flickr"><img alt="Passion fruit Pound Cake - Method 1" class="aligncenter ngang" height="400" loading="lazy" src="http://farm7.static.flickr.com/6169/6219783398_6a743aeabc.jpg" width="500"/></a></p>
+<p>3. Trong một cái âu dùng que đánh trứng (whisk) trộn đều trứng, sữa và vanilla (hình 3 &amp; 4)</p>
+<p>4. Trong một cái âu khác cho các nguyên liệu khô gồm bột, đường, muối, bột nở, dùng whisk đánh đều trong khoảng 30s.</p>
+<p>5. Cho tất cả bơ và ½ chỗ trứng sữa vào âu bột (hình 1). Để máy đánh trứng ở tốc độ thấp. Đánh đến khi các nguyên liệu hòa trộn (hình 2). Nâng máy lên tốc độ vừa (hoặc tốc độ cao với máy đánh trứng cầm tay), đánh tiếp thêm khoảng 1 phút. Trong quá trình đánh lưu ý vét thành âu cho đều.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6219262097/" title="Passion fruit Pound Cake - Method 3 by LinhTrang9185, on Flickr"><img alt="Passion fruit Pound Cake - Method 3" class="aligncenter ngang" height="400" loading="lazy" src="http://farm7.static.flickr.com/6031/6219262097_b48e4c029f.jpg" width="500"/></a></p>
+<p>6. Chia chỗ trứng sữa còn lại làm 2 phần. Cho lần lượt vào âu, đánh đều khoảng 20s-30s sau mỗi lần thêm trứng (hình 3).</p>
+<p>7. Chia hỗn hợp bột vào khuôn. Đổ đầy khoảng 2/3 khuôn (hoặc đổ bột vào khuôn loaf to). Gõ khuôn xuống mặt bàn vài cái cho các bọt khí to vỡ bớt – bánh sẽ mịn hơn.</p>
+<p>Nướng ở nhiệt độ 170 độ trong 30-35 phút với khuôn mini loaf hoặc khuôn cupcake (khuôn lớn thì nướng ở 170-175 độ trong khoảng 55-60 phút, cái này tùy loại khuôn &amp; lò mà mọi người điều chỉnh nhé). Thử bánh chín bằng cách cắm một que tăm vào giữa bánh, rút lên thấy que sạch là bánh đã chín.</p>
+<p>Nếu sau khoảng ½ – 2/3 thời gian nướng mà thấy mặt bánh quá vàng thì các bạn có thể đặt 1 miếng giấy bạc che mặt trên của bánh rồi nướng bình thường đến khi bánh chín.</p>
+<p>8. Trong khi đợi bánh chín thì làm syrup chanh leo bằng cách trộn chanh leo với đường (nêm ngọt theo khẩu vị của các bạn nhé), rồi chưng trên lửa vừa, vừa đun vừa khuấy đều cho đường tan hết. Để hỗn hợp sôi lăn tăn (thi thoảng khuấy đều) đến khi đặc sệt thành syrup.</p>
+<p>9. Bánh sau khi lấy ra khỏi lò thì quét một lớp syrup chanh leo lên mặt bánh. Để nguội trong khuôn trong khoảng từ 5-10 phút, rồi lấy ra khỏi khuôn, để nguội hẳn trên rack.</p>
+<p>Phần syrup chanh leo còn lại giữ để ăn kèm bánh giống như một dạng mứt lỏng, rất thơm &amp; ngon :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6219785434/" title="Passion fruit Pound cake by LinhTrang9185, on Flickr"><img alt="Passion fruit Pound cake" class="aligncenter dung" height="640" loading="lazy" src="http://farm7.static.flickr.com/6213/6219785434_6facfbc311_z.jpg" width="427"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

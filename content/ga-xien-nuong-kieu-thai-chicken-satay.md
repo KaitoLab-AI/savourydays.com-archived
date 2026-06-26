@@ -1,0 +1,53 @@
+---
+title: "Gà xiên nướng kiểu Thái (Chicken Satay)"
+date: "2011-06-11"
+slug: "ga-xien-nuong-kieu-thai-chicken-satay"
+categories: []
+tags: []
+image: "/wp-content/uploads/2011/06/Chicken-Satay-610x350.jpg"
+description: "Cách làm gà nướng Satay kiểu Thái tuyệt ngon. Thịt gà mềm ướp gia vị Thái thơm lừng, màu vàng bóng đẹp bắt mắt. Công thức có hình mình hoạ "
+---
+
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Có một cu đồng nghiệp của mình cực kì thích món Thái. Hắn thích đến mức đi mua cả sách dạy nấu đồ Thái và ra chợ châu Á tìm mua nguyên liệu về nhà tự thực hành. Thi thoảng lại thấy cu khoe hôm qua tao vừa nấu canh Tom Yum hay là vừa làm cơm rang kiểu Thái :D Món này cũng là vì nghe hắn khen nhiều quá mà mình mới tò mò muốn làm thử. Có vẻ nó cũng là một món ăn nổi tiếng vì search trên mạng thì ra được cả mớ công thức luôn.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5822431390/" title="Chicken satay by LinhTrang9185, on Flickr"><img alt="Chicken satay " class="aligncenter" height="484" loading="lazy" src="http://farm6.static.flickr.com/5142/5822431390_51566e7702.jpg" width="650"/></a></p>
+<p>Gia vị ướp trong các công thức mình tìm thấy thì khá đồng nhất, gồm hành, tỏi, sả và bột (hạt) mùi. Nhưng về phần cho cái gì vào để tạo vị mặn thì các công thức hơi bị oánh nhau một tí. Lần đầu tiên làm món này mình dùng nước mắm, vì nghĩ là món Thái thì nên dùng nước mắm cho đúng kiểu. Lần thứ hai mình thử đổi xì dầu thì thấy có vẻ ngon hơn kha khá, mặc dù mình vẫn nghĩ là xì dầu thì dùng cho các món TQ nhiều hơn, cho vào món Thái có vẻ là không đúng kiểu lắm (theo “hiểu biết” hạn hẹp của mình). Hihi, nhưng mà không sao, miễn ngon là được rồi ;)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5821867355/" title="chicken satay by LinhTrang9185, on Flickr"><img alt="chicken satay " class="aligncenter" height="700" loading="lazy" src="http://farm6.static.flickr.com/5320/5821867355_1e06b776b7.jpg" width="524"/></a></p>
+<h2>CÁCH LÀM GÀ XIÊN NƯỚNG KIỂU THÁI</h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li style="text-align: left;"><em>3 miếng thịt đùi trong của gà (chicken thigh) (khoảng 350 gram)</em></li>
+<li style="text-align: left;"><em>2 củ hành khô hoặc 1 củ to như trong ảnh ở bên dưới :D</em></li>
+<li style="text-align: left;"><em>1 thìa cafe (teaspoon) hạt mùi (hoặc 1/2 teaspoon bột hạt mùi)</em></li>
+<li style="text-align: left;"><em>1 củ sả</em></li>
+<li style="text-align: left;"><em>3 tép tỏi</em></li>
+<li style="text-align: left;"><em>1/2 thìa cafe bột nghệ</em></li>
+<li style="text-align: left;"><em>1 thìa canh/ tablespoon xì dầu</em></li>
+<li style="text-align: left;"><em>½ thìa canh dầu hào</em></li>
+<li style="text-align: left;"><em>½ thìa canh xì dầu ngọt (Kejap Manis) – hoặc thay bằng mật ong hoặc đường</em></li>
+<li style="text-align: left;"><em>hạt tiêu</em></li>
+<li style="text-align: left;"><em>Xiên tre</em></li>
+</ul>
+<p style="text-align: left;"><em><strong>* Sau khi up công thức này lên thì có một chị bạn (nấu ăn rất siêu ;) ) góp ý với mình là nên thêm đường thốt nốt (palm sugar), nước cốt dừa (coconut cream) và bột cà ri vào trong nước ướp. Mình chắc lâu lâu nữa mới có thời gian thử, nhưng cứ ghi bổ sung công thức ở đây để cả nhà tham khảo nhé :)</strong></em></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Ngâm xiên tre vào nước lạnh trước tối thiểu 45 phút để khi nướng xiên không bị cháy.</p>
+<p>2. Thịt gà lọc xương, thái miếng để lát nữa xiên. Mình dùng phần đùi trong của gà, nhưng cả nhà có thể thay bằng thịt đùi gà hoặc lườn gà cũng được nhé.</p>
+<p>3. Hạt mùi xay nhỏ thành bột hoặc giã nhỏ. Hành, tỏi bóc vỏ, băm nhỏ. Sả thái khoanh mỏng.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5822432404/" title="Chicken satay by LinhTrang9185, on Flickr"><img alt="Chicken satay " class="aligncenter" height="437" loading="lazy" src="http://farm3.static.flickr.com/2237/5822432404_485d35e3f8.jpg" width="650"/></a></p>
+<p>4. Ướp thịt gà với xì dầu, dầu hào, xì dầu ngọt, hành, tỏi, sả, bột mùi, bột nghệ và hạt tiêu. Để tối thiểu 60 phút cho ngấm.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5822432898/" title="Chicken satay by LinhTrang9185, on Flickr"><img alt="Chicken satay " class="aligncenter" height="439" loading="lazy" src="http://farm6.static.flickr.com/5154/5822432898_246b3c1a08.jpg" width="650"/></a></p>
+<p>5. Xiên thịt gà vào xiên tre. Ah, cả nhà đừng xiên quá nhiều thịt trong một xiên nhé, về sau nướng sẽ lâu và thịt khó chín bên trong :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5822433356/" title="Chicken satay by LinhTrang9185, on Flickr"><img alt="Chicken satay " class="aligncenter" height="464" loading="lazy" src="http://farm3.static.flickr.com/2429/5822433356_2c230e64a3.jpg" width="650"/></a></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>6. Mang thịt đi nướng hoặc rán đến khi chín vàng. Nếu nướng bằng lò, các bạn có thể đặt nhiệt độ 200 độ C và nướng trong 30 – 40 phút, sau khoảng 20 phút nên lật xiên thịt để thịt chín đều hai mặt.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5821869623/" title="Chicken satay by LinhTrang9185, on Flickr"><img alt="Chicken satay " class="aligncenter" height="449" loading="lazy" src="http://farm6.static.flickr.com/5320/5821869623_b62e4089e7.jpg" width="650"/></a></p>
+<p>Món này ăn với sốt bơ lạc, nhưng mà nhà mình không có và cũng ngại làm nên mình ướp vừa mặn để ăn luôn. Gà xiên nướng kiểu này tương đối dễ làm và theo mình thấy là khá ổn, thơm và ngon, ăn chơi cũng được mà ăn cơm cũng được.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5822430992/" title="Chicken satay by LinhTrang9185, on Flickr"><img alt="Chicken satay " class="aligncenter" height="470" loading="lazy" src="http://farm3.static.flickr.com/2558/5822430992_df2968f675.jpg" width="650"/></a></p>
+<p>Chúc cả nhà cuối tuần vui vẻ :)</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

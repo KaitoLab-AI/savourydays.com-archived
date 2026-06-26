@@ -1,0 +1,72 @@
+---
+title: "Tự học làm bánh căn bản – Phân biệt các loại bột làm bánh (Phần 1)"
+date: "2012-03-16"
+slug: "tu-hoc-lam-banh-can-ban-phan-biet-cac-loai-bot-lam-banh-phan-1"
+categories: ["Kinh nghiệm nấu nướng", "Làm bánh"]
+tags: ["bột mỳ", "làm bánh căn bản"]
+image: "/wp-content/uploads/2012/03/flour2.jpg"
+description: "các loại bột làm bánh"
+---
+
+<p>Trong các nguyên liệu cơ bản để làm bánh, bột có lẽ là nguyên liệu cần phải nhắc đến đầu tiên. Kiến thức về các loại bột &amp; cách sử dụng, nếu nói dông dài chắc đủ viết cả quyển sách. Bài viết này của mình thì chủ yếu nhằm mục đích giới thiệu và phân biệt các loại bột cơ bản &amp; thường dùng trong làm bánh và nấu nướng nói chung, nên thông tin đưa ra là những điểm chính &amp; quan trọng nhất, cố gắng ngắn gọn đến hết mức có thể, nếu có chỗ nào chưa thật ổn thì nhờ mọi người góp ý thêm nhé :)</p>
+<p><a href="/wp-content/uploads/2012/03/flour2.jpg"><img alt="" class="aligncenter size-full wp-image-2004" height="499" loading="lazy" src="/wp-content/uploads/2012/03/flour2.jpg" title="flour2" width="337"/></a></p>
+<p>Nói về bột trong làm bánh, trước khi phân loại có lẽ nên có đôi dòng về <strong>Gluten</strong> và <strong>Protein</strong>. Đối với một người thợ làm bánh, khi chọn bột mỳ thì có lẽ hàm lượng Gluten/Protein là một trong những yếu tố quan trọng nhất. Gluten hay cũng chính là các “chuỗi” protein trong bột mỳ, khi ở dạng khô thì rất là “yên ổn”. Nhưng nếu gặp nước thì các chuỗi protein này sẽ “chuyển hóa” thành dạng sợi Gluten. Tiếp theo, trong quá trình nhào bột, nếu nhồi &amp; nhào đúng cách thì các “sợi” Gluten này sẽ lớn dần, dài ra và dẻo dai hơn (bạn nào làm bánh mỳ rồi thì chắc là sẽ rất rõ vụ này ;) ). Nhưng nếu chỉ có vậy thì chưa đủ, còn cần 1 thứ rất quan trọng nữa là men nở để giúp các sợi Gluten này “tóm” không khí và giữ lại trong các khe &amp; lỗ hở bên trong mình. Khi nướng, các lỗ khí này sẽ “phồng to”, giúp bánh nở, trong khi sợi Gluten cứng lại, tạo kết cấu vững chắc cho bánh.</p>
+<p>Vì Gluten là yếu tố chính tạo nên kết cấu cho bánh, nên sợi Gluten càng to khỏe, hoành tráng bao nhiêu thì bánh sẽ có độ cứng &amp; dai nhiều (như các loại bánh mỳ chẳng hạn). Ngược lại, nếu muốn bánh mềm mại &amp; êm dịu như mây thì lượng Gluten trong bột bánh cần thật là ít, và các sợi Gluten cũng nên yếu đuối, mỏng manh thôi, chứ không giống như Gluten trong bột bánh mỳ được.</p>
+<p>Mặc dù protein có trong nhiều loại bột, nhưng chỉ có các chuỗi protein trong bột làm từ lúa mỳ (wheat flour) là có thể giúp tạo ra các sợi Gluten khi nhào với nước. Một số loại bột khác như bột lúa mạch đen (rye flour) hay một số loại hạt khác sẽ không giúp hình thành Gluten, nên trong một số trường hợp, để giúp tạo kết cấu ổn định cho bánh, khi sử dụng sẽ cần phải trộn các loại bột này với bột mỳ có hàm lượng Protein/ gluten cao.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Vì Gluten quan trọng trong làm bánh như vậy nên các yếu tố quyết định Gluten tất nhiên cũng rất quan trọng. Các yếu tố này thì có nhiều, cụ thể là lượng Protein, lượng nước, lượng đường, muối, chất béo, cách nhào bột … Nhưng vì trong bài này là nói riêng về bột nên mình quan tâm đến lượng Protein trước nhé.</p>
+<p><span id="more-1997"></span>Như đã nói ở trên là không phải loại bột nào cũng có thể “sản sinh” ra Gluten, và bản thân việc sinh sôi, phát triển của Gluten cũng phụ thuộc nhiều vào hàm lượng Protein nên trong phần phân loại dưới đây, mình chia bột ra thành các nhóm tùy vào khả năng tạo Gluten của các loại bột nhé.</p>
+<p><a href="/wp-content/uploads/2012/03/images.jpeg"><img alt="" class="aligncenter size-full wp-image-2005" height="180" loading="lazy" src="/wp-content/uploads/2012/03/images.jpeg" title="images" width="281"/></a></p>
+<div><span style="text-decoration: underline;"><strong> 1. Các loại bột mỳ (Wheat flour)</strong></span></div>
+<p>Bản thân các bạn bột mỳ cũng được chia ra làm nhiều loại, tùy thuộc vào “sức khỏe” và “khả năng sinh sản” Gluten của các bạn ý. Về cơ bản thì có hai nhóm chính là:</p>
+<ul>
+<li><strong>Strong flour: </strong>bột mỳ có hàm lượng Gluten cao. Các loại bột trong nhóm này thường được dùng để làm các loại bánh cần kết cấu cứng cáp, dẻo dai như bánh mỳ</li>
+<li><strong>Weak flour: </strong>bột mỳ có hàm lượng Gluten thấp. Các loại bột trong nhóm này thường được dùng để làm các loại bánh ngọt mềm, mịn, nhẹ hoặc các loại đồ tráng miệng có hàm lượng Gluten thấp</li>
+</ul>
+<p>Đây là hai nhóm lớn nhất, nếu chia nhỏ hơn nữa (dựa vào hàm lượng Protein/ Gluten) trong bột, thì sẽ có các loại bột mỳ (thường gặp) là:</p>
+<ul>
+<li><strong>Bread flour:</strong> bột làm bánh mỳ: hàm lượng Protein từ 11-14%.</li>
+<li><strong>Pastry flour: </strong>làm bánh quy, các loại bánh mỳ nhanh như Muffin và một số loại bánh khác mềm hơn bánh mỳ nhưng không quá mềm như Gateau: hàm lượng Protein từ 9-11%</li>
+<li><strong>Cake flour:</strong> bột làm bánh ngọt: làm các loại bánh cần kết cấu mềm nhẹ: hàm lượng Protein từ 7-9%</li>
+</ul>
+<p>Ngoài ba loại ở trên ra thì hiện tại trong làm bánh có 2 loại bột khác, rất rất phổ biến nhưng việc phân loại không dựa vào hàm lượng Protein/ Gluten lắm, là:</p>
+<ul>
+<li><strong>All purpose flour/ Plain flour </strong>(bột mỳ đa dụng/ bột mỳ thường): đây là loại bột làm bánh thường được sử dụng trong gia đình (mặc dù sách bảo là thợ làm bánh chuyên nghiệp thì họ chẳng dùng bột đa dụng kiểu này bao giờ). Gọi là bột mỳ đa dụng là bởi vì nó “đa dụng” – tức là dùng để làm gì cũng được :P Hàm lượng Protein trong bột mỳ đa dụng thường dao động quanh khoảng 10.5 – 11.5%.</li>
+<li><strong>Self-rising flour </strong>: là bột mỳ đã trộn sẵn với bột nở &amp; muối. Ưu điểm là tiện hơn all purpose flour vì không cần trộn thêm bột nở, nhược điểm là bột trộn sẵn &amp; để lâu thì có thể tác dụng của bột nở sẽ kém hơn, thêm nữa là mỗi công thức bánh có thể sẽ yêu cầu lượng bột nở khác nhau, cho nên không thể dùng cho mọi công thức. Cá nhân mình không thích và không dùng bột này.</li>
+</ul>
+<p>Ngoài các loại bột mỳ thông dụng và thường gặp nhất kể trên, còn một số loại bột khác cũng được xay từ hạt lúa mỳ là</p>
+<ul>
+<li><strong>Bột mỳ nguyên cám (Whole wheat flour)</strong>: xay từ nguyên hạt lúa mỳ, không chỉ giàu Protein hơn mà còn giàu dinh dưỡng và các loại khoáng chất hơn các loại bột kể trên. Về màu sắc thì các loại bột mỳ nguyên cám này sẽ có màu sẫm và cũng kém mịn màng hơn. Khi làm bánh sử dụng bột mỳ nguyên cám thì  người ta khuyên là nên trộn bột mỳ nguyên cám với bread flour  để bánh có kết cấu dẻo dai &amp; ngon lành nhất.</li>
+<li><strong>Graham flour: </strong>cũng là một loại bột mỳ nguyên cám, là thành phần chính trong các công thức Cracker</li>
+<li><strong>Durum flour: </strong>bột xay từ durum wheat, có hàm lượng Protein rất cao, dùng làm các loại pasta của Ý</li>
+</ul>
+<p>Các loại bột mỳ chính thì mình nghĩ vậy là tạm đủ rùi. Hi vọng là những thông tin này sẽ giúp cả nhà lựa chọn được loại bột phù hợp nhất để làm bánh :) Bản thân mình thì trước đây thường là mua bừa bột mỳ bán trong siêu thị, sau khi biết được vụ Protein/ Gluten này thì đi mua bột bắt đầu để ý hơn, và tự nghiên cứu thành phần bột để mua chứ không xem nhãn mác nữa.</p>
+<p>Về việc sử dụng bột thay thế cho nhau thì có mấy điểm như sau:</p>
+<p>– Để làm bánh mỳ nếu không có bread flour, các bạn <em>có thể dùng all purpose flour</em>, bánh mỳ sẽ vẫn ngon nhưng có thể sẽ không dai bằng (nhưng nói thật là nhiều loại bánh mỳ như Baguette chẳng hạn, có bread flour vẫn là tốt nhất)</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>– Với pastry flour và cake flour thì các bạn có thể thay thế bột theo công thức sau:</p>
+<ul>
+<li>Thay <strong>120gram Cake flour</strong> bằng <strong>100gram All purpose flour + 20gram Corn starch</strong> (tinh bột ngô)</li>
+<li>Thay <strong>120gram Pastry flour</strong> bằng <strong>105gram All purpose flour + 15gram</strong> <strong>Corn starch</strong></li>
+</ul>
+<p>Cuối cùng là mặc dù nói hàm lượng Protein rất quan trọng, nhưng thực ra một con số ghi lượng Protein trên bao bì cũng chưa đủ nói lên nhiều điều lắm, vì chất lượng của bột còn tùy thuộc vào chất lượng lúa mỳ, quá trình sản xuất, quá trình bảo quản… Cho nên để làm bánh ngon thì ngoài việc chọn mua loại bột phù hợp, cũng nên cố gắng mua bột của các nhãn hiệu tin cậy, và có cách bảo quản hợp lý (bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng chiếu trực tiếp, bột mở ra rồi thì nên dùng càng nhanh càng tốt, và tuyệt đối không dùng loại bột đã có dấu hiệu bị mọt, hỏng nhé).</p>
+<p>Hết phần 1 về bột mỳ – phần 2 sẽ về bột từ các loại hạt khác &amp; một số loại bột dùng riêng cho các loại bánh của Việt Nam. Chúc cả nhà cuối tuần vui vẻ :)</p>
+<p><em>Bài viết sử dụng hình ảnh minh họa từ tìm kiếm ngẫu nhiên qua Google. Các kiến thức &amp; thông tin tham khảo từ sách Professional Baking của Le Cordon Bleu. </em></p>
+<p>Xem tiếp <a href="/tu-hoc-lam-banh-can-ban-phan-biet-cac-loai-bot-phan-2/">các loại bột làm bánh phần 2</a></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

@@ -1,0 +1,74 @@
+---
+title: "Gateau Mousse sầu riêng lá dứa"
+date: "2015-09-18"
+slug: "gateau-mousse-sau-rieng-la-dua"
+categories: []
+tags: []
+image: "/wp-content/uploads/2015/09/mouse-sau-rieng-la-dua-610x350.jpg"
+description: "Cách làm bánh Mousse sầu riêng ngậy béo, mềm mịn xốp với lớp thạch lá dứa giòn phủ trên mặt, không cần lò nướng."
+---
+
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Nói về món bánh Mousse này thì một chữ “ngon” chắc chắn là không đủ. Ngon cực kì, ngon siêu phàm, ngon khủng khiếp… chắc vẫn chưa đủ. Nghĩ tới nghĩ lui, tra đủ thứ từ điển thì cuối cùng mình cũng đã tìm được 5 chữ tương xứng: “Thiên Hạ Đệ Nhất Mousse” :D :D</p>
+<p>Cho đến giờ này thì chưa có món Mousse nào mình làm mà vượt được “bạn” bánh mousse sầu riêng này về độ ngon. Chẳng phải vì mình vốn thích sầu riêng mà có sự ưu ái đâu. Ngay cả người vốn không thích sầu riêng, sau khi ăn bánh này cũng chuyển thành nghiền cơ mà.</p>
+<p>Điều luyến tiếc duy nhất của mình là không có ảnh đủ đẹp để minh họa cho bạn “huê hậu thiên hạ đệ nhất Mousse” này. Vì mấy lần làm món bánh này đều là để mời khách cả, cũng có hôm định xin phép chụp trước vài tấm, mà chưa kịp lôi máy ảnh ra thì đĩa đã thấy trống trơn rồi. Nên chỉ có mấy bức chụp tạm bằng điện thoại thôi. Hôm vừa rồi đăng ảnh lên FB thấy có nhiều bạn ủng hộ : “cứ đăng công thức trước, ảnh … sao cũng được” nên mình viết công thức để các bạn thử luôn. Ảnh đợi bao giờ có tấm nào đẹp hơn thì thay vậy nhé :)</p>
+<p>Món bánh Mousse này gồm 3 phần: Bạt gateau cơ bản, mousse sầu riêng và lớp thạch lá dứa phủ trên. Mousse mềm xốp mịn hòa quyện với gateau làm cho vị bánh giống với gateau kem hơn là kiểu thạch cứng, mặc dù vẫn đủ độ đông đặc để có thể lấy ra khỏi khuôn mà không hề hấn gì. Lớp thạch trên cùng mình dùng bột thạch Agar để làm, với nước cốt dừa và chiết xuất lá dứa. Màu của chiết xuất lá dứa pha với màu nước cốt dừa thành ra xanh ngọc như vậy. Thạch giòn ăn với bánh rất hợp. Nhưng còn 1 lựa chọn nữa cũng cực kì hay ho, mà mình đã thử, là <a href="/banh-cuon-phu-si/" target="_blank"><strong>phần kem phủ bên ngoài của bánh Phú Sĩ</strong></a>, vị mềm và hơi dai dai, ngon không kém khi dùng thạch.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21515130715/" title=" IMG_3775-1 by LinhTrang9185, on Flickr"><img alt=" IMG_3775-1" class="aligncenter" height="427" loading="lazy" src=" https://farm1.staticflickr.com/647/21515130715_b24e2cf10b_z.jpg " width="640"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="color: #800000;"><strong>* Dụng cụ:</strong></span></p>
+<ul>
+<li>1 khuôn tròn đường kính 18 – 20 cm để làm cốt bánh</li>
+<li>1 khuôn tròn đế rời hoặc Mousse ring đường kính 18 cm, cao 10 cm để làm Mousse</li>
+</ul>
+<p><span style="color: #800000;"><strong>* Nguyên liệu</strong></span></p>
+<p><strong>A. Cốt bánh gateau</strong></p>
+<p>Mình dùng <a href="/video-cach-lam-banh-ga-to-bang-noi-com-dien/" target="_blank"><strong>cốt gateau cơ bản bằng nồi cơm điện</strong></a>. Các bạn có thể chọn cốt bánh khác tùy thích. Nên dùng cốt bánh 4 trứng, nướng trong khuôn 18 – 20 cm để đảm bảo độ dày của các lớp bánh nhé.</p>
+<p><strong>B. Mousse sầu riêng</strong></p>
+<ul>
+<li><em>6 gram Gelatin (3 lá)</em></li>
+<li><em>250 gram thịt sầu riêng chín</em></li>
+<li><em>50 gram sữa tươi không đường</em></li>
+<li><em>2 lòng đỏ trứng gà (18 – 20 gram/ lòng đỏ)<br/>
+</em></li>
+<li><em>55 gram đường (có thể tăng hoặc giảm tùy độ ngọt của sầu riêng)<br/>
+</em></li>
+<li><em>225 gram kem tươi (tối thiểu 35% béo)</em></li>
+</ul>
+<p><span style="color: #000000;"><strong>C. Thạch lá dứa cốt dừa</strong></span></p>
+<ul>
+<li><em>100 ml nước cốt dừa (coconut milk)</em></li>
+<li><em>10 – 15 gram đường tùy khẩu vị</em></li>
+<li><em>1/8 thìa cafe chiết xuất lá dứa (pandan extract)</em></li>
+<li><em>1/8 thìa cafe bột thạch rau câu (Agar) – hoặc 2 gram Gelatin (1 lá)</em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Làm cốt bánh rồi để nguội. Khi bánh đã nguội, xẻ đôi thành 2 bạt bánh. Lưu ý đường kính của bạt bánh vừa với đường kính của khuôn dùng làm Mousse (nếu quá to thì cần gọt bớt).</p>
+<p>* <em>Khi làm bánh, nếu có chiết xuất sầu riêng (durian extract) hoặc chiết xuất lá dứa loại trong suốt, các bạn có thể cho thêm vài giọt vào bánh, sẽ giúp mùi vị của bánh hấp dẫn hơn rất nhiều. </em></p>
+<p>2. Chuẩn bị Mousse sầu riêng:</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>– Ngâm Gelatin vào nước lạnh khoảng 10 phút để Gelatin nở mềm. Nếu dùng Gelatin bột thì cần khoảng 40 – 50 ml nước, Gelatin lá nên dùng nhiều nước hơn.</p>
+<p>– Xay sầu riêng với sữa cho mịn nhuyễn. Nếu không có máy xay, các bạn có thể dầm sầu riêng trong sữa rồi lọc qua rây, sầu riêng chín thường rất mềm nên khi đi qua rây sẽ thành mịn. Nếu các bạn muốn giữ lại các thớ sầu riêng trong Mousse thì cũng nên dùng cách này.</p>
+<p>– Cho lòng đỏ trứng và 40 gram đường vào nồi. Dùng phới đánh đều tới khi trứng đường hòa quyện và chuyển thành dạng bông mịn, màu vàng nhạt.</p>
+<p>– Cho hỗn hợp sầu riêng, sữa và 50 gram kem tươi vào nồi đựng trứng đường, quấy đều tới khi các nguyên liệu hòa quyện.</p>
+<p>– Đặt nồi lên bếp đun lửa vừa. Vừa đun vừa quấy đều tay và liên tục (để sầu riêng không bị dính vào đáy nồi và cháy).</p>
+<p>– Khi từ nồi bắt đầu có hơi nước bốc lên, hạ  lửa nhỏ, quấy thêm khoảng 1 phút. Bắc khỏi bếp, vắt Gelatin cho ráo nước rồi thả vào nồi. Quấy nhanh và đều tay đến khi Gelatin tan và hòa quyện hết trong hỗn hợp kem trứng sầu riêng này. Để nguội. Thi thoảng quấy đều để trên mặt hỗn hợp kem này không bị đóng váng.</p>
+<p>– Đánh bông phần 175 gram kem tươi còn lại với 15 gram đường. Chỉ đánh tới khi kem đạt bông mềm: chạy máy thấy hiện vân trên mặt kem, nhấc que đánh lên thấy có chóp nhưng chóp ngoặt xuống. Không đánh quá nhiều sẽ làm cho kem tách  nước khi trộn phần sầu riêng vào.</p>
+<p>* <em>Nên nếm thử phần hỗn hợp sầu riêng. Nếu sầu riêng đã đủ ngọt thì cho 15 – 20 gram đường, nếu sầu riêng rất ngọt thì giảm bớt 5 gram đường. </em></p>
+<p>– Nhẹ nhàng đổ phần kem trứng sầu riêng <strong>đã nguộ</strong>i vào âu kem tươi, trộn đều bằng kĩ thuật fold tới khi hòa quyện.</p>
+<p>3. Hoàn thiện:</p>
+<p>– Đặt 1/2 bạt bánh vào khuôn Mousse. Nếu dùng khuôn đế rời thì có thể lót thêm 1 miếng giấy nến ở dưới đế khuôn để lấy bánh ra và di chuyển bánh được dễ dàng. Đổ 1/2 lượng Mousse vào khuôn. Tiếp tục đặt phần bạt bánh còn lại lên trên Mousse và đổ nốt phần Mousse còn lại vào khuôn. Lắc và vỗ nhẹ khuôn để Mousse dàn phẳng mặt. Để ngăn mát tủ lạnh tối thiểu 4 giờ để Mousse đông hoàn toàn.</p>
+<p>– Khi Mousse đã đông thì làm nốt phần thạch lá dứa cốt dừa.</p>
+<p>4. Thạch lá dứa cốt dừa</p>
+<p>– Cho bột thạch, nước cốt dừa, đường, chiết xuất lá dứa vào nồi, quấy đều cho bột thạch tan. Để nghỉ 15 – 20 phút.</p>
+<p>– Bắc lên bếp nấu lửa to, vừa đun vừa quấy đều tay. Khi nước bắt đầu sôi thì bắc khỏi bếp, để thạch nguội bớt rồi đổ lên trên lớp Mousse. Không được đổ khi thạch còn quá nóng vì sẽ làm Mousse bị chảy. Để vào tủ lạnh cho thạch đông lại hoàn toàn.</p>
+
+
+<p>– Khi ăn, dùng dao mỏng lách quanh thành trong của khuôn để lấy bánh ra ngoài. Có thể dùng một chiếc khăn, nhúng vào nước nóng, vắt bớt nước rồi áp quanh thành khuôn để mousse tách khỏi thành khuôn, lấy ra sẽ dễ hơn.</p>
+<p>Bánh bảo quản lạnh, dùng trong khoảng 1 – 2 ngày.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21523823341/" title=" IMG_3756-1 by LinhTrang9185, on Flickr"><img alt=" IMG_3756-1" class="aligncenter" height="427" loading="lazy" src=" https://farm1.staticflickr.com/662/21523823341_37b6a950ee_z.jpg" width="640"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,53 @@
+---
+title: "[Món Tết] Cách làm DƯA MÓN"
+date: "2019-01-25"
+slug: "cach-lam-dua-mon"
+categories: []
+tags: []
+image: "/wp-content/uploads/2019/01/Duamon_final.jpg"
+description: "Cách làm dưa món: Trước đây mình luôn nghĩ không thể tự làm món ăn này tại nhà được, nên Tết nào cũng phải nhờ bạn bè người quen gửi từ miền Trung ra. Nhưng"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #000000;">Trước đây mình luôn nghĩ là món này không thể nào tự làm ở nhà ngon được, nên cứ Tết đến là nhờ người quen bạn bè gửi ở miền Trung ra cho 1 hũ để ăn kèm với củ kiệu, đôi khi còn gặp phải hũ dưa không vừa khẩu vị, quá mặn hoặc quá ngọt. Mày mò công thức làm thử thì hóa ra cũng đơn giản thôi, quan trọng là công đoạn sấy cho rau củ thật khô để khi ngâm có độ giòn và nước ngâm không lên váng, bọt. Làm cho nhà ăn nên nguyên liệu cũng chọn lọc chuẩn, nước mắm là loại ngon, nên thành phẩm không chê vào đâu được. Củ cải, cà rốt, su hào… có vị mặn, ngọt đậm đà, lại giòn sần sật, ăn kèm với bánh chưng hoặc các món thịt ngày tết rất là hợp, chống ngán cực kỳ hiệu quả.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7913" height="684" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/Duamon_final-1024x684.jpg" width="1024"/></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu:</strong></span></p>
+<ul>
+<li><em><span style="color: #000000;">30 gram cà rốt (1 củ vừa)</span></em></li>
+<li><em><span style="color: #000000;">35 gram củ cải (1 củ vừa)</span></em></li>
+<li><em><span style="color: #000000;">20 gram bẹ dưa cải muối (Mua sẵn ở hàng bán dưa muối)</span></em></li>
+<li><em><span style="color: #000000;">35 gram su hào (1 củ vừa)</span></em></li>
+<li><em><span style="color: #000000;">20 gram hành củ tím</span></em></li>
+<li><em><span style="color: #000000;">5 gram ớt (3 quả)</span></em></li>
+<li><em><span style="color: #000000;">250 gr nước mắm ngon</span></em></li>
+<li><em><span style="color: #000000;">250 gram đường</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><span style="color: #000000;">1. Sơ chế nguyên liệu:</span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="color: #000000;">– Cà rốt, củ cải, su hào gọt vỏ, tỉa hoa và thái miếng vừa ăn</span></p>
+<p><span style="color: #000000;">– Bẹ cải rửa cho bớt mặn, thái miếng vừa ăn</span></p>
+<p><span style="color: #000000;">– Hành tím bóc vỏ, để nguyên củ</span></p>
+<p><span style="color: #000000;">Lưu  ý: Cắt các nguyên liệu rau củ có kích thước bằng nhau để khi ngâm sẽ thấm đều ngon hơn.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7915" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/duamon1-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">2. Để các nguyên liệu đã sơ chế ra rổ cho thật ráo nước</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7916" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/duamon2-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">3. Bật lò nướng chế độ quạt gió 100 độ C, cho rau củ vào khay có lỗ thoát hơi, hoặc khay nướng thường cũng được, đặt vào rãnh giữa lò để sấy.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7917" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/duamon3-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">4. Trong suốt quá trình sấy luôn để hé cửa lò (chèn 1 cái đũa hoặc thìa gỗ vào cửa lò) để hơi nước thoát ra ngoài. Thỉnh thoảng đảo cho rau củ được sấy khô đều hơn. Sấy trong khoảng 1h là rau củ khô đủ để đem ngâm. Trường hợp không có lò sấy thì bạn có thể phơi nguyên liệu ngoài nắng, gió (nếu nắng to thì khoảng 4-5 tiếng là được).</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #000000;">Rau củ khô đạt là bề mặt rau củ sờ vào thấy mềm, khô, hơi quắt lại.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7918" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/duamon4-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">5. Trong lúc sấy rau củ thì tiến hành đun nước mắm đường, tỉ lệ 1:1. Với lượng rau củ trên thì mình dùng 250 gr nước mắm và 250 gr đường. Đun nước mắm và đường trên bếp, khuấy đều đến khi đường tan hoàn toàn, tắt bếp, để nguội.</span></p>
+<p><span style="color: #000000;">6. Xếp rau củ đã sấy vào hũ, cho vào 3 quả ớt, đổ hết phần nước mắm đường vào. Dùng phên hoặc que tre sạch chèn sao cho rau củ ngập trong nước mắm đường.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7919" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/duamon6-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">7. Dưa món ăn ngon nhất là sau 3 tuần. Có thể ăn luôn cùng với bánh chưng rất hợp hoặc có thể trộn với tai heo luộc chín, thái mỏng thành món salad cũng rất ngon.</span></p>
+<p><span style="color: #000000;">Lưu ý: Nên dùng lọ thủy tinh đã được tiệt trùng, lau khô để đảm bảo vệ sinh và khi cọ rửa cũng hết mùi dễ dàng hơn.</span></p>
+<p><span style="color: #000000;">Rau củ luôn phải ngập trong nước mắm và nắp đậy phải kín nếu không phần rau củ hở ra rất dễ mốc.</span></p>
+<p><span style="color: #000000;">Yêu cầu thành phẩm: Rau củ ngâm vị đậm đà, giòn sần sật, màu sắc tươi đẹp.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7920" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/duamon7-1024x683.jpg" width="1024"/></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

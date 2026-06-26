@@ -1,0 +1,122 @@
+---
+title: "Cách làm Chiffon cho khuôn không lõi giữa (Chiffon – P4)"
+date: "2012-08-06"
+slug: "chiffon-phan-4-cong-thuc-chiffon-co-ban"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/08/ChiffonCoBan.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p> </p>
+<p><strong><a href="/chiffon-phan-1/">Phần 1: Đặc điểm chung &amp; Phân biệt Chiffon với các loại bánh khác</a></strong></p>
+<p><strong><a href="/chiffon-phan-2-phuong-phap-tron-bot-danh-cho-chiffon-chiffon-method/">Phần 2: Phương pháp trộn bột Chiffon (Chiffon Method)</a></strong></p>
+<p><strong><a href="/chiffon-phan-3-that-bai/">Phần 3.1: Tại sao bánh xẹp, lõm, thắt eo, chai, không nở được… ?</a></strong></p>
+<p><strong><a href="/chiffon-phan-3-tai-sao-banh-xep-lom-dac-bet-chai-phan-tiep/">Phần 3.2: Tại sao bánh xẹp, lõm, thắt eo, chai, không nở được….? (tiếp)</a></strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p> </p>
+<p>Chiffon được mọi người ưa chuộng nhờ đặc điểm xốp, mềm, nhẹ và ẩm, có thể “ăn vã” không có kem trang trí mà vẫn thấy ngon :) Tuy nhiên, ưu điểm này cũng tạo ra một trong những khó khăn rất lớn khi làm Chiffon là do tỉ lệ chất lỏng &amp; chất béo so với lượng bột trong công thức khá cao làm cho lượng ẩm trong bánh dễ bị quá nhiều, dẫn đến khó hấp thụ hết, đặc biệt là trong phần lõi của bánh, gây ra hiện tượng bánh xẹp, lõm… như đã giải thích trong các phần trước.</p>
+<p>Vì đặc điểm này mà Chiffon thường được nướng trong khuôn có lõi giữa, thành khuôn cao và không chống dính, để nhiệt có thể truyền vào trong lõi bánh nhanh và đều hơn, giúp cho lượng ẩm trong bánh được hấp thụ tốt hơn, bánh bám vào khuôn và leo tốt hơn. Tuy nhiên, bánh nướng trong khuôn lõi giữa đôi khi lại có thể ảnh hưởng đến việc trang trí, cho nên nếu có một công thức Chiffon có thể làm với nhiều loại khuôn thì chắc sẽ thuận tiện hơn rất nhiều :)</p>
+<p>Tìm ra một công thức tốt cho Chiffon khuôn thường quả thật là một thử thách lớn với mình. Như mình có “kể lể” trong Phần 1 của chuỗi bài về Chiffon là mình đã thử kha khá các công thức nổi tiếng, nhưng vẫn không vừa ý. Cho nên sau một hồi thử nghiệm công thức tham khảo thì mình tự điều chỉnh các thành phần nguyên liệu trong công thức theo suy luận của mình, tóm tắt là:</p>
+<ol start="1">
+<li>Lượng chất lỏng &amp; béo vừa đủ, để sao cho bánh đủ ẩm, ăn không bị nghẹn, nhưng không quá nhiều, sẽ dễ gây ra hiện tượng xẹp, lõm bánh (<em>Lý do tại sao xem giải thích trong Phần 3)</em>.</li>
+<li>Lượng bột “nhiều” vừa phải, đủ để cho bánh cứng cáp, vững vàng. Không quá nhiều, vì sẽ làm bánh cứng, khô và nặng và cũng không quá ít, vì sẽ làm kết cấu bánh tuy nhẹ nhưng “yếu”, kém vững vàng.</li>
+</ol>
+<p>Và sau kha khá lần thêm bớt thì mình cũng tìm ra được một công thức mà đến thời điểm này mình tương đối hài lòng, hầu như không xẹp, bánh đủ ẩm và đủ vững vàng để trang trí. Công thức này có thể dùng cho mọi loại khuôn, tuy nhiên nếu làm cho khuôn lõi giữa thì mình vẫn thích <a href="/japanese-cotton-sponge-cake-hay-la-ga-to-nhat-ban-mem-nhu-bong-nhe-nhu-may/"><strong>Gateau Nhật Bả</strong></a>n hơn, vì với mình cho đến thời điểm hiện tại Gateau Nhật Bản là vô địch về độ mềm, xốp, nhẹ, chỉ có yếu điểm là quá nhẹ nên khó trang trí thôi.</p>
+<p style="text-align: center;"><span style="color: #800000;"><strong>Công thức Chiffon cơ bản</strong></span></p>
+<ul>
+<li><em><strong>Lòng trắng trứng</strong> : 100%</em></li>
+<li><em><strong>Lòng đỏ trứng</strong> (tính theo số lượng quả trứng sử dụng)</em></li>
+<li><em><strong>Bột mỳ đa dụng</strong> (all purpose flour/ plain flour): 50% lượng lòng trắng</em></li>
+<li><em><strong>Bột ngô</strong> (corn starch): 15% lượng lòng trắng </em></li>
+<li><em><strong>Đường</strong> (nên dùng loại hạt mịn): 60-70% lượng lòng trắng tùy khẩu vị </em></li>
+<li><em><strong>Sữa tươi không đường</strong>: 25% lượng lòng trắng</em></li>
+<li><em><strong>Dầu thực vật</strong> (VD: dầu ngô, dầu đậu phộng,.. <span style="text-decoration: underline;">không dùng dầu Olive</span>): 25% lượng lòng trắng</em></li>
+<li><em><strong>Cream of tartar</strong>: sử dụng theo tỉ lệ 1/8 teaspoon (thìa café) cream of tartar cho 1 lòng trắng trứng</em></li>
+</ul>
+<p>(* ) Cream of tartar có thể thay bằng nước cốt chanh hoặc dấm theo tỉ lệ tương đương, nhưng dùng cream of tartar vẫn là tốt nhất.</p>
+<p>Công thức lần này mình trình bày theo một cách hơi khác với mọi lần một chút, là mình để định lượng nguyên liệu dưới dạng tỉ lệ chứ không phải là con số tuyệt đối. Cụ thể hơn là mình lấy lượng lòng trắng trứng cần dùng để làm “mốc” (coi là 100%), các nguyên liệu còn lại được tính theo tỉ lệ với lượng lòng trắng trứng này.</p>
+<p>Lý do lấy lượng lòng trắng làm mốc là bởi vì trứng có kích thước khá là không giống nhau. Mà Chiffon nở chủ yếu dựa vào lòng trắng trứng đánh bông, dùng trứng 50gram/ quả chắc chắn sẽ cho bánh khác với trứng 60gram/ quả. Cho nên mình nghĩ lấy trứng gà làm mốc để tính sẽ chính xác hơn là lấy lượng bột làm mốc như cách tính thông thường của các thợ làm bánh</p>
+<p>Dựa theo công thức này, khi thực hành, tùy theo kích thước khuôn mà các bạn có thể tự tính toán lượng nguyên liệu cần thiết. Tỉ lệ trứng cần sử dụng tùy theo loại khuôn thì các bạn có thể tham khảo thông tin dưới đây</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span id="more-3028"></span></p>
+<p><span style="text-decoration: underline;"><strong>Lưu ý</strong></span>: tỉ lệ dưới được tính toán theo trứng có trọng lượng <strong>50gram/ quả không tính vỏ</strong>.</p>
+<ul>
+<li><em>Khuôn tròn đường kính 15-18cm: 3-4 trứng</em></li>
+<li><em>Khuôn <em>tròn đường kính </em>18-22cm: 4-5 trứng</em></li>
+<li><em>Khuôn <em>tròn đường kính </em> 22-25cm: 5-6 trứng</em></li>
+<li><strong>Với lượng trứng từ 7-8 quả trở lên nên dùng khuôn lõi giữa</strong>.</li>
+</ul>
+<p>Để mọi người tiện hình dung hơn, mình sẽ tính thử 1 công thức làm ví dụ nhé:</p>
+<p>Mình muốn làm Chiffon sử dụng <em><strong>khuôn tròn đường kính 20cm</strong></em>. Trứng gà của mình nặng 50gram không tính vỏ, trong đó lòng trắng khoảng 30-32gram, lòng đỏ khoảng 17-20 gram. Lượng trứng cần thiết cho khuôn tròn đk 20cm là 4 quả. Như vậy, công thức cụ thể sẽ là:</p>
+<ul>
+<li><em><strong>Lòng trắng trứng</strong>:<strong> 120gram</strong> (gồm 4 lòng trắng có trọng lượng 30gram/ lòng trắng)</em></li>
+<li><em><strong>Lòng đỏ trứng: 80gram</strong> (gồm 4 lòng đỏ)</em></li>
+<li><em><strong>Bột mỳ đa dụng</strong>: 50% x 120 =<strong> 60gram</strong></em></li>
+<li><em><strong>Bột ngô</strong>: 15% x 120 = <strong>18gram</strong></em></li>
+<li><em><strong>Đường: </strong>65% x 120 = <strong>78 gram</strong> </em></li>
+<li><em><strong>Sữa</strong>: 25% x 120 = <strong>30gram</strong></em></li>
+<li><em><strong>Dầu ăn</strong>: 25% x 120 = <strong>30gram</strong></em></li>
+<li><em>C<strong>ream of tarta</strong>r = 1/8teaspoon x 4 = <strong>1/2teaspoon</strong> (1/2 thìa café)</em></li>
+</ul>
+<p>Hi vọng là các bạn sẽ không gặp khó khăn gì trong việc tính toán và áp dụng công thức này trong thực tế. Thực ra đây là lần đầu tiên mình viết công thức theo cách này nên có thể sẽ hơi lạ một chút, nhưng mình nghĩ một công thức như thế này sẽ tiện hơn. Và nếu có vấn đề hay khó khăn gì thì cả nhà cứ góp ý nhé, mình cũng muốn khắc phục cho các lần sau nữa :)</p>
+<p>Trên đây là công thức, còn cách làm Chiffon cùng các lưu ý mình đã giải thích rất rất kĩ ở trong <a href="/chiffon-phan-2-phuong-phap-tron-bot-danh-cho-chiffon-chiffon-method/">Phần 2 (Chiffon Method)</a> rồi, bạn nào chưa quen thì đọc thêm nhé. Trong bài này mình chỉ viết tóm tắt rất ngắn gọn các bước cùng một vài lưu ý thêm với riêng công thức này thôi.</p>
+<p style="text-align: center;"><strong><span style="color: #800000;">Cách làm Chiffon cơ bản</span></strong></p>
+<p><span style="color: #800000;"><strong>Bước 1</strong></span>. Chuẩn bị khuôn &amp; giấy nướng bánh hoặc giấy A4. Dùng khuôn làm mẫu cắt 1 hình tròn hoặc vuông bằng với đáy khuôn. Lót giấy vào đáy khuôn. <strong>KHÔNG</strong> chống dính thành khuôn. Làm nóng lò ở nhiệt độ 160 độ C, hai lửa, khay nướng đặt thấp hơn rãnh giữa 1 nấc.</p>
+<p>*<strong><span style="text-decoration: underline;"> Lưu ý</span>: Nếu lò nhỏ hơn 42 lít, nhiệt độ không ổn định (trên hoặc dưới nóng hơn…) thì đọc lại Phần 3 để biết cách điều chỉnh nhiệt độ cho chuẩn.</strong></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7721978570/" title="Chiffon co ban by LinhTrang9185, on Flickr"><img alt="Chiffon co ban" class="aligncenter" height="500" loading="lazy" src="http://farm9.staticflickr.com/8432/7721978570_b63f3fab3e.jpg" width="500"/></a></p>
+<p><strong><span style="color: #800000;">Bước 2</span>.</strong> Cho lòng đỏ trứng vào âu. Rây 1/3 lượng đường vào âu. Rây bột. Cho dầu ăn và sữa. Dùng phới lồng cầm nhẹ nhàng khuấy từ trong ra ngoài theo một chiều, đến khi các nguyên liệu hòa quyện và hỗn hợp trở nên đặc mịn. Có thể lọc qua rây để loại bột bị vón cục.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7721978188/" title="Chiffon co ban1 by LinhTrang9185, on Flickr"><img alt="Chiffon co ban1" class="aligncenter" height="500" loading="lazy" src="http://farm8.staticflickr.com/7266/7721978188_c64c8ebe28.jpg" width="500"/></a></p>
+<p><span style="color: #800000;"><strong>Bước 3</strong></span>. Cho lòng trắng vào âu. Có thể cho thêm 1 nhúm nhỏ muối. Đặt máy ở tốc độ thấp, đánh khoảng 30-60giây, đến khi bọt khí to nổi lên (hình 1) thì cho Cream of tartar (hoặc dấm/ nước cốt chanh). Từ từ tăng máy lên tốc độ cao, đánh đến khi bọt khí nhỏ mịn, li ti giống bọt xà phòng (hình 2) thì cho đường.</p>
+<p><strong>Lưu ý:</strong> <em>cho đường từ từ thành nhiều phần nhỏ, không đổ ụp đường vào âu cùng 1 lúc</em>.</p>
+<p>Đánh đến khi trứng bông mềm hoặc hơn bông mềm một chút, nhưng <strong>không quá cứng</strong>. Mô tả trạng thái là trứng bóng, dẻo, úp ngược tô không bị rơi, nhấc que đánh lên thấy trứng tạo chóp có thể hơi cong một chút, nhưng không oặt xuống (<em>có thể cứng hơn hình 4 một chú</em>t). Về cách đánh bông và các trạng thái bông của trứng các bạn có thể xem thêm tại <a href="/danh-bong-trung-phan-2/"><strong>ĐÂY</strong></a></p>
+
+
+<p><a href="http://www.flickr.com/photos/55490207@N05/7721977258/" title="Danh bong long trang trung by LinhTrang9185, on Flickr"><img alt="Danh bong long trang trung" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7137/7721977258_63f9e2b0de.jpg" width="500"/></a></p>
+<p><strong><span style="color: #800000;">Bước 4.</span></strong> Lấy 1/3 số lòng trắng trứng, cho vào âu. Dùng phới lồng đánh trứng đánh theo một chiều đến khi hỗn hợp hòa quyện. Chia số lòng trắng trứng còn lại thành 2-3 phần, lần lượt cho vào âu, dùng kỹ thuật Fold trộn đều, dứt khoát nhưng nhẹ tay, tránh làm vỡ bọt khí trong lòng trắng trứng. <em>Xem thêm về cách trộn và kỹ thuật fold tại <a href="/danh-bong-trung-phan-2/"><strong>ĐÂY</strong></a></em></p>
+<p><strong>Lưu ý</strong>:</p>
+<p>– Vì hỗn hợp lòng đỏ theo công thức này tương đối đặc nên bắt buộc phải có khâu trộn 1/3 lòng trắng trứng trước, để làm hỗn hợp lỏng ra, tạo điều kiện cho việc fold số lòng trắng còn lại dễ dàng hơn.</p>
+<p>– Cũng vì hỗn hợp lòng đỏ đặc mà trứng không nên đánh bông quá cứng, sẽ rất khó trộn với lòng đỏ. Nếu trứng bông vừa phải thì khi trộn các bạn sẽ thấy lòng trắng hòa quyện với lòng đỏ theo dạng “sợi”, còn nếu trứng bông quá cứng thì khi trộn lòng trắng sẽ tạo thành các vụn, trông giống như bị vón cục. Hậu quả là phải trộn nhiều nhát để lòng trắng hòa quyện được hết =&gt; dễ làm vỡ nhiều bọt khí, bánh khi nướng sẽ nở kém hoặc không nở được.</p>
+<p>* <em>Nếu chẳng may lỡ tay đánh trứng quá cứng, khi trộn các bạn có thể quấy nhẹ vài nhát cho lòng trắng hòa quyện và tan bớt rồi mới dùng kĩ thuật fold để trộn. Cách này có thể sẽ làm vỡ chút ít bọt khí (trong lúc quấy), nhưng kết quả chắc chắn vẫn khả quan hơn là fold nhiều nhát (có thể bọt khí sẽ bị vỡ nhiều hơn). </em></p>
+<p><span style="color: #800000;"><strong>Bước 5</strong></span>. Đổ bột vào khuôn, gõ nhẹ khuôn xuống bàn để các bọt khí to vỡ bớt (giúp bánh sau này mịn hơn). Dùng spatula dàn mặt bánh cho phẳng. Mang đi nướng ngay.</p>
+<p>Thông thường, như lò nhà mình là lò to có 5 rãnh đặt khay và nhiệt độ chuẩn, thì mình hay nướng 2 lửa, khay nướng đặt thấp hơn rãnh giữa một lò (để khuôn ở vị trí chính giữa lò). Mình dùng khuôn sẫm màu nên thường nướng ở 150 độ C, khuôn 20cm thì nướng trong khoảng 45-55 phút. Đây là một ví dụ để các bạn dễ hình dung. Còn nhiệt độ và thời gian, cách đặt khay cũng như chế độ lửa trên thực tế sẽ phụ thuộc rất nhiều vào lò nướng của bạn. Cách điều chỉnh thế nào trong <strong>Phần 3.1 và 3.2,</strong> cả bài viết lẫn comment đều đã bàn luận khá kĩ, có một số lưu ý chung nhất là:</p>
+<p>– Khuôn sáng màu nướng ở khoảng 155-160 độ C, khuôn sẫm màu nướng ở khoảng 150-155 độ C. Khuôn to (từ 23cm trở lên) thì nên hạ nhiệt độ thấp hơn khoảng 5-10 độ C và tăng thời gian nướng.</p>
+<p>– Khuôn càng to so với lò thì nhiệt độ càng nên hạ và thời gian nướng nên tăng. Ví dụ, khuôn 20cm nướng trong lò 30 lít sẽ có nhiệt độ nướng thấp hơn và thời gian nướng lâu hơn khuôn 20cm nướng trong lò 50 lít.</p>
+<p>– Với các lò nhỏ (dưới 42 lít), nếu dùng khuôn to thì nên đặt khuôn ở nấc thấp hoặc gần thấp nhất, có thể nướng lửa dưới trong 2/3 thời gian đầu rồi mới chuyển 2 lửa, để tránh việc mặt bánh tiếp xúc với lửa trên trong thời gian dài dễ bị cháy.</p>
+<p>– <strong>Đặc biệt lưu ý về việc: nhiệt độ lò có chính xác hay không</strong> (một số lò như Gali, Sanaky ,.. theo các bạn phản hồi thường có nhiệt độ trong lò cao hoặc thấp hơn so với nhiệt độ điều chỉnh bên ngoài).</p>
+<p>* <strong>Trong quá trình nướng không nên mở cửa lò</strong>, chỉ nên mở khi bánh đã gần chín – cụ thể là để kiểm tra xem bánh đã chín chưa.</p>
+<p><strong><span style="color: #800000;">Bánh chín sẽ đạt những yêu cầu sau:</span> </strong></p>
+<p>– Mặt chín vàng, có thể hơi nâu sẫm nhưng không cháy. Bánh thơm, kể cả không dùng vanilla thì vẫn thấy bánh rất thơm ;)</p>
+<p>– Ấn nhẹ lên chính giữa mặt bánh thấy vệt lõm phồng trở lại ngay lập tức, nếu vệt lõm còn duy trì tức là phần lõi bánh còn ẩm, nên để bánh thêm trong lò 5-10 phút.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7721977072/" title="IMG_5517 by LinhTrang9185, on Flickr"><img alt="IMG_5517" class="aligncenter" height="500" loading="lazy" src="http://farm9.staticflickr.com/8292/7721977072_6fc2797c7a.jpg" width="357"/></a></p>
+<p><span style="color: #800000;"><strong>Bước 6</strong>.</span> Sau khi bánh chín thì lấy ra khỏi lò. Có thể đập khuôn xuống bàn vài cái cho phần hơi ẩm (nếu có còn nhiều trong bánh) được phân tán đều, hạn chế kéo bánh xẹp.</p>
+<p>Úp ngược bánh lên rack (kê cao hơn so với mặt bàn) khoảng 3-5 phút. Trong quá trình này mặt bánh có thể sẽ hơi xẹp một chút, đây là hiện tượng bình thường, không đáng ngại. Sau một vài phút úp ngược bánh thì dùng dao mỏng lách quanh thành bánh và lấy bánh ra khỏi khuôn, để bánh lên rack cho nguội hẳn.</p>
+<p>Nếu bánh có hiện tượng xẹp thì khoảng 20 phút có thể dùng một chiếc rack khác, úp lên bánh và lật ngược bánh lại. Cách này cũng giúp phần hơi ẩm còn sót lại bên trong bánh phân tán đều hơn, tránh cho bánh bị lõm nhiều.</p>
+<p>Đợi bánh nguội hẳn mới cắt hoặc trang trí bánh.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7721976722/" title="IMG_5533 by LinhTrang9185, on Flickr"><img alt="IMG_5533" class="aligncenter" height="500" loading="lazy" src="http://farm9.staticflickr.com/8421/7721976722_12773de48b.jpg" width="333"/></a></p>
+<p><strong><span style="text-decoration: underline;">Một vài lưu ý <span style="color: #ff0000; text-decoration: underline;">QUAN TRỌNG</span> khác</span> (nhất định nên đọc ;) )</strong></p>
+<p><span style="text-decoration: underline; color: #800000;"><strong>Số 1:</strong></span></p>
+<p>Với Foam Cake nói chung và Chiffon nói riêng, mình để ý các câu hỏi trên các diễn đàn, food blog và cả Savoury Days, thì thấy độ cao của bánh đôi khi có vẻ làm mọi người hơi bị “bấn loạn” :P Chẳng hạn như là <em>“tại sao bánh làm 5 trứng, 6 trứng… mà chỉ nở được a, b, c , x, y, z… cm</em>??!!!!”. Thật ra, mình làm các loại bánh kiểu này, hầu như chẳng bao giờ đo xem bánh cao bao nhiêu, vì có 2 lý do chính là:</p>
+<p>1. Đúng là bánh nở cao thể hiện sự thành công, nhưng không phải là đặc điểm quan trọng nhất hay duy nhất của Chiffon thành công. Chiffon thành công là khi bánh tơi xốp, không bết đặc, không chai hay dai, không èo uột, thắt đáy lưng ong… Với mình những đặc điểm này cũng quan trọng như độ cao của bánh vậy.</p>
+<p>2. Việc bánh nở cao bao nhiêu, nếu chỉ dựa vào số lượng trứng thì không nói được gì. Thực tế, độ nở hay độ cao của bánh còn phụ thuộc vào rất nhiều yếu tố khác, như là khối lượng trứng, độ tươi của lòng trắng trứng, kĩ thuật trộn bột bánh, thành khuôn có thuận lợi cho bánh leo hay không,…</p>
+<p>Kết luận là, đừng để bị ám ảnh vì chuyện tại sao bánh của người ta nở được 8cm mà bánh của mình chỉ nở được 7cm nhé ;) Miễn “cả nhà ăn khen ngon” là đạt điểm 11/10 rồi ;)</p>
+<p><span style="text-decoration: underline;"><strong><span style="color: #800000; text-decoration: underline;">Số 2:</span></strong></span></p>
+<p>Đừng băn khoăn quá nhiều nếu bánh của bạn sau khi lấy ra khỏi lò bị xẹp chút ít. Vì Chiffon bị xẹp là chuyện bình thường. Bản thân mình đã thấy rất nhiều bánh – của cao thủ – cũng có xẹp một chút. Chỉ cần phần xẹp này không bị quá đà – ví dụ như võng hẳn mặt bánh xuống, và ruột bánh rơi vào tình trạng mô tả như trong Phần 3 là ổn rồi ;)</p>
+<p><span style="color: #800000;"><strong><span style="text-decoration: underline;">Số 3</span>:</strong></span></p>
+<p>Mình <strong>không khẳng định</strong> đây là Công thức Chiffon  ngon nhất, tốt nhất hay bất bại. Chiffon là loại bánh đỏng đảnh và chịu ảnh hưởng của khá nhiều yếu tố khách quan. Nên nếu bạn đã có một công thức Chiffon mà bạn rất hài lòng rồi thì cũng không cần thay đổi làm gì.</p>
+<p>Còn chuyện “bất bại” thì cá nhân mình – nói thật là – không tin lắm vào các công thức được đánh dấu “no fail”. Bởi vì mình nghĩ là công thức  và hướng dẫn có lẽ chỉ chiếm nhiều lắm là 30-40% thành công, còn lại phụ thuộc vào kĩ năng của người làm bánh cùng các yếu tố khách quan như lò nướng… Những gì mình đã làm, và đã viết, chỉ là cố gắng để hạn chế khả năng thất bại đến mức tối đa khi làm Chiffon. Nếu trong quá trình làm bạn vẫn gặp khó khăn thì mình rất sẵn lòng tiếp tục thảo luận, giải đáp thắc mắc. Tuy nhiên, mình xin phép nhắc lại một lần nữa về “nguyên tắc” làm việc mới là:</p>
+<p><strong>Rất mong các bạn sẽ đọc kĩ bài viết và các phản hồi trong các phần về Chiffon, nhất là phần 3, bài viết về làm <a href="/demo-genoise-cot-banh-bong-lan-ga-to-co-ban/">Sponge Cake</a>, <a href="/nhat-ky-hoc-lam-banh-phan-5-gateau-hong-kong-cong-thuc/">Gateau Hồng Kông </a>và <a href="/japanese-cotton-sponge-cake-hay-la-ga-to-nhat-ban-mem-nhu-bong-nhe-nhu-may/">Gateau Nhật Bản</a>, trước khi đặt câu hỏi giúp mình.</strong> Đặc biệt là trong gần 400 comment tại bài viết về Gateau Nhật Bản, các bạn khác và mình đã rất rất nhiều lần đề cập đến cách giải quyết cho nhiều trường hợp cụ thể liên quan đến bánh xẹp, lõm. Còn nếu đã đọc rồi nhưng vẫn không tìm được câu trả lời, thì khi đặt câu hỏi với tình huống bánh xẹp, các bạn ghi giúp mình cụ thể các thông tin sau:</p>
+<p style="padding-left: 30px;">1. Tình trạng bánh sau khi ra lò (xẹp, lõm… như thế nào), tốt nhất là có ảnh</p>
+<p style="padding-left: 30px;">2. Dung tích lò, loại và kích thước khuôn, vị trí đặt khay bánh, chế độ lửa, nhiệt độ và thời gian nướng</p>
+<p style="padding-left: 30px;">3. Nếu có thể có công thức kèm theo thì càng tốt</p>
+<p>Thông tin càng cụ thể thì mình “đoán mò” bệnh càng dễ <img alt=":d" src="/wp-includes/images/smilies/4.gif"/> NHƯNG – giao hẹn trước là nếu câu hỏi tương tự đã được trả lời trong các comment trước rồi thì mình sẽ không trả lời lại đâu đấy nhé <img alt=":-)" src="/wp-includes/images/smilies/1.gif"/></p>
+<p>Chúc các bạn sẽ luôn thành công với Chiffon :x</p>
+<p>——-</p>
+<p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ email: <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi hành động cố tình vi phạm sẽ chịu xử lí theo quy định của pháp luật.</span></strong></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

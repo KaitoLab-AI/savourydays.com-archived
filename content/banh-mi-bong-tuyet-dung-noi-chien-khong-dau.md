@@ -1,0 +1,60 @@
+---
+title: "BÁNH MÌ BÔNG TUYẾT (Dùng Nồi Chiên Không Dầu)"
+date: "2021-12-13"
+slug: "banh-mi-bong-tuyet-dung-noi-chien-khong-dau"
+categories: []
+tags: []
+image: "/wp-content/uploads/2021/12/cach-lam-banh-my-bong-tuyet-banner-610x300.jpg"
+description: "Cách làm bánh mì hình bông tuyết vừa đẹp vừa ngon cho Giáng sinh và Năm mới. Bánh có thể nướng bằng nồi chiên không dầu"
+---
+
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400; color: #000000;">“Nàng thơ” Bánh mì của mình quay trở lại với phiên bản Giáng Sinh vừa “hoành tráng”, vừa mềm xốp, vừa thơm nức nở mùi kem tươi, phomai, lá thơm đây ạ 😁</span></p>
+<p><span style="font-weight: 400; color: #000000;">Vỏ bánh thì vẫn là công thức Bánh mì sữa Hokkaido thần thánh bao năm, phần nhân thì mình dùng tương cà và phomai, ăn giống vị của Pizza, trẻ con và người lớn đều thích. Ngoài ra, việc tạo hình thế này không chỉ đẹp và có không khí Giáng Sinh mà còn rất dễ ăn, mỗi người lấy 1 miếng rất vừa vặn và phù hợp cho các bữa tiệc, cả nhà thử nha. Giáng Sinh tới gần lắm rùiiiiii </span></p>
+<p><span style="font-weight: 400; color: #000000;">Trong video mình dùng nồi chiên không dầu của 2GOOD, nồi nhỏ xinh, có cả nhiệt trên và dưới dùng nướng bánh rất tiện. Nếu bạn dùng lò nướng thì mình cũng có ghi cách nướng tại công thức rồi nha ^^</span></p>
+<h2><span style="font-weight: 400; color: #000000;">CÁCH LÀM BÁNH MÌ BÔNG TUYẾT </span></h2>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">270 gram bột làm bánh mì (bột số 13)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">30 gram bột làm bánh ngọt</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">15 gram sữa bột (không bắt buộc)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 gram đường xay</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">½ thìa cafe muối</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">5 gram (1 ½ thìa cafe) men nở</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">½ quả trứng gà (đánh tan 1 quả trứng cân lấy 25 gram, phần còn lại để quét mặt bánh)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">130 gram sữa tươi không đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">75 – 80 gram kem tươi</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">* Nhân bánh</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">Tương cà (ket chup) </span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Phomai bột parmesan (có thể dùng phomai mozzarella nhưng sẽ dễ bị chảy và làm bánh không rõ hình ngôi sao)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Lá thơm Ý (Italian mixed herbs)</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/ngVSeXBkMdU" width="560"></iframe></div>
+<ol>
+<li><span style="font-weight: 400; color: #000000;"> Cách nhồi bột bánh mì sữa mình đã ghi rất chi tiết kèm video minh họa và các lưu ý quan trọng tại đây, mọi người xem nhé:</span></li>
+</ol>
+<p><span style="color: #000000;"><a href="/banh-mi-sua-hokkaido-hokkaido-milky-bread/" style="color: #000000;"><span style="font-weight: 400;">/banh-mi-sua-hokkaido-hokkaido-milky-bread/</span></a></span></p>
+<ol start="2">
+<li><span style="font-weight: 400; color: #000000;"> Bột sau khi ủ lần 1, ấn xẹp hoàn toàn bọt khí và đập lại nhẹ nhàng cho gluten phục hồi. Cân cả khối bột rồi chia thành 4 phần bằng nhau. Gấp phần mép bột vào giữa để tạo mặt mịn cho các viên bột. Dùng khăn ẩm che kín và để bột nghỉ 3 – 5 phút.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Chống dính 1 lớp mỏng bột mì lên bàn và cây cán bột. Cán bột thành hình tròn. Bột lúc này sẽ rất co, đây là chuyện bình thường. Sau khi cán sơ phần bột đầu tiên, tiếp tục để bột nghỉ và đi cán các phần bột tiếp theo, sau đó quay lại miếng bột đầu tiên cán tiếp (nếu thấy bột co, tiếp tục để bột nghỉ thêm).</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Cắt bột thành hình tròn, vừa với kích thước khay nướng, phết sốt cà chua, rắc phomai và lá thơm, tạo hình giống video hướng dẫn.</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">Lưu ý: Mím thật chặt mép bột tránh làm bột bị bung ra khi nướng.</span></p>
+<ol start="5">
+<li><span style="font-weight: 400; color: #000000;"> Phủ khăn che kín và ủ lần 2 tới khi bột nở khoảng 90%. </span></li>
+<li><span style="font-weight: 400; color: #000000;"> Lọc phần trứng đánh tan còn thừa qua rây, phết 1 lớp trứng mỏng và đều lên bánh, rắc lá thơm lên.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Nướng bánh: (làm nóng lò hoặc NCKD trước tối thiểu 15 phút)</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">– Với NCKD: Nướng bánh ở 160 – 170 độ C trong khoảng 28 phút. Sau 8 phút kiểm tra nếu thấy bánh vàng thì dùng giấy bạc che lên mặt bánh và nướng tiếp.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Với lò nướng: Nướng bánh ở 180 độ C trong khoảng 28 phút. Sau 18 – 20 phút kiểm tra nếu thấy bánh vàng thì dùng giấy bạc che lên mặt bánh và nướng tiếp.</span></p>
+<ol start="8">
+<li><span style="font-weight: 400; color: #000000;"> Bánh sau khi nướng để nguội trên rack, có thể ăn kèm với tương cà và mayonnaise. </span></li>
+<li><span style="font-weight: 400; color: #000000;"> Bảo quản: Bánh để trong túi kín, nếu để nhiệt độ phòng cần dùng trong ngày, hoặc để ngăn mát tủ lạnh 5 – 7 ngày, ngăn đá 3 – 4 tuần. Trước khi ăn có thể làm nóng bằng cách quay lò vi sóng 30 – 45 giấy hoặc nướng trong lò ở 180 độ C trong 5 phút.</span></li>
+</ol>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

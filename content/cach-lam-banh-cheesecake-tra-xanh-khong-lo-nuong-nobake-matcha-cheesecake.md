@@ -1,0 +1,76 @@
+---
+title: "Cách làm bánh cheesecake trà xanh không lò nướng & Quà tặng từ Mini game"
+date: "2016-06-30"
+slug: "cach-lam-banh-cheesecake-tra-xanh-khong-lo-nuong-nobake-matcha-cheesecake"
+categories: []
+tags: []
+image: "/wp-content/uploads/2016/06/Cách-làm-cheesecake-trà-xanh-banner.jpg"
+description: "Cách làm bánh cheesecake trà xanh không cần lò nướng: bánh mềm mịn, thơm ngậy với vị trà xanh thanh mát và tan ngay khi bỏ vào miệng. Công thức kèm video"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>(*)(*)(*) <span style="color: #ff0000;"><strong>CHÚ Ý: Ở cuối bài có Mini game với quà tặng, cả nhà đừng bỏ qua nhé</strong> </span>:)</p>
+<p>Mình thích vị trà xanh, dù là dùng làm đồ uống hay trong các món ăn, món tráng miệng. Mỗi khi ngửi hay nếm thử vị trà xanh là đều có cảm giác nhẹ bẫng và sảng khoái, giống như mọi thứ nặng nề trong lòng đều bị quét sạch ấy. Có  lẽ nhờ kiểu hương vị kì diệu này mà trà xanh là thứ nguyên liệu lí tưởng để kết hợp trong những món vốn nhiều kem và bơ như bánh pho-mát <em>cheesecake </em>hay bánh <em>mousse. </em></p>
+<p>Công thức bánh pho-mát trà xanh kiểu không cần lò nướng này  mình mới thử thôi nhưng rất ưng ở nhiều điểm. Bánh có độ đậm đà và ngậy nhất định từ kem tươi, pho-mát và lòng đỏ trứng, nhưng vì có trà xanh nên ăn không thấy ngấy. Phần <em>ladyfingers </em>hay bánh Sampa vẫn hữu dụng như  mọi khi, mềm xốp chẳng khác gì bánh bông lan cả. Và điểm mà mình ưng nhất là tỉ lệ các thành phần nguyên liệu đạt được ngưỡng vừa chuẩn, làm cho bánh đủ đông nhưng không tới độ đông chắc. Bánh cắt ra vẫn đẹp mịn màng nhưng có một chút “mướt” kiểu <em>cheesecake, </em>và khi ăn thì tan ngay trong miệng. Điểm này quan trọng lắm vì với những món như kiểu <em>cheesecake, </em>chỉ cần lệch chút thôi là bánh có thể cứng như thạch hay panna cotta rồi.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/27719121790/" title=" cách làm bánh cheesecake trà xanh by LinhTrang9185, on Flickr"><img alt=" cách làm bánh cheesecake trà xanh " class="aligncenter" height="1000" loading="lazy" src=" https://c7.staticflickr.com/8/7709/27719121790_22ffd05288_z.jpg " width="667"/></a></p>
+<h2><strong>CÁCH LÀM BÁNH CHEESECAKE TRÀ XANH KHÔNG LÒ NƯỚNG – NOBAKE MATCHA CHEESECAKE</strong></h2>
+<p><span style="color: #800000;"><strong>Thành phẩm</strong></span>: 1 bánh tròn đường kính 18 cm cao 4 – 5 cm</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: 1 khuôn tròn đế rời đường kính 18 cm hoặc 1 ring mousse đường kính tương tự</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<ul>
+<li><em>4 g gelatin dạng bột hoặc lá (không thay được bằng bột rau câu agar hoặc bột jelly)</em></li>
+<li><em>25 ml nước mát</em></li>
+<li><em>2 lòng đỏ trứng gà (18 – 20 g/ lòng đỏ)</em></li>
+<li><em>30 g đường</em></li>
+<li><em>10 g bột mì đa dụng</em></li>
+<li><em>50 ml sữa tươi không đường (hơi ấm)</em></li>
+<li><em>50 ml kem tươi hàm lượng béo 30 – 40% (hơi ấm)</em></li>
+<li><em>8 g bột trà xanh</em></li>
+<li><em>20 ml nước sôi</em></li>
+<li><em>200 g cream cheese – để mềm ở nhiệt độ phòng</em></li>
+<li><em>20 g đường</em></li>
+<li><em>120 ml kem tươi lạnh – hàm lượng béo 30-40%</em></li>
+<li><em>10 – 12 bánh quy Sampa (Ladyfingers/ Savoiardi)</em></li>
+<li><em>50 ml sữa tươi không đường</em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>Video các bước làm bánh đã được đăng tại <strong><a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days</a></strong>. Nếu không xem được video tại blog, các bạn có thể xem trực tiếp trong <strong><a href="https://youtu.be/Kbqna7Bwbmk" target="_blank">link này</a> </strong>nhé. Video có chế độ bản đẹp HD. Các bạn có thể xem hướng dẫn cách chỉnh chế độ HD ở cuối bài viết <strong><a href="/demo-flan-creme-caramel-kem-caramel/" target="_blank">cách làm bánh flan này.</a> </strong>Ở dưới video là danh sách nguyên liệu và tóm tắt các bước làm bánh nha.</p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/Kbqna7Bwbmk" width="560"></iframe></div>
+<p> </p>
+<p>TÓM TẮT CÁC BƯỚC LÀM BÁNH</p>
+<p>1. Ngâm gelatin trong 25 ml nước khoảng 10 – 15 phút tới khi gelatin nở mềm.</p>
+<p>2. Đánh lòng đỏ trứng với 30 g đường tới khi lòng đỏ bông đặc mịn, màu vàng nhạt. Rây bột mì vào trộn đều. Từ từ đổ sữa và kem tươi (hơi ấm nóng) vào, quấy đều. Lọc hỗn hợp qua rây, đổ vào nồi.</p>
+<p>3. Nấu kem trứng trên lửa vừa, quấy liên tục. Khi kem đặc sệt lại thì bắc khỏi bếp, quấy thêm một chút cho kem mịn mượt. Cho gelatin đã ngâm nở mềm vào (cho cả nước ngâm gelatin). Quấy đều tới khi gelatin tan hết và hoà quyện trong hỗn hợp kem trứng. Lọc qua rây để loại bỏ vón cục nếu có. Cho vào bát. Dùng nilon bọc thực phẩm phủ lên sao cho nilon áp sát mặt kem trứng (để tránh tạo màng trên mặt kem). Để nguội về nhiệt độ phòng.</p>
+<ul>
+<li>Lưu ý: Nếu kem trứng đặc sệt nhưng còn mùi tanh hay vị bột là do nấu ở lửa quá lớn, nước bay hơi nhanh trong khi kem trứng chưa chín hoàn toàn. Cách khắc phục: đổ thêm chút kem hay sữa vào hỗn hợp, quấy đều cho hỗn hợp loãng hơn rồi nấu trên lửa nhỏ nhất tới khi kem đặc và chín hẳn (quấy đều trong khi đun).</li>
+</ul>
+<p>4. Hoà bột trà xanh với nước nóng tới khi ta có hỗn hợp trà xanh sệt.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>5. Cho cream cheese, 20 g đường và trà xanh ở bước (4) vào âu. Đánh ở tốc độ thấp nhất khoảng 1 – 2 phút tới khi nguyên liệu hoà quyện, mịn mượt. Lưu ý: cream cheese phải để mềm ở nhiệt độ phòng nếu không sẽ dễ bị lợn cợn hay vón cục khi đánh.</p>
+<p>6. Cho 1/2 lượng kem trứng đã nguội vào đánh đều cùng phần kem cream cheese trà xanh (đánh ở tốc độ thấp nhất) tới khi hoà quyện. Cho nốt phần kem trứng còn lại vào, đánh hoà quyện.</p>
+<p>7. Đánh kem tươi lạnh tới khi kem đạt bông mềm. Chia kem tươi thành hai phần, lần lượt cho từng phần vào âu đựng kem pho-mát trà xanh, nhẹ nhàng trộn đều tới khi hoà quyện. Sau khi trộn xong, hỗn hợp sẽ khá mịn, mượt, màu xanh non dịu dàng :)</p>
+<p>8. Chuẩn bị khuôn, lót giấy nến ở đáy khuôn để sau khi bánh đông có thể lấy khỏi khuôn và di chuyển dễ dàng.</p>
+<p>9. Cạo bớt đường trên bánh Sampa. Nhúng nhanh hai mặt bánh vào sữa rồi xếp thành một lớp kín đáy khuôn. Lưu ý khi nhúng sữa cần làm nhanh tay, không nhúng cả bánh vào sữa vì dễ làm bánh ướt và nhũn nhanh. Nếu không nhúng sữa, bánh thiếu ẩm có thể sẽ dễ bị dai sau thời gian để trong tủ lạnh.</p>
+<p>10. Đổ phần kem pho-mát trà xanh vào khuôn, lắc nhẹ cho kem tự dàn phẳng mặt. Để khuôn vào ngăn mát tủ lạnh khoảng 4 giờ hoặc tới khi bánh đông hẳn. Bảo quản bánh trong ngăn mát tủ lạnh, dùng trong hai ngày. Lưu ý: bánh sẽ bị mềm và chảy khá nhanh ở nhiệt độ cao từ khoảng 30 độ C trở lên nên luôn cần phải giữ bánh trong tủ lạnh, khi ăn  mới lấy ra.</p>
+<p>11. Khi ăn, dùng dao lữoi mỏng rọc quanh thành trong của khuôn rồi lấy bánh ra ngoài. Rắc bột trà xanh lên mặt bánh ngay trước khi dùng.</p>
+<p>————</p>
+<h3>MINI GAME &amp; 10 phần quà tặng BỘT TRÀ XANH NHẬT BẢN</h3>
+<p>Mini game này dành cho các bạn nào cũng yêu thích vị bột trà xanh và các sản phẩm có vị bột trà (giống mình ;) ). Với các sản phẩm có dùng trà xanh thì nguyên liệu quan trọng nhất hẳn phải là bột trà. Bản thân mình từ trước tới giờ cũng trầy trật vụ bột trà này lắm vì kể cả bột trà của Nhật sản xuất cũng có nhiều loại khác nhau, không phải loại nào cũng cho mùi thơm và màu sắc ưng ý, chưa nói tới bột trà Trung Quốc, Đài Loan (pha vào cảm thấy đúng kiểu như là “thôi xong rồi…”  :( ). Đợt này mình mới tìm được một loại bột trà của Nhật mà mình thấy khá ưng ý. Màu sắc tươi tắn, xanh non tự nhiên còn mùi thì rất thơm nên mình muốn chia sẻ với cả nhà. Lâu rồi SD cũng không có sự kiện gì xôm tụ nên nhân lần này tổ chức quay sổ xố luôn.</p>
+<p><strong>10 phần quà, mỗi phần là 1 túi bột trà của Nhật – trọng lượng 100 gr (nguyên bao gói – cùng loại với bột trà mà mình dùng trong video) sẽ được gửi tặng cho 10 bạn may mắn trong mini game của ngày hôm nay nhé</strong>. Cách thức tham gia như sau:</p>
+<ul>
+<li>Để lại phản hồi <span style="text-decoration: underline;"><strong>dưới video cách làm món bánh Cheesecake trà xanh tại Facebook của Savoury Days</strong> </span>(ấn vào <span style="color: #ff0000;"><strong><a href="https://www.facebook.com/savourydays/videos/1046259558760962/" target="_blank">đường link này để tới video</a></strong></span>). Trong phản hồi chia sẻ nếu may mắn nhận được phần thưởng, bạn sẽ dùng bột trà làm món ăn hay đồ uống nào. Ngoài ra, bạn cũng mong SD sẽ giới thiệu công thức món ăn hay đồ uống nào có dùng bột trà.</li>
+<li>Mini game kéo dài từ hôm nay, Thứ Năm ngày 30/6/2016 đến 24h – giờ Việt Nam – ngày Chủ nhật 3/7/2016).</li>
+<li>Kết quả sẽ được công bố vào thứ Ba ngày 5/7/2016. Mình cũng sẽ liên hệ trực tiếp với các bạn trúng giải để gửi quà tặng.</li>
+</ul>
+<p><strong>Lưu ý:</strong> <span style="color: #ff0000;"><strong>Cuộc thi này chỉ dành cho các bạn đang sống tại Việt Nam hoặc có địa chỉ nhận quà trong Việt Nam. Phần thưởng của các bạn sẽ do nhà tài trợ (cũng là công ty phân phối độc quyền loại bột trà này tại Việt Nam) là công ty TNHH Yên Nhiên gửi tặng qua đường bưu điện. </strong></span></p>
+<p>Các bạn có thể xem thêm về loại bột trà này tại <a href="https://www.facebook.com/Nguyenlieu.Takeaway/" target="_blank">Facebook của công ty Yên Nhiên </a>tại:</p>
+<ul>
+<li><a href="https://www.facebook.com/Nguyenlieu.Takeaway/photos/a.904476206297647.1073741839.444728342272438/904476239630977/?type=3&amp;theater" target="_blank">Thông tin về bột trà Nhật Bản</a></li>
+<li><a href="https://www.facebook.com/Nguyenlieu.Takeaway/" target="_blank">Về công ty và các sản phẩm khác</a></li>
+</ul>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

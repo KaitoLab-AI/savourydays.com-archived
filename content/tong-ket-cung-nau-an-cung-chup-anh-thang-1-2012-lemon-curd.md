@@ -1,0 +1,60 @@
+---
+title: "Tổng kết!!! Cùng nấu ăn – Cùng chụp ảnh – Tháng 1/2012: Lemon Curd"
+date: "2012-02-01"
+slug: "tong-ket-cung-nau-an-cung-chup-anh-thang-1-2012-lemon-curd"
+categories: ["Photography"]
+tags: ["bơ", "chanh", "food photography", "macaron", "nhiếp ảnh", "tráng miệng", "điểm tâm"]
+image: "/wp-content/uploads/2012/02/Lemon-curd-Jan-2012.jpg"
+description: ""
+---
+
+<p style="text-align: center;"><em><strong><a href="/wp-content/uploads/2012/02/Lemon-curd-Jan-2012.jpg"><img alt="" class="aligncenter wp-image-1690" height="315" loading="lazy" sizes="(max-width: 560px) 100vw, 560px" src="/wp-content/uploads/2012/02/Lemon-curd-Jan-2012.jpg" title="Lemon curd Jan 2012" width="560"/></a></strong></em></p>
+<p style="text-align: left;"><em><strong>Xem thêm về chủ đề tháng 1 và công thức Lemon Curd (mứt bơ chanh) tại <a href="/?p=1576">ĐÂY</a></strong></em></p>
+<p>Đến hẹn lại  lên, quay đi quay lại đã đến ngày tổng kết chủ đề chụp ảnh của tháng và chuẩn bị phát động chủ đề mới cho tháng tới rùi :)</p>
+<p>Tháng vừa rồi tuy là tháng Tết, ai cũng bận công việc, rồi thì chuẩn bị cho dịp lễ lớn nhất trong năm, nhưng chủ đề Lemon Curd (mứt bơ chanh) vẫn nhận được sự hưởng ứng cực kì cực kì nhiệt liệt của cả nhà &lt;3 Bọn mình thật sự cảm thấy rất vui khi ảnh tham dự chụp theo chủ đề không chỉ tăng về số lượng mà còn có sự tiến bộ rõ rệt về chất lượng. Có thể thấy qua nhiều bức ảnh sự đầu tư và trau chuốt về “đạo cụ” (props), bố cục, ánh sáng và sự hài hoà về hình khối, màu sắc cũng được để ý đến nhiều hơn. Đặc biệt hơn cả là sự sáng tạo trong ý tưởng với việc sử dụng và trình bày  Lemon Curd của các bạn. Tuy “đề bài” chỉ vỏn vẹn có một công thức rất ngắn cho mứt bơ chanh cơ bản, nhưng “bài làm” thì cực kì phong phú, từ Lemon Curd với bánh mỳ, bánh quy hay làm nhân Macaron cho đến  Lemon Curd làm nhân tart, nhân cupcake, hay ăn kèm bánh  Crepe buổi sáng. Lemon Curd không chỉ được đựng trong những chiếc lọ mứt be bé xinh xinh, mà cả những chiếc ly thuỷ tinh, cốc uống trà, hay thậm chí vỏ quả chanh cũng được tận dụng làm cốc đựng mứt :)</p>
+<p>Ảnh ủng hộ cho chủ đề tháng 1 trong Album Lemon Curd của  Hội lên đến 52 cái, và còn một số (khá nhiều) ảnh khác cùng chủ đề nhưng vì lí do kĩ thuật (chủ yếu là tại  Facebook ở  Việt  Nam quá củ chuối) nên không thể post trong album mà ở ngoài  Wall của Hội. Chi tiết các bạn có thể xem tại  <a href="http://www.facebook.com/media/set/?set=oa.348723705142316&amp;type=1"><strong>ĐÂY</strong></a> nhé, còn đây là một vài “kỷ lục” và các tác phẩm ấn tượng nhất trong tháng vừa rồi. Mong là các chủ đề trong thời gian tới sẽ nhận được sự ủng hộ nhiệt tình hơn nữa từ cả nhà :)</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>1. Thành viên tích cực nhất: <a href="http://www.facebook.com/profile.php?id=100000010550750">Xuân Quế</a></p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2012/02/6.-Xuan-Que.jpg"><img alt="" class="aligncenter wp-image-1681" height="504" loading="lazy" sizes="(max-width: 347px) 100vw, 347px" src="/wp-content/uploads/2012/02/6.-Xuan-Que.jpg" title="6. Xuan Que" width="347"/></a></p>
+<p>Trong tháng vừa rồi riêng chị Xuân Quế đã đóng góp cho chủ đề  Lemon Curd khoảng .. ít nhất là 10 cái ảnh (vì một số không có trong Album và FB ở Việt  Nam khá củ chuối nên mình không tổng kết cụ thể được), với nhiều món khác nhau cùng sử dụng Lemon Curd như tart bơ chanh, sữa chua kem bơ chanh.. Ảnh nào cũng được đầu tư kỹ càng, chỉn chu. Với  Food Photography, thực hành chiếm một phần rất lớn trong các yếu tố tạo nên thành công, nên tập luyện nhiều và rút ra kinh nghiệm sau mỗi bức ảnh là một việc quan trọng mà mình nghĩ bất kì ai yêu thích Food Photography cũng nên làm.</p>
+<p>Bên cạnh thành viên Xuân Quế, bọn mình cũng cảm ơn các thành viên đã ủng hộ chủ đề Lemon Curd rất nhiệt tình như chị Phuong Doan, chị Tran Linh, Sweetie Cake, chị Nga Dinh, chị Tina Nguyễn, chị Nguyen Tram… và nhiều bạn/ chị em khác. Cảm ơn mọi người vì đã ủng hộ không chỉ ảnh đẹp mà còn nhiều công thức món ngon cho Hội :)</p>
+<p>2. Các bức ảnh nhận được nhiều yêu thích:</p>
+<p>* Bữa sáng với bánh mỳ nướng giòn tan và mứt bơ chanh của  thành viên <a href="http://vn.360plus.yahoo.com/doanphuong27">Phuong Doan</a></p>
+<p style="text-align: center;"> <a href="/wp-content/uploads/2012/02/3.-Phuong-Doan1.jpg"><img alt="" class="aligncenter wp-image-1679" height="504" loading="lazy" sizes="(max-width: 376px) 100vw, 376px" src="/wp-content/uploads/2012/02/3.-Phuong-Doan1.jpg" title="3. Phuong Doan" width="376"/></a></p>
+<p>Bố cục đẹp và ánh sáng mềm mại dịu dàng tạo cho bức ảnh một cảm giác rất ấm áp. Mình đặc biệt thích phần mứt chảy trên bánh, làm cho món mứt trông cực kì hấp dẫn</p>
+<p><span id="more-1668"></span></p>
+<p>* Lemon Curd Macarons của thành viên<a href="http://www.facebook.com/profile.php?id=100000152332942"> Tina Nguyễn</a></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p style="text-align: center;"><a href="/wp-content/uploads/2012/02/28.jpg"><img alt="" class="aligncenter wp-image-1683" height="292" loading="lazy" sizes="(max-width: 424px) 100vw, 424px" src="/wp-content/uploads/2012/02/28.jpg" title="28" width="424"/></a></p>
+<p style="text-align: left;">Màu sắc tươi sáng và phần mứt Lemon Curd trong veo tạo cho bức ảnh không chỉ trông rất nhẹ nhàng mà còn tươi mát, chỉ muốn nhón lấy một chiếc bánh và nếm thử ngay thôi, nhỉ? ;)</p>
+<p style="text-align: left;">* Lemon Curd Macarons của thành viên <a href="http://www.facebook.com/diemhoan">Sweetie Cake </a></p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2012/02/30.jpg"><img alt="" class="aligncenter wp-image-1686" height="287" loading="lazy" sizes="(max-width: 432px) 100vw, 432px" src="/wp-content/uploads/2012/02/30.jpg" title="30" width="432"/></a></p>
+<p style="text-align: left;">Một bức ảnh khác cũng là Macaron và Lemon Curd. Điểm mà mình thích nhất ở bức ảnh này có lẽ là màu sắc rất hài hoà mà vẫn làm nổi bật những chiếc Macaron vàng xinh xinh đặt trên hộp gỗ. Bố cục đẹp và có thể lấy làm ví dụ cho bức ảnh sử dụng quy tắc 1/3 (rule of thirds)</p>
+<p style="text-align: left;">* Lemon Curd Tart của thành viên <a href="http://www.facebook.com/profile.php?id=1768407560">Mèo  Béo</a></p>
+<p><a href="/wp-content/uploads/2012/02/29.jpg"><img alt="" class="aligncenter wp-image-1685" height="576" loading="lazy" sizes="(max-width: 395px) 100vw, 395px" src="/wp-content/uploads/2012/02/29.jpg" title="29" width="395"/></a></p>
+<p>Ý tưởng sáng tạo cộng với việc bánh được trang trí rất xinh nên đã chiếm được cảm tình của rất nhiều thành viên, bù lại nhược điểm chụp hơi gần. Đối với các bức ảnh đồ ăn, việc tập trung vào món ăn và chụp gần có ưu điểm là giúp bức ảnh hấp dẫn hơn. Nhưng việc tạo ra khoảng không gian giữa đồ ăn chính và các “đạo cụ” khác cũng rất quan trọng, là một trong các yếu tố cơ bản để tạo cho bức ảnh có được bố cục hài hoà. Khi chụp ảnh cả nhà chú ý thêm về việc sắp xếp bố cục nhé.</p>
+<p><em>Về bố cục và góc chụp mình có một bài chia sẻ kinh nghiệm cá nhân ngắn ngắn ở <a href="/?p=1271"><strong>ĐÂY</strong></a>, bạn  nào cần thì tham khảo thêm nha.</em></p>
+<p>Còn rất nhiều ảnh đẹp nữa trong Album Lemon Curd của Hội, cả công thức món ngon với  Lemon Curd nữa ;) Vì Facebook ở Việt  Nam hơi củ chuối nên nếu trong phần tổng kết mình có “quên” điểm nào thì hi vọng là các bạn cũng đừng giận nhé :)</p>
+<p>Mong là chủ đề tháng 2 sẽ nhận được nhiều ảnh đẹp &amp; món ngon nữa từ cả nhà &lt;3</p>
+<p><em>White Poplar (<a href="http://www.lanvaobep.org">www.lanvaobep.org</a>)</em></p>
+<p><em>Linh Trang (<a href="">www.savourydays.com</a>)</em></p>
+<p> </p>
+
+
+ <div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

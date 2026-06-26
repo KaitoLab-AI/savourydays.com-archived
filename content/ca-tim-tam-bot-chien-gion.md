@@ -1,0 +1,37 @@
+---
+title: "Cà tím tẩm bột chiên giòn"
+date: "2011-11-22"
+slug: "ca-tim-tam-bot-chien-gion"
+categories: []
+tags: []
+image: "/wp-content/uploads/2011/11/CaTimChienGion1.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Ở bên này không có cà tím tròn, chỉ có cà loại dài (nhà mình gọi là cà dái dê nhỉ?), ưu điểm là được cái to, nhược điểm là nấu canh cà bung chẳng hạn thì chả thấy ngon mấy. Thường khi nào thèm ăn cà thì hoặc là mình nướng mỡ hành, hoặc làm món tẩm bột chiên như thế này thôi. Đây cũng là món đơn giản và dễ làm, nhưng chắc hợp với mùa đông hơn, bởi vì phải vừa ăn vừa thổi phù phù mới ngon :D Cà tím mềm bọc bột giòn tan chấm với nước mắm tỏi ớt. Dùng làm một món ăn chơi trong một buổi tối gió mùa Đông Bắc về chắc là rất hợp, nhỉ? ;)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6377072223/" title="Crispy Fried Eggplant by LinhTrang9185, on Flickr"><img alt="Crispy Fried Eggplant" class="aligncenter" height="640" loading="lazy" src="http://farm7.staticflickr.com/6092/6377072223_04978e4bcf_z.jpg" width="434"/></a></p>
+<p><strong>Nguyên liệu:</strong></p>
+<ul>
+<li><em>1 quả cà tím dài</em></li>
+<li><em>1 quả trứng gà</em></li>
+<li><em>Bột cà mỳ</em></li>
+<li><em>Dầu ăn</em></li>
+<li><em>2 tép tỏi bóc vỏ, băm nhỏ  </em></li>
+<li><em>1 trái ớt tươi</em></li>
+<li><em>Muối, tiêu</em></li>
+<li><em>Nước mắm, đường, dấm hoặc nước chanh tươi</em></li>
+</ul>
+<p><span id="more-1290"></span></p>
+<p><strong>Cách làm</strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6377072437/" title=" Crispy Fried Eggplant - Method by LinhTrang9185, on Flickr"><img alt=" Crispy Fried Eggplant - Method" class="aligncenter" height="500" loading="lazy" src="http://farm7.staticflickr.com/6056/6377072437_c517fe272c.jpg" width="500"/></a></p>
+<p>1. Cà tím rửa sạch, ngâm vào nước lạnh pha chút muối cho cà khỏi bị thâm (hình 1)</p>
+<p>2. Đánh tan một quả trứng gà với chút muối, tiêu cho đậm. Chuẩn bị một bát bột cà mỳ (hình 2-4).</p>
+<p>3. Bắc một chiếc nồi nhỏ lên bếp. Đổ dầu ăn sao cho có thể ngập miếng cà. Nhúng miếng cà vào trứng rồi nhúng vào bát bột cà mỳ (hình 5-6). Để lửa to, rán ngập dầu đến khi cà chín và lớp bột bao ngoài chín vàng giòn (hình 7). Gắp cà để lên đĩa có lót giấy thấm dầu (hình 8).</p>
+<p>4. Pha nước mắm chấm như sau: Pha nước cốt chanh với đường, hoặc dấm với đường đến khi đủ chua ngọt vừa ăn, tiếp theo pha thêm nước và nước mắm đến khi vừa đủ mặn. Cho tỏi bằm, ớt và tiêu. Các bạn có thể xem thêm hướng dẫn <a href="/nem-ran-meo-ran-nem-gion-cach-pha-nuoc-cham-bun-cha-nem-cua-minh/">cách pha nước chấm tại đây</a>.</p>
+<p>5. Món này dùng nóng với nước mắm chua ngọt. Chúc cả nhà ngon miệng :)</p>
+<p> </p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,48 @@
+---
+title: "Vịt om sấu"
+date: "2013-07-10"
+slug: "vit-om-sau"
+categories: []
+tags: []
+image: "/wp-content/uploads/2013/07/VitOmSau.jpg"
+description: "vịt om sấu, vit om sau"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng<span style="color: #ff0000;"> không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
+<p>——————————————</p>
+<p>Sấu là món quà đặc biệt của mùa Hè: sấu xanh để nấu canh, ngâm đường, sấu chín gọt vỏ chấm muối ớt, chỉ nghĩ đến thôi cũng tứa nước miếng rồi. Với những ai ở xa nhà như mình, có một bát nước rau muống luộc dầm sấu thì có lẽ là “không gì bằng” nên bao giờ đến mùa cũng phải cố gắng nhờ vả bạn nào về nhà mang hộ một ít “quà Hà Nội” be bé xinh xinh sang, rồi xử lí và bảo quản đông lạnh, để quanh năm có thứ dùng dần.</p>
+<p>Có rất nhiều món có thể làm với quả sấu, nhưng vịt om sấu là một trong những món mà mình cực cực thích. Chẳng biết ai là người đầu tiên nghĩ ra món này, mình đoán có lẽ là một đầu bếp có khẩu vị cực kì tinh tế, bởi thịt vịt với vị chua nhẹ của sấu, mùi thơm của hành, tỏi, sả và hành lá, mùi tàu (ngò gai) quả thực là một sự hòa quyện tuyệt vời.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9032501391/" title="IMG_0937-1 by LinhTrang9185, on Flickr"><img alt="IMG_0937-1" class="aligncenter" height="340" loading="lazy" src="http://farm6.staticflickr.com/5483/9032501391_b3f2615f61.jpg" width="500"/></a></p>
+<p>Vịt om sấu là món ăn không hề khó, nếu có điểm khó có lẽ chỉ nằm ở khâu xử lí thịt vịt sao cho khỏi hôi. Mình không có nhiều kinh nghiệm trong việc này, nhưng việc mình hay làm là sau khi làm sạch lông (nếu làm vịt nguyên con thì nhớ cắt bỏ phao câu) thì đập ít gừng hòa với rượu xát đều lên mình vịt, để khoảng 10-15 phút, rửa lại rồi xát muối 1, 2 lần nữa, rửa thật sạch.</p>
+<p>Sau khi xử lí mùi xong, thì làm phần tiếp theo như thế này nhé</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu (4 phần ăn)</strong></span></p>
+<ul>
+<li><em>700-800 gram thịt vịt đã làm sạch, chặt miếng vừa ăn (không nên chặt nhỏ quá vì khi nấu vịt sẽ teo lại kha khá)</em></li>
+<li><em>2-3 củ sả</em></li>
+<li><em>3 củ hành khô hoặc hành tím </em></li>
+<li><em>4-5 tép tỏi</em></li>
+<li><em>7-8 quả sấu</em></li>
+<li><em>300-400gram khoai môn </em></li>
+<li><em>Hành lá, mùi Tàu (ngò gai)</em></li>
+<li><em>Mắm, muối, tiêu, bột gia vị</em></li>
+<li><em>Dầu ăn</em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Sả thái khoanh tròn mỏng phần màu trắng, đập dập phần màu xanh. Hành tỏi băm nhỏ. Lấy 2/3 số hành, tỏi &amp; phần màu trắng của sả ướp vịt, thêm 1.5 thìa canh nước mắm (hoặc 1 thìa cafe muối/ bột gia vị) tiêu. Để 1h cho ngấm.</p>
+<p>2. Cạo sạch vỏ sấu.</p>
+<p>3. Đun nóng 1 thìa canh dầu ăn, phi thơm 1/3 chỗ hành, tỏi, sả còn lại. Cho vịt vào đảo sơ đến khi bên ngoài vịt hơi săn lại thì đổ nước sôi vào vừa ngập vịt. Đợi nước sôi bật lên thì hớt sạch bọt rồi cho sấu &amp; phần sả đập dập vào, nêm thêm bột nêm hoặc muối cho vừa ăn (nếu dùng nước mắm nên nêm sau cùng). Hạ lửa nhỏ, om đến khi vịt mềm như ý. <em>Trong quá trình đun nếu muốn thêm nước thì dùng nước sôi, không dùng nước lạnh. </em></p>
+<p>4. Trong khi om vịt thì gọt vỏ khoai, cắt miếng to (<em>khoai môn sẽ bở khá nhanh trong khi nấu, đặc biệt nếu ăn lẩu thì nên cắt miếng khoai to để tránh khoai bị bở nhiều, đến khi ăn sẽ chẳng còn mấy phần khoai</em>). Ngâm  khoai vào nước lạnh có pha chút muối cho khoai hết nhớt và không bị thâm.</p>
+<p>5. Đợi vịt gần chín thì cho khoai vào, om lửa nhỏ thêm khoảng 15-20 phút đến khi khoai vừa chín nhừ và bở tơi. Dầm sấu, nêm lại mắm muối, nếu cảm thấy chưa đủ chua có thể thêm me hoặc dấm bỗng, nhưng không nên quá nhiều, sẽ át vị chua thanh nhẹ của sấu. Nếu vịt quá béo, nên hớt bớt mỡ trước khi ăn.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Múc vịt và khoai ra bát. Rắc hành lá (thái khoanh tròn nhỏ), mùi Tàu (thái sợi) lên. Dùng nóng với bún hoặc cơm trắng, hoặc ăn theo kiểu lẩu, với các loại rau như rau muống, rau rút… cũng rất ngon.</p>
+<p>* <span style="text-decoration: underline;"><strong>Ghi chú:</strong></span></p>
+<p>– Khoai môn rất ngon, không nên bỏ qua, cá nhân mình với món này nhiều khi thích ăn khoai hơn là vịt. Ngoài khoai môn có thể thêm măng tươi tùy thích.</p>
+<p>– Có thể dùng nước dừa tươi để om vịt nhưng không nên dùng nước cốt dừa vì sẽ làm món ăn thêm béo ngậy.</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

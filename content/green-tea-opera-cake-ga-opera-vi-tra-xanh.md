@@ -1,0 +1,143 @@
+---
+title: "Green tea Opera cake – Ga-tô Opera vị trà xanh"
+date: "2014-03-26"
+slug: "green-tea-opera-cake-ga-opera-vi-tra-xanh"
+categories: []
+tags: []
+image: "/wp-content/uploads/2014/03/OperaTraXanh.jpg"
+description: "opera cake, ga-tô opera, trà xanh, kem bơ"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>{<strong>Thông báo ngoài lề: Về sách “Nhật kí học làm bánh</strong>}</p>
+<p>Thời gian vừa rồi NKHLB liên tục ở trong tình trạng cháy hàng. Mặc dù đã in bổ sung đến lần thứ 4 nhưng nhiều bạn vẫn phản hồi về việc đi mấy nhà sách đều không mua được. Nhã Nam đang cố gắng hết sức để thời gian gián đoạn không bị quá dài. Rất mong mọi người thông cảm và đợi thêm tí xíu nha. Thông tin mới nhất mà mình nhận được từ Nhã Nam là <span style="color: #ff0000;">hiện tại đã có sách bổ sung tại Nhã Nam 59 Đỗ Quang và các hiệu sách ở khu vực Đinh Lễ</span>. <span style="color: #ff0000;">Từ ngày mai (27/3) sách cũng sẽ có mặt tại TPHCM, các bạn có thể ghé quầy của Nhã Nam ở Hội sách tại công viên Lê Văn Tám để mua sách nha.</span></p>
+<p>Các bạn ở tỉnh, thành phố ngoài Hà Nội và TPHCM có thể đợi đặt qua các nhà sách online như tiki.vn, vinabook.com, pibook.vn… Mình sẽ thông báo ngay tại Facebook của Savoury Days khi các hiệu sách này có thêm hàng. Bạn nào vẫn đang đợi sách thì có thể theo dõi cập nhật thông tin tại Facebook nhé. Cảm ơn các bạn nhiều nhiều :x</p>
+<p>———————</p>
+<p>Trước đây, Opera cake là món bánh mà mình luôn nhìn với con mắt trầm trồ và thán phục, đặc biệt ngưỡng mộ tay nghề của người làm ra nó. Có lẽ không chỉ Opera cake mà các loại bánh có nhiều tầng nói chung thường hay tạo cho người ta cảm giác phức tạp. Thậm chí kể cả khi đã vượt qua được cái ấn tượng “khó nhằn” ban đầu này thì nhiều bạn có thể sẽ vẫn chùn bước khi đọc đến phần công thức dài loằng ngoằng với nào là cốt bánh, nào là kem, nào là syrup tẩm bánh…</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Nhưng mà, thật ra cứ suy nghĩ đơn giản là từ từ, từ từ, làm dần từng bước một, thì kiểu gì cũng sẽ xong. Giống như là cứ đi thì sẽ đến ấy :) Với Opera cake cũng vậy. Đầu tiên là làm bạt bánh (cái này dễ không, chỉ là bạt bánh cuộn thôi, ai làm được sponge với chiffon thì kiểu gì cũng làm ngon lành). Trong lúc đợi nướng bạt bánh thì đi chuẩn bị kem và syrup tẩm bánh. Bánh nướng ra lò, đợi nguội cũng là vừa lúc kem và syrup sẵn sàng và đạt đến độ “chuẩn” nhất để trét bánh. Đến đây đã là xong 8 phần rồi, 2 phần còn lại là ráp các thành phần và … măm măm thôi. Cũng không phải là rất khó, nhỉ? :)</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13426684213/" title="IMG_5156-002 by LinhTrang9185, on Flickr"><img alt="IMG_5156-002" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3808/13426684213_0baedf6bab.jpg" width="500"/></a></p>
+<p>Opera cake trước đây mình có giới thiệu một phiên bản truyền thống với bạt hạnh nhân và kem Mocha, nhưng làm theo kiểu <em>vertical layer</em>, tức là các lớp xếp theo chiều dọc. Lần này thử xếp lại theo chiều ngang với hương vị mới là trà xanh và chocolate trắng. Công thức mình tự “vẽ” ra nên lúc làm cũng hồi hộp ghê lắm. Nhưng sau rồi cái cảm giác lúc cắt bánh, nhìn thấy mặt cắt đều chằn chặn và hít hà mùi thơm của trà xanh đầy quyến rũ từ bánh, quả thật là rất tuyệt :)</p>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span></p>
+<ul>
+<li>Khay nướng bánh cuộn kích thước 20 x 30cm</li>
+<li>Khuôn vuông đế rời hoặc Mousse ring hình vuông kích thước 20 x 20 cm (xem thêm ghi chú trong phần Cách làm)</li>
+</ul>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong>A. Bạt Ga-tô vị trà xanh (Green tea sponge cake)</strong></p>
+<ul>
+<li><em>4 lòng đỏ trứng (18 – 20 gr/ lòng đỏ)</em></li>
+<li><em>30 gr đường hạt mịn </em></li>
+<li><em>35 gr dầu ăn </em></li>
+<li><em>35 gr sữa tươi không đường </em></li>
+<li><em>65 gr bột mì đa dụng </em></li>
+<li><em>15 gr bột ngô </em></li>
+<li><em>10 gr bột trà xanh </em></li>
+</ul>
+<ul>
+<li><em>4 lòng trắng trứng (30 – 33 gr/ lòng trắng)</em></li>
+<li><em>1 nhúm nhỏ muối </em></li>
+<li><em>1/4 teaspoon cream of tartar </em></li>
+<li><em>50 gr đường hạt mịn </em></li>
+</ul>
+<p><strong>B. Kem bơ vị trà xanh (Green tea buttercream)</strong></p>
+<ul>
+<li><em>200 gr kem bơ Thụy Sỹ (xem cách làm tại bài viết: <a href="/trang-tri-banh-kem-bo-kieu-thuy-sy-voi-long-trang-trung-swiss-buttercream/" target="_blank">công thức kem bơ TS</a>)</em></li>
+<li><em>75 ml kem tươi (whipping cream: 35 – 40% béo)</em></li>
+<li><em>7 gr bột trà xanh </em></li>
+<li><em>10 – 12 gr đường hạt mịn </em></li>
+</ul>
+<p><strong>C. Ganache sô-cô-la (White chocolate ganache)</strong></p>
+<ul>
+<li><em>135 gr sô-cô-la trắng </em></li>
+<li><em>65 ml kem tươi (whipping cream: 35 – 40% béo)</em></li>
+<li><em>25 gr bơ nhạt (dùng bơ động vật)</em></li>
+</ul>
+<p><strong>D. Trà sữa tẩm bạt bánh (Milk tea)</strong></p>
+<ul>
+<li><em>50 ml sữa tươi không đường</em></li>
+<li><em>5 gr bột trà xanh </em></li>
+<li><em>10gr đường hạt mịn </em></li>
+</ul>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13426687143/" title="IMG_5141-1 by LinhTrang9185, on Flickr"><img alt="IMG_5141-1" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7351/13426687143_aa83937296.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>Về dụng cụ làm bánh, ngoài khay nướng 20 x 30cm để làm phần bạt bánh, nếu có khuôn hoặc mousse ring cỡ 20 x 20cm thì việc ráp bánh sẽ đơn giản hơn rất nhiều. Khuôn sẽ giúp cho các lớp bánh được ngay ngắn, đặc biệt là phần Ganache (khá lỏng) không bị trào ra ngoài. <span style="color: #ff0000;">Nếu không có khuôn đế rời hoặc mousse ring, nên làm phần Ganache (phần C) đầu tiên và để trong ngăn mát tủ lạnh khoảng 1h để Ganache đặc sệt lại, khi trét lên bánh sẽ không bị chảy</span>.</p>
+<p><strong>A. Bạt Ga-tô vị trà xanh (Green tea sponge cake)</strong></p>
+<p>Bạt Ga-tô làm theo kiểu Chiffon. Hai chú ý quan trọng nhất là đánh bông lòng trắng trứng đúng cách, đủ bông cứng và trộn đúng kiểu fold để không làm vỡ bọt khí. Các bạn có thể xem thêm giải thích và hướng dẫn kĩ thuật trong các bài viết dưới đây:</p>
+<ul>
+<li><a href="/danh-bong-long-trang-trung/" target="_blank">Đánh bông lòng trắng trứng – Chú ý về Nguyên liệu &amp; Dụng cụ</a></li>
+<li><a href="/danh-bong-trung-phan-2/" target="_blank">Đánh bông lòng trắng trứng – Quy trình</a></li>
+<li><a href="/chiffon-phan-2-phuong-phap-tron-bot-danh-cho-chiffon-chiffon-method/" target="_blank">Phương pháp trộn bột Chiffon</a></li>
+</ul>
+<p><strong><span class="Apple-style-span" style="font-weight: normal;">1. Làm nóng lò nướng ở 170 độ C (hai lửa). Lót giấy nướng hoặc giấy trắng ở đáy khuôn. Không cần chống dính thành khuôn.</span></strong></p>
+<p>2. Cho lòng đỏ trứng &amp; đường vào âu. Dùng phới lồng nhẹ nhàng quấy đều cho trứng và đường hòa quyện. Cho dầu ăn &amp; sữa tươi vào âu, quấy đều. Cuối cùng, rây bột mì, bột ngô và bột trà xanh. Dùng phới lồng quấy nhẹ nhàng theo một chiều đến khi các nguyên liệu hòa quyện.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13426951564/" title="IMG_4843 by LinhTrang9185, on Flickr"><img alt="IMG_4843" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7348/13426951564_22daed2da1.jpg" width="500"/></a></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13426698623/" title="IMG_4845-001 by LinhTrang9185, on Flickr"><img alt="IMG_4845-001" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3796/13426698623_66eba43e20.jpg" width="500"/></a></p>
+<p>3. Đánh bông lòng trắng trứng với muối, cream of tartar và đường đến khi lòng trắng trứng bông cứng, bóng dẻo, nhấc que đánh lên thấy tạo chóp.</p>
+<p><strong>Lưu ý:</strong></p>
+<p><em>– Lòng trắng trứng, que đánh &amp; âu đánh phải sạch, không được dính các chất béo như dầu, mỡ, bơ, lòng đỏ.. (trứng sẽ không bông được nếu có dính chất béo)</em></p>
+<p>– <em>Lòng trắng trứng trong hình mình đánh hơi quá tay nên hơi bị “cứng” một chút. Các bạn có thể đánh “mềm” hơn, (phần đầu chóp lòng trắng hơi cong). Vì hỗn hợp bột và lòng đỏ của công thức này khá đặc nên lòng trắng trứng mềm sẽ dễ trộn hơn. </em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13426697553/" title="IMG_4848-001 by LinhTrang9185, on Flickr"><img alt="IMG_4848-001" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7115/13426697553_6e2d9cc7a6.jpg" width="500"/></a></p>
+<p>4. Múc 1/3 phần lòng trắng trứng cho vào âu đựng hỗn hợp lòng đỏ và bột. Dùng phới lồng quấy đều cho các nguyên liệu hòa quyện.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13426576025/" title="IMG_4849 by LinhTrang9185, on Flickr"><img alt="IMG_4849" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7441/13426576025_afc2bca195.jpg" width="500"/></a></p>
+
+
+<p>Chia phần lòng trắng còn lại làm hai phần, cho từng phần vào âu đựng lòng đỏ, dùng <a href="/pancake-va-ki-thuat-fold-trong-lam-banh/">kĩ thuật fold</a> trộn đều.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13426946734/" title="IMG_4852 by LinhTrang9185, on Flickr"><img alt="IMG_4852" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3773/13426946734_cac5e4be87.jpg" width="500"/></a></p>
+<p>Nếu đánh trứng đủ bông và trộn đúng kĩ thuật thì hỗn hợp sau khi trộn sẽ bông mịn, hầu như không có bọt khí lớn.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13426694273/" title="IMG_4853-001 by LinhTrang9185, on Flickr"><img alt="IMG_4853-001" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7377/13426694273_ff1c0011b7.jpg" width="500"/></a></p>
+<p>5. Đổ 1/2 chỗ bột vào khay nướng. Lắc nhẹ khay cho bột dàn đều. Nướng ở nhiệt độ 170 độ C trong 12-15 phút, đến khi rìa bánh hơi vàng nâu, ấn nhẹ tay lên mặt bánh thấy vết lõm lập tức phồng trở lại.</p>
+<p>6. Lấy bánh ra khỏi lò, dùng dao mỏng rạch quanh thành khuôn, đặt rack lên mặt khuôn rồi úp ngược lại để lấy bánh ra. Bóc bỏ phần giấy lót dính ở đáy bánh. Để bánh nguội hẳn trên rack. Tiếp tục nướng 1/2 bạt bánh còn lại.</p>
+<p>(*) <strong>Lưu ý:</strong></p>
+<p>– Một số công thức hướng dẫn nướng 2 bạt bánh cùng lúc. Tuy nhiên với các lò nướng gia đình, nhiệt độ thường không ổn định (vd: lửa trên nóng hơn lửa dưới hoặc ngược lại…) thì việc nướng 2 bạt bánh cùng lúc sẽ có thể làm cho bạt bánh chín không đều, có thể cháy mặt, cháy đáy hoặc có 1 phần chưa chín hẳn do nhiệt độ phân bố trong lò không đều. Với công thức này, nếu đánh trứng đủ bông và trộn bột đúng cách thì có thể để bột ngoài không khí khoảng 20 – 25 phút đợi nướng, bánh sẽ vẫn nở tốt.</p>
+<p>– Nhiệt độ và thời gian nướng có thể thay đổi tùy theo lò. Với các lò nhỏ, lửa trên nóng, nên hạ thấp nhiệt độ và kéo dài thời gian nướng hơn. Xem thêm giải thích trong các bài viết sau:</p>
+<ul>
+<li><a href="/lo-nuong-kinh-nghiem-nuong-banh/" target="_blank">Cách chỉnh lò để bánh chín đẹp, không bị xẹp lõm (Phần 1)</a></li>
+<li><a href="/kinh-nghiem-nuong-banh-phan-2/" target="_blank">Cách chỉnh lò để bánh chín đẹp, không bị xẹp lõm (Phần 2)</a></li>
+</ul>
+<p><strong>B. Kem bơ vị trà xanh </strong></p>
+<p>Sau khi cho bạt bánh thứ nhất vào lò, có thể bắt tay vào chuẩn bị kem bơ theo công thức <a href="/trang-tri-banh-kem-bo-kieu-thuy-sy-voi-long-trang-trung-swiss-buttercream/" target="_blank">kem bơ kiểu Thụy Sỹ</a>. Chúng ta sẽ cần khoảng 1.5 công thức kem bơ cho món bánh này. Nếu các bạn làm nhiều, phần kem bơ còn lại có thể bảo quản trong ngăn mát tủ lạnh trong khoảng 3 – 5 ngày hoặc để ngăn đá trong tối đa 6 tuần.</p>
+<p>Làm kem bơ trà xanh như sau</p>
+<p>1. Cho kem bơ kiểu Thụy Sỹ vào âu. Rây bột trà xanh vào âu. Để máy ở tốc độ thấp, đánh cho bột trà hòa quyện với kem bơ.</p>
+<p>2. Cho đường và kem tươi vào 1 cái bát khác, quấy cho tan hết đường. Để máy ở tốc độ thấp, từ từ rót kem tươi vào âu bơ, vừa đổ vừa đánh đều, đến khi cho hết kem tươi, các nguyên liệu hòa quyện.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13426946374/" title="IMG_4854 by LinhTrang9185, on Flickr"><img alt="IMG_4854" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7178/13426946374_3aef0ca679.jpg" width="500"/></a></p>
+<p>3. Sau khi đánh xong, kem bơ có thể sẽ hơi rỗ. Các bạn dùng cây trét kem, phới hoặc spatula trộn kem bằng tay trong khoảng 1- 2 phút, kem sẽ mịn và hết rỗ.</p>
+<p>Để kem bơ vào tủ lạnh hoặc bảo quản nơi thoáng mát.</p>
+<p><strong>C. Ganache sô-cô-la trắng </strong></p>
+<p>1. Bẻ nhỏ hoặc bào vụn sô-cô-la.</p>
+<p>2. Cho kem tươi và bơ vào nồi. Đun ở lửa vừa. Vừa đun vừa quấy đều, đến khi bơ tan hết, hỗn hợp mấp mé sôi thì bắc ra khỏi bếp.</p>
+<p>3. Cho sô-cô-la vào nồi đựng bơ và kem tươi (đã bắc khỏi bếp). Quấy đều đến khi sô-cô-la tan hết, hỗn hợp hòa quyện. Đổ hỗn hợp ra bát, để nguội rồi cho vào tủ lạnh để hỗn hợp đặc hơn.</p>
+<p><strong>D. Hoàn thiện </strong></p>
+<p>1. Làm trà sữa: Đun ấm 50ml sữa, cho bột trà và đường vào quấy tan.</p>
+<p>2. Từ phần (A) ta có 2 bạt bánh mỏng có kích thước 20 x 30cm. Cắt mỗi bạt bánh thành 2 phần với kích thước lần lượt là 20 x 20 cm và 20 x 10cm (=&gt; sau khi cắt, chúng ta sẽ có 2 bạt bánh cỡ 20 x 20cm và 2 bạt bánh cỡ 10 x 20cm).</p>
+<p>3. Ta sẽ tiến hành ghép bánh gồm 6 lớp theo thứ tự từ dưới lên trên như sau:</p>
+<ol>
+<li>Bạt bánh – tẩm sữa trà xanh</li>
+<li>Kem bơ</li>
+<li>Bạt bánh – tẩm sữa trà xanh</li>
+<li>Ganache sô-cô-la trắng</li>
+<li>Bạt bánh – tẩm sữa trà xanh</li>
+<li>Kem bơ</li>
+</ol>
+<p>Cụ thể khâu ghép bánh sẽ được làm như sau:</p>
+<ul>
+<li>Chuẩn bị khuôn hoặc đế bánh. Đặt miếng bánh cỡ 20 x 20cm vào khuôn. Dùng chổi quét đều phần sữa trà xanh lên mặt bánh</li>
+</ul>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13426692153/" title="IMG_4855 by LinhTrang9185, on Flickr"><img alt="IMG_4855" class="aligncenter" height="333" loading="lazy" src="https://farm3.staticflickr.com/2922/13426692153_1454e08e54.jpg" width="500"/></a></p>
+<p>Lấy 1/2 số kem bơ, trét đều lên bánh.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13426943104/" title="IMG_4856 by LinhTrang9185, on Flickr"><img alt="IMG_4856" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3791/13426943104_4ea9b0af6e.jpg" width="500"/></a></p>
+<ul>
+<li>Đặt 2 miếng bánh cỡ 10 x 20cm lên trên lớp kem bơ. Quét sữa trà xanh lên bánh.</li>
+<li>Đổ phần Ganache lên trên bạt bánh. Để bánh vào tủ lạnh khoảng 15 – 20 phút cho Ganache và kem bơ đông lại.</li>
+<li>Đặt miếng bánh cỡ 20 x 20cm còn lại lên trên phần Ganache. Quét sữa trà xanh.</li>
+<li>Trét nốt phần kem bơ còn lại lên bánh. Để bánh vào tủ lạnh trong khoảng 3 – 4 giờ hoặc qua đêm cho các phần Ganache và bơ đông lại, bạt gateau mềm và ẩm hơn.</li>
+</ul>
+<p>Khi cắt bánh, các bạn chuẩn bị dao thật sắc (dao bình thường, không cần dao răng cưa), và 1 chiếc khăn ẩm. Cắt bánh dứt khoát, dùng khăn lau sạch dao sau mỗi lần cắt. Để bánh được đẹp, nên cắt bỏ phần rìa ngoài (vì thường phần rìa này sẽ có màu nâu vàng do tiếp xúc với thành khuôn nhiệt độ cao). Ngoài ra, nên để bánh ra ngoài khoảng 10 phút trước khi cắt để kem bơ mềm bớt, khi cắt sẽ không bị “vỡ” kem bơ do kem quá cứng.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13426567675/" title="IMG_4862 by LinhTrang9185, on Flickr"><img alt="IMG_4862" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7178/13426567675_d2c1be8980.jpg" width="500"/></a></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13426569475/" title="IMG_4861 by LinhTrang9185, on Flickr"><img alt="IMG_4861" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7425/13426569475_6d9cbb7639.jpg" width="500"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

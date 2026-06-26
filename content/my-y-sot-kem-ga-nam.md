@@ -1,0 +1,53 @@
+---
+title: "Mỳ ý sốt kem gà nấm"
+date: "2012-02-16"
+slug: "my-y-sot-kem-ga-nam"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/02/PastaKemGa.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Tuần này mình phải chạy theo bác giáo sang Hà Lan làm việc, ngày nào cũng đi tàu vài tiếng nên thời gian nấu nướng cũng hạn chế hơn, cộng thêm với việc đồ ăn ở nhà ăn sinh viên chỗ nào cũng dở như nhau, cho nên tóm lại là vẫn không thoát cảnh xách cặp lồng đi làm được :-&lt;</p>
+<p>Pasta dạng sốt này không chỉ nấu nhanh mà mang đi cũng tiện, sáng chỉ cần luộc mỳ, dội sốt lên rồi trưa đến thì cho vào lò vi sóng quay 1 phút là có đĩa mỳ nóng ngon lành. Công thức làm sốt này mình cũng “đơn giản hóa” tối đa, cho nên có thêm một phần chú thích những thứ gia vị khác có thể thêm vào sốt ở cuối bài nhé :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6886190643/" title="IMG_2080-1 by LinhTrang9185, on Flickr"><img alt="IMG_2080-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7040/6886190643_3c22de0bc7_z.jpg" width="416"/></a><br/>
+<strong>Nguyên liệu (2 phần ăn) </strong></p>
+<ul>
+<li><em>250gram thịt gà (mình dùng phần thịt đùi, lọc bỏ hết xương &amp; da, các bạn có thể thay bằng thịt lườn tùy thích) </em></li>
+<li><em>100-150gram nấm tươi</em></li>
+<li><em>¼ củ hành tây</em></li>
+<li><em>1 tép tỏi (tỏi VN thì dùng 2-3 tép)</em></li>
+<li><em>50ml kem tươi (whipping cream)</em></li>
+<li><em>30ml sữa tươi không đường</em></li>
+<li><em>15gram pho mát Parmesan (không bắt buộc)</em></li>
+<li><em>3gram basil khô (không bắt buộc)</em></li>
+<li><em>Dầu Olive</em></li>
+<li><em>2 thìa canh bơ nhạt (hoặc thay bằng dầu Olive, nhưng dùng bơ thì ngon hơn)</em></li>
+<li><em>Muối, tiêu</em></li>
+<li><em>Mỳ Ý cho hai người (mình dùng Capellini, các bạn có thể dùng Spaghetti hoặc một loại mỳ Ý sợi dài tùy thích)</em></li>
+</ul>
+<p><span id="more-1793"></span></p>
+<p><strong>Cách làm</strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>1. Đun sôi một nồi nước to. Đợi nước sôi thì nêm muối (nhạt hơn nấu canh một tẹo), cầm cả nắm mỳ thả vào nồi, để cho mỳ tự trôi xuống nước. Thi thoảng khuấy đều cho mỳ khỏi dính. Luộc theo thời gian chỉ dẫn trên bao, đến khi mỳ vừa chín đạt <em>al dente </em>(mỳ chín mềm, không còn vị sượng cứng của mỳ sống, nhưng vẫn đủ dai, không bị nát). Đổ mỳ ra rổ, xóc cho ráo nước –<strong>không xả nước lạnh</strong>. Trộn mỳ với 1 thìa dầu Olive để sợi mỳ không bị vón, dính lại với nhau.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6886190899/" title="2012-02-152 by LinhTrang9185, on Flickr"><img alt="2012-02-152" class="aligncenter" height="300" loading="lazy" src="http://farm8.staticflickr.com/7036/6886190899_7bceba78d9.jpg" width="500"/></a></p>
+<p>Trong lúc luộc mỳ (thường mất từ 8-10 phút) thì chuẩn bị các nguyên liệu còn lại.</p>
+<p>2. Thịt gà thái miếng vừa ăn. Nấm rửa sạch, thái lát theo chiều dọc thân cây nấm, mỗi lát dày khoảng 3-5mm. Hành tây băm nhỏ. Tỏi lột vỏ, bằm nhuyễn.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6886190771/" title="2012-02-151 by LinhTrang9185, on Flickr"><img alt="2012-02-151" class="aligncenter" height="300" loading="lazy" src="http://farm8.staticflickr.com/7061/6886190771_9c060a49c3.jpg" width="500"/></a></p>
+<p>3. Bắc chảo lên bếp. Đun chảy bơ trong chảo. Đợi bơ tan chảy hết thì cho hành tây vào, xào thơm ở lửa vừa trong khoảng 2-3 phút. Cho nấm vào cùng chút muối &amp; tiêu. Xào ở lửa vừa khoảng 2 phút cho nấm vừa chín thì trút nấm ra bát (hình 1-2)</p>
+<p>4. Cho 1 thìa dầu Olive vào chảo, đợi dầu nóng thì cho tỏi vào phi thơm.  Cho thịt gà vào xào, nêm chút muối &amp; tiêu, xào đến khi thịt gà chín tới (hình 3-4)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6886191003/" title="2012-02-153 by LinhTrang9185, on Flickr"><img alt="2012-02-153" class="aligncenter" height="281" loading="lazy" src="http://farm8.staticflickr.com/7179/6886191003_4f4c3a3f87.jpg" width="500"/></a></p>
+<p>5. Cho nấm vào chảo thịt gà, cùng kem tươi, sữa tươi, pho mát và Basil khô. Vặn nhỏ lửa đun liu riu khoảng 3-5 phút, thi thoảng đảo đều, đến khi kem sữa cạn bớt thành sốt hơi sệt. Nêm lại muối, tiêu cho vừa ăn.</p>
+<p>6. Sắp mỳ ra đĩa, đổ sốt kem gà lên trên, dùng nóng.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><strong>Ghi chú: </strong></p>
+<p>– Pho mát và Basil không bắt buộc nhưng cho vào thì mùi vị sẽ ngon hơn (mình rất thích vị này :) ).</p>
+<p>– Nếu không có pho mát, hỗn hợp kem sẽ có thể hơi lỏng. Các bạn có thể làm sệt bằng cách pha 1 thìa cafe bột mỳ với 1-2 thìa nước, đợi sốt kem cạn còn 1/2 thì từ từ đổ vào chảo và quấy đều. Một cách khác cầu kỳ hơn, nhưng sẽ cho sốt có màu vàng sánh đẹp hơn là đun chảy 1 thìa bơ trong chảo, cho bột mỳ vào xào nhanh tay rồi cho kem, sữa tươi vào quấy đều. Dùng hỗn hợp này làm sốt ở bước (5).</p>
+<p>– Ngoài cách dội sốt lên mỳ như trên, các bạn cũng có thể cho mỳ vào xào cùng sốt gà và nấm, với cách này nên luộc mỳ hơi “non” một chút, khi xào sợi mỳ sẽ chín, và sốt quyện đều với mỳ làm cho sợi mỳ dai và săn bóng. Mình ăn ở nhà thì hay thích dùng cách này hơn vì cảm giác mỳ ngấm sốt hơn.</p>
+<p>Chúc cả nhà ngon miệng nhé ;)</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

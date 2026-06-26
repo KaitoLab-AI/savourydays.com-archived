@@ -1,0 +1,129 @@
+---
+title: "Macarons – Phần 2: Chuẩn bị nguyên liệu và dụng cụ"
+date: "2012-11-14"
+slug: "macarons-nguyen-lieu-va-dung-cu"
+categories: ["Các loại bánh khác", "Cookies - Bánh quy"]
+tags: ["chia sẻ kinh nghiệm", "macarons", "nhật kí làm bánh"]
+image: "/wp-content/uploads/2012/11/MacaronPhan2.jpg"
+description: "Chia sẻ bí quyết làm Macarons thành công"
+---
+
+<p><a href="/macarons-phan-1-the-nao-la-chuan/">Phần 1: Thế nào là Macarons “đúng”?</a></p>
+<p><a href="/macarons-nguyen-lieu-va-dung-cu/">Phần 2: Nguyên liệu &amp; Dụng cụ</a></p>
+<p><a href="/macaron-phan-3-cach-lam/" target="_blank">Phần 3: Cách làm Macaron kiểu Pháp</a></p>
+<p>Phù, chả hiểu sao mà cảm giác như là lâu lắm lắm rồi mình mới lại viết bài ấy, không biết cả nhà có ai nhớ mình không? :”&gt;</p>
+<p>Hai tuần vừa rồi mình ở trong tình trạng bận chóng hết cả mặt mày. Lớp học tiếng Hà Lan thì ngày càng nhiều bài tập, công việc cũng vào đợt bận rộn vì có báo cáo cho dự án đang làm, cộng thêm chuẩn bị cho dự án mới. Cho nên chẳng có lúc nào thật sự rảnh rang và thoải mái tinh thần để viết bài cả, phản hồi cũng không trả lời được nhanh :( Nhưng thời gian vừa rồi mình phải cảm ơn các bạn Oanh, Mieo, Poppy_Muffin và nhiều bạn khác nữa rất rất nhiều vì đã giúp mình trả lời câu hỏi và chia sẻ kiến thức của các bạn về bánh trái và nấu ăn. Đọc comment của mọi người thực sự mình thấy rất vui, không hẳn vì được các bạn giúp mà còn vì cảm giác bếp bây giờ không còn chỉ của riêng mình nữa, mà đã trở thành bếp chung của nhiều bạn bè ở khắp nơi rồi :)</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Nói lan man một tí, giờ quay về Macarons nhé. Quả thật là mình đã mất khá nhiều thời gian chỉ để nghĩ xem nên viết tiếp về Macarons như thế nào. Bởi vì công thức Macarons thì gần như đã được quy chuẩn, chỉ có từng ấy thứ nguyên liệu, với một tỉ lệ gần như cố định, cách làm cũng chỉ có một vài bước cơ bản. Còn kinh nghiệm, các lưu ý và bí quyết làm Macarons thì chỉ cần Google là có cả hàng trăm trang trong chưa đầy một phút. Mình cũng không thể viết chi tiết hơn được. Nghĩ đi nghĩ lại cuối cùng thì mình dự định sẽ lại viết theo kiểu “nhật kí làm bánh”, và ghi lại các bước theo trình tự mà mình đã làm. Hi vọng là với cách làm văn “trần thuật” này thì bạn nào chưa làm Macarons bao giờ cũng có thể theo dõi và áp dụng dễ dàng hơn. Nhưng vì là viết theo trình tự thời gian nên các phần tiếp theo đây sẽ chủ yếu là gạch đầu dòng và các chú ý ngắn gọn nha. Cụ thể mình sẽ viết theo các phần chính là:</p>
+<ol>
+<li>Các lưu ý trước khi làm Macarons</li>
+<li>Chuẩn bị nguyên liệu và dụng cụ</li>
+<li>Thao tác</li>
+<li>Một vài gợi ý cho nhân bánh</li>
+<li>Thất bại thường gặp và nguyên nhân, cách khắc phục</li>
+</ol>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8184946893/" title="les-macarons by LinhTrang9185, on Flickr"><img alt="les-macarons" class="aligncenter" height="500" loading="lazy" src="http://farm9.staticflickr.com/8204/8184946893_1a2b8fbdd4.jpg" width="489"/></a></p>
+<p style="text-align: center;"><em>Hình minh họa từ: http://www.hotelsaintpetersbourgparis.com/blog/laduree-macarons-and-more-near-hotel-saint-petersbourg-paris/ </em></p>
+<p><span style="color: #800000;"><strong>I. Các lưu ý trước khi làm Macarons</strong></span></p>
+<p>1. Macarons rất rất rất khó, khả năng hỏng cao, cho nên <strong>không thích hợp</strong> với các bạn <strong>chưa có hoặc có rất ít kinh nghiệm làm bánh, các bạn muốn làm thử cho biết, hoặc các bạn sợ thất bại, thiếu kiên nhẫn</strong> (bản thân mình, tuy không đếm, nhưng làm hỏng chắc cũng ít nhất là chục mẻ Macarons rồi).</p>
+<p>2. Trước khi làm Macarons, luôn <span style="text-decoration: underline;"><strong>đọc kĩ tất cả các lưu ý</strong></span>, nếu học thuộc lòng được thì càng tốt.</p>
+<p><span id="more-3378"></span>3. Kể cả đã học thuộc lòng lí thuyết thì việc làm được Macarons hay không vẫn phụ thuộc nhiều vào tay nghề của bạn, việc bạn hiểu lò nướng đến đâu, và nhiều yếu tố khác. <strong>Không có công thức hay bí quyết nào có thể giúp bạn làm thành công Macarons</strong>, ngoài sự luyện tập của bản thân bạn.</p>
+<p>4. Lưu ý thời tiết, nhiệt độ và độ ẩm khi làm Macarons. Trời khô ráo, mát mẻ, có nhiều gió tự nhiên làm sẽ dễ thành công hơn, <span style="text-decoration: underline;"><strong>không nên</strong></span> làm Macarons ngày mưa, nóng ẩm vì khả năng hỏng rất lớn.</p>
+<p><span style="color: #800000;"><strong>II. Chuẩn bị nguyên liệu và dụng cụ </strong></span></p>
+<p>Có hai cách làm Macarons cơ bản, theo kiểu Pháp và theo kiểu Ý. Một số ý kiến cho rằng cách làm kiểu Ý có khả năng thành công cao hơn, nhưng mình không chọn cách này vì các bước khá phức tạp so với cách làm kiểu Pháp, cũng yêu cầu phải có một vài dụng cụ chuyên dụng, sợ là sẽ không áp dụng được trong nhiều gia đình, nên mình chọn cách làm theo kiểu Pháp để giới thiệu.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Công thức làm Macarons thì gần như đã được quy chuẩn, có thể chênh lệch một chút về tỉ lệ giữa các loại nguyên liệu nhưng không nhiều. Có một lưu ý là Macarons là bánh rất ngọt, luôn cần nhiều đường, và gần như không thể bớt đường, lí do đơn giản là vì “kiểu của nó phải vậy” :P Công thức mà mình thường dùng là:</p>
+<ul>
+<li><em><em>1 lòng trắng trứng (33-34gram)</em></em></li>
+<li><em><em>65gram đường icing</em></em></li>
+<li><em><em>13gram đường xay</em></em></li>
+<li><em><em>38gram bột hạnh nhân</em></em></li>
+<li><em>1/8 teaspoon cream of tartar</em></li>
+<li><em>1 nhúm rất nhỏ muối</em></li>
+<li><em>Màu thực phẩm, hương liệu </em></li>
+<li><em>Các loại hạt và bột khác </em></li>
+</ul>
+<p>(*) <em>Công thức trên cho một lòng trắng trứng, làm được 20 vỏ bánh mini như trong hình, nếu muốn làm nhiều hơn, các bạn tăng tất cả các nguyên liệu trong công thức theo cùng một tỉ lệ. Lưu ý: <strong>cân các nguyên liệu chính xác</strong>.</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8184946957/" title="Macaron-Ingredients by LinhTrang9185, on Flickr"><img alt="Macaron-Ingredients" class="aligncenter" height="332" loading="lazy" src="http://farm9.staticflickr.com/8206/8184946957_795f4dd71c.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Hình minh họa – Nguồn: http://www.bakingdom.com/2010/12/the-macaron-trials.html</em></p>
+<p><strong>1. Lòng trắng trứng:</strong></p>
+<p>– <strong>Không được</strong> dính chất béo như lòng đỏ, dầu mỡ, bơ… Lý do: <em>nếu có chất béo thì lòng trắng sẽ không bông được khi đánh</em>.</p>
+<p>– Dùng <strong>lòng trắng trứng “cũ”</strong>. Lý do: <em>lòng trắng trứng tươi có khả năng sẽ tạo ra nhiều bọt khí hơn mức cần thiết, dễ làm bánh nở quá nhiều, gây nứt mặt bánh khi nướng.</em></p>
+<p>Làm “cũ” lòng trắng trứng bằng cách cho vào túi có khóa kéo hoặc cho vào hộp đậy kín, để trong tủ lạnh khoảng 2 ngày. Mình thì thường cho lòng trắng vào túi rồi trữ đông, đến khi cần dùng thì để trong ngăn mát tủ lạnh qua đêm, hoặc để từ sáng đến tối để rã đông. Ngoài ra, cũng có thể sử dụng lòng trắng trứng từ quả trứng cũ, vd: trứng mua về để tủ lạnh sau khoảng 6-7 ngày. Trứng cũ tách lòng sẽ khó hơn trứng mới, lòng đỏ cũng xẹp chứ không vồng cao, tròn trịa như trứng mới, túi khí ở đầu vỏ trứng phồng to.</p>
+<p style="text-align: center;"><em>Phân biệt trứng cũ (bên trái) và trứng mới (bên phải)</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8184947017/" title="2012-09-24-Egg-Old-vs.-Fresh-940x533 by LinhTrang9185, on Flickr"><img alt="2012-09-24-Egg-Old-vs.-Fresh-940x533" class="aligncenter" height="284" loading="lazy" src="http://farm9.staticflickr.com/8057/8184947017_855fde9282.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Hình minh họa từ: http://blog.rouxbe.com/sacrifice-an-egg-save-a-breakfast/</em></p>
+<p>– Lòng trắng cần phải được lấy ra khỏi tủ lạnh, để <strong>“nguội” ở nhiệt độ phòng</strong> trước khi làm.</p>
+<p>– Cân lòng trắng chính xác, có thể dao động trong khoảng 33-35gram, nhưng nếu ít hơn (30gram) hoặc nhiều hơn (40gram) thì cần điều chỉnh lượng đường icing và bột hạnh nhân cho phù hợp.</p>
+<p><strong>2. Đường:</strong></p>
+<p>– Có hai loại đường<strong> khác nhau</strong> được sử dụng trong công thức:</p>
+
+
+<p style="padding-left: 30px;">+ <em><strong>đường icing</strong></em> (65gram): là loại đường bột mịn và trong thành phần có thêm khoảng 3% bột bắp.</p>
+<p style="padding-left: 30px;">+ <em><strong>đường xay</strong></em> (13gram): là đường kính thông thường, nhưng được xay nhỏ mịn.</p>
+<p>– Với đường icing: Các bạn nên dùng đường icing mua sẵn để có hiệu quả tốt nhất. Nếu tự xay ở nhà thì nên cho thêm bột bắp theo tỉ lệ 3% như trên, và nhất định là phải xay rất mịn, nếu không sẽ ảnh hưởng nhiều đến chất lượng bánh.</p>
+<p style="text-align: center;"><em>Đường icing</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8184992654/" title="icing-sugar by LinhTrang9185, on Flickr"><img alt="icing-sugar" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8485/8184992654_a29963fdd3.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Hình minh hoạ từ: http://www.coffeeandvanilla.com/types-of-sugar/</em></p>
+<p>– Với đường xay: có thể tự xay hoặc dùng đường icing thay thế, nhưng phải dùng đường loại hạt nhỏ. Lý do: <em>phần đường này được dùng để hỗ trợ khi đánh bông lòng trắng trứng, cho nên đường hạt to sẽ khó tan khi đánh bông.</em></p>
+<p><strong>3. Bột hạnh nhân:</strong></p>
+<p>– Bột hạnh nhân phải khô ráo, tơi và <strong>rất mịn</strong>. Lý do: bột không mịn sẽ làm cho mặt bánh thiếu mịn màng. Bột không khô ráo (hay là bết vì dầu hoặc ẩm) sẽ ảnh hưởng đến việc trộn bột với lòng trắng trứng.</p>
+<p>– Có thể tự xay bột, nhưng nếu tự xay thì lưu ý là:</p>
+<p style="padding-left: 30px;">+ hạnh nhân khi xay có thể tiết ra dầu. Các bạn có thể bật lò lên 50-60 độ C, rồi tắt lò và cho hạnh nhân vào, tãi đều để đến khi hạnh nhân khô. Nếu bạn sống ở nơi khí hậu khô ráo (như mùa đông ở châu Âu) thì có thể phơi qua đêm ở nhiệt độ phòng. Trong quá trình xay nếu thấy bột có dấu hiệu bết cũng nên dừng lại và sấy hoặc phơi cho bột tơi, khô ráo rồi mới dùng</p>
+<p style="padding-left: 30px;">+ nên xay hạnh nhân cùng đường icing, đường sẽ hút bớt một phần chất dầu tiết ra</p>
+<p style="padding-left: 30px;">+ mỗi lần xay không nên nhiều hơn 15-20 giây, và nên thường xuyên đảo cho bột tơi hoặc lắc máy cho bột tơi đều rồi mới xay tiếp.</p>
+<p style="padding-left: 30px;">+ bột xay xong nếu nóng thì tãi cho nguội và tơi rồi mới dùng</p>
+<p>* <strong>Kinh nghiệm cá nhân:</strong> Mình dùng bột hạnh nhân đã xay sẵn, nhưng bao giờ cũng làm theo các bước là: Rây bột và đường, trộn đều, xay hai thứ trong khoảng 20-25 giây cho thật mịn và hòa quyện, rây lại một lần nữa (mình sẽ nói cụ thể hơn trong phần “thao tác”)</p>
+<p><strong>4. Cream of tartar</strong></p>
+<p>– Vai trò của Cream of tartar các bạn có thể xem thêm tại <a href="/danh-bong-long-trang-trung/">ĐÂY</a>. Mình làm bao giờ cũng dùng thêm 1 lượng nhỏ. Các bạn có thể thay bằng nước cốt chanh hoặc dấm, nhưng mình thấy không có gì tốt bằng Cream of tartar. Nó không chỉ giúp lòng trắng ổn định, bóng và dẻo hơn mà còn giúp hạn chế khả năng bạn đánh quá tay, dẫn đến việc lòng trắng trứng bị khô nữa.</p>
+<p>– Lượng sử dụng là 1/8 teaspoon (thìa cafe) cho 1 lòng trắng trứng.</p>
+<p><strong>5. Màu thực phẩm </strong></p>
+<p>– Macarons xinh đẹp một phần có lẽ cũng ở màu sắc. Màu mà mình sử dụng là màu paste của Wilton, có lẽ cũng là một trong những loại màu phổ biến và thông dụng nhất. <em>Không nên dùng các loại màu nước quá lỏng vì nếu cho nhiều, có thể sẽ ảnh hưởng đến hỗn hợp bột.</em></p>
+<p><strong>6. Hương liệu và các loại bột tạo mùi vị </strong></p>
+<p>– Để tạo mùi vị cho bánh, có thể cho thêm một số loại bột như bột trà xanh (matcha powder) hay bột cacao. Ngoài ra, đôi khi mình cũng dùng các loại chiết xuất (Flavoring oil/ Emulsion) để tạo thêm mùi vị cho bánh như mùi cà phê, mùi hoa quả hay mùi hạt dẻ.</p>
+<p>– Nếu muốn thêm bột, <strong>với một công thức (1 lòng trắng trứng), các bạn có thể thay 5gram bột hạnh nhân bằng 5gram bột trà xanh hoặc 5gram bột cacao.</strong></p>
+<p>Về <span style="color: #800000;"><strong>dụng cụ</strong></span> cần chuẩn bị cho Macarons, những thứ mà mình thường dùng là</p>
+<ul>
+<li><em>Âu đánh lòng trắng trứng </em></li>
+<li><em>Máy đánh trứng </em></li>
+<li><em>Phới trộn/ Spatula </em></li>
+<li><em>Túi bắt kem </em></li>
+<li><em>Khay nướng bánh</em></li>
+<li><em>Tấm silicon nướng bánh hoặc giấy nướng bánh </em></li>
+<li><em>Lò nướng </em></li>
+<li><em>Đồng hồ đo nhiệt lò </em></li>
+<li><em>Máy xay bột hạnh nhân (không bắt buộc nếu dùng bột hạnh nhân đã xay, nhưng mình vẫn xay lại)</em></li>
+</ul>
+<p><strong>7. Âu đánh lòng trắng trứng </strong>và<strong> máy đánh trứng:</strong> các bạn có thể xem thêm lưu ý trong <a href="/danh-bong-long-trang-trung/">bài viết của mình về cách đánh bông lòng trắng trứng</a>. Một vài lưu ý quan trọng nhất là: Âu và que đánh phải <strong>sạch và khô, không được dính chất béo</strong> (lòng đỏ, bơ, dầu mỡ..). Âu đồng, inox hoặc thủy tinh tốt hơn là âu nhựa, gỗ hoặc nhôm.</p>
+<p><strong>8. Khay nướng bánh</strong></p>
+<p>– Macaron đòi hỏi sự chính xác cao về nhiệt độ. Tốt nhất là<strong> dùng khay nhôm</strong> (loại khay làm bánh cuộn hay bánh quy). Không nên dùng khay đen đi kèm theo lò, vì khay này tiếp xúc trực tiếp với thành lò, nhiệt độ truyền vào khay cao, có thể làm cháy đế bánh.</p>
+<p>– Mình thường dùng khay rời hoặc rack, có lót thêm tấm nướng bánh (baking mat).</p>
+<p><strong>9. Tấm silicon nướng bánh hoặc giấy nến</strong></p>
+<p>– Tùy điều kiện mà các bạn có thể sử dụng một trong hai loại dụng cụ này. Kinh nghiệm của bản thân mình là nướng trên giấy nến chân bánh có vẻ cao và thẳng hơn, khi gỡ bánh ra cũng dễ hơn.</p>
+<p>– Có một số loại tấm silicon có sẵn các vòng tròn để bắt bánh cho tròn trịa, dùng các tấm này cũng rất ổn.</p>
+<p><strong>10. Lò nướng</strong></p>
+<p>– Chỉ nên dùng lò nướng, các dụng cụ khác như lò vi sóng, nồi nướng, nồi thủy tinh… mình không có kinh nghiệm nhưng mình nghĩ khả năng hỏng sẽ rất cao vì Macarons đòi hỏi sự chính xác cao về nhiệt độ.</p>
+<p>– Nếu lò nhà bạn là loại nhỏ (từ 40 lít trở xuống), khi nướng bánh sẽ cần chú ý nhiều hơn đến việc điều chỉnh nhiệt độ và thời gian nướng, mình sẽ giải thích thêm trong phần thao tác.</p>
+<p><strong>11. Đồng hồ đo nhiệt lò nướng</strong></p>
+<p>– Macarons thành công hay không, một phần rất lớn phụ thuộc vào nhiệt độ lò nướng. Lò nướng gia đình thì mỗi lò một khác, khác về kích thước, về cách lò được làm nóng (vị trí và kiểu thanh nhiệt)… cho nên có một chiếc đồng hồ để theo dõi sẽ giúp bạn đỡ vất vả hơn trong việc điều chỉnh nhiệt độ cho phù hợp.</p>
+<p>——-</p>
+<p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
+<p><strong><em> </em></strong></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

@@ -1,0 +1,38 @@
+---
+title: "Chuyện nhất định phải khoe :D"
+date: "2017-01-26"
+slug: "chuyen-nhat-dinh-phai-khoe-d"
+categories: ["Chuyện hàng ngày"]
+tags: []
+image: "/wp-content/uploads/2017/01/Screen-Shot-2017-01-26-at-21.21.43.png.jpg"
+description: ""
+---
+
+<p>29 Tết rồi, tầm này hẳn ai cũng đều bận bịu cả. Mình cũng có nhiều việc phải làm nhưng có một chuyện này  nhất định phải khoe với làng trên xóm dưới nhà SD. Khoe xong ăn Tết mới ngon được! :D</p>
+<p>Chắc nhiều bạn đã biết <a href="http://www.ricenflour.com"><strong>Rice ‘n Flour</strong></a> là trang tiếng Anh của Savoury Days, được mở từ khoảng một năm về trước. Bài viết trên <a href="http://www.ricenflour.com" target="_blank"><strong>Rice ‘n Flour</strong></a> được cập nhật khá thường xuyên cho tới khoảng 2 tháng gần đây, vì bận nhiều việc, đặc biệt là chuyển về Việt Nam nên mình tạm dừng không vào website được thường xuyên nữa. Tới đợt này mọi thứ tạm ổn nên mới quay trở lại. Ngày hôm qua vào blog, xem phần phản hồi thì thấy có một <a href="http://www.ricenflour.com/recipe/how-to-make-hokkaido-milk-bread-recipe/comment-page-1/#comment-1523" target="_blank"><strong>phản hồi từ cách đây vài ngày về món bánh mì sữa Hokkaido.</strong></a> Đại ý nói rằng rất thích công thức này và đã 30 năm kể từ ngày nếm chiếc bánh tại Nhật mới tìm lại được hương vị cũ.</p>
+<p>Thật ra phản hồi tích cực về Bánh mì Hokkaido thì mình nhận được rất nhiều. Nhưng riêng phản hồi lần này thì khác. Bởi người gửi có tên là <strong>Rose Levy Beranbaum!!</strong> Khi nhìn thấy cái tên này, mình “đứng hình” mất mấy giây rồi tim bỗng đập rộn lên. Suy nghĩ đầu tiên là: “<em>Không thể nào! Hẳn có ai đó hâm mộ bà nên lấy tên trùng thôi. Nhất định là không thể!”</em>. Thế rồi là tim đập chân run, xoắn quẩy theo đúng nghĩ đen, mất thêm mấy chục giây nữa mới click được vào đường link mà người viết để lại trong phản hồi… Và những điều mình nhìn thấy sau ấy làm cho mình càng run hơn nữa. Đúng là <strong>Rose, </strong>chính là <strong>Rose Levy Beranbaum!</strong> Bà đã thử công thức bánh của mình, thậm chí còn viết bài chia sẻ về bánh và gửi phản hồi cho mình nữa!!!!!</p>
+<p>Biết nói thế nào nhỉ? Cho tới tận bây giờ, gần 24 giờ sau khi phát hiện ra điều này, mình vẫn chưa dám tin là nó có thật. <strong>Rose Levy Beranbaum </strong>là một trong những tên tuổi lừng lẫy của làng bánh Mỹ và thế giới. Tuy không phải là <em>celebrity chef </em>và không xuất hiện nhiều trên các kênh truyền thông nhưng trong giới làm bánh thì bà được biết đến như <em>diva </em>hay nữ hoàng của các loại đồ tráng miệng. Tất cả các sách mà bà viết đều được đón nhận như kinh thánh trong giới bánh ngọt. Mình vẫn còn nhớ mọi người đã háo hức thế nào trong lần gần đây nhất khi nhất bà thông báo đã kí hợp đồng với nhà xuất bản để viết quyển sách mới, dự kiến phát hành sau đó…. 3 năm. Bản thân  mình cũng sưu tập đủ bộ sách của bà, và với mình thì bà ở một vị trí cao quý hơn hai chữ “thần tượng” rất nhiều, kiểu người mà cơ hội gặp mặt xin chữ kí mình cũng không bao giờ mơ có.</p>
+<p>Thế mà, chẳng biết số phận run rủi thế nào, bà lại tình cờ thấy video cách làm bánh Hokkaido của mình, và dành thời gian để thử nó. Không chỉ thử một lần mà tới… 7 lần liền. Bà có viết một<a href="http://www.realbakingwithrose.com/2017/01/the_zen_of_japanese_cottony_mi.html" target="_blank"><strong> bài chia sẻ ngắn sau khi thử bánh mì Hokkaido trên blog của bà,</strong></a> trong đó chia sẻ một số chỉnh sửa của bà trong công thức để làm cho món bánh hoàn hảo hơn. Chắc khi nào hết run mình sẽ dịch và tổng hợp lại để bạn nào quan tâm thì thử lại nhé. Khi nào mình có lò ở Việt Nam chắc chắn cũng sẽ làm lại theo những thay đổi của bà. Còn tạm thời thì chắc mình chưa dịch được vì vẫn còn đang lâng lâng trên tầng mây thứ mười mấy chưa hạ cánh xuống được :D</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Trong bài viết tại blog bà có ghi đại ý là cách đây 30 năm có nếm thử món bánh mì ở Nhật Bản, rất thích nhưng sau đó không thể làm lại được. Tình cờ thấy video của mình và thấy thớ bánh khá giống loại bánh mà bà đã nếm thử khi xưa nên bà làm và nhanh chóng trở nên nghiện nó. Bà cũng dành cho video của mình một số lời khen và còn hỏi thăm cả về mấy cuốn sách của mình nữa :) :D</p>
+<p><img alt="Screen Shot 2017-01-26 at 21.21.43.png" class="aligncenter size-full wp-image-7291" height="657" loading="lazy" sizes="(max-width: 1320px) 100vw, 1320px" src="/wp-content/uploads/2017/01/Screen-Shot-2017-01-26-at-21.21.43.png.jpg" width="1320"/></p>
+<p> </p>
+<p><img alt="Screen Shot 2017-01-26 at 21.22.12.png" class="aligncenter size-full wp-image-7292" height="662" loading="lazy" sizes="(max-width: 849px) 100vw, 849px" src="/wp-content/uploads/2017/01/Screen-Shot-2017-01-26-at-21.22.12.png.jpg" width="849"/></p>
+<p>So với Rose Levy Beranbaum thì mình chỉ ở hàng đệ tử của đệ tử của đệ tử. Nên sự kiện này với mình quả thực là một việc rất rất vui, cực cực vui, và tự hào nữa. Điều mà mình cảm động nhất có lẽ là bà đã dành thời gian vào website để gửi lời nhắn cho mình. Và sau đó còn trả lời lại tin nhắn của mình gửi cho bà rất nhanh và rất thân thiện trong khi bà không cần phải làm tất cả những điều này…</p>
+<p>Chuyện đã khoe xong :D Cảm ơn các bạn đã chia sẻ niềm vui với mình bằng việc đọc tới tận dòng này. Sắp sang năm mới rồi. Đối với mình việc lần này giống như một “cú huých” lớn, tiếp thêm cho mình rất nhiều động lực để năm tới sẽ chuyên tâm hơn trong công việc mình đang làm là: thử nghiệm công thức mới và chia sẻ. Nhất định sẽ cố gắng hơn nữa để có thêm nhiều bài viết mới có chất lượng cho bạn đọc của Savoury Days! ^^</p>
+<p>Chúc các bạn và gia đình một cái Tết thật đầm ấm, yên vui và Năm mới dồi dào sức khoẻ, vạn sự hanh thông! :)</p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

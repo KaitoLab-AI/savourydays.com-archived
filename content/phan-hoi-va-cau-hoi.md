@@ -1,0 +1,51 @@
+---
+title: "Buôn than và nhờ vả (về các phản hồi và câu hỏi tại Savoury Days)"
+date: "2013-01-11"
+slug: "phan-hoi-va-cau-hoi"
+categories: ["Chuyện hàng ngày", "Về tôi"]
+tags: ["chia sẻ", "chuyện hàng ngày"]
+image: ""
+description: "savoury days"
+---
+
+<p>Khoảng thời gian bận rộn của mình có lẽ đã tạm thời kết thúc. Đây chắc là lần đầu tiên trong 2 năm làm PhD mình phải xử lí nhiều công việc trong cùng một lúc như vậy: hoàn tất công trình nghiên cứu để nộp hội thảo, học tiếng Hà Lan, và một số kế hoạch cá nhân khác. Cảm giác quá tải thì không hẳn nhưng liên tục trong một thời gian dài mình gần như không có thời gian nghỉ. Như 3 tuần gần đây thì bất kể là cuối tuần hay ngày lễ, ngày nào cũng bắt đầu từ 7h sáng đến 12 giờ đêm, 1 giờ sáng, để cuối tuần có ít thời gian dư ra dành cho nấu và nướng… Nhưng cũng may là công việc cũng đỡ dần đi rồi, và kết quả thì nhìn chung là ổn. Công việc nghiên cứu có kết quả tốt, lớp tiếng Hà Lan cũng hoàn tất với điểm A và lời khen đặc biệt cho bài thi nói, và đặc biệt là blog tuy không có nhiều thời gian cập nhật nhưng vẫn được rất nhiều bạn bè yêu quý và thường xuyên qua chơi hàng ngày :) (cảm ơn cả nhà nhiều lắm :x)</p>
+<p>Đợt vừa rồi vì bận nên bài vở tại Savoury Days mình không có nhiều thời gian để viết, nên để bù lại thì đợt tới đây mình sẽ có một số món ăn cho Tết Nguyên Đán. Sáng nay mình mới “trưng cầu dân ý” để chọn món ăn tại Facebook của Savoury Days: http://www.facebook.com/savourydays. Các bạn muốn mình thử công thức nào thì đề xuất ý kiến thoải mái nha :) Mình không hứa là sẽ làm được hết nhưng dựa theo lựa chọn của các bạn, mình sẽ chọn ra các công thức mà sẽ có ích cho nhiều bạn nhất. Ngoài ra, sắp tới Savoury Days sẽ có một món quà rất rất đặc biệt tặng các bạn, đặc biệt hơn tất cả những thứ có trên SD từ trước tới giờ. Cụ thể “quà” là gì thì mình hứa sẽ bật mí trong thời gian rất sớm, tin là cả nhà sẽ thích ;)</p>
+<p>Cũng vì bận rộn nên thời gian vừa rồi mình không trả lời các phản hồi được nhanh. Mặc dù vẫn có các bạn khác giúp đỡ nhưng nhiều lúc vẫn cảm thấy mình để phản hồi và câu hỏi dồn lại nhiều quá, hi vọng là cả nhà không thấy phiền vì phải đợi mình trả lời lâu. Lý do chính là vì mình bận thôi chứ còn phản hồi của các bạn lúc nào mình cũng muốn trả lời hết, kể cả không phải là câu hỏi thì mình cũng sẽ có vài từ hồi đáp để các bạn biết là mình đã đọc. Nhưng thời gian vừa rồi vì quá nhiều (có những ngày mình mất đến 1 tiếng rưỡi đồng hồ chỉ để trả lời hết phản hồi tại blog) nên có thể trong lúc trả lời mình bỏ sót một vài câu hỏi, mong các bạn đừng giận và nếu là câu hỏi cần thiết thì các bạn cứ nhắc lại nhé. Ngoài ra, thi thoảng blog hơi “chập cheng” nên một số phản hồi bị mất. Cái này mình cũng không kiểm soát được nên nhờ các bạn báo cho mình nếu không thấy có phản hồi hiện ra nha.</p>
+<p>Tuy nhiên, về các phản hồi và câu hỏi tại Savoury Days thì mình cũng có vài điều muốn chia sẻ một chút với các bạn. Mình biết là tâm lí ai khi thử công thức mới cũng mong sẽ thành công và để chắc chắn thành công thì hỏi han kĩ càng là một cách chuẩn bị rất tốt. Nhưng mà, nếu đọc Savoury Days các bạn sẽ thấy là mình luôn cố gắng viết ra hết tất cả những gì mình biết, hoàn toàn không có ngoại lệ. Cho nên <em><span style="color: #ff0000;">mong mọi người giúp đỡ bằng cách đọc bài viết thật kĩ trước khi đặt câu hỏi nhé</span>.</em></p>
+<p>Ngoài ra, <em><span style="color: #ff0000;">có rất nhiều vấn đề mình đã giải đáp hoặc có bài viết trên Savoury Day</span></em>s rồi. Một vài ví dụ điển hình là:</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em>Chọn lò nướng thế nào cho tốt? Có nướng bánh bằng lò vi sóng/ nồi nướng/ lò thủy tinh được không?</em></li>
+<li><em>Tại sao nướng xong bánh bị xẹp, thắt eo?</em></li>
+<li><em>Tại sao bánh nướng xong mặt lại cháy hoặc giòn trong khi bên trong đặc ẩm? </em></li>
+<li><em>….</em></li>
+</ul>
+<p>Cũng có rất nhiều công thức các món ăn đã được đăng. Nên nếu cần một thông tin nào đó, hoặc các bạn có thể <span style="color: #ff0000;"><em>tìm trong Mục lục, hoặc dùng công cụ “tìm kiếm” ở bên tay phải của blog. Nên gõ các từ khóa trong ngoặc kép</em></span>, ví dụ: “tại sao bánh xẹp”, kết quả tìm kiếm sẽ chính xác hơn.</p>
+<p>Ngoài hai vấn đề trên đây thì còn một việc nữa là có rất nhiều câu hỏi mà mình nghĩ các bạn hoàn toàn có thể tìm được thông tin qua tìm kiếm tại www.google.com, chẳng hạn như là:</p>
+<ul>
+<li><em>Mua nguyên liệu A, B, C … ở đâu…?</em></li>
+<li><em>Nguyên liệu A, B, C,… là gì?</em></li>
+<li><em>Sự khác nhau giữa nguyên liệu A và nguyên liệu B?</em></li>
+<li><em>Tìm lớp học làm bánh ở đâu?</em></li>
+<li>…..</li>
+</ul>
+<p>Nhiều khi bản thân mình, để trả lời một số câu hỏi dạng tìm hiểu thông tin thế này, cũng sẽ phải đi hỏi lại Google. Cho nên mình nghĩ có lẽ các bạn chủ động tìm kiếm thông tin sẽ tốt hơn, vì có thể tự chọn lọc thông tin và cũng không phải chờ mình lâu để có câu trả lời nữa (mà tìm kiếm bằng Goolge thì siêu nhanh, siêu dễ và siêu đơn giản, đúng không? :) )</p>
+<p>Cuối cùng, Savoury Days từ trước đến nay vẫn là căn bếp nhỏ, là nơi cùng chia sẻ niềm vui nấu nướng, và hi vọng có thể mang đến cảm hứng vào bếp cho nhiều chị em (và cả anh em). Nên <strong><em>mong mọi người hãy giúp đỡ lẫn nhau bằng việc chia sẻ kiến thức của mình. <span style="color: #ff0000;">Gõ phản hồi bằng Tiếng Việt có dấu</span>, và luôn lịch sự và thân thiện khi đặt câu hỏi nhé</em></strong> (*)</p>
+<p>Cảm ơn cả nhà, chúc mọi người cuối tuần vui vẻ :x</p>
+<p>———————</p>
+<p>(*) <strong><span style="color: #ff0000;">Tất cả các phản hồi mang tính chất quảng cáo hay bán hàng hoặc các câu hỏi thiếu thiện ý, ví dụ: “<em>Mua cái này ở đâu</em>?”, “<em>Làm cái này thế nào</em>?” sẽ bị xóa và xem xét chặn IP (trong trường hợp vi phạm quá nhiều lần).</span></strong></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

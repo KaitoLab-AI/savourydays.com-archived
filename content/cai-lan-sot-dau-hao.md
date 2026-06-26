@@ -1,0 +1,46 @@
+---
+title: "Cải làn sốt dầu hào"
+date: "2011-05-06"
+slug: "cai-lan-sot-dau-hao"
+categories: []
+tags: []
+image: "/wp-content/uploads/2011/05/Cai-lan-sot-dau-hao1.jpg"
+description: "Cách làm cải làn sốt dầu hào - Món ăn đơn giản, cách nấu cực kì nhanh gọn dễ dàng mà lại rất ngon. Công thức kèm hình các bước chi tiết"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Ở nhà mình mùa hè thường hay có rau luộc đủ loại chấm với nước mắm ngon, pha chút mì chính, chút chanh, tỏi và ớt. Có một đĩa rau thôi nhưng có khi cũng đủ để đánh vèo hết vài bát cơm. Ở bên này rau châu Á không thiếu, nhưng nước mắm ngon thì thực sự chẳng biết kiếm ở đâu. Cho nên đổi kiểu vậy.</p>
+<p>Sốt dầu hào là một loại nước chấm của Trung Quốc, có thể dùng với nhiều loại rau luộc khác nhau. Sốt rất dễ làm, thành phần cũng không có gì đặc biệt, chỉ có dầu hào, xì dầu và đường. Vì tự pha nên có cái hay là có thể tự điều chỉnh mặn ngọt theo ý mình. Ngoài sốt dầu hào thì có 1 thứ không thể thiếu là dầu tỏi. Thật ra chỉ là tỏi băm nhỏ phi vàng. nhưng nếu thiếu bạn này thì món ăn sẽ mất đi ít nhất là 1 nửa hấp dẫn, thật đấy ;)</p>
+<p><img alt="Chinese broccoli &amp; oyster sauce (Cải làn sốt dầu hào)" class="aligncenter" height="354" loading="lazy" src="http://farm6.static.flickr.com/5149/5692295791_d8cef3c9f5.jpg" width="500"/></p>
+<p> </p>
+<p><strong>CÔNG THỨC CẢI LÀN SỐT DẦU HÀO </strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<ul>
+<li><em>300 gr cải làn (hoặc có thể thay bằng cải thìa)</em></li>
+<li><em>1 thìa canh (tablespoon/ 15 ml) dầu hào (oyster sauce)<br/>
+</em></li>
+<li><em>1/2 thìa canh nước tương/ xì dầu (soy sauce)<br/>
+</em></li>
+<li><em>1 thìa canh nước</em></li>
+<li><em>1 thìa cafe (teaspoon/ 5 ml) xì dầu ngọt (hoặc thay bằng đường)</em></li>
+<li><em>1 thìa cafe dầu ăn</em></li>
+<li><em>2 – 3 tép tỏi</em></li>
+</ul>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5692867146/" title="Chinese broccoli (Cải làn) by LinhTrang9185, on Flickr"><img alt="Chinese broccoli (Cải làn)" class="aligncenter" height="363" loading="lazy" src="http://farm6.static.flickr.com/5265/5692867146_d488d3862e.jpg" width="500"/></a></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><em><strong>1. Chuẩn bị nguyên liệu:</strong></em> Rau cải cắt bớt phần gốc cứng, rửa sạch. Tỏi băm nhỏ (không quá vụn)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5692867100/" title="Garlic &amp; Chinese broccoli by LinhTrang9185, on Flickr"><img alt="Garlic &amp; Chinese broccoli" class="aligncenter" height="500" loading="lazy" src="http://farm6.static.flickr.com/5106/5692867100_ef74a3e37a.jpg" width="444"/></a></p>
+<p>2. Đun sôi nước. Cho vào nồi nước vài giọt dầu ăn. Cho rau cải vào trần chín (khoảng 30-40s), vớt ra, bày lên đĩa &amp; chắt hết nước tiết ra từ rau.</p>
+<p>Trong lúc đợi nước sôi thì chuẩn bị dầu tỏi và làm sốt dầu hào.</p>
+<p><em><strong>3. Chuẩn bị dầu tỏ</strong></em>i: Phi nóng dầu ăn trong chảo. Cho tỏi vào, đảo đều. Ngay khi thấy tỏi chuyển sang màu nâu nhạt thì bắc ra, tỏi sẽ tự tiếp tục chín trong dầu nóng và chuyển sang màu như trong ảnh.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5692867038/" title="Garlic oil by LinhTrang9185, on Flickr"><img alt="Garlic oil" class="aligncenter" height="500" loading="lazy" src="http://farm6.static.flickr.com/5104/5692867038_e18cb164ff.jpg" width="342"/></a></p>
+<p><em><strong>4. Làm sốt dầu hào</strong></em>: Lấy chảo vừa phi tỏi, pha nước, dầu hào, xì dầu, xì dầu ngọt hoặc đường. Khuấy đều. Cả nhà có thể nêm nếm lại cho vửa khẩu vị nhé. Bắc chảo lên bếp, để lửa vừa. Sau khi sốt dầu hào sôi khoảng 30s – 1 phút thì bắc ra (hoặc có thể đợi sốt cạn sánh tủy ý thích của bạn)</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Rưới sốt dầu hào lên rau. Rắc dầu tỏi. Dùng nóng.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5692295913/" title="Chinese broccoli &amp; oyster sauce (Cải làn sốt dầu hào) by LinhTrang9185, on Flickr"><img alt="Chinese broccoli &amp; oyster sauce (Cải làn sốt dầu hào)" class="aligncenter" height="500" loading="lazy" src="http://farm6.static.flickr.com/5184/5692295913_2a24b911f4.jpg" width="429"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

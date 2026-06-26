@@ -1,0 +1,115 @@
+---
+title: "{Bánh trung thu} Cách nấu nước đường cho bánh nướng"
+date: "2014-07-28"
+slug: "banh-trung-thu-cach-nau-nuoc-duong-cho-banh-nuong"
+categories: []
+tags: []
+image: "/wp-content/uploads/2014/07/NuocDuongBanhNuong.jpg"
+description: "nước đường bánh trung thu, bánh nướng"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><em>Trước khi viết bài, mình muốn gửi lời cảm ơn các chị Khai Tâm, chị Kiwi, chị NguyệtVA Baking fun</em><em>, Chị Phương (Fox Kitchen), Chị Hoàng Thụy (bếp Thienna), Chị Trần Việt Hà, Chị Ngọc Võ (Phan Vo’s Kitchen)… và rất nhiều chị em khác đã nhiệt tình chia sẻ công thức, kinh nghiệm, cũng như giải đáp các thắc mắc về bánh trung thu. Nhờ những chia sẻ của các chị mà những người đi sau như mình có nhiều tài liệu tham khảo và cũng rút ra được nhiều bài học để tránh thất bại khi làm :)</em></p>
+<p>Tuy năm nay mình mới làm bánh trung thu lần đầu tiên, nhưng số lần thử nghiệm của mình thì cũng kha khá rồi, có lẽ đủ để kết luận rằng: “<strong><em>Làm bánh trung thu không khó</em></strong>!”, nhưng có nhiều công đoạn chuẩn bị nguyên liệu khác nhau, nên công thức thường khá dài. Công thức của mình có thể sẽ còn dài hơn các công thức bánh trung thu khác. Vì mình hi vọng cả những bạn chưa bao giờ làm bánh, khi đọc công thức tại Savoury Days, cũng có thể làm theo được dễ dàng. Nên mình sẽ cố gắng viết đầy đủ tất cả những gì mình biết, tập trung vào giải thích các kĩ thuật và cả các lưu ý để tránh sai sót mà mình tự rút ra từ kinh nghiệm bản thân và tài liệu mình đã đọc nữa. Nếu trong quá trình làm có vấn đề phát sinh, chúng mình sẽ cùng thảo luận tiếp, nhưng <strong><em>rất mong mọi người sẽ đọc bài thật kĩ trước khi đặt câu hỏi nhé</em></strong>.</p>
+<p>——————–</p>
+<p><strong>PHẦN 1 – CHUẨN BỊ NƯỚC ĐƯỜNG CHO BÁNH NƯỚNG</strong></p>
+<p>Nước đường là một trong những nguyên liệu quan trọng nhất trong phần vỏ bánh nướng, quyết định độ ngọt, độ mềm, màu sắc và thời gian bảo quản bánh. Nước đường thường được nấu từ rất sớm. Để qua một thời gian, nước ngấu trở nên sậm màu hơn, đặc sánh hơn, đậm đà hơn, sẽ giúp bánh mềm mại và có màu nâu vàng đẹp hơn.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Tuy có một vài ý kiến cho rằng nước đường cần được nấu trước từ vài tháng đến một năm. Nhưng<em><strong> nếu không có thời gian chuẩn bị trước, thì vẫn có thể dùng nước đường mới nấu sau 10 – 14 ngày được</strong></em>. Mình có biết khá nhiều chị em dùng nước đường mới nấu mà bánh hoàn toàn ổn. Bản thân mình cũng đã làm bánh với nước đường mới chỉ nấu trong 2 tuần, nhưng bánh vẫn rất mềm mại, màu lên cũng đẹp. Nên bạn nào vẫn chưa kịp nấu nước đường thì cứ yên tâm nhé, nấu từ bây giờ hoàn toàn kịp cho Trung thu năm nay :)</p>
+<p>Nấu nước đường cũng không mất thời gian, nên có lẽ tự nấu được là tốt nhất. Mặc dù nước đường bán sẵn cũng có rất nhiều. Nhưng mình có tình cờ đọc được thắc mắc của một người bạn, rằng “không biết ngoài hàng người ta cho cái gì mà dùng nước đường mua sẵn thấy bánh mềm hơn hẳn”. Có thể chỉ là cảm giác, nhưng cũng có thể phỏng đoán “cho cái gì” là thật. “Cái gì” này cụ thể là gì và có tốt cho sức khỏe hay không thì không ai biết chắc, vì vậy nên mình nghĩ nếu có thể tự làm được, tự mình kiểm soát các nguyên liệu đầu vào, có lẽ vẫn là phương án yên tâm và an toàn hơn cả.</p>
+<p>Nguyên liệu nấu nước đường chỉ gồm đường, nước và ít chanh hoặc dứa (thơm). Ngoài ra có thể cho thêm mạch nha và nước tro tàu. Sau khi nấu thử một số loại nước đường với các công thức khác nhau và nguyên liệu khác nhau, rồi dùng làm bánh thì mình rút ra được một số kinh nghiệm về sử dụng nguyên liệu là:</p>
+<p>1. <span style="color: #800000;"><strong>Đường</strong>:</span> có thể dùng đường cát trắng, đường vàng hoặc đường nâu. Không nên dùng đường thốt nốt vì mùi đường có thể sẽ rất đậm đặc. Nếu không có nhiều thời gian thì dùng đường vàng hay đường nâu sẽ tốt hơn vì màu của nước đường sẽ đậm hơn, cho bánh màu nâu vàng đẹp hơn. <strong><em>Nên chọn mua loại đường tinh luyện, sạch, khi nấu sẽ hạn chế bọt và bụi bẩn, nước đường sẽ trong và đẹp hơn</em></strong>.</p>
+<p>2. <span style="color: #800000;"><strong>Chanh hoặc dứa (thơm</strong>)</span>: Nước từ chanh hoặc dứa (thơm) sẽ giúp khắc phục hiện tượng lại đường (đường không bị cô lại thành hạt li ti trong nước đường sau khi nấu xong). Ngoài ra, hai loại quả này cũng giúp nước đường có thêm mùi thơm the mát từ quả, nên bánh cũng có ít mùi thơm mát mát, rất dễ chịu. Chanh vàng hay xanh đều không làm cho nước đường bị đắng, nhưng dùng chanh vàng thì tốt hơn. Mình chưa thử dùng dứa (thơm) nhưng có đọc thấy một vài công thức dùng loại quả này và khen là nước đường thơm ngon nên mình ghi lại đây để bạn nào quan tâm thì thử nhé.</p>
+<p>3. <span style="color: #800000;"><strong>Mạch nha</strong></span>: mạch nha để cho vào nước đường là loại mạch nha trắng trong hoặc vàng nhạt, dạng lỏng hơi sánh, vị ngọt vừa, không phải mạch nha kẹo loại đặc dính màu vàng sậm (dùng loại sau có thể sẽ gây lại đường). Mạch nha giúp nước đường mềm và sánh hơn nhưng không bắt buộc phải có. Mình không dùng mạch nha do không mua được đúng loại.</p>
+<p>4. <span style="color: #800000;"><strong>Nước tro tàu</strong></span> (Lye water): Có hai loại nước tro tàu tự nhiên (làm từ tro nấu từ rơm) và nước tro tàu công nghiệp. Nước tro tàu tự nhiên thì không sao nhưng nước tro tàu công nghiệp nếu dùng lượng lớn sẽ rất có hại cho sức khỏe. Do vậy nên nếu trong nhà có trẻ nhỏ thì các bạn lưu ý để chai nước tro tàu xa tầm với của các bé nhé.</p>
+<p>Nước tro tàu giúp làm mềm nước đường (từ đó giúp mềm bánh), và giúp bánh có màu nâu đẹp hơn. Tuy nhiên, vì đắn đo với tác hại của nước tro (ở bên này chỉ có nước tro công nghiệp, và chỉ có thể mua ở cửa hàng Trung Quốc) nên mình nấu thử nước đường có và không có nước tro rồi dùng làm bánh. Kết quả là bánh làm ra không khác nhau nhiều. Sau 1 ngày thì bánh không dùng nước tro vẫn xuống màu nâu đẹp và cũng rất mềm mại. Mình cũng có hỏi kinh nghiệm của một số chị bạn thì biết các chị cũng không dùng nước tro khi làm bánh. Nên <strong><em>nếu bạn nào không yên tâm thì có thể bỏ hẳn nước tro mà không ngại việc bánh sẽ cứng hơn hay kém đẹp hơn nhé.</em></strong></p>
+<p>Trên đây là các lưu ý chung, giờ là công thức và các bước cụ thể để nấu nước đường nha</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<ul>
+<li><em>1kg đường (trắng, vàng hoặc nâu, xem ghi chú (1) ở trên) (mình dùng 1/2 đường trắng + 1/2 đường nâu đen)</em></li>
+<li><em>600ml nước</em></li>
+<li><em>1 quả chanh vàng nặng khoảng 60 – 70 g </em></li>
+<li><em>30ml mạch nha (không bắt buộc)</em></li>
+<li><em>5ml (1tsp) nước tro tàu + 20ml nước (không bắt buộc)</em></li>
+</ul>
+<p>(*) <strong>Ghi chú: </strong>Một công thức này nấu được khoảng 1,1 – 1,2kg nước đường. Trung bình mỗi công thức vỏ bánh của mình sử dụng 150 gram nước đường và nhào được khoảng 450 gram vỏ bánh. Thông thường, vỏ bánh trung thu sẽ bằng khoảng 1/3 trọng lượng bánh (vỏ = 1/2 nhân là khá mỏng, nếu bạn thích ăn nhiều vỏ thì có thể tăng vỏ giảm nhân). Từ tỉ lệ này, các bạn có thể tự tính lượng bánh trung thu làm được tùy theo loại khuôn bạn sử dụng.</p>
+<p>Ví dụ: nếu bạn dùng khuôn để làm bánh cỡ 75 gram thì vỏ bánh sẽ nặng: 75/3 =25 gram (nhân 50gram). Như vậy, một công thức vỏ bánh với 150 gram nước đường sẽ làm được khoảng: 450/25 = 18 cái bánh =&gt; 1kg nước đường làm được: 18 x (1000/150) = 120 cái bánh cỡ 75gram.</p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Chanh rửa sạch, vắt lấy nước, bỏ hạt (để nước không bị đắng), giữ lại vỏ.</p>
+<p>2. Đun sôi nước. Cho đường vào nồi. Đổ nước sôi, quấy đều cho đường tan bớt.</p>
+<p>* <em>Nếu có nồi hay chảo dạng đáy cong thì dùng loại nồi này đun nước đường sẽ tốt hơn vì nước đường tỏa đều hơn.</em></p>
+<p style="text-align: center;"><em>Đổ nước sôi vào nồi đựng đường</em></p>
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/14767665385/" title="IMG_5883 by LinhTrang9185, on Flickr"><img alt="IMG_5883" class="aligncenter" height="333" loading="lazy" src="https://farm3.staticflickr.com/2926/14767665385_7887586581.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Quấy cho đường tan bớt </em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14580960820/" title="IMG_5884 by LinhTrang9185, on Flickr"><img alt="IMG_5884" class="aligncenter" height="333" loading="lazy" src="https://farm6.staticflickr.com/5576/14580960820_7e47e4838e.jpg" width="500"/></a></p>
+<p>3. Bắc nồi lên bếp. Đun đến khi nước sôi thì hạ lửa đủ để nước sôi lăn tăn, hớt sạch bọt.</p>
+<p style="text-align: center;"><em>Nước sôi sẽ có khá nhiều bọt, nên dùng thìa nhẹ nhàng hớt bớt</em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14764498241/" title="IMG_5886 by LinhTrang9185, on Flickr"><img alt="IMG_5886" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3920/14764498241_55cbdf5134.jpg" width="500"/></a></p>
+<p>4. Cho nước cốt chanh và vỏ chanh vào nồi. Đun lửa nhỏ trong khoảng 50 – 65 phút (tùy độ to nhỏ của bếp).</p>
+<p style="text-align: center;"><em>Cho nước cốt chanh </em></p>
+
+
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/14581032458/" title="IMG_5887 by LinhTrang9185, on Flickr"><img alt="IMG_5887" class="aligncenter" height="333" loading="lazy" src="https://farm3.staticflickr.com/2917/14581032458_e6a0397210.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Cho vỏ chanh (nên úp phần múi chanh xuống dưới, để mặt vỏ quay lên trên – ngược với trong hình)</em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14581031778/" title="IMG_5888 by LinhTrang9185, on Flickr"><img alt="IMG_5888" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3839/14581031778_e0fa26e43d.jpg" width="500"/></a></p>
+<p>* <em>Trong toàn bộ quá trình đun, tính từ khi bắc nồi lên bếp, <strong>không quấy đảo nước đường</strong>, để tránh bị lại đường. Khi cho nước chanh vào cũng không cần quấy vì nồi nước đang sôi nên nước chanh sẽ tự hòa tan. </em></p>
+<p><em>* Nếu dùng mạch nha và nước tro tàu có thể cho các thứ này vào sau khoảng 30 – 40 phút tính từ thời điểm cho chanh (khoảng 10 – 15 phút trước khi tắt bếp). Nước tro tàu cần được hòa loãng trong nước trước khi cho vào nồi. </em></p>
+<p><em>* Trong quá trình nấu, có thể dùng khăn sạch và ướt lau các hạt đường bám trên thành nồi. Lưu ý lau khéo, tránh để các hạt đường này rơi trở lại nồi (hoặc có thể bỏ qua không lau)</em></p>
+<p><em>* Nếu nồi nước có nhiều bọt, có thể dùng thìa sạch nhẹ nhàng hớt các bọt này </em></p>
+<p>5. Điều quan trọng nhất của nước đường có lẽ là nấu làm sao cho vừa đủ. Nước đường quá loãng sẽ làm cho bột nhão, bánh khi nướng dễ bị chảy xệ, cũng không để được lâu. Nước đường quá đặc dễ làm cho bột khô bở, bánh dễ bị nứt hoặc cứng.</p>
+<p>Tùy theo độ nóng của bếp mà thời gian nấu nước đường có thể thay đổi khác nhau. Sau khoảng 40 – 45 phút từ thời điểm nước sôi, các bạn có thể bắt đầu kiểm tra xem nước đường đã đạt chưa bằng các cách sau đây:</p>
+<p><strong>Cách 1: </strong>Múc một ít nước đường. Dùng một chiếc đĩa đế phẳng. Đặt thìa gần sát mặt đĩa để một vài giọt nước đường nhỏ xuống đĩa. Nếu đường lập tức lan rộng ra là nước đường chưa đủ, nếu nước đường cô đặc lại và cứng là đã nấu quá nhiều. Nước đường đạt là khi giọt đường hơi lan ra một chút trong khoảng 1, 2 giây đầu tiên, nhưng vẫn giữ dạng tròn.</p>
+<p><strong>Cách 2: </strong>Chuẩn bị một bát nước, nhỏ vài giọt nước đường vào bát nước. Nếu nước đường lập tức tan ra và hòa vào trong nước là chưa đạt. Nếu nước đường gom lại đóng thành viên tròn là đã nấu quá nhiều. Nước đường đạt sẽ rơi xuống và lan ra dưới đáy bát thành quầng hình tròn.</p>
+<p><strong>Cách 3</strong>: Trước khi nấu nước thì cân trọng lượng của nồi. Sau khi nấu xong thì cân cả nồi nước đường rồi trừ đi trọng lượng nồi. Nếu từ 1kg đường và 600ml nước ban đầu nấu ra được khoảng 1,2kg nước đường là đạt.</p>
+<p>Nếu nước đường chưa đạt, còn loãng thì cần nấu tiếp. Nếu nước đường quá đặc (có thể do bếp lửa to, nước bốc hơi nhanh) thì cho thêm nước vào nồi rồi nấu đến khi đạt.</p>
+<p style="text-align: center;"><em>Thử nước đường theo cách (1) và (2)</em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14744661756/" title="IMG_5952 by LinhTrang9185, on Flickr"><img alt="IMG_5952" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3870/14744661756_de45876212.jpg" width="500"/></a></p>
+<p>6. Khi nước đường đã đạt thì bắc ra khỏi bếp. Vớt bỏ chanh, để gần nguội. Chuẩn bị lọ sạch để đựng nước đường (nên luộc lọ qua nước sôi rồi để khô để tiệt trùng). Dùng thìa hoặc muôi lớn múc đường từ nồi cho vào lọ. Không nên đổ vì các hạt đường bám ở thành nồi sẽ trôi theo nước và gây ra hiện tượng lại đường.</p>
+<p>Để nước đường nguội hẳn mới đóng nắp lọ. Sau khoảng 7 – 10 ngày có thể dùng được. Để càng lâu nước đường càng ngấu, bánh sẽ càng ngon hơn.</p>
+<p><span style="color: #ff0000;">Trung thu năm 2015 mình đã quay <strong><a href="/video-cach-nau-nuoc-duong-banh-nuong-trung-thu/" style="color: #ff0000;" target="_blank">video cách nấu nước đường trong bài viết này</a></strong>.</span> Ngoài video, trong bài viết cũng có thêm một số giải đáp thắc mắc về nước đường nữa, các bạn có thể xem thêm nha.</p>
+<p>Trong hình dưới là hai lọ nước đường mình nấu từ đường trắng (lọ bên trái) và 1/2 đường trắng + 1/2 đường nâu đen (lọ bên phải). Dùng cả hai lọ làm bánh đều ổn (nước đường mới nấu khoảng 2 tuần), nhưng lọ màu nâu cho bánh có vẻ vàng nâu hơn một chút.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14764496391/" title="IMG_5947 by LinhTrang9185, on Flickr"><img alt="IMG_5947" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3885/14764496391_402837d765.jpg" width="500"/></a></p>
+<p>Tuy nhìn trong hình màu rất sậm nhưng thực ra thì màu nước đường trong lọ bên phải cũng chỉ sậm hơn màu hổ phách một chút thôi :)</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14787532223/" title="IMG_5948 by LinhTrang9185, on Flickr"><img alt="IMG_5948" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3900/14787532223_30d96ffe64.jpg" width="500"/></a></p>
+<p>(*) <span style="color: #ff0000;"><strong>Một số thất bại thường gặp &amp; Cách khắc phục:</strong></span></p>
+<p>– Nếu nước đường bị cô đặc cứng lại khi sau khi nguội: Đây là hiện tượng nước đường bị nấu quá nhiều. Các bạn có thể ngâm lọ vào nước ấm cho đường lỏng ra, sau đó hòa thêm ít nước nóng rồi cho vào nồi nấu lại cho đường loãng hơn.</p>
+<p>– Nếu trong lọ có một vài tinh thể đường dạng hạt li ti: có thể cho nước đường vào nồi, thêm chút nước và chút nước cốt chanh, nấu lại.</p>
+<p>– Nếu sau một thời gian, xuất hiện một lớp hạt đường màu trắng ở đáy lọ: đây là hiện tượng bị lại đường. Một số ý kiến cho rằng không dùng được nước đường này nữa. Nhưng mình nghĩ vẫn có thể khắc phục bằng cách ngâm lọ vào nước nóng cho đường tan bớt rồi cho vào nấu lại, thêm ít nước và nước cốt chanh. Mình chưa gặp hiện tượng lại đường bao giờ nhưng nếu bạn nào mắc phải và có thử khắc phục thì nhớ phản hồi kết quả nha.</p>
+<p>————————————————————————————</p>
+<p><strong>BÀI VIẾT CÙNG CHỦ ĐỀ TRUNG THU</strong></p>
+<p><strong>A. Kiến thức chung</strong></p>
+<ol>
+<li><a href="/tong-hop-cach-lam-banh-nuong-banh-deo-trung-thu-a-z/">Tổng hợp cách làm bánh nướng, bánh dẻo trung thu</a></li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+<li><a href="/trung-muoi/" target="_blank">Cách làm trứng muối</a></li>
+<li><a href="/banh-trung-thu-cach-xu-li-trung-muoi-cho-nhan-banh-trung-thu/" target="_blank">Cách xử lí trứng muối để làm nhân bánh</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" target="_blank">Cách chọn khuôn bánh trung thu</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" target="_blank">Cách làm rượu Mai Quế Lộ</a></li>
+<li><a href="/tu-lam-mau-thuc-pham-tu-rau-cu-qua-tu-nhien/" target="_blank">Tự làm màu thực phẩm từ rau củ quả tự nhiên</a></li>
+</ol>
+<p><strong>B. Cách làm bánh nướng trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-nau-nuoc-duong-cho-banh-nuong/" target="_blank">Cách nấu nước đường bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-lam-banh-nuong/" target="_blank">Cách làm bánh nướng trung thu (</a>trộn bột, bọc nhân, đóng bánh và nướng)</li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-dau-xanh-tra-xanh-la-dua/" target="_blank">Cách làm nhân đậu xanh – trà xanh – lá dứa</a></li>
+<li><a href="/banh-trung-thu-nhan-thap-cam-nhan-sua-dua/" target="_blank">Cách làm nhân thập cẩm – sữa dừa</a></li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-sen-nhuyen/" target="_blank">Cách làm nhân sen nhuyễn</a></li>
+<li><a href="/banh-trung-thu-tra-xanh-nhan-dau-do/" target="_blank">Bánh trà xanh nhân đậu đỏ</a></li>
+<li><a href="/banh-trung-thu-banh-nuong-hoa-cuc-vi-chanh-leo-nghe-tay-va-chanh-vang/" target="_blank">Bánh hoa cúc vàng (vị nghệ tây, chanh vàng, chanh leo)</a></li>
+<li><a href="/red-velvet-rose-mooncake-banh-nuong-nhan-chocolate-rum-nho/" target="_blank">Bánh nướng hoa hồng đỏ (màu đỏ củ dền, nhân café, chocolate, rum nho)</a></li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+</ol>
+<p><strong>C. Cách làm bánh dẻo trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-lam-banh-deo/" target="_blank">Cách làm bánh dẻo kiểu Việt Nam ít ngọt</a></li>
+<li><a href="/banh-trung-thu-chia-se-kinh-nghiem-lam-banh-deo/" target="_blank">Giải đáp các thắc mắc/ vấn đề thường gặp khi làm bánh dẻo</a></li>
+</ol>
+<p> </p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

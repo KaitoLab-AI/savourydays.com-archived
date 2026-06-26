@@ -1,0 +1,90 @@
+---
+title: "Ký sự Trung Thu – Bánh Nướng Ver 0.0.1"
+date: "2017-08-20"
+slug: "ky-su-trung-thu-banh-nuong-ver-0-0-1"
+categories: ["Bếp nhà mình", "Tráng miệng"]
+tags: ["bánh trung thu"]
+image: "/wp-content/uploads/2017/08/1-610x350.jpg"
+description: ""
+---
+
+
+<p>Trung Thu năm nào cũng tự nhủ: “Mình sẽ không làm nhiều đâu! Mình sẽ không bày bừa đâu!”, xong cuối cùng bổn cũ kiểu gì cũng soạn lại. Nhà sẽ có bánh từ khi tháng 7 còn chưa tới cho đến hết tháng 8 hoặc lúc nào ông chồng phàn nàn vì phải ăn bánh nướng bánh dẻo quá nhiều mới thôi :P</p>
+<p>Các hướng dẫn cách làm bánh cơ bản cũng như nhân đủ vị đều đã có tại website rồi (link tổng hợp ở cuối bài nha). Nên năm nay bếp bánh trung thu của mình chắc chủ yếu sẽ là nghịch thôi. Mình vẫn luôn có cảm giác là bánh trung thu không phải là thứ nên biến tấu nhiều. Mình cũng khá là không thích việc cho hoa lá chim cò, gấu Pooh, công chúa lên trên mặt bánh. Nên chắc năm nay mình sẽ vẫn trung thành với các loại truyền thống. Ngoài ra sẽ nghiên cứu để làm sao cho bánh ngon hơn, dễ ăn hơn và cả tốt cho sức khoẻ hơn nữa.</p>
+<p>Lúc chưa làm ngồi nghĩ tới chuyện sên nhân, đóng bánh, nướng lượt 1, 2, 3 sao mà ngại thế. Nhưng năm nào cũng vậy, bắt đầu làm rồi là ham. Cảm giác khi đứng sên nhân, nặn bánh, đóng khuôn luôn đặc biệt lắm ấy. Nhất là lúc đóng khuôn, thấy từ một cục bột tròn xoe biến thành cái bánh vuông thành sắc cạnh, hoa văn sắc nét, dù có làm cả trăm cái rồi, cảm giác vẫn thích thú như chiếc đầu tiên.</p>
+<p>Mình vốn không khoái bánh trung thu, từ xưa tới giờ mình chỉ thích bánh dẻo chay thôi. Làm bánh trung thu với mình giống như một kiểu thú vui nhiều hơn. Về VN có thể mua sẵn rất nhiều thứ, tiết kiệm được nhiều thời gian nhưng mình vẫn thích lọ mọ làm từ đầu. Một phần vì luôn có cảm giác đồ mình tự làm ngon hơn. Phần khác là bánh trung thu làm để ăn thì ít mà để biếu tặng thì nhiều, nên càng muốn tự tay làm mọi thứ.</p>
+<p>Năm nay về nhà rồi nên mua các thứ khuôn hay hộp đựng bánh tiện và dễ hơn mấy năm trước nhiều. Có hộp đẹp cảm giác chiếc bánh của mình cũng long lanh hơn kha khá :D. Có một điểm mình khá ngạc nhiên là giá cả các mặt hàng hộp đựng, khuôn hay dụng cụ bánh trung thu năm nay phải chăng hơn mình nghĩ rất nhiều. Chỉ 10 – 20k là có một hộp giấy bìa cứng đẹp long lanh để đựng bánh rồi, kèm theo cả túi xách cũng rất đẹp nữa. Một điểm khác mà mình đặc biệt ưng ở mấy bộ túi nilon bọc bánh và hộp giấy mình mua được năm nay là đều in chữ hoàn toàn tiếng Việt, hoa văn cũng thuần Việt mà rất dễ thương, không sến súa. Nói thật là mình không thích các loại túi giấy bóng hay hộp đựng bánh trung thu Việt Nam mà in một mớ chữ Tàu hoặc tiếng Anh, cảm giác nó cứ lệch tông kiểu gì ấy.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Còn về khuôn bánh thì mấy năm trước mình đều đặt khuôn Sing từ Việt Nam rồi gửi sang. Khuôn Sing thường có hoa văn rất đẹp nhưng giá khá là cao, tầm hơn 110 – 170 K một cái (một mẫu hoa văn) tuỳ xuất xứ. Năm nay thấy thị trường đã có một loạt khuôn lò xo giá chỉ khoảng 40 – 80 K một bộ, có thể làm 4 – 6 mẫu hoa khác nhau, sắc nét và đẹp không thua gì khuôn Sing. Hơn nữa vì là khuôn lò xo nên trọng lượng bánh không bị giới hạn như khuôn Sing mà có thể xê dịch hơn kém ít chút. Chẳng hạn như làm bánh tầm 130 – 140 g trong khuôn 125 g thì thành bánh sẽ cao hơn một chút, nhìn đầy đặn hơn :)</p>
+<p style="text-align: center;"><em>bánh 125g khuôn lò xo</em></p>
+<p><img alt="" class="aligncenter wp-image-7416 size-large" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2017/08/3-1024x683.jpg" width="1024"/></p>
+<p style="text-align: center;"><em>bánh 50 g </em></p>
+<p><img alt="" class="aligncenter size-large wp-image-7417" height="659" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2017/08/1-1-1024x659.jpg" width="1024"/></p>
+<p style="text-align: center;"><em>…ở trong hộp</em></p>
+<p><img alt="" class="aligncenter size-large wp-image-7418" height="589" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2017/08/4-1024x589.jpg" width="1024"/></p>
+<p style="text-align: center;"><em>“đống” bày bừa hôm nay </em></p>
+<p><img alt="" class="aligncenter size-large wp-image-7419" height="674" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2017/08/2-1024x674.jpg" width="1024"/></p>
+<p>Còn khoảng hơn một tháng nữa thôi là tới trung thu rồi. Mình vẫn luôn ủng hộ việc tự làm bánh (kể cả khi nhà bạn không có ai ăn thì tự làm ra một chiếc bánh nướng hay bánh dẻo vẫn là một điều cực kì tuyệt diệu ấy ;) ). Các thứ vật liệu, dụng cụ lại rất dễ mua và giá cả phải chăng nên bạn nào đang thấy “hơi hơi thích” nhưng chưa quyết hẳn thì cứ thử một lần xem sao nhé.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Trong hình là bánh cỡ 50 g, 75 g và 125 g (bánh hình hoa sen), đều dùng khuôn lò xo. Cả khuôn và hộp, túi đựng mình đều mua ở Abby: <a href="https://abby.vn/do-lam-banh-trung-thu">https://abby.vn/do-lam-banh-trung-thu</a><br/>
+Abby có ship đi các tỉnh, nhưng nếu ở HN hay Hải Phòng thì các bạn nên tranh thủ chạy qua cửa hàng nhé. Nhìn tận mắt, chọn tận tay sẽ thấy thích hơn nhiều, nhất là chọn các kiểu mặt khuôn ấy. Với bánh nướng mình hay chọn khuôn có nhiều hoạ tiết, nướng lên nhìn sắc nét rất đẹp. Bánh dẻo thì chọn mấy hình kiểu như hoa sen, thỏ ngọc ở bên dưới, à hoặc cá chép cũng xinh, đại loại là hoa văn kiểu to một chút, đóng bánh sẽ dễ hơn.</p>
+<p>==============</p>
+<p><strong>BÀI VIẾT VỀ CÁCH LÀM BÁNH TRUNG THU TẠI SAVOURY DAYS</strong></p>
+<p><strong>A. Kiến thức chung</strong></p>
+<ol>
+<li><a href="/tong-hop-cach-lam-banh-nuong-banh-deo-trung-thu-a-z/">Tổng hợp cách làm bánh trung thu</a>: Tất tần tật các bước từ A – Z</li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" rel="noopener noreferrer" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" rel="noopener noreferrer" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+<li><a href="/trung-muoi/" rel="noopener noreferrer" target="_blank">Cách làm trứng muối</a></li>
+<li><a href="/banh-trung-thu-cach-xu-li-trung-muoi-cho-nhan-banh-trung-thu/" rel="noopener noreferrer" target="_blank">Cách xử lí trứng muối để làm nhân bánh</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" rel="noopener noreferrer" target="_blank">Cách chọn khuôn bánh trung thu</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" rel="noopener noreferrer" target="_blank">Cách làm rượu Mai Quế Lộ</a></li>
+<li><a href="/tu-lam-mau-thuc-pham-tu-rau-cu-qua-tu-nhien/" rel="noopener noreferrer" target="_blank">Tự làm màu thực phẩm từ rau củ quả tự nhiên</a></li>
+</ol>
+<p><strong>B. Cách làm bánh nướng trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-nau-nuoc-duong-cho-banh-nuong/" rel="noopener noreferrer" target="_blank">Cách nấu nước đường bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-lam-banh-nuong/" rel="noopener noreferrer" target="_blank">Cách làm bánh nướng trung thu (video) (</a>trộn bột, bọc nhân, đóng bánh và nướng)</li>
+<li><a href="/video-cach-lam-banh-trung-thu-banh-nuong-a-z/">Các lưu ý chung khi làm bánh nướng</a></li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-dau-xanh-tra-xanh-la-dua/" rel="noopener noreferrer" target="_blank">Cách làm nhân đậu xanh – trà xanh – lá dứa</a></li>
+<li><a href="/banh-trung-thu-nhan-thap-cam-nhan-sua-dua/" rel="noopener noreferrer" target="_blank">Cách làm nhân thập cẩm – sữa dừa</a></li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-sen-nhuyen/" rel="noopener noreferrer" target="_blank">Cách làm nhân sen nhuyễn</a></li>
+<li><a href="/banh-trung-thu-tra-xanh-nhan-dau-do/" rel="noopener noreferrer" target="_blank">Bánh trà xanh nhân đậu đỏ</a></li>
+<li><a href="/banh-trung-thu-banh-nuong-hoa-cuc-vi-chanh-leo-nghe-tay-va-chanh-vang/" rel="noopener noreferrer" target="_blank">Bánh hoa cúc vàng (vị nghệ tây, chanh vàng, chanh leo)</a></li>
+<li><a href="/red-velvet-rose-mooncake-banh-nuong-nhan-chocolate-rum-nho/" rel="noopener noreferrer" target="_blank">Bánh nướng hoa hồng đỏ (màu đỏ củ dền, nhân café, chocolate, rum nho)</a></li>
+<li><a href="/cach-sen-nhan-khoai-mon-khoai-tim-banh-trung-thu/" rel="noopener noreferrer" target="_blank">Nhân khoai môn – khoai lang tím</a></li>
+<li><a href="/nhan-sau-rieng-banh-trung-thu/" rel="noopener noreferrer" target="_blank">Nhân sầu riêng bánh trung thu</a></li>
+<li><a href="/banh-nuong-banh-deo-tra-xanh-nhan-me-den-trung-muoi-2/" rel="noopener noreferrer" target="_blank">Nhân mè đen trứng muối</a></li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" rel="noopener noreferrer" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" rel="noopener noreferrer" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+</ol>
+<p><strong>C. Cách làm bánh dẻo trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-lam-banh-deo/" rel="noopener noreferrer" target="_blank">Cách làm bánh dẻo kiểu Việt Nam ít ngọt</a></li>
+<li><a href="/cach-lam-banh-deo-truyen-thong/" rel="noopener noreferrer" target="_blank">Cách làm bánh dẻo truyền thống</a></li>
+<li><a href="/video-cach-lam-banh-deo-lanh-singapore/">Cách làm bánh dẻo lạnh Singapore (video)</a></li>
+<li><a href="/banh-nuong-banh-deo-tra-xanh-nhan-me-den-trung-muoi-2/" rel="noopener noreferrer" target="_blank">Bánh dẻo trà xanh nhân mè đen trứng muối</a></li>
+<li><a href="/banh-deo-mochi-nhan-kem-tra-xanh-dau-do-hoa-anh-dao/">Bánh dẻo mochi kem trà xanh đậu đỏ &amp; hoa anh đào</a></li>
+<li><a href="/banh-trung-thu-chia-se-kinh-nghiem-lam-banh-deo/" rel="noopener noreferrer" target="_blank">Giải đáp các thắc mắc/ vấn đề thường gặp khi làm bánh dẻo</a></li>
+</ol>
+<p><strong>D. Cách làm bánh trung thu rau câu </strong></p>
+<ol>
+<li><a href="/cach-lam-banh-trung-thu-rau-cau-flan-ca-phe/">Bánh trung thu rau câu flan cà phê</a></li>
+</ol>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

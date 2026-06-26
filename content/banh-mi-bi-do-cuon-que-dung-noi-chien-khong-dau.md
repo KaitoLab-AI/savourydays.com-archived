@@ -1,0 +1,85 @@
+---
+title: "Bánh mì bí đỏ cuộn quế (dùng nồi chiên không dầu)"
+date: "2021-09-23"
+slug: "banh-mi-bi-do-cuon-que-dung-noi-chien-khong-dau"
+categories: []
+tags: []
+image: ""
+description: "cách làm bánh mì bí đỏ với nồi chiên không dầu đơn giản, nhanh, dễ thành công với video hướng dẫn chi tiết từng bước"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400; color: #000000;">Mùa thu tới rồi, “thu hoạch” bí đỏ thôi!! 😁😁</span></p>
+<p><span style="font-weight: 400; color: #000000;">Mùa thu với bí đỏ dẻo ngọt, vàng ươm, mùi quế thơm ấm, đường nâu ngọt ngào và các loại hạt giòn bùi. Tụi mình đã mang toàn bộ hương vị mùa thu vào trong một chiếc bánh rồi đây ạ 😊</span></p>
+<p><span style="font-weight: 400; color: #000000;">Công thức bánh mì bí đỏ làm mưa làm gió năm xưa của SD nay đã lên một tầm cao mới với phiên bản nhân đường quế. Bạn nào đã từng làm bánh cuộn quế rồi chắc đều không thể quên được cái mùi thơm “rù quyến” đặc trưng. Bánh ăn nóng thì lớp vỏ vừa giòn vừa ngọt, ruột bánh thì vàng ươm, siêu mềm xốp và thơm mùi sữa, quyện với lớp nhân bơ quế nữa, chắc không cần tả thêm nữa đâu nhỉ 😁</span></p>
+<div><span style="color: #000000;">Bánh hôm nay mình nướng bằng NCKD của 2GOOD (<span style="color: #0000ff;"><a data-saferedirecturl="https://www.google.com/url?q=http://www.2good.vn/&amp;source=gmail&amp;ust=1632402411921000&amp;usg=AFQjCNFmx3fObu_12m0JxSDxOsPvdR2clA" href="http://www.2good.vn/" rel="noopener" style="color: #0000ff;" target="_blank">www.2good.vn</a></span>). Đây là nồi mình được gửi để dùng thử trong thời gian ở nhà vừa rồi và mình đã dùng nó để nướng khá nhiều thứ từ thịt cá đến bánh, thấy rất ổn. Xin nói thêm là mình không được trả tiền để viết bài này do từ rất rất lâu mình không nhận quảng cáo cho các nhãn hàng rồi. Tuy nhiên đồ mình dùng thấy tốt nên vẫn giới thiệu để các bạn tham khảo. </span></div>
+<div></div>
+<div><span style="color: #000000;">Với cái nồi này thì mình nghĩ đây có thể là một lựa chọn tốt cho các bạn nào có bếp không lớn lắm, không đủ chỗ để mua lò nướng to thì có thể cân nhắc một chiếc nồi chiên kết hợp lò kiểu này. Nồi này có đủ nhiệt trên dưới nên nướng ổn, và nó thiết kế giống 1 cái lò nhỏ, có cửa kính để quan sát nên khi nướng cũng dễ theo dõi bánh. Vì nó là kiểu nồi chiên không dầu nên làm các món nướng/ chiên không dầu cũng rất ok. Nhược điểm là nồi nhỏ nên không nướng được nhiều bánh hay dùng khuôn to. Nhưng nếu chỗ để trong bếp hạn chế thì so với các lò nướng nhỏ, nhất là các lò TQ nhiệt không ổn định thì dùng cái nồi kiểu này mình nghĩ là tốt hơn, tiện hơn, nướng được nhiều thứ nữa. </span></div>
+<p>Và sau đây là cách làm bánh – có thể nướng với nồi chiên không dầu hay lò nướng đều được :)</p>
+<h2>CÁCH LÀM BÁNH MÌ BÍ ĐỎ VỚI NỒI CHIÊN KHÔNG DẦU</h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">200 gram bí đỏ (đã gọt vỏ, bỏ hạt)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">225 gram bột làm bánh mì</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">4 gram (1 + 1/2 thìa cafe men nở)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">20 gram bột sữa (không bắt buộc, nhưng nếu có sẽ thơm hơn)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">80 gram sữa tươi không đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">25 gram đường vàng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">15 gram sữa đặc</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">30 gram bơ nhạt, đun chảy</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">35 gram trứng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">¼ thìa cafe muối </span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">* Lưu ý về nguyên liệu:</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">– Nên dùng bơ động vật không muối để bánh có vị thơm ngon nhất, không dùng các loại bơ thực vật (như bơ Tường An,..).</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Trứng đánh tan rồi cân đủ 35 gram, phần còn lại bọc kín để quét mặt bánh trước khi nướng.</span></p>
+<p><strong><span style="color: #000000;">* Nhân đường quế</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">30 gram bơ nhạt, để mềm</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">30 gram bí đỏ nghiền nhuyễn</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 gram đường nâu Hàn Quốc</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Các loại hạt (hạnh nhân, óc chó,..) rang chín, đập nhỏ.</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/FhoTSkCMDts" width="560"></iframe></div>
+<ol>
+<li><span style="font-weight: 400; color: #000000;"> Bí đỏ cắt nhỏ, cho bí vào khay có lót giấy bạc, bọc kín khay bằng 1 tờ giấy bạc khác. Nướng bí ở 220 độ C trong 30 – 35 phút tới khi bí chín mềm nhuyễn. Các bạn có thể hấp bí cũng được nhưng nướng thì bí sẽ thơm và ngọt hơn. </span></li>
+<li><span style="font-weight: 400; color: #000000;"> Cân lấy 90 gram bí, nghiền nhuyễn để làm bánh. Phần còn lại có thể dùng để làm sữa bí đỏ.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Trộn đều các nguyên liệu ướt gồm: sữa tươi, đường, muối, sữa đặc, bơ, trứng, trộn đều cho đường tan tương đối. </span></li>
+<li><span style="font-weight: 400; color: #000000;"> Trộn đều bột mì với men nở và bột sữa, cho bí đỏ nghiền nhuyễn và hỗn hợp chất lỏng vào âu bột, trộn đều tới khi không còn bột khô. Che đậy kín âu, để bột nghỉ 15 – 18 phút.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Thực hiện thao tác nhồi bột:</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">– Nếu nhồi bằng tay: Kéo bột ra xa rồi gập lại, lặp lại quy trình như vậy. Nhồi tới khi bột dẻo mịn, đàn hồi tốt, có thể tạo được màng mỏng mà không rách (khoảng 15 – 20 phút)</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nếu nhồi bằng máy: Bắt đầu nhồi từ tốc độ thấp rồi tăng dần lên tốc độ vừa. Khi nhồi bằng máy cần thường xuyên kiểm tra và dừng lại khi bột đã đạt, tránh việc nhồi quá làm hỏng gluten.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Lưu ý: Bột cần phải dẻo, mềm, khi nhồi sẽ thấy hơi dính tay, bột có độ bám dính mặt bàn tốt. Nếu bột khô, nặng tay thì cần thêm sữa, nếu bột quá dính thì thêm bột khô (nhưng không được thêm quá nhiều).</span></p>
+<ol start="6">
+<li><span style="font-weight: 400; color: #000000;"> Che kín âu và ủ ở nhiệt độ phòng tới khi bột nở thêm 1,8 – 2 lần.</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">Trong thời gian ủ thì chuẩn bị nhân bánh: Trộn đều bơ mềm, đường, bí đỏ, để hỗn hợp vào ngăn mát tủ lạnh tới khi cần dùng.</span></p>
+<ol start="7">
+<li><span style="font-weight: 400; color: #000000;"> Lấy bột ra, ép hết bọt khí và nhồi lại nhẹ nhàng.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Phủ 1 lớp mỏng bột khô lên bàn và cây cán bột để chống dính. Cán mỏng bột thành hình chữ nhật, che kín và để bột nghỉ 3 – 5 phút rồi mới cán tiếp cho bột đỡ co. Sau khi để bột nghỉ, tiếp tục cán thành hình chữ nhật kích thước 20x30cm.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Lật ngược mặt bột, phết nhân lên bột, lưu ý để chừa khoảng 1cm ở phía mép ngang củ bột, rắc hạt lên. </span></li>
+<li><span style="font-weight: 400; color: #000000;"> Từ từ cuộn bánh lại, miết kĩ mép bánh.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Dùng dao sắc, chia bánh thành 9 phần bằng nhau. Khi cắt cần cưa qua cưa lại giống như cưa gỗ, KHÔNG ấn dao xuống tránh làm miếng bột bị méo. Ngoài ra các bạn có thể dùng chỉ nha khoa để cắt bánh.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Xếp bánh vào khuôn vuông/tròn 18x18cm, khuôn chống dính hoặc lót giấy nến.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Ủ lần 2 tới khi bột nở gấp đôi (khoảng 45 – 60 phút), quét 1 lớp mỏng trứng đánh tan lên mặt bánh.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Nướng bánh (lò nướng hoặc nồi chiên cần làm nóng trước 15 phút)</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">– Nếu nướng bằng lò: 175 – 180 độ C trong 25 – 28 phút (lưu ý sau khoảng 10 – 12 phút kiểm tra, nếu mặt bánh vàng thì dùng giấy bạc che lại).</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400; color: #000000;">– Nếu nướng bằng NCKD loại giống trong video: 160 – 170 độ C trong 25 – 28 phút (sau khoảng 7 phút cần kiểm tra, nếu thấy mặt bánh đã vàng thì che giấy bạc)</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nếu nướng bằng NCKD thường (loại nồi nhỏ, có gió thổi từ trên xuống rất mạnh): Dùng giấy bạc che khuôn bánh ngay từ đầu (lưu ý để khoảng trống cho bánh nở), nướng khoảng 20 phút thì gỡ giấy bạc và nướng thêm 5 – 7 phút cho bánh vàng mặt.</span></p>
+<ol start="15">
+<li><span style="font-weight: 400; color: #000000;"> Bánh sau khi nướng xong thì lập tức gỡ khỏi khuôn, để nguội hoàn toàn trên rack.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Nếu dùng thêm kem phomai, trong lúc nướng bánh thì chuẩn bị phần kem.</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">– Đánh nhuyễn 80 gram cream cheese với 20 gram đường xay.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Cho từ từ 60 gram kem tươi vào tới khi hỗn hợp mịn nhuyễn. Nếu muốn ăn kem lỏng hơn thì cho thêm sữa tươi, khuấy đều.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Khi bánh còn nóng ấm thì phủ kem lên bánh.</span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,99 @@
+---
+title: "Khởi động Xmas baking với Xmas Fruit Cake (Bánh hoa quả Giáng sinh)"
+date: "2013-11-26"
+slug: "khoi-dong-xmas-baking-voi-xmas-fruit-cake-banh-hoa-qua-giang-sinh"
+categories: []
+tags: []
+image: "/wp-content/uploads/2013/11/XmasFruitCake.jpg"
+description: "bánh hoa quả giáng sinh, fruit cake, bánh cake"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Còn một tháng nữa thôi là tới Giáng sinh rồi. Đi ngoài phố đã thấy các cửa hàng bán đồ trang trí bắt đầu có các thứ đồ để chuẩn bị cho mùa lễ lớn nhất trong năm. Mặc dù với người Việt mình, Giáng sinh không có ý nghĩa thật đặc biệt như Tết cổ truyền, nhưng cũng là một dịp tốt để quây quần, sum họp. Chẳng còn gì bằng khi trong cái rét của những ngày cuối năm, cả nhà cùng ngồi lại bên bàn ăn với bao nhiêu món ngon, cùng trò chuyện, ôn lại năm cũ và hướng đến một năm mới nhiều niềm vui, nhiều tiếng cười hơn.</p>
+<p>Giáng sinh cũng là dịp để các bà mẹ cùng các cô con gái trổ tài nấu nướng, từ gà tây, ngỗng, vịt quay, … cho đến bánh mì với quả khô, bánh cake, các loại bánh quy giòn giòn, thơm thơm, nồng ấm mùi quế, mùi gừng. Một dịp vui thế này, <em>Savoury Days </em>tất nhiên cũng phải góp thêm phần cho xôm tụ ^.^ Năm nay hi vọng sẽ có thời gian (và sức lực) để “ăn” Giáng sinh “hoành tráng” hơn các năm trước với: <em>Xmas Fruit Cake, Panettone, Amaretti cookies, Gingerbread cookies, Sugar cookies (decor với Royal icing), Belgian Chocolate truffle, Sacher torte</em> … (và một số món khác tạm thời chưa nghĩ ra, bạn nào có ý kiến nên thêm bớt gì thì cứ đề xuất nhé).</p>
+<p>Các công thức sẽ được đăng dần tại <a href="/thuc-don-mung-giang-sinh-va-nam-moi/ ">link tổng hợp về Giáng sinh</a>. Trong link cũng vẫn còn bài lưu từ các năm trước, về Nhà bánh gừng (gingerbread house), bánh khúc cây (Yule log) và một vài loại bánh khác.</p>
+<p>Mong là bếp của tất cả chúng mình sẽ có những ngày cuối năm thật rộn ràng và ấm áp!!!</p>
+<p>———</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Món “mở hàng” cho mùa Giáng sinh năm nay là Bánh hoa quả Giáng sinh (Christmas Fruit Cake). Về cơ bản thì đây là bánh cake với hoa quả và hạt khô,  là một loại bánh được nhiều người Việt yêu thích, phiên bản “Giáng sinh” chỉ thêm vào một số gia vị tạo không khí Giáng sinh thôi. Làm Xmas Fruit Cake thích nhất có lẽ là lúc nướng bánh, mùi bơ thơm phức quyện với mùi gừng, mùi quế, mùi quả ngọt, rồi cả hương rượu rất nồng, thấy ấm áp và cảm giác háo hức kinh khủng, giống như Giáng sinh đang ở ngoài cửa sổ rồi ấy :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/11068074944/" title="Xmas fruit cake by LinhTrang9185, on Flickr"><img alt="Xmas fruit cake" class="aligncenter" height="640" loading="lazy" src="http://farm3.staticflickr.com/2883/11068074944_af1eafb515_z.jpg" width="477"/></a></p>
+<p><b></b><span style="color: #800000;"><b>Dụng cụ</b>:</span> Khuôn loaf 25cm hoặc khuôn tròn 20cm</p>
+<p><span style="color: #800000;"><b>Nguyên liệu</b></span></p>
+<ul>
+<li><i>270 g bột mì đa dụng (all purpose flour) </i></li>
+<li><i>12 g bột nở (baking powder)</i></li>
+<li><span style="color: #0000ff;"><i>1/2 thìa cafe bột quế (cinnamon powder) </i></span></li>
+<li><span style="color: #0000ff;"><i>1/2 thìa cafe bột gừng (ginger powder) </i></span></li>
+<li><i>220 g bơ nhạt –<b> nhiệt độ phòng</b></i></li>
+<li><i>1 nhúm nhỏ muối </i></li>
+<li><span style="color: #0000ff;"><i>70 g đường vàng </i></span></li>
+<li><span style="color: #0000ff;"><i>80 g đường nâu  </i></span></li>
+<li><i>3 trứng gà (60 g/ quả cả vỏ) –<b> nhiệt độ phòng</b> </i></li>
+<li><span style="color: #0000ff;"><i>Vỏ 2 quả chanh vàng hoặc 1 quả cam –  <strong>bào rất vụn (hoặc thay bằng chiết xuất cam/ chanh)<br/>
+</strong></i></span></li>
+<li><span style="color: #0000ff;"><i>3 ml vanilla chiết xuất </i></span></li>
+<li><span style="color: #0000ff;"><i>2 ml chiết xuất hạnh nhân (almond extract)</i></span></li>
+<li><i>60 ml sữa tươi không đường –<b> nhiệt độ phòng</b></i></li>
+<li><i>135 g sữa chua không đường – <b>nhiệt độ phòng </b></i></li>
+<li><span style="color: #0000ff;"><i>200 – 250 g hạt khô (hazelnut, walnut, pecan, almond..) </i></span></li>
+<li><span style="color: #0000ff;"><i>300 – 350 g quả khô (nho, mơ, mận, anh đào, mứt vỏ cam)</i></span></li>
+<li><span style="color: #0000ff;"><i>200 – 300 ml rượu Brandy, Cognac hoặc Rum</i></span></li>
+</ul>
+<p>(*) <strong><span style="color: #800000;">Ghi chú về nguyên liệu</span>:</strong></p>
+<p>Như đã nói ở đầu bài, Xmas Fruit Cake thực tế là một loại bánh bơ có thêm quả, hạt khô và một số gia vị khác. Vì vậy, ngoài phần chính là bánh bơ thì các loại quả, hạt khô và gia vị thêm vào hoàn toàn có thể thay đổi linh hoạt tùy theo khẩu vị và sở thích của gia đình. Trong công thức trên thì c<strong>ác nguyên liệu viết với mực đen là nguyên liệu bắt buộc cần có</strong>. Thay vì sử dụng công thức <em>Pound Cake</em> như kiểu truyền thống, mình dùng công thức <em>Butter cake</em> để bánh vẫn có vị bơ thơm ngậy, nhưng đủ xốp, mềm và ẩm chứ không đặc khô kiểu <em>Pound cake</em>. Sữa chua giúp cho bánh đậm đà hơn, không nên thay bằng sữa tươi.</p>
+<p><strong>Các nguyên liệu viết bằng mực xanh là nguyên liệu có thể thay đổi</strong>:</p>
+<p>– Đường mà mình sử dụng là đường mía (hình dưới). Mình dùng đường vàng pha đường nâu để bánh có màu nâu nhưng không quá sậm. Lượng đường trong công thức theo mình là vừa phải, bánh không quá ngọt. Nhưng mỗi loại đường khác nhau có thể có độ ngọt khác nhau nên khi làm bánh có thể cần điều chỉnh định lượng. Ngoài hai loại đường này, mình cũng đã thử  làm với 50 g đường trắng và 80 g đường nâu (trong video ở dưới), thấy khá ổn. Nếu các bạn muốn dùng đường trắng hoàn toàn thì mình nghĩ có thể dùng khoảng 100 gr vì đường trắng ngọt hơn đường nâu khá nhiều.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/11068028546/" title="IMG_4010 by LinhTrang9185, on Flickr"><img alt="IMG_4010" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7385/11068028546_c257121bb8.jpg" width="500"/></a></p>
+<p>– Bột gừng, bột quế, va-ni, chiết xuất hạnh nhân giúp bánh có mùi vị thơm ngon và ấm nồng hơn, nên cố gắng có đủ.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>– Hạt khô và quả khô có thể dùng bất kì loại nào mà bạn thích hoặc có được, ngoài các loại hạt ghi trong công thức, có thể dùng hạt dẻ cười (loại không có muối), hạt bí, hạt dưa, … thường các loại hạt có nhiều dầu, béo ngậy ăn sẽ càng ngon. Quả khô nên chọn các loại có nhiều màu sắc, có cả vị chua và ngọt.</p>
+<p>– Rượu cho Xmas Fruit Cake thường là rượu mạnh. Đa phần các công thức đều dùng Brandy hoặc Cognac. Mình dùng Rum thấy cũng ổn. Nếu có em bé, các bạn có thể bỏ qua phần rượu hoặc dùng Baking emulsion vị Rum (mình có <a href="http://shop.mycakedecorating.co.uk/baking-emulsion-rum-4oz-118-2ml">chai này</a>, dùng thấy mùi rất ổn, rất thơm, mà chẳng có tí cồn nào :) ).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/11068096423/" title="IMG_4037-1 by LinhTrang9185, on Flickr"><img alt="IMG_4037-1" class="aligncenter" height="640" loading="lazy" src="http://farm4.staticflickr.com/3735/11068096423_597d17914c_z.jpg" width="427"/></a></p>
+<p><span style="color: #800000;"><strong>Cách làm </strong></span></p>
+<p>Mời các bạn xem cách làm cụ thể tại <strong><a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days</a></strong> (mình cập nhật video mới hàng tuần nên các bạn có thể Subscribe/ Đăng kí để nhận được thông báo ngay khi có video mới nhé :) ).</p>
+<p>Video có phụ đề tiếng Anh và tiếng Việt. Khi xem các bạn bật CC và chỉnh Language trong Setting để chọn ngôn ngữ. Ngoài ra, nhớ chọn chế độ 720p (HD) để xem video được rõ nét nhất nha.</p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/o4CxFpBmvNE" width="560"></iframe></div>
+<p>Tóm tắt các bước thực hiện (<strong>lưu ý: video mình quay sau khi viết bài này 2 năm nên trong video có 1 vài sự khác biệt nhỏ trong cách làm ở dưới</strong>)</p>
+<p>1. Ngâm quả khô:</p>
+<p>– Quả khô nếu là loại to như mơ, mận, anh đào thì cắt nhỏ. Cho quả vào bát, đổ rượu ngập quả (mình dùng hết khoảng 250 ml rượu). Dùng nilon bọc thức ăn (cling firm) bọc kín. Để vào tủ lạnh trong khoảng từ 12 – 48 giờ (tùy khả năng có thể chuẩn bị được sớm hay không – mình ngâm trong 18h).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/11068048324/" title="IMG_4012 by LinhTrang9185, on Flickr"><img alt="IMG_4012" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3701/11068048324_1f32edd8f7.jpg" width="500"/></a></p>
+<p>– Sau khi đã ngâm xong, đổ quả khô ra rổ/rá, dưới rổ có đặt 1 chiếc bát để hứng rượu. Rượu này đã ngấm vị quả, rất thơm và ngon, sẽ dùng tiếp cho bánh sau này. Để cho quả khô ráo nước.</p>
+<p>2. Đặt chế độ hai lửa, làm nóng lò ở nhiệt độ 160 độ C.</p>
+<p>3. Hạt khô nếu quá to thì cắt nhỏ, nhưng không quá nhỏ (khi ăn còn có cảm giác nhai hạt). Cho hạt vào khay, đặt vào lò đã làm nóng ở 160 độ C, sấy trong khoảng 5 – 7 phút. Bước này sẽ giúp hạt có mùi vị thơm ngọt hơn. *<strong>Lưu ý</strong>: <em>cần theo dõi quá trình sấy vì nhiệt trong lò có thể nóng khác nhau, tránh để hạt bị cháy.</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/11068103343/" title="IMG_4005 by LinhTrang9185, on Flickr"><img alt="IMG_4005" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2813/11068103343_18a2722744.jpg" width="500"/></a></p>
+<p>4. Chống dính khuôn bằng xịt chống dính hoặc lấy bơ thoa đều khắp lòng khuôn rồi phủ một lớp bột lên. Xoay khuôn cho bột bao đều khắp lòng khuôn. Úp ngược khuôn cho bột thừa rơi ra ngoài.</p>
+
+
+<p><a href="http://www.flickr.com/photos/55490207@N05/11068101943/" title="IMG_4007 by LinhTrang9185, on Flickr"><img alt="IMG_4007" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3719/11068101943_a7419090a2.jpg" width="500"/></a></p>
+<p>5. Rây bột mì, bột nở, bột quế và bột gừng (nếu có) vào âu. Dùng phới lồng trộn đều.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/11068102483/" title="IMG_4006 by LinhTrang9185, on Flickr"><img alt="IMG_4006" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7455/11068102483_e266cf527c.jpg" width="500"/></a></p>
+<p>6. Để máy đánh trứng ở tốc độ vừa, đánh bơ với muối trong khoảng 15-30 giây đến khi bơ mềm, nhuyễn hơn. Giữ máy chạy, từ từ rây hoặc rắc đường vào âu (mất khoảng 30 giây để cho hết số đường). Hoặc có thể chia đường làm 3 phần rồi rây lần lượt vào âu, đánh mỗi phần khoảng 10-15 giây<i>. </i>Tiếp tục đánh bơ với đường đến khi bơ bông xốp (tùy vào tốc độ máy mà thời gian này có thể dao động trong khoảng 5 – 10 phút). Thi thoảng dừng máy và vét thành âu.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/11068047884/" title="IMG_4014 by LinhTrang9185, on Flickr"><img alt="IMG_4014" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3767/11068047884_e1decfc11f.jpg" width="500"/></a></p>
+<p>7. Cho từng quả trứng vào đánh cùng bơ. Đánh hòa quyện từng quả mới cho phần tiếp theo. Cho vỏ cam/ chanh, va-ni và các loại tinh dầu khác vào, đánh cho hòa quyện. Lưu ý vét thành và đáy âu trong quá trình đánh.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/11068026946/" title="IMG_4016 by LinhTrang9185, on Flickr"><img alt="IMG_4016" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7392/11068026946_d1a25c0a9a.jpg" width="500"/></a></p>
+<p>8. Cho sữa tươi và sữa chua vào bát, quấy đều. Chia hỗn hợp bột thành 4 phần, sữa làm 3 phần. Rây 1/4 chỗ bột vào tô bơ đường trứng, để máy ở tốc độ thấp nhất, đánh cho các nguyên liệu hòa quyện. Tiếp theo cho 1/3 sữa vào trộn đều. Lần lượt trộn tiếp bột, sữa xen kẽ nhau đến khi hết phần sữa cuối cùng và còn lại 1/4 lượng bột.</p>
+<p style="text-align: center;"><em>bột sau khi trộn xong </em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/11068047094/" title="IMG_4018 by LinhTrang9185, on Flickr"><img alt="IMG_4018" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3681/11068047094_ace3b0a9b0.jpg" width="500"/></a></p>
+<p>9. Cho quả khô vào trộn cùng với 1/4 số bột còn lại rồi đổ vào âu bột, cho hạt vào. Dùng phới trộn đều. Nên trộn theo kiểu <em><span style="text-decoration: underline;">f</span>old </em>là tốt nhất . <strong>Lưu ý:</strong> c<em>ả quá trình đánh bột ở bước (8) và trộn ở bước (9) đều chỉ cần làm vừa đủ, không trộn quá nhiều, quá lâu, sẽ làm cho bánh nở kém, dễ chai cứng.</em> <span style="text-decoration: underline;"><br/>
+</span></p>
+<p style="text-align: center;"><em>trộn quả với bột khô</em></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/11067928785/" title="IMG_4019 by LinhTrang9185, on Flickr"><img alt="IMG_4019" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3674/11067928785_3b177439f2.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Cho quả và hạt vào âu </em></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/11067928515/" title="IMG_4020 by LinhTrang9185, on Flickr"><img alt="IMG_4020" height="333" loading="lazy" src="http://farm6.staticflickr.com/5515/11067928515_2fb445401f.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Dùng phới trộn đều</em></p>
+<p><em><a href="http://www.flickr.com/photos/55490207@N05/11068044664/" title="IMG_4021 by LinhTrang9185, on Flickr"><img alt="IMG_4021" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2841/11068044664_e1b8f493dc.jpg" width="500"/></a></em></p>
+<p>10. Đổ bột vào khuôn, dùng thìa gỗ hoặc spatula dàn mặt bột cho phẳng. Nướng ở nhiệt độ 160 độ C trong khoảng 50 – 55 phút rồi hạ xuống 150 độ C nướng thêm 10 – 15 phút. Tại thời điểm này thường là bánh đã đủ chín, bánh sẽ có màu nâu vàng sậm, nở cao và nứt mặt, thử xiên que vào giữa bánh, rút lên que sẽ sạch và khô. <em>Nếu sau khoảng 1/2 hoặc 2/3 thời gian nướng mà thấy mặt bánh có dấu hiệu quá nâu thì lấy một miếng giấy bạc đậy lên mặt bánh để mặt bánh khỏi bị cháy</em>.</p>
+<p>Lấy bánh ra khỏi lò, để bánh trong khuôn khoảng 10 phút. Bánh sẽ hơi co lại và tách khỏi thành khuôn. Lấy bánh ra khỏi khuôn. Dùng chổi quét rượu lên mặt và thành bánh. Lặp lại 2 – 3 lần cho tới khi bánh nguội.</p>
+<p>Bánh thành công sẽ rất rất thơm mùi bơ, hạt chín và các hương liệu khác như mùi gừng, quế, hạnh nhân, cam… Ruột bánh xốp mềm, không bị đặc, không bị bết. Ăn có vị ngọt vừa phải, quyện với vị quả khô và bùi béo của hạt.</p>
+<p>Nếu bánh có hiện tượng bết trong ruột, bánh nở ít và xẹp  mặt sau khi nướng, có thể nguyên nhân là do nướng ở nhiệt độ quá thấp hoặc thời gian chưa đủ làm bánh chưa chín hẳn. Các bạn xem thêm giải thích và cách khắc phục ở link dưới:</p>
+<p><strong>Lò nướng – Kinh nghiệm chọn lò – Cách chỉnh lò để bánh không bị xẹp, lõm, thắt eo, ẩm, cháy…</strong> <a href="/lo-nuong-kinh-nghiem-nuong-banh/">Phần 1</a> – <a href="/kinh-nghiem-nuong-banh-phan-2/">Phần 2</a></p>
+<p>Nếu bánh có dấu hiệu cháy hoặc quá khô, lần nướng sau nên hạ khay nướng xuống thấp hơn một nấc hoặc giảm nhiệt độ.</p>
+<p>(*) Xmas Fruit Cake thường được nướng trước 3 – 4 tuần, sau đó sẽ để tủ lạnh và mỗi tuần tẩm rượu 2 – 3 lần để tới Giáng sinh bánh đậm mùi rượu và có độ mềm ẩm. Tuy nhiên, công thức này cho bánh rất mềm và xốp nên có thể dùng ngay sau khi làm. Mình chỉ quét rượu 2 – 3 lần sau khi nướng, rồi bọc kín và bảo quản ở nhiệt độ phòng. Ngày hôm sau mang đi mời đồng nghiệp, mọi người đều rất thích và nói là mùi vị rất vừa phải.</p>
+<p>Nếu muốn để lâu hơn và nhất là nếu muốn tẩm thêm rượu, cần nướng bánh thêm khoảng 15 – 20 phút để bánh khô hơn. Sau đó, khi bánh nguội các bạn bọc kín bánh rồi để tủ lạnh. Mỗi tuần lấy ra dùng chổi quét rượu lên khắp bên ngoài bánh từ 2 – 3 lần. Lượng rượu tẩm bánh và số lần quét rượu hoàn toàn phụ thuộc vào việc bạn muốn bánh đậm mùi rượu đến đâu. Mặc dù lời quảng cáo thường là sau 3 – 4 tuần bạn sẽ có một chiếc bánh rất ẩm, rất mềm và thơm mùi rượu. Nhưng với một người không uống được rượu như mình thì một chiếc bánh sũng rượu như vậy có lẽ là hơi “quá đáng”, nên mình dừng lại ở việc quét rượu sau khi nướng xong thôi.</p>
+<p>Nếu không muốn dùng rượu, phần quả khô có thể rửa trong nước ấm cho mềm rồi trộn cùng với bánh. Bánh làm xong có thể dùng mứt mơ hoặc mật ong pha với chút nước cam nóng để quết bên ngoài, bánh sẽ rất thơm và bóng đẹp.</p>
+<p>Nếu không quét thêm rượu (như mình) thì bánh có thể bảo quản trong tủ lạnh từ 3 – 4 ngày, khi ăn các bạn quay trong lò vi sóng khoảng 20 – 30 giây, bánh sẽ mềm ngon trở lại.</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,86 @@
+---
+title: "3 cách làm trứng muối (khô, nước và siêu tốc)"
+date: "2012-04-05"
+slug: "trung-muoi"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/04/TrungMuoi.jpg"
+description: "3 cách làm trứng muối: khô, nước và siêu tốc với video hướng dẫn từng cách làm và so sánh ưu, nhược điểm của các công thức"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Trứng tự muối thật ra chỉ hơi mất thời gian một chút, đoạn đợi trứng ngấm muối và “chín”, thường mất khoảng 4-6 tuần, còn lại thì cách làm cực kì đơn giản và cực dễ, hầu như không thể hỏng. Ở nhà mình hình như thường là muối trứng vịt, nhưng mà bên này chưa bao giờ mình thấy có trứng vịt được bán ngoài chợ, nên mình muối trứng gà. Ăn cũng ngon, và rẻ hơn nhiều so với trứng muối bán ở chợ châu Á (trứng tự muối thì 1 EUR/10 quả, trứng “người khác” muối thì 1 EUR/ 1 quả :-|). Mình chỉ có mỗi một mình nên không làm nhiều, mỗi lần 1 lọ chục quả, nhưng cách độ 10 – 15 ngày lại làm một lọ, nên cả tháng đều có trứng ăn :D</p>
+<p>Cách muối đơn giản nhất là chỉ có nước và muối.  Tỉ lệ pha muối thường là 200 – 250gram muối cho 1 lít nước. Tùy theo số lượng trứng mà điều chỉnh lượng nước cho phù hợp. Mình muối chục quả trứng thường dùng khoảng 800 ml nước (nhiều trứng hơn thì tăng nước). Ngoài ra, nên cho thêm một số loại gia vị như hồi, quế, gừng, thảo quả… sẽ giúp trứng “chín” nhanh hơn (nhờ các gia vị có tính “nóng”) và cũng giúp trứng có mùi vị thơm ngon hơn nữa. Một thìa rượu và chút đường cũng giúp trứng có màu đỏ đẹp hơn.</p>
+<p>(*) <span style="color: #ff0000;"><strong>CẬP NHẬT</strong></span></p>
+<p>Tháng 7-2016, sau bốn năm giới thiệu, cách làm trứng muối (ướt) trong bài này đã được rất nhiều chị em áp dụng và khen ngợi. Với mình nó vẫn là công thức dễ làm và dễ thành công nhất. Tuy nhiên ngoài cách muối nước này ra thì gần đây mình thấy có thêm cả cách muối trứng khô (chỉ dùng muối, không nước) và muối trứng siêu tốc/ tốc hành (trứng dùng sau 24 giờ thay vì đợi 4 – 6 tuần như công thức thông thường).</p>
+<p>Mình có thử cả ba cách và quay lại video để các bạn dễ hình dung. Video đã được đăng tại <strong><a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days</a></strong>. Mình cũng chèn video ở dưới. Nếu không xem được video tại blog, các bạn có thể xem trực tiếp trong <strong><a href="https://youtu.be/dqvKqlaeRTI" target="_blank">link này</a> </strong>nhé. Video có chế độ bản đẹp HD. Các bạn có thể xem hướng dẫn cách chỉnh chế độ HD ở cuối bài viết <strong><a href="/demo-flan-creme-caramel-kem-caramel/" target="_blank">cách làm bánh flan này.</a> </strong>Ở dưới video là danh sách nguyên liệu và tóm tắt các bước làm bánh nha.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/dqvKqlaeRTI" width="560"></iframe></div>
+<p>Phần so sánh các cách làm mình cũng có tóm tắt trong video rồi. Trong cả ba cách mình vẫn thích cách muối với nước nhất. Cách muối tốc hành tuy rất nhanh nhưng lòng đỏ trứng khá mặn lại khó có hình tròn đẹp như khi muối thông thường. Bởi vậy nên nếu cần gấp để làm một số món mặn như sốt trứng muối cho tôm chiên trứng muối hay đậu chiên trứng muối, hoặc dùng làm nhân bánh bao Kim Sa thì được. Chứ dùng làm nhân bánh trung thu mình nghĩ là không ổn.</p>
+<p>Cách muối khô mình không ưng lắm vì nhìn qua thì tưởng là nhanh do không cần nấu nước. Nhưng thực ra lại lằng nhằng hơn vì phải xử lí từng quả trứng một. Muối 20 quả thì không sao chứ nếu làm cả trăm quả là tiêu tùng. Chưa kể là so với dùng nước, cách muối này tốn muối hơn kha khá. Nhất là nếu không bọc nilon như trong video mà để trứng vào lọ hay hộp rồi phủ muối lên chẳng hạn, thì sẽ cần nhiều muối. Và cuối cùng là nhìn vậy thôi chứ không dễ để muối bám vào vỏ trứng tí nào :( Vì tất cả những điều này mà mình quay các cách làm để các bạn dễ hình dung, nhưng nếu chọn dùng thì mình vẫn dùng cách muối với nước.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6901189524/" title="Trứng muối (Salted eggs) by LinhTrang9185, on Flickr"><img alt="Trứng muối (Salted eggs)" class="aligncenter" height="800" loading="lazy" src="http://farm8.staticflickr.com/7236/6901189524_cd3b9d9b58_z.jpg" width="533"/></a></p>
+<p> </p>
+<h3>TÓM TẮT: CÁCH LÀM TRỨNG MUỐI NƯỚC</h3>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<ul>
+<li><em>20 quả trứng gà hoặc vịt </em></li>
+<li><em>Khoảng 1.5 lít nước (6 cups)</em></li>
+<li><em>375 gram muối ăn (1-1/4 cup)</em></li>
+<li><em>2 hoa hồi (star anise)</em></li>
+<li><em>1 thảo quả (cauguo)</em></li>
+<li><em>1 miếng quế nhỏ (cinnamon stick)</em></li>
+<li><em>1 mẩu gừng thái lát </em></li>
+<li><em>1.5 thìa canh (20 ml) rượu trắng (dùng rượu nào cũng được, miễn có nồng độ cồn cao một chút)</em></li>
+<li><em>1.5 thìa canh (20 g) đường </em></li>
+</ul>
+<p>* <strong>Ghi chú</strong>:</p>
+<p>– Nếu muốn muối nhiều trứng hơn, chọn hũ hay chậu đựng vừa số trứng. Cho trứng vào hũ rồi đổ nước cho ngập trứng, bỏ trứng ra, cân phần nước trong hũ, các bạn sẽ biết chính xác là cần bao nhiêu nước để muối trứng, từ đó tính ra lượng muối và các nguyên liệu khác cho phù hợp.</p>
+<p>– Có thể bỏ hồi, quế, thảo quả… nếu không thích. Khi muối có thể sẽ thấy mùi quế, hồi, thảo quả hơi nồng nhưng khi ăn sẽ thấy trứng rất thơm ngon (hơi giống mùi ngũ vị hương). Nếu các bạn làm nhiều thì tăng các thành phần lên theo tỉ lệ tăng trứng nhưng lưu ý là <em>thảo quả có mùi rất mạnh nên nếu muối nhiều trứng cũng chỉ nên dùng 1-2 quả thảo quả là vừa.</em></p>
+<p>– Thời gian muối trứng gà hay vịt là khoảng 4 – 6 tuần, nếu muối trứng cút thì thời gian này sẽ rút ngắn hơn nhiều. Mình chưa muối trứng cút bao giờ nhưng mình nghĩ sau 15 ngày các bạn có thể thử được.</p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>1. Lọ đựng trứng và trứng rửa sạch, để khô (nghe nói là nếu trứng ướt thì dễ bị hôi nên cẩn thận vẫn hơn).</p>
+<p>2. Hồi, quế, thảo quả, gừng rửa sạch, thả vào nước. Cho muối. Đun sôi nước thật kĩ (nước sôi rồi thì hạ lửa vừa, đun thêm khoảng 3-5 phút nữa). Pha đường, khuấy cho tan. Để nguội. Sau khi nước nguội thì cho rượu, khuấy đều.</p>
+<p>3. Xếp trứng vào lọ, đổ nước muối cùng hồi, quế, thảo quả… vào. Lấy miếng nan tre hoặc đồ vật gì đó cài lên miệng lọ để trứng luôn ngập trong nước. Mình hay cho nước sạch vào túi nilon sạch rồi buộc miệng túi lại, đặt túi này lên trên lọ, chèn trứng cũng rất tốt.</p>
+<p>Đậy kín lọ, sau khoảng 4 tuần có thể bắt đầu thử. Trứng chín sẽ có phần lòng đỏ khá cứng, đỏ au và chắc nịch, có mùi thơm. Lòng trắng trong, không đục, không vàng hay hôi.</p>
+<p>4. Bảo quản trứng:</p>
+<p>– Để nguyên trứng trong lọ, có thể dùng trong khoảng 6 – 8 tuần tính từ ngày muối.</p>
+<p>– <a href="/banh-trung-thu-cach-xu-li-trung-muoi-cho-nhan-banh-trung-thu/" target="_blank">Xử lí và làm chín trứng theo cách trong bài viết này</a>. Trứng làm theo cách này có thể để đông lạnh lâu hơn, khi cần là có cái dùng ngay, rất tiện.</p>
+<p>Trứng muối bổ dưỡng và rất ngon. Các món ăn có thể làm với trứng muối cũng đa dạng. Hiện tại Savoury Days đã có một số món với trứng muối (đều được khen ngợi rất nhiều ;) ) là:</p>
+<ul>
+<li><a href="/com-binh-dan/" target="_blank">Đậu chiên trứng muố</a>i</li>
+<li><a href="/tom-chien-trung-muoi/" target="_blank">Tôm chiên trứng muối </a></li>
+<li><a href="/video-banh-bao-kim-sa-banh-bao-trung-muoi-liu-sha-bao/" target="_blank">Bánh bao Kim Sa (Liu Sha Bao)</a></li>
+<li><a href="/banh-bao-heo-con-cach-lam-nhan-thit-trung-muoi-lap-xuong/" target="_blank">Làm nhân trong bánh bao nhân thịt</a></li>
+<li><a href="/banh-bong-lan-tra-xanh-trung-muoi/" target="_blank">Bánh bông lan trà xanh trứng muối</a></li>
+<li><a href="/suon-khia-nuoc-dua-cu-cai-xao-trung-muoi/" target="_blank">Củ cải xào trứng muối</a></li>
+<li><a href="/cach-lam-banh-bong-lan-trung-muoi-khong-can-lo-nuong-2/" target="_blank">Bánh cupcake trứng muối, chà bông, sốt pho-mát (không cần lò)</a></li>
+<li><a href="/cach-lam-banh-bong-lan-trung-muoi-khong-can-lo-nuong/" target="_blank">Bánh bông lan trứng muối </a></li>
+<li>Làm nhân bánh trung thu, bánh pía, ví dụ như trong công thức <a href="/banh-nuong-banh-deo-tra-xanh-nhan-me-den-trung-muoi-2/" target="_blank">bánh trung thu trà xanh nhân mè đen này</a></li>
+</ul>
+<p>Ngoài những món trên, cách đơn giản nhất là luộc lên, rồi ăn với cháo trắng. Mình thì hay thích ăn kiểu này: Trứng luộc chín, tách lấy lòng đỏ, nghiền vụn rồi trộn với ít bột nêm, có thể thêm ít mì chính (bột ngọt) hoặc đường, nhưng ít thôi không có món ăn sẽ có vị lợ. Hành khô băm thật vụn, phi thơm với ít dầu ăn rồi cho trứng vào xào khoảng 1-2 phút ở lửa vừa. Trứng này cực thơm, lại đậm đà và có sẵn vị bùi bùi, beo béo của trứng muối nữa, trộn với cơm hoặc xôi trắng nóng với ít hành khô phi thì tuyệt cú mèo ;)</p>
+<p style="text-align: center;"><em>Tôm chiên trứng muối</em></p>
+<p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/6867963464/" title="IMG_3159 by LinhTrang9185, on Flickr"><img alt="IMG_3159" class="aligncenter" height="426" loading="lazy" src="http://farm8.staticflickr.com/7042/6867963464_1e7dc1c815.jpg" width="640"/></a></em></p>
+<h3>TÓM TẮT: CÁCH LÀM TRỨNG MUỐI KHÔ</h3>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<ul>
+<li><em>10 quả trứng gà hoặc vịt (nếu làm nhiều hơn thì tăng phần nguyên liệu ở dưới lên)</em></li>
+<li><em>150 – 200 gram muối ăn (khoảng 2/3 cup)</em></li>
+<li><em>1/2 thìa cafe (tsp) bột ngũ vị hương </em></li>
+<li><em>1/2 thìa cafe (tsp) bột gừng (không bắt buộc)</em></li>
+<li><em>80 ml (1/3 cup) vodka hoặc rượu có nồng độ cồn cao một chút </em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Rửa và lau khô trứng. Trộn muối với ngũ vị hương và gừng. Đổ rượu vào bát.</p>
+<p>2. Nhúng trứng vào rượu rồi lăn qua muối để muối bám vào vỏ trứng. Dùng nilon bọc lại hoặc xếp trứng vào âu, phủ muối lên trứng. Để 4 – 6 tuần. Sau 4 tuần có thể đập thử 1 quả để kiểm tra xem trứng chín chưa. Cách bảo quản giống như trứng muối ướt.</p>
+
+
+<h3>TÓM TẮT: CÁCH LÀM TRỨNG MUỐI SIÊU TỐC</h3>
+<p>1. Tách đôi quả trứng, bỏ lòng trắng, giữ lại lòng đỏ trong vỏ trứng.</p>
+<p>2. Rắc chút muối vào phần vỏ trứng không có lòng đỏ. Nhẹ nhàng đổ lòng đỏ qua vỏ trứng có muối. Rắc thêm 1 lớp muối phủ kín lòng đỏ. Đặt trứng vào bát nhỏ hoặc khay/ hộp đựng trứng để giữ vỏ trứng đứng thẳng. Bọc kín, để tủ lạnh 24 – 36 giờ. Khi dùng rửa cho sạch muối. Cách xử lí và bảo quản giống như trứng muối ướt.</p>
+<p> </p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

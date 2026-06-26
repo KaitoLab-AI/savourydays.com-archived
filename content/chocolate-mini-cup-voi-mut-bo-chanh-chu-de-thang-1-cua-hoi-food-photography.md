@@ -1,0 +1,56 @@
+---
+title: "Chocolate mini cup với Mứt bơ chanh & Chủ đề tháng 1 của Hội Food Photography"
+date: "2012-01-03"
+slug: "chocolate-mini-cup-voi-mut-bo-chanh-chu-de-thang-1-cua-hoi-food-photography"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/01/MiniChococup.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Các bạn hay theo dõi blog của mình chắc còn nhớ hoạt động nấu và <a href="/?p=1359">chụp ảnh theo tháng của hội Food Photography </a>mà mình đã giới thiệu hồi đầu tháng 12. Mặc dù thời điểm cuối năm bận rộn nhưng chủ đề Panna Cotta của tháng 12 đã thu hút được rất nhiều thành viên của Hội tham gia. Bài tổng kết chủ đề tháng 12 ở <a href="http://www.lanvaobep.org/2011/12/tong-ket-cung-nau-cung-chup-anh-122011.html">ĐÂY</a>, còn ảnh cụ thể của các thành viên thì các bạn có thể xem trên <a href="http://www.facebook.com/groups/179901282024560/">Facebook của Hội</a> nhé.</p>
+<p>Tháng 1 này có Tết Nguyên Đán, mọi người chắc sẽ bận rộn hơn, nên chủ đề mà bọn mình chọn là một món ăn cực đơn giản, cực dễ làm, và cực.. mở. Tên tiếng Anh của nó là Lemon Curd, tạm dịch là mứt bơ chanh. Lemon curd là một dạng mứt khá đặc, hương vị chủ đạo là bơ, chanh và đường, có thể dùng với rất nhiều loại bánh khác nhau như bánh mỳ, bánh gateau, bánh bông lan (pound cake), pie, tart, hoặc làm nhân bánh quy… Bọn mình chọn Lemon Curd làm chủ đề lần này cũng hi vọng là mọi người sẽ thoải mái phát huy mọi ý tưởng sáng tạo và đặc biệt là trong food styling nữa.</p>
+<p>Chủ đề mới của Hội được phát động ở <a href="http://www.facebook.com/groups/179901282024560/doc/348723311809022/">ĐÂY</a>. Ảnh của các thành viên tham gia sẽ được up trong <a href="http://www.facebook.com/media/set/?set=oa.348723705142316&amp;type=1">Album riêng cho chủ đề tháng 1 </a>của Hội. Welcome tất cả các bạn thích nấu ăn và chụp ảnh nhé ;)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6620963521/" title="IMG_1402-2 by LinhTrang9185, on Flickr"><img alt="IMG_1402-2" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7027/6620963521_7de0cabe4d_z.jpg" width="431"/></a></p>
+<p>Về công thức Lemon curd thì mình thử hai công thức khác nhau, đều dùng bơ và chanh vàng, một công thức chỉ dùng toàn lòng đỏ và công thức còn lại thì dùng cả lòng trắng lẫn lòng đỏ. Kết quả không khác nhau mấy, công thức toàn lòng đỏ thì cho mứt có màu vàng đẹp hơn. Mùi vị khá là thơm ngon, tuy vị chanh có hơi gắt một chút, nhưng ăn với các loại bánh nhạt kiểu bánh mỳ thì rất hợp. Ngoài ra mình nghĩ là nếu thay chanh vàng bằng chanh leo hoặc cam thì có thể mứt sẽ có vị dịu và thơm hơn, nhưng mình chưa có dịp thử, bạn nào thử thì cho mình biết kết quả với nhé :) Riêng chanh xanh thì mình không chắc là có ngon không vì sợ là chanh xanh nấu lên sẽ dễ bị đắng.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Ngoài Lemon curd ra thì trong ảnh còn có 1 thứ khác mà mình rất thích và rất muốn chia sẻ với cả nhà là Chocolate mini cup :) Tất cả những chiếc cốc xinh xinh đựng lemon curd trong ảnh đều được làm từ Chocolate (ăn được) và là tự làm tại nhà (cách làm cực dễ). Ý tưởng của những chiếc cốc này cũng là từ ảnh của một thành viên của hội Food Photography. Ở ngoài hàng thì có loại cốc chocolate này làm sẵn, rất xinh. Vì trong nhà mình thường hay có sẵn chocolate nên mình tự làm thử luôn. Cách làm mình giới thiệu ở dưới nhé.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6620963923/" title="IMG_1405-1 by LinhTrang9185, on Flickr"><img alt="IMG_1405-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7149/6620963923_3b524dd6b2_z.jpg" width="431"/></a></p>
+<p><strong>*</strong><span style="text-decoration: underline;"><strong> Công thức Lemon Curd cơ bản</strong></span></p>
+<p><span id="more-1576"></span><strong>Nguyên liệu</strong></p>
+<ul>
+<li><em>2 lòng đỏ trứng gà (40gram) hoặc 1 quả trứng gà (50gram không tính vỏ)</em></li>
+<li><em>70gram đường</em></li>
+<li><em>30gram bơ nhạt – để mềm ở <strong>nhiệt độ phòng</strong></em></li>
+<li><em>1 qủa chanh vàng to, bào vụn phần vỏ, vắt lấy nước cốt (được khoảng 45gram)</em></li>
+<li><em>1 nhúm nhỏ muối</em></li>
+</ul>
+<p>*<strong>Ghi chú: </strong><em>Nếu thay chanh bằng một loại quả khác như chanh leo, cam, .. thì giữ nguyên định lượng của các loại nguyên liệu và điều chỉnh lượng đường cho món ăn có độ ngọt phù hợp</em></p>
+<p><strong>Cách làm</strong></p>
+<p>1. Cho đường và lòng đỏ trứng vào nồi. Quấy nhẹ cho hòa quyện.</p>
+<p>2. Cho bơ, nước cốt chanh và muối vào nồi. Quấy đều cho các thứ nguyên liệu hòa quyện.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6620965931/" title="2011-12-301 by LinhTrang9185, on Flickr"><img alt="2011-12-301" class="aligncenter" height="375" loading="lazy" src="http://farm8.staticflickr.com/7024/6620965931_6cf70e7625.jpg" width="500"/></a></p>
+<p>3. Bắc nồi lên bếp, để lửa nhỏ. Quấy liên tục và đều tay đến khi hỗn hợp đặc &amp; hơi sền sệt (mất khoảng 10-12 phút). <strong>Lưu ý là quấy lien tục để tránh trứng bị chín, gây lợn cợn.</strong></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>4. Lọc hỗn hợp mứt qua rây, cho vỏ chanh bào vụn vào trộn đều. Để nguội. Bảo quản trong lọ sạch &amp; kín, để tủ lạnh được 7-10 ngày.</p>
+<p><strong>*</strong><span style="text-decoration: underline;"><strong> Cách làm Chocolate mini cup</strong></span></p>
+<p><strong>Chuẩn bị </strong></p>
+<ul>
+<li><em>Chocolate (dạng thanh, chocolate nguyên chất hoặc milk chocolate, đừng dùng các loại có hạt hoặc mứt đi kèm nhé)</em></li>
+<li><em>Khuôn mini cupcake silicon. </em></li>
+<li><em>Chổi nhỏ để quét Chocolate lên khuôn </em></li>
+</ul>
+<p><strong>Cách làm</strong></p>
+<p>1. Bẻ chocolate thành miếng nhỏ, cho vào trong bát. Quay trong lò vi sóng khoảng 50-60giây cho chocolate tan chảy. <strong>Lưu ý: </strong><em>cách khoảng 15-20s phải lấy chocolate ra khuấy một lần, nếu không chocolate sẽ rất dễ bị cháy. </em>Có một cách khác lâu hơn nhưng đảm bảo an toàn hơn là đặt bát chocolate trên một nồi nước đang sôi nhẹ, dùng hơi nóng của nước để làm chocolate tan chảy (chưng cách thủy).</p>
+<p>2. Dùng chổi phết chocolate vào khuôn. Nên làm thành khuôn dày một chút về sau bóc ra sẽ đỡ sợ bị vỡ hơn.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6620964307/" title="2011-12-31 by LinhTrang9185, on Flickr"><img alt="2011-12-31" class="aligncenter" height="375" loading="lazy" src="http://farm8.staticflickr.com/7009/6620964307_792e0e832e.jpg" width="500"/></a></p>
+<p>3. Đặt các cốc chocolate này vào tủ lạnh, đợi chocolate đông hẳn lại.</p>
+<p>4. Nhẹ nhàng bóc các cup chocolate ra khỏi khuôn.</p>
+<p><strong><em>Ghi chú: </em></strong><em>Với món này tốt nhất là dùng khuôn silicon vì vừa không bị dính và bóc ra cũng rất dễ dàng. </em><em>Nếu không có khuôn silicon thì các bạn có thể dùng miếng mica hoặc bìa cuốn lại thành khuôn, rồi</em><em> sau khi chocolate đông lại thì bóc bỏ lớp bìa. </em></p>
+<p>Chocolate mini cup này có thể được dùng trong rất nhiều món ăn khác nhau, ngoài với lemon curd như trong bài thì còn có thể dùng với mousse, hoặc cốt gateau.. Dùng làm tráng miệng trong bữa tiệc chắc là rất hợp và đẹp nữa :) Riêng với Lemon curd thì bởi vì Lemon curd có vị khá “sắc” cho nên ăn cả một cốc như trong hình mình cảm giác hơi nhiều, có lẽ nên có thêm 1 lớp mousse rồi một lớp mỏng lemon curd thì sẽ ngon hơn.</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

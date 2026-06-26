@@ -1,0 +1,63 @@
+---
+title: "Tin vui: Sách “Quà tặng ngọt ngào” sẽ ra mắt cuối tuần này ^.^"
+date: "2013-01-30"
+slug: "tin-vui-sach-qua-tang-ngot-ngao-se-ra-mat-cuoi-tuan-nay"
+categories: ["Bếp nhà mình", "Chuyện hàng ngày", "Về tôi"]
+tags: ["quà tặng ngọt ngào", "sách", "savoury days"]
+image: "/wp-content/uploads/2013/01/QuaTangNN.jpg"
+description: "quà tăng ngọt ngào, savoury days, sách nấu ăn, sách làm bánh, tự làm đồ thủ công"
+---
+
+<p>Cuối cùng thì cũng đã có thông tin chính thức về ngày phát hành sách “Quà tặng ngọt ngào”. Xin lỗi cả nhà nhiều vì đã bắt các bạn đợi lâu. Thật ra theo kế hoạch thì sách sẽ được phát hành trong tuần cuối tháng 1. Nhưng khâu in ấn hơi dài hơn so với dự kiến một chút, cũng chỉ với mục đích chính là đảm bảo chất lượng in của sách được tốt đến mức tối đa, cho nên sách ra mắt chậm hơn  kế hoạch vài ngày. Nhưng thật sự là việc chậm trễ này rất “xứng đáng” vì sách in ra rất ổn, rất giống với mong muốn của cả mình, Hương và đơn vị xuất bản :).  Mà thôi, mình không nói dông dài nữa, đây là thông tin chính thức về sách nhé:</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8382926369/" title="Cover by LinhTrang9185, on Flickr"><img alt="Cover" class="aligncenter" height="500" loading="lazy" src="http://farm9.staticflickr.com/8098/8382926369_366f945e46.jpg" width="500"/></a></p>
+<p>1. Tên sách: Quà tặng ngọt ngào</p>
+<p>2. Tác giả: Linh Trang (<a href="">www.savourydays.com</a>) và Thiên Hương (<a href="http://www.facebook.com/sheilacrafts">www.facebook.com/sheilacrafts</a>)</p>
+<p>3. Độ dày: 120 trang (màu, in trên giấy dày, bóng đẹp với rất nhiều hình ảnh minh họa “xinh”, “ngon” và ngọt ngào ;) )</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span id="more-3683"></span></p>
+<p>4. <strong>Giá bìa</strong>:</p>
+<ul>
+<li>Sách bìa cứng: 145.000 VND</li>
+<li>Sách bìa mềm: 120.000 VND</li>
+</ul>
+<p>5. <strong>Ngày phát hành:</strong></p>
+<ul>
+<li>Tại miền Bắc: 1 tháng Hai, 2013</li>
+<li>Tại miền Nam: 5-6 tháng Hai, 2013</li>
+</ul>
+<p>Thông tin thêm về sách các bạn có thể xem tại website của Công ty sách Văn Việt, ở đây nhé: <a href="http://vanvietbooks.vn/sach-qua-tang-ngot-ngao-bia-mem-146.aspx">http://vanvietbooks.vn/sach-qua-tang-ngot-ngao-bia-mem-146.aspx</a></p>
+<p>6. <strong>Địa chỉ mua sách:</strong></p>
+<p>– Tại Hà Nội và TPHCM, các bạn có thể mua ở các đại lý sách có liên kết với Văn Việt, danh sách tại đây: <a href="http://vanvietbooks.vn/vanvietbooks-he-thong-phat-hanh-46.aspx">http://vanvietbooks.vn/vanvietbooks-he-thong-phat-hanh-46.aspx</a></p>
+<p>– Ngoài ra, các bạn cũng có thể đặt qua một số nhà sách online (sách sẽ được chuyển đến tận nhà) như</p>
+<ol>
+<li><a href="http://tiki.vn/">http://tiki.vn/</a></li>
+<li><a href="http://www.vinabook.com/">http://www.vinabook.com/</a></li>
+</ol>
+<p>Thông tin về sách đã được chuyển đến Tiki và Vinabook nên chắc chỉ trong một vài ngày tới sẽ xuất hiện trên website của hai nhà sách này. Bạn nào muốn mua qua mạng thì chịu khó theo dõi nha. Mình cũng sẽ thông báo khi có cập nhật mới.</p>
+<p>– <strong>Vinabook và Tiki cũng có dịch vụ chuyển phát ra nước ngoà</strong>i nên các bạn ở xa hoàn toàn có thể đặt mua sách qua website này nhé. VD: đây là link thông tin tham khảo với việc giao hàng quốc tế của Vinabook: <a href="http://www.vinabook.com/giao-hang-quoc-te-m3i4374.html">http://www.vinabook.com/giao-hang-quoc-te-m3i4374.html</a></p>
+<p><em><strong>Tiếp theo là một vài gạch đầu dòng nho nhỏ “liên quan” đến quà tặng ;)</strong></em></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>– Đầu tiên là tất cả các sách bìa cứng sẽ có thêm một túi đựng sách (rất xinh) đi kèm, với ý tưởng là làm cho cuốn sách thật sự là một “món quà” hoàn chỉnh. Tuy nhiên số lượng sách bìa cứng rất có hạn nên anh chị em nào muốn mua sách làm quà tặng thì nhanh chân một chút nha.</p>
+<p>– Việc<strong> kí tặng sách</strong> chắc chắn sẽ có nhưng xin “nợ” lại đến sau Tết vì mình không ở Việt Nam nên sẽ cần phải thu xếp một chút với Thiên Hương và Công ty sách Văn Việt. Nhưng chắc chắn bọn mình sẽ cố gắng hết sức để đáp lại những tình cảm yêu mến của cả nhà dành cho Savoury Days, Sheila Crafts và Quà tặng ngọt ngào :)</p>
+<p>– Cuối cùng, có 7 quyển sách bìa cứng kèm lời đề tặng được dành riêng để tặng cho những người bạn “đặc biệt” của Savoury Days. 4 quyển đầu tiên mình xin gửi tặng bạn <strong><span style="color: #ff0000;">Oanh (oanhmongmanh@…), Poppi_Muffin, Hoàng Anh (Oriole) </span></strong><span style="color: #ff0000;"><span style="color: #000000;">và</span></span><strong><span style="color: #ff0000;"> Hong Phuc</span>.</strong> Cả bốn người bạn tuy chưa bao giờ gặp mặt và chỉ quen nhau nhờ bếp, nhưng trong suốt thời gian qua đã đóng góp một phần rất lớn trong việc giúp cho bếp “ấm” hơn, qua việc chia sẻ kiến thức và trả lời câu hỏi trong bếp. Đặc biệt là trong khoảng 3 tháng gần đây, nếu không có các bạn giúp đỡ trả lời phản hồi trong Savoury Days thì chắc mình đã không có đủ thời gian để tập trung cho công việc và viết “Quà tặng ngọt ngào” :x <em>Mình sẽ liên hệ với các bạn qua email mà các bạn dùng để đăng kí tên tại Savoury Days nhé. <span style="color: #ff0000;">Nếu đây không phải là email mà các bạn thường dùng thì nhờ mọi người gửi mail đến <a href="mailto:linhtrang2k5@gmail.com"><span style="color: #ff0000;">savourydaysvn@gmail.com</span></a> với nội dung gồm tên và địa chỉ người nhận nha.</span></em></p>
+<p>– 3 quyển sách tiếp theo mình dành tặng cho 3 bạn để lại phản hồi dưới bài viết này. Mình sẽ chọn ngẫu nhiên nên các bạn có thể viết phản hồi tùy thích, nhưng nếu được, hi vọng cả nhà sẽ cho ý kiến với câu hỏi này: “<span style="color: #ff0000;"><strong>Nếu Savoury Days và Sheila Crafts tiếp tục viết một quyển sách nấu nướng và làm đồ thủ công nữa, bạn mong quyển sách đó sẽ thế nào? (về nội dung, hình thức, chọn lựa công thức, cách trình bày…).”</strong></span></p>
+<p><strong><span style="color: #000000;">Kết quả mình sẽ công bố vào đầu tuần tới nhé ;)</span></strong></p>
+<p>Chỉ còn 2 ngày nữa thôi, nói thật là mình và Hương cũng rất hồi hộp. Sách lại phát hành vào hơi sát Tết, nhưng hi vọng là sẽ vẫn được cả nhà ủng hộ (và giới thiệu cho bạn bè nữa nha). Với cả, vì mình (tuy là tác giả nhưng) cũng phải đợi sách chuyển sang Bỉ nên thứ 6 này bạn nào mua được sách thì chụp hình cho mình xem với nhé :)</p>
+<p>Chờ chờ chờ :x</p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

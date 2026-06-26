@@ -1,0 +1,65 @@
+---
+title: "Cách làm BÁNH ĐÚC TÔM THỊT"
+date: "2022-03-30"
+slug: "cach-lam-banh-duc-tom-thit"
+categories: []
+tags: []
+image: "/wp-content/uploads/2022/03/6-scaled.jpg"
+description: "Bánh đúc mềm dẻo, hơi giòn, thơm mùi nước cốt dừa, ăn kèm với nước mắm chua ngọt và topping tôm thịt mằn mặn siêu \"cuốnnn\""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400;">Một món bánh mặn ngọt và thơm mùi nước cốt dừa đến từ “tiểu ban giữ gìn ẩm thực truyền thống” của SD đây ạ 😁😁Chuyện ngược đời ở SD Studio, bánh ngọt thì có khi cứ đùn đẩy nhau (vì ăn nhiều quá), chứ mấy kiểu bánh Việt Nam, đặc biệt là còn mằn mặn ngọt ngọt thì bao nhiêu cũng hết (nên mới có cái tiểu ban kia 😂)</span></p>
+<p><span style="font-weight: 400;">Quay lại món bánh đúc này, nếu bạn nào thấy bánh đúc nóng trời này ăn hơi ngấy, nhưng bánh đúc tương lại “khó ăn” thì thử món này xem sao nha. Bánh đúc mềm dẻo, hơi giòn, thơm mùi nước cốt dừa, ăn kèm với nước mắm chua ngọt và topping tôm thịt mằn mặn “cuốn” lắm 😁</span></p>
+<h2><span style="color: #800000;">Cách làm BÁNH ĐÚC TÔM THỊT</span></h2>
+<p><strong>Nguyên liệu: </strong></p>
+<p><strong>A. Phần bột bánh:</strong></p>
+<ul>
+<li><em><span style="font-weight: 400;">120 gram bột gạo tẻ</span></em></li>
+<li><em><span style="font-weight: 400;">40 gram bột năng</span></em></li>
+<li><em><span style="font-weight: 400;">80 gram nước cốt dừa</span></em></li>
+<li><em><span style="font-weight: 400;">320 gram nước</span></em></li>
+<li><em><span style="font-weight: 400;">1 thìa cà phê dầu ăn</span></em></li>
+<li><em><span style="font-weight: 400;">1/2 thìa canh đường</span></em></li>
+<li><em><span style="font-weight: 400;">1/4 thìa cà phê muối</span></em></li>
+</ul>
+<p><strong>B. Phần nhân tôm thịt:</strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em><span style="font-weight: 400;">200 gram thịt lợn, băm nhỏ</span></em></li>
+<li><em><span style="font-weight: 400;">15 gram tôm khô</span></em></li>
+<li><em><span style="font-weight: 400;">100 gram củ đậu/ (củ sắn) thái hạt lựu</span></em></li>
+<li><em><span style="font-weight: 400;">50 gram hành tây, thái hạt lựu</span></em></li>
+<li><em><span style="font-weight: 400;">50 gram cà rốt, thái hạt lựu</span></em></li>
+<li><em><span style="font-weight: 400;">Hành lá cắt nhỏ</span></em></li>
+<li><em><span style="font-weight: 400;">Hành khô, tỏi băm để phi thơm</span></em></li>
+<li><em><span style="font-weight: 400;">Gia vị: nước mắm/ nước tương, đường, hạt tiêu theo khẩu vị</span></em></li>
+</ul>
+<p><strong>C. Ăn kèm:</strong></p>
+<p><span style="font-weight: 400;">– Mỡ hành: Cho hành lá cắt nhỏ vào bát, thêm dầu ăn nóng và chút muối.</span></p>
+<p><span style="font-weight: 400;">– Nước mắm chua ngọt để rưới lên bánh (pha nước chấm giống chấm nem hay bún chả)</span></p>
+<p> </p>
+<p><strong>Cách làm:</strong></p>
+<p><strong>A. Phần bột bánh:</strong></p>
+<p><span style="font-weight: 400;">1. Trộn các loại bột khô gồm: bột gạo tẻ, bột năng, đường muối tới khi hòa quyện</span></p>
+<p><span style="font-weight: 400;">2. Thêm từ từ nước và nước cốt dừa, khuấy đều cho bột hòa quyện, lọc qua rây để loại bỏ bột vón và để bột nghỉ 30 phút.</span></p>
+<p><span style="font-weight: 400;">3. Trùng bột: Cho bột vào chảo, khuấy đều tay ở lửa vừa-nhỏ tới khi bột dần đặc lại ở dưới đáy chảo, bột lúc này sẽ thấy khá lổn nhổn.</span></p>
+<p><span style="font-weight: 400;">4. Tắt bếp, dùng phới lồng đánh bột nhanh tay, cho tới khi bột trở thành hỗn hợp dẻo mịn hoàn toàn, bột lúc này đặc, bám vào phới lồng, khi nhấc phới lên bột không rơi xuống. </span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><img alt="" class="alignnone wp-image-9086" height="354" loading="lazy" sizes="(max-width: 530px) 100vw, 530px" src="/wp-content/uploads/2022/03/IMG_3323-300x200.jpg" width="530"/></p>
+<p><span style="font-weight: 400;">5. Dùng khuôn vuông cạnh 16cm (hoặc khuôn tròn 16cm) . Quét 1 lớp dầu ăn vào khuôn để chống dính, dàn đều cho mặt bột mịn, hấp ở lửa vừa – lớn khoảng 25 phút, lót khăn dưới nắp nồi để tránh nước rơi xuống mặt bánh. Thử bánh chín bằng cách xiên tăm vào giữa bánh rồi rút ra, nếm thử phần bánh dính vào tăm, nếu không còn vị bột sống là bánh chín.</span></p>
+<p>6. Để bánh nguội hẳn ở nhiệt độ phòng.</p>
+<p><strong>B. Phần nhân tôm thịt:</strong></p>
+<p><span style="font-weight: 400;">1. Rửa sạch và ngâm nở tôm khô, xay nhuyễn.</span></p>
+<p><span style="font-weight: 400;">2. Phi thơm hành khô và tỏi, thêm thịt băm và tôm, xào ở lửa lớn cho tới khi thịt chín săn lại, đổ ra bát riêng. </span></p>
+<p><span style="font-weight: 400;">3. Xào hành tây, củ đậu, cà rốt tới khi chín mềm.</span></p>
+<p><span style="font-weight: 400;">4. Thêm thịt và tôm đã xào vào đảo đều. Nêm nước mắm, nước tương, hạt tiêu, đường, cho vừa khẩu vị. </span></p>
+<p><span style="font-weight: 400;">5. Cho hành lá, đảo đều và tắt bếp.</span></p>
+<p><span style="font-weight: 400;">Hoàn thiện: Cắt bánh thành miếng vừa ăn, thêm mỡ hành và nhân tôm thịt lên trên, rưới lên bánh nước mắm chua ngọt</span></p>
+<p><img alt="" class="alignnone wp-image-9082" height="350" loading="lazy" sizes="(max-width: 525px) 100vw, 525px" src="/wp-content/uploads/2022/03/2-10.12.55-300x200.jpg" width="525"/></p>
+<p><img alt="" class="alignnone wp-image-9084" height="350" loading="lazy" sizes="(max-width: 522px) 100vw, 522px" src="/wp-content/uploads/2022/03/IMG_9112-300x201.jpg" width="522"/></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

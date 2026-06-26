@@ -1,0 +1,23 @@
+---
+title: "Bánh cuộn chocolate với kem tươi & anh đào"
+date: "2012-03-25"
+slug: "banh-cuon-chocolate-voi-kem-tuoi-anh-dao"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/03/BanhCuonChocolate.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Tuần trước có một ngày trốn làm, ở nhà làm bánh, vẫn bị thèm Gateau cho nên làm bánh cuộn tiếp, định post lên blog sau nhưng lỡ “xì” ra một cái ảnh bên Facebook, bà con hỏi thăm nhiều nên up luôn vậy :”&gt;</p>
+<p>Cốt bánh này vẫn là cốt gateau Nhật Bản, ngon, mềm, nhẹ và dễ cuộn. Mình dùng khuôn 25 x 35cm, công thức 4 trứng, bớt 3gram corn starch và thêm 5gram bột Cacao. Nếu thích ăn đậm vị Cacao thì các bạn có thể thêm tầm 7-8gram. Mọi thứ khác không đổi, đường có thể giảm một chút nếu muốn rõ vị đắng của Cacao hơn.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6865593034/" title="IMG_3038-4 by LinhTrang9185, on Flickr"><img alt="IMG_3038-4" class="aligncenter" height="500" loading="lazy" src="http://farm8.staticflickr.com/7067/6865593034_037c66e8fa.jpg" width="333"/></a></p>
+<p>Công thức và cách làm cốt bánh thì vì chỉ thêm mỗi bột Cacao và bớt bột ngô nên cả nhà xem ở <strong><a href="/banh-cuon-kem-tuoi-dua-tra-xanh/">công thức bánh cuộn kem tươi dừa &amp; trà xanh</a></strong> giúp mình nhé. Bột Cacao cho vào trộn cùng với hỗn hợp bột, rồi trộn với bơ, sữa ấm như bình thường.</p>
+<p>Bánh này mình cuộn lúc bánh còn ấm. Sau khi bánh nguội thì phết nhân và cuộn lại. Phần nhân là kem tươi đánh bông với anh đào đóng hộp. Quả anh đào cắt đôi và xếp như trong hình, khi cuộn lại anh đào sẽ lẫn trong lớp kem như hình ở trên. Cách cuộn cụ thể thế nào thì cũng có trong bài về <a href="/banh-cuon-kem-tuoi-dua-tra-xanh/">Gateau cuộn kem tươi trà xanh</a> rùi nha.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7013490997/" title="IMG_3007 by LinhTrang9185, on Flickr"><img alt="IMG_3007" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7227/7013490997_09eda8238a.jpg" width="500"/></a></p>
+<p>Các bạn cũng có thể dùng hoa quả tươi như cam, chuối, đào, xoài, dâu tây…  mình nghĩ cũng sẽ rất ngon.</p>
+<p>Thế thui, tạm dừng tiết mục bánh Gateau ở đây, tuần tới mình sẽ quay lại với bánh mỳ, bài đang viết dở rùi ;)</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,100 @@
+---
+title: "{Low-carb} Coconut Cappuccino Cheese Bars"
+date: "2014-01-21"
+slug: "low-carb-coconut-cappuccino-cheese-bars"
+categories: []
+tags: []
+image: "/wp-content/uploads/2014/01/CapuccinoCheeseBars1.jpg"
+description: "bánh low-carb, low-carb cheese cake"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>(*) <strong>Lưu ý chung cho các công thức Low-carb tại Savoury Days:</strong></p>
+<p>1. Mình không ăn kiêng, nhưng mình quan tâm và mong muốn có một chế độ ăn hợp lý, khoa học, cân bằng và tốt cho sức khỏe. Vì vậy nên mình muốn tìm hiểu và giới thiệu các công thức món ăn theo kiểu low-carb. Còn tại sao lại tập trung vào đồ ngọt vì có lẽ tài liệu tham khảo cho cách nấu các món tráng miệng <em>low-carb </em> ít hơn món mặn nhiều. Và kể cả với các bạn không ăn kiêng thì những món ăn này vẫn có thể dùng như là một thứ đồ ăn ngon và thân thiện với sức khỏe :)</p>
+<p>2. Nguyên liệu mà mình lựa chọn để dùng trong các món ăn low-carb tại SD được dựa theo <a href="http://www.atkins.com/Program/Phase-1.aspx">danh sách thực phẩm của Atkins diet</a>, là một trong những chế độ ăn kiêng low-carb rất được ưa chuộng trên thế giới, cũng là một trong những phương pháp rất khắt khe trong việc lựa chọn thực phẩm. Ngoài ra, mình có tham khảo thêm các tài liệu về <em>Healthy food &amp; healthy eating </em>của Jonny Bowden, Dana Carpender… Lý do vì tác giả của những tài liệu này đều là các chuyên gia dinh dưỡng, có kinh nghiệm nhiều năm về ăn uống theo <em>low-carb</em>, mặt khác, các thông tin mà họ đưa ra cũng đã được kiểm nghiệm bởi nhiều đối tượng khác nhau, và có cơ sở khoa học hợp lý, nên độ tin cậy tương đối cao.</p>
+<p>Về cơ bản, các nguyên liệu mà mình sẽ dùng làm đồ ngọt bao gồm:</p>
+<ul>
+<li>Bột từ các loại hạt như: hạt lanh (flaxeed), hạnh nhân (almond), hạt vừng (seasame), hồ đào (pecan), bột dừa hoặc cơm dừa bảo vụn (sấy khô),….</li>
+<li>Chất béo: Bơ, kem tươi, cream cheese và các loại pho-mát, dầu dừa (coconut oil), nước cốt dừa (coconut milk)</li>
+<li>Trứng</li>
+<li>Sữa đậu nành, đậu phụ, sữa chua không đường, kem chua</li>
+<li>Bột cacao nguyên chất, bột trà xanh, chocolate (80% cacao trở lên)</li>
+</ul>
+<p>Vì các mỗi chế độ ăn kiêng low-carb có một quy trình và yêu cầu về loại thực phẩm  khác nhau, nên có thể một vài thành phần trong công thức sẽ không phù hợp trong một số trường hợp cụ thể. Các bạn có thể điều chỉnh công thức tùy theo phương pháp ăn kiêng mà bạn áp dụng, mình cũng sẽ ghi chú thêm trong công thức về cách thay thế hoặc loại bỏ nguyên liệu.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Riêng với các chất tạo ngọt, vì mua và dùng đường ăn kiêng ở bên này khá phức tạp nên mình sử dụng đường bình thường, đường mía, đường thốt nốt hoặc mật ong. Các bạn có thể thay bằng đường ăn kiêng mà bạn dùng, nhưng lưu ý rằng một số loại đường ăn kiêng có thể thay đổi mùi vị khi gặp nhiệt độ cao. Riêng với đường, mình sẽ có đơn vị đo theo thể tích (volume), vd: đong bằng đơn vị <em>cup,</em> để các bạn tiện chuyển đổi tương đương. VD, các bạn có thể dùng <a href="http://www.splenda.com/cooking-baking/conversion-charts"><strong>bảng chuyển đổi này</strong></a> để chuyển từ đường kính trắng sang đường Splenda.</p>
+<p>3. Mình hoan nghênh tất cả các chia sẻ, đóng góp để hoàn thiện và làm đa dạng các công thức hơn. <span style="color: #ff0000;">Tuy nhiên, mình sẽ không trả lời các phản hồi như: “Low-carb thì không ăn A, B, C..” hoặc “tại sao Low-carb mà lại có … “. Lý do như đã giải thích trong mục (2).</span></p>
+<p>——————————————-</p>
+<p><strong>Marbled Coconut Cappuccino Cheese Bars (Bars kem phô-mai dừa &amp; cafe). </strong></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12068858623/" title="IMG_4573-1 by LinhTrang9185, on Flickr"><img alt="IMG_4573-1" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3683/12068858623_57d0839a27.jpg" width="500"/></a></p>
+<p>Đây là một món bánh mà mình nghĩ khá phù hợp cho các dịp liên hoan, và chắc chắn là rất ổn để mời khách trong ngày Tết. Thay vì bột và bơ như các loại đế tart/ bar quen thuộc, phần đế của món bánh này được làm từ vụn dừa và hạnh nhân kết dính bởi lòng trắng trứng. Cho nên trong mỗi miếng bánh nhỏ, các bạn sẽ cảm nhận được vị dừa và hạnh nhân thơm mềm, bùi béo, quyện với lớp Cappuccino Cheesecake thơm phức mùi kem cafe. Lạ, ngon mà không ngấy.</p>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>:</p>
+<ul>
+<li><em>Khuôn vuông 15 x 15 cm &amp; giấy nến để lót khuôn (nếu dùng khuôn đế liền)</em></li>
+<li><em>Khay hoặc khuôn lớn hơn 15 x 15 cm để nướng cách thủy </em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong>A. Phần đế bánh</strong></p>
+<ul>
+<li><em>2 lòng trắng trứng (60 – 70gram)</em></li>
+<li><em>35 gr đường hạt mịn <em>(tương đương 1/4 cup bớt đi 4 tsp)</em></em></li>
+<li><em>50 – 60gr dừa tấm/ vụn dừa sấy khô (<a href="http://www.google.com/search?q=desiccated+coconut&amp;client=safari&amp;rls=en&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ei=m-HbUu3RL8qrhQeal4CwCg&amp;ved=0CAcQ_AUoAQ&amp;biw=1280&amp;bih=626">desicated coconut)</a> </em></li>
+<li><em>50 – 60gr bột hạnh nhân (almond powder)</em></li>
+</ul>
+<p><strong>B. Phần Cheesecake</strong></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<ul>
+<li><em>200 gr cream cheese – để mềm ở nhiệt độ phòng</em></li>
+<li><em>50 gr kem tươi (hàm lượng béo 35 – 40%)</em></li>
+<li><em>40 gr đường hạt mịn (tương đương 1/4 cup bớt đi 2.5 tsp)</em></li>
+<li><em>10 ml (2/3 Tbsp) cà phê đậm đặc</em></li>
+<li><em>1 trứng gà (60gr/quả cả vỏ, 50gr/quả không tính vỏ)</em></li>
+<li><em>3 ml (1/2 tsp) vani chiết xuất</em></li>
+</ul>
+<p><strong>C. Vẽ họa tiết trên mặt bánh</strong></p>
+<ul>
+<li><em>15 ml (1 Tbsp) cà phê đậm đặc</em></li>
+<li><em>25 </em><em>gr chocolate (hàm lượng cacao tối thiểu 60%)</em></li>
+</ul>
+<p>(*) <strong>Ghi chú:</strong></p>
+<p>* Nếu không dùng bột hạnh nhân, có thể thay bằng cơm dừa bào vụn sấy khô trong phần đế bánh. Có thể dùng dừa nạo sợi thay cho vụn dừa, nhưng dù là vụn hay sợi, <strong>dừa cần phải được sấy khô trước khi làm</strong>.</p>
+<p>* Phần cà phê (cho B &amp; C) mình pha 2 gr bột Espresso cafe với 40ml nước nóng, để nguội rồi dùng. Cà phê càng đặc, chất lượng tốt sẽ cho bánh có mùi thơm hơn.</p>
+<p>* Nếu không dùng cà phê, có thể bỏ đi hoàn toàn. Tăng lượng kem tươi trong phần (B) lên 60gram. Thay 15 ml cafe trong phần C bằng 15 ml kem tươi.</p>
+<p>* Có thể thay chocolate bằng 5gr bột cacao hòa tan trong 10ml nước nóng. Hoặc bỏ qua phần C.</p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><strong>A. Phần đế bánh</strong></p>
+<p>1. Vặn lò 160 độ C (làm nóng lò trước khi nướng 10-15 phút, cả lửa trên &amp; dưới). Chuẩn bị khuôn. Nếu là khuôn đế rời thì lót giấy ở đáy khuôn. Nếu là khuôn đế liền thì lót hai miếng giấy vuông góc với nhau, giấy chườm lên cả thành khuôn để khi bánh chín có thể kéo bánh lên dễ dàng.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12068859053/" title="IMG_4550 by LinhTrang9185, on Flickr"><img alt="IMG_4550" class="aligncenter" height="333" loading="lazy" src="http://farm6.staticflickr.com/5485/12068859053_c00cb5a25b.jpg" width="500"/></a></p>
+<p>2. Cho lòng trắng trứng và đường vào âu. Đun sôi nước trong một nồi nhỏ (sao cho có thể đặt âu đánh trứng lên mà đáy nồi không chạm nước). Sau khi nước sôi thì hạ lửa nhỏ đủ để nước trong nồi sôi lăn tăn.</p>
+<p>Đặt âu đựng lòng trắng trứng lên trên nồi nước. Dùng phới lồng cầm tay đánh trứng, đường và muối đến khi hỗn hợp đặc lại và mịn mượt, có bọt khí nhỏ li ti.</p>
+<p>* <strong>Lưu ý:</strong> âu đánh, que đánh và lòng trắng không được dính chất béo như dầu, bơ, mỡ, lòng đỏ…</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6485555405/" title="IMG_0210 by LinhTrang9185, on Flickr"><img alt="IMG_0210" class="aligncenter" height="334" loading="lazy" src="http://farm8.staticflickr.com/7028/6485555405_109d4b8b8b.jpg" width="500"/></a></p>
+<p>3. Cho dừa vào trộn đều, tiếp theo cho bột hạnh nhân, trộn cho hòa quyện. Ta sẽ có một hỗn hợp tương đối đặc và kết dính. Vì dừa và hạnh nhân có thể hút ẩm khác nhau, khi làm các bạn hãy cho khoảng 2/3 lượng dừa và bột hạnh nhân vào trước, để theo dõi độ kết dính của hỗn hợp. Nếu thấy hỗn hợp đã tương đối đặc thì dừng lại. Tránh trường hợp dừa hút ẩm quá nhiều sẽ làm hỗn hợp bị khô và rời rạc, khó tạo hình đế bánh.</p>
+
+
+<p><a href="http://www.flickr.com/photos/55490207@N05/12068567275/" title="IMG_4552 by LinhTrang9185, on Flickr"><img alt="IMG_4552" class="aligncenter" height="333" loading="lazy" src="http://farm6.staticflickr.com/5473/12068567275_96c21ec5a5.jpg" width="500"/></a></p>
+<p>4. Cho bột vào khuôn, dùng đầu ngón tay dàn đều và ép bột vào đáy khuôn để tạo thành đế bánh.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12068858773/" title="IMG_4553 by LinhTrang9185, on Flickr"><img alt="IMG_4553" class="aligncenter" height="334" loading="lazy" src="http://farm6.staticflickr.com/5480/12068858773_58c6348d2c.jpg" width="500"/></a></p>
+<p>5. Nướng đế bánh ở nhiệt độ 155 – 160 độ C trong khoảng 25 – 30 phút, đến khi mặt bánh tương đối khô (nhưng không bị cứng), rìa bánh hơi chuyển nâu vàng.</p>
+<p>Trong khi đợi nướng đế bánh thì chuẩn bị phần cheesecake.</p>
+<p><strong>B. Phần Marbled Cappuccino Cheesecake</strong></p>
+<p>1. Cho cream cheese vào âu. Dùng phới lồng hoặc thìa đánh nhẹ trong khoảng 45 – 60 giây cho kem mịn mượt. Cho kem tươi và đường vào trộn đều. Tiếp theo, cho các nguyên liệu còn lại gồm trứng, cà phê và vanilla vào, trộn đều (lưu ý không trộn quá nhiều).</p>
+<p>2. Cho cà phê và chocolate trong phần C (hoặc cacao thay thế) vào bát. Quay lò vi sóng hoặc chưng cách thủy cho chocolate tan chảy, quấy đều đến khi các nguyên liệu hòa quyện (nếu dùng lò vi sóng, lưu ý khoảng 20 – 30 giây phải lấy ra kiểm tra một lần, tránh để chocolate bị cháy). Để nguội.</p>
+<p>3. Múc khoảng 20 – 25 ml hỗn hợp cheesecake ở (1) (tương đương khoảng 1.5 Tbsp), trộn đều với phần chocolate cafe (<strong>đã để nguội) </strong>ở (2). Quấy đều.</p>
+<p>Nếu đế bánh chưa nướng xong, có thể cho phần (1) vào tủ lạnh để kem đặc bớt.</p>
+<p><strong> C. Hoàn thiện</strong></p>
+<p>1. Sau khi đế bánh đã nướng xong, lấy ra ngoài. Hạ lò nướng xuống 150 độ C. Đun nước sôi để nướng cách thủy.</p>
+<p>2. Nhẹ nhàng đổ phần cheesecake lên trên đế bánh.</p>
+<p>3. Dùng thìa múc từng muỗng cheese chocolate cafe ở B.(3), nhẹ nhàng đổ lên mặt phần cheesecake (lưu ý đổ nhẹ tay vì cheesecake khá lỏng, tránh để phần chocolate bị chìm xuống dưới). Đổ chocolate thành từng “miếng” tròn riêng biệt trên mặt lớp cheesecake rồi dùng 1 que tăm quấy vài đường, ta sẽ có họa tiết kiểu “marble”. Các bạn có thể xem thêm hướng dẫn tại đây: <a href="http://www.youtube.com/watch?v=5WRG10VykOw">http://www.youtube.com/watch?v=5WRG10VykOw</a></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12068858703/" title="IMG_4554 by LinhTrang9185, on Flickr"><img alt="IMG_4554" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7375/12068858703_682525a51f.jpg" width="500"/></a></p>
+<p>4. Đặt khuôn bánh vào trong 1 chiếc khay lớn hơn, đặt cả khay bánh vào trong lò. Đổ nước sôi vào khay sao cho nước ngập tối thiểu 1/2 độ cao của bánh bên trong khuôn. Nướng cách thủy ở nhiệt độ 150 độ C trong khoảng 40 – 45 phút, đến khi mặt bánh se lại nhưng vẫn hơi rung rinh. Cắm que thử vào giữa bánh thấy que ướt nhưng không có chất lỏng trào ra.</p>
+<p>* Lưu ý:</p>
+<p>– Nếu dùng khuôn đế rời thì nên bọc giấy bạc quanh khuôn để tránh nước tràn qua khe vào bên trong khuôn.</p>
+<p>– Với các loại cheesecake nói chung, không nướng bánh quá khô (ăn sẽ rất chán và bứ)</p>
+<p>– Nếu bánh có hiện tượng nứt mặt, nguyên nhân có thể do nhiệt trong lò quá cao hoặc bánh quá gần với lửa trên (=&gt; cách khắc phục: hạ nhiệt hoặc hạ thấp khay nướng…)</p>
+<p>5. Bánh chín lấy ra khỏi lò, để nguội trong khuôn rồi cho vào tủ lạnh để tối thiểu 2h. Khi ăn dùng dao sắc cắt dứt khoát, sau mỗi lần cắt nên dùng giấy hoặc khăn ẩm lau sạch dao rồi mới cắt tiếp. Bánh để lạnh, dùng trong 2 – 4 ngày.</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

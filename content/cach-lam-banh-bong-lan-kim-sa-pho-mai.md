@@ -1,0 +1,86 @@
+---
+title: "[VIDEO] Cách làm BÁNH BÔNG LAN KIM SA PHO-MAI"
+date: "2021-04-29"
+slug: "cach-lam-banh-bong-lan-kim-sa-pho-mai"
+categories: []
+tags: []
+image: "/wp-content/uploads/2021/04/cach-lam-banh-bong-lan-kim-sa-pho-mai-banner.jpg"
+description: "Theo mình thì đây là món bánh hợp với người Việt cả về hương vị lẫn hình thức. Bạt bánh xốp mềm, lớp nhân kim sa trứng muối bùi béo, sốt phomai nướng xém mặt thơm ngậy, thêm chút vị mằn mặn của chà bông và rong biển. Nói chung nếu bạn đã từng mê mẩn bánh bao kim sa, bông lan trứng muối, hay bất kì loại bánh nào có trứng muối thì chắc chắn cũng sẽ “phải lòng” bạn này"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400; color: #000000;">Món ăn hot hit dành cho team ở nhà không đi chơi dịp nghỉ lễ đây ạ ;)</span></p>
+<p><span style="font-weight: 400; color: #000000;">Theo mình thì đây là món bánh hợp với người Việt cả về hương vị lẫn hình thức. Bạt bánh xốp mềm, lớp nhân kim sa trứng muối bùi béo, sốt phomai nướng xém mặt thơm ngậy, thêm chút vị mằn mặn của chà bông và rong biển. Nói chung nếu bạn đã từng mê mẩn bánh bao kim sa, bông lan trứng muối, hay bất kì loại bánh nào có trứng muối thì chắc chắn cũng sẽ “phải lòng” bạn này 😉</span></p>
+<p><span style="font-weight: 400; color: #000000;">Cách làm rất đơn giản (tuy hơi nhiều công đoạn) nhưng thành phẩm lại cực kì cực kì xứng đáng, must try nhé cả nhà 😁😁</span></p>
+<h2><span style="color: #800000;">CÁCH LÀM BÁNH BÔNG LAN KIM SA PHO-MAI</span></h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu (cho 2 bánh tròn đường kính 10cm)</strong></span></p>
+<p><strong><span style="color: #000000;">A. Bạt bánh gato</span></strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="font-weight: 400; color: #000000;">– Bạt bánh gato cơ bản bất bại 4 trứng, khuôn chữ nhật kích thước 25x35cm, nướng ở 160 độ C trong khoảng 40 phút.</span></p>
+<p><span style="color: #000000;"><span style="font-weight: 400;">Công thức chi tiết phần bạt bánh gato bạn xem tại đây nhé: </span><a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/" style="color: #000000;"><span style="font-weight: 400;">/gateau-co-ban-bat-bai-no-fail-sponge-cake/</span></a></span></p>
+<p><span style="font-weight: 400; color: #000000;">– Sau khi bánh nguội, dùng khuôn ring chia thành các hình tròn bằng nhau. Mỗi bánh sẽ cần 3 lớp bạt, trong đó lớp ở giữa có một khoảng trống để sau này phun sốt vào. Với khay nướng này, mình cắt được 6 bạt bánh tròn.</span></p>
+<p><strong><span style="color: #000000;">* Lưu ý:</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">– Vì bánh có thêm nhiều loại sốt ngậy béo, sau khi hoàn thiện xong phần bạt bánh sẽ ngấm ẩm từ sốt nên bạt gato bất bại sẽ phù hợp hơn các loại bạt bánh vốn đã có độ ẩm cao (VD Gato Hong Kong). Tuy nhiên bạn có thể dùng bất kì CT bạt bánh nào tùy thích nhé. </span></p>
+<p><span style="font-weight: 400; color: #000000;">– Mình muốn làm bánh cỡ nhỏ (đường kính 10cm) nên làm bạt chữ nhật sau đó dùng khuôn ring để cắt bánh. Nếu bạn có sẵn khuôn tròn thì nướng luôn trong khuôn tròn, sau đó chia thành các lớp mỏng. </span></p>
+<p><span style="font-weight: 400; color: #000000;">Hoặc nếu nhà bạn có sẵn khuôn chiffon, có thể nướng 1 phần bột vào khuôn chiffon để làm riêng lớp giữa, như vậy sẽ không phí bạt bánh thừa. </span></p>
+<p><strong><span style="color: #000000;">B. Sốt phomai quét mặt bánh</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">12 gram bơ động vật, không muối </span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">15 gram kem tươi (whipping cream)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">5 gram mật ong</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 lát phomai cheddar (loại phomai bán trong siêu thị hay dùng để kẹp sandwich)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">5 gram bột phomai (không bắt buộc)</span></em></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;"><strong>*Lưu ý</strong>: Mình dùng bột phomai Wakodo Nhật Bản, các bạn có thể mua tại shopee hoặc Tiki. Nếu không mua được thì bỏ qua nhưng nếu có sẽ thơm mùi phomai hơn rất nhiều.</span></p>
+<p><strong>C. <span style="color: #000000;">Sốt kim sa trứng muối</span></strong></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">5 lòng đỏ trứng muối</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">25 gram bơ động vật, không muối</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram nước cốt dừa</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">20 gram kem tươi (whipping cream)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 gram sữa đặc</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">30 gram sữa bột</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 thìa cafe (3 gram) bột custard/bột sư tử</span></em></li>
+</ul>
+<p><strong>D. <span style="color: #000000;">Phần ruốc rong biển bao ngoài bánh</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">20 gram chà bông (ruốc heo) trộn đều với rong biển</span></em></li>
+</ul>
+<p><strong><em><span style="color: #000000;">Mình dùng rong biển sấy tẩm gia vị, mọi người có thể dùng rong biển nào tùy thích nhé.</span></em></strong></p>
+<p><strong><span style="color: #000000;">*Lưu ý: </span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">– Cho thêm một chút bột custard/bột sư tử giúp bánh có màu vàng hơn, có mùi thơm hơn, nếu không mua được/không thích bột này các bạn có thể bỏ qua. </span></p>
+<p><span style="font-weight: 400; color: #000000;">– Dùng bơ động vật giúp bánh thơm ngon hơn rất nhiều, KHÔNG nên dùng các loại bơ thực vật như Tường An hay Meizan.</span></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/0ON9c_TIcqE" width="560"></iframe></div>
+<p><span style="font-weight: 400; color: #000000;">1. Chuẩn bị bạt bánh</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Mỗi bánh sẽ cần 3 lớp bánh, trong đó lớp ở giữa có lỗ rỗng để phun sốt. </span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nếu thích nhiều sốt, bạn có thể làm lớp giữa dày hơn, tuy nhiên không nên cho quá nhiều khi ăn sẽ hơi ngấy.</span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Sốt phomai quét mặt bánh</span></p>
+<ul>
+<li><span style="font-weight: 400; color: #000000;"> Cho toàn bộ nguyên liệu vào âu.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Đun một nồi nước sôi lăn tăn, đặt âu lên miệng nồi, khuấy đều tới khi nguyên liệu tan chảy và hòa quyện hoàn toàn.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Giữ ấm tới khi dùng. Nếu chưa kịp làm,  phomai bị đông thì cách thủy lại cho phomai chảy ra.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Phết sốt phomai lên 1 lớp bạt bánh, lớp này sẽ dùng để đặt lên trên cùng. </span></li>
+<li><span style="font-weight: 400; color: #000000;"> Nướng bánh ở 190 độ C trong khoảng 5 – 7 phút (lò nướng làm nóng trước 20 phút). Đặt khay bánh sát với lửa trên, chú ý quan sát tới khi thấy lớp mặt bánh hơi xém thì lấy ra luôn.</span></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;">3. Sốt kim sa trứng muối</span></p>
+<ul>
+<li><span style="font-weight: 400; color: #000000;"> Lòng đỏ trứng muối rửa sạch, hấp trong khoảng 10 – 12 phút tới khi trứng chín hoàn toàn.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Cho bơ, nước cốt dừa, kem tươi, sữa đặc vào nồi, khuấy đều trên lửa nhỏ tới khi bơ tan hết, hỗn hợp ấm nóng, KHÔNG đun sôi. Vì sốt này sẽ dùng trực tiếp nên bước này giúp tiệt trùng các loại nguyên liệu bơ sữa.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Cho trứng muối, hỗn hợp bơ sữa, bột sữa, bột custard vào máy xay, xay tới khi hỗn hợp mịn mượt.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Lọc lại hỗn hợp qua rây để loại bỏ các phần trứng chưa nhuyễn, giúp nhân mịn mượt hơn. </span></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;">4. Hoàn thiện bánh</span></p>
+<ul>
+<li><span style="font-weight: 400; color: #000000;"> Dùng chối phét sốt kim sa đều khắp mặt lớp bạt bánh dùng làm đế.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Đặt lớp giữa (có lỗ rỗng) lên, ấn nhẹ cho bạt dính vào nhau. Phun sốt kim sa vào phần lỗ rỗng.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Tiếp tục phết đều sốt kim sa lên lớp bánh thứ 2 rồi cho lớp mặt bánh lên. Phết sốt đều khắp phần thành bánh rồi phủ ruốc rong biển lên. </span></li>
+<li><span style="font-weight: 400; color: #000000;"> Bánh nên để qua tối thiểu 3 – 4 giờ (nhiệt độ phòng) cho sốt ngấm vào cốt bánh ăn sẽ ngon hơn. Bánh bọc kín có thể bảo quản trong ngăn mát tủ lạnh 3 – 4 ngày, trước khi ăn nên quay nóng lại bằng lò vi sóng khoảng 30 giây cho phần sốt chảy ra. </span></li>
+</ul>
+<p> </p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

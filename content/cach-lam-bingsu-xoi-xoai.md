@@ -1,0 +1,76 @@
+---
+title: "Cách làm BINGSU XÔI XOÀI"
+date: "2019-06-08"
+slug: "cach-lam-bingsu-xoi-xoai"
+categories: []
+tags: []
+image: "/wp-content/uploads/2019/06/cách-làm-bingsu-xôi-xoài-bingsu-mango-sticky-rice-recipe-banner-610x350.jpg"
+description: "Cách làm bingsu xôi xoài: Một sự kết hợp cực kì tuyệt vời giữa món kem đá bào Bingsu với Xôi xoài dẻo thơm, thêm phần kem cheese thơm ngậy béo"
+---
+
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #000000;">Mùa hè đã đến và cũng là lúc nghĩ ra trăm phương ngàn kế để sống sót trong ngày nắng. Nóng thế này, các món nước và lạnh là lựa chọn đầu tiên, và có lẽ là duy nhất với nhiều bạn, chớ với kiểu thời tiết trong nhà xấp xỉ bốn chục độ, ra đường lên đến gần năm chục này, nghĩ tới việc bật bếp đã ngại rồi chứ đừng nói gì đứng nướng bánh :(</span></p>
+<p><span style="color: #000000;">Món của ngày hôm nay là mình tình cờ nhìn thấy ở một cửa hàng ở Hà Nội. Nó là sự kết hợp giữa món kem đá bào Bingsu từ Hàn Quốc với xôi xoài của Thái Lan. Mới đầu nghe có thể thấy hơi dị nhưng đây là một sự kết hợp cực kì hay ho đấy. Xôi xoài dẻo thơm ngon ngọt lịm vị xoài tươi với cốt dừa, ăn kèm kem đá hợp ơi là hợp, hơi giống kiểu món kem xôi. Đá bào của tụi mình cũng có vị xoài sữa nên rất thơm ngon, và vì là đá nên chắc chắn là rất tuyệt cho kiểu thời tiết hiện tại. À và không thể bỏ qua kem cheese ngòn ngọt chua chua trên mặt nữa. </span></p>
+<p><span style="color: #000000;">Món này làm không có tí nào khó cả, và xoài ở VN đang rẻ và ngon vô biên, nên các bạn thử xem sao nhé ;) </span></p>
+<h2><span style="color: #000000;">CÁCH LÀM BINGSU XÔI XOÀI </span></h2>
+<p><span style="color: #993300;"><strong>Nguyên liệu</strong></span></p>
+<p><strong><span style="color: #000000;">A. Xôi xoài cốt dừa</span></strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em><span style="color: #000000;">100 gram gạo nếp</span></em></li>
+<li><em><span style="color: #000000;">55 ml nước cốt dừa</span></em></li>
+<li><em><span style="color: #000000;">35 gram đường</span></em></li>
+<li><em><span style="color: #000000;">2 gram/ ½ tsp muối</span></em></li>
+</ul>
+<p><strong>B. Đá bào xoài</strong></p>
+<ul>
+<li><em><span style="color: #000000;">500 ml sữa tươi không đường </span></em></li>
+<li><em><span style="color: #000000;">70 gram sữa đặc</span></em></li>
+<li><em><span style="color: #000000;">200 gram xoài xay</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">C. Kem phomai</span></strong></p>
+<ul>
+<li><em><span style="color: #000000;">30 ml sữa tươi không đường </span></em></li>
+<li><em><span style="color: #000000;">7 gram bơ động vật, không muối (có thể bỏ qua) </span></em></li>
+<li><em><span style="color: #000000;">7 gram đường</span></em></li>
+<li><em><span style="color: #000000;">35 gram creamcheese/ kem pho-mai, để mềm ở nhiệt độ phòng (không nên thay bằng pho-mai bò cười) </span></em></li>
+<li><em><span style="color: #000000;">1 nhúm nhỏ muối</span></em></li>
+<li><span style="color: #000000;"><em>70 ml kem tươi lạnh (whipping cream 30 – 40% béo) </em></span></li>
+</ul>
+<p><strong><span style="color: #000000;">D. Sốt xoài</span></strong></p>
+<ul>
+<li><em><span style="color: #000000;">250 gram thịt xoài xay nhuyễn</span></em></li>
+<li><em><span style="color: #000000;">80 ml nước</span></em></li>
+<li><em><span style="color: #000000;">30 gram đường (điều chỉnh theo khẩu vị)</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><span style="color: #000000;">Mời các bạn xem cách làm Bingsu Xôi Xoài trong video dưới đây. Nếu không xem được video ở dưới, bạn có thể xem trực tiếp tại <a href="https://youtu.be/En8eoKBV-gs"><strong>link này</strong></a>. Ở phía dưới là tóm tắt các bước làm bánh. </span></p>
+<p><span style="color: #000000;"><div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/En8eoKBV-gs" width="560"></iframe></div></span></p>
+<p><strong><span style="color: #000000;">A. Xôi xoài dừa</span></strong></p>
+<p><span style="color: #000000;">1. Vo sạch gạo nếp. Ngâm gạo với nước trong khoảng 5 – 6 giờ hoặc qua đêm.</span></p>
+<p><span style="color: #000000;">2. Đổ gạo ra rá, xóc cho ráo nước. Cho gạo vào xửng hấp đang sôi, hấp đến khi gạo chín thành xôi dẻo mềm. Lưu ý, khoảng 20 phút mở vung đảo lại cho xôi được chín đều. Sau khi xôi đã chín, múc ra bát. </span></p>
+<p><span style="color: #000000;">3. Đổ nước cốt dừa, đường và muối vào nồi, đun ở lửa vừa đến khi đường tan hết, hỗn hợp gần sôi, nếm lại cho vừa khẩu vị. Đổ hỗn hợp này vào bát xôi vào trộn đều.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #000000;">Lưu ý: Tùy vào độ nở của gạo mà có thể không cần dùng hết chỗ nước cốt dừa. Cho từ từ nước cốt dừa nến khi xôi hơi nhão một chút thì dừng lại.</span></p>
+<p><span style="color: #000000;">4. Dùng giấy bạc đậy kín miệng âu và ủ trong 20 phút. Sau 20 phút đảo đều rồi tiếp tục đậy lại để nghỉ thêm 20 phút nữa. Thời gian ủ này sẽ giúp xôi ngấm nước cốt dừa.</span></p>
+<p><strong><span style="color: #000000;">B. Đá bào vị xoài</span></strong><span style="color: #000000;"> </span></p>
+<p><span style="color: #000000;">1. Cho tất cả các nguyên liệu trong phần B vào cối, xay đến khi hỗn hợp hòa quyện hoàn toàn. Chia vào khay đá và để trong tủ đông đến khi đông đá hoàn toàn. <span style="color: #ff0000;">Lưu ý: Nên làm đá từ sớm để đá có thời gian đông hẳn (khoảng 3 – 4 giờ)</span>. </span></p>
+<p><strong><span style="color: #000000;">C. Phần kem phomai</span></strong></p>
+<p><span style="color: #000000;">1. Cho sữa tươi, bơ, cream cheese, đường, muối vào nồi. Đun trên lửa nhỏ đến khi các nguyên liệu tan hết thì dừng lại. Lưu ý không được đun sôi. Để hỗn hợp nguội hoàn toàn. Nếu hỗn hợp còn hơi lổn nhổn, rây qua rây cho mịn. </span></p>
+<p><span style="color: #000000;">2. Đánh kem tươi đến khi kem bông mềm. Vì lượng kem nhỏ nên đánh bằng tay khá là nhanh và không mệt. Các bạn có thể tham khảo các đánh kem trong bài <a href="/cach-lam-kem-tuoi-danh-bong-va-cach-chua-kem-tuoi-tach-nuoc/"><strong>cách đánh bông kem tươi</strong></a> nhé</span>.</p>
+<p><span style="color: #000000;">3. Cho hỗn hợp kem cheese ở bước (1) vào trộn cùng kem tươi đã đánh bông. Lưu ý là kem cheese phải nguội hoàn toàn, nếu không sẽ làm cho kem tươi bị chảy. </span></p>
+<p><span style="color: #000000;">Phần kem này nếu có thì món ăn sẽ ngon hơn, nhưng nếu các bạn không mua được cream cheese thì có thể bỏ qua cũng được. Món ăn với 3 phần còn lại đã rất ngon rồi. Hoặc các bạn có thể dùng ít nước cốt dừa để ăn kèm thay cho phần kem này. </span></p>
+<p><strong><span style="color: #000000;">D. Phần sốt xoài</span></strong></p>
+<p><span style="color: #000000;">1. Cho các nguyên liệu vào nồi, nấu lửa vừa đến khi hỗn hợp sôi nhẹ thì nêm nếm lại đường cho vừa ngọt. Để nguội. </span><span style="color: #000000;"> </span></p>
+<p><strong><span style="color: #000000;">E. Hoàn thiện</span></strong></p>
+<p><span style="color: #000000;">1. Khi xoài đã đông thành đá, cho vào máy xay, tay ở tốc độ cao nhất đến khi đá mịn.</span></p>
+<p><span style="color: #ff0000;">Lưu ý: Phần đá xoài này có thành phần chủ yếu là sữa nên rất mềm và dễ mịn, tuy nhiên khá nhanh chảy. Không xay quá lâu, động cơ máy xay nóng sẽ làm chảy đá.</span></p>
+<p><span style="color: #000000;">2. Xếp 1 lớp đá bào đến khoảng ⅔ bát đựng, dàn đều 1 lớp xôi, xếp xoài cắt miếng lên trên xôi, tiếp phủ đá bào lên đến khi đầy bát. Phủ kem phomai và rắc hạnh nhân lát lên tùy thích.</span></p>
+
+
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

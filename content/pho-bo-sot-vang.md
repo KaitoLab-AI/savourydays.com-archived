@@ -1,0 +1,19 @@
+---
+title: "Phở bò sốt vang"
+date: "2012-03-30"
+slug: "pho-bo-sot-vang"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/03/PhoBoSotVang1.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Cuối tuần hình như ở nhà trời lại mưa lạnh. Bên mình thì đã bắt đầu lạnh trở lại rồi, từ 20 độ xuống còn 5 độ :-| Dưng mà các bạn Bỉ bảo như thế này mới là bình thường, trời nắng như mấy hôm vừa rồi là… không bình thường tí nào :D Cơ mà chẳng hiểu cái sự bình thường này kéo dài bao lâu nữa.. :-s Thi thoảng trời mưa cũng vui, vì mưa ở trong nhà nướng bánh cảm giác cực… thích :P Nhưng mà mưa với âm u nhiều quá thì tự kỉ lắm. Xong rồi tâm trạng cũng âm u theo thời tiết ấy.</p>
+<p>Trời lạnh rồi, nấu phở ăn đổi bữa nhé :) Phở bò sốt vang, cách nấu mình đã giới thiệu trong bài <strong><a href="/bo-sot-vang/">thịt bò sốt vang</a></strong> (đã được kiểm nghiệm và rì-viu bởi<a href="http://my.opera.com/bonnyqv/blog/show.dml/36126242"> chị Vân</a> ^^). Nếu có đuôi bò, nấu phở đuôi bò sốt vang cũng ngon, chỉ mỗi tội là phải ninh hơi lâu một tí thôi.</p>
+<p>Chúc cả nhà cuối tuần vui vẻ nhé.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7011199339/" title="IMG_3075-1 by LinhTrang9185, on Flickr"><img alt="IMG_3075-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7102/7011199339_b9d977f4bb_z.jpg" width="427"/></a></p>
+<div align="center" id="google-ads-body-post-mid">
+
+
+</div><!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

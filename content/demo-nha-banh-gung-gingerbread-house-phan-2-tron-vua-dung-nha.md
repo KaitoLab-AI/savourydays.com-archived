@@ -1,0 +1,66 @@
+---
+title: "Demo: Nhà bánh gừng (Gingerbread house) – Phần 2: Trộn vữa & Dựng nhà"
+date: "2011-11-28"
+slug: "demo-nha-banh-gung-gingerbread-house-phan-2-tron-vua-dung-nha"
+categories: []
+tags: []
+image: "/wp-content/uploads/2011/11/NhaBanhGung21.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><a href="/nha-banh-gung-gingerbread-house-ngoi-nha-khong-chi-cua-the-gioi-co-tich/">Giới thiệu: Nhà bánh gừng – Ngôi nhà không chỉ của thế giới cổ tích</a></p>
+<p><a href="/demo-nha-banh-gung-gingerbread-house-phan-1-dong-gach-xay-tuong/">Demo Nhà bánh gừng – Phần 1: Đóng gạch xây tường</a></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6414288683/" title="IMG_9786-1 by LinhTrang9185, on Flickr"><img alt="IMG_9786-1" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7148/6414288683_7889a5fba2.jpg" width="500"/></a></p>
+<p style="text-align: center;"> <em>Ảnh: Cổng và lối đi vào nhà – một trong những chi tiết mà mình rất thích ^-^</em></p>
+<p style="text-align: center;">————–</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p style="text-align: left;">(*) <span style="color: #ff0000;">Mùa Giáng sinh năm 2015 mình có “xây” một ngôi nhà bánh gừng khác, chỉnh sửa lại công thức cho phần bánh quy ngon hơn và quay video lại toàn bộ quá trình làm bánh, làm đường dính các mảnh tường và dựng, trang trí nhà. <a href="/cach-lam-nha-banh-gung-cong-thuc-moi-kem-video/" target="_blank"><strong>Cách làm nhà gừng mới tại ĐÂY</strong></a>. Có cả công thức và mẫu nhà, các bạn tham khảo nha :)</span></p>
+<p style="text-align: center;">————–</p>
+<p>Xong phần tường rồi, giờ thì bắt tay vào dựng nhà nhé ;) Làm nhà bánh gừng cũng giống như xây nhà ấy, đầu tiên là cần có mặt bằng để dựng nhà nè, nguyên vật liệu thì ngoài “gạch ngói” ra còn cần “xi măng” để ghép các mảnh gạch với nhau nữa :)</p>
+<p>Đầu tiên là chọn mặt bằng hay là nền để dựng nhà. Yêu cầu chung là mặt phẳng và đủ rộng để xây nhà (có thể thêm sân vườn hàng rào nữa). Các bạn có thể dùng một tấm <em>xốp, gỗ mỏng hoặc bìa cứng</em>… Trong số các chất liệu này thì có vẻ <em>xốp là đẹp và dựng nhà dễ nhất</em>. Rất <strong>không nên</strong> dùng những thứ quá mỏng hoặc trơn (chẳng hạn như mặt khay, mặt giấy bạc..). Mình ở bên này không tìm được xốp nên gỡ một cái hộp ra lấy miếng bìa rồi bọc giấy ở bên ngoài, cũng ổn :). Ngoaì ra, phần nền nhà không nhất thiết phải là hình chữ nhật hoặc hình vuông. Mình có nhìn thấy một vài ngôi nhà dựng trên một tấm bìa tròn rồi quây hàng rào quanh nhà, trông cũng rất hay và lạ.</p>
+<p>Vật liệu thứ hai cần chuẩn bị là “xi măng” để dính các mảnh tường nhà lại với nhau. “Xi măng” này thật ra là một loại đường tên là đường Icing, dạng lỏng, rất dẻo và dính, trắng tinh, để ngoài không khí một lúc thì sẽ khô cứng lại cho nên có thể giúp dính các mảnh tường bánh với nhau. Đường Icing còn có thể dùng để vẽ trang trí, đặc biệt là vẽ trang trí các miếng bánh gừng cho dịp Giáng sinh. Để làm đường Icing thì những thứ cần chuẩn bị là:</p>
+<ul>
+<li><em>180gram đường bột <strong>rây mịn </strong></em></li>
+<li><em>¼ teaspoon cream of tartar </em></li>
+<li><em>1 lòng trắng trứng gà </em></li>
+<li><em>Cốc có lót giấy ẩm</em></li>
+<li><em>Túi bắt kem &amp; đui bắt kem</em></li>
+</ul>
+<p>Với phần nguyên liệu này, có một vài “mở ngoặc” là:</p>
+<p>1. Đường bột nếu mua được đường Icing thì tốt (nó là dạng đường rất mịn pha thêm một chút bột ngô). Nếu không thì có thể dùng đường bột hoặc đường siêu mịn (super fine sugar, sugar powder). Hoặc có thể cho đường trắng bình thường vào máy và xay mịn.</p>
+<p>2. Cream of tartar có tác dụng giúp ổn định lòng trắng trứng khi đánh bông, các bạn có thể thay bằng 1/4 teaspoon nước cốt chanh + một nhúm nhỏ muối, hoặc 1/4 teaspoon dấm + một nhúm nhỏ muối.</p>
+<p>3. Lòng trắng trứng gà: nên dùng trứng gà loại to. Ngoài ra, chú ý là lòng trắng <span style="text-decoration: underline;"><strong>không đượ</strong></span>c dính lòng đỏ, nếu chẳng may bị lẫn một chút lòng đỏ thì có thể lấy vỏ trứng gạn phần lòng đỏ ra ngoài. Nếu bị lẫn nhiều thì thay bằng lòng trắng khác. <strong>Lý do:</strong> <em>lòng trắng sẽ không bông được nếu dính chất béo (bơ, dầu mỡ, lòng đỏ). </em></p>
+<p>4. Với định lượng như công thức trên mình làm được 1 túi đầy, đủ làm toàn bộ phần nhà của mình (thậm chí là vẫn còn thừa một ít cơ).</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><strong>Cách làm</strong></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6370285113/" title="3 by LinhTrang9185, on Flickr"><img alt="3" class="aligncenter" height="400" loading="lazy" src="http://farm7.staticflickr.com/6222/6370285113_ffe96707d8.jpg" width="500"/></a></p>
+<p>1. Cho lòng trắng trứng vào âu đánh trứng. <strong>Lưu ý:  </strong>cả âu đánh trứng lẫn que đánh đều phải <strong>sạch và khô, </strong>không được dính dù chỉ một chút <strong>chất béo (bơ, dầu mỡ, lòng đỏ..)</strong>.</p>
+<p><span id="more-1342"></span></p>
+<p>2. Dùng một chiếc nồi nhỏ, đun sôi 1 ít nước trong nồi. Sau khi nước sôi thì đặt âu trứng lên (hình 2). <strong>Lưu ý: </strong>đáy âu không chạm nước<strong>. </strong></p>
+<p>3. Khi trứng bắt đầu nóng ấm (khoảng 50-60 độ) thì lấy ra, để máy ở tốc độ chậm, đánh khoảng 15 giây. Khi trứng bắt đầu nổi bọt thì cho cream of tartar (hoặc các thứ thay thế) vào (hình 3). Tiếp tục đánh ở tốc độ chậm thêm khoảng 10-15 giây rồi tăng dần tốc độ lên cao.</p>
+<p><strong>Ghi chú</strong>: Bước đun cách thủy cho trứng ấm lên có thể bỏ qua, nhưng làm thì tốt hơn vì nó cũng giúp trứng bông tốt &amp; ổn định hơn.</p>
+<p>4. Khi trứng bông và bọt khí nhỏ hơn (li ti giống bọt xà phòng giặt) thì giảm tốc độ xuống chậm – vừa và từ từ cho đường vào (vừa cho đường vừa đánh – lưu ý thi thoảng vét thành và đáy âu) (hình 4 – 5).</p>
+<p>5. Đánh đến khi có hỗn hợp đường mịn và dẻo, khi nhấc que đánh lên thì đường chảy xuống đứt quãng và dính vào que đánh thành mảng chứ không chảy thành dòng liên tục như nước (hình 6-7). Ngoài ra, đường chảy xuống sau khoảng 10 – 15 giây sẽ hòa lẫn và chìm vào mặt hỗn hợp đường. Đường như vậy là đạt.</p>
+<p><strong>Ghi chú: </strong>Nếu hỗn hợp quá đặc thì cho thêm vài giọt nước, hỗn hợp quá lỏng thì cho thêm đường.</p>
+<p>Lượng đường này sẽ đủ (tương đối thoải mái) để xây nhà và vẽ thêm họa tiết trang trí. Nếu bạn có ý định vẽ thêm nhiều thứ như cây cỏ, hoa lá thì nên làm gấp đôi công thức để có thêm đường pha màu (xanh, đỏ…). Ngoài ra, nếu bạn muốn “xi măng” cùng màu với tường thì có thể pha màu nâu, nhưng mình thấy màu trắng đẹp hơn (vì rất giống tuyết :D).</p>
+<p>Đường Icing rất mau khô nên sau khi làm xong thì nên nhanh chóng cho vào túi bắt kem. Mình chuẩn bị một cái cốc có lót giấy ẩm ở đáy để trong khi dựng nhà hay trang trí, nếu không dùng thì cắm túi vào cốc, phần đầu túi sẽ được che bởi giấy ẩm. Ngoài ra các bạn cũng có thể bảo quản bằng cách cho đường vào túi buộc kín, hoặc cho vào hộp đậy nắp kín hoặc phủ một lớp khăn ẩm lên. Nếu để qua ngày đường bị tách nước thì các bạn có thể dùng máy trộn lại đến khi đường dẻo và dính trở lại.</p>
+<p>Để dựng nhà và trang trí thì mình dùng đui loại đầu tròn, đường kính 2mm. Vì trong nhà có sẵn nên mình dùng thôi, còn các bạn có thể cắt đầu túi kem khoảng 2-3mm cũng ổn rùi (đừng cắt to quá vì mình thấy đầu bắt kem to quá khi dính và trang trí các thứ sẽ không được đẹp lắm, trông nó không được thanh mảnh ý :D).</p>
+<p>Phù… thế là xong hoàn toàn phần nguyên liệu, giờ thì chính thức vào tiết mục hay nhất (à, gần hay nhất thôi, màn hay là ở cuối cùng cơ): <strong>Dựng nhà.</strong></p>
+<p>Trước khi dựng nhà thì có một gợi ý trong công thức gốc là <em>thắp điện cho nhà bằng cách đặt đèn nhỏ bên trong nhà</em> (dùng đèn chứ không dùng nến nhé). Nếu các bạn muốn trong nhà có điện sáng thì cần chuẩn bị từ trước khi dựng nhà. Cụ thể là chọc 1 lỗ trên nền nhà, luồn đèn từ dưới lên. Dây điện chạy chìm theo mặt dưới của nên nhà (cố gắng làm sao cho nền nhà không bị cập kênh). Thử lại đèn trước khi dựng nhà, nên chọn loại đèn nào có ánh sáng nhẹ và ấm áp.</p>
+
+
+<p>Nhà theo mẫu của mình chỉ có 6 mảnh lớn nên dựng thì đơn giản thôi. Đầu tiên nên bắt đầu với mặt tiền, gắn với hai bên hông nhà rồi gắn với miếng mặt hậu. Tốt nhất là <em>nên trang trí và gắn cửa trước khi dựng nhà</em>, bởi vì như vậy sẽ nhanh và dễ hơn nhiều (mình thì vì lúc dựng nhà chẳng nghĩ ra ý tưởng gì để trang trí cho nên dựng tường trước – về sau trang trí đến là mệt :-&lt;). Mái nhà gắn lên sau cùng. Về thứ tự là như vậy, nhưng có một vài lưu ý là:</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6370285643/" title="4 by LinhTrang9185, on Flickr"><img alt="4" class="aligncenter" height="400" loading="lazy" src="http://farm7.staticflickr.com/6100/6370285643_84f2c70861.jpg" width="500"/></a></p>
+<p>1. Khi dựng nhà <strong>đừng nên</strong> tiết kiệm đường, đặc biệt là đường để dính các miếng tường với phần nền. Nhìn chung là sau khi gắn tường lên nền và dính các mảnh tường với nhau thì nên c<em>hạy thêm một dải đường dọc theo chân tường và theo các phần ghép các mảnh tường để đảm bảo nhà được dính chắc (</em>hình 3-6). À, mấy dải đường này nên chạy ở mặt trong nhà – phần không ai nhìn thấy nhé :)</p>
+<p>2. Khi dựng nhà rất nên <em>chuẩn bị các loại chai lọ nhỏ hoặc tương tự để đỡ các miếng tường</em> (như trong hình 2 :D). Tường nếu không dựng đứng thẳng và vuông góc thì khả năng sập sẽ cao. Do vậy sau khi dính tường vào nền thì các bạn nên <em>dùng chai lọ áp vào hai bên để giữ tường đứng thẳng (</em>hình 7-8<em>)</em>. Ngoài ra, có thể <em>dùng một hộp vuông áp vào góc nhà</em> để căn cho các bức tường vuông góc với nhau.</p>
+<p>3. <em>Mái nhà sẽ gắn vào sau cùng</em>. Nên để đường khô tối thiểu 2h mới gắn mái. Khi gắn mái nên sử dụng các loại chai lọ hoặc hộp để đỡ cho mái khỏi bị trượt. Trong trường hợp mái có trang trí vật nặng (bánh, kẹo..) thì sau khi gắn mái nên để qua đêm rồi mới tiếp tục trang trí mái. Mái nhà của mình chỉ vẽ vân cá nhưng mình gắn lên cuối cùng sau khi đã trang trí xong hết.</p>
+<p>4. Trong quá trình làm nhà nếu chẳng may có tấm nào bị vỡ thì dùng đường Icing gắn lại, để khô rồi dùng tiếp :D</p>
+<p>5. Như mình có nói trong phần trước, không nên làm nhà bánh gừng vào những ngày trời mưa hoặc có độ ẩm cao vì tường nhà dễ bị mềm, ỉu và tệ hơn là sập. Đợt vừa rồi làm nhà ở Baking Challenge mọi người cũng trao đổi với nhau về việc này, có một vài cách như là chặn giấy ăn sạch vào mặt trong tường để hút bớt ẩm, bảo quản nhà trong hộp kín, tủ lạnh, hoặc tủ rượu có đèn (đèn bật lên cũng có tác dụng sấy cho nhà khô).. Ngoài ra khi nướng bánh, sau khi bánh chín các bạn có thể tắt lò và để bánh trong lò thêm khoảng 3-5 phút để bánh cứng giòn hơn (nhưng nhớ canh cẩn thận để bánh không bị cháy nhé). Mình thì nghĩ đến mấy cái túi nhỏ hút ẩm hay được cho vào các túi đựng đồ khô. Nói chung là cái này tùy cơ ứng biến nha :)</p>
+<p>6. Cuối cùng – cái này là kinh nghiệm bản thân – khi dựng nhà rất nên chuẩn bị một con dao mũi nhọn, tăm tre hoặc tăm bông, trong trường hợp chẳng may run tay quệt xi măng lem nhem thì có cái để lau và sửa :D</p>
+<p>Hết phần 2 – <a href="/demo-nha-banh-gung-gingerbread-house-phan-3-trang-tri-va-mot-vai-y-tuong/">Phần 3 (chắc cũng là phần hay &amp; vui nhất :) ): Trang trí nhà &amp; một vài ý tưởng</a>.</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

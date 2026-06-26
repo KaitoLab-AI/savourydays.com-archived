@@ -1,0 +1,71 @@
+---
+title: "Bánh quy bơ (nhân Cranberry)"
+date: "2012-09-05"
+slug: "banh-quy-bo"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/09/BanhQuyBo.jpg"
+description: "cách làm bánh quy bơ thơm ngon xốp giòn với hình minh họa chi tiết các bước"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Tranh thủ được ngày nghỉ, ở nhà làm mấy mẻ bánh quy, đăng cái ảnh lên Facebook khoe trước, định bụng là cuối tuần có thời gian viết công thức sau, nhưng nhiều bạn hỏi thăm quá nên viết luôn cho nóng hổi vậy :)</p>
+<p>Bánh quy  bơ có lẽ là một trong những loại bánh quen thuộc và cơ bản nhất. Thành phần nguyên liệu không có gì đặc biệt, bánh làm cũng rất dễ, hầu như không thể hỏng. Bánh có nhiều cách tạo hình tùy điều kiện về dụng cụ và sự khéo tay của người làm, nhưng phổ biến nhất có lẽ vẫn là bánh tròn có vân hình hoa, thêm một miếng mứt quả khô ở giữa làm nhụy, không chỉ để trang trí mà còn giúp bánh thêm ngon và nhiều hương vị nữa.</p>
+<p>Mẻ bánh quy lần này mình làm hoàn toàn với bơ nhạt (bơ động vật), nhân là cranberry khô được rửa hết đường qua nước ấm, rồi ngâm với rượu Rum. Bánh nướng xong thì cả nhà cũng thơm ngào ngạt mùi bơ sữa, mùi vanilla và rượu, đi ngang qua dù kiềm chế lắm rồi nhưng lần nào cũng phải nhón một cái. Bánh nhìn qua tưởng cứng giòn nhưng hóa ra lại xốp, bùi bùi, mỗi miếng đều có cảm giác như vị bơ tan ra trên đầu lưỡi, và thêm chút chua chua của Cranberry nữa. Cả mẻ bánh mời đồng nghiệp nhân dịp… đầu năm học mới (mình làm việc trong trường học mà) được hưởng ứng rất nhiệt tình. Còn mấy chiếc bánh nướng lửa không đều bị xém cạnh chút xíu thì giữ lại để … uống trà đọc sách :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7936940054/" title="IMG_7066-1 by LinhTrang9185, on Flickr"><img alt="IMG_7066-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8456/7936940054_c3d4d6f2ec_z.jpg" width="432"/></a></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em>225 gram bơ  không muối/ bơ nhạt (unsalted butter) – để mềm ở nhiệt độ phòng (*)</em></li>
+<li><em>135 gram đường xay hoặc đường hạt mịn </em></li>
+<li><em>2 gram muối</em></li>
+<li><em>5 ml vanilla chiết xuất (vanilla essence)<br/>
+</em></li>
+<li><em>1 quả trứng gà (khoảng 50-55 gram không tính vỏ) – nhiệt độ phòng</em></li>
+<li><em>240 gram bột mì đa dụng (all purpose flour)</em></li>
+<li><em>Quả khô làm nhân &amp; rượu Rum ngâm quả (không bắt buộc)</em></li>
+</ul>
+<p>(*) <span style="text-decoration: underline;"><strong>Ghi chú:</strong></span><strong> </strong>Các bạn có thể sử dụng bơ thực vật để làm bánh, thay thế cho toàn bộ bơ động vật hoặc thay một phần. Nhưng bơ thực vật thường có sẵn muối nên khi làm các bạn nhớ bỏ muối ra khỏi công thức nhé.</p>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span></p>
+<ul>
+<li><em>Cân </em></li>
+<li><em>Âu trộn bột</em></li>
+<li><em>Máy đánh trứng</em></li>
+<li><em>Khay nướng bánh quy (<strong>không dùng khay đen kèm theo lò, sẽ dễ bị cháy đế bánh</strong>)</em></li>
+<li><em>Giấy nướng bánh hoặc tấm silicon nướng bánh</em></li>
+<li><em>Phới trộn bột</em></li>
+<li><em>Túi bắt kem</em></li>
+<li><em>Đui bắt kem </em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Cho bơ và muối vào âu. Để máy ở tốc độ chậm, đánh khoảng 30-60 giây cho bơ mềm nhuyễn.</p>
+<p>2. Cho đường vào âu bơ. Để máy ở tốc độ vừa, đánh đến khi bơ bông xốp, chuyển sang màu trắng ngà hoặc vàng nhạt (hình 2)</p>
+<p>* <strong>Ghi chú</strong>: B<em>ánh này không sử dụng bột nở, nên việc bánh nở và xốp nhiều hay ít phụ thuộc rất nhiều vào quá trình đánh bông bơ với đường, do việc đánh bông bơ đường sẽ giúp hình thành các bọt khí, khi nướng các bọt khí này sẽ giúp bánh nở và xốp hơn. Các bạn đánh bơ càng kĩ và càng đúng cách thì bánh sẽ càng nở nhiều và xốp. Để đánh bông bơ đường được dễ dàng và đúng cách thì có một và lưu ý nhỏ là:</em></p>
+<ul>
+<li><em>Bơ phải để mềm ở nhiệt độ phòng (khoảng 19-22 độ C), ấn vào thấy bơ mềm nhưng không chảy. </em></li>
+<li><em>Cho đường vào từng chút một, đánh nhuyễn rồi cho tiếp, không nên cho tất cả đường vào âu cùng một lúc. Thường mình làm nếu có thời gian thì hay rắc đường vào âu, cách này sẽ giúp bơ đường hòa quyện nhanh hơn. </em></li>
+</ul>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7936941054/" title="2012-09-03 by LinhTrang9185, on Flickr"><img alt="2012-09-03" class="aligncenter" height="375" loading="lazy" src="http://farm9.staticflickr.com/8461/7936941054_b6561179a7.jpg" width="500"/></a><br/>
+3. Cho trứng và vanilla vào âu. Đánh cho hòa quyện (hình 3)</p>
+<p>* <strong>Ghi chú</strong>: <em>Trứng phải ở nhiệt độ phòng, nếu không sẽ dễ gây hiện tượng ốc trâu (cảm giác như bơ tách nước thành các vụn nhỏ li ti, lợn cợn). </em></p>
+<p>4. Rây bột thành 2-3 phần vào âu. Để máy ở tốc độ chậm, đánh hòa quyện sau mỗi lần thêm bột. Nếu cảm thấy nặng tay có thể dùng phới trộn bằng tay đến khi hòa quyện (hình 4-5)</p>
+<p>5. Chuẩn bị khay nướng có lót tấm nướng bánh hoặc giấy nướng bánh. Nếu không có giấy nướng, có thể chống dính khay bằng cách quét 1 lớp bơ mỏng lên khay rồi rắc 1 lớp bột mỏng, úp ngược khay cho bột thừa rơi hết.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Cho bột vào túi bắt kem. Bắt thành các hình búp kem tròn (hình minh họa ở dưới). Để cả khay bột vào tủ lạnh khoảng 20-30 phút. Nếu nướng nhiều hơn một khay thì các khay còn lại cũng cho vào tủ lạnh. Nếu bột quá nhão (đặc biệt là vào mùa hè), các bạn cũng cho bột vào tủ lạnh khoảng 20-30 phút, để bột cứng hơn, sẽ dễ bắt thành hình hơn. Ngoài ra, nếu không có đui bắt kem, các bạn cũng có thể để bột vào tủ lạnh, đợi bột cứng hơn thì nặn thành các viên tròn, khi nướng bánh sẽ tự chảy ra thành hình dẹt.</p>
+<p>*<strong>Ghi chú</strong>:</p>
+<p>– <em>Mình dùng <a href="http://www.chefcentral.com/product/decorating-supplies/532737-3342/-2d-drop-flower-tip.html">đui 2D của Wilton</a> – có lẽ tương đương với đui hoa khép ở nhà. Các bạn có thể dùng đui sò hoặc sao, mở hoặc khép tùy theo sở thích nhé.</em></p>
+<p><em>– Việc để bánh vào tủ lạnh sẽ giúp bánh giữ hình dáng tốt hơn, hạn chế việc bánh chảy quá nhiều khi đưa vào nướng.  </em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7936940826/" title="2012-09-031 by LinhTrang9185, on Flickr"><img alt="2012-09-031" class="aligncenter" height="375" loading="lazy" src="http://farm9.staticflickr.com/8460/7936940826_0e1efa0d1b.jpg" width="500"/></a></p>
+<p>6. Bật lò nướng trước 10-15 phút, nhiệt độ 175-180 độ C. Nướng trong khoảng 12-15 phút đến khi rìa bánh chuyển sang màu vàng nâu.</p>
+<p>– <em>Nếu có nhiều khay bánh cũng không nên nướng hai khay cùng một lúc, trừ phi bạn đã quen với việc nướng nhiều hơn một khay, do nướng kiểu này nhiệt phân tán không đều, có thể làm bánh chín không đều, cái bị cháy, cái bị sống. </em></p>
+<p>– Việc nướng ở nhiệt độ và thời gian bao nhiêu còn tùy thuộc vào lò. Nếu là lò nhỏ, có thể sẽ cần giảm nhiệt độ và nướng ở thời gian lâu hơn.</p>
+<p>Chúc các bạn thành công :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7936940600/" title="IMG_7048-1 by LinhTrang9185, on Flickr"><img alt="IMG_7048-1" class="aligncenter" height="323" loading="lazy" src="http://farm9.staticflickr.com/8462/7936940600_c9423de99c.jpg" width="500"/></a></p>
+<p>——-</p>
+<p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ email: <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi hành động cố tình vi phạm sẽ chịu xử lí theo quy định của pháp luật.</span></strong></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

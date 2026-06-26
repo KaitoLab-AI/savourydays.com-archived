@@ -1,0 +1,99 @@
+---
+title: "Chocolate Coffee Gateau & Flan/ Caramel"
+date: "2013-05-17"
+slug: "chocolate-coffee-gateau-flan-caramel"
+categories: []
+tags: []
+image: "/wp-content/uploads/2013/05/GateauFlan.jpg"
+description: "chocolate gateau flan, cách làm caramel"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
+<p>——————————————</p>
+<p>Đợt tháng 3 lúc mình đang ở Việt Nam, có một thời gian thấy trên FB ngập tràn loại bánh này, nhà nhà làm, người người làm. Làm cho “có một đứa” cứ phải ngồi nhìn rồi thèm vì muốn lắm mà không bon chen được (tại ở VN nhà mình không có lò nướng). Cho nên qua bên này có cơ hội là phải thử ngay.</p>
+<p>Nếu chấm điểm thì mình nghĩ loại bánh này sẽ nhận được ít nhất là điểm 8 trên 10. Bởi vì ý tưởng rất sáng tạo và “lạ”, tầng dưới là gateau, trên là flan (kem caramel), nhìn thì cảm giác phức tạp nhưng làm lại không hề khó, chỉ cần nướng trong một khuôn, có lẽ còn nhanh hơn nướng gateau rồi trét kem, hương vị tất nhiên là không chê vào đâu được vì flan và gateau đều là các món ngon, và hợp nhau nữa.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Bánh lần này mình làm sử dụng cốt Gateau chocolate cà phê, là cốt bánh biến tấu từ cốt Sponge cơ bản (đánh trứng nguyên quả), thay đổi nguyên liệu để thành cốt bánh có vị chocolate và cà phê. Phần trên là công thức Flan cơ bản. Cá nhân mình rất thích sự kết hợp này vì mình cảm giác nó tạo cho miếng bánh có một sự cân bằng hoàn hảo. Đế bánh đậm vị Chocolate, cảm giác hơi “nặng” một chút được bù lại bằng phần Flan mềm nhẹ bên trên. Cách làm cốt bánh và Flan mình đều đã đăng bài rồi, nhưng để mọi người tiện theo dõi thì mình copy &amp; paste lại ở đây nhé.</p>
+<p>(*) <em>Về nguyên tắc thì loại bánh này chỉ cần một phần Flan và một phần cốt Gateau, các bạn có thể sử dụng công thức khác cho phần Flan. Nhưng với cốt Gateau, nên dùng cốt Sponge (Gateau cơ bản), tránh dùng các cốt bánh có lượng ẩm nhiều như Chiffon hay Gateau Nhật Bản vì sẽ có thể làm cho phần Flan bị lỏng (nếu muốn dùng các cốt này, có lẽ cần điều chỉnh lượng nước trong phần Flan).</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8747805900/" title="Chocolate coffee gateau &amp; Flan (Creme Caramel) by LinhTrang9185, on Flickr"><img alt="Chocolate coffee gateau &amp; Flan (Creme Caramel)" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7292/8747805900_a28d157373_z.jpg" width="449"/></a></p>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn tròn đế liền đường kính 18-20cm</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><span style="color: #000000;"><strong>A. Phần Flan</strong></span></p>
+<p><strong>* Phần Caramel</strong></p>
+<ul>
+<li><em>35-70gram đường</em></li>
+<li><em>Nước lạnh</em></li>
+<li><em>1 thìa cafe nước cốt chanh</em></li>
+</ul>
+<p>(*) <strong>Ghi chú</strong>: <span style="color: #ff0000;">Nếu bạn thích ăn nước Caramel cháy hẳn (có vị ngọt và hơi đắng) thì nên dùng khoảng 60-70gram đường. Nếu chỉ ăn nước Caramel chưng non (ngọt nhiều, đắng ít) thì dùng 35-45 gram đường để tránh bị quá nhiều nước Caramel ngấm xuống phần đế bánh, làm đế bánh bị ướt.</span></p>
+<p><strong>* Phần Flan</strong></p>
+<ul>
+<li><em>3 quả trứng gà (60gram/ quả cả vỏ hoặc 50gram/ quả không tính vỏ)</em></li>
+<li><em>2 lòng đỏ trứng gà (20gram/ lòng đỏ)</em></li>
+<li><em>70gram đường</em></li>
+<li><em>400ml sữa tươi không đường</em></li>
+<li><em>150ml kem tươi (whipping cream)</em></li>
+<li><em>1 thìa cafe/ teaspoon (5ml) vanilla extract (vani dạng lỏng)</em></li>
+<li><em>1 nhúm muối</em></li>
+</ul>
+<p><strong>B. Phần Chocolate Gateau</strong></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<ul>
+<li><em>55gram bột mì đa dụng (all purpose flour)</em></li>
+<li><em>15gram bột cacao nguyên chất không đường</em></li>
+<li><em>20gram dầu ăn</em></li>
+<li><em>10gram sữa tươi hoặc nước lạnh</em></li>
+<li><em>1/2 thìa cafe vanilla extract</em></li>
+<li><em>1/2 thìa cafe coffee extract (chiết xuất cà phê)</em></li>
+<li><em>3 quả trứng gà (60gram/quả nguyên vỏ hoặc 50gram/quả không tính vỏ)</em></li>
+<li><em>70gram đường</em></li>
+<li><em>một nhúm nhỏ muối</em></li>
+</ul>
+<p>(*) <strong>Ghi chú</strong>: Chiết xuất cà phê không phải là nguyên liệu bắt buộc, có thể bỏ qua. Nếu không có thì các bạn có thể thay 10gram sữa tươi bằng 10gram nước cà phê đặc.</p>
+<p><strong>Cách làm</strong></p>
+<p><em>Mình dùng lại công thức cũ và hình cũ, nên có một số hình không phù hợp với nội dung bài lắm. Ngoài ra, có một số lưu ý khi làm Flan và Sponge, mình lược bớt để bài đỡ dài, nếu cần các bạn có thể xem lại tại các bài sau nhé:</em></p>
+<ol>
+<li> /demo-flan-creme-caramel-kem-caramel/</li>
+<li>/nhat-ky-hoc-lam-banh-chia-se-kinh-nghiem-lam-flan-creme-kem-caramel/</li>
+<li>/demo-genoise-cot-banh-bong-lan-ga-to-co-ban/</li>
+</ol>
+<p>Chuẩn bị khuôn bánh và khay đựng nước để nướng cách thủy. Mình dùng khuôn tròn đế liền đường kính 20cm, thấy độ cao bánh là vừa phải và cân bằng. Nếu các bạn dùng khuôn có kích thước khác thì chia diện tích đáy để tăng công thức lên nhé. Ngoài ra, dùng khuôn đế liền tốt hơn khuôn đế rời vì khuôn đế rời có thể bị rò rỉ nước từ phần Flan.</p>
+<p><strong>A. Làm phần Flan</strong></p>
+<p>1. Chưng nước đường Caramel</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6537571999/" title="2011-11-301 by LinhTrang9185, on Flickr"><img alt="2011-11-301" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7031/6537571999_04c52efc3d.jpg" width="500"/></a></p>
+<p>– Cho đường vào nồi nhỏ (bạn nào chưa quen thì nên dùng nồi sáng màu, sẽ dễ nhìn màu của nước đường cháy hơn là nồi mình dùng trong hình). Đổ nước vừa ngập đường, <em>lắc nhẹ nồi</em> cho đường và nước dàn đều.</p>
+<p>– Để lửa vừa – to, bắc nồi lên bếp và <em>để nguyên</em>, không cần đụng vào gì cả, thi thoảng có thể lắc nhẹ nồi cho nước và đường cháy đều thôi. Đầu tiên nước sẽ sôi, sủi bong bóng to, rồi nước sẽ bay hơi bớt. Cuối cùng là nước đường từ từ chuyển sang màu vàng nhạt, màu mật ong rồi đậm hơn thành màu cánh gián. Đợi nước đường có màu sậm hơn mật ong một tí tẹo thì các bạn bắc ra khỏi bếp, cho nước chanh vào, đổ vào khuôn và lắc cho nước đường dàn đều đáy khuôn. Để cho nước đường <strong>đông cứng hẳn lại</strong>.</p>
+<p><strong>2. Làm Flan </strong></p>
+<p>– Cho 3 trứng + 2 lòng đỏ vào âu. Dùng phới lồng cầm tay nhẹ nhàng đánh trứng cho trứng tan bớt. <em>Chỉ đánh tan trứng, không đánh bông.</em></p>
+<p>– Cho đường, sữa &amp; kem tươi vào nồi. Đun lửa vừa và khuấy đều tay. Đến khi kem sữa ấm nóng, đường tan hết thì bắc xuống.</p>
+<p>– Từ từ đổ kem sữa vào âu trứng đường, vừa đổ vừa nhẹ nhàng khuấy đều.</p>
+<p>– Lọc hỗn hợp kem sữa qua rây để loại hết các lợn cợn trứng nếu có. Cho muối và vani. Quấy đều, để sang một bên.</p>
+<p><strong>B. Làm cốt bánh Gateau Chocolate</strong></p>
+
+
+<p>Làm nóng lò ở 165 độ C – hai lửa.</p>
+<p>1. Rây bột mì &amp; bột cacao vào bát, dùng phới lồng cầm tay trộn thật đều.</p>
+<p>2. Cho dầu ăn, sữa (hoặc nước), vanilla &amp; cà phê vào một cái bát khác, quấy đều.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8251070805/" title="Yule log by LinhTrang9185, on Flickr"><img alt="Yule log" class="aligncenter" height="400" loading="lazy" src="http://farm9.staticflickr.com/8345/8251070805_5c2481dea0.jpg" width="500"/></a></p>
+<p>3. Chuẩn bị một chiếc nồi nhỏ có ít nước, sao cho có thể đặt âu đánh trứng lên miệng nồi và đáy âu không chạm nước. Đun sôi nước trong nồi, hạ nhỏ lửa đủ để nước sôi lăn tăn. Cho trứng, đường, muối vào âu. Đặt âu lên miệng nồi và dùng phới lồng đánh trứng<strong> quấy lên tục</strong> đến khi hỗn hợp trứng nóng ấm, đường tan hết, <em>lưu ý là không đun quá nóng vì trứng có thể sẽ bị chín.</em></p>
+<p>* <strong>Việc đánh trứng ấm sẽ giúp trứng bông tốt hơn, nhưng nếu không có thời gian, các bạn có thể bỏ qua khâu này</strong>.</p>
+<p>Bắc âu ra khỏi nồi, dùng máy đánh trứng. Bắt đầu từ tốc độ chậm và tăng dần, đánh đến khi trứng bông đặc mịn, hoàn toàn không thấy bọt khí. Khi nhấc que đánh lên thấy trứng chảy xuống tạo thành dòng như thả dây ruy-băng xuống. Vệt trứng sẽ mất khoảng 10-15 giây trứng mới hòa tan vào hỗn hợp.</p>
+<p><strong>Việc đánh bông trứng là phần quan trọng nhất với làm cốt bánh Gateau theo cách này</strong>. Không giống như lòng trắng trứng (đánh lâu có thể bị hỏng), các bạn có thể đánh cả quả trứng trong một thời gian khá lâu mà không có vấn đề gì. Trứng càng bông đặc, khi trộn với bột càng dễ và bọt khí cũng ít bị vỡ hơn. các bạn có thể xem thêm hướng dẫn và các lưu ý tại <a href="/trung-va-cac-kieu-danh-bong-trung-phan-1/">bài viết này</a> và <a href="/demo-genoise-cot-banh-bong-lan-ga-to-co-ban/">bài viết về Genoise</a>.</p>
+<p>4. Từ từ đổ phần dầu ăn và nước vào âu. Để máy ở tốc độ thấp nhất, vừa đổ vừa đánh đều. Nếu không quen có thể đổ 1-2 thìa cafe một lần, đánh đều rồi tiếp tục đổ. Nếu các bạn đánh trứng đủ bông thì bước này sẽ làm rất dễ dàng, bột hoàn toàn không bị lỏng ra sau khi thêm dầu và nước.</p>
+<p>5. Chia bột thành 3 phần. Rây từng phần vào âu, dùng spatula trộn đều theo kĩ thuật fold <em>(xúc và đảo phới từ dưới lên để trứng phủ lên bột, tuyệt đối không quấy mạnh tay vì sẽ làm vỡ bọt khí trong trứng, bánh sẽ không nở được hoặc nở kém</em>). Lưu ý xúc spatula sâu xuống đáy âu, để hỗn hợp được trộn đều, tránh để bột cacao lắng xuống đáy.</p>
+<p>Kỹ thuật fold bột các bạn có thể xem tại <a href="http://www.youtube.com/watch?v=vP4vbktd-PM"><strong>link này</strong></a>. Vì bột có nhiều cacao nên sau khi trộn xong các bạn sẽ thấy hỗn hợp bột không hoàn toàn là màu đen mà có thể có các sợi đen không đều nhau như trong hình. Đây là hiện tượng bình thường. Chỉ cần các bạn trộn được hết bột với trứng, không bị bột lắng ở đáy âu và sau khi trộn xong hỗn hợp vẫn còn đầy âu, không bị xẹp là thành công</p>
+<p>(*) <em><strong>Ghi chú</strong></em>: nếu trứng đánh rất bông đặc thì có thể trộn bột bằng máy ở tốc độ thấp nhất. Lưu ý rây bột đều khắp mặt âu và cố gắng trộn trong thời gian ngắn nhất có thể. Sau khi trộn xong thì dùng phới fold thêm vài nhát để vét cho sạch bột bám trên thành và đáy âu.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8251071261/" title="1 by LinhTrang9185, on Flickr"><img alt="1" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8490/8251071261_689484a5e2.jpg" width="500"/></a></p>
+<p><strong>C. Nướng bánh</strong></p>
+<p>1. Đun nước sôi và chuẩn bị khay để nướng cách thủy. Nên lót thêm một chiếc khăn ở đáy khay để hạn chế rỗ cho Flan. Các lưu ý thêm về phương pháp nướng cách thủy các bạn có thể xem thêm trong bài viết này.</p>
+<p>2. Quấy đều phần Flan đã chuẩn bị từ trước. Lọc qua rây, cho vào khuôn. Cố gắng đổ nhẹ tay để tránh tạo bọt khí trong Flan. Tiếp theo đổ phần bạt bánh lên trên. Do trong bạt bánh có nhiều bọt khí nhẹ nên bạt bánh sẽ tự động nổi lên trên mặt Flan.</p>
+<p>3. Đặt khay để nướng cách thủy vào trong lò. Đổ nước sôi vào khay. Đặt khuôn vào lò. Nướng ở nhiệt độ 160 – 165 độ C trong khoảng 40-50 phút, đến khi ấn nhẹ lên mặt bánh thấy vết lõm lập tức phồng trở lại.</p>
+<p>4. Lấy khuôn ra khỏi lò. Để nguội rồi cho cả khuôn bánh vào tủ lạnh để tối thiểu 4 tiếng, hoặc tốt nhất là qua đêm.</p>
+<p>Dùng dao nhọn và mảnh rọc quanh thành khuôn. Úp đĩa lên mặt khuôn rồi lật ngược lại để lấy bánh ra. Bánh bảo quản lạnh, dùng trong 2-3 ngày.</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

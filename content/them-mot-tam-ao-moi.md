@@ -1,0 +1,32 @@
+---
+title: "Thêm một tấm “áo” mới"
+date: "2013-07-23"
+slug: "them-mot-tam-ao-moi"
+categories: ["Về tôi"]
+tags: []
+image: ""
+description: ""
+---
+
+<p>Thế là Savoury Days đã có “áo” mới hơn một tuần rồi. Một tuần “thay áo” thực ra là kết quả của hơn 5 tháng làm việc của hai em của mình, với mong muốn sẽ có một món quà sinh nhật thật đặc biệt để dành tặng cho chị. Tấm áo mới không phải được làm từ những người thiết kế chuyên nghiệp, nên đã có rất nhiều khó khăn, không chỉ trong quá trình thiết kế mà cả quá trình thay thế. Nhưng cuối cùng mọi thứ cũng đã tương đối ổn thỏa. “Bếp” không chỉ đẹp hơn mà còn rộng hơn, tiện nghi hơn, để các cô chú, anh chị em và bạn bè có thể dạo bếp và khám phá cũng như chia sẻ niềm đam mê với công việc nấu nướng được thoải mái hơn nữa.</p>
+<p>Bếp nay được phân chia thành từng khu vực rõ ràng. Trang chủ có phần slide gồm các món ăn tiêu điểm của tháng (ấn vào ảnh sẽ chạy ra bài viết), cùng các tin tức và phản hồi mới. Phần footer là lời chào mừng, tags chính và album ảnh của SD. Các trang chính của blog như Mục lục, mục lục hình ảnh, Cùng học làm bánh… vẫn được giữ nguyên và có thể truy cập dễ dàng từ Menu bar. Riêng phần blog được tách ra làm một trang riêng, bên cạnh các bài viết, phần sidebar bên tay phải gồm các phản hồi mới, bài viết được quan tâm, một số mục lục theo chủ đề (như Tết nguyên đán), và hai phần lưu trữ theo ngày tháng và theo chủ đề.</p>
+<p>Nếu muốn nhận bài mới của blog, các bạn có thể đăng kí theo thanh Subscribe ở cuối trang chủ, hoặc theo dõi Facebook của Savoury Days (là nơi mình luôn cập nhật các bài và thông tin mới). Khung tìm kiếm vẫn được giữ ở đầu trang, sẽ giúp các bạn tìm thấy món ăn hay câu hỏi mà mình thắc mắc một cách dễ dàng hơn.<span id="more-4538"></span></p>
+<p>Một điểm nổi bật của bếp mới là giao diện sẽ tự động thay đổi hiển thị tùy theo thiết bị mà bạn sử dụng, nên “bếp” khi xem trên máy tính sẽ hơi khác với “bếp” trên điện thoại. Nhưng chỉ là hiển thị để việc dạo bếp được thuận tiện hơn thôi, còn các nội dung chính thì vẫn như vậy. Có một vấn đề nhỏ là khi xem trên điện thoại, nút Facebook có thể sẽ hơi to và vướng một chút. Vấn đề này bọn mình đã khắc phục rồi nhưng nếu các bạn vẫn thấy xuất hiện lại thì có thể “delete cache” hoặc dùng một trình duyệt khác để duyệt blog nhé. Bọn mình sẽ cố gắng xử lí triệt để sớm.</p>
+<p>Trong tuần vừa rồi việc truy cập blog có hơi chậm và đôi khi gián đoạn. Nguyên nhân chính là do blog đang được hoàn thiện. Hiện tại việc nâng cấp đã xong rồi, nhưng đôi lúc vẫn có thể hơi chậm một chút. Do server hiện tại mà mình thuê là server dùng chung với khá nhiều website khác, nên đôi lúc đông người truy cập sẽ làm cho tốc độ chậm hơn (thường là buổi tối giờ VN sẽ chậm hơn ban ngày). Nếu muốn nhanh thì chỉ có một cách là mua server riêng, nhưng vì SD từ trước đến giờ hoạt động hoàn toàn phi lợi nhuận, nên mình cũng cần phải cân nhắc về chi phí bỏ ra. Nên mong các bạn thông cảm và kiên nhẫn nếu vào blog mất nhiều thời gian hơn bình thường một chút. Và nếu còn xuất hiện lỗi thì các bạn phản hồi lại giúp bọn mình với nhé. Em gái của mình (Linh Doan) sẽ thay mình trả lời tất cả các thắc mắc liên quan đến giao diện và vấn đề kĩ thuật.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Bếp đã xong rồi, đã đến lúc nhóm lửa trở lại rồi, hẹn gặp lại cả nhà sớm với một món mới thật ngọt ngào :)</p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

@@ -1,0 +1,77 @@
+---
+title: "[VIDEO] Cách làm BÁNH CREPE XOÀI NGÀN LỚP"
+date: "2019-04-05"
+slug: "cach-lam-banh-crepe-xoai-ngan-lop"
+categories: []
+tags: []
+image: "/wp-content/uploads/2019/04/Cách-làm-bánh-crepe-xoài-banner.jpg"
+description: "Cách làm bánh crepe xoài ngàn lớp thơm ngon, rất đẹp và không cần lò nướng: Món crepe này gồm các lớp crepe mềm dẻo, xen kẽ với kem tươi xoài thơm mịn và t"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #000000;">Crepe vốn bắt nguồn từ phương Tây nhưng từ mấy năm gần đây đã trở nên phổ biến hơn hẳn ở Việt Nam và nhiều nước châu Á. Ở VN, ngoài món crepe sầu kem tươi mùa nào cũng thấy siêu hot ra, thì bánh crepe ngàn lớp này cũng là món mà sau bao năm mình thấy vẫn có rất nhiều người yêu thích. </span></p>
+<p><span style="color: #000000;">Với món bánh này, hai từ “ngàn lớp” hẳn làm cho nhiều bạn cảm thấy e ngại, sợ mất công, sợ khó. Nhưng thực ra đây là một món crepe rất dễ làm và khả năng thành công lại cao nữa. Bạn cũng không cần phải có lò nướng để làm món bánh này. Chỉ cần một cái chảo chống dính tốt là đủ. Nếu chưa quen tráng crepe, mấy chiếc đầu sẽ hơi khó một chút, nhưng làm vài cái quen tay là sẽ ổn thôi. </span></p>
+<p><span style="color: #000000;">Hai loại crepe tiramisu và crepe trà xanh mà mình từng chia sẻ công thức tại SD đã nhận được rất nhiều phản hồi tích cực từ phía bạn đọc, nên mình tin là các bạn cũng sẽ thích món bánh này “ngay từ miếng nếm thử đầu tiên” cho mà xem :) Xoài là loại quả rất phổ biến ở Việt Nam, thơm, ngọt, mát, hợp với vị mềm dẻo của bánh crepe cùng kem tươi mịn mát cực kì. Các lớp bánh và kem đan xen nhau đều đặn, với phần thạch xoài giòn giòn ở giữa làm cho miếng bánh không chỉ ngon mà còn đẹp mắt hơn. Mấy ngày nay Hà Nội thời tiết âm u, ẩm ướt quá, mong là món bánh này sẽ mang đến một cuối tuần tươi sáng, rực rỡ hơn cho các bạn ;) </span></p>
+<h2><span style="color: #000000;">CÁCH LÀM BÁNH CREPE XOÀI </span></h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong><span style="color: #000000;">A. Phần bánh (cho khoảng 25 – 30 cái bánh)</span></strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">3 quả trứng gà (50 gram/quả không tính vỏ hoặc 60 gram/quả cả vỏ)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">320 ml sữa tươi không đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">180 ml nước cốt dừa</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 gram bơ chảy</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">170 gram bột mì đa dụng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 gram đường xay</span></em></li>
+</ul>
+<p><strong>B. <span style="color: #000000;">Phần thạch xoài</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">2 gram bột thạch rau câu</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">30 gram đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">320 ml nước</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">½ quả xoài chín</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">C. Phần kem xoài</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">100 gram thịt xoài chín xay nhuyễn</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">5 gram gelatin</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">350 gram kem tươi</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 gram đường</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">D. Phần sốt xoài</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">250 gram thịt xoài chín xay nhuyễn</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">80 ml nước</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">30 gram đường (điều chỉnh theo khẩu vị)</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><span style="color: #000000;">Mời các bạn xem cách làm bánh crepe xoài trong video dưới đây. Nếu không xem được video ở dưới, bạn có thể xem trực tiếp tại <a href="https://youtu.be/VgWVJEIr6zM"><strong>link này</strong></a>. Ở phía dưới là tóm tắt các bước làm bánh. </span></p>
+<p><span style="color: #000000;"><div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/VgWVJEIr6zM" width="560"></iframe></div></span></p>
+<p><strong><span style="color: #000000;">A. Phần bánh crepe</span></strong></p>
+<p><span style="color: #000000;"><span style="font-weight: 400;">Các bước thực hiện và lưu ý cụ thể để tráng bánh đều và đẹp mình đã ghi rất rõ lại bài </span><span style="color: #0000ff;"><a href="/video-cach-lam-banh-crepe-tra-xanh-ngan-lop-matcha-mille-crepe/" style="color: #0000ff;"><b>Crepe ngàn lớp trà xanh</b></a></span><b>, </b><span style="font-weight: 400;">các bạn xem giúp mình nhé.</span></span></p>
+<p><strong><span style="color: #000000;">B. Phần thạch xoài</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Xoài cắt thành miếng nhỏ, khi nào bắt đầu làm mới thái nếu không xoài sẽ bị thâm.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400; color: #000000;">2. Trộn đều đường với bột thạch.</span></p>
+<p><span style="font-weight: 400; color: #000000;">3. Đun sôi nước trong nồi, hạ lửa nhỏ nhất, cho đường và bột thạch vào khuấy đều trong khoảng 1 phút đến khi bột thạch tan hoàn toàn. </span></p>
+<p><span style="font-weight: 400; color: #000000;">4. Đổ thạch ra khuôn, thả xoài cắt miếng vào xen kẽ trong bát thạch. Để thạch vào tủ lạnh ít nhất 1 giờ đến khi thạch đông. </span></p>
+<p><strong><span style="color: #000000;">C. Làm kem xoài</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Nếu dùng gelatin dạng lá, ngâm nước trong khoảng 10 – 15 phút đến khi gelatin mềm, gạn bớt nước trong bát đi chỉ để lại khoảng 15ml, quay trong lò vi sóng khoảng 10 – 15 giây hoặc đun cách thủy đến khi tan chảy hoàn toàn.</span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Nếu dùng gelatin dạng bột, ngâm gelatin với khoảng 30 ml nước (2 thìa canh) trong 15 phút đến khi gelatin nở, sau đó quay cả bát gelatin trong lò vi sóng khoảng 10 – 15 giây hoặc đun cách thủy đến khi gelatin chảy.</span></p>
+<p><span style="font-weight: 400; color: #000000;">3. Cho gelatin chảy vào bát thịt xoài xay nhuyễn, khuấy đều.</span></p>
+<p><span style="font-weight: 400; color: #000000;">4. Đánh kem tươi và đường đến khi bông mềm thì hạ tốc độ máy xuống thấp nhất, từ từ đổ hỗn hợp xoài và gelatin vào, đánh tiếp đến khi hỗn hợp hòa quyện. </span></p>
+<p><strong><span style="color: #000000;">D. Làm sốt xoài</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Lọc phần thịt xoài xay nhuyễn qua rây để bỏ hết xơ xoài sau đó trộn đều với đường và nước.</span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Đun hỗn hợp ở lửa nhỏ, vừa đun vừa khuấy đều đến khi đường tan hết, sốt hơi sánh lại.</span></p>
+<p><strong><span style="color: #000000;">E. Hoàn thiện bánh</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Dùng khuôn cắt crepe về cùng một kích thước, ở đây mình dùng một miệng bát có đường kính khoảng 16cm.</span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Lót giấy nến chống dính vào 1 khuôn tròn đế rời (mình dùng khuôn tròn đường kính 16 cm). Lần lượt xếp 1 lớp bánh, rồi cho kem xoài vào dàn đều, dày hơn lớp bánh một chút. Tiếp tục làm tương tự, xếp một lớp bánh rồi lại một lớp kem, đến khoảng giữa sau khi đặt 1 lớp bánh crepe vào thì cho thạch xoài vào giữa rồi lại xếp 1 lớp bánh lên. Tiếp tục làm như thế cho đến hết. Bánh để tủ lạnh ít nhất 3h đến khi kem đông lại hoàn toàn.</span></p>
+<p><span style="color: #000000;"><span style="font-weight: 400;">3. Dùng dao lưỡi mỏng rọc quanh thành bánh để lấy bánh ra. Có thể dùng kem tươi như trong clip </span><a href="/banh-kem-dau-kieu-nhat/" style="color: #000000;"><b>BÁNH KEM DÂU</b></a><span style="font-weight: 400;"> để chà láng quanh thành giống bánh gato, xếp xoài tươi cắt nhỏ và rắc vụn dừng lên mặt bánh để trang trí. </span></span></p>
+
+
+<p><span style="font-weight: 400; color: #000000;">4. Khi ăn cắt bánh và đổ sốt xoài lên.</span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

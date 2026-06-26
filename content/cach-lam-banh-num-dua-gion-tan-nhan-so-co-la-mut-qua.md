@@ -1,0 +1,39 @@
+---
+title: "[VIDEO] Cách làm bánh núm dừa giòn tan nhân sô-cô-la, mứt quả"
+date: "2016-01-25"
+slug: "cach-lam-banh-num-dua-gion-tan-nhan-so-co-la-mut-qua"
+categories: ["Bếp nhà mình"]
+tags: []
+image: ""
+description: "Bánh núm dừa là món dễ làm và ngon miệng, cũng là cách tốt để tận dụng lòng trắng dư thừa. Bài viết chia sẻ công thức kèm video hướng dẫn chi tiết"
+---
+
+<p>* NHẮN NHẮN: Danh sách các bạn may mắn nhận quà tặng của Zojirushi Việt Nam trong <a href="/video-cach-lam-banh-chuoi-up-nguoc-voi-noi-com-dien-va-lo-nuong/" target="_blank">mini game tại video Làm bánh chuối bằng nồi cơm điện</a> sẽ được công bố tối nay tại <a href="https://www.youtube.com/watch?v=C1yWQsAKVeI&amp;feature=youtu.be" target="_blank"><strong>video ở YouTube</strong></a> và mình cũng sẽ trực tiếp liên lạc với các bạn trúng thưởng nha :)</p>
+<p>————</p>
+<p>Bánh núm dừa là món dễ làm và ngon  miệng, cũng là cách tốt để tận dụng lòng trắng dư thừa. Bánh lại có thể để được khá lâu nên là món ăn mà mình nghĩ nhiều người chọn chuẩn bị cho ngày Tết cổ truyền. Công thức bánh tuy mình đã giới thiệu tại Savoury Days nhưng vì đây là món bánh được nhiều bạn ưa chuộng nên mình quay thêm video và có thêm một vài ghi chú về cách làm bánh nữa, hi vọng sẽ giúp các bạn thành công ngay trong lần đầu thử bánh :)</p>
+<p>Khi làm bánh núm dừa, có một số điểm chính mà chúng ta rất cần phải lưu ý, cụ thể như sau nhé:</p>
+<p>1. Không nên dùng dừa tươi để làm bánh do dừa tươi hút ẩm ít hơn nên lượng dừa sẽ thay đổi nhiều so với công thức. Mặt khác vì dừa tươi cũng ẩm ướt nên nếu muốn bánh khô giòn tan từ trong ra ngoài sẽ khá là khó và mất thời gian sấy. Nếu có sẵn dừa tươi, nên sấy dừa trong lò nướng ở khoảng 100 – 110 độ C tới khi dừa tương đối khô mới dùng.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>2. Lượng dừa sẽ thay đổi tuỳ vào loại dừa bạn sử dụng hút ẩm nhiều hay ít và bạn muốn bánh có mùi vị như thế nào. Với món bánh này thì có hai kiểu thường được ưa chuộng:</p>
+<p>– Kiểu thứ nhất là bánh xốp giòn tan, nhẹ bẫng và khô ráo từ trong ra ngoài: với kiểu này, không nên cho dừa quá nhiều và cần đánh bông trứng, bánh sẽ nhẹ nhờ bọt khí trong trứng đánh bông. Ngoài ra, sau khi nướng còn cần sấy bánh ở nhiệt thấp để bánh khô ráo hẳn cả trong lẫn ngoài. Các bạn xem thêm cách làm kiểu này trong video nhé.</p>
+<p>– Kiểu thứ hai là bánh giòn bên ngoài nhưng mềm dẻo bên trong: kiểu này có vẻ quen thuộc ở phương Tây hơn (dưới tên gọi Coconut macaroon). Làm bánh kiểu này thì có thể cho nhiều dừa hơn một chút và nướng trong thời gian ngắn, để bên trong bánh chín nhưng chưa khô ráo hẳn, sẽ còn vị mềm và ngậy béo của dừa.</p>
+<p>3. Trong khi trộn dừa với trứng cần theo dõi, đặc biệt là những bước cuối khi đã cho tương đối nhiều dừa. Không nên cho quá nhiều dừa, kể cả nếu muốn làm theo cách thứ hai (cho bánh dẻo bên trong) ở trên bởi bánh có nhiều dừa quá rất dễ bị khô và cứng.</p>
+<p>4. Có rất nhiều cách biến tấu với loại bánh này. Chẳng hạn như trong video mình nặn bánh dẹt rồi sau khi nướng xong thêm nhân ở giữa. Hoặc sau khi nướng xong các bạn có thể nhúng bánh vào ít chocolate đun chảy để một nửa bánh bọc chocolate. Hay có thể thêm vào một ít bột cacao để làm cho bánh có vị chocolate… thoả sức sáng tạo nhé, chỉ cần lưu ý một điểm là đừng làm cho hỗn hợp quá khô (hơi ướt một chút sẽ tốt hơn là hơi khô một chút).</p>
+<p>Vậy thôi, mời các bạn xem video tại <strong><a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days</a></strong>. Nếu không xem được video tại blog thì các bạn có thể xem trực tiếp ở <strong><a href="https://youtu.be/fg2y50m3A4w" target="_blank">link này</a></strong>. Công thức cụ thể các bạn có thể xem trong bài viết cũ về <a href="/banh-num-dua-banh-dua-tam-coconut-macaroons/" target="_blank">cách làm bánh núm dừa hay bánh dừa tấm</a>.</p>
+<p>Video có phụ đề tiếng Việt và Anh, các bạn bật CC và chỉnh Language/ Ngôn ngữ trong phần Setting/ Cài đặt (hinhf bánh xe ở góc dưới bên phải video) để chọn phụ đề nhé. Và khi xem các bạn nhớ chọn chế độ 720p (HD) để xem video được rõ nét nhất nha.</p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/fg2y50m3A4w" width="560"></iframe></div>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

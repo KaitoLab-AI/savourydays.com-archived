@@ -1,0 +1,55 @@
+---
+title: "Thịt bò kho khô (kiểu xứ Nghệ)"
+date: "2011-06-09"
+slug: "thit-bo-kho-kho-kieu-xu-nghe"
+categories: []
+tags: []
+image: "/wp-content/uploads/2011/06/Bo-kho-xu-Nghe.jpg"
+description: "Cách làm bò kho xứ Nghệ chuẩn vị nhất, công thức chi tiết kèm theo hình minh hoạ. Thịt bò mềm ngọt, ngấm gia vị thơm nức, ăn cùng cơm hay xôi đều rất ngon"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Mình bị nghiện món thịt bò kho khô kiểu xứ Nghệ này. Trên cả nghiện ấy. Bằng chứng là từ lúc biết đến nó thì hầu như tuần nào trong túi đồ đi chợ của mình cũng có vài lạng đến cả cân thịt bò để làm ăn dần trong tuần :”&gt; Tuần nào không có thì cảm thấy bứt rứt và nhớ nhung ghê lắm ý :D</p>
+<p>Thật ra hồi xưa mình tự thấy là mình kho thịt bò cũng không tệ :”&gt; Nhưng từ khi biết món này xong thì mình cũng bye bye cách cũ luôn. Thịt kho kiểu này luôn cực mềm và không bao giờ bị bở, không bao giờ bị bã, thậm chí cho vào tủ lạnh để vài ngày cũng chẳng bị khô, mà ăn còn ngon hơn lúc mới nấu xong ấy. Mùi thì thơm phức, mằn mặn, ngòn ngọt, cay cay, ah, thêm cái giòn sần sật của gân bò nữa. Nói thật là món này ăn tốn thịt nhiều hơn cơm, mà để mang đi nhậu thì đảm bảo là mồi hết trước rượu ;)</p>
+<p>Món này đầu tiên là mình học được của hàng xóm là dân xứ Nghệ chính gốc, do có lần ngửi mùi thơm và nhìn thấy bác ý thái thịt ở trong bếp ngon quá, nên đòi học cho bằng được. Sau đấy thì mình chạy lên mạng hỏi Google thêm thông tin. Và sau đấy nữa thì bị….loạn vì có nhiều công thức cho món thịt bò kho đặc sản của xứ Nghệ quá :-&lt;</p>
+<p>Thật ra về cơ bản và cũng là điểm quan trọng nhất của món ăn này là kho thịt không cho nước, mà dùng chính nước tiết ra từ thịt bò, và nấu nhỏ lửa trong thời gian lâu để làm thịt chín. Có lẽ chính nhờ việc không cho thêm nước mà thịt không bị bở hay bã. Ah và cả nhà có thể yên tâm là nước từ thịt bò tiết ra rất nhiều, không bao giờ sợ cháy đâu nha :)</p>
+<p>Cách kho thì là như vậy, nhưng một phần khác rất quan trọng là gia vị cho vào ướp thịt bò như thế nào thì mỗi người nói một kiểu khác nhau. Cho nên cuối cùng thì mình quyết định mỗi tuần thử một số loại gia vị khác nhau, để xem loại nào hợp và loại nào không hợp.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Và …..:D/ :D/ :D/ … sau kha khá lần thử cuối cùng mình đã tìm ra công thức ổn &amp; ngon nhất :D :D Thành phẩm đã được kiểm nghiệm và chứng nhận bởi hàng xóm xứ Nghệ của mình. Thậm chí là hàng xóm sau khi thử thịt bò của mình thì đã quyết định chuyển sang nấu theo cách của em Trang luôn ;)</p>
+<p>Cách ướp này của mình có thể không thật sự đúng lắm với cách ướp món thịt bò kho đặc sản xứ Nghệ, nhưng quả thật đây là một trong những công thức mà mình cảm thấy cực kì vừa ý. Giờ tặng lại cả nhà, hi vọng là các bạn sẽ thích nó :)</p>
+<p><img alt="" class="aligncenter size-large wp-image-8516" height="684" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2011/06/Bò-kho-xứ-nghệ-Final.jpg-1024x684.jpg" width="1024"/></p>
+<h2><strong>CÁCH LÀM BÒ KHO XỨ NGHỆ </strong></h2>
+<p><strong><span style="color: #800000;">Nguyên liệu</span></strong></p>
+<ul>
+<li><em>500g thịt bò</em></li>
+<li><em>1/3 miếng đường thốt nốt (1 miếng của mình hình tròn, đường kính khoảng 3cm, dày độ gần 1cm) – có thể thay bằng đường mật mía, đường nâu. Nếu dùng đường trắng sẽ kém ngon hơn một chút</em></li>
+<li><em>1 mẩu gừng (rửa sạch, để cả vỏ, thái lát mỏng)</em></li>
+<li><em>3 tép tỏi (bóc vỏ, băm nhỏ) – mình thay bằng 1/4 thìa cafe (tsp) bột tỏi</em></li>
+<li><em>1 bông hoa hồi</em></li>
+<li><em>1 mẩu quế bóp vụn – mình dùng 1/8 thìa cafe (tsp) bột quế</em></li>
+<li><em>nước mắm</em></li>
+<li><em>hạt tiêu</em></li>
+<li><em>ớt tươi cắt đôi – vắt bỏ hột – thái lát mỏng (tùy khả năng ăn cay mà cả nhà cho ớt nhé, mình dùng 2 quả ;) món này có tí cay sẽ ngon hơn rất nhiều)</em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Thịt bò mua loại nhiều gân. Càng nhiều gân càng ngon. Ở bên này thì đây luôn là loại rẻ nhất cho nên làm món này nói chung rất là tiết kiệm :D</p>
+<p>2. Rửa sạch thịt bò, thấm khô. Cắt thịt thành khối tầm 200-300g. Ướp thịt bò với nước mắm, đường thốt nốt bóp vụn, gừng, tỏi, quế, hồi, tiêu và ớt. Dùng tay “mát-xa” thật kĩ gia vị lên mặt ngoài miếng thịt.</p>
+<p>(*) Ghi chú về gia vị ướp thịt bò:</p>
+<ul>
+<li>ĐƯỜNG: Ở nhà theo mình được biết thì dùng <strong>đường mật mía</strong> là ngon nhất. Nhưng ở bên này không có nên mình thay bằng <strong>đường thốt nốt (palm sugar)</strong> cũng rất ngon. Đường thốt nốt làm cho thịt ngọt dịu vừa phải, thơm và có màu nâu vàng đẹp mắt nữa. Đường này các bạn có thể mua ở chợ châu Á, đặc biệt là các cửa hàng của người Thái hay người Indo. Nếu không mua được thì có thể thay bằng <strong>brown sugar</strong>. Cái này trong siêu thị của Tây mình cũng thấy có. <span style="text-decoration: underline;"><strong>Không nên</strong></span> dùng đường kính hay đường phèn nhé.</li>
+<li>Trong số các công thức mình đọc trên mạng, có một số dùng sả và cho rất nhiều gừng. Tuy nhiên mình cảm thấy sả không thật sự hợp trong món này lắm. Và gừng cũng chỉ nên cho vừa phải thôi.</li>
+</ul>
+<p>Để thịt bò đã ướp với gia vị trong ít nhất là 3h cho ngấm. Nếu trời nóng thì đậy kín rồi cho vào tủ lạnh. Để được qua đêm thì càng ngon.</p>
+<p><img alt="" class="aligncenter size-large wp-image-8517" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2011/06/bò-kho-xứ-nghệ-2-1024x683.jpg" width="1024"/></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>3. Cho thịt bò vào nồi cùng với toàn bộ nước ướp. Mình luôn ướp thịt bò ở trong nồi cho nên khi hết thời gian đợi gia vị ngấm thì chỉ việc bắc nồi lên bếp thôi :) Lúc này ở trong nồi sẽ có rất ít nước, chắc chỉ vừa đủ để tráng mặt đáy nồi. Đầu tiên các bạn để lửa to hoặc gần to, và canh đến khi nước trong nồi sôi và thịt bò chuyển sang màu chín tái thì các bạn lật miếng thịt bò, làm sao cho bên ngoài thịt không còn màu đỏ nữa.</p>
+<p>Khi các mặt của miếng thịt bò hết màu đỏ của thịt sống rồi thì hạ nhỏ lửa và đậy vung (mình để số 1-2/6 của bếp điện). Ninh đến khi thịt bò chín mềm. Thường thì mình nấu bằng nồi thường khoảng 40-45 phút là thấy mềm nhừ ngon lắm rồi, <em>nhưng tùy loại thịt mà thời gian ninh có thể lâu hơn</em>. Trong quá trình đun thi thoảng các bạn nhớ lật thịt nhé.</p>
+<p><em>(*) Khi bắt đầu bật bếp nấu (trước khi hạ nhỏ lửa) nếu không yên tâm các bạn có thể cho thêm 1-2 thìa nước, mình nghĩ sẽ không ảnh hưởng nhiều đến chất lượng món ăn lắm. Nhưng mình làm thì chưa bao giờ phải cho thêm nước cả. Miễn là các bạn canh cẩn thận đừng để sôi lâu quá, vì trong nồi ban đầu chỉ có rất ít nước, để lửa to lâu 1 tí là sẽ bị cháy rất nhanh. Thời gian sau, khi bắt đầu để nhỏ lửa đậy vung thì yên tâm là nước sẽ tự tiết ra từ thịt rất nhiều :) </em></p>
+<p><img alt="" class="aligncenter size-large wp-image-8518" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2011/06/bò-kho-xứ-nghệ-3-1024x683.jpg" width="1024"/></p>
+<p>4. Sau khi thịt chín thì vặn lửa to, mở vung cho nước trong nồi bay hơi bớt, thịt sẽ ngấm nước và săn lại rất ngon.</p>
+<p>Để thịt nguyên miếng, khi ăn thái thành các lát mỏng. Nếu muốn thịt đậm đà hơn nữa, sau khi thái lát xong, các bạn có thể cho thịt vào nồi và “xào” lại thịt với nước trong nồi. Trong những trường hợp cảm thấy thịt chưa đủ gia vị thì đây cũng là cách “chữa cháy” tốt vì các bạn có thể nêm thêm mắm muối, đường khi xào lại thịt. Món này tốt nhất là ăn bao nhiêu thì thái chừng ấy. Nếu không sẽ cực kì nguy hiểm bởi vì khi mà đĩa thịt bò đã để trước mặt thì thực sự là khó kiềm chế lắm ;)</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

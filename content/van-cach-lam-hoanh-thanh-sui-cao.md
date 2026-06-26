@@ -1,0 +1,106 @@
+---
+title: "Mỳ vằn thắn & Cách làm hoành thánh (sủi cảo)"
+date: "2013-11-01"
+slug: "van-cach-lam-hoanh-thanh-sui-cao"
+categories: []
+tags: []
+image: "/wp-content/uploads/2013/11/MyVanThan.jpg"
+description: "cách nấu mỳ vằn thắn, cách làm hoành thánh, sủi cảo"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Hồi ở nhà mình rất thích món này, rất rất thích ấy. Nhiều khi không cần ăn mỳ, chỉ cần một bát sủi cảo với ít thịt và gan thôi, cũng thấy rất sung sướng rồi. Đặc biệt là vào mùa Đông trời lạnh, ngồi húp nước súp ngọt lừ, thấy người ấm sực cả lên, cảm giác rất chi là dễ chịu và … “đã”.</p>
+<p>Nhưng từ khi sang bên này rồi thì coi như “cai” luôn món mỳ vằn thắn. Lý do chính là ngại làm. Bát mỳ đầy đủ có 7-8 thứ khác nhau, nào là hoành thánh luộc, hoành thánh chiên, rồi thì thịt xá xíu, gan, trứng… mỗi thứ một tí thôi, nhưng cộng lại là … nhiều tí rồi. Cho nên cứ đợi mãi… lâu ơi là lâu… đến mức sắp quên mùi vị mỳ vằn thắn rồi mới có đủ quyết tâm tự nấu.</p>
+<p>Nhưng mà nói là mất công vậy thôi chứ nấu xong rồi cũng thấy không đến nỗi nào. Tại vì hoành thánh có thể làm nhiều để tủ đông ăn dần, thịt xá xíu có thể làm nhiều để ăn với cơm, nước dùng mỳ nếu không thích ăn mỳ có thể mang nấu canh. Nên thực ra với người ở một mình như mình, làm mỳ vằn thắn rất tiện vì xong nồi mỳ là có đủ đồ ăn cho cả tuần luôn :D Còn nếu nhà đông người thì làm món này chắc là sẽ rất vui, mỗi người một chân một tay, chẳng mấy chốc mà xong. Mà đảm bảo là làm xong rồi sẽ không muốn ra hàng nữa vì mỳ nhà làm vừa rẻ, vừa vệ sinh, vừa ngon mà “chất” hơn nữa.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/10608682974/" title="IMG_3466-1 by LinhTrang9185, on Flickr"><img alt="IMG_3466-1" class="aligncenter" height="640" loading="lazy" src="http://farm6.staticflickr.com/5494/10608682974_25dbb28427_z.jpg" width="440"/></a></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong> (8 bát)</span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><strong>A. Hoành thánh (sủi cảo)</strong></p>
+<ul>
+<li><em>50 miếng vỏ bánh cỡ 8x8cm</em></li>
+<li><em>200gram thịt lợn xay  </em></li>
+<li><em>150gram tôm</em></li>
+<li><em>50gram củ cải trắng (hoặc thay bằng củ đậu, mã thầy)</em></li>
+<li><em>30gram hành tây  </em></li>
+<li><em>2 mộc nhĩ  </em></li>
+<li><em>6-8 cái nấm hương  </em></li>
+<li><em>2 tép tỏi</em></li>
+<li><em>2 củ hành khô</em></li>
+<li><em>1 mẩu gừng nhỏ</em></li>
+<li><em>½ thìa canh (8ml) xì dầu</em></li>
+<li><em>1 thìa canh (15ml) dầu hào</em></li>
+<li><em>½ thìa café (3gr) muối hoặc bột gia vị</em></li>
+<li><em>1 thìa café tiêu xay (5gr)</em></li>
+<li><em>¼ thìa café dầu vừng </em></li>
+</ul>
+<p><strong>B. Nước dùng</strong></p>
+<ul>
+<li><em>0.5kg xương gà</em></li>
+<li><em>0.3kg xương sườn hoặc xương ống  </em></li>
+<li><em>80gram tôm khô</em></li>
+<li><em>200gram củ cải trắng  </em></li>
+<li><em>6 củ hành khô</em></li>
+<li><em>1 củ hành tây nhỏ (khoảng 40-50gram)</em></li>
+<li><em>Gia vị, muối</em></li>
+</ul>
+<p><strong>C. Các nguyên liệu khác</strong></p>
+<ul>
+<li><em>200gram thịt xá xíu thành phẩm (<a href="/thit-nuong-xa-xiu-char-siu-char-siew/">cách tự làm thịt xá xíu</a>)</em></li>
+<li><em>200gram gan heo</em></li>
+<li><em>200gram tôm tươi </em></li>
+<li><em>2 quả trứng gà luộc chín, bổ múi cau</em></li>
+<li><em>Nấm hương/ nấm Đông cô</em></li>
+<li><em>Bóng bì</em></li>
+<li><em>Mỳ trứng tươi hoặc khô</em></li>
+<li><em>Cải cúc hoặc rau tùy theo mùa (cải xanh, cải thìa, bắp cải…)</em></li>
+<li><em>1 bó hẹ</em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>Món này có nhiều thành phần, nên nếu tính trước “thứ tự” các công đoạn thì khi làm sẽ đỡ mệt và nhanh hơn. Mình thì làm hoành thánh và ướp thịt từ tối hôm trước. Ngày hôm sau ninh nước dùng. Trong lúc đợi ninh nước thì nướng thịt, luộc trứng, luộc gan, luộc &amp; rán hoành thánh (lần 1), chuẩn bị các thứ rau, hẹ… Đến lúc ăn rán lại hoành thánh cho giòn là xong. Cũng không mất nhiều thời gian lắm. Cách làm ở dưới đây mình ghi theo thứ tự chuẩn bị của mình nhé.</p>
+<p><strong>A. Thịt xá xíu</strong>: Ướp và nướng theo công thức ở <a href="/thit-nuong-xa-xiu-char-siu-char-siew/"><strong>ĐÂY</strong></a></p>
+<p style="text-align: center;"><em>Thịt xá xíu thành phẩm </em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/10608685304/" title="IMG_3421 by LinhTrang9185, on Flickr"><img alt="IMG_3421" class="aligncenter" height="350" loading="lazy" src="http://farm4.staticflickr.com/3803/10608685304_5b517e8516.jpg" width="500"/></a></p>
+<p><strong>B. Hoành thánh (sủi cảo)</strong></p>
+<p>Có hai loại hoành thánh luộc và hoành thánh chiên (rán). Mình gói chung một kiểu nhân, chỉ khác cách gói để phân biệt. Vỏ hoành thánh mình dùng loại mua sẵn, vì làm mỳ cũng nhiều công đoạn rồi nên dùng vỏ mua sẵn sẽ tiết kiệm thời gian hơn.  Các bạn ở nước ngoài có thể tìm mua Wonton pastry trong chợ châu Á nhé. Ở VN thì mình không rõ nơi để mua lắm, nhưng như ở Hà Nội thì có lẽ khu vực Lương Văn Can vẫn còn bán.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Có nhiều cách làm nhân hoành thánh, tùy khẩu vị của gia đình mà các bạn có thể tăng/ giảm thịt, thêm các loại rau… Riêng về gia vị thì nên dùng xì dầu (nước tương), dầu hào và vài giọt dầu vừng. Hoành thánh sẽ có mùi vị thơm ngon theo đúng kiểu hoành thánh hơn. Lượng nguyên liệu trong công thức làm được khoảng 50 viên hoành thánh (cả luộc và chiên).</p>
+<p>1. Chuẩn bị nguyên liệu:</p>
+<p>– Tôm thái nhỏ cỡ hạt lựu, hoặc có thể băm nhỏ.</p>
+<p>– Củ cải trắng (hay mã thầy, củ đậu) gọt vỏ, thái hạt lựu nhỏ</p>
+<p>– Hành tây thái hạt lựu</p>
+<p>– Mộc nhĩ, nấm hương ngâm nở, thái chỉ</p>
+<p>– Tỏi, hành, gừng bóc vỏ, bằm nhuyễn</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/10608673175/" title="IMG_3408 by LinhTrang9185, on Flickr"><img alt="IMG_3408" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2886/10608673175_717e36bc19.jpg" width="500"/></a></p>
+<p>2. Trộn tất cả các loại nhân cùng gia vị (xì dầu, dầu hào, dầu vừng, muối, tiêu). Múc một ít nhân đặt vào giữa miếng vỏ bánh, gói lại. Không nên cho quá nhiều nhân, gói sẽ khó và dễ bục.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/10608687014/" title="2013-10-19 by LinhTrang9185, on Flickr"><img alt="2013-10-19" class="aligncenter" height="400" loading="lazy" src="http://farm6.staticflickr.com/5491/10608687014_b95686d3ed.jpg" width="500"/></a></p>
+<p>Có nhiều kiểu gói khác nhau, nếu cần hướng dẫn thì các bạn có thể vào youtube, tìm “<em>How to wrap a wonton</em>” nhé. Cách đơn giản nhất là gấp đôi miếng bột, miết phần mép nơi tiếp giáp với phần nhân thật kĩ cho dính lại, rồi túm các mép bột lại để tạo kiểu mép lượn sóng (như trong hình phía trên).</p>
+<p style="text-align: center;"><em>Hoành thánh gói tròn để luộc </em></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/10608927523/" title="IMG_3415 by LinhTrang9185, on Flickr"><img alt="IMG_3415" class="aligncenter" height="333" loading="lazy" src="http://farm6.staticflickr.com/5509/10608927523_7e5b3f2ceb.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Hoành thánh gói hình tam giác để chiên </em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/10608702606/" title="IMG_3416 by LinhTrang9185, on Flickr"><img alt="IMG_3416" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7452/10608702606_55ef5ef22d.jpg" width="500"/></a></p>
+
+
+<p>3. Chế biến: Có hai cách:</p>
+<p>* <strong>Luộc</strong>: Đun sôi một nồi nước to, cho vào nồi chút xì dầu và dầu ăn. Đợi nước sôi thì cho hoành thánh vào (<em>không nên cho quá nhiều, hoành thánh dễ bị dính vào nhau</em>). Đợi hoành thánh nổi lên độ 1-2 phút (tức là đã chín) thì vớt ra, thả vào bát nước lạnh trong 1-1.5 phút rồi vớt ra. Không luộc hoành thánh quá kĩ, vỏ bánh sẽ dễ bị nát. Nước lạnh sẽ giúp vỏ hoành thánh có độ giòn nhưng cũng không nên để hoành thánh trong bát nước quá lâu, dễ làm vỏ bánh bị nhũn.</p>
+<p>* <strong>Chiên</strong>: Đun sôi dầu. Nên dùng chảo/ nồi nhỏ, để có thể rán ngập dầu. Đợi dầu sôi thì cho hoành thánh vào rán vàng (ở lửa vừa). Nếu muốn vỏ hoành thánh giòn lâu, nên chiên sơ qua 1 lần rồi khi ăn chiên lại lần nữa.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/10608925393/" title="IMG_3455 by LinhTrang9185, on Flickr"><img alt="IMG_3455" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2890/10608925393_ae45629bec.jpg" width="500"/></a></p>
+<p><strong>C. Nước dùng</strong></p>
+<p>1. Rửa sạch xương gà và xương heo. Cho vào nồi. Đổ nước lạnh ngập xương, cho thêm chút muối. Đun sôi rồi hạ lửa đun thêm 1-2 phút (sẽ thấy có nhiều bọt bẩn nổi lên). Đổ bỏ phần nước luộc đầu này đi, rửa lại xương cho sạch bọt bẩn. Cho lại vào nồi, đổ ngập nước. Đun sôi rồi hạ lửa nhỏ. Hớt sạch bọt (nếu có).</p>
+<p>2. Tôm khô rửa cho sạch đất cát. Củ cải trắng gọt vỏ, cắt thành miếng vừa.  Hành khô, hành tây nướng cho thơm rồi bóc bỏ vỏ, rửa sạch. Sau khi hớt sạch bọt ở nồi nước dùng thì cho tôm, củ cải, hành khô, hành tây vào. Ninh nhỏ lửa đến khi nước thơm ngọt.</p>
+<p>* <em>Thường thì mình không cho nhiều nước mà chỉ đổ nước ngập cao hơn nguyên liệu một chút. Nước dùng sau khi ninh xong sẽ rất đậm đặc và ngọt lừ. Từ phần nước (nguyên chất) này có thể pha thêm nước sôi để dùng cho nhiều mục đích khác nhau (không dùng hết để ăn mỳ thì có thể nấu canh…). Gia vị như mắm, muối cũng nêm vào sau.</em></p>
+<p>Trong khi đợi ninh nước dùng thì chuẩn bị các nguyên liệu còn lại</p>
+<p><strong>D. Các nguyên liệu khác</strong></p>
+<p>1. Gan ngâm vào sữa tươi khoảng 30-45 phút (để khử độc). Rửa lại cho sạch. Luộc chín.</p>
+<p>2. Luộc chín tôm, bóc bỏ đầu và vỏ, bỏ chỉ đen ở sống lưng.</p>
+<p>3. Luộc trứng. Ngâm nấm vào nước ấm cho nấm nở mềm.</p>
+<p>4. Ngâm nở, tẩy bóng bì bằng rượu/ gừng, thái miếng nhỏ hình quả trám, trần sơ qua bằng nước sôi, để ráo (<em>mình không có món này, vì chợ bên này không có bán</em>)</p>
+<p>5. Nhặt, rửa rau. Hẹ thái khúc khoảng 2-2.5 cm. Ngâm &amp; luộc mỳ khô</p>
+<p>Sau khi nước dùng đã ninh xong, các nguyên liệu cũng đã xong thì các bạn nêm lại mắm muối ở nồi nước cho vừa ăn. Trước khi ăn nên trần bát ăn qua nước sôi. Xếp các nguyên liệu vào bát gồm: Mỳ, thịt xá xíu, hoành thánh luộc, gan luộc, trứng, rau, hẹ. Bóng bì và nấm thả vào nồi nước dùng, đợi nước sôi bật lên thì vớt ra. Riêng hoành thánh chiên nên để ngoài có lẽ sẽ ngon hơn vì giữ được lớp vỏ giòn.</p>
+<p>Đun nước dùng cho thật sôi rồi chan vào bát. Dùng nóng với chanh ớt.</p>
+<p style="text-align: center;"><em>Bát mỳ khi chưa chan nước :)</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/10608684374/" title="IMG_3458-1 by LinhTrang9185, on Flickr"><img alt="IMG_3458-1" class="aligncenter" height="640" loading="lazy" src="http://farm4.staticflickr.com/3821/10608684374_6ba09b2061_z.jpg" width="454"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

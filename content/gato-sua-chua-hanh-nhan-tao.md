@@ -1,0 +1,62 @@
+---
+title: "[VIDEO] GATO SỮA CHUA HẠNH NHÂN TÁO"
+date: "2020-08-13"
+slug: "gato-sua-chua-hanh-nhan-tao"
+categories: []
+tags: []
+image: "/wp-content/uploads/2020/08/IMG_2395.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<div class="" data-block="true" data-editor="d3n0j" data-offset-key="e3ha6-0-0">
+<div class="_1mf _1mj" data-offset-key="e3ha6-0-0">
+<div class="" data-block="true" data-editor="d3n0j" data-offset-key="lkqn-0-0">
+<p class="_1mf _1mj" data-offset-key="lkqn-0-0"><span style="color: #ff0000;"><strong>NHẮN: Tuần này nhân dịp khai giảng lớp Trung thu (online), đang có chương trình ưu đãi giảm 15-20% học phí cho TẤT CẢ các lớp online của SD ạ (bánh mì, bánh gato kem, bánh quy, tiramisu, mousse… các loại). Chi tiết các bạn xem tại đây: <a href="/lop-hoc-lam-banh/">/lop-hoc-lam-banh/</a></strong></span></p>
+</div>
+<div class="_1mf _1mj" data-offset-key="7rh8r-0-0"><span style="color: #ff0000;"><strong>hoặc inbox Facebook Savoury Days nhé. </strong></span></div>
+<div class="_1mf _1mj" data-offset-key="7rh8r-0-0"><span style="color: #000000;">————-</span></div>
+</div>
+</div>
+<div class="_1mf _1mj" data-offset-key="ad8eh-0-0"><span style="color: #000000;">Đây là món bánh “chị em” của bánh sữa chua đào mà tụi mình đăng video tuần trước. Chuyện là sau khi đăng ct bánh sữa chua đào lên blog SD, rất nhiều học viên trong lớp Bánh gato kem (lớp học làm bánh Online của SD) đã hưởng ứng và trả bài cực kì nhiệt tình. Phản hồi nhìn chung là “ưng lắm”, lại còn thêm biến tấu bánh sữa chua xoài, rồi dùng sữa chua hoa quả các loại. Vì rất nhiều bạn thích nên tụi mình biến tấu công thức đi một chút thành món bánh này. Rất hợp với tiết trời cuối mùa hạ. Bánh nhẹ, mềm, xốp, chua chua ngòn ngọt. Chưa kể là khi dùng hạnh nhân thì món bánh vốn đã healthy (do ít đường ít bột) này sẽ càng heo-thì hơn nữa.</span></div>
+<p><span style="color: #800000;"><strong>Nguyên liệu (cho 1 khuôn chiffon đường kính 16cm)</strong></span></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">3 quả trứng gà to (60 gram/quả cả vỏ)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">10 gram đường (để đánh cùng lòng đỏ)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">15 gram dầu ăn</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 gram sữa chua không đường (hoặc sữa chua hoa quả tùy thích)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 gram bột làm bánh ngọt (bột mì số 8)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">20 gram bột hạnh nhân</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">25 gram đường (để đánh cùng lòng trắng)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">¼ thìa cafe cream of tartar (hoặc có thể thay bằng chanh hoặc dấm)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 quả táo đỏ</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Hạnh nhân lát</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Lưu ý về nguyên liệu và dụng cụ:</strong></span></p>
+<p><span style="font-weight: 400; color: #000000;">– Công thức bánh này ít đường, dễ ăn, tuy nhiên lại hơi nhạt so với khẩu vị nhiều người, các bạn có thể cân nhắc cho thêm khoảng 10 gram đường đánh bông cùng lòng trắng, hoặc thay sữa chua không đường thành sữa chua có đường hoặc sữa chua hoa quả. Nếu dùng sữa chua hoa quả, dùng loại sữa chua mua sẵn trong siêu thị (ví dụ như sữa chua chanh leo, việt quất,v.v.. của các hãng lớn như Vinamilk), như vậy bánh sẽ có vị thơm của hoa quả cũng như ngọt hơn một chút. Tuy nhiên, nếu dùng sữa chua hoa quả thì cũng không được bớt đường trong CT đi nữa vì sẽ làm ảnh hưởng đến độ bông của trứng.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nếu không có bột làm bánh ngọt có thể thay bằng 30 gram bột mì đa dụng và 10 gram tinh bột ngô, tuy nhiên dùng toàn bộ bột làm bánh ngọt sẽ ngon hơn.</span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="font-weight: 400; color: #000000;">– Táo và hạnh nhân lát trong công thức này mình chỉ dùng để trang trí trên mặt bánh, vì vậy không bắt buộc, tuy nhiên phần vỏ táo đỏ sau khi nướng lên trông rất đẹp, vị chua ngọt quyện với hạnh nhân lát nướng giòn rất ngon, không nên bỏ qua nhé ;). Nếu muốn trộn táo vào bột bánh thì tương tự với bánh đào, bạn cũng thái hạt lựu, lăn qua bột mì rồi trộn bằng thao tác fold ở bước cuối cùng.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nếu không có khuôn chiffon, có thể dùng khuôn tròn đế rời đường kính 16cm, tuy nhiên nướng bằng khuôn chiffon sẽ tránh được khả năng bánh bị xẹp, lõm, thắt eo,..</span></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/3FDI3kB0O3s" width="560"></iframe></div>
+<ol>
+<li><span style="font-weight: 400; color: #000000;"> Làm nóng lò ở 160 độ C, cả hai lửa. Nếu dùng khuôn tròn bình thường thì lót giấy nến vào đáy khuôn.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Thái táo thành lát mỏng khoảng 0.2cm. Ngâm táo vào nước muối loãng khoảng 5 – 10 phút tránh việc táo bị thâm. Sau khi ngâm thấm khô táo. </span></li>
+<li><span style="font-weight: 400; color: #000000;"> Tách riêng lòng trắng và lòng đỏ trứng. Lưu ý: Ở bước tiếp theo lòng trắng sẽ cần đánh bông. Vì vậy, lòng trắng, âu đựng và que đánh trứng không được dính chất béo như lòng đỏ trứng, dầu ăn,v.v..</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Cho 10 gram đường vào âu lòng đỏ, dùng phới lồng đánh tới khi lòng đỏ bông nhẹ và chuyển sang màu vàng nhạt.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Cho dầu ăn vào âu lòng đỏ, khuấy đều. Cho sữa chua vào, khuấy đều.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Rây bột mì và bột hạnh nhân vào âu lòng đỏ, khuấy tới khi bột vừa hòa quyện, hỗn hợp mịn mượt thì dừng lại, không khuấy quá nhiều.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Cho một nhúm muối nhỏ vào âu lòng trắng, đánh ở tốc độ vừa tới khi có nhiều bọt khí to nổi lên thì cho cream of tartar vào. Tiếp tục đánh tới khi bọt khí nhỏ dần như bọt xà phòng thì cho 25 gram đường vào, tăng tốc độ máy lên cao nhất. Đánh tới khi lòng trắng bông gần cứng, kéo que đánh trứng lên thấy có chóp kéo theo nhưng hơi ngoặt xuống thì dừng lại.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Lấy ⅓ chỗ lòng trắng đánh bông cho vào hỗn hợp lòng đỏ, trộn nhẹ nhàng bằng phới lồng đến khi lòng trắng hòa quyện, hỗn hợp lòng đỏ lỏng ra bớt. </span></li>
+<li><span style="font-weight: 400; color: #000000;"> Chia chỗ lòng trắng còn lại thành 2 phần, trộn lần lượt vào hỗn hợp bột bằng kĩ thuật fold đến khi vừa hòa quyện thì dừng lại. Đập nhẹ khuôn xuống bàn khoảng 2 – 3 lần cho bọt khí to vỡ bớt.</span></li>
+</ol>
+<p><span style="color: #000000;"><span style="font-weight: 400;">Cụ thể về các thao tác đánh trứng, trộn bột các bạn có thể xem tại đây: </span><a href="/video-cach-danh-trung-bang-tay-cach-tron-bot-theo-kieu-fold/" style="color: #000000;"><span style="font-weight: 400;">/video-cach-danh-trung-bang-tay-cach-tron-bot-theo-kieu-fold/</span></a></span></p>
+<ol start="9">
+<li><span style="font-weight: 400; color: #000000;"> Đổ bột vào khuôn, xếp táo thái lát lên mặt bánh. Để táo không bị chìm, tạo ra khoảng hở trên mặt bánh hay bị rơi ra lúc bánh chín, bạn xếp táo bằng cách “cắm” nhẹ miếng táo xuống khoảng 1cm rồi lật ngang ra, để cho táo bám vừa đủ vào bánh. Nướng bánh ở 155-160 độ C trong 55 – 60 phút, tới khi ấn nhẹ vào mặt bánh thấy bánh phồng trở lại.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Sau khi lấy bánh ra khỏi lò, úp ngược bánh trên rack và để bánh nguội hoàn toàn trong khuôn sau đó mới lấy ra. Nếu bạn dùng khuôn tròn đế liền, dùng dao mỏng rạch quanh thành bánh và lấy bánh ra ngay sau khi bánh chín, để bánh nguồi hoàn toàn trên rack.</span></li>
+</ol>
+<p><span style="color: #000000;"><span style="font-weight: 400;">* Lưu ý: vì đây là một kiểu bánh gato nên kĩ thuật và các lưu ý khi làm bánh đều là các lưu ý khi làm bánh gato. Trong đó, ngoài việc cần trộn bột đúng cách để không vỡ bọt khí trong trứng đánh bông, thì còn cần lưu ý nhiệt nướng và thời gian nướng cho phù hợp, để bánh ra lò không bị xẹp, lõm… Các bạn có thể tham khảo thêm chi tiết trong bài viết này nhé: </span><span style="color: #0000ff;"><a href="/tong-hop-cac-nguyen-nhan-lam-banh-ga-to-lom-mat-day-that-eo-va-cach-khac-phuc/" style="color: #0000ff;"><span style="font-weight: 400;">/tong-hop-cac-nguyen-nhan-lam-banh-ga-to-lom-mat-day-that-eo-va-cach-khac-phuc/</span></a></span></span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,59 @@
+---
+title: "Cách làm CREPE CHUỐI KIỂU THÁI LAN – nhân SOCOLA, PHOMAI"
+date: "2022-03-23"
+slug: "cach-lam-crepe-chuoi-kieu-thai-lan-nhan-socola-phomai"
+categories: []
+tags: []
+image: "/wp-content/uploads/2022/03/IMG_1017-3-scaled.jpg"
+description: "Món ăn đường phố của Thái Lan với lớp vỏ ngoài giòn mỏng, thơm mùi bơ sữa, nhân hoa quả, socola ngọt ngào, ăn kèm với sữa đặc ngậy béo"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400;">Có bạn nào đã xem mấy video quay cảnh xe bán crepe chuối ở đường phố Thái Lan và bị ấn tượng với những chiếc bánh siêu mỏng, được “nướng” trên chảo, nhân ở giữa là mứt, chuối, phomai, socola, sau đó người bán sẽ rưới thêm 1 lớp sữa đặc ở trên không? Mình thì ấn tượng đến mức giờ nhắc tới street food Thái Lan chỉ nghĩ tới món đó thôi 😛</span></p>
+<p><span style="font-weight: 400;">Vỏ bánh mỏng giòn, thơm mùi bơ sữa, nhân bên trong ngậy béo, thêm 1 lớp sữa đặc ngọt thơm nữa, nghĩ thôi đã thấy “không thể không ngon” rồi 😁</span></p>
+<p><span style="font-weight: 400;">Không biết bao giờ mới quay lại Thái để ăn thử được nên lại mày mò tại nhà vậy. Đúng như mình dự đoán, không thể sai được, vị ngon đúng kiểu ai cũng thích, đặc biệt là tụi nhóc 😁</span></p>
+<p><span style="font-weight: 400;">Cách làm cũng không khó tí nào, bạn nào thích món này thì thử nha (còn ai mà ăn món này rồi thì cho mình xin nhận xét nhé 😁)</span></p>
+<h2><span style="color: #993300;"><strong>Cách làm CREPE CHUỐI KIỂU THÁI LAN – nhân SOCOLA, PHOMAI</strong></span></h2>
+<p><strong>Nguyên liệu:</strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><strong>A. Phần bột bánh:</strong></p>
+<ul>
+<li><em><span style="font-weight: 400;">25 gram trứng (đánh tan 1 quả trứng rồi cân lấy 25 gram)</span></em></li>
+<li><em><span style="font-weight: 400;">½ thìa canh sữa đặc </span></em></li>
+<li><em><span style="font-weight: 400;">130 gram nước</span></em></li>
+<li><em><span style="font-weight: 400;">25 gram bơ nhạt, để mềm ở nhiệt độ phòng nhưng chưa chảy nước</span></em></li>
+<li><em><span style="font-weight: 400;">250 gram bột mì đa dụng</span></em></li>
+<li><em><span style="font-weight: 400;">1 nhúm muối nhỏ</span></em></li>
+<li><em><span style="font-weight: 400;">15 gram dầu ăn + 15 gram bơ đun chảy (dùng để chống dính bột)</span></em></li>
+</ul>
+<p><strong>B. Phần nhân bánh (tùy thích):</strong></p>
+<ul>
+<li><em><span style="font-weight: 400;">Nutella, sốt socola chảy, mứt dâu tây,…</span></em></li>
+<li><em><span style="font-weight: 400;">Chuối cắt lát</span></em></li>
+<li><em><span style="font-weight: 400;">Phô mai mozzarella</span></em></li>
+<li><em><span style="font-weight: 400;">Sữa đặc</span></em></li>
+<li><em><span style="font-weight: 400;">Bơ hoặc dầu ăn để chiên bánh</span></em></li>
+</ul>
+<p><strong>Cách làm:</strong></p>
+<p><strong>A. Phần bột bánh:</strong></p>
+<p><span style="font-weight: 400;">1. Trộn đều toàn nguyên liệu lỏng gồm: trứng, sữa đặc và nước. </span></p>
+<p><span style="font-weight: 400;">2. Trong 1 âu khác, cho bột mì, muối, bơ mềm vào bát, dùng tay bóp đều để bột và bơ quyện đều, tạo thành 1 hỗn hợp ẩm mịn (cảm giác hơi giống cát ướt)</span></p>
+<p><span style="font-weight: 400;">3. Tạo lỗ nhỏ giữa âu bột, từ từ đổ hỗn hợp chất lỏng ở bước (1) vào và nhồi đến khi vừa hòa quyện. Đậy kín và để bột nghỉ 30 phút.</span></p>
+<p><span style="font-weight: 400;">4. Sau 30 phút, bột lúc này đã mịn màng và dẻo dai hơn nhiều. Thực hiện thao tác kéo và gập bột (giống như nhồi bánh mì) trong khoảng 3 – 5 phút cho bột mịn và dẻo hơn. </span></p>
+<p><span style="font-weight: 400;"><strong>* Lưu ý</strong>: Bột bánh sẽ khô hơn bột bánh mì bình thường khác nhiều, khi sờ vào hơi có cảm giác dính tay nhưng vẫn thao tác được dễ dàng. Nếu bột dính vào tay quá nhiều bạn hãy thêm từ từ 5-10 gram bột vào nhé. </span></p>
+<p><span style="font-weight: 400;">5. Đậy kín bột và để nghỉ thêm 5 phút.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400;">6. Chia bột thành 5-6 phần bằng nhau (khoảng 80-60 gram/phần), vo thành viên tròn, quét lên viên bột 1 lớp dày dầu ăn trộn với bơ chảy để chống dính.</span></p>
+<p><span style="font-weight: 400;">7. Che đậy kín các viên bột, để nghỉ thêm 30 phút ở nhiệt độ phòng.</span></p>
+<p><span style="font-weight: 400;"><strong>Lưu ý:</strong> Nếu không dùng bột ngay bạn có thể bảo quản trong tủ lạnh 1-2 ngày, khi cần dùng thì để bột ra ngoài nhiệt độ phòng đến khi bột hết lạnh nhé.</span></p>
+<p><img alt="" class="alignnone wp-image-9071" height="442" loading="lazy" sizes="(max-width: 442px) 100vw, 442px" src="/wp-content/uploads/2022/03/1-1-300x300.jpg" width="442"/></p>
+<p><strong>B. Hoàn thiện:</strong></p>
+<p><span style="font-weight: 400;">1. Quét 1 lớp dầu ăn và bơ lên khay để tạo hình bột, cho bột vào giữa khay, dùng đầu ngón tay nhấn nhẹ xung quanh mặt bột để bột mỏng ra (xem ảnh minh họa)</span></p>
+<p><span style="font-weight: 400;">Lưu ý: Bột rất mềm nên tạo hình rất dễ, nhưng không nên làm quá mỏng sẽ khiến bột dễ bị rách nhé. </span></p>
+<p><span style="font-weight: 400;">2. Làm nóng chảo ở lửa nhỏ, thêm bơ hoặc dầu ăn để chiên bánh, nhẹ nhàng nhấc bột lên đặt vào chảo, nhanh tay xếp chuối cắt lát, nutella, phô mai.. vào chính giữa bánh và dùng phới gấp 4 mặt bột vào giữa. Chiên vàng đều 2 mặt bánh, dùng khi còn nóng cùng nutella, socola và sữa đặc tùy thích.</span></p>
+<p><img alt="" class="alignnone wp-image-9072" height="450" loading="lazy" sizes="(max-width: 450px) 100vw, 450px" src="/wp-content/uploads/2022/03/2-1-300x300.jpg" width="450"/></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

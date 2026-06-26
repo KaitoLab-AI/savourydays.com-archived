@@ -1,0 +1,63 @@
+---
+title: "Cách làm BÁNH CUSTARD PHOMAI"
+date: "2022-04-29"
+slug: "cach-lam-banh-custard-phomai"
+categories: []
+tags: []
+image: "/wp-content/uploads/2022/04/IMG_5881-scaled.jpg"
+description: "Cách làm bánh su sâu phomai cực hot với vỏ gato mềm xốp và nhân kem trứng phomai béo ngậy, mát lạnh tan trong miệng"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400;">“Su sâu phomai” – Có bạn nào nghe tên mà cũng tò mò và khó hiểu như mình không?</span></p>
+<p><span style="font-weight: 400;">Món này các tiệm kinh doanh rất nhiều, mà nghĩ mãi không hiểu sao mọi người lại gọi như vậy, hóa ra là do nhân bánh là nhân kem trứng giống su kem 😁 </span></p>
+<p><span style="font-weight: 400;">Nói chung thì đây là một sự kết hợp không thể nào sai được, bạt bánh gato mềm xốp, nhân kem phomai mát lạnh, ngậy béo mà không quá ngấy, cắn một miếng là tan luôn trong miệng. Tuy cả bánh và kem đều không quá mới, nhưng kết hợp cùng nhau, trong tạo hình thế này thì lại “cuốn” một cách khó hiểu, cứ ăn một cái rồi lại thêm cái nữa cái nữa, cả team còn bảo nhau không biết là có gì đặc biệt nhưng mà không thể dừng được 😂</span></p>
+<p><span style="font-weight: 400;">Cách làm cực dễ, bạn nào đã làm bánh gato và kem custard rồi thì món này là chuyện cỏn con thôi. Còn bạn nào chưa làm thì cũng đừng lo, vì bạt bánh được nướng theo từng miếng mỏng nên gần như là không có chuyện xẹp lõm, làm kiểu gì cũng thành công ạ 😁</span></p>
+<h2><span style="color: #800000;">Cách làm BÁNH CUSTARD PHOMAI</span></h2>
+<p><strong>Nguyên liệu</strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><strong>A. Kem custard phomai</strong></p>
+<ul>
+<li><em><span style="font-weight: 400;">2 lòng đỏ trứng gà</span></em></li>
+<li><em><span style="font-weight: 400;">30 gram đường</span></em></li>
+<li><em><span style="font-weight: 400;">1 nhúm muối nhỏ</span></em></li>
+<li><em><span style="font-weight: 400;">20 gram bột ngô</span></em></li>
+<li><em><span style="font-weight: 400;">200 gram sữa tươi không đường</span></em></li>
+<li><em><span style="font-weight: 400;">3 miếng phomai con bò cười (hoặc có thể thay bằng cream cheese)</span></em></li>
+</ul>
+<p><strong>B. Bạt bánh gato</strong></p>
+<ul>
+<li><em><span style="font-weight: 400;">2 quả trứng gà (60 gram/quả cả vỏ)</span></em></li>
+<li><em><span style="font-weight: 400;">20 gram dầu ăn</span></em></li>
+<li><em><span style="font-weight: 400;">20 gram sữa tươi không đường</span></em></li>
+<li><em><span style="font-weight: 400;">¼ thìa cafe chiết xuất vani</span></em></li>
+<li><em><span style="font-weight: 400;">15 gram bột mì</span></em></li>
+<li><em><span style="font-weight: 400;">15 gram bột ngô</span></em></li>
+<li><em><span style="font-weight: 400;">30 gram đường</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><strong>A. Kem custard phomai</strong></p>
+<p><span style="font-weight: 400;">1. Đánh lòng đỏ với đường và muối tới khi lòng đỏ bông và chuyển màu vàng nhạt. </span></p>
+<p><span style="font-weight: 400;">2. Cho bột ngô vào âu, trộn đến khi hòa quyện hoàn toàn.</span></p>
+<p><span style="font-weight: 400;">3. Cho từ từ sữa tươi, trộn đến khi hòa quyện hoàn toàn. Lọc hỗn hợp qua rây vào nồi.</span></p>
+<p><span style="font-weight: 400;">4. Khuấy đều kem trên lửa vừa – nhỏ tới khi kem đặc, nếm thử thấy không còn vì bột sốt hay mùi trứng tanh thì tắt bếp, ngay lập tức cho toàn bộ phomai vào trộn đến khi phomai tan hết.</span></p>
+<p><span style="font-weight: 400;">5. Lưu ý nên nấu kem đặc một chút thì khi bóp vào bánh sẽ không bị chảy.</span></p>
+<p><span style="font-weight: 400;">6. Cho vani vào kem, trộn đều. Đổ kem ra bát, dùng nilon bọc thực phẩm dán sát mặt kem, để kem nguội hoàn toàn.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p> </p>
+<p><strong>B. Bạt bánh gato</strong></p>
+<p><span style="font-weight: 400;">1. Các thao tác làm bạt bánh gato mình đã ghi rất chi tiết tại đây, các bạn xem nhé: </span><a href="/cach-lam-chiffon-cam-mem-nhu-bong-nhe-nhu-may/"><span style="font-weight: 400;">/cach-lam-chiffon-cam-mem-nhu-bong-nhe-nhu-may/</span></a></p>
+<p><span style="font-weight: 400;">2. Sau khi trộn bột xong, cho bột vào túi bắt kem, cắt đầu túi khoảng 1.5cm. Bóp bột lên khay nướng có lót giấy nến, độ dày khoảng 1cm, đường kính khoảng 15cm tùy sở thích. </span></p>
+<p><span style="font-weight: 400;"><strong>Lưu ý:</strong> Không bóp bột quá dày, tránh việc bánh bị gãy khi hoàn thiện.</span></p>
+<p><span style="font-weight: 400;">3. Nướng bánh ở 155 – 160 độ C (lò nướng đã làm nóng trước 20 phút) trong khoảng 15 – 18 phút, tới khi bánh vàng, ấn tay vào thấy bánh đàn hồi trở lại.</span></p>
+<p><span style="font-weight: 400;">4. Để bánh nguội hoàn toàn, dùng khuôn ring đường kính 10cm để cắt bánh.</span></p>
+<p><span style="font-weight: 400;">5. Cho kem custard vào túi bắt kem có lồng đui (mình dùng đui sò 2D/1M), bóp kem vào bánh như trong video.</span></p>
+<p><span style="font-weight: 400;">6. Rắc phomai bào sợi tùy thích lên bánh.</span></p>
+<p><span style="font-weight: 400;">7. Bánh sau khi làm xong nên để tủ lạnh 1 vài giờ ăn sẽ ngon hơn. Bánh chưa ăn hết bảo quản ngăn mát tủ lạnh được khoảng 2 – 3 ngày.</span></p>
+<p><img alt="" class="alignnone wp-image-9120" height="396" loading="lazy" sizes="(max-width: 591px) 100vw, 591px" src="/wp-content/uploads/2022/04/IMG_5895-300x201.jpg" width="591"/></p>
+<p><img alt="" class="alignnone wp-image-9119" height="396" loading="lazy" sizes="(max-width: 591px) 100vw, 591px" src="/wp-content/uploads/2022/04/4.5-Bảo-quản.00_10_58_04.Still002-300x201.jpg" width="591"/></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

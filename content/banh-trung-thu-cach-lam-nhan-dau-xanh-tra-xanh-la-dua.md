@@ -1,0 +1,116 @@
+---
+title: "{Bánh trung thu} Cách sên nhân đậu xanh – trà xanh – lá dứa"
+date: "2014-08-03"
+slug: "banh-trung-thu-cach-lam-nhan-dau-xanh-tra-xanh-la-dua"
+categories: []
+tags: []
+image: "/wp-content/uploads/2014/08/NhanDauXanh.jpg"
+description: "nhân đậu xanh bánh nướng, nhân trà xanh, bánh trung thu"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p> </p>
+<p>Nhân đậu xanh là một trong những loại nhân cơ bản nhất của cả bánh nướng và bánh dẻo truyền thống. Nguyên liệu để làm nhân đậu xanh không cầu kì, thường chỉ gồm đậu đã xát vỏ, đường, dầu ăn, mạch nha, bột mì hoặc bột bánh dẻo (bánh in – nếu có).</p>
+<p>Phần phức tạp có lẽ nằm ở công đoạn nấu và sên nhân. Thời gian sên nhân lâu là một phần (thường sên nhân sẽ mất 1.5 – 2h đồng hồ, sên càng kĩ nhân sẽ càng giữ được lâu). Phần khó khác, nhất là với các bạn lần đầu tiên làm, là ở cách xử lí và thao tác để làm sao cho nhân có độ mịn tối đa, ăn vào hoàn toàn không thấy gợn đậu, ngoài ra còn phải mềm dẻo và không bị khô. Mặc dù đọc các chỉ dẫn thì cảm giác là rất dễ, chỉ cần cho lên chảo để lửa nhỏ và đảo luôn tay, nhưng khi làm thật mới thấy có không ít vấn đề phát sinh: khi thì nhân khô quá, khi thì nhân bị tách dầu, khi thì ướt quá… Mình làm cũng phải đến mẻ thứ 4 hay thứ 5 mới thấy nhân tương đối đạt đủ các yêu cầu đề ra: mịn mượt, không khô, không bở, cắn vào không bị vỡ vụn như bột mà dẻo mềm, không ngọt quá, không dầu quá, và có thể để được lâu. <del>Vì đã sắp đến Trung thu rồi nên mình giới thiệu cách làm phần nhân cơ bản này trước. Mình sẽ tiếp tục thử nghiệm với các nguyên liệu và mùi vị mới, nếu có phát hiện nào hay ho hơn mình sẽ cập nhật sau nhé.</del></p>
+<p>Cập nhật: <span style="color: #ff0000;"><em>Trung thu 2015, sau rất nhiều mẻ nhân mình đã rút ra được công thức ổn nhất và <a href="/video-cach-sen-nhan-dau-xanh-banh-trung-thu/" target="_blank"><strong>quay video</strong></a>, bởi vậy nên phần nguyên liệu và cách làm dưới đây mình sẽ điều chỉnh lại theo công thức mới này nha.</em> </span></p>
+<p style="text-align: center;"><em>Bánh nướng nhân đậu xanh &amp; nhân sữa dừa</em></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14628006410/" title="IMG_8260-1 by LinhTrang9185, on Flickr"><img alt="IMG_8260-1" class="aligncenter" height="335" loading="lazy" src="https://farm3.staticflickr.com/2919/14628006410_cf5bb0be20.jpg" width="500"/></a></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu<br/>
+</strong></span></p>
+<ul>
+<li><em>200 gram đậu xanh đã cà vỏ</em></li>
+<li><em>80 gram đường (có thể điều chỉnh tùy khẩu vị)</em></li>
+<li><em>70 – 75 gram dầu ăn (mình dùng dầu dừa/ coconut oil vì thơm và tốt cho sức khỏe hơn dầu ăn thông thường)</em></li>
+<li><em>10 gram bột mì hoặc</em> <em>bột ngô (corn starch) hòa tan với 40 – 50 ml nước</em></li>
+</ul>
+<p>(*) <strong><span style="color: #800000;">Ghi chú:</span></strong></p>
+<p>– Phần nguyên liệu trên làm được khoảng <strong>550 gram nhân đậu</strong>. Với bánh nướng, phần nhân thường chiếm 2/3 tổng trọng lượng bánh. Ví dụ, nếu làm bánh 75 gram thì nhân sẽ chiếm 75 x 2/3 = 50 gram.</p>
+<p>Như vậy, để làm bánh nướng cỡ 75 gram và trong nhân không có trứng muối, chỉ hoàn toàn là đậu thì một công thức trên có thể làm được khoảng 11 cái bánh. Nếu có trứng muối (một lòng đỏ thường nặng khoảng 8 – 12 gram) thì các bạn trừ phần trứng đi sẽ có phần đậu cần thiết cho một bánh.</p>
+<p>Bánh dẻo có lớp vỏ dày hơn, nên nhân thường chỉ chiếm 1/2 hoặc 1/3 tổng trọng lượng bánh. Cũng theo cách tương tự như trên, các bạn có thể tự tính lượng nhân cần thiết để làm nhé.</p>
+<p>– Một số công thức làm nhân đậu có thêm mạch nha, thường là khoảng 15 gram mạch nha cho 200 gram đậu xanh. Mình không dùng và thấy nhân vẫn rất ổn.</p>
+<p>– Dầu ăn cho nhân bánh: các công thức mình biết đều dùng dầu ăn thông thường nhưng <em><strong>mình dùng dầu dừa</strong></em> vì hai ưu điểm chính là:</p>
+<ul>
+<li>Khi đun ở nhiệt độ cao trong một khoảng thời gian dài thì dầu dừa là loại dầu tốt cho sức khỏe nhất.</li>
+<li>Dầu dừa khi cháy không có mùi hôi như các loại dầu ăn thông thường, ngồi cạnh chảo sên nhân trong thời gian dài cũng không lo quần áo đầu tóc bị ám mùi dầu.</li>
+</ul>
+<p>Nhưng đây chỉ là ý kiến cá nhân của mình thôi, nếu không có dầu dừa thì các bạn cứ dùng các loại dầu ăn bình thường, sẽ không ảnh hưởng đến mùi vị của nhân bánh nhé. Ở nước ngoài, các bạn có thể tìm mua dầu dừa tại các quầy bán đồ châu Á, tên tiếng Anh là <em>coconut oil </em>(khác với nước cốt dừa – <em>coconut milk</em>).</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14628082898/" title="IMG_8258-1 by LinhTrang9185, on Flickr"><img alt="IMG_8258-1" class="aligncenter" height="328" loading="lazy" src="https://farm4.staticflickr.com/3889/14628082898_d06cb342b0.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>Cách làm cụ thể mời các bạn xem tại video dưới đây. Nếu không xem được tại blog thì các bạn có thể xem trực tiếp tại <a href="http://www.youtube.com/savourydayscom" target="_blank"><strong>kênh YouTube của Savoury Days</strong></a> nhé (các bạn có thể Subscribe/ đăng kí theo dõi kênh để được nhận thông báo khi có video mới và xem các video mình không đăng tại blog).</p>
+<p>Link video: <a href="https://youtu.be/1zBuf2O9oX4">https://youtu.be/1zBuf2O9oX4 </a></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/1zBuf2O9oX4" width="560"></iframe></div>
+<p> </p>
+<p>(*) <strong>Một vài lưu ý:</strong></p>
+<p>– Khi đun đậu, nước có thể sẽ cạn rất nhanh nên cần theo dõi để thêm nước, sao cho nước luôn ngập đậu.</p>
+<p>– Khi đậu đã chín mềm, chỉ cần dùng thìa quấy hay miết cũng thấy đậu vỡ nát ra mới mang đậu đi xay đến khi đậu nhuyễn mịn hẳn, thành dạng lỏng như chè đậu xanh loãng.</p>
+<p>– <em>Làm theo cách này sẽ cho đậu mịn hơn nhiều so với cách hấp đậu rồi xay. Thời gian xay cũng ngắn hơn và vì có nhiều nước nên sẽ bớt lo ngại việc có thể cháy máy xay hơn.</em></p>
+<p>– <em>Nếu không có máy xay, các bạn có thể dùng phới lồng hoặc thìa nghiền nát đậu, rồi lọc hỗn hợp qua rây từ 2 – 3 lần cho thật mịn.</em></p>
+<p>– Mục đích của việc sên nhân là để rút bớt nước từ hỗn hợp đậu, thay vào bằng dầu ăn, giúp cho đậu trở nên mềm dẻo hơn mà không bị khô bở sau khi nguội. Nhân có ít nước cũng giữ được lâu hơn và không bị mốc.<em> Mặc dù có một số cách sên khác dùng lò vi sóng hoặc trộn thêm bột… giúp rút ngắn thời gian này. Nhưng theo kinh nghiệm của các bậc tiền bối làm nghề lâu năm với bánh trung thu thì sên nhân càng kĩ sẽ giúp cho nhân để được càng lâu (có thể để cả chục ngày mà không hỏng). </em></p>
+<p>– Nên chia dầu ăn thành nhiều phần nhỏ và cho vào từ khi nhân còn loãng, quấy đều để dầu ăn được quyện hết vào nhân mới cho phần tiếp theo.</p>
+<p><span style="color: #ff0000;">Nếu cho dầu ăn chậm, đợi đến khi nhân khô và dẻo mới cho thì dầu ăn sẽ khó ngấm vào trong phần bột, dầu và bột rất khó hòa quyện, thậm chí còn có thể có hiện tượng như tách dầu: bột vón lại thành từng cục nhỏ li ti, dầu bao quanh,  hoặc chảy ngược dầu ra ngoài.<br/>
+</span></p>
+<p style="text-align: center;"><em>khi nhân đã đặc như thế này thì không nên cho thêm gì nữa</em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14628081509/" title="IMG_5907 by LinhTrang9185, on Flickr"><img alt="IMG_5907" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3919/14628081509_d498d15777.jpg" width="500"/></a></p>
+<p>Nếu dùng mạch nha, bạn có thể cho vào khi nhân tương đối sệt. Một vài công thức có dùng thêm bột bánh dẻo nhưng vì đậu xanh vốn đã có nhiều tinh bột, nhân sên đủ khô thì độ đứng sẽ rất tốt nên mình không dùng.</p>
+
+
+<p>Nhân sên đạt sẽ rất mềm, mịn và dẻo. Nhưng đồng thời cũng khô, không dính tay và có độ “đứng” nhất định. Thử nhân bằng cách: khi nhân còn nóng, các bạn lấy một phần nhỏ và vo tròn, nếu nhân giữ nguyên hình dáng, có thể đứng thẳng, không bị chảy mềm nhão là nhân đạt (sẽ không chảy khi nướng trong lò.)</p>
+<p>Trong khi để nguội nhân, thi thoảng nên đảo đều để mặt nhân không bị khô.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14791745186/" title="IMG_5911 by LinhTrang9185, on Flickr"><img alt="IMG_5911" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3905/14791745186_1132a54af9.jpg" width="500"/></a></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14814389742/" title="IMG_5787 by LinhTrang9185, on Flickr"><img alt="IMG_5787" class="aligncenter" height="333" loading="lazy" src="https://farm3.staticflickr.com/2933/14814389742_13761aa38d.jpg" width="500"/></a></p>
+<p>Nếu làm đúng theo quy trình trên thì khả năng làm hỏng nhân là rất thấp. Hai vấn đề thường gặp nhất khi sên nhân là:</p>
+<ul>
+<li>Nhân bị tách dầu</li>
+<li>Nhân quá khô</li>
+</ul>
+<p>Hai trường hợp này có thể khắc phục bằng cách pha nước nóng cho nhân loãng ra một chút rồi sên lại. Nếu nhân bị tách dầu thì khi sên lại cần để lửa rất nhỏ. Nếu nhân quá khô thì khi sên lại có thể cho thêm chút dầu hoặc mạch nha.</p>
+<p>Nếu muốn nhân có thêm mùi thơm, khi sên gần xong các bạn có thể cho thêm ít vani hoặc tinh dầu hoa bưởi. Hoặc biến tấu theo một vài gợi ý ở cuối bài.</p>
+<p><strong>BẢO QUẢN</strong>: Nhân bánh có thể bảo quản trong ngăn mát tủ lạnh và dùng ngay trong 1 ngày (để lâu hơn nhân sẽ dễ bị khô). Hoặc để ngăn đá trong 2 – 3 tháng, khi cần dùng rã đông trong ngăn mát tủ lạnh rồi để ra ngoài đợi hết hẳn lạnh thì dùng. Nếu bọc kín thì sau khi để hết lạnh hoàn toàn, nhân sẽ mềm dẻo như lúc vừa sên xong.</p>
+<p style="text-align: center;"><em>Nhân đậu xanh, trà xanh và sữa dừa</em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14628006200/" title="IMG_8264-1 by LinhTrang9185, on Flickr"><img alt="IMG_8264-1" class="aligncenter" height="334" loading="lazy" src="https://farm4.staticflickr.com/3874/14628006200_da6e1a229b.jpg" width="500"/></a></p>
+<p>Từ nhân đậu xanh, tùy theo khẩu vị và sở thích mà các bạn có thể biến tấu ra rất nhiều loại nhân với các vị khác nhau như nhân đậu xanh trà xanh, nhân đậu xanh lá dứa, nhân đậu xanh sầu riêng, đậu xanh vừng (mè), đậu xanh dừa, hay đậu xanh với các loại hạt như hạt điều, hạt dưa, hạt bí…</p>
+<p>Nếu là các loại hạt thì cần rang chín trước khi trộn với nhân. Còn cách làm n<span style="color: #800000;"><strong>hân trà xanh và nhân lá dứa</strong> thì cụ thể như sau:</span></p>
+<p>Khi sên nhân đậu xanh gần đạt: đã cho hết dầu hoặc gần hết dầu và nhân vẫn còn hơi lỏng, các bạn pha thêm bột trà hoặc vị lá dứa theo tỉ lệ:</p>
+<p>(*) <span style="color: #800000;"><strong>Nhân trà xan</strong></span>h: Pha 7 – 10 gram bột trà xanh với 30 – 40 ml nước nóng cho tan hết. Cho vào trộn đều cùng nhân đậu xanh rồi sên tiếp.</p>
+<p>(*) <span style="color: #800000;"><strong>Nhân lá dứa</strong></span>: Pha 1/2 – 2/3 thìa café <em>pandan paste </em>(chiết xuất lá dứa) với 20 – 30ml nước nóng. Cho vào trộn đều cùng nhân đậu xanh rồi sên tiếp.</p>
+<p><em>Lượng bột trà và lá dứa có thể thay đổi tùy vào độ đậm đặc của bột trà và khẩu vị người ăn. Mình dùng 10 gram bột trà thì thấy màu khá đậm và vị hơi đắng một chút, nên 7 – 8 gram có lẽ vừa hơn.</em></p>
+<p><em>Các bạn có thể dùng nước cốt vắt từ lá dứa tươi, xem thêm c<a href="/tu-lam-mau-thuc-pham-tu-rau-cu-qua-tu-nhien/" target="_blank"><strong>ách làm trong bài viết về làm màu tự nhiên</strong></a>.  </em></p>
+<p style="text-align: center;"><em>Nhân lá dứa</em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14812368374/" title="IMG_5915 by LinhTrang9185, on Flickr"><img alt="IMG_5915" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3918/14812368374_fc3b90d448.jpg" width="500"/></a></p>
+<p><strong>BÀI VIẾT CÙNG CHỦ ĐỀ TRUNG THU</strong></p>
+<p><strong>A. Kiến thức chung</strong></p>
+<ol>
+<li><a href="/tong-hop-cach-lam-banh-nuong-banh-deo-trung-thu-a-z/">Tổng hợp cách làm bánh nướng, bánh dẻo trung thu</a></li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+<li><a href="/trung-muoi/" target="_blank">Cách làm trứng muối</a></li>
+<li><a href="/banh-trung-thu-cach-xu-li-trung-muoi-cho-nhan-banh-trung-thu/" target="_blank">Cách xử lí trứng muối để làm nhân bánh</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" target="_blank">Cách chọn khuôn bánh trung thu</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" target="_blank">Cách làm rượu Mai Quế Lộ</a></li>
+<li><a href="/tu-lam-mau-thuc-pham-tu-rau-cu-qua-tu-nhien/" target="_blank">Tự làm màu thực phẩm từ rau củ quả tự nhiên</a></li>
+</ol>
+<p><strong>B. Cách làm bánh nướng trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-nau-nuoc-duong-cho-banh-nuong/" target="_blank">Cách nấu nước đường bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-lam-banh-nuong/" target="_blank">Cách làm bánh nướng trung thu (</a>trộn bột, bọc nhân, đóng bánh và nướng)</li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-dau-xanh-tra-xanh-la-dua/" target="_blank">Cách làm nhân đậu xanh – trà xanh – lá dứa</a></li>
+<li><a href="/banh-trung-thu-nhan-thap-cam-nhan-sua-dua/" target="_blank">Cách làm nhân thập cẩm – sữa dừa</a></li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-sen-nhuyen/" target="_blank">Cách làm nhân sen nhuyễn</a></li>
+<li><a href="/banh-trung-thu-tra-xanh-nhan-dau-do/" target="_blank">Bánh trà xanh nhân đậu đỏ</a></li>
+<li><a href="/banh-trung-thu-banh-nuong-hoa-cuc-vi-chanh-leo-nghe-tay-va-chanh-vang/" target="_blank">Bánh hoa cúc vàng (vị nghệ tây, chanh vàng, chanh leo)</a></li>
+<li><a href="/red-velvet-rose-mooncake-banh-nuong-nhan-chocolate-rum-nho/" target="_blank">Bánh nướng hoa hồng đỏ (màu đỏ củ dền, nhân café, chocolate, rum nho)</a></li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+</ol>
+<p><strong>C. Cách làm bánh dẻo trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-lam-banh-deo/" target="_blank">Cách làm bánh dẻo kiểu Việt Nam ít ngọt</a></li>
+<li><a href="/banh-trung-thu-chia-se-kinh-nghiem-lam-banh-deo/" target="_blank">Giải đáp các thắc mắc/ vấn đề thường gặp khi làm bánh dẻo</a></li>
+</ol>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

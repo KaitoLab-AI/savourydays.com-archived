@@ -1,0 +1,45 @@
+---
+title: "Mẫu đơn ĐĂNG KÍ LỚP HỌC LÀM BÁNH THÁNG 11/2017"
+date: "2017-10-28"
+slug: "mau-don-dang-ki-lop-hoc-lam-banh-thang-112017"
+categories: ["Bếp nhà mình"]
+tags: []
+image: "/wp-content/uploads/2017/10/SD-Baking-class_banner.jpg"
+description: ""
+---
+
+<p><img alt="" class="aligncenter size-large wp-image-7449" height="317" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2017/10/SD-Baking-class_banner-1024x317.jpg" width="1024"/></p>
+<p>Các bạn thân mến,</p>
+<p><span style="color: #ff0000;"><strong>Cảm ơn các bạn, hiện đã có gần 100 bạn đăng ký nên mình xin phép đóng đơn cho tháng 11. Mình sẽ cân nhắc mở thêm lớp trong tháng 12 để đáp lại sự hưởng ứng nhiệt tình của các bạn. Một lần nữa cảm ơn các bạn rất nhiều và hẹn gặp các bạn tại lớp cuối tuần tới :)</strong></span></p>
+<p>Thân mến,</p>
+<p>Linh Trang</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>————</p>
+<p>Để tham dự lớp học làm bánh tháng 11/2017 do Linh Trang Savoury Days giảng dạy, mời các bạn điền thông tin vào mẫu đơn này nhé:</p>
+<p>15 bạn đăng ký sớm nhất sẽ được nhận vào lớp. Ưu tiên các bạn đăng ký học cả khoá. Các bạn đăng kí muộn hơn sẽ được ưu tiên khi đăng ký học các lớp/ khoá tiếp theo.</p>
+<p>Khoá học tháng 11 về BÁNH MÌ CƠ BẢN, chi tiết về từng buổi mời các bạn xem tại đường link này: <a href="/lich-hoc-lam-banh-thang-11/">/lich-hoc-lam-banh-thang-11/</a></p>
+<p>Tóm tắt các loại bánh học ở từng buổi như sau:</p>
+<p><strong>BUỔI 1</strong> (thứ Bảy ngày 4/11): Bánh mì ngọt mềm cơ bản (Milk bun). Cách tạo hình bánh mì tròn và bánh mì dạng ổ với nhân phô-mai và nhân custard. Thực hành tại nhà gồm (1) bánh mì gối trắng, (2) bánh mì Hokkaido hoặc (3) Papparoti.</p>
+<p><strong>BUỔI 2</strong> (thứ Bảy ngày 11/11): Bánh mì hoa cúc Harry’s Brioche và cách nhồi bột bánh mì Brioche chuẩn kiểu Pháp. Tạo hình tết bím. Thực hành tại nhà: (1) Bánh mì Brioche kiểu Pháp, (2) bánh mì nhân mặn hoặc (3) Hamburger.</p>
+<p><strong>BUỔI 3</strong> (thứ Bảy ngày 18/11): Bánh Pizza hai kiểu đế mềm và đế giòn. Cách làm sốt Pizza chuẩn vị Ý và một số gợi ý về các kiểu topping cho bánh. Tổng kết toàn khoá học.</p>
+<p>* Đầu buổi 2 và buổi 3 sẽ có giờ nhận xét các loại bánh làm tại nhà, giải đáp thắc mắc và các vấn đề/ khó khăn các bạn gặp phải khi làm bánh. Tại lớp các bạn sẽ được thực hành từ A-Z.</p>
+<p>DANH SÁCH CÁC BẠN ĐƯỢC NHẬN sẽ được thông báo tại website www.savourydays.com. Ban tổ chức lớp học sẽ liên hệ trực tiếp với các bạn từ địa chỉ mail hoclambanhSD@gmail.com để trao đổi về thủ tục đóng học phí và xác nhận lại việc tham gia học.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Cảm ơn các bạn nhiều.</p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

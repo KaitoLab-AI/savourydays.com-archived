@@ -1,0 +1,48 @@
+---
+title: "Incredibly easy chocolate cake"
+date: "2013-12-23"
+slug: "incredibly-easy-chocolate-cake"
+categories: []
+tags: []
+image: "/wp-content/uploads/2013/12/IncrediblyEasyChocoCake.jpg"
+description: "làm bánh đơn giản, bánh chocolate"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Thật ra mình định đặt tên cho món bánh này là <em>Incredibly easy and yummy chocolate cake. </em>Nhưng lại sợ là mọi người đọc xong cái tên đã mệt rồi, chả thèm đọc đến công thức nữa, cho nên tạm rút phần “yummy” ra ngoài (cơ mà cũng không cần thiết lắm vì bánh home-made đương nhiên là lúc nào cũng ngon, nhỉ? ;) ).</p>
+<p>Nhưng hai chữ “<em>incredibly easy”</em> (tạm dịch: siêu dễ, cực dễ, dễ khủng khiếp :P ) hoàn toàn không hề sai với món bánh này. Bởi nó được làm với phương pháp Muffin, không phải đánh bông bơ, không phải đánh bông trứng, cũng không cần máy móc gì cả, chỉ cần một cái âu với một cái phới trộn, chưa đầy 15 phút là xong. Tuy cách làm đơn giản như vậy, nhưng kết quả thì thật sự <em>incredibly yummy</em> . Nếu bạn vẫn nghĩ là Muffin thuộc dòng <em>quick bread </em>nên sẽ khó được mềm mại như <em>cake </em>thì hãy thử món bánh này, chắc chắn là sẽ ngạc nhiên đấy, vì nó không hề thua kém bánh làm theo kiểu <em>creaming </em>hay <em>sponge</em> tẹo nào:<em> </em>ẩm, mềm, xốp và thơm mùi chocolate, có thể dùng làm cốt bánh cho nhiều dịp khác nhau, với kem tươi, kem bơ, hoặc kể cả fondant nữa.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/11514600083/" title="IMG_4347-1 by LinhTrang9185, on Flickr"><img alt="IMG_4347-1" class="aligncenter" height="640" loading="lazy" src="http://farm6.staticflickr.com/5489/11514600083_fd9c89303c_z.jpg" width="464"/></a></p>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn tròn đường kính 15cm hoặc 12 khuôn Muffin/ Cupcake đường kính miệng 3-4cm, cao 3-4cm.</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em>160gram bột mì đa dụng (all purpose flour)</em></li>
+<li><em>60gram bột cacao nguyên chất không đường</em></li>
+<li><em>160gram đường – <strong>xay mịn</strong></em></li>
+<li><em>5gram bột nở (baking powder)</em></li>
+<li><em>3gram muối nở (baking soda)</em></li>
+<li><em>1 trứng gà (50gram/quả không tính vỏ) <em>– <strong>nhiệt độ phòng </strong></em></em></li>
+<li><em>1 lòng đỏ trứng (18-20gram)</em></li>
+<li><em>100gram sữa chua không đường – <strong>nhiệt độ phòng </strong></em></li>
+<li><em>150gram sữa tươi không đường <em>– <strong>nhiệt độ phòng </strong></em></em></li>
+<li><em>75gram bơ nhạt – đun chảy, để nguội </em></li>
+<li><em>5ml vanilla</em></li>
+</ul>
+<p><a href="http://www.flickr.com/photos/55490207@N05/11514600053/" title="IMG_4367-1 by LinhTrang9185, on Flickr"><img alt="IMG_4367-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7410/11514600053_288ac2598d_z.jpg" width="428"/></a><br/>
+<span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Chuẩn bị khuôn. Nếu dùng khuôn Muffin/ Cupcake thì lót cốc giấy vào các khuôn. Nếu dùng khuôn to thì chống dính khuôn bằng cách quét một lớp bơ mỏng khắp lòng khuôn, rắc một lớp bột mỏng lên rồi úp ngược khuôn, gõ nhẹ cho bột thừa rơi ra ngoài.</p>
+<p>Làm nóng lò trước khi nướng từ 10-15 phút, nhiệt độ 175 độ C (hai lửa).</p>
+<p>2. Rây bột mì, bột cacao, đường, bột nở, muối nở vào âu trộn. Trộn đều.</p>
+<p>3. Trong một âu khác, trộn đều bơ, trứng gà, sữa chua, sữa tươi và vanilla.</p>
+<p>4. Nhẹ nhàng đổ hỗn hợp ướt ở (3) vào hỗn hợp khô ở (2). Dùng thìa hoặc phới trộn nhanh tay đến khi hai hỗn hợp vừa đủ hòa quyện thì dừng lại. Lưu ý vét cả thành và đáy âu. Quá trình này sẽ mất khoảng 15-25 giây. <em>Chỉ trộn đến khi hỗn hợp vừa đủ ướt, bột có thể sẽ hơi lổn nhổn. Nhưng không trộn quá lâu đến khi bột mịn mượt, sẽ làm bánh nở kém, chai cứng và có nhiều ống khí rỗng bên trong. <a href="/nhat-ky-lam-banh-phan-2-muffins/">Xem thêm lưu ý trong bài về Muffin method</a>.</em></p>
+<p>5. Chia bột vào các khuôn nhỏ hoặc đổ bột vào khuôn lớn. Đem đi <span style="text-decoration: underline;"><strong>nướng ngay</strong></span> ở nhiệt độ 170 – 175 độ C (hai lửa) trong 20 – 25 phút với khuôn Cupcake hoặc 40 – 45 phút với khuôn to. Thử bánh chín bằng cách cắm một que tăm vào giữa bánh, nếu rút lên thấy que sạch và khô là bánh đã chín. Hoặc thành bánh hơi tách khỏi khuôn, ấn nhẹ tay lên mặt bánh sẽ thấy vết lõm lập tức phồng trở lại. Trong thời gian cuối, nên chú ý và lấy bánh ra khi bánh vừa chín tới, không lấy ra quá muộn sẽ dễ làm bánh bị khô cứng bên ngoài, không lấy ra quá sớm, ruột bánh có thể còn ẩm nhiều, sẽ làm mặt bánh bị võng xuống.</p>
+<p>* <em>Nhiệt độ và thời gian nướng có thể thay đổi tùy theo lò. Bánh này khá ẩm, nướng trong các khuôn bánh nhỏ như Muffin  hay Cupcake sẽ dễ hơn là nướng trong các khuôn to, do nhiệt truyền vào bên trong bánh nhanh và đều hơn. Nếu dùng khuôn to, đặc biệt với các lò nướng nhỏ hoặc lửa trên thường nóng hơn, nên chú ý chỉnh nhiệt độ để bánh không bị khô cứng hay cháy bên ngoài mà bên trong chưa chín. </em></p>
+<p><em>Xem thêm về cách nướng bánh và chỉnh nhiệt độ/ thời gian nướng tại bài viết</em>: Cách chỉnh lò nướng: <a href="/lo-nuong-kinh-nghiem-nuong-banh/">Phần 1</a> – <a href="/kinh-nghiem-nuong-banh-phan-2/">Phần 2</a></p>
+<p>6. Lấy bánh ra khỏi lò, để bánh nguội hoàn toàn trên rack.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Về phần trang trí bánh thì tùy thích nhé :) Bánh trong hình của mình dùng kem tươi (40% béo) đánh bông, bắt hoa hồng với tip Wilton 1M (cách bắt hoa xem trong bài <a href="/cong-thuc-cupcake-co-ban-kem-bo-sua-tuoi/">Cupcake hoa hồng</a>). Còn bông hoa màu vàng là hoa thật và ăn được, đính lên cho thêm rực rỡ. Với 1 công thức bánh sẽ cần khoảng 350 – 450ml kem tươi (chưa đánh bông) tùy theo việc bạn muốn bánh có 2, 3, 4 tầng… Bánh sau khi phủ kem, để lạnh qua đêm sẽ ngon hơn.</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

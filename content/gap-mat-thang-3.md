@@ -1,0 +1,57 @@
+---
+title: "Gặp mặt tháng 3"
+date: "2013-03-25"
+slug: "gap-mat-thang-3"
+categories: ["Chuyện hàng ngày", "Về tôi"]
+tags: []
+image: "http://farm9.staticflickr.com/8529/8588224747_dae3d704f7.jpg"
+description: ""
+---
+
+<p>Sau gần một tháng chờ đợi, cuối cùng thì ngày họp mặt tại Hà Nội cũng đã đến.</p>
+<p>Thời gian bắt đầu theo kế hoạch là 2h, nhưng ngay từ 1h hơn đã có bạn đến, tới gần 2h thì căn phòng có thể chứa được 70-80 người đã kín hơn một nửa, và sau khoảng 15 phút thì phòng gần như chật cứng.</p>
+<div style="clear: both;"></div>
+<p style="text-align: center;"><em>không khí tại địa điểm gặp mặt ngày hôm qua ^^</em></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/8588224747/" title="IMG_0024 by LinhTrang9185, on Flickr"><img alt="IMG_0024" height="333" loading="lazy" src="http://farm9.staticflickr.com/8529/8588224747_dae3d704f7.jpg" width="500"/></a></p>
+<p style="text-align: left;">Mặc dù đã nắm được số lượng các bạn sẽ tới dự từ trước qua đăng kí trên blog, nhưng thực sự mình vẫn rất bất ngờ và cảm động trước tình cảm của mọi người. Đặc biệt là khi  thời tiết ở Hà Nội đợt này không dễ chịu tí nào, vẫn đang là mùa Xuân nhưng tiết trời đã oi bức và nóng nực như mùa Hè. Ngày hôm qua có lẽ là đỉnh điểm của sự oi nóng. Nhiệt độ buổi trưa chắc phải đến khoảng 31-32 độ C. Phòng địa điểm gặp mặt mặc dù đã được huy động điều hòa và quạt hết cỡ nhưng không khí vẫn khá ngột ngạt và bí bức. Mình  thực sự áy náy vì không lo được cơ sở vật chất tốt hơn, nhưng cũng rất cảm động vì các bạn đã không kể đến cái nóng trong phòng mà ngồi lại với mình đến tận cuối buổi. Cảm ơn cả nhà nhiều lắm lắm :x<span id="more-3854"></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p style="text-align: left;">“Chương trình” họp mặt diễn ra có lẽ là suôn sẻ :) Phần đầu tiên các bạn chủ yếu đặt câu hỏi xoay quanh làm bánh và nấu nướng. Hôm qua nói thật là mình có hơi hồi hộp và “ca-mơ-run” một chút, nên đôi chỗ trả lời hơi thiếu trôi chảy, nhưng hi vọng là cả nhà hài lòng với các câu trả lời. Có một phần bonus không có trước trong kế hoạch, là vì có một số bạn đề nghị mình hướng dẫn cách đánh bông lòng trắng trứng và fold lòng trắng trực tiếp, và mình nghĩ đây cũng là một ý hay, nên quyết định cho thêm vào chương trình. Phòng hôm qua hơi đông, có một số bạn chắc không nhìn được rõ hết thao tác, nhưng mong là việc giải thích trực tiếp vẫn tốt và rõ ràng hơn là mô tả bằng lời qua blog :)</p>
+<p>Phần thứ 2 của buổi gặp mặt ngày hôm qua là đấu giá đồ làm bánh để ủng hộ cho chương trình “Cơm có thịt” đã thành công hơn mong đợi của mình rất nhiều. Tất cả các món đồ đều được mua lại với giá cao gấp đôi, thậm chí là gấp ba so với giá thành ban đầu. Cảm ơn cả nhà, mình thật sự rất rất vui và cảm động, vì mình biết các chị em mua lại không hẳn chỉ vì muốn có món đồ, mà nhiều hơn là vì muốn góp một phần cho bữa cơm của các em nhỏ. Tổng số tiền thu được từ việc bán đấu giá (cả gốc &amp; lãi) là: 5.700.000 VND. Số tiền này, cùng với một phần tiền hỗ trợ của công ty Văn Việt (đơn vị xuất bản sách Quà tặng ngọt ngào) tổng cộng là: 7.200.000 VND. Mình xin thay mặt cả nhà chuyển số tiền này đến TK của chương trình “Cơm có thịt” với tên “Savoury Days và bạn bè”, sau khi chuyển khoản thành công sẽ thông báo lại để mọi người cùng biết nhé.</p>
+<p>Buổi họp mặt ngày hôm qua cũng là lần đầu tiên mình tham dự (và tự tổ chức) một sự kiện có đông người tham gia như vậy, nên chắc là đã có rất nhiều điểm thiếu sót, mong các anh chị, các bạn và các em thông cảm. Nhưng việc tổ chức và tiến hành buổi gặp mặt hôm qua có thể sẽ gặp nhiều khó khăn hơn rất nhiều, nếu không có sự giúp đỡ của rất nhiều bạn bè và các anh chị em. Cảm ơn chị Hạnh (Leuven) vì đã gửi tặng rất nhiều đồ làm bánh để bán đấu giá. Cảm ơn công ty Văn Việt, em Nam Khanh và em Thạnh đã giúp đỡ về tài chính và chuẩn bị. Cảm ơn em Na và em Tata đã rất nhiệt tình mang dụng cụ và nguyên liệu, và cả làm trợ lý cho “bài học đánh trứng và fold bột” nữa. Cảm ơn chị Trang và chị Hạnh đã nhiệt tình hỗ trợ trong màn đấu giá. Cảm ơn cô chủ và các bạn ở quán Berberchum đã giúp đỡ về địa điểm và nước uống, cũng như thu dọn “chiến trường” sau buổi họp mặt. Đặc biệt cảm ơn em trai và em gái Tahi &amp; Oni đã giúp đỡ trong mọi công tác tổ chức trước cũng như trong suốt cả buổi gặp gỡ.</p>
+<p>Và cảm ơn cả nhà một lần nữa vì đã “chịu đựng” cái oi nóng để ngồi với mình đến cuối buổi, cùng trò chuyện, chia sẻ và chụp ảnh (ai có ảnh thì cho em/chị/tớ xin làm kỉ niệm nhé ;) ). Cảm ơn chị Cáo và bạn Trà đã tặng hai món quà rất ngọt ngào, cả nhà em/tớ đã ăn thử và rất thích ạ :x</p>
+<p>Hôm qua có các bạn phóng viên của VTC và VTV4 đến quay phim để làm chương trình giới thiệu về phong trào tự học làm bánh, nấu ăn qua Internet. Chương trình dự kiến sẽ phát sóng trong khoảng tháng 4 &amp; tháng 5 tới. Khi nào có lịch phát mình sẽ thông báo nhé ;;) Ngoài ra, mình cũng có tự quay nhưng chắc phải chờ một vài ngày để xử lí và up clip lên mạng. Còn hôm nay thì có một số ảnh “nóng” hôi hổi, chia sẻ lại với cả nhà ^^</p>
+<p style="text-align: center;">“<em>bài học” về cách fold bột với trợ lí váy hồng Na rất xinh và khéo ^^</em></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/8589326252/" title="IMG_0069 by LinhTrang9185, on Flickr"><img alt="IMG_0069" height="333" loading="lazy" src="http://farm9.staticflickr.com/8373/8589326252_d14f0aee33.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>lắng nghe….</em></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/8589325686/" title="IMG_0086 by LinhTrang9185, on Flickr"><img alt="IMG_0086" height="333" loading="lazy" src="http://farm9.staticflickr.com/8509/8589325686_0278e5f15e.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>…và trả lời ‘chất vấn’</em></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/8589326450/" title="IMG_0034 by LinhTrang9185, on Flickr"><img alt="IMG_0034" height="333" loading="lazy" src="http://farm9.staticflickr.com/8378/8589326450_766ffc5372.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>giới thiệu đồ đấu giá</em></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/8589324300/" title="IMG_0122 by LinhTrang9185, on Flickr"><img alt="IMG_0122" height="333" loading="lazy" src="http://farm9.staticflickr.com/8514/8589324300_c8db863e9f.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>ai muốn đui 1M ???</em></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/8588222573/" title="IMG_0110 by LinhTrang9185, on Flickr"><img alt="IMG_0110" height="333" loading="lazy" src="http://farm9.staticflickr.com/8112/8588222573_d0119929d9.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>một trong số những “khán giả” nhỏ tuổi nhất của ngày hôm qua. Cô bé có gương mặt rất thông minh và đôi mắt rất sáng, giọng nói thì cực cực đáng yêu..</em></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/8588223507/" title="IMG_0101 by LinhTrang9185, on Flickr"><img alt="IMG_0101" height="294" loading="lazy" src="http://farm9.staticflickr.com/8385/8588223507_20667f9259.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>con cũng thích làm bánh, như mẹ và cô Trang ^^</em></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/8588223269/" title="IMG_0102 by LinhTrang9185, on Flickr"><img alt="IMG_0102" height="333" loading="lazy" src="http://farm9.staticflickr.com/8236/8588223269_0ea5a279b1.jpg" width="500"/></a></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/8588222827/" title="IMG_0107 by LinhTrang9185, on Flickr"><img alt="IMG_0107" height="333" loading="lazy" src="http://farm9.staticflickr.com/8252/8588222827_93047fc7d8.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Cuối cùng, ảnh không phải của mình chụp nhưng rất thích, cảm ơn em Trang và em Na :x</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8589356938/" title="579889_4351384795104_886686073_n by LinhTrang9185, on Flickr"><img alt="579889_4351384795104_886686073_n" class="aligncenter" height="403" loading="lazy" src="http://farm9.staticflickr.com/8522/8589356938_5b541ea10b.jpg" width="403"/></a></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

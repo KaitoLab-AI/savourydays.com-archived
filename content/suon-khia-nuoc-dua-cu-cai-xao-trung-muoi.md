@@ -1,0 +1,68 @@
+---
+title: "Sườn khìa nước dừa & Củ cải xào trứng muối"
+date: "2012-05-16"
+slug: "suon-khia-nuoc-dua-cu-cai-xao-trung-muoi"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/05/SuonKhiaNuocDua.jpg"
+description: "sườn, cách kho thịt, nước dừa, củ cải, trứng muối, món ăn hàng ngày đơn giản"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Mọi người phụ nữ trong gia đình mình (cụ thể là bà ngoại, các bác, các dì, mẹ mình, và giờ đến mình) đều mắc phải một căn “bệnh” – gọi là di truyền chắc cũng được – tên là: “<em><strong>thà mua (đồ ăn) thừa còn hơn mua thiếu, thà nấu (thức ăn) thừa còn hơn nấu thiếu</strong></em>” :P (không có tên khoa học, chỉ có tên dân gian ;) ). Bệnh này thuộc diện nan y, khó chữa, mà thậm chí là có xu hướng tỉ lệ thuận với số tuổi, do qua năm tháng thì kinh nghiệm nấu ăn nhiều hơn, món ăn nghĩ ra cũng nhiều hơn, nên chẳng bao giờ sợ “thiếu đồ để nấu”, chỉ sợ nấu thiếu thôi :D</p>
+<p>Mình ở đây vì bận nên tuần chỉ đi chợ 1-2 lần, lần nào cũng đều có danh sách đồ cần mua, nhưng rất rất ít khi “chỉ” mua những thứ trong danh sách, mà thường sẽ là như thế này.</p>
+<blockquote><p><strong>Kế hoạch</strong>: <em>0.3kg gan gà + 0.2kg gà xay để làm pate gan</em></p>
+<p><strong>Thực tế tại hàng bán thịt gà</strong>: sau khi đã mua gan &amp; thịt gà xay đủ theo chỉ tiêu, thì mắt bắt đầu liếc sang các ô bên cạnh, và trong đầu lập tức xuất hiện một loạt suy nghĩ kiểu như: <em>“cánh gà trông ngon thế nhỉ, mua thêm một ít về, hôm nào được về sớm thì lôi ra nướng đổi bữa</em>” hoặc “<em>tiện mua thêm ít tim gà về để ngăn đá, nhỡ có hôm nào về muộn thì nấu mì ăn, đỡ phải đợi nấu cơm</em>” :D :P</p></blockquote>
+<p>Chuyện tương tự xảy ra tại quầy bán rau, hải sản… và các thứ khác.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>…….</p>
+<p>Hậu quả là…….thường xuyên có những ngày câu hỏi “tối nay ăn gì” được thay bằng “tối nay làm gì cho hết đồ ăn trong tủ lạnh”… :-| :”&gt;</p>
+<p>Cuối tuần vừa rồi là một ngày như thế. Còn một miếng sườn trong ngăn đá, củ cải mua về muối kim chi còn thừa, trứng muối quá nhiều cần ăn dần… tóm lại là toàn các thứ “thừa”. Và sau một hồi xào xáo các thứ “thừa”, hậu quả của căn bệnh kinh niên, thì được hai món trong mâm cơm ở dưới:</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7181779996/" title="IMG_4476-1 by LinhTrang9185, on Flickr"><img alt="IMG_4476-1" class="aligncenter" height="640" loading="lazy" src="http://farm6.staticflickr.com/5272/7181779996_09902dac04_z.jpg" width="429"/></a></p>
+<p><span style="color: #800000;"><strong>Sườn khìa nước dừa</strong></span> và<span style="color: #800000;"><strong> Củ cải xào trứng muố</strong></span>i ;) Sườn là món quen thuộc rồi, còn củ cải xào trứng muối là “phát minh” lấy ý tưởng từ món su hào xào trứng. So với trứng thường thì mình thấy trứng muối xào thích hơn, tại vì nó thơm, và nó lại bùi nữa, nhìn chung là ngon và đưa cơm (<em>một đứa “đại ghét” củ cải như mình mà còn ăn được hết cả đĩa cơ mà :-&gt;)</em></p>
+<p>———————</p>
+<p><span style="color: #800000;"><strong>Sườn khìa nước dừa</strong></span></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7181779652/" title="IMG_4486-2 by LinhTrang9185, on Flickr"><img alt="IMG_4486-2" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7239/7181779652_cc910e0879_z.jpg" width="456"/></a></p>
+<p><strong>Nguyên liệu</strong></p>
+<ul>
+<li><em>0.5kg sườn thăn (spare ribs)</em></li>
+<li><em>1 củ hành khô (shallot) – bóc vỏ, băm nhỏ</em></li>
+<li><em>3-4 tép tỏi (tỏi nước ngoài thì 1-2 tép) – bóc vỏ, băm nhỏ</em></li>
+<li><em>1 quả dừa tươi (để lấy nước)</em></li>
+<li><em>Nước mắm</em></li>
+<li><em>Đường</em></li>
+<li><em>Muối, Tiêu</em></li>
+</ul>
+<p><strong>Ghi chú</strong>: <em>Nước mắm có thể thay bằng nước tương (xì dầu), nhưng mình thấy kho với nước mắm thì mùi thơm hấp dẫn hơn :)</em></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span id="more-2607"></span><strong>Cách làm</strong></p>
+<p>1. Sườn rửa sạch, thấm khô, chặt miếng vừa ăn. Cho sườn vào nồi, đổ nước lạnh ngập sườn, cho thêm chút muối. Vặn lửa to, đợi nước sôi thì hạ lửa vừa, đun thêm khoảng 2-3 phút (<em>sẽ thấy có rất nhiều bọt bẩn nổi trên mặt nước</em>). Tắt bếp và đổ sườn ra rổ, rửa lại cho sạch bọt và vụn thịt (nước luộc sườn cũng bỏ đi). Sườn và thịt lợn hiện giờ thường là không sạch, nên làm như thế này vừa giúp miếng sườn sạch và thơm ngon hơn, cũng là một cách để tự bảo vệ sức khỏe cho gia đình mình nữa.</p>
+<p>2. Ướp sườn với hành tỏi băm nhỏ, 1 thìa cafe hạt tiêu xay, 2-3 thìa canh nước mắm (<em>tùy độ mặn của nước mắm và khẩu vị của gia đình, không cần phải ướp chuẩn ngay từ đầu vì sau này trong quá trình kho, nếu nhạt thì mình cũng có thể cho thêm mắm muối</em>), ½ – 1 thìa canh đường (<em>nước dừa sẽ cho món ăn vị ngọt nên không cần phải ướp nhiều đường nha</em>). Để khoảng 30 phút cho ngấm gia vị.</p>
+<p>3. Làm nóng nồi hoặc chảo, đun nóng 1 thìa dầu ăn. Cho sườn vào xào sơ ở lửa to trong khoảng 2-3 phút. Đổ nước dừa tươi vào nồi, sao cho nước ngập xâm xấp mặt thịt. Để lửa to, đợi nước sôi thì hớt bọt (nếu có), rồi hạ lửa nhỏ, mở hé vung, đun liu riu đến khi sườn chín mềm (trong quá trình kho có thể nêm lại gia vị cho vừa ăn).</p>
+<p>Khi sườn đã mềm vừa ăn thì các bạn vặn lửa to, đun đến khi nước cạn (<em>khi nước gần cạn thì nên đảo liên tục, tránh cho sườn bị cháy sát)</em>. Nước om sườn sẽ quyện lại còn hơi sệt và bám quanh sườn, làm cho sườn có màu nâu bóng đẹp, hấp dẫn :)</p>
+<p><span style="color: #800000;"><strong>Củ cải xào trứng muối</strong></span></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7181780766/" title="IMG_4464-1 by LinhTrang9185, on Flickr"><img alt="IMG_4464-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7091/7181780766_c1c90e6e6e_z.jpg" width="441"/></a></p>
+<p><strong>Nguyên liệu</strong></p>
+<ul>
+<li><em>300gram củ cải</em></li>
+<li><em>2-3 lòng đỏ trứng muối (tùy độ to nhỏ của trứng, mình dùng 3 lòng đỏ trứng gà)</em></li>
+<li><em>1 củ hành khô (shallot)</em></li>
+<li><em>2 tép tỏi (tỏi nước ngoài thì 1 tép cỡ vừa)</em></li>
+<li><em>Muối hoặc bột gia vị, đường</em></li>
+<li><em>Hành xanh (không bắt buộc)</em></li>
+<li><em>Dầu ăn</em></li>
+</ul>
+<p><strong>Cách làm</strong></p>
+<p>1. Củ cải gọt vỏ, bào hoặc thái sợi. Hành khô bóc vỏ, bằm nhuyễn. Tỏi bóc vỏ, băm nhuyễn. Hành xanh rửa sạch, thái khoanh tròn nhỏ.</p>
+<p>2. Trứng muối tách lấy lòng đỏ, hấp chín (lòng trắng rất mặn nên thường là bỏ đi). Dùng nĩa tán trứng nhuyễn mịn, trộn trứng với một nhúm nhỏ bột gia vị hoặc muối và khoảng ½ thìa cafe đường.</p>
+<p>3. Bắc chảo lên bếp, để lửa vừa-to, đun nóng 1 thìa dầu ăn. Đợi dầu sôi thì cho ½ số hành tỏi vào phi thơm, rồi cho trứng muối vào, đảo nhẹ tay cho trứng muối thấm dầu ăn. Trong chảo sẽ có một hỗn hợp sốt trứng, hơi sệt, vị mặn ngọt vừa ăn. Nếu các bạn cảm thấy sốt trứng hơi khô thì cho thêm 1-2 thìa cafe dầu ăn, nhưng không nên cho quá nhiều, món ăn sẽ bị ngấy. Đổ sốt trứng ra bát, để sang một bên.</p>
+<p>4. Rửa sạch chảo hoặc dùng một chiếc chảo khác. Đun nóng 1 thìa dầu ăn trong chảo, cho ½ số hành tỏi còn lại vào phi thơm. Đổ củ cải vào, xào sơ qua trong khoảng 1-1.5 phút ở lửa to, để củ cải chín sơ. Cho sốt trứng vào chảo, đảo đều cho sốt trứng bám đều quanh củ cải. Nêm lại gia vị cho vừa ăn.</p>
+<p>Sau khi củ cải chín vừa ăn (mềm nhưng vẫn còn hơi giòn, không bị nát quá) thì tắt bếp, cho hành xanh vào đảo đều.</p>
+<p>Thế là đã xong bữa cơm rồi, chúc cả nhà ngon miệng nhé ^.^</p>
+
+
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

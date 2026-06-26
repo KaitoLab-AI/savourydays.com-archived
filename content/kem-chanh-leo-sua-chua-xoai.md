@@ -1,0 +1,91 @@
+---
+title: "Kem kem kem … vẫn là kem, lại là kem :P Cập nhật công thức của chị em & Kem sữa chua xoài chanh leo"
+date: "2012-05-18"
+slug: "kem-chanh-leo-sua-chua-xoai"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/05/KemChanhLeo.jpg"
+description: "làm kem không dùng máy, whipping cream, đánh bông kem tươi, chanh leo, xoài, sữa chua"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<h4><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi. Cảm ơn các bạn.</strong></span></h4>
+<p>Công thức kem từ cách đây tận 2 tuần mà có vẻ vẫn chưa “nguội” đi mấy ;) Mình vẫn tiếp tục nhận được phản hồi và chia sẻ công thức từ các bạn, cảm ơn cả nhà nhiều lắm lắm :x :x Có rất nhiều loại kem đã được thử nghiệm, mọi người xem thêm trong phần comment của hai bài viết về <strong><a href="/cong-thuc-lam-kem-co-ban-khong-dung-may-don-gian-nhanh-va-ngoonnnn-bonus-ct-kem-tiramisu-2/" title="làm kem">Công thức kem cơ bản</a></strong> và <strong><a href="/kem-dua-dau-xanh-kem-tra-xanh-2/">Kem đậu xanh, trà xanh nhé</a></strong>.</p>
+<p>Trong bài này thì mình xin phép giới thiệu một số công thức kem “tiêu biểu” nhất mà mình nghĩ chắc nhiều bạn cũng sẽ muốn làm. Các công thức này đều là do các chị/ em/ bạn khác thử rồi chia sẻ lại, một vài công thức có kèm cả ghi chú nữa :)</p>
+<p>Đầu tiên là <strong>kem rum nho</strong> của chị <a href="http://www.facebook.com/profile.php?id=740604203">Michou Pham</a><strong><a href="http://www.facebook.com/profile.php?id=740604203">:</a></strong></p>
+<p>Đây là ảnh và nhận xét về “sản phẩm” ;;)</p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/7220897408/" title="148932_10150882308729204_740604203_9433464_1680926918_n by LinhTrang9185, on Flickr"><img alt="148932_10150882308729204_740604203_9433464_1680926918_n" height="500" loading="lazy" src="http://farm6.staticflickr.com/5337/7220897408_d3b6d8a785.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<blockquote><p>“<em>Thôi xong…từ nay đến thú vui xách xe đi ăn kem cũng mất…</em></p>
+<p><em>….vì đã làm kem ở nhà được rồi. Hahaha….kem rhum nho đàng hoàng,thơm mùi rhum quá chừng,mẹ mình khen tơi tả. Sướng quá! Cám ơn em Trang nhiều lắm</em>“</p></blockquote>
+<p>Còn đây là công thức mà chị Michou Pham chia sẻ:</p>
+<blockquote><p>“<em>chị giữ nguyên lượng sữa đặc có đường và tăng whipping lên 200ml em ạh. Thành phẩm theo chị vẫn ok, nếu lấy ra ngoài tủ lạnh thì nó mềm đi chứ không đến nỗi chảy bét bè be ra. Còn rhum với nho thì chị cho theo tỷ lệ: 50g nho khô / 3tbsp rhum. Dùng rhum ngâm nho khô chừng 30p cho nho nở ra thì lượng rhum cũng ngấm vào nho nên phần rhum còn lại không quá nhiều để ảnh hưởng đến độ đông đặc của kem</em>.”</p></blockquote>
+<p>Một loại kem khá “lạ” khác là <strong>kem chanh muối</strong> của chị Ngọc Lan ở <a href="http://anhemkenzie.blogspot.com/2012/05/kem-chanh-muoi-lam-kem-khong-can-may.html">ĐÂY </a></p>
+<p><strong>Kem dừa</strong> của chị <a href="http://www.facebook.com/chimai.ruby">Chi Mai</a>:</p>
+<blockquote><p>Chị đã test kem dừa rồi đây. Chị làm gấp đôi công thức! Kết quả kem mịn, dẻo khá ngon. Tuy nhiên vì làm với nước cốt dừa và whipping nên hơi béo quá, chị nghĩ lần sau sẽ bớt whipping nếu thích ngậy mùi dừa. Công thức kem dừa đây:</p>
+<p>– 190g sữa đặc có đường<br/>
+– 120ml nước cốt dừa<br/>
+– 300g kem tươi<br/>
+– 60g cơm dừa sấy khô. Chị thích cho luôn vào kem, ai k thích ăn vậy thì chỉ dùng một ít rắc lên mặt như kem đậu xanh của em í :)</p></blockquote>
+<p>Và một số công thức kem cũ, tổng kết lại:</p>
+<ul>
+<li><strong><a href="/cong-thuc-lam-kem-co-ban-khong-dung-may-don-gian-nhanh-va-ngoonnnn-bonus-ct-kem-tiramisu-2/">Kem Tiramisu</a> </strong></li>
+<li><strong><a href="/kem-dua-dau-xanh-kem-tra-xanh-2/">Kem Đậu xanh dừa</a></strong></li>
+<li><strong><a href="/kem-dua-dau-xanh-kem-tra-xanh-2/">Kem trà xanh</a></strong></li>
+<li><strong><a href="/choux-lanh-nhan-kem-chocolate/">Kem Chocolate </a></strong></li>
+</ul>
+<p>Ngoài ra thì còn… nhiều lắm lắm nữa, chỉ tiếc là mình không tổng kết lại hết được :-&lt; Cả nhà xem thêm trong phần phản hồi của các bài về kem nhé ;)</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Tuần vừa rồi thì mình làm thêm một loại kem nữa. Do có một số bạn nhắn là kem hơi ngọt nên mình thử thêm vào sữa chua và hoa quả có vị chua xem tình hình thế nào ;;) Kết quả là kem đúng là ít ngọt hơn nhiều, ăn giống kiểu kem chua, và có thêm vị hoa quả tươi, đặc biệt là vị dẻo dẻo của xoài, khá là hay :) À, lần này có chút đá trên mặt kem, có lẽ là do hộp đựng kem của mình không đủ tốt nên hơi nước vẫn bị đọng lại, nhưng không đáng kể.</p>
+<p>* <em>Cảm ơn em Ngọc Ngốc Nghếch vì ý tưởng kem chua nhé</em> ;) :x</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7221439386/" title="IMG_4585-1 by LinhTrang9185, on Flickr"><img alt="IMG_4585-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7084/7221439386_4b8e30704a_z.jpg" width="433"/></a></p>
+<p><span id="more-2559"></span><strong>Nguyên liệu</strong></p>
+<ul>
+<li><em>150gram kem tươi có hàm lượng béo từ 35 – 40% – heavy cream (tương đương khoảng 135ml)</em></li>
+<li><em>75gram sữa đặc có đường (sweetened condensed milk)</em></li>
+<li><em>100gram sữa chua không đường</em></li>
+<li><em>3gram Gelatin bột (hoặc thay bằng Gelatin lá với lượng tương đương)</em></li>
+<li><em>200gram xoài chua, thái hạt lựu</em></li>
+<li><em>2 quả chanh leo (passion fruit)</em></li>
+<li><em>Đường</em></li>
+</ul>
+<p><strong>* Ghi chú:</strong></p>
+<ul>
+<li><em>Nếu không có heavy cream thì các bạn có thể dùng whipping cream (hàm lượng béo 30%) và thêm 15gram bơ nhạt (unsalted butter). <strong>Không</strong> dùng kem tươi có hàm lượng béo thấp hơn 30%. </em></li>
+<li><em>Nên dùng sữa chua loại đặc và dẻo (VD: sữa chua Vinamilk)</em></li>
+</ul>
+<p><strong>Cách làm</strong></p>
+<p>1. Để hộp đựng kem vào ngăn đá trước khi làm kem từ 4-6 tiếng. Hộp đựng kem không nhất thiết phải là hộp đựng chuyên dụng, nhưng để đạt kết quả tốt nhất thì nên dùng hộp có nắp đậy thật kín.</p>
+<p>2. Cho âu đánh &amp; que đánh kem và kem tươi vào ngăn đá để khoảng 10 phút. * <em>Nếu dùng thêm bơ thì đun chảy bơ và để nguội. </em></p>
+<p>3. Chuẩn bị Gelatin &amp; các nguyên liệu khác:</p>
+<p>– Gelatin dạng lá: Ngâm lá Gelatin với nước lạnh khoảng 5-10 phút, đến khi Gelatin nở mềm. Chắt gần hết nước trong bát, chỉ để lại khoảng 1-2 thìa cafe, cho vào lò vi sóng quay khoảng 10-15 giây, rồi lấy ra khuấy đều cho Gelatin tan hết.</p>
+<p>– Gelatin dạng bột: Dùng 1 thìa canh nước lạnh, rắc bột Gelatin vào nước, đợi 5-10 đến khi Gelatin nở mềm. Cho vào lò vi sóng quay 10-15 giây, rồi khuấy đều cho Gelatin tan hết.</p>
+<p>– Sữa chua để ra ngoài cho bớt lạnh. Cho Gelatin đã tan chảy vào sữa chua, trộn thật đều. Cuối cùng cho sữa đặc vào trộn đều. <em>Nếu dùng bơ thì trộn bơ (đã đun chảy). </em></p>
+<p>4. Sau khi âu và que đánh đã được làm lạnh thì lấy ra, đánh kem tươi đến bông cứng.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7220899022/" title="2012-05-133 by LinhTrang9185, on Flickr"><img alt="2012-05-133" class="aligncenter" height="500" loading="lazy" src="http://farm8.staticflickr.com/7102/7220899022_56f5e18270.jpg" width="500"/></a></p>
+<p>5. Cho hỗn hợp sữa chua &amp; xoài cắt hạt lựu vào âu kem tươi đánh bông, trộn (theo <a href="/?p=910">kiểu Fold</a>) đến khi hòa quyện.</p>
+
+
+<p>6. Cho kem vào hộp, để ngăn đá tối thiểu 6 tiếng hoặc đến khi kem đông cứng lại. Bảo quản trong tủ đá.  Nếu để lâu kem bị cứng, khó múc thì các bạn nhúng que múc kem qua nước nóng, sẽ dễ múc hơn. Ăn kèm với syrup chanh leo.</p>
+<p>7. Cách làm syrup chanh leo:</p>
+<p>– Lấy nước cốt của 2 quả chanh leo, pha thêm với 2-3 thìa canh nước lọc &amp; đường sao cho vừa ngọt. Cho hỗn hợp nước chanh vào nồi, đun lửa vừa, vừa đun vừa quấy, đến khi hỗn hợp đặc sệt thành syrup (độ sệt như thế nào thì tùy sở thích của các bạn nhé)</p>
+<p>– Phần syrup chanh leo này không bắt buộc. Nhưng mình thích vì vị chanh leo với sữa chua và xoài mình thấy rất hợp. Các bạn có thể lọc bỏ hột, và trộn syrup này với hỗn hợp sữa đặc và sữa chua ngay từ đầu cũng không sao.</p>
+<p>———————————–</p>
+<p>Các bài viết cùng chủ đề làm kem</p>
+<ol>
+<li><a href="/lam-kem-khong-can-dung-may-sorbet-xoai-chanh-leo/">Làm kem không cần dùng máy: Sorbet xoài chanh leo</a></li>
+<li><a href="/tu-lam-kem-khong-dung-may-sorbet-sua-chua-dau-tay/">Tự làm kem không dùng máy: Sorbet sữa chua dâu tây</a></li>
+<li><a href="/sua-chua-da-chanh-leo/">Sữa chua đá chanh leo</a></li>
+<li><a href="/cong-thuc-lam-kem-co-ban-khong-dung-may-don-gian-nhanh-va-ngoonnnn-bonus-ct-kem-tiramisu-2/">Công thức làm kem cơ bản – KHÔNG dùng máy – Đơn giản, NHANH và NGON (Bonus CT Kem Tiramisu)</a></li>
+<li><a href="/kem-dua-dau-xanh-kem-tra-xanh-2/">Kem dừa đậu xanh &amp; Kem trà xanh</a></li>
+<li><a href="/choux-lanh-nhan-kem-chocolate/">Choux lạnh nhân kem chocolate</a></li>
+<li><a href="/kem-chanh-leo-sua-chua-xoai/">Cập nhật công thức của chị em &amp; Kem sữa chua xoài chanh leo</a></li>
+<li><a href="/kem-cream-cheese-voi-mut-dau-tay/">Kem cream cheese với mứt dâu tây và chocolate chip</a></li>
+<li><a href="/on-lai-bai-cu-kem-bo-flan-dua/">Kem trái bơ &amp; Flan dừa</a></li>
+</ol>
+<p> </p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

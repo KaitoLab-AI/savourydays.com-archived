@@ -1,0 +1,43 @@
+---
+title: "Linh tinh (2) – Về “hắn”"
+date: "2015-05-06"
+slug: "linh-tinh-2-ve-han"
+categories: ["Linh tinh"]
+tags: []
+image: "https://farm9.staticflickr.com/8836/16770699183_9d1209c8ac_z.jpg"
+description: ""
+---
+
+<p>[Chuyên mục mới] “Ngăn kéo” để cất các thứ linh tinh vụn vặt: một bức ảnh đẹp, một câu nói hay, một đoạn sách yêu thích, …. hay chỉ đơn giản là một vài suy nghĩ tào lao.</p>
+<p>——————–</p>
+<p>Thế là cuối cùng cũng có “hắn” trong tay.</p>
+<p>“Hắn” chẳng phải là quyển sách đầu tiên mà mình đứng tên tác giả, nhưng là quyển sách mà mình đã mất nhiều thời gian để hoàn thành nhất, tận bốn năm liền, với rất nhiều mồ hôi, có cả nước mắt, chỉ thiếu máu là chưa đổ thôi :P</p>
+<p>So với 3 quyển sách trước, hắn cũng là quyển có số bản in ít nhất. Nhưng ngày được tận tay cầm hắn lên, lật từng trang giấy – cảm giác lúc ấy, quả thực không từ nào có thể diễn tả được.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Hắn chỉ toàn những chữ là chữ, với các bảng biểu. Ngay cả mấy bức hình minh họa ít ỏi – cũng chỉ toàn là loằng ngoằng với hai màu đen trắng. Túm lại thì hắn rất xù xì, thô ráp, không hấp dẫn tẹo nào. Thế mà chẳng hiểu sao cứ mỗi lần nhìn thấy hắn, chạm vào hắn là tim mình lại cứ đập rộn lên, lạ thế :”&gt;</p>
+<p>Phần Preface (<em>lời mở đầu</em>) của hắn được bắt đầu bằng một đoạn nhật kí (lại nhật kí) như thế này:</p>
+<blockquote><p><em>January 2011</em>,</p>
+<p>I felt like I was facing an enormous mountain called “PhD” (and, consequently, doing research), which made me curious, excited, and, at the same time, nervous. I was about to venture into a completely new and undoubtedly challenging world. I did not know what was waiting ahead. Still, I moved forward, and did my best to keep myself going on.</p></blockquote>
+<p>Tạm dịch: <em>Tháng 1/2011. Tôi cảm giác như đang đối mặt với một ngọn núi cao chót vót mang tên “nghiên cứu sinh”. Tôi rất hào hứng, tò mò, nhưng đồng thời cũng cảm thấy hoang mang, lo lắng. Tôi đang chuẩn bị chu du trong một thế giới hoàn toàn mới và chắc chắn chuyến đi này sẽ không hề dễ dàng, thuận lợi. Tôi không biết điều gì đang chờ mình ở phía trước. Nhưng tôi vẫn tiến bước, và cố hết sức mình để tiếp tục đi tới… </em></p>
+<p>…ừa… trong quá trình leo núi ấy, đã có nhiều lúc cảm thấy như bao quanh mình là sương và mây mù mịt, chẳng biết nên đi đường nào, và cũng chẳng biết đến khi nào mới vượt qua được hết con đường này. Và có những ngày như tới cả tấn mưa đá đổ xuống đầu. Thế mà, cuối cùng mình cũng đã gặp được “hắn”, được cầm “hắn” trên tay.</p>
+<p>Thật ra đường vẫn còn dài lắm, trước mắt là phải chuẩn bị đương đầu với một hội đồng toàn những cao thủ giang hồ để bảo vệ hắn. Và sau đó sẽ là một chặng đường dài hơi hơn, có khi là vô tận. Nhưng không hề gì, bởi khi ấy mình đã có thêm một người bạn đồng hành là “hắn” rồi :)</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/16770699183" title="IMG_8557 by Trang Linh, on Flickr"><img alt="IMG_8557" class="aligncenter" height="519" loading="lazy" src="https://farm9.staticflickr.com/8836/16770699183_9d1209c8ac_z.jpg" width="640"/></a>————–</p>
+<p>* P.s.: Linh Trang là bút danh mà mình hay sử dụng tại blog và các ấn phẩm như sách, báo chí. Còn tên thật thì như trong ảnh, là luận án nên không được phép dùng bút danh :P</p>
+<div align="center" id="google-ads-body-post-end">
+
+
+</div> <div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

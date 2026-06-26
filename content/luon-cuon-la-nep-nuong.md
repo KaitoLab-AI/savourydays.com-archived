@@ -1,0 +1,43 @@
+---
+title: "Lươn (Gà, cá…) cuộn lá nếp nướng/ chiên"
+date: "2012-08-18"
+slug: "luon-cuon-la-nep-nuong"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/08/LuonCuonLaNepChien.jpg"
+description: "cách làm gà hay lươn cuốn lá nếp kiểu Thái đơn giản, ngon và lạ miệng"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Thật ra món ăn này mình muốn giới thiệu từ lâu lắm rồi, vì nó không chỉ dễ làm mà còn ngon và lạ miệng nữa. Lần đầu tiên mình ăn món này là trong một nhà hàng chuyên về lươn ở Việt Nam. Lúc đấy cứ tưởng nó đặc biệt lắm – mà nó cũng được xếp trong thực đơn đặc biệt của nhà hàng thật. Sau này lúc qua Hà Lan học, đi mò mẫm trên mạng một hồi, tình cờ “nhặt” được công thức, làm thử mới thấy là nó siêu siêu dễ. Chả có gì bí mật hay cao siêu gì hết :D</p>
+<p>Nếu mình không nhầm thì món này có nguồn gốc từ Thái Lan, và công thức ban đầu của nó là Gà cuộn lá nếp (hay là lá dứa) và nướng lên. Nhưng mình thử cả với lươn và cá hồi thì đều thấy ngon cả. Lá dứa hay lá nếp, tên tiếng anh là <em>Pandan leaf</em>, nếu ở nước ngoài thì các bạn có thể tìm mua trong chợ châu Á, đặc biệt là chợ của người Thái hay người Indonesia, còn ở Việt Nam thì dễ rồi, ra hàng lá mua vài nghìn là có cả nắm (giá cả lâu rồi mình không cập nhật nhưng có đắt thì cũng không đắt hơn nhiều đâu ;) ).</p>
+<p>Món này không có ảnh “nghệ thụt” theo kiểu có sắp đặt như mọi khi, vì lần gần nhất mình làm là trong dịp mẹ và em gái mình qua chơi, nấu xong thì chụp nhanh để cả nhà ăn thôi. Hình ảnh công đoạn cũng không có, nhưng món này rất dễ làm nên mình nghĩ kể cả không có ảnh thì chắc cũng sẽ không có vấn đề gì, ai làm, dù là lần đầu tiên, cũng có thể thành công cả :)</p>
+<p>Một chú thích nho nhỏ cuối cùng nữa là nếu không làm lươn, các bạn có thể thay bằng thịt gà. Và bạn nào không thích thịt gà lườn như mình thì rất rất nên thử món này vì nó làm cho thịt gà lườn ngon hơn vài lần ấy ;)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7642643380/" title="IMG_6568 by LinhTrang9185, on Flickr"><img alt="IMG_6568" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8285/7642643380_0472b4378c.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu (3-4 phần ăn)</strong></span></p>
+<ul>
+<li><em>400 gram lươn</em></li>
+<li><em>1 củ hành khô – bóc vỏ bằm nhuyễn</em></li>
+<li><em>1-2 tép tỏi – bóc vỏ bằm nhuyễn</em></li>
+<li><em>1/2 thìa cafe bột gia vị</em></li>
+<li><em>1 thìa canh dầu hào</em></li>
+<li><em>Hạt tiêu xay </em></li>
+<li><em>Lá nếp</em></li>
+<li><em>Tăm tre</em></li>
+</ul>
+<p><em><span id="more-3069"></span><strong><span style="color: #800000;">Cách làm</span></strong></em></p>
+<p>1. Lươn lọc xương, làm sạch (cụ thể làm thế nào thì mình không có kinh nghiệm gì vì <em>ở bên này mua lươn người ta làm sẵn cho rồi :”&gt;</em>). Cắt miếng, sao cho chiều ngang vừa với bề rộng của lá nếp, chiều dài đủ cuốn 1-2 vòng.</p>
+<p>2. Ướp lươn với bột gia vị, dầu hào, hành, tỏi, tiêu. Để khoảng 30-45 phút cho ngấm. * <em>Lượng gia vị &amp; dầu hào có thể thay đổi để phù hợp với khẩu vị của gia đình, món này ướp nhạt một chút cũng không sao, khi ăn có thể làm thêm nước chấm để chấm cùng.</em></p>
+<p>3. Lá nếp cắt thành các khúc dài khoảng 10-12cm (hoặc dài hơn nếu miếng lươn to). Nếu lá già và cứng thì hơ qua lửa, hoặc trần qua nước sôi cho lá mềm bớt để dễ cuốn. Cuốn lá ra ngoài từng miếng lươn. Dùng tăm ghim lại cho chặt.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7642643758/" title="IMG_6566 by LinhTrang9185, on Flickr"><img alt="IMG_6566" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7113/7642643758_c21d6d8b29.jpg" width="500"/></a></p>
+<p>4. Mang lươn đi nướng hoặc rán. Mình đặt khay nướng ở nấc thứ 2 từ trên xuống (lò nhà mình có 5 nấc đặt khay), nhiệt độ 220 độ C. Nướng đến khi lươn chín thơm, khoảng 15-20 phút. Nhưng mình thấy như mình nướng vẫn còn hơi non một chút, tuy là lươn chín nhưng chưa “bén” nhiều mùi thơm từ lá. Các bạn nướng ở nhà có thể nướng lâu hơn để lá cháy hơn tí tẹo thì lươn sẽ thơm và săn hơn :)</p>
+<p>——-</p>
+<p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ email: <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi hành động cố tình vi phạm sẽ chịu xử lí theo quy định của pháp luật.</span></strong></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

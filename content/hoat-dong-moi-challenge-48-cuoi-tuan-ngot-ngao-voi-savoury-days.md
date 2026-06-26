@@ -1,0 +1,42 @@
+---
+title: "[Hoạt động mới] Challenge 48 – Cuối tuần ngọt ngào với Savoury Days"
+date: "2015-06-26"
+slug: "hoat-dong-moi-challenge-48-cuoi-tuan-ngot-ngao-voi-savoury-days"
+categories: ["Chuyện hàng ngày"]
+tags: ["chuyện hàng ngày"]
+image: "https://c1.staticflickr.com/1/271/19150156496_c2c4887341.jpg"
+description: ""
+---
+
+<p>Cả nhà thân mến,</p>
+<p>Savoury Days hiện tại đã là căn bếp chung của hàng chục nghìn bạn bè rồi. Một trong những điều làm mình luôn cảm thấy hạnh phúc khi vào bếp SD, ngay cả khi mình bận rộn không thể nấu nướng hay đăng bài được, là việc SD luôn nhận được rất nhiều chia sẻ, phản hồi, và rất rất nhiều niềm vui được gửi về từ căn bếp của các bạn, về một món ăn ngon được chồng con nhiệt liệt hưởng ứng, hay những chiếc bánh ngon lành cho cả gia đình..</p>
+<p>Đây cũng là lý do chính để mình tổ chức hai cuộc thi “<a href="/them-mot-nam-tron-voi-that-nhieu-niem-vui-tu-bep/">Niềm vui từ bếp</a>” trong hai năm vừa qua. Phần thưởng về vật chất tuy không thật lớn nhưng mình nghĩ tất cả các bạn tham gia đã đều là người thắng cuộc với những khoảng thời gian vui vẻ, ấm áp trong căn bếp của mình. Và hơn thế là rất nhiều những chia sẻ và cả kinh nghiệm quý được truyền lại cho nhau.</p>
+<p>Và vì những điều này mà mình tự hỏi tại sao không tổ chức thêm nhiều hoạt động như thế trong bếp nhỉ? Để chúng mình có thêm sân chơi, làm quen với nhau, cùng chia sẻ cảm hứng vào bếp và tất nhiên, cả kinh nghiệm, các bài học trong bếp nữa ;)</p>
+<p><strong>Challenge 48 – Cuối tuần ngọt ngào với Savoury Days </strong>sẽ là một chuỗi hoạt động mới của Savoury Days, bắt đầu từ tuần này. Từ tên gọi thì chắc các bạn có thể phần nào đoán được nội dung rồi. Chúng mình sẽ cùng tận hưởng cuối tuần ngọt ngào trong bếp bằng cách làm một món ăn ngon cho gia đình, bè bạn. Không chỉ vậy, chúng mình sẽ cùng chia sẻ những thành phẩm này với các bạn khác và dành cơ hội rinh quà tặng từ SD nữa ^.^</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Chủ để của “thử thách” (<em>challenge</em>) sẽ được công bố vào tối ngày thứ 6 thông qua hình thức tổ chức Event (sự kiện) tại <a href="https://www.facebook.com/savourydays"><strong>Facebook Savoury Days</strong></a>. Trong hai ngày cuối tuần, các bạn sẽ nấu và chụp ảnh theo chủ đề này và gửi ảnh kèm theo câu chuyện/ kinh nghiệm của mình tại trang Facebook của Event. Ưu điểm của việc tổ chức tại Facebook là các bạn có thể tự đăng hình sản phẩm của mình và trực tiếp trao đổi, hỏi đáp kinh nghiệm với nhau. Mọi người không chỉ xem được “bài thi” của người khác mà còn có thể chit chat buôn bán và chia sẻ nhiều điều khác nữa :)</p>
+<p>Vì Facebook là cách tiện nhất để tổ chức nên tạm thời mình sẽ làm tại đây. Nếu chưa có tài khoản Facebook thì các bạn lập một tài khoản và vào trang <strong><a href="https://www.facebook.com/savourydays">FB của Savoury Days</a></strong> để đăng kí theo dõi nhé (lập tài khoản FB không mất nhiều thời gian đâu :) ).</p>
+<p>À, có một lưu ý là để nhận được các thông báo mới của Facebook Savoury Days thì các bạn cần làm thêm một vài bước nhỏ sau:</p>
+<p>– Click vào nút “Like” (Thích) trong Page.<br/>
+– Đánh dấu vào “Get Notifications” (Nhận thông báo)<br/>
+– Có thể đánh dấu luôn cả “Following” (Theo dõi).<br/>
+(Xem thêm ảnh minh họa ở dưới).</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/19150156496" title="Screen shot 2015-06-26 at 10.22.13.png by Trang Linh, on Flickr"><img alt="Screen shot 2015-06-26 at 10.22.13.png" class="aligncenter" height="407" loading="lazy" src="https://c1.staticflickr.com/1/271/19150156496_c2c4887341.jpg" width="500"/></a></p>
+<p>Mỗi Challenge sẽ có một vài món quà nhỏ dành cho các “bài thi” nổi bật nhất. Quà cụ thể là gì thì sẽ thay đổi theo từng Challenge. Chủ để của Challenge 48 lần thứ nhất đã chính thức được công bố tại đây: <a href="https://www.facebook.com/events/554175648058422/" target="_blank">https://www.facebook.com/events/554175648058422/ </a><br/>
+Hi vọng cuối tuần này sẽ là một cuối tuần rất rất vui và rất rất rất ngon! :)</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/19150135626" title="Slide1 by Trang Linh, on Flickr"><img alt="Slide1" class="aligncenter" height="374" loading="lazy" src="https://c1.staticflickr.com/1/503/19150135626_788087928a.jpg" width="500"/></a></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

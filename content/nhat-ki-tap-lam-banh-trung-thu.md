@@ -1,0 +1,62 @@
+---
+title: "{Nhật kí} Tập làm bánh trung thu"
+date: "2014-07-23"
+slug: "nhat-ki-tap-lam-banh-trung-thu"
+categories: ["Bếp nhà mình", "Các dịp đặc biệt"]
+tags: ["chia sẻ", "trung thu"]
+image: "/wp-content/uploads/2014/07/TapLamBanhTrungThu.jpg"
+description: "cách làm bánh trung thu, công thức bánh trung thu"
+---
+
+<p>Khi người ta ở cách nhà hơn 12 giờ bay, và khi người ta không còn rất trẻ nữa, thì đôi khi một vài thứ tưởng như vu vơ thôi, cũng có thể khiến cho người ta tự nhiên ngồi thừ ra hàng giờ và bần thần suy nghĩ về những điều xưa cũ.</p>
+<p>Chẳng hạn như hôm vừa rồi, thấy bạn đăng ảnh chụp mẻ bánh trung thu đầu mùa, tự nhiên lại nghĩ không biết đã mấy mùa trung thu mình ở xa nhà rồi nhỉ? Trong các dịp lễ tết của năm, trung thu có lẽ là dịp mà mình thích nhất bởi những ký ức về trung thu luôn gắn liền với cảm giác rộn rã, háo hức, vui mừng, sung sướng, hân hoan. Trung thu gắn với bánh kẹo hoa quả, với bưởi bòng được tỉa thành những chú chó bông xù trắng tinh hoặc hồng phấn, có hai mắt là hai hạt nhãn, đen láy, tròn xoe. Trung thu gắn với những chiếc đèn lồng đủ màu sắc. Mình không thích đèn ông sao lắm, nhưng cực kì khoái đèn cù (hay đèn cầy nhỉ?). Đèn gắn với một chiếc que cầm, có bánh ở dưới nên có thể đẩy đi đi lại lại, chụp đèn bằng giấy kiếng đủ màu bao lấy bệ đỡ để gắn một chiếc nến nhỏ bên trong, khi đẩy đi thì xoay tít, tỏa ra một thứ ánh sáng ấm áp dịu dàng. Trung thu cũng gắn với những chiếc mặt nạ đủ hình thù dễ thương, giúp cho bọn trẻ con có thể thỏa sức hóa thân thành các nhân vật mình yêu thích rồi tập diễn kịch, từ công chúa hoàng tử cho đến thầy trò Đường Tam Tạng chuẩn bị lên đường đi thỉnh kinh. Trung thu gắn với rất nhiều niềm vui, rất nhiều thứ ngọt ngào và ấm áp. Nhưng trong số đó không có bánh nướng bánh dẻo.</p>
+<p>Mình chưa bao giờ thích ăn bánh trung thu. Ấn tượng về bánh trung thu luôn là “ngọt, cứng, bở, nhân quá ngấy, quá béo hoặc quá khô”, ăn một miếng bánh thì uống hết nửa bình trà mới thấy cổ họng mướt trở lại. Thứ duy nhất mà mình hơi hơi thích có lẽ là bánh dẻo chay, mua của một cửa hàng chuyên làm bánh gia truyền trên phố cổ. Bánh cắt thành sợi dài, ghép lại với nhau rồi đóng thành túi nhỏ, dẻo dẻo, dai dai và thoang thoảng hương hoa bưởi, ăn nhẹ nhàng mà không ngán. Nhưng bánh đó từ lâu đã không thấy người ta làm nữa rồi. Những năm gần đây chỉ thấy nở rộ bánh nướng, với đủ thứ nhân mà nhiều khi gọi là thập cẩm nhưng cảm giác dùng từ “hỗn độn” chắc hợp hơn. Bánh dẻo dù mua loại chay cũng không còn thấy ngon như xưa nữa, không còn được dẻo dai mà vị thì ngọt đến mức cảm giác như mình vừa ăn một thìa đường.</p>
+<p>Cũng chính vì lí do này mà mình không mặn mà lắm với việc làm bánh trung thu. Nguyên nhân không hẳn chỉ vì không thích, mà còn vì nghĩ mình ở một mình, bày ra làm cả mẻ bánh rồi không biết phải giải quyết thế nào? Chưa kể việc mỗi mùa vụ trung thu, lên Facebook thấy mấy cô bạn than thở chuyện hôm nay ngồi còng lưng sên nhân hết cả buổi tối hay bày ra chiếc đĩa với đủ thứ nguyên liệu, thứ nào cũng thái hạt lựu nhỏ xíu với kết luận hôm nay gồng thử thấy bắp tay xuất hiện con chuột nhỏ xíu rồi. Cứ nhìn vào mấy thứ đó thôi là bao nhiêu ý định nhen nhóm thử làm bánh trung thu bị dập tắt hết cả. Cũng vì điều này mà mình thấy cực kì khâm phục khi thấy các chị em làm bánh trung thu <em>homemade</em> để bán, mỗi mùa sản xuất ra cả trăm đến nghìn cái. Nhìn ảnh mấy mẻ bánh mà thấy thôi rồi là ngưỡng mộ, sao mà các bạn ấy có thể giỏi thế, khéo thế, ….</p>
+<p>Cứ lần lữa mãi như thế, đến năm nay, có lẽ một phần lại vì nguyên nhân bởi “ở xa nhà hơn 12h bay và không còn rất trẻ nữa”, thấy thèm một chút không khí háo hức, rộn rã, hân hoan của ngày xưa, nên quyết định làm thử bánh dẻo và bánh nướng, biết đâu sẽ có thêm ít cảm giác “ở gần nhà”.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Và thế là bắt tay vào tìm công thức, đọc tài liệu, mua các thứ nguyên liệu. Cách làm bánh trung thu không thiếu, của cả các cao thủ Việt Nam lẫn nước ngoài. Copy về in ra đến gần trăm trang giấy. Đọc hết bao nhiêu công thức, thậm chí cả những phần phản hồi thắc mắc để tự rút kinh  nghiệm cho mình. Cứ tưởng “trang bị kiến thức” thế là vững vàng lắm rồi, nào ngờ đến khi bắt tay vào làm mới thấy sao mà vẫn còn nhiều vấn đề quá. Nước đường biết đun đến bao nhiêu là đủ? Bột làm bánh đã cân các thứ rất cẩn thận, có để nghỉ rồi mà sao lúc nặn vẫn dính lằng nhằng vào tay. Vỏ tưởng là khá nhiều mà lúc làm mới thấy hóa ra mỏng dính, miết đến gần trên cùng thì chẳng còn bột để mà che hết phần nhân nữa. Nướng đúng nhiệt độ mà sao bánh ra lò chẳng còn xinh đẹp như lúc mới nhận khuôn, thành bánh nếu không cong vẹo thì cũng phù chân, béo mặt.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14702559796/" title="IMG_8160-1 by LinhTrang9185, on Flickr"><img alt="IMG_8160-1" class="aligncenter" height="264" loading="lazy" src="https://farm3.staticflickr.com/2896/14702559796_39c61754a0.jpg" width="500"/></a></p>
+<p>Thế là làm lại, rồi làm lại lần nữa, rồi lần nữa…. Mỗi lần lại thấy có thêm một vài vấn đề. Nhưng cũng vì thế nên rút ra được thêm một vài kinh nghiệm mới, những thứ mà chẳng có tài liệu nào trên mạng hay chẳng có ai chỉ bảo cho mình. Nhưng mà, tự tay làm rồi mới thấy làm bánh trung thu hóa ra cũng rất vui. Và không khó như mình tưởng.Vì làm bánh có nhiều khâu, nên cảm giác nhìn thấy thành phẩm được hình thành sau từng khâu rất thú vị. Chẳng hạn như khi thấy nhân từ từ “biến” thành một khối dẻo mịn, bóng bẩy. Không kìm được, nhón một miếng nếm thử: “Ôi chao, sao mà nó ….. ngon thế!!”, không quá ngọt, lại thơm dẻo, mịn màng. Hay là khi thấy từng viên bột sau khi ra khỏi chiếc khuôn đã trở thành chiếc bánh vuông thành sắc cạnh với đủ thứ vân hoa lạ mắt. Rồi khi ngồi tỉ mẩn dùng chiếc cọ nhỏ quét từng chút, từng chút trứng lên mặt bánh và nhìn thấy những chiếc bánh sau mỗi lần nướng trở nên vàng hơn, bóng hơn, xinh đẹp hơn. Có lẽ bởi mình vẫn luôn thích những thứ tỉ mẩn, hay những thứ nho nhỏ xinh xinh, nên tất cả những công đoạn này đều mang lại cho mình một cảm giác rất dễ chịu. Nhất là thời gian này mình đang có đủ thứ xì-trét từ công việc, từ cuộc sống, nhưng thật kì lạ là khi dồn hết cả đầu óc vào bánh thì thấy dường như mọi căng thẳng được “cất” đi đâu hết, cứ như là có phép màu vậy.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14538915328/" title="IMG_8137-1 by LinhTrang9185, on Flickr"><img alt="IMG_8137-1" class="aligncenter" height="335" loading="lazy" src="https://farm3.staticflickr.com/2930/14538915328_dd68de93f6.jpg" width="500"/></a></p>
+<p>Và tất nhiên, như mọi khi, Savoury Days sẽ có chuỗi bài nhật kí làm bánh trung thu :) Ngoài công thức ra, mình sẽ tập trung vào chia sẻ các kinh nghiệm để tránh sai sót cũng như các kĩ thuật và những điều cần lưu ý trong quá trình làm. Vì là lần đầu tiên làm nên mình có thử khá nhiều công thức khác nhau để so sánh cũng như lựa chọn công thức tốt nhất. Nhưng sau khi làm thử thì kết luận của mình là không có công thức nào là siêu việt cả. Cũng chẳng có bí quyết nào để làm cho bánh của bạn “tự nhiên” ngon hơn hẳn các loại bánh khác. Giống như tất cả các loại bánh nói chung, công thức chỉ chiếm khoảng 30 – 40 % sự thành công của bánh trung thu, còn lại là kĩ năng, thao tác và sự hiểu biết về nguyên liệu, lò nướng… của người làm. Bởi loại bột sử dụng khác nhau, điều kiện nhiệt độ, độ ẩm khác nhau, lò nướng khác nhau… đều có thể ảnh hưởng tới bánh. Cho nên sự linh hoạt của người làm bánh, biết cách xử lí nếu bột chẳng may hơi khô quá, hơi ướt quá, biết cách bọc vỏ sao cho khéo để không có không khí vào bên trong, biết cách đóng bánh cho vuông vắn, biết cách chỉnh lò để bánh không cháy hay chín non, mới là yếu tố quyết định sự thành công của bánh.</p>
+<p>Nói vậy thôi chứ làm bánh trung thu không quá khó đâu. Đừng ngại khi nhìn thấy danh sách các nguyên liệu dài ngoằng cùng những lời “dọa” về làm bánh mất thời gian hay dễ hỏng. Mình sẽ cố gắng ghi đầy đủ tất cả những vấn đề mà mình gặp phải khi làm bánh trung thu cùng cách để khắc phục. Chỉ cần các bạn đọc kĩ và làm theo, thì chắc chắn sẽ ổn thôi :)</p>
+<p>Trong những ngày tới, mình sẽ chia sẻ lần lượt về cách nấu nước đường, cách làm các loại nhân, cách làm vỏ bánh nướng, vỏ bánh dẻo, cách nướng bánh… nhé. Riêng <a href="/trung-muoi/">cách làm trứng muối thì đã có trên blog rồi</a>. Trứng muối sẽ mất khoảng 3 – 4 tuần để chín nên các bạn có ý định làm bánh nhân trứng muối thì nên chuẩn bị từ bây giờ. Đến khi trứng chín cũng là gần sát với Trung thu.</p>
+<p>À, còn một điều nho nhỏ nữa. Sau khi làm bánh trung thu thì mình đã thích ăn bánh trung thu hơn nhiều. Có lẽ một phần là vì mình đã làm nó với rất nhiều hứng thú và cả tấm lòng vì mong muốn có những chiếc bánh thật ngon để có thể mang tặng, biếu bạn bè và người thân. Một phần khác là vì… nó ngon thật ấy!! ;) Vì tự làm nên nguyên liệu đảm bảo, bánh tươi mới, không có chất bảo quản, lượng đường cũng vừa phải, và tất nhiên, mình thích vị gì có thể tự điều chỉnh vị đó. Cho nên nếu bạn nào vẫn luôn rất không thích bánh trung thu (như mình đã từng) thì thử xem sao nhé! :)</p>
+<p>————————————————————–</p>
+<p>Loạt bài về bánh trung thu</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<ol>
+<li><a href="/nhat-ki-tap-lam-banh-trung-thu/">{Nhật kí} Tập làm bánh trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-nau-nuoc-duong-cho-banh-nuong/">Cách nấu nước đường cho bánh nướng</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/">Chọn khuôn bánh trung thu và chuẩn bị rượu Mai Quế Lộ</a></li>
+<li><a href="/trung-muoi/">Làm trứng muối cho nhân thập cẩm</a></li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-dau-xanh-tra-xanh-la-dua/">Cách làm nhân đậu xanh – trà xanh – lá dứa</a></li>
+<li><a href="/banh-trung-thu-cach-lam-banh-nuong/">Cách làm bánh nướng </a></li>
+<li><a href="/banh-trung-thu-video-cach-boc-nhan-banh/">Video cách bọc nhân bánh</a></li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/">Giải đáp thắc mắc, các thất bại thường gặp &amp; cách khắc phục</a></li>
+<li><a href="/banh-trung-thu-nhan-thap-cam-nhan-sua-dua/">Nhân thập cẩm &amp; Nhân sữa dừa</a></li>
+<li><a href="/banh-trung-thu-video-cach-dong-banh-voi-khuon-lo-xo/">Video: Cách đóng bánh với khuôn lò xo</a></li>
+<li><a href="/banh-trung-thu-video-cach-phet-trung-banh-trung-thu-banh-nuong/">Video: Cách phết trứng bánh trung thu (bánh nướng)</a></li>
+<li><a href="/banh-trung-thu-cach-xu-li-trung-muoi-cho-nhan-banh-trung-thu/">Cách xử lí trứng muối để làm nhân bánh trung thu </a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/">Cách chữa vỏ bánh bị ướt, mềm, nhão, tách nhân hay khô cứng</a></li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-sen-nhuyen/">Cách làm nhân sen nhuyễn</a></li>
+<li><a href="/banh-trung-thu-cach-lam-banh-deo/">Cách làm bánh dẻo</a></li>
+</ol>
+<p> </p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

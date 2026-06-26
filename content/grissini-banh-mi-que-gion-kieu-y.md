@@ -1,0 +1,124 @@
+---
+title: "Grissini – Bánh mì que giòn kiểu Ý"
+date: "2014-11-23"
+slug: "grissini-banh-mi-que-gion-kieu-y"
+categories: []
+tags: []
+image: "/wp-content/uploads/2014/11/Grissini1.jpg"
+description: "bánh mì que giòn, grissini, cách làm bánh mì"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><em><span style="color: #ff0000;">Các kiến thức và kĩ thuật cơ bản trong làm bánh mì (<strong>nhờ cả nhà đọc kĩ trước khi đặt câu hỏi nha</strong></span>  <img alt=":-)" class="wp-smiley" src="/wp-includes/images/smilies/1-2.gif"/> )</em></p>
+<ol>
+<li>Phân biệt các loại bột làm bánh, cách sử dụng, thay thế các loại bột : <a href="/?p=1997">Phần 1</a> – <a href="/?p=2022">Phần 2</a></li>
+<li><a href="/?p=2068">Các chất gây nở (men nở, bột nở, muối nở..) – Phân loại, cách thay thế &amp; các lưu ý khi sử dụng</a></li>
+<li><a href="/?p=2138">Phân loại bánh mỳ – Hai phương pháp trộn bột bánh mỳ cơ bản và vài dòng chia sẻ</a></li>
+<li><strong>Làm bánh mỳ – Quy trình cơ bản và các lưu ý</strong>
+<ul>
+<li><a href="/?p=2277">Phần 1: Các bước làm bánh mỳ cơ bản &amp; Các chú ý về nguyên liệu</a></li>
+<li><a href="/?p=2293">Phần 2: Cách nhào/ nhồi bột </a></li>
+<li><a href="/?p=2332">Phần 3: Cách ủ bột, tạo hình, nướng bánh và bảo quản</a></li>
+</ul>
+</li>
+</ol>
+<p>————————————————————</p>
+<div><a href="/banh-mi-que-voi-pho-mat-parmesan-toi-gia-vi-y/">Công thức bánh mì que </a>đã được giới thiệu tại blog từ lâu nhưng que kiểu giòn thiệt là giòn thì chưa có. Grissini – hay bánh mì que giòn – có nguồn gốc từ nước Ý nhưng đến giờ đã trở thành một trong những món khai vị hay món ăn chơi (kiểu <em>snack</em>) rất được ưa chuộng ở nhiều nước phương Tây. Bánh giòn rụm, lại có thể biến tấu với nhiều mùi vị khác nhau hay dùng với các loại <em>dipping sauce</em> khác nhau nên thực sự là món nhấm nháp hay mồi nhậu hết sảy với bia hoặc sâm-panh trước khi bắt đầu một bữa ăn hay buổi tiệc.</div>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15663884437/" title="IMG_9084-1 by LinhTrang9185, on Flickr"><img alt="IMG_9084-1" class="aligncenter" height="640" loading="lazy" src="https://farm8.staticflickr.com/7487/15663884437_4e7861888c_z.jpg" width="441"/></a></p>
+<p>Lần này làm Grissini mình áp dụng phương pháp lên men chậm, chuẩn bị một phần Sponge trước rồi mới làm bánh. Tuy thời gian lâu hơn thông thường nhưng khi nhồi bột dễ hơn mà mùi vị bánh cũng ngon hơn hẳn. Một công thức làm được kha khá bánh, lại tạo cơ hội để chia nhỏ và nghịch: phần nhào với pho-mát và các loại gia vị hành, tỏi, ớt, làm nên một hương vị thơm nức ngậy béo, “điếc mũi” không thể tả. Phần chỉ lăn qua ít vừng đen, nướng lên giòn rụm thêm vị bùi bùi của vừng, ăn bánh Ý mà chẳng hiểu sao lại nhớ Việt Nam quá! Bột không làm hết thì để ngăn đá, khi nào cần chỉ việc tạo hình và nướng lên thôi – công chắc là bằng chạy ra siêu thị mà về độ kinh tế và chất lượng thì hơn hẳn, nên tội gì mà không “nhào vào bếp”, nhỉ? :)</p>
+<p><strong><span style="color: #800000;">Nguyên liệu</span> </strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>* <strong>Phần A</strong>:</p>
+<ul>
+<li><em>80 gr bột làm bánh mì (bread flour/ hàm lượng protein 11.5 – 12.5%)</em></li>
+<li><em>120 gr nước </em></li>
+<li><em>¼ thìa cafe (teaspoon)/ khoảng 1 gram men instant (instant yeast/ dry instant yeast)</em></li>
+<li><em>10 gr mật ong</em></li>
+</ul>
+<p>* <strong>Phần B</strong></p>
+<ul>
+<li><em>120 gr bột làm bánh mì</em></li>
+<li><em>1/2 thìa cafe (tsp) men instant (khoảng 2 gr)</em></li>
+</ul>
+<p>* <strong>Phần C</strong></p>
+<ul>
+<li><em>30 gr dầu Olive</em></li>
+<li><em>3 gr muối </em></li>
+</ul>
+<p><span style="text-decoration: underline;"><span style="color: #800000;"><strong>Ghi chú về nguyên liệu</strong></span></span></p>
+<ol>
+<li>Có thể thay bột làm bánh mì bằng bột mì đa dụng và nên giảm một chút nước trong phần A.</li>
+<li>Mật ong có thể thay bằng đường (đường này sẽ trộn cùng với muối và cho vào cùng lúc với muối ở phần C).</li>
+<li>Dầu Olive có thể thay bằng dầu ăn. Bánh không hỏng nhưng hương vị sẽ kém ngon và kém “đúng kiểu” hơn một chút.</li>
+</ol>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Cho các nguyên liệu trong phần A vào âu, trộn đều. Ta sẽ có một hỗn hợp tương đối lỏng.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15662140138/" title="IMG_7263 by LinhTrang9185, on Flickr"><img alt="IMG_7263" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7484/15662140138_0087496bb1.jpg" width="500"/></a></p>
+<p>2. Trộn bột và men trong phần B.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15663893697/" title="IMG_7261 by LinhTrang9185, on Flickr"><img alt="IMG_7261" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7531/15663893697_4d1e2df82b.jpg" width="500"/></a></p>
+<p>Rắc hoặc rây phần bột &amp; men này phủ đều lên trên mặt của hỗn hợp vừa có ở bước (1).</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15230002543/" title="IMG_7264 by LinhTrang9185, on Flickr"><img alt="IMG_7264" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7501/15230002543_df55cb46b2.jpg" width="500"/></a></p>
+<p>Dùng nilon hoặc khăn phủ kín mặt âu. Để hỗn hợp nghỉ ở nhiệt độ phòng trong khoảng 1 – 1.5 giờ rồi dùng. Nếu sau 1h chưa thể tiếp tục làm ngay thì có thể bảo quản hỗn hợp trong ngăn mát tủ lạnh và dùng trong khoảng 20 giờ tiếp theo.</p>
+<p style="text-align: center;"><em>Hỗn hợp sau khi rây hết bột khô </em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15227378054/" title="IMG_7265 by LinhTrang9185, on Flickr"><img alt="IMG_7265" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7500/15227378054_090f38e455.jpg" width="500"/></a></p>
+<p>3. Sau khi hỗn hợp đã nghỉ từ 1 – 1.5 giờ, cho 30 gram dầu Olive vào âu. Trộn đều (với thìa gỗ hoặc máy ở tốc độ thấp nhất).</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15662299220/" title="IMG_7274 by LinhTrang9185, on Flickr"><img alt="IMG_7274" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7530/15662299220_a6c6388375.jpg" width="500"/></a></p>
+<p>Trộn đến khi hỗn hợp quyện thành một khối thì dừng lại. Đậy khăn hoặc nilon kín mặt âu. Để bột nghỉ thêm 20 phút.</p>
+<p>4. Rắc muối lên đều khắp miếng bột (nếu dùng đường thì trộn đường với muối và rắc lên bột ở bước này). Nhồi đến khi bột chuyển thành một khối mịn, trắng, dẻo và đàn hồi. Nếu bột quá dính, có thể dùng thêm chút bột áo. Nếu bột quá khô (bột cứng, khó nhồi) thì dùng bình xịt, xịt một chút nước vào khối bột rồi tiếp tục nhồi. Xem thêm cách nhồi bột trong link ở đầu bài.</p>
+<p>Bột nhồi đạt sẽ mịn và có độ đàn hồi tốt. Khi ấn thử tay vào khối bột thấy vết lõm phồng trở lại. Khi chạm ngón tay vào bề mặt bột có cảm giác hơi dính (giống như phần dính đằng sau miếng giấy nhớ – <em>sticky note) </em>nhưng bột không dính theo tay khi nhấc ngón tay lên.</p>
+<p style="text-align: center;"><em>Bột đã nhồi xong và đợi ủ lần 1</em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15230000323/" title="IMG_7275 by LinhTrang9185, on Flickr"><img alt="IMG_7275" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7494/15230000323_4ff31a32f9.jpg" width="500"/></a></p>
+<p>5. Quét một lớp dầu ăn mỏng quanh thành âu dùng để ủ bột. Đặt khối bột vào âu. Đậy kín âu bằng nilon hoặc khăn ẩm. Ủ bột ở nơi có nhiệt độ ấm áp (30 – 38 độ C). Cách đơn giản nhất là bật lò ở 50 độ C trong khoảng 3 – 5 phút rồi cho khối bột vào ủ.</p>
+<p>6. Ủ đến khi bột nở gấp 2 – 2.5 lần. Thời gian ủ bột phụ thuộc vào nhiệt độ ủ và chất lượng men nên không có con số chính xác, nhưng thường thì dao động trong khoảng 45 – 65 phút.</p>
+<p style="text-align: center;"><em>Bột sau khi ủ xong, ấn thử ngón tay vào thấy vết lõm sâu rõ, không phồng trở lại, bột không bị xẹp </em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15662297890/" title="IMG_7278 by LinhTrang9185, on Flickr"><img alt="IMG_7278" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7572/15662297890_d64358860c.jpg" width="500"/></a></p>
+
+
+<p>7.  Sau khi ủ bột xong, dùng mu bàn tay ấn nhẹ cho bột xẹp, hơi khí thoát ra ngoài. Nhồi bột lại nhẹ nhàng.</p>
+<p>8. Một công thức làm được khá nhiều bánh nên mình chia bột làm 2 phần, mỗi phần khoảng 170 – 180 gram. Phần bột chưa dùng đến có thể để ngăn mát tủ lạnh (nếu nướng ngay) hoặc bảo quản trong ngăn đá, khi nào dùng thì rã đông, để bột về nhiệt độ phòng là có thể tạo hình và nướng như bình thường.</p>
+<p>9. Ở bước này, các bạn có thể biến tấu mùi vị của bột bánh tùy ý. Chẳng hạn như hai khối bột mà mình làm hôm nay, một khối mình trộn với pho-mát Parmesan, tỏi tiêu, ớt, oregano (hỗn hợp này có mùi vị kích thích cực kì ;) ). Khối còn lại mình tạo hình rồi lăn qua vừng đen thành bánh mì que vừng, khi nướng lên có vị vừng thơm bùi quyện với bánh mì giòn cũng rất ngon.</p>
+<p>Dưới đây mình ghi lại thành phần hỗn hợp Parmesan của mình. Nhưng trong quá trình làm các bạn có thể sáng tạo tùy ý nhé. Đường và muối trong công thức mình cũng chỉ cho vừa đủ thôi, nếu cả nhà thích ăn hơi ngọt hoặc hơi mặn thì có thể tăng thêm tùy ý (nếu tăng thêm đường hay muối thì trộn cùng với bột ban đầu luôn).</p>
+<p>Một phần hỗn hợp này đủ cho 175 gram bột.</p>
+<ul>
+<li><em>25 gr Parmesan – bào vụn (có thể thay bằng một loại pho-mát cứng khác tùy thích)</em></li>
+<li><em>¼ tsp bột hành</em></li>
+<li><em>¼ tsp bột tỏi</em></li>
+<li><em>½ tsp oregano khô</em></li>
+<li><em>½ tsp bột ớt paprika</em></li>
+<li><em>¼ tsp tiêu xay</em></li>
+</ul>
+<p>Trộn đều tất cả các nguyên liệu này</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15847664401/" title="IMG_7280 by LinhTrang9185, on Flickr"><img alt="IMG_7280" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7575/15847664401_6c78ac50b9.jpg" width="500"/></a></p>
+<p>rồi nhồi cùng với bột đến khi hòa quyện và bột mịn.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15663639509/" title="IMG_7282 by LinhTrang9185, on Flickr"><img alt="IMG_7282" class="aligncenter" height="333" loading="lazy" src="https://farm9.staticflickr.com/8616/15663639509_0292df7a87.jpg" width="500"/></a></p>
+<p>Khối bột bên trái là bột “trơn” từ công thức, sẽ lăn qua vừng khi tạo hình, khối bột bên phải là bột sau khi trộn với pho-mát và gia vị.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15663887497/" title="IMG_7283 by LinhTrang9185, on Flickr"><img alt="IMG_7283" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7547/15663887497_363c0ce556.jpg" width="500"/></a></p>
+<p>Chuẩn bị khay nướng có lót tấm nướng bánh silicon hoặc giấy nướng. Lưu ý không nên dùng khay đen kèm lò vì khả năng mặt dưới que bánh bị cháy sẽ cao hơn.</p>
+<p>10. Chia bột thành các viên nặng khoảng 10 gram.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15227373174/" title="IMG_7284 by LinhTrang9185, on Flickr"><img alt="IMG_7284" class="aligncenter" height="334" loading="lazy" src="https://farm8.staticflickr.com/7530/15227373174_741fa3ea30.jpg" width="500"/></a></p>
+<p>Vê thành que dài khoảng 25 – 30 cm. Bánh sẽ nở gấp 2,5 – 3 lần so với bột ban đầu, nếu muốn que to hay nhỏ hơn, các bạn có thể điều chỉnh tùy thích.</p>
+<p>Mặc dù bánh mì que không kén về “ngoại hình”, bánh không hoàn hảo, tròn trịa thẳng thớm có khi lại càng đẹp và hấp dẫn, nhưng khi tạo hình các bạn cố gắng vê để làm sao cho các que đều nhau, không có phần quá to hay quá bé vì khi nướng, những phần quá bé sẽ dễ cháy nhanh hơn.</p>
+<p>Đặt các que bánh mì lên khay có lót tấm nướng hoặc giấy nướng, chừa khoảng cách khoảng 1 – 1.5 cm giữa các que.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15849663525/" title="IMG_7285 by LinhTrang9185, on Flickr"><img alt="IMG_7285" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7509/15849663525_71dcc9da44.jpg" width="500"/></a></p>
+<p>11. Sau khi đã tạo hình xong tất cả các que bánh, để bột nghỉ thêm 20 – 25 phút. Làm nóng lò ở nhiệt độ 230 độ C – 2 lửa. Thường thì khi lò vừa đủ nóng cũng là lúc bánh ủ đủ (nếu lò cần nhiều thời gian để làm nóng hơn thì cần bật lò sớm hơn, từ khi tạo hình que bánh).</p>
+<p>Chuẩn bị bình xịt nước.</p>
+<p>12. Đưa khay bánh vào lò (nên đặt khay thấp một chút, tránh để bánh bị cháy nhanh). Xịt nhiều nước lên thành lò. Đóng cửa lò. Hạ nhiệt độ xuống 220 độ C. Nướng trong khoảng 5 phút, khi bánh hơi chuyển vàng thì mở cửa lò, quay ngược khay nướng (thường thì các lò gia đình có nhiệt độ không đều nên quay khay sẽ giúp bánh vàng đều hơn). Hạ nhiệt xuống 220 – 210 độ C, nướng thêm 5 – 7 phút đến khi bánh chín vàng.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15229995113/" title="IMG_9077-1 by LinhTrang9185, on Flickr"><img alt="IMG_9077-1" class="aligncenter" height="335" loading="lazy" src="https://farm9.staticflickr.com/8586/15229995113_45ef2ea537.jpg" width="500"/></a></p>
+<p>(*) <span style="text-decoration: underline;"><strong>Ghi chú:</strong></span></p>
+<p>– Thời gian và nhiệt độ có thể thay đổi tùy theo lò. Nếu dùng lò nhỏ, lửa trên cao thì có thể nướng ở nhiệt độ thấp hơn một chút, tránh cho bánh bị vàng và cháy nhanh.</p>
+<p>– Bánh sau khi nướng xong sẽ rất giòn. Để nguội trong khoảng 1 ngày vẫn giòn. Nếu muốn bảo quản để dùng trong ngày thứ 2 – 3 thì cần bọc trong túi kín, tốt nhất là có hút chân không. Hoặc có thể nướng bánh hơi non một chút. Khi dùng thì nướng lại ở khoảng 150 – 160 độ C trong 2 – 3 phút, bánh sẽ giòn trở lại.</p>
+<p>– Lò nhà mình cỡ khoảng 50 lít, một mẻ nướng được tầm 20 chiếc (dùng hết 1/2 công thức). Phần 1/2 còn lại mình để tủ lạnh (ngăn mát). Khi tạo hình xong khay thứ nhất thì lấy ra tạo hình cho mẻ thứ hai này. Mình lăn bánh qua vừng đen bằng cách rải vừng lên mặt bàn rồi vê bột qua, vừng sẽ tự bám vào bột. Vì nướng 1 mẻ khá nhanh nên khi mẻ 1 nướng xong thì có thể đưa mẻ thứ 2 này vào lò luôn.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15662294330/" title="IMG_7294 by LinhTrang9185, on Flickr"><img alt="IMG_7294" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7528/15662294330_07519af0e7.jpg" width="500"/></a></p>
+<p>– Không nướng nhiều hơn 1 mẻ trong 1 lần vì nhiệt độ có thể sẽ phân bố không đều, làm bánh chín không đều.</p>
+<p>– Bánh có pho-mát chín vàng khá nhanh và thời gian nướng cũng ngắn hơn so với bánh không dùng pho-mát.</p>
+<p>(*) <span style="text-decoration: underline; color: #ff0000;"><strong>Một vài vấn đề thường gặp và cách khắc phục</strong></span>:</p>
+<p>– Bột không nở trong lần ủ thứ 1: thường do men hỏng (men hết hạn hoặc dùng sai loại men)</p>
+<p>– Bột dai khó vê thành que: có thể vê bột thành dạng thỏi dài rồi để bột nghỉ một vài phút, bột sẽ bớt dai và dễ vê dài hơn.</p>
+<p>– Bánh bị cứng sau khi nướng: do bột bánh quá khô, nướng ở nhiệt hơi thấp và khi nướng không xịt nước (thiếu độ ẩm).</p>
+<p>– Bánh mềm chứ không giòn: nướng chưa đủ thời gian, nhiệt độ không đủ cao</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

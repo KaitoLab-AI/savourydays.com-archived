@@ -1,0 +1,106 @@
+---
+title: "Cách làm BÁNH CHÍN TẦNG MÂY"
+date: "2022-04-05"
+slug: "cach-lam-banh-chin-tang-may"
+categories: []
+tags: []
+image: "/wp-content/uploads/2022/02/IMG_5672-2-scaled.jpg"
+description: "Bánh 9 tầng mây là “anh em” với bánh da lợn, đều dẻo dẻo, dai dai, giòn giòn, ngọt thanh và thơm béo mùi nước cốt dừa. Có thể ăn không hoặc ăn kèm chè đều rất ngon"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<div role="banner">
+<div aria-hidden="false" class="rq0escxv byvelhso q10oee1b poy2od1o j9ispegn kr520xx4 ooia0uwo kavbgo14">
+<div class="">
+<div class="rq0escxv cbu4d94t k4urcfbm a8c37x1j l9j0dhe7 p9906w3d rp3cc1xn keod5gw0 rpedc2ei bjz44bnn kf6kxqaw ex9rxw2n owhxnkwg">
+<div class="bp9cbjyn rq0escxv j83agx80 byvelhso hv4rvrfc dati1w0a">
+<div class="k4urcfbm">
+<div class="k4urcfbm j83agx80 bp9cbjyn">
+<div class="j83agx80 pfnyh3mw byvelhso fwizqjfa l3d94uoy">
+<div class="kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x c1et5uql">
+<p><span style="font-weight: 400; color: #000000;">Bánh 9 tầng mây là “anh em” với bánh da lợn, đều dẻo dẻo, dai dai, giòn giòn, ngọt thanh và thơm béo mùi nước cốt dừa, và cách làm cũng đều cực đơn giản, không yêu cầu nguyên liệu dụng cụ gì phức tạp ạ ^^</span></p>
+<p><span style="font-weight: 400; color: #000000;">Khác ở chỗ bánh 9 tầng mây không có lớp đậu xanh, thay vào đó là các lớp bột nhiều màu sắc và có mềm phần dẻo dai hơn bánh da lợn. Bánh 9 tầng mây ăn không cũng ngon, nhưng hợp nhất (và cũng chuẩn xịn như quán nhất) là ăn với một bát chè có nước cốt dừa, các loại thạch, trân châu nữa. </span></p>
+<p><span style="font-weight: 400; color: #000000;">Trong công thức tụi mình dùng các loại bột rau của để tạo màu, bột rau củ này các cửa hàng bán đồ làm bánh đều có rất nhiều. Nếu không có bột, các bạn có thể ép nước rau củ tươi để thay cho nước trong công thức nhé ;)</span></p>
+<h2><span style="color: #993300;">Cách làm BÁNH 9 TẦNG MÂY (dai – dẻo – giòn)</span></h2>
+<p><strong><span style="color: #993300;">Nguyên liệu: </span></strong></p>
+<p><strong><span style="color: #000000;">(A) Phần bột bánh</span></strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">185 gram bột năng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">35 gram bột gạo</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">75 gram đường xay</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">185 gram nước cốt dừa</span></em></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;">* Phần bột bánh sau khi pha xong sẽ chia đều thành 4 phần.</span></p>
+<p><strong><span style="color: #000000;">(B) Pha Màu</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">Màu vàng: ¼ thìa cà phê bột dành dành + 65 gram nước + 120 gram bột bánh</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Màu hồng: ½ thìa cà phê bột củ dền + 65 gram nước + 120 gram bột bánh</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Màu xanh: 10 gram lá nếp tươi hoặc ½ thìa cà phê bột lá nếp + 65 gram nước + 120 gram bột bánh (thêm 1 – 2 giọt tinh chất lá dứa nếu thích màu bánh đậm và thơm mùi lá dứa hơn)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Màu trắng: 60 gram nước + 120 gram bột bánh</span></em></li>
+</ul>
+</div>
+<div class="kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x c1et5uql">
+<p><span style="color: #993300;"><strong>Cách làm:</strong></span><strong><span style="color: #000000;"> Trộn bột</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Trộn đều toàn bộ nguyên liệu phần bột bánh. Hỗn hợp này sẽ đặc và có thể hơi lợn cợn nhưng không sao, chúng ta sẽ pha loãng ở bước sau.</span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Chia phần bột này thành 4 phần đều nhau. Mỗi phần khoảng 120 gram.</span></p>
+<p><span style="font-weight: 400; color: #000000;">3. Hòa màu bột tự nhiên với nước, sau đó trộn đều với 120 gram bột bánh ở bước (2). Lọc lại hỗn hợp này. </span></p>
+<p><span style="color: #993300;"><strong>* Lưu ý:</strong></span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nếu loại màu bột bạn dùng có nhiều vụn, không mịn hoàn toàn, lọc qua rây vẫn thấy có vụn bột rau củ thì có thể lọc qua vải để bột mịn hoàn toàn nhé. Tuy nhiên thì có lẫn một chút vụn rau củ cũng không có vấn đều gì cả ;)</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Hỗn hợp bột cuối cùng cần có độ lỏng giống như trong video. Nếu bột quá đặc thì cho thêm nước, nếu không bánh sẽ bị cứng, ăn thấy rõ vị bột. Nếu bột quá loãng thì cho thêm bột năng, nếu không bánh sẽ dễ bị nhão.</span></p>
+</div>
+<div></div>
+<div class="kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x c1et5uql">
+<p><strong><span style="color: #000000;">B. Hấp bánh</span></strong></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #000000;">1. Chuẩn bị:</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Quét 1 lớp dầu ăn mỏng khắp lòng khuôn để chống dính.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Đun sôi nồi nước để hấp bánh. Dùng khăn để lót nắp vung tránh hơi nước rơi vào bánh khi hấp.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Cho khuôn vào xửng, hấp khuôn trong khoảng 5 – 7 phút đến khi khuôn rất nóng thì mới đổ bánh vào.</span></p>
+<p><span style="color: #000000;">2. Cách đổ các lớp đều nhau:</span></p>
+<p><span style="font-weight: 400; color: #000000;">1. Độ dày của từng lớp bánh sẽ tùy sở thích. Mình thì thích ăn bánh có nhiều lớp mỏng, các hương vị hoàn quyện vào nhau hài hòa hơn, ăn bánh không cảm giác ngấy hay bứ. Khuôn 16 cm mình thường đổ thành 9  lớp, mỗi lớp dày khoảng 2 – 3mm.</span></p>
+<p><span style="font-weight: 400; color: #000000;"> 2. Cách tốt nhất để đổ các lớp bánh được đều nhau là cân lượng bột mỗi lần đổ vào, hoặc dùng 2 chiếc muôi múc bột giống hệt nhau, mỗi lần múc đúng từng ấy lượng bột. Với khuôn 16cm, mình thường đổ khoảng 57 – 58 gram bột mỗi lớp.</span></p>
+<p><span style="font-weight: 400; color: #000000;"> 3. Nếu không chắc chắn về lượng bột đổ vào, các bạn có thể đổ trước 2 lớp bánh, sau đó lấy bánh ra, ngâm khuôn vào nước lạnh cho bánh nhanh nguội rồi gỡ khuôn xem thử với lượng bột như vậy thì độ dày đã vừa chưa.</span></p>
+<p><span style="font-weight: 400; color: #000000;">4. Đổ lớp bột lá dứa đầu tiên, đậy vung nồi, hấp ở lửa vừa trong khoảng 2 phút. Sau 2 phút thấy bánh se mặt thì nhẹ nhàng đổ lớp bột tiếp theo vào. Đậy nắp và tiếp tục hấp thêm 2 phút. Làm lần lượt với các màu còn lại.</span></p>
+<p><span style="font-weight: 400; color: #000000;">5. Sau khi đổ hết lớp màu cuối cùng, đậy vung và hấp thêm 10 phút. Thử bánh chín bằng cách cắm que tăm vào giữa bánh, nếu rút ra đầu tăm sạch, không dính vụn bánh thì là bánh đã chín. </span>Để bánh trong khuôn đến khi nguội hoàn toàn rồi mới gỡ khuôn.</p>
+<p><span style="font-weight: 400; color: #000000;"> Cắt bánh: Dùng nilong bọc thực phẩm bọc 2 – 3 lớp quanh lưỡi dao để chống dính. Ấn dao xuống dứt khoát (không cưa qua cưa lại) để cắt bánh.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><img alt="" class="alignnone wp-image-8964" height="335" loading="lazy" sizes="(max-width: 503px) 100vw, 503px" src="/wp-content/uploads/2022/01/banh9tangmay2-300x200.jpg" width="503"/></p>
+<div class="bp9cbjyn rq0escxv j83agx80 byvelhso hv4rvrfc dati1w0a">
+<div class="k4urcfbm">
+<div class="k4urcfbm j83agx80 bp9cbjyn">
+<div class="j83agx80 pfnyh3mw byvelhso fwizqjfa l3d94uoy">
+<div class="kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x c1et5uql">
+<p><span style="font-weight: 400; color: #000000;"> Bánh có thể bảo quản trong ngăn mát tủ lạnh 3 – 5 ngày. Tuy nhiên khi để vào tủ bánh sẽ cứng lại, khi ăn có thể để ra ngoài nhiệt độ phòng cho bánh hết lạnh hoặc quay trong lò vi sóng khoảng 20 – 30 giây cho bánh ấm và mềm trở lại.</span></p>
+<p><span style="font-weight: 400; color: #000000;">Bánh có thể ăn kèm với chè gồm: </span></p>
+<p><span style="font-weight: 400; color: #000000;">1. Nước cốt dừa: Hòa tan nước cốt dừa với nước/sữa tươi theo tỉ lệ 1:1, thêm đường và sữa đặc tùy khẩu vị. Khuấy đều trên lửa nhỏ tới khi hỗn hợp ấm nóng, gần sôi là được.</span></p>
+
+
+<p><span style="font-weight: 400; color: #000000;">2. Trân châu: Hợp nhất là trân châu nhân dừa. </span></p>
+<p><span style="color: #000000;"><span style="font-weight: 400;">3. Các loại thạch: Mình dùng thạch “giun” xanh (giống chè Thái), CT tại đây: </span><a href="/lod-chong-singapore-thach-giun-xanh-che-thai/" style="color: #000000;"><span style="font-weight: 400;">/lod-chong-singapore-thach-giun-xanh-che-thai/</span></a></span></p>
+<p><img alt="" class="alignnone wp-image-9088" height="335" loading="lazy" sizes="(max-width: 501px) 100vw, 501px" src="/wp-content/uploads/2022/02/IMG_5703-300x200.jpg" width="501"/></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bp9cbjyn rq0escxv j83agx80 byvelhso hv4rvrfc dati1w0a">
+<div class="k4urcfbm">
+<div class="k4urcfbm j83agx80 bp9cbjyn">
+<div class="j83agx80 pfnyh3mw byvelhso fwizqjfa l3d94uoy"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

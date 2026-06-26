@@ -1,0 +1,140 @@
+---
+title: "Heavenly chocolate & banana mousse cake (cách làm Mousse & Ganache với bột cacao)"
+date: "2014-02-06"
+slug: "heavenly-banana-chocolate-mousse-cach-lam-mousse-ganache-voi-bot-cacao"
+categories: []
+tags: []
+image: "/wp-content/uploads/2014/02/HeavenlyChocoCake.jpg"
+description: "valentine, chocolate mousse, chocolate ganache"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Mùa đông châu Âu lạnh giá và u ám, làm cho người ta thấy thèm nhiều hơn những thứ ngọt ngào và ấm áp, như một tách chocolate nóng còn nghi ngút khói, một miếng bánh đậm đà vị cacao xốp mềm tan trong miệng, mùi thơm ngọt của những thứ quả đến từ miền đất nhiệt đới… Và nếu tất cả những hương vị ấy có thể được đưa vào trong một món ăn… thì còn gì tuyệt hơn nhi? 8-&gt;</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12342263855/" title="Heavenly banana &amp; chocolate mousse cake by LinhTrang9185, on Flickr"><img alt="Heavenly banana &amp; chocolate mousse cake" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3755/12342263855_e7ab5e804d.jpg" width="500"/></a></p>
+<p>Công thức hôm nay là một sự thử nghiệm mới. Chocolate mousse và Chocolate Ganache lần này được làm với nguyên liệu hoàn toàn là bột cacao nguyên chất để có thêm một lựa chọn cho các bạn không tìm được chocolate với hàm lượng ca cao trên 50% (là yêu cầu thông thường cho chocolate dùng làm mousse và ganache, để đảm bảo độ đậm đặc và hương vị chocolate trong bánh). Công thức hơi dài một chút do có nhiều thành phần, nhưng khi thực hiện, mọi người có thể thay đổi, thêm bớt các phần tùy theo điều kiện về thời gian, nguyên liệu và sở thích nhé.</p>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span></p>
+<ul>
+<li><em>1 khuôn tròn đường kính 20cm làm đế bánh</em></li>
+<li><em>1 khuôn tròn đế rời hoặc mousse ring đường kính 18cm để ráp bánh</em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><strong>A. Chocolate Sponge Cake</strong></p>
+<ul>
+<li><em>35 gr bột mì đa dụng hoặc pastry flour</em></li>
+<li><em>15 gr bột ca cao nguyên chất không đường</em></li>
+<li><em>15 gr dầu thực vật</em></li>
+<li><em>10 gr sữa hoặc nước</em></li>
+<li><em>3 ml (1/2 tsp) vanilla chiết xuất</em></li>
+<li><em>2 trứng gà</em></li>
+<li><em>1/4 tsp cream of tartar</em></li>
+<li><em>55 gr đường hạt mị</em>n</li>
+</ul>
+<p><strong>B. Caramelized Banana</strong></p>
+<ul>
+<li><em>20 gr bơ động vật (không muối)</em></li>
+<li><em>25 – 30 gr đường (tùy khẩu vị)</em></li>
+<li><em>200 gr chuối (không tính vỏ, khoảng 2-4 quả tùy kích thước) – thái khoanh tròn hoặc lát dài</em></li>
+<li><em>1/4 tsp (1-2ml) vani chiết xuất</em></li>
+</ul>
+<p><strong>C. Chocolate Mousse</strong></p>
+<ul>
+<li><em>4 gr Gelatin (dạng bột hoặc lá)</em></li>
+<li><em>1 lòng đỏ trứng gà</em></li>
+<li><em>30 gr đường hạt mịn</em></li>
+<li><em>5 gr bột mì đa dụng </em></li>
+<li><em>120 ml sữa tươi không đường</em></li>
+<li><em>20 gr bơ động vật</em></li>
+<li><em>10 gr bột cacao nguyên chất</em></li>
+<li><em>1/4 tsp (1-2ml) vani chiết xuất</em></li>
+<li><em>150 gr kem tươi hàm lượng béo 30 – 40%</em></li>
+<li><em>1 lòng trắng trứng gà (30 – 33 gr)</em></li>
+<li><em>15 gr đường hạt mịn </em></li>
+</ul>
+<p><strong>D. Chocolate Ganache</strong></p>
+<ul>
+<li><em>17 gr bột ca cao nguyên chất</em></li>
+<li><em>50 gr kem tươi hàm lượng béo 30 – 40%</em></li>
+<li><em>35 gr bơ động vật <em>(không muối)</em></em></li>
+<li><em>25 gr đường hạt mịn</em></li>
+<li><em><em>1/4 tsp (1-2ml) vani chiết xuất</em> (không bắt buộc)</em></li>
+</ul>
+<p>(*) <strong>Ghi chú: </strong></p>
+<p>1. Cốt bánh Sponge (A) có thể thay bằng cốt Chiffon cake, Gateau Hồng Kông, <a href="/incredibly-easy-chocolate-cake/">Incredibly Easy Chocolate Cake</a>,… tủy thích.</p>
+<p>2. Bơ dùng trong công thức <strong>nên chọn bơ động vật</strong> vì mùi vị sẽ ngon và thơm hơn bơ thực vật rất nhiều.</p>
+<p>3. Nếu muốn dùng chocolate, <strong>nên chọn loại chocolate có hàm lượng cacao tối thiểu 50%</strong>, và thay thế công thức như sau:</p>
+<ul>
+<li>Phần A thay bằng 1/2 công thức <a href="/incredibly-easy-chocolate-cake/">Incredibly Easy Chocolate Cake</a> (bánh vẫn ngon nhưng sẽ không nhẹ bằng công thức A)</li>
+<li>Phần B  thay bằng Chocolate Mousse trong <a href="/kaole/">Kaole</a> (hoặc cũng có thể tham khảo công thức  <a href="/mousse-chocolate-dau-tay-chocolate-strawberry-mousse/">Mousse Chocolate dâu tây</a>)</li>
+<li>Phần D tham khảo công thức tại: <a href="/mini-cakes-cach-danh-bong-kem-tuoi-cong-thuc-chocolate-ganache/">Chocolate Ganache</a>.</li>
+</ul>
+<p>4. Chọn dùng bột ca cao nguyên chất không đường (<strong>không dùng bột sữa Milo</strong>). Bột ca cao càng thơm ngon sẽ cho bánh có mùi vị Chocolate đậm đà và ngon hơn.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12342413023/" title="IMG_4624-1 by LinhTrang9185, on Flickr"><img alt="IMG_4624-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7397/12342413023_6852bbb0dc_z.jpg" width="451"/></a></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><b>A. Chocolate Sponge Cake </b></p>
+<p>Làm theo công thức <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/">Ga-tô cơ bản bất bại</a>. Bột ca cao được rây và trộn đều với bột mì, các thao tác khác không thay đổi. Vì trong CT Gateau cơ bản bất bại đã có ghi chú rất cụ thể các thao tác và các chú ý rồi, nên ở đây mình chỉ tóm tắt lại hình ảnh các bước thôi nhé.</p>
+<p>1. Rây mịn và trộn đều bột mì &amp; bột cacao</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12342417283/" title="IMG_4596 by LinhTrang9185, on Flickr"><img alt="IMG_4596" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3799/12342417283_66e2f14b0d.jpg" width="500"/></a></p>
+<p>2. Đánh lòng trắng trứng với cream of tartar và đường đến bông cứng.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12342712854/" title="IMG_4597 by LinhTrang9185, on Flickr"><img alt="IMG_4597" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7291/12342712854_953bb431fc.jpg" width="500"/></a></p>
+<p>3. Để máy ở tốc độ thấp, cho từng lòng đỏ, đánh hòa quyện.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12342416793/" title="IMG_4598 by LinhTrang9185, on Flickr"><img alt="IMG_4598" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3691/12342416793_53e6a2bd36.jpg" width="500"/></a></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12342416643/" title="IMG_4599 by LinhTrang9185, on Flickr"><img alt="IMG_4599" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2873/12342416643_4d5dd2c704.jpg" width="500"/></a></p>
+<p>4. Để máy ở tốc độ thấp, từ từ cho phần dầu ăn, sữa (mình dùng nước) và vani vào, đánh đều.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12342266905/" title="IMG_4600 by LinhTrang9185, on Flickr"><img alt="IMG_4600" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7291/12342266905_cc7b0a3acb.jpg" width="500"/></a></p>
+<p>Hỗn hợp sau khi trộn dầu &amp; nước xong rất mịn và bông đặc, không bị loãng.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12342416263/" title="IMG_4601 by LinhTrang9185, on Flickr"><img alt="IMG_4601" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2823/12342416263_bcda909efe.jpg" width="500"/></a></p>
+<p>5. Rây từng phần bột vào âu, trộn đều (<em>mình dùng máy trộn ở tốc độ thấp nhất, chỉ trộn vừa đủ, không đánh quá lâu sẽ làm vỡ bọt khí trong trứng đánh bông</em>).</p>
+
+
+<p><a href="http://www.flickr.com/photos/55490207@N05/12342416093/" title="IMG_4602 by LinhTrang9185, on Flickr"><img alt="IMG_4602" class="aligncenter" height="333" loading="lazy" src="http://farm6.staticflickr.com/5542/12342416093_c344da4d76.jpg" width="500"/></a></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12342266465/" title="IMG_4603 by LinhTrang9185, on Flickr"><img alt="IMG_4603" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7323/12342266465_166ed519b5.jpg" width="500"/></a></p>
+<p>Sau khi trộn xong, thành âu sẽ còn dính bột khô, dùng phới fold vài vòng để vét sạch thành &amp; đáy âu.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12342711354/" title="IMG_4604 by LinhTrang9185, on Flickr"><img alt="IMG_4604" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2862/12342711354_be81679b31.jpg" width="500"/></a></p>
+<p>Hỗn hợp cuối cùng.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12342415323/" title="IMG_4605 by LinhTrang9185, on Flickr"><img alt="IMG_4605" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7373/12342415323_3d99c18f13.jpg" width="500"/></a></p>
+<p>Nướng bánh ở nhiệt độ 170°C (hoặc 160°C với khuôn sẫm màu), chế độ hai lửa, trong khoảng 20 – 25 phút. Sau khi nướng xong lấy bánh ra khỏi khuôn, để nguội hoàn toàn trên rack.</p>
+<p>* <strong>Lưu ý: </strong><em>thời gian và nhiệt độ nướng có thể thay đổi tùy theo lò. Đọc thêm chi tiết tại các bài viết sau</em></p>
+<p><strong>A-Z: Lò nướng – Kinh nghiệm chọn lò – Cách chỉnh lò để bánh không bị xẹp, lõm, thắt eo, ẩm, cháy…</strong> <a href="/lo-nuong-kinh-nghiem-nuong-banh/">Phần 1</a> – <a href="/kinh-nghiem-nuong-banh-phan-2/">Phần 2</a></p>
+<p>Lý do nên dùng khuôn to hơn để nướng bánh là vì sau khi bánh nguội sẽ co lại, nên nếu nướng bánh ở khuôn 20 cm, bánh sau khi nướng sẽ co lại còn khoảng 18 – 18,5 cm, vừa với khuôn dùng để ráp bánh.</p>
+<p>Trong khi đợi nướng bánh, chuẩn bị phần Caramelized Banana và Chocolate Mousse.</p>
+<p><b>B. Caramelized Banana</b></p>
+<p>1. Để lửa vừa, cho bơ vào chảo hoặc nồi chống dính.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12342265805/" title="IMG_4606 by LinhTrang9185, on Flickr"><img alt="IMG_4606" class="aligncenter" height="333" loading="lazy" src="http://farm6.staticflickr.com/5539/12342265805_8a2868b64d.jpg" width="500"/></a></p>
+<p>Ngay khi bơ vừa tan chảy thì cho đường vào, quấy đều.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12342415073/" title="IMG_4607 by LinhTrang9185, on Flickr"><img alt="IMG_4607" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3773/12342415073_c1fa7fe475.jpg" width="500"/></a></p>
+<p>2. Đun đến khi đường tan chảy thì cho chuối, đun lửa nhỏ liu riu trong khoảng 3 – 4 phút, trở đều hai mặt cho chuối thấm bơ và đường.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12342265195/" title="IMG_4609 by LinhTrang9185, on Flickr"><img alt="IMG_4609" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7434/12342265195_977c2fb6bd.jpg" width="500"/></a></p>
+<p>Đến khi chuối vừa mềm thì bắc ra. Chuối sẽ mềm hơn trong quá trình để nguội. Không nên đun quá lâu sẽ làm chuối nát.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12342265045/" title="IMG_4610 by LinhTrang9185, on Flickr"><img alt="IMG_4610" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3706/12342265045_d75658fc4d.jpg" width="500"/></a></p>
+<p><strong>C. Chocolate Mousse</strong></p>
+<p>1. Ngâm Gelatin trong 30 – 45ml nước lạnh trong khoảng 10 phút cho Gelatin nở mềm.</p>
+<p>2. Cho lòng đỏ trứng và đường vào âu, dùng phới lồng đánh đều đến khi đường tan bớt, lòng đỏ bông nhẹ, màu vàng nhạt. Rây bột mì vào, trộn đều.</p>
+<p>3. Đun ấm sữa và bơ để bơ tan chảy hết, quấy đều. Cho bột cacao vào, hòa tan trong sữa. Từ từ đổ phần sữa cacao này vào âu đựng trứng và bột ở bước (2), vừa đổ vừa quấy đều.</p>
+<p>4. Lọc lại hỗn hợp qua rây, cho vào nồi. Đun ở lửa vừa, vừa đun vừa quấy đến khi hỗn hợp chuyển hơi đặc sệt (<em>nhưng không quá đặc vì sẽ khó trộn với kem tươi và lòng trắng trứng ở bước tiếp theo) </em>thì bắc ra khỏi bếp.</p>
+<p>Vắt Gelatin (lá) cho ráo nước, cho vào nồi (nếu dùng Gelatin bột thì cho thẳng vào nồi). Thêm va-ni, quấy đều. Đổ hỗn hợp vào âu, để nguội. Thi thoảng nên quấy đều, tránh để hỗn hợp bị khô hay đóng váng trên mặt. <em><br/>
+</em></p>
+<p>5. Đánh kem tươi đến bông mềm.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12342709724/" title="IMG_4611 by LinhTrang9185, on Flickr"><img alt="IMG_4611" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3713/12342709724_af7c80a9a8.jpg" width="500"/></a></p>
+<p>Đổ phần kem tươi này vào âu đựng kem trứng (đã nguội hẳn). Nhẹ nhàng trộn theo kiểu <i>fold</i> đến khi các nguyên liệu hòa quyện.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12342264305/" title="IMG_4613 by LinhTrang9185, on Flickr"><img alt="IMG_4613" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2892/12342264305_7a584278fb.jpg" width="500"/></a></p>
+<p>6. Trong một chiếc âu sạch khác, đánh lòng trắng trứng với 15 gram đường đến gần bông cứng: lòng trắng bóng dẻo, nhấc que đánh lên thấy có chóp, chóp có thể hơi ngoặt xuống. Nếu muốn tiệt trùng lòng trắng, có thể sử dụng cách đánh trứng cách thủy như hướng dẫn trong bài “<a href="/trang-tri-banh-kem-bo-kieu-thuy-sy-voi-long-trang-trung-swiss-buttercream/">Kem bơ kiểu Thụy Sỹ</a>”. <strong>Lưu ý: </strong><em>để lòng trắng có thể bông được thì âu đánh và que đánh phải hoàn toàn sạch, không được dính chất béo (dầu, bơ, kem tươi, mỡ, lòng đỏ).</em></p>
+<p>7. Chia lòng trắng làm 2 đến 3 phần. Cho từng phần vào âu đựng kem và sô-cô-la bơ ở bước (5),  <i>fold </i>đều đến khi các nguyên liệu hòa quyện.</p>
+<p>* <strong>Ghi chú</strong>: <em>Lòng trắng trứng có thể bỏ qua mà không ảnh hưởng đến chất lượng của Mousse. Nhưng nếu có thì Mousse sẽ nhẹ, mềm và xốp hơn. </em></p>
+<p><strong>(*) Ráp bánh</strong></p>
+<div>1. Đặt đế bánh Chocolate Sponge (đã nguội hẳn) vào khuôn tròn đế rời hoặc Mousse Ring.</div>
+<p>2. Đổ phần <strong>Caramelized Banana</strong> lên trên. Dàn đều. Để cho đẹp thì các bạn có thể chừa lại khoảng 1cm rìa ngoài để phần Mousse phủ lên trên lớp chuối hoàn toàn, thành bánh sẽ không bị lộ lớp chuối ra ngoài (như bánh của mình).</p>
+<p>3. Nhẹ nhàng đổ phần <strong>Chocolate Mousse</strong> lên trên. Lắc nhẹ khuôn cho Mousse dàn đều. Để khuôn vào tủ lạnh khoảng 30 đến 45 phút để Mousse se mặt.</p>
+<p><b>D. Chocolate Ganache </b></p>
+<p>1. Đun kem tươi và bơ đến hơi ấm nóng (<strong>không đun sôi), </strong>vừa đun vừa quấy đều, đến khi bơ vừa chảy hết, hỗn hợp hòa quyện thì dừng lại.</p>
+<p>2. Rây bột cacao và đường vào phần bơ sữa đun chảy, quấy đều. Nếu hỗn hợp quá sệt, có thể thêm 5 – 10ml kem tươi (1 – 2 tsp). Cho va-ni, trộn đều. Để nguội bớt.</p>
+<p>3. Nhẹ nhàng đổ phần Chocolate Ganache lên trên lớp Mousse (đã se mặt). Để khuôn vào tủ lạnh 3 đến 4 giờ cho phần Mousse và sô-cô-la đông hẳn.</p>
+<p>Bánh bảo quản lạnh, dùng trong 1 đến 2 ngày. Khi ăn, dùng một con dao lưỡi mảnh, nhẹ nhàng rọc quanh thành bánh rồi rút khuôn ra. Mặt bánh trang trí tùy thích với hoa quả hoặc chocolate bào vụn.</p>
+<p>* <strong>Ghi chú</strong>: Bánh trong ảnh mình để tủ lạnh trong thời gian ngắn nên phần Ganache còn hơi chảy. Nếu để bánh qua đêm, Ganache sẽ tương đối cứng và giòn.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12342708564/" title="IMG_4629-1 by LinhTrang9185, on Flickr"><img alt="IMG_4629-1" class="aligncenter" height="342" loading="lazy" src="http://farm4.staticflickr.com/3667/12342708564_4e9fd2ccec.jpg" width="500"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

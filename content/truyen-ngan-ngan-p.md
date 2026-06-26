@@ -1,0 +1,32 @@
+---
+title: "Truyện ngắn… ngắn :P"
+date: "2012-03-29"
+slug: "truyen-ngan-ngan-p"
+categories: ["Bánh bông lan", "Gateaux/ Foam Cake", "Làm bánh"]
+tags: ["baking", "buttermilk", "chocolate", "chocolate ganache", "làm bánh", "tráng miệng"]
+image: "http://farm8.staticflickr.com/7196/6874929308_781d9e0bf4_z.jpg"
+description: ""
+---
+
+<p>Mấy hôm nay có một đứa rất là xì-choét vì trời đang đẹp điên đảo (<em>18-20 độ C, quang mây, nắng ấm, gió mát, hoa nở tưng bừng, chim hót véo von, các bạn mặc váy ngắn quần đùi chạy tung tăng khắp nơi</em>) thì nó chết dí cả ngày trong phòng làm việc viết bài cho kịp hạn nộp :-| Làm bánh bỗng dưng trở thành thú vui xa xỉ. Thời gian viết blog cũng phải hy sinh để viết bài (mà viết bài thì tất nhiên là chả vui như viết blog :-&lt; ). Tình trạng này chắc còn kéo dài một…vài hôm nữa, cho nên có thể một số ngày tới blog sẽ toàn những đoạn ngắn ngắn như này (thôi coi như là nghỉ giải lao để lấy sức đọc tiếp mớ bài về Bánh mì nhé, nhé ;) ).</p>
+<p>Tuy không viết được dài nhưng cũng phải cố up cái ảnh cho nó đỡ bứt rứt :P</p>
+<p>Bánh sinh nhật đầu tay của mình – cốt bánh là <strong><a href="/?p=2102">Chocolate Buttermilk Cake</a></strong> (công thức này được dùng cho Baking Challenge 30 và được chị em khen lắm ;)), phủ <strong><a href="/?p=1206">Chocolate Ganache</a></strong> và trang trí bằng quả phúc bồn tử (Raspberry). Cá nhân mình rất thích sự kết hợp này, phúc bồn tử hơi chua nhưng ăn với Chocolate là vừa, bánh thơm phức, để tủ lạnh thoải mái mà không sợ bị khô :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6874929308/" title="IMG_3124-1 by LinhTrang9185, on Flickr"><img alt="IMG_3124-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7196/6874929308_781d9e0bf4_z.jpg" width="427"/></a></p>
+<p> </p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p> </p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

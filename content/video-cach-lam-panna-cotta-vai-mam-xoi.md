@@ -1,0 +1,112 @@
+---
+title: "[VIDEO] Cách làm PANNA COTTA VẢI – MÂM XÔI"
+date: "2021-06-12"
+slug: "video-cach-lam-panna-cotta-vai-mam-xoi"
+categories: []
+tags: []
+image: "/wp-content/uploads/2021/06/cach-lam-panna-cotta-vai-mam-xoi-banner.jpg"
+description: "Lớp thạch vải mát lịm hoà quyện với panna cotta béo ngậy núng nính,thêm vị quả mâm xôi thơm lừng. MÓn tráng miệng này rất dễ làm"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400; color: #000000;">Giải cứu vải nhưng không ăn kịp thì làm gì? </span></p>
+<p><span style="font-weight: 400; color: #000000;">Vui mừng hân hoan háo hức giới thiệu với cả nhà “nàng thơ mùa hạ” mới của tụi mình, Panna Cotta thạch vải – mâm xôi ạ ;) </span></p>
+<p><span style="font-weight: 400; color: #000000;">“Bạn ấy” đầu tiên là đẹp, làm người khác phải ố á trầm trồ, tiếp theo là núng nính mềm mịn thơm mát lịm tim, sau đấy là cực kỳ nhanh gọn dễ làm. </span><span style="font-weight: 400; color: #000000;">Nhưng đặc biệt nhất phải kể đến sự kết hợp cực kỳ – cực kỳ đỉnh cao giữa vải và mâm xôi. Khi ăn trong miệng thì chua chua ngọt ngọt, tươi mát đúng “vị” của mùa hè, nuốt xuống rồi thì hương vải còn vấn vương mãi ở cổ họng 😉😉</span></p>
+<p><span style="font-weight: 400; color: #000000;">Trong video còn hướng dẫn làm vải ngâm đường, một giải pháp cực kỳ hợp lý để tích trữ vải dùng dần. Vải ngâm đường thơm mát ngọt lịm, có thể dùng để pha trà vải, làm thạch, làm kem, hay dùng làm nước chè khúc bạch cho mấy ngày nắng nóng thì đều hết xảy 😁</span></p>
+<p><span style="font-weight: 400; color: #000000;">P/s: Nếu bạn đã từng phải lòng panna cotta thạch trà đào “triệu view” năm ngoái của tụi mình, thì món này còn gây si mê hơn vài phần đấy 😉</span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<h2><span style="color: #800000;">CÁCH LÀM PANNA COTTA VẢI – MÂM XÔI </span></h2>
+<p><strong><span style="color: #000000;">Nguyên liệu (cho 1 khuôn chữ nhật kích thước 15 x 6.5 x 6.5 cm)</span></strong></p>
+<p><strong><span style="color: #000000;">A. Vải ngâm đường</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">1 kg vải tươi nguyên vỏ</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">500 gram nước</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">400 gram đường phèn </span></em></li>
+<li><span style="font-weight: 400; color: #000000;"><em>2 – 3 cái lá dứa tươ</em>i</span></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;">*<strong> Lưu ý:</strong></span></p>
+<ul>
+<li><span style="font-weight: 400; color: #000000;">Dùng đường phèn ngọt thanh và ngon hơn nhiều so với đường kính thông thường.</span><span style="font-weight: 400; color: #000000;"> </span></li>
+<li><span style="font-weight: 400; color: #000000;">Lá dứa tươi giúp vải ngâm thơm hơn nhiều.</span></li>
+</ul>
+<p><strong><span style="color: #000000;">B. Thạch vải</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">8 gram gelatin dạng lá</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">100 gram nước</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">75 ml (khoảng 85 gram) nước vải ngâm</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">khoảng 7 – 8 quả vải ngâm</span></em></li>
+</ul>
+<p><strong>C. <span style="color: #000000;">Thạch phúc bồn tử</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">7 gram gelatin dạng lá</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram nước</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram sinh tố phúc bồn tử</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Khoảng 20 gram đường</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">* Lưu ý:</span></strong></p>
+<ul>
+<li><span style="font-weight: 400; color: #000000;">Sinh tố phúc bồn tử mình dùng loại 100% nguyên chất xay trực tiếp từ quả tươi, không thêm đường. Nếu các bạn dùng loại sinh tố đã có sẵn đường thường dùng để pha nước uống (VD như sinh tố của Golden Farm, Berrino,..) thì nên giảm bớt hoặc bỏ đường trong công thức đi nhé.</span></li>
+</ul>
+<p><strong>D. <span style="color: #000000;">Panna cotta vải</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">60 gram vải ngâm</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">20 ml (khoảng 25 gram) nước ngâm vải</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">6 gram gelatin dạng lá</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">100 gram kem tươi (whipping cream)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">65 gram sữa tươi không đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">35 ml (khoảng 25 gram) sinh tố vải</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Khoảng 10 gram đường (thay đổi tùy khẩu vị)</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">* Lưu ý chung về nguyên liệu:</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">– Gelatin sẽ làm cho thạch và panna cotta đông kiểu mềm dẻo, “núng nính” nên không thay thế được bằng bột thạch. Dùng gelatin dạng lá ngon hơn gelatin bột.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Tỉ lệ gelatin trong công thức theo mình là phù hợp để cho panna cotta vừa đủ cứng cáp để đổ ra khỏi khuôn, nhưng vẫn mềm dẻo núng nính. Càng nhiều gelatin thạch sẽ càng cứng hơn.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400; color: #000000;">– Nước ngâm vải sẽ có độ đặc loãng khác nhau, các bạn nên cân bằng ml thay vì gram nhé. Cân ml có thể dùng bộ thìa đong (1 thìa canh (tbsp) = 15ml; 1 thìa cafe (tsp) = 5ml).</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Lượng đường trong thạch và panna cotta có thể thay đổi tùy theo khẩu vị và độ ngọt của quả tươi. </span></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/tcFPhCGCWQI" width="560"></iframe></div>
+<p><span style="font-weight: 400; color: #000000;">1. Vải ngâm đường</span></p>
+<p><span style="color: #000000;">2. Đun nước đường ngâm vải:</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Cho vào nồi 500 gram nước, 400 gram đường phèn và lá dứa tươi (đã rửa sạch).</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Đun sôi nước, lắc nhẹ nồi cho đường tan hết. KHÔNG khuấy tránh làm nước ngâm có thể bị lại đường.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Hạ nhỏ lửa, để nước đường sôi lăn tăn trong khoảng 5 – 6 phút, đến khi nước đường hơi sánh hơn. </span></p>
+<p><span style="font-weight: 400; color: #000000;">– Vớt vỏ lá dứa, để nước đường nguội rồi cho vào tủ lạnh khoảng 3 – 4 giờ cho nước đường lạnh.</span></p>
+<p><span style="color: #000000;">3. Chuẩn bị:</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Vải để nguyên vỏ, rửa sạch bụi bẩn. </span></p>
+<p><span style="font-weight: 400; color: #000000;">– Rửa sạch, trụng bình ngâm vải qua nước sôi và để ráo để tiệt trùng. Bước tiệt trùng sẽ giúp tránh việc vải bị lên men khi ngâm.</span></p>
+<p><span style="color: #000000;">4. Đun sôi 1 nồi nước lớn. Khi nước gần sôi thì chuẩn bị sẵn 1 âu nước đá lạnh to. </span></p>
+<p><span style="color: #000000;">5. Nước sôi thì tắt bếp, cho toàn bộ vải vào trụng trong khoảng 1.5 – 2 phút. Bước này sẽ giúp vải ngấm đường tốt hơn. </span></p>
+<p><span style="color: #000000;">6. Vớt vải ra, thả ngay vào âu nước lạnh. Ngâm vải trong khoảng 5 phút cho vải hết nóng. </span></p>
+
+
+<p><span style="color: #000000;">7. Chuẩn bị sẵn một bát nước đá rất lạnh. Bóc vỏ, dùng mũi dao nhọn lọc bỏ hạt vải, sao cho phần cùi vải còn nguyên. Thả ngay cùi vải vào bát nước đá.</span></p>
+<p><span style="color: #000000;">8. Ngâm cùi vải trong nước đá khoảng 7 – 10 phút rồi vớt ra rổ, lắc nhẹ cho vải ráo nước. Cố gắng thao tác nhanh không để vải bị hết lạnh.</span></p>
+<p><span style="color: #000000;">9. Cho vải vào bình ngâm, đổ phần nước đường ngâm (đã lạnh vào), đậy kín và để trong tủ lạnh khoảng 2 ngày rồi dùng. Vải ngâm có thể bảo quản trong ngăn mát tủ lạnh khoảng 1 tháng.</span></p>
+<p><strong><span style="color: #000000;">B. Thạch vải</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Ngâm gelatin trong nước đá lạnh đến khi gelatin nở mềm.</span></p>
+<p><span style="color: #000000;">2. Cho nước vải ngâm, nước và đường vào nồi, đun trên lửa to đến khi hỗn hợp vừa sôi thì tắt bếp. Nếm thử xem có cần thêm đường không.</span></p>
+<p><span style="color: #000000;">3. Vắt kiệt nước lá gelatin rồi cho vào nồi, khuấy đều tới khi gelatin tan hoàn toàn. </span></p>
+<p><span style="color: #000000;">4. Hớt sạch bọt và để thạch nguội hoàn toàn ở nhiệt độ phòng.</span></p>
+<p><span style="color: #000000;">5. Xếp vải vào khuôn, nhẹ nhàng đổ nước thạch (đã nguội) vào, dùng đũa chỉnh lạnh nếu vải bị xô lệch. Để thạch vào ngăn mát 1.5 – 2 giờ đến khi thạch đông lại.</span></p>
+<p><strong><span style="color: #000000;">C. Thạch phúc bồn tử</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Ngâm gelatin trong nước đá lạnh đến khi gelatin nở mềm.</span></p>
+<p><span style="color: #000000;">2. Cho sinh tố phúc bồn tử, nước và đường vào nồi, đun trên lửa to đến khi hỗn hợp vừa sôi thì tắt bếp. Nếm thử xem có cần thêm đường không.</span></p>
+<p><span style="color: #000000;">3. Vắt kiệt nước lá gelatin rồi cho vào nồi, khuấy đều tới khi gelatin tan hoàn toàn. </span></p>
+<p><span style="color: #000000;">4. Hớt sạch bọt và để thạch nguội hoàn toàn ở nhiệt độ phòng.</span></p>
+<p><span style="color: #000000;">5. Khi thạch phúc bồn từ đã nguội và thạch vải trong khuôn đã đông. Dùng thìa múc thạch phúc bồn tử, đổ rất nhẹ nhàng vào khuôn. KHÔNG đổ mạnh tay, tránh làm hỏng lớp thạch vải bên dưới (thạch vải lúc này mới chỉ kịp se lại chứ chưa đông hoàn toàn, rất dễ bị vỡ).</span></p>
+<p><span style="color: #000000;">6. Để thạch vào ngăn mát 1.5 – 2 giờ đến khi thạch đông lại.</span></p>
+<p><strong><span style="color: #000000;">D. Panna cotta vải</span></strong></p>
+<p><span style="color: #000000;">1. Xay nhuyễn vải với nước ngâm, lọc lại qua rây được sinh tố vải. Cân lấy 35ml (khoảng 25 gram).</span></p>
+<p><span style="color: #000000;">2. Ngâm gelatin trong nước đá lạnh đến khi gelatin nở mềm.</span></p>
+<p><span style="color: #000000;">3. Cho kem tươi, sữa tươi, sinh tố vải và đường vào nồi. Khuấy đều trên lửa vừa tới khi kem sữa nóng, thấy có nhiều hơi nóng bốc lên từ nồi thì bắc nồi xuống.</span></p>
+<p><span style="font-weight: 400; color: #000000;">*<strong> Lưu ý: KHÔNG đun sôi, tránh việc làm kem sữa bị tách béo</strong>. </span></p>
+<p><span style="font-weight: 400; color: #000000;">4. Vắt kiệt nước lá gelatin rồi cho vào nồi, khuấy đều đến khi gelatin tan hoàn toàn.</span></p>
+<p><span style="color: #000000;">5. Hớt sạch bọt và để panna cotta nguội hoàn toàn ở nhiệt độ phòng.</span></p>
+<p><span style="color: #000000;">6. Khi panna cotta đã nguội và thạch trong khuôn đã đông. Dùng thìa múc panna cotta, đổ rất nhẹ nhàng vào khuôn. KHÔNG đổ mạnh tay, tránh làm hỏng lớp thạch bên dưới.</span></p>
+<p><span style="color: #000000;">7. Để thạch vào ngăn mát 8 giờ đến khi thạch đông lại hoàn toàn.</span></p>
+<p><span style="color: #000000;">8. Gỡ thạch: Nhúng khuôn vào nước nóng khoảng 2 – 3 giây đến khi thấy thạch hơi chảy và tách nhẹ khỏi khuôn. Úp ngược khuôn ra đĩa. Bảo quản thạch trong ngăn mát tủ lạnh được 3 – 4 ngày.</span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

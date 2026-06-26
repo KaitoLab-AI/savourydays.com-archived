@@ -1,0 +1,51 @@
+---
+title: "Cuối tuần: Liên khúc… nướng"
+date: "2013-08-10"
+slug: "cuoi-tuan-lien-khuc-nuong"
+categories: []
+tags: []
+image: "/wp-content/uploads/2013/08/LienKhucNuong.jpg"
+description: "món ăn đơn giản, món hàng ngày, món ăn Việt Nam, thịt xiên nướng, gà teriyaki"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Mấy cuối tuần gần đây, hầu như tuần nào mình cũng có khách đến ăn tối. Khách tuy không đông nhưng hầu hết đều là những người khó tính và kĩ tính trong việc ăn uống. Cho nên thực đơn cũng phải có đầy đủ các món từ khai vị, món chính cho đến tráng miệng, rồi nguyên liệu, mùi vị cũng phải suy nghĩ cho hợp nhau nữa. Những lúc phải chuẩn bị nhiều món khác nhau kiểu này thì món nướng có lẽ là một sự lựa chọn tốt, vì sẽ tiết kiệm được kha khá thời gian (chỉ cần ướp rồi cho vào lò là xong), mà lại dễ hợp khẩu vị với nhiều người. Cho nên trong mấy tuần gần đây, hầu như tuần nào bếp nhà mình cũng thơm mùi của không chỉ bánh mà cả các loại thịt và rau củ nướng nữa.</p>
+<p>Đầu tiên là <em>gà cuốn lá dứa (lá nếp)</em> nướng. Món này oánh gục tất cả các bạn khách, điều tiếc nuối nhất là bạn Trang làm quá ít. Giá có gấp đôi cái đĩa thì chắc cũng hết bay.</p>
+<p>Gà được ướp với các loại gia vị, nước cốt dừa rồi cuốn trong lá nếp, nướng đến khi lá cháy xém bên ngoài, thơm lừng cả bếp lẫn nhà là được. Thịt gà được gói trong lá nếp nên rất mềm và ngọt. Món này có thể dùng để xử lí phần lườn gà, nếu bạn là người không thích phần thịt quá nạc và bã này (như mình).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9476972385/" title="IMG_1299 by LinhTrang9185, on Flickr"><img alt="IMG_1299" class="aligncenter" height="333" loading="lazy" src="http://farm6.staticflickr.com/5483/9476972385_7e526a3693.jpg" width="500"/></a></p>
+<p>Công thức ngắn gọn nhé:</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em>300gram thịt gà lọc xương – thái miếng 2 x 2cm</em></li>
+<li><em>1/2 thìa canh (khoảng 7-8ml) xì dầu</em></li>
+<li><em>1 thìa canh (15ml) dầu hào</em></li>
+<li><em>1/4 thìa cafe bột tỏi (hoặc thay bằng 2-3 tép tỏi bằm rất nhỏ)</em></li>
+<li><em>1/4 thìa cafe bột hành (hoặc thay bằng 1/2 củ hành hương bằm rất nhỏ)</em></li>
+<li><em>1/4 thìa cafe bột gừng (hoặc thay bằng 1 mẩu gừng nhỏ, bằm nhỏ)</em></li>
+<li><em>1/4 thìa cafe bột sả (hoặc thay bằng 1/2 củ sả, bằm nhỏ)</em></li>
+<li><em>1.5 thìa canh nước cốt dừa (coconut milk)</em></li>
+<li><em>2/3 thìa canh đường thốt nốt (palm sugar)</em></li>
+<li><em>Chút hạt tiêu</em></li>
+<li><em>12-15 cái lá dứa (lá nếp)</em></li>
+</ul>
+<p>Ướp thịt gà với tất cả các gia vị kể trên, để 1-2 tiếng cho thịt ngấm gia vị.</p>
+<p>Lá nếp cắt lấy phần đầu lá (phần này sống lá mềm nên dễ cuốn hơn), rửa sạch, lau khô.</p>
+<p>Cuốn từng miếng thịt gà vào bên trong lá, dùng tăm ghim cố định đầu lá. Mỗi miếng thịt được cuốn trong 2-3 vòng lá là vừa.</p>
+<p>Cho thịt gà vào lò, nướng ở nhiệt độ 200 độ C trong 20-25 phút đến khi lá hơi cháy xém. Dùng nóng</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9479759570/" title="IMG_1297 by LinhTrang9185, on Flickr"><img alt="IMG_1297" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3714/9479759570_a46234ccb3.jpg" width="500"/></a></p>
+<p>Thịt gà tiếp, nhưng là nướng theo kiểu Nhật – với sốt Teriyaki.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9476971701/" title="IMG_1516 by LinhTrang9185, on Flickr"><img alt="IMG_1516" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3729/9476971701_7181cce3eb.jpg" width="500"/></a></p>
+<p>Thịt xiên nướng để ăn với bún, các loại rau sống và nước chấm chua ngọt (<a href="/tu-lam-thit-xien-nuong-ngon-nhu-ngoai-hang-d/"><strong>Cách làm</strong></a>)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9479758424/" title="IMG_1807-1 by LinhTrang9185, on Flickr"><img alt="IMG_1807-1" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7414/9479758424_c70bdc4eaf.jpg" width="500"/></a></p>
+<p>Một phần không thể thiếu cho các buổi liên hoan :P</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9479759170/" title="IMG_1303 by LinhTrang9185, on Flickr"><img alt="IMG_1303" class="aligncenter" height="333" loading="lazy" src="http://farm6.staticflickr.com/5473/9479759170_d9fcd815fa.jpg" width="500"/></a></p>
+<p>Cánh gà nướng mật ong (<a href="/ga-nuong-mat-ong/"><strong>Cách làm</strong></a>)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9476972005/" title="IMG_1453 by LinhTrang9185, on Flickr"><img alt="IMG_1453" class="aligncenter" height="333" loading="lazy" src="http://farm6.staticflickr.com/5465/9476972005_0afa284fa0.jpg" width="500"/></a></p>
+<p>Tôm nướng muối ớt – Tôm ướp với muối, đường, bột ớt, tương ớt, tỏi, tiêu, chanh, dầu ăn, nướng đến khi con tôm săn lại. Tôm có đủ vị chua, cay, mặn, ngọt, vừa ăn vừa hít hà, xuýt xoa, dù chỉ là tôm đông lạnh thôi nhưng vẫn thấy “đã”!</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9476971551/" title="IMG_1789 by LinhTrang9185, on Flickr"><img alt="IMG_1789" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7389/9476971551_2fcece1049.jpg" width="500"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

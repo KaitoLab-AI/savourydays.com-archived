@@ -1,0 +1,60 @@
+---
+title: "BÁNH QUY PHÔ-MAI HẠNH NHÂN với NỒI CHIÊN KHÔNG DẦU"
+date: "2020-11-05"
+slug: "banh-quy-pho-mai-hanh-nhan-voi-noi-chien-khong-dau"
+categories: []
+tags: []
+image: "/wp-content/uploads/2020/11/cách-làm-bánh-quy-pho-mai-bằng-nồi-chiên-không-dầu-banner.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #000000;">“Mùa bánh trung thu” vừa sầm sập đi, “mùa bánh quy” đã ào ạt lao tới :D Mình nên nói là “tuy vẫn còn 2 tháng nữa” hay “chỉ còn 2 tháng nữa” sẽ tới Giáng sinh nhỉ? Với nhiều bạn chắc là vế sau nhưng nếu vào lớp bánh quy của Savoury Days thì thấy vế đầu chuẩn hơn, vì mọi người đã bắt đầu khởi động và trả bài tích cực lắm rồi ấy. </span></p>
+<p><span style="color: #000000;">Bánh quy vốn là loại bánh dễ làm, nhanh gọn, không yêu cầu nhiều thứ dụng cụ hay nguyên liệu cầu kì, lại ít hỏng nên là lựa chọn tuyệt vời cho các bạn nào mới làm bánh. Và như món bánh này thì có thể thử với nồi chiên không dầu nữa ;) </span></p>
+<p><span style="color: #000000;">Món bánh quy này là kiểu hơi mềm chứ không phải cứng giòn nha cả nhà. Nó có vị bùi của hạnh nhân, mằn mặn của pho-mai và rấttttttttt thơm nhờ vào hương vị của pho-mai. Ở dưới tụi mình có ghi chú dùng bột pho-mai loại nào và cách thay thế nếu không có bột pho-mai này, các bạn xem trước khi làm nha. </span></p>
+<p><span style="font-weight: 400; color: #000000;">Ngoài ra, SD đang có một hoạt động cực vui là thử thách làm bánh quy, được tổ chức tại group Lớp Học Làm Bánh Savoury Days, bột phomai cũng là một trong nhiều quà tặng của thử thách lần này đó ạ. Cách tham gia rất đơn giản, bạn chỉ cần yêu cầu vào group, chọn làm 1 trong số các món bánh quy của SD rồi đăng lên thôi ạ 💕💕</span></p>
+<p><span style="font-weight: 400; color: #000000;">Link group tại đây: <a href="https://www.facebook.com/groups/lophoclambanhsd">https://www.facebook.com/groups/lophoclambanhsd</a></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu (cho khoảng 20 cái bánh đường kính 7cm)</strong></span></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">60 gram bơ động vật không muối</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 gram đường xay</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 lòng đỏ trứng gà (18 – 20 gram)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">½ thìa cafe chiết xuất vanilla</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram bột mì đa dụng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram bột hạnh nhân</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">30 gram bột phomai</span></em></li>
+</ul>
+<p><strong>* Hỗn hợp quét mặt bánh:</strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">1 lòng đỏ trứng gà</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 thìa cafe dầu ăn</span></em></li>
+</ul>
+<p><span style="color: #ff0000;"><strong>* Lưu ý:</strong></span></p>
+<p><span style="font-weight: 400; color: #000000;">– Dùng bơ động vật loại không có muối, không dùng các loại bơ thực vật (như bơ Tường An, Meizan) sẽ ảnh hưởng rất nhiều đến vị của bánh.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Dùng lòng đỏ trứng gà công nghiệp, nếu dùng trứng nhỏ hơn (trứng gà ta), cần cân đủ lượng lòng đỏ.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nếu không có bột phomai, bạn có thể thay bằng bột sữa nguyên kem (20 g bột sữa trộn với 10 g bột ngô), tuy nhiên bột phomai là nguyên liệu tạo nên hương vị cho món bánh này, rất nên có. Loại bột pho-mai mà tụi mình dùng là bột pho-mai Wakodo của Nhật Bản, các bạn có thể mua qua Tiki hoặc Shopee nhé (thực tế là sau khi mua từ cả 2 nơi thì mình thấy Shopee nhanh hơn mà không bị hết hàng như Tiki, link mua ở đây nha: <a href="https://shopee.vn/yennhien.vn/5746518727/">https://shopee.vn/yennhien.vn/5746518727/</a>) </span></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/tCevPaGwAhY" width="560"></iframe></div>
+<p><span style="font-weight: 400; color: #000000;">1. Rây đường bột vào âu bơ, đánh ở tốc độ vừa tới khi bơ và đường hòa quyện, bơ hơi bông và chuyển màu vàng nhạt.</span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Cho lòng đỏ trứng và chiết xuất vanilla vào, đánh ở tốc độ thấp đến khi vừa hòa quyện thì dừng lại.</span></p>
+<p><span style="font-weight: 400; color: #000000;">3. Trộn đều bột mì, bột hạnh nhân, bột phomai. Chia hỗn hợp bột thành 2-  3 phần, rây từng phần vào âu bơ, đánh ở tốc độ thấp nhất tới khi vừa hòa quyện thì cho phần tiếp theo.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400; color: #000000;">4. Sau khi cho phần bột cuối cùng, bạn chỉ cần đánh tới khi không còn bột khô trong bát, sau đó đeo găng tay vào bóp cho bột quyện thành một khối. </span></p>
+<p><span style="font-weight: 400; color: #000000;">Bột đạt là khi bột khô ráo, không dính tay, mềm dẻo, có thể bóp và miết dễ dàng. Nếu bột quá ướt do bột mì hút nước kem, cho thêm từ từ bột mì khô. Nếu bột quá khô do bột mì hút nước nhiều, cho thêm khoảng 1 nửa lòng đỏ trứng bóp đến khi bột đạt. </span></p>
+<p><span style="font-weight: 400; color: #000000;">5. Đặt bột lên 1 tờ giấy nến, đặt 1 tờ giấy khác lên, cán bột qua giấy nến sẽ dễ và sạch hơn rất nhiều. Cán bột mỏng khoảng 5mm. Đặt cả khay bột vào ngăn mát tủ lạnh khoảng 30 phút tới khi bột cứng hơn.</span></p>
+<p><span style="font-weight: 400; color: #000000;"> Làm nóng nồi chiên không dầu ở 130 độ C. Nếu dùng lò nướng thì làm nóng ở 170 độ C trước ít nhất 15 phút. <span style="color: #ff0000;"><strong>Lưu ý: nhiệt độ nướng sẽ thay đổi tuỳ theo nồi/ lò, nên nướng thử rồi tuỳ vào tình trạng bánh mà thay đổi nhiệt độ, thời gian nướng. </strong></span></span></p>
+<p><span style="font-weight: 400; color: #000000;">6. Dùng cookie cutter (dụng cụ tạo hình bánh quy) cắt bột. Với những phần bột còn thừa sau khi cắt, bạn có thể nắm thành 1 khối và tiếp tục lặp lại thao tác cán – cắt. Đặt bột lên khay có lót giấy nến chống dính.</span></p>
+<p><span style="font-weight: 400; color: #000000;">7. Đánh tan 1 lòng đỏ trứng với dầu ăn, lọc lại hỗn hợp qua rây để loại bỏ các phần lòng trắng còn sót. Quét một lớp trứng lên mặt bánh. nếu muốn có một lớp vàng bóng như mình thì bạn cần quét sao cho trứng đọng thành 1 lớp dày và đều trên mặt bánh. Dùng dĩa đi 1 đường trên mặt bánh để tạo vân.</span></p>
+<p><span style="font-weight: 400; color: #000000;">8. Nướng bánh:</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nướng nồi chiên không dầu ở 130 độ C trong khoảng 8 – 10 phút đến khi bánh vàng đẹp.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nướng lò nướng ở 170 độ C (lửa trên và dưới) trong khoảng 8 – 10 phút đến khi bánh vàng đẹp.</span></p>
+<p><span style="font-weight: 400; color: #000000;">9. Bánh sau khi nướng xong để nguội hoàn toàn trên khay, tránh di chuyển khi bánh còn nóng, mềm, dễ vỡ. </span></p>
+<p><span style="font-weight: 400; color: #000000;">* Nếu muốn tạo hình khác, khi bánh còn ấm bạn dùng khuôn để dập lại bánh. Với những khuôn có nhiều chi tiết, việc dập khuôn sau khi nướng sẽ giúp bánh nét đẹp (nếu bạn dập bột rồi mang đi nướng, quá trình nướng sẽ là bánh nở ra và mất nét)</span></p>
+<p><span style="font-weight: 400; color: #000000;">** Bánh mới nướng khi ăn sẽ thấy hơi bột và bở, sau khi nguội nên để trong hộp kín qua một ngày rồi mới ăn sẽ ngon hơn nhiều. </span></p>
+<p><span style="font-weight: 400; color: #000000;">*** Bánh có thể để trong túi kín, bảo quản ở nhiệt độ phòng khoảng 2 tuần và ngăn mát tủ lạnh 1 – 1.5 tháng. Nếu trong quá trình bảo quản bánh bị ỉu, cho bánh vào lò sấy ở 110 độ C trong khoảng 20 – 25 phút cho bánh giòn trở lại.</span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,133 @@
+---
+title: "[Xmas menu] CHÂN GIÒ HẦM LEGEND BEER – Salad – Khoai tây nghiền"
+date: "2018-12-20"
+slug: "xmas-menu-chan-gio-ham-legend-beer-salad-khoai-tay-nghien"
+categories: []
+tags: []
+image: "/wp-content/uploads/2018/12/cach-lam-chan-gio-ham-legend-beer-banner.jpg"
+description: "Tự làm món chân giò hầm Legend Beer nổi tiếng tại nhà, tại sao không nhỉ? Đây là một món ăn không hề khó làm, lại rất ngon miệng, dù là người lớn hay trẻ em"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #000000;">Cuối năm rồi, mùa tụ tập hội hè ăn uống đã đến ^.^ Trời Hà Nội trở rét từ tuần trước. Lạnh thế này thích nhất là ở nhà nấu nấu nướng nướng, vừa ấm áp dễ chịu mà tự mình làm nên ăn gì cũng thấy ngon miệng. Ở SD studio, cả team cũng chuẩn bị một danh sách các công thức để nấu thử cho mùa lễ hội này. Cho nên từ mấy tuần nay, sáng nào đi dạy ở trường mình cũng mong nhanh đến buổi trưa để về studio ăn uống :D Hôm là gà rán, hôm là thịt bò hầm, hôm là món Hàn, hôm món Nhật… món nào cũng thành công rực rỡ nên từ giờ tới Tết dương lịch chắc là sẽ có kha khá món mới được “lên bài” tại blog đấy! ;) </span></p>
+<p><span style="color: #000000;">Mùa Giáng sinh và Tết dương năm nay, vì các món truyền thống như vịt quay, bánh Pannettone, bánh fruit cake… đã có tại blog hết rồi, nên SD team đã chọn một danh sách các món mới toanh. Tuy không phải là đồ giáng sinh truyền thống nhưng đều là các món ngon dành cho các buổi tụ tập đông người nên tụi mình tin là sẽ mang lại không ít cảm hứng lăn vào bếp cho các bạn bè của SD. Mà quan trọng là đa phần các món này đều dễ nấu và cần ít bát đĩa khi nấu nữa (để hạn chế việc nấu xong phải rửa nhiều ấy ạ, trời lạnh thế này nấu thì thích chứ dọn dẹp là cả một vấn đề khác nhỉ). </span></p>
+<p><span style="color: #000000;">Mở màn cho năm nay là thực đơn 3 món theo phong cách Âu này nhé. Với món đầu tiên, thực ra mình cũng không chắc nó là món Âu hay là Âu lai Việt nữa :P Do hai năm ở Đức chưa bao giờ mình nghe tên món chân giò hầm này cả. Cũng có thể là do mình không biết được hết, nhưng nổi tiếng nhất ở các hàng bia Đức là chân giò quay giòn bì cơ. Nhưng dù là Âu “xịn” hay Âu lai Việt thì đây vẫn là một món rất ngon và xứng đáng làm thử cả nhà ạ. Thịt chân giò nấu kiểu này thơm lắm, mềm rục mà không bã, ăn với sốt rất đậm đà, là kiểu món ăn dành cho cả gia đình, người lớn hay trẻ nhỏ dùng đều hợp. Đồ uống đi kèm có thể là bia lạnh hay vang đều rất ngon. </span></p>
+<p><span style="color: #000000;">Đi kèm với món chân giò này là hai món ngon và rất dễ làm khác là khoai tây nghiền và salad, cung cấp thêm tinh bột và rau xanh cho bữa ăn. Nếu không có thời gian làm khoai tây nghiền thì mình nghĩ vài củ khoai tây bọc trong giấy bạc nướng chín, dùng với sốt của món chân giò cũng đủ ngon rồi :)</span></p>
+<h2><span style="color: #800000;">CÁCH LÀM CHÂN GIÒ HẦM KIỂU ĐỨC (CHÂN GIÒ LEGEND BEER) </span></h2>
+<p><img alt="" class="aligncenter size-large wp-image-7738" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Cach-lam-chan-gio-ham-kieu-Duc-Legend-beer-1-1024x683.jpg" width="1024"/></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><span style="color: #000000;"><strong>A. Phần chân giò hầm</strong> </span></p>
+<ul>
+<li style="font-weight: 400;"><span style="color: #000000;"><em><span style="font-weight: 400;">1,2 kg thịt chân giò nguyên xương (1 cái chân giò trước)</span></em></span></li>
+<li style="font-weight: 400;"><span style="color: #000000;"><em><span style="font-weight: 400;">150 gram hành tây (1 củ to)</span></em></span></li>
+<li style="font-weight: 400;"><span style="color: #000000;"><em><span style="font-weight: 400;">50 gram tỏi tây (1 cây)</span></em></span></li>
+<li style="font-weight: 400;"><span style="color: #000000;"><em><span style="font-weight: 400;">7 lá nguyệt quế khô (bay leaf)</span></em></span></li>
+<li style="font-weight: 400;"><span style="color: #000000;"><em><span style="font-weight: 400;">10 gram bột canh/ bột nêm/ bột gia vị </span></em></span></li>
+<li style="font-weight: 400;"><span style="color: #000000;"><em><span style="font-weight: 400;">5 gram hạt tiêu</span></em></span></li>
+<li style="font-weight: 400;"><span style="color: #000000;"><em><span style="font-weight: 400;">200 ml sữa tươi không đường</span></em></span></li>
+<li style="font-weight: 400;"><span style="color: #000000;"><em><span style="font-weight: 400;">400 ml nước xương ninh (có thể dùng nước thường, nhưng có nước ninh xương thì ngon hơn)</span></em></span></li>
+</ul>
+<p><span style="color: #000000;"><strong>B. Phần sốt kem</strong></span></p>
+<ul>
+<li style="font-weight: 400;"><span style="color: #000000;"><em><span style="font-weight: 400;">15 gram bơ</span></em></span></li>
+<li style="font-weight: 400;"><span style="color: #000000;"><em><span style="font-weight: 400;">6 gram tỏi</span></em></span></li>
+<li style="font-weight: 400;"><span style="color: #000000;"><em><span style="font-weight: 400;">15 gram bột mỳ đa dụng (số 11)</span></em></span></li>
+<li style="font-weight: 400;"><span style="color: #000000;"><em><span style="font-weight: 400;">70 ml kem tươi (whipping cream) </span></em></span></li>
+<li style="font-weight: 400;"><span style="color: #000000;"><em><span style="font-weight: 400;">250 ml sữa tươi không đường </span></em></span></li>
+<li style="font-weight: 400;"><span style="color: #000000;"><em><span style="font-weight: 400;">70 ml nước hầm chân giò</span></em></span></li>
+<li style="font-weight: 400;"><span style="color: #000000;"><em><span style="font-weight: 400;">5 gram hạt tiêu</span></em></span></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><span style="font-weight: 400; color: #000000;">1. Sơ chế nguyên liệu:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Chân giò xát muối, rửa sạch. Đun sôi nước, pha thêm chút muối, cho chân giò vào trần sơ. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Hành tây bóc vỏ, bổ múi cau</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Tỏi tây rửa sạch, dọc làm đôi, cắt khúc 5cm</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Tỏi bóc vỏ, băm nhỏ</span></li>
+</ul>
+<p><img alt="" class="aligncenter size-large wp-image-7737" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Ảnh-chân-giò-hầm-1024x683.jpg" width="1024"/></p>
+<p><span style="font-weight: 400; color: #000000;">2. Ướp thịt chân giò với 2 thìa nhỏ (teaspoon/ thìa cafe/ thìa ăn sữa chua) gia vị, 1 thìa nhỏ hạt tiêu trong khoảng 30’</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7741" height="684" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Chan_gio_ham_1-1024x684.jpg" width="1024"/></p>
+<p><span style="font-weight: 400; color: #000000;">3. Chuẩn bị 1 nồi to (nên dùng nồi áp suất nếu có). Cho thịt chân giò, hành tây, tỏi tây, lá nguyệt quế vào nồi cùng với 200 ml sữa tươi, nước dùng xâm xấp mặt thịt. Đun đến sôi, hớt bọt, hạ nhỏ lửa hầm nhừ khoảng 2h đối với nồi thường (1h với nồi áp suất).</span></p>
+<ul>
+<li><span style="color: #000000;">Lá nguyệt quế (bay leaf): các bạn có thể mua ở các cửa hàng bán nguyên liệu thực phẩm nhập khẩu, ví dụ An Nam Gourmet, L’s Place, Dan shop (Google để biết địa chỉ cửa hàng). </span></li>
+</ul>
+<p><img alt="" class="aligncenter size-large wp-image-7742" height="684" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Chan_gio_ham_2-1024x684.jpg" width="1024"/></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400; color: #000000;">4. Vớt thịt chân giò ra. Lọc lấy phần nước hầm. Nghiền nát hành tây, tỏi tây qua rây để nấu nước sốt.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7743" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Chan_gio_ham_3-1024x682.jpg" width="1024"/></p>
+<p><span style="font-weight: 400; color: #000000;">5. Làm nước sốt:</span></p>
+<ul>
+<li><span style="font-weight: 400; color: #000000;">Để lửa nhỏ, đun chảy bơ trong nồi nhỏ, phi thơm tỏi rồi cho bột mỳ vào xào mịn. Lưu ý để lửa nhỏ và xào nhanh tay, tránh để bột mì bị cháy hoặc vón.</span></li>
+<li><span style="color: #000000;">Pha khoảng 1 bát con nước hầm chân giò cùng với sữa tươi, kem tươi. Từ từ cho hỗn hợp nước kem sữa này vào nồi. Vừa đổ vừa dùng phới lồng quấy nhanh tay và thật kỹ cho bột hoà quyện với nước. Sau khi đã cho hết, tiếp tục quấy đều, nấu trên lửa nhỏ để nước sốt sánh lại. Nêm nếm chút gia vị và hạt tiêu cho vừa miệng.</span></li>
+</ul>
+<p><img alt="" class="aligncenter size-large wp-image-7736" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Ảnh-chân-giò-hầm-001-1024x683.jpg" width="1024"/></p>
+<p><span style="font-weight: 400; color: #000000;">6. Đặt miếng chân giò vào đĩa to, sâu lòng, rưới thật nhiều nước sốt lên trên. Ăn kèm với bánh mỳ, khoai tây nghiền và salad. </span></p>
+<p><span style="font-weight: 400; color: #000000;">Yêu cầu thành phẩm: Thịt mềm, thơm, thấm đều gia vị đặc trưng. Nước sốt sánh, béo ngậy nhưng không ngấy.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7739" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Cach-lam-chan-gio-ham-kieu-Duc-Legend-beer-2-1024x683.jpg" width="1024"/></p>
+<p>Mời các bạn…. ;)</p>
+<p><img alt="" class="aligncenter size-large wp-image-7740" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Cach-lam-chan-gio-ham-kieu-Duc-Legend-beer-3-1024x683.jpg" width="1024"/></p>
+<h2><span style="color: #800000;">CÁCH LÀM KHOAI TÂY NGHIỀN</span></h2>
+<p><img alt="" class="aligncenter size-large wp-image-7747" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Cach-lam-khoai-tay-nghien-1-1024x682.jpg" width="1024"/></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<ul>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">1 kg khoai tây (loại to)</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">30 gram bơ nhạt (bơ không muối) </span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">80 ml kem tươi (whipping cream)</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">80 ml sữa tươi</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">10 gram rau mùi (corriander)</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">8 gram (1.5 tsp) muối</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">5 gram (1 tsp) hạt tiêu</span></em></span></li>
+</ul>
+<p><span style="color: #000000;"><strong>Cách làm</strong></span></p>
+<p><span style="font-weight: 400; color: #000000;">1. Đun sôi 1 nồi nước với 1 thìa cà phê muối. Trong lúc đợi đun nước, gọt vỏ khoai tây, bổ làm tư. Nước sôi thì cho khoai vào nồi đun khoảng 10’ hoặc đến khi khoai mềm, dùng dĩa xiên vào được dễ dàng. Đổ ra rổ, xóc cho thật ráo nước.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7744" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Ảnh-khoai-tây-nghiền-1024x683.jpg" width="1024"/></p>
+<p><span style="font-weight: 400; color: #000000;">2. Dùng dụng cụ nghiền khoai tây (hoặc cùng dĩa to) dầm khoai đến nát nhừ (khi khoai vẫn còn đang nóng). Cho bơ vào trộn đều.</span></p>
+
+
+<p><span style="color: #000000;">* Ghi chú: Khoai tây đã nấu chín mềm sẽ rất dễ nghiền, không nhất thiết phải dùng máy xay. Các công thức của đầu bếp nước ngoài cũng thường chỉ dùng dụng cụ nghiền tới khi mịn nhuyễn.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7745" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Cach-lam-khoai-tay-1-1024x683.jpg" width="1024"/></p>
+<p><span style="font-weight: 400; color: #000000;">3. Cho kem tươi và sữa vào 1 nồi nhỏ, bắc lên bếp, đun nhỏ lửa đến khi bắt đầu hơi sủi tăm thì tắt bếp.</span><span style="font-weight: 400; color: #000000;"> Đổ từ từ hỗn hợp kem sữa đun nóng vào khoai tây nghiền, dùng phới lồng trộn thật kỹ đến khi hỗn hợp mịn đều. Bạn có thể dùng máy đánh trứng cầm tay đánh kỹ để cho khoai tây nghiền thêm nhuyễn mịn. Nêm nếm thêm muối, tiêu cho vừa miệng. </span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7746" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Cach-lam-khoai-tay-2-1024x683.jpg" width="1024"/></p>
+<p><span style="font-weight: 400; color: #000000;">4. Múc khoai tây nghiền ra âu to, rưới nhẹ 1 chút bơ đun chảy lên trên và rắc chút mùi thái nhỏ trang trí.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7748" height="685" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Cach-lam-khoai-tay-nghien-2-1024x685.jpg" width="1024"/></p>
+<h2><span style="color: #800000;">CÁCH LÀM SALAD CAM LỰU, CỦ DỀN, MẦM CẢI</span></h2>
+<p><img alt="" class="aligncenter size-large wp-image-7750" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Salad-1-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong><span style="color: #000000;">A. Nước trộn salad:</span></strong></p>
+<ul>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">Nước cốt 1 quả chanh (khoảng 20 ml)</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">30 ml (2 tbsp) xì dầu</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">10 ml (2 tsp) dầu vừng</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;"> vỏ 1 quả cam bào vụn</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">15 gram (1 tbsp) đường</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">3 gram hạt tiêu</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">5 gram hành khô (1 – 2 củ) băm nhuyễn</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">3 gram gừng tươi băm nhuyễn</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">B. Phần salad (bạn có thể dùng các loại rau salad khác tuỳ thích)</span></strong></p>
+<ul>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">100 gram rau cải mầm</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">3 quả cam (có thể thêm táo, lựu, nho..  cũng ngon) </span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">1 củ dền đỏ</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">30 gram lá bạc hà</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><span style="font-weight: 400; color: #000000;">1. Trộn đều tất cả các nguyên liệu làm nước trộn salad, để sang 1 bên</span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Sơ chế nguyên liệu:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Cắt 2 đầu của quả cam, dùng dao thật sắc cắt bỏ phần vỏ và cùi trắng của quả cam, thái thành từng lát cỡ 0.5 cm</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Rau cải bỏ rễ, rửa thật sạch, vẩy khô</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Củ dền gọt vỏ, tỉa hoa, thái mỏng</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Lá bạc hà rửa sạch, vẩy khô</span></li>
+</ul>
+<p><img alt="" class="aligncenter size-large wp-image-7749" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Ảnh-salad-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">3. Cho ½ chỗ nước trộn vào rau cải mầm, dùng tay trộn nhẹ nhàng cho đều</span></p>
+<p><span style="color: #000000;">4. Xếp rau cải thành vòng tròn xung quanh đĩa, bày cam thái lát xen kẽ vào rau cải, sau đó đến củ dền, rồi lá bạc hà. Rưới chỗ nước trộn còn lại đều lên trên hỗn hợp rau salad.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7751" height="685" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/12/Salad-2-1024x685.jpg" width="1024"/></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

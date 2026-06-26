@@ -1,0 +1,66 @@
+---
+title: "[VIDEO] Gà xào Phô-mai bắp cải kiểu Hàn Quốc"
+date: "2019-01-04"
+slug: "ga-xao-pho-mai-kieu-han-quoc"
+categories: []
+tags: []
+image: "/wp-content/uploads/2019/01/gà-xào-phô-mai-banner.jpg"
+description: "Cách làm gà xào phô-mai bắp cải kiểu Hàn Quốc siêu thơm ngon đây ah. Mùa đông trời lạnh, cả nhà quây quần quanh một chảo gà thơm lựng như thế này, còn gì"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400; color: #000000;">Video “mở hàng” cho năm 2019 của SD đây ah ;”&gt; </span></p>
+<p><span style="color: #000000;">Video này tụi mình quay từ hồi tháng 12, lúc còn nắng ấm ấy. Nên ngay tại bây giờ, trong lúc ngón tay đang co rút vì lạnh, mình chỉ mong có một cái chảo như thế này ở trước mặt thôi.. huhu… làm blogger ẩm thực là đôi khi bị “dằn vặt” đau khổ thế đấy :((</span></p>
+<p><span style="color: #000000;">Món gà này nổi lên từ khoảng năm 2015, tới giờ hình như vẫn còn “hot” lắm ở các quán Hàn. Nhất là vào những ngày trời giá lạnh như thế này thì ai có thể cầm lòng cho được trước một chảo gà đang sôi lục bục, toả mùi thơm siêu siêu hấp dẫn của các loại gia vị gừng tỏi, của ớt và của phô-mai kia chứ?!</span></p>
+<p><span style="color: #000000;">Cuối tuần này trời vẫn lạnh, đi ra hàng ăn ngại lắm, nên chạy ra siêu thị mua nguyên liệu và làm một chảo như thế này ở nhà thôi các bạn ạ :D Món này tự làm siêu dễ, lại “kinh tế” hơn nhiều so với đi ăn hàng bởi chỉ có chảo gà ở nhà làm mới thực sự là “gà xào cay” chứ chảo gà ngoài hàng nhiều khi chỉ là “bắp cải xào cay” thôi :D </span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7806" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/các-làm-gà-xào-phô-mai-kiểu-Hàn-quốc-1024x683.jpg" width="1024"/></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<h2><span style="color: #000000;">Cách làm Gà xào Phô-mai bắp cải kiểu Hàn Quốc </span></h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">500 gram thịt gà đã lọc xương (các bạn có thể dùng thịt ức hoặc thịt đùi tùy thích nhé)</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">Hỗn hợp ướp thịt:</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">2 thìa canh (tbsp) bột ớt Hàn Quốc</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">3 thìa canh tương ớt Hàn Quốc (Gochujang)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">2 thìa canh (30 ml) nước tương</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 thìa canh (15 ml) dầu mè</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">2 thìa canh (30 ml) mật ong</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 thìa canh (15 ml) dầu hào</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 thìa canh tỏi băm nhỏ</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 thìa canh vừng rang</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 thìa cafe hạt tiêu</span></em></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;"><strong>Lưu ý:</strong> Tương ớt và bột ớt mọi người có thể cho nếm từ từ đến khi vừa miệng. Hỗn hợp ướp thịt này sẽ có mức độ cay tương tự như các quán gà xào phomai hay làm.</span></p>
+<p><strong><span style="color: #000000;">Rau củ xào chung</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">60 gram hành tây</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">100 gram rau bắp cải</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">100 gram cà rốt</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">100 gram khoai lang</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 gram hành boa-rô</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">100 gram bánh gạo Hàn Quốc</span></em></li>
+<li><em><span style="color: #000000;">Phomai mozzarella</span></em></li>
+</ul>
+<p><span style="color: #000000;"><strong>Lưu ý:</strong> Định lượng các loại rau củ các bạn có thể cho theo sở thích.</span></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>Video cách làm món ăn này đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" rel="noopener noreferrer" target="_blank">kênh YouTube của Savoury Days.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo <a href="https://youtu.be/DxfCASvq3dc" rel="noopener noreferrer" target="_blank"><strong>link này</strong></a> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="https://youtu.be/AhsvW5TjQfc" rel="noopener noreferrer" target="_blank">cách làm bánh flan này.</a> </strong></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/DxfCASvq3dc" width="560"></iframe></div>
+<p> </p>
+<p><span style="color: #000000;">1. Thịt gà rửa sạch, cắt thành miếng vuông vừa ăn.</span></p>
+<p><span style="color: #000000;">2. Trong một âu lớn, trộn đều tất cả các gia vị ướp thịt, đổ thịt vào trộn đều, bọc kín âu và ướp trong 30 phút.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #000000;">3. Rửa sạch và sơ chế các loại rau củ:</span></p>
+<ul>
+<li><span style="color: #000000;">Hành tây thái múi cau; bắp cải, cà rốt, khoai rang thái thành miếng to bản; hành boa-rô cắt khúc.</span></li>
+<li><span style="font-weight: 400; color: #000000;">Bánh gạo Hàn Quốc nếu là loại đông lạnh thì ngâm với nước nóng cho mềm, cắt khúc dài 3 – 4 cm.</span></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;">4. Sau khi ướp thịt đủ 30 phút. Đun nóng 30 ml dầu ăn trong chảo và cho thịt gà, khoai lang, cà rốt vào xào ở lửa vừa trong khoảng 5 – 7 phút.</span></p>
+<p><span style="font-weight: 400; color: #000000;">5. Tiếp theo cho bắp cải, hành tây và bánh gạo vào xào tiếp thêm khoảng 5 – 7 phút. Cuối cùng cho hành boa-rô vào đảo thêm khoảng 5 phút đến khi các nguyên liệu chín tới.</span></p>
+<p><span style="font-weight: 400; color: #000000;">6. Rắc phomai mozzarella phủ đều mặt chảo, đậy nắp vung và đun ở lửa nhỏ đến khi phomai chảy hết. Dùng nóng. </span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

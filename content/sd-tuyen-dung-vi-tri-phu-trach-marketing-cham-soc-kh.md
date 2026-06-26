@@ -1,0 +1,70 @@
+---
+title: "SD TUYỂN DỤNG (Vị trí: phụ trách Marketing & Chăm sóc KH)"
+date: "2020-10-02"
+slug: "sd-tuyen-dung-vi-tri-phu-trach-marketing-cham-soc-kh"
+categories: ["Chuyện hàng ngày"]
+tags: []
+image: "/wp-content/uploads/2020/10/Tìm-đồng-đội-copy.jpg"
+description: ""
+---
+
+<p><span style="color: #000000;">Chào các bạn,</span></p>
+<p><span style="color: #000000;">SD đang ngày càng ổn định hơn và… nhiều việc hơn <span class="_5mfr"><span class="_6qdm">😀</span></span> Tuy so với thời gian trước, lúc chỉ có mình Linh Trang viết blog, hiện tại SD đã khác nhiều. Nhưng mục tiêu của tụi mình vẫn là mang đến nhiều cảm hứng vào bếp cho các bạn, và giúp cho bạn bè ở khắp nơi trên thế giới nấu nướng dễ dàng hơn, thuận lợi hơn, hiệu quả hơn. Và tụi mình rất cần có thêm đồng đội “chung lưng đấu cật” cùng nhau thực hiện mục tiêu lớn này. Nếu bạn mong muốn có môi trường làm việc “như mơ”, nơi đồng nghiệp thân thiết như anh chị em trong gia đình, nơi mỗi ngày đều rất bình yên, vui vẻ, nơi không có ganh đua, bon chen, chèn ép, nơi có đầy đủ cơ hội để phát triển &amp; hoàn thiện bản thân, thì hãy đến với SD team nhé <span class="_5mfr"><span class="_6qdm">😉</span></span></span></p>
+<p><span style="color: #000000;"><img alt="" class="aligncenter size-large wp-image-8635" height="1024" loading="lazy" sizes="(max-width: 683px) 100vw, 683px" src="/wp-content/uploads/2020/10/Tìm-đồng-đội-copy-683x1024.jpg" width="683"/></span></p>
+<p><span style="color: #000000;">Trong thời gian tới tụi mình cần (tối thiểu) 2 bạn phụ trách các công việc marketing, sale và chăm sóc khách hàng như sau ạ:</span></p>
+<p><span style="color: #800000;"><strong>* Mô tả công việc:</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><strong><span style="color: #000000;">1. Phụ trách Marketing (toàn thời gian/ full-time)</span></strong><br/>
+<span style="color: #000000;">– Xây dựng chiến lược và kế hoạch phát triển brand, giới thiệu sản phẩm.</span><br/>
+<span style="color: #000000;">– Tìm hiểu nhu cầu bạn đọc, học viên, kết nối SD với học viên và ngược lại. </span><br/>
+<span style="color: #000000;">– Trực tiếp phụ trách và triển khai các kế hoạch marketing trên các kênh của SD. </span><br/>
+<span style="color: #000000;">– Hỗ trợ team trong các công việc khác</span></p>
+<p><strong><span style="color: #000000;">2. Phụ trách chăm sóc khách hàng (toàn thời gian/ full-time)</span></strong><br/>
+<span style="color: #000000;">– Trả lời câu hỏi của học viên và bạn đọc trên các kênh của SD (Facebook, blog, youtube)</span><br/>
+<span style="color: #000000;">– Hỗ trợ, giải đáp thắc mắc của học viên trong các lớp học của SD (riêng phần này có liên quan đến chuyên môn nên SD sẽ có thời gian đào tạo). </span><br/>
+<span style="color: #000000;">– Quản lý các nhóm cộng đồng của SD, phụ trách tổ chức các hoạt động xây dựng cộng đồng.</span><br/>
+<span style="color: #000000;">– Quản lý các lớp học của SD </span><br/>
+<span style="color: #000000;">– Điều phối công việc tuyển sinh của các lớp học – Quản lý danh sách học viên. </span><br/>
+<span style="color: #000000;">– Hỗ trợ team trong các công việc khác</span></p>
+<p><strong><span style="color: #000000;">* Yêu cầu chung cho cả 2 vị trí:</span></strong><br/>
+<span style="color: #000000;">– Đã theo dõi SD trong một khoảng thời gian (dài <span class="_5mfr"><span class="_6qdm">🙂</span></span> ), hiểu các giá trị mà SD theo đuổi. Có mong muốn chung tay xây dựng SD phát triển. </span><br/>
+<span style="color: #000000;">– Có hiểu biết nhất định với làm bánh và nấu nướng nói chung (với vị trí chăm sóc khách hàng, nắm vững kiến thức về làm các loại bánh là một lợi thế rất lớn). </span><br/>
+<span style="color: #000000;">– Sáng tạo, không ngừng tìm tòi giải pháp, đưa ra các ý tưởng mới, có năng lực dẫn dắt, và có khả năng điều phối công việc tốt, khoa học, hiệu quả.</span><br/>
+<span style="color: #000000;">– Kiên trì, nhẫn nại, cởi mở và có tư duy phân tích, phản biện tốt.</span><br/>
+<span style="color: #000000;">– Sử dụng thành thạo Word, Excel</span><br/>
+<span style="color: #000000;">– Đọc hiểu tiếng Anh tốt</span><br/>
+<span style="color: #000000;">– Ưu tiên ứng viên đã có kinh nghiệm với công việc ứng tuyển </span><br/>
+<span style="color: #000000;">– Có thể gắn bó với SD ít nhất 1 năm</span></p>
+<p><strong><span style="color: #000000;"><span style="color: #800000;">* Lương/ thưởng – ưu đãi:</span> </span></strong><br/>
+<span style="color: #000000;">– Môi trường làm việc “điểm 10” <span class="_5mfr"><span class="_6qdm">🙂</span></span> Đồ ăn ngon và rất ngon, rất hay có bánh trái mang về. </span><br/>
+<span style="color: #000000;">– Địa điểm làm việc nằm trên đường Nguyễn Văn Huyên kéo dài, gần khu Ngoại Giao Đoàn</span><br/>
+<span style="color: #000000;">– Thời gian làm việc: 8.30 – 17.30 ngày trong tuần. Thi thoảng có thể cần làm cuối tuần. Vị trí CSKH có thể cần làm cả tối và cuối tuần (trực online trả lời page) </span><br/>
+<span style="color: #000000;">– Lương thoả thuận theo năng lực + thưởng theo hiệu quả công việc (ăn trưa, liên hoan, sinh hoạt team… do SD chi trả). Riêng phần này, mình có thể cam kết nếu bạn hết mình vì SD, SD sẽ không phụ bạn <span class="_5mfr"><span class="_6qdm">😉</span></span></span></p>
+<p><span style="color: #800000;"><strong>* Hướng dẫn ứng tuyển:</strong></span></p>
+<p><span style="color: #000000;">– Hồ sơ cần chuẩn bị (bản mềm, file Word hoặc PDF) gồm:</span></p>
+<ul>
+<li><span style="color: #000000;">CV/ Sơ yếu lý lịch của bạn </span></li>
+<li><span style="color: #000000;">Đơn xin việc/ letter of motivation: nêu rõ vị trí bạn muốn ứng tuyển, lý do tại sao bạn muốn làm công việc này và tại sao SD nên chọn bạn </span></li>
+<li><span style="color: #000000;">Scan bảng điểm đại học, chứng nhận tham gia hoạt động ngoại khoá và các thành tích khác.</span></li>
+</ul>
+<p><span style="color: #000000;">– Bạn gửi hồ sơ trên theo dạng file đính kèm vào mail đến địa chỉ savourydaysvn@gmail.com. Tiêu đề mail ghi rõ “Ứng tuyển thành viên SD”</span></p>
+<p><span style="color: #0000ff;"><strong>* Thời gian nhận hồ sơ từ 2/10 đến hết 14/10. Kết quả vòng hồ sơ và hướng dẫn cho vòng phỏng vấn sẽ được gửi đến các bạn trong khoảng từ 15/10 – 20/10</strong></span></p>
+<p><span style="color: #000000;">Cảm ơn các bạn và rất hi vọng SD sẽ sớm có thêm đồng đội mới trong tháng 10 này <span class="_47e3 _5mfr" title="smile emoticon"><img alt="" class="img" height="16" loading="lazy" src="https://static.xx.fbcdn.net/images/emoji.php/v9/teb/2/16/1f642.png" width="16"/><span class="_7oe">:)</span></span></span></p>
+<div align="center" id="google-ads-body-post-end">
+
+
+</div> <div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

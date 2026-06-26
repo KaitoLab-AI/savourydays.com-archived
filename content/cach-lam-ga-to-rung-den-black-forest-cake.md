@@ -1,0 +1,73 @@
+---
+title: "Cách làm ga-tô rừng đen – Black forest cake"
+date: "2018-04-20"
+slug: "cach-lam-ga-to-rung-den-black-forest-cake"
+categories: []
+tags: []
+image: "/wp-content/uploads/2018/04/cach-lam-gato-rung-den-banner.jpg"
+description: "Cách làm ga-tô rừng đen (Black forest cake) tuyệt ngon với các lớp ga-tô xốp mềm thơm vị chocolate, xen giữa là lớp kem tươi ngon lành xốp mịn với anh đào"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #000000;">Black Forest Cake (tạm dịch “gato rừng đen”) là một trong những món bánh ga-tô mà mình rất thích. Bánh gồm nhiều tầng bạt ga-tô xốp mềm, thơm lựng vị chocolate quyện với hương rượu anh đào nồng nàn, xen giữa những lớp kem tươi trắng muốt, dày mịn màng, béo ngậy. Và chắc chắn không thể nào bỏ qua những quả anh đào đỏ bóng, căng mọng, vị chua chua ngọt ngọt, chỉ mới nhìn đã làm cho người ta chảy nước miếng rồi ;)</span></p>
+<p><span style="color: #000000;">Hồi xưa cầu kì, cả năm cứ đợi tới mùa quả anh đào mới làm Black Forest Cake. Nhưng sau này thì cứ khi nào thèm là làm “ngay và luôn”, chẳng đợi nữa. Không có anh đào tươi thì dùng anh đào đóng hộp, tuy không có được cái vị mọng nước, giòn ngọt nhưng vẫn rất thơm ngon, tiện dụng và chi phí cũng rẻ hơn kha khá nữa. Một phần quả anh đào này còn có thể dùng làm mứt để trang trí mặt bánh, vừa đẹp mà cũng giúp cho bánh thơm ngon hơn. </span></p>
+<p><span style="color: #000000;">Trong video dưới đây mình cũng dùng anh đào đóng hộp, ở Việt Nam, mình nghĩ bạn có thể mua anh đào này từ các cửa hàng bán đồ nhập khẩu, hoặc bạn có thể thay bằng anh đào tươi theo sở thích nhé. Rượu anh đào nếu không mua được có thể bỏ qua, bánh sẽ vẫn thơm ngon :)</span></p>
+<h2><span style="color: #000000;">CÁCH LÀM BLACK FOREST CAKE  </span></h2>
+<p><span style="color: #000000;"><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn tròn đường kính 18 – 20 cm, lót đáy bằng giấy nến, không cần chống dính thành khuôn </span></p>
+<p><span style="color: #000000;"><span style="color: #800000;"><strong>Nguyên liệu</strong></span> </span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><strong><span style="color: #000000;">A. Phần bạt bánh </span></strong></p>
+<ul>
+<li><em><span style="color: #000000;">45 g bột mì đa dụng/ all purpose flour </span></em></li>
+<li><em><span style="color: #000000;">10 g bột ngô/ corn starch </span></em></li>
+<li><em><span style="color: #000000;">18 g bột ca cao</span></em></li>
+<li><em><span style="color: #000000;">20 g bơ (không muối, dùng bơ động vật sẽ ngon hơn)</span></em></li>
+<li><em><span style="color: #000000;">10 ml sữa tươi không đường </span></em></li>
+<li><em><span style="color: #000000;">3 trứng gà (55 – 65 g/ quả tính cả vỏ) </span></em></li>
+<li><em><span style="color: #000000;">75 g đường (ở VN nên dùng đường bột hoặc xay nhỏ để dễ tan)</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">B. Phần kem phủ bánh </span></strong></p>
+<ul>
+<li><em><span style="color: #000000;">350 ml kem tươi (whipping cream) – hàm lượng béo 30 – 40% – để lạnh </span></em></li>
+<li><em><span style="color: #000000;">45 gram đường (đường bột hoặc đường xay nhỏ)</span></em></li>
+<li><em><span style="color: #000000;">3 ml va-ni chiết xuất (không bắt buộc) </span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">C. Phần anh đào </span></strong></p>
+<ul>
+<li><span style="color: #000000;">1 lọ anh đào khoảng 700 ml hoặc 600 g quả anh đào tươi </span></li>
+<li><span style="color: #000000;">100 ml rượu anh đào (cherry liqueur) </span></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm </strong></span></p>
+<p><span style="color: #000000;">Video cách làm bánh ga-tô Rừng Đen đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" rel="noopener noreferrer" style="color: #000000;" target="_blank"><span style="color: #0000ff;">kênh YouTube của Savoury Days</span>.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo<span style="color: #0000ff;"> <a href="https://youtu.be/aePnJ_eRMbA" rel="noopener noreferrer" style="color: #0000ff;" target="_blank"><strong>link này</strong></a></span> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="https://youtu.be/AhsvW5TjQfc" rel="noopener noreferrer" style="color: #000000;" target="_blank"><span style="color: #0000ff;">cách làm bánh flan này</span>.</a> </strong></span></p>
+<p><span style="color: #000000;"><div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/aePnJ_eRMbA" width="560"></iframe></div></span></p>
+<p> </p>
+<p><strong><span style="color: #000000;">A. Phần bạt bánh</span></strong></p>
+<p><span style="color: #000000;">Làm nóng lò nướng ở 175 độ C – lửa trên và dưới</span></p>
+<p><span style="color: #000000;">1. Trộn bột mì, bột ngô và bột ca cao, rây mịn. Đun chảy bơ và sữa tươi, giữ ấm. </span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #000000;">2. Đánh bông trứng với đường. Việc đánh cách thuỷ trên nước ấm như trong video sẽ giúp cho trứng bông tốt và ổn định hơn, tuy nhiên không bắt buộc. Cần đánh tới giai đoạn trứng bông đặc và rất bông, rất mịn như trong video, nếu không khi trộn bột, bọt khí trong trứng sẽ dễ bị vỡ và làm cho bánh nở kém. </span></p>
+<p><span style="color: #000000;">3. Chia hỗn hợp bột thành 3 phần, rây từng phần vào âu trứng, nhẹ nhàng trộn đều theo kiểu fold (hất từ dưới lên), tránh quấy đảo mạnh tay làm bọt khí trong trứng bị vỡ. </span></p>
+<p><span style="color: #000000;">4. Lấy 2 – 3 thìa bột vừa trộn xong, cho vào bát bơ sữa nhẹ nhàng trộn đều rồi đổ ngược lại âu bột lớn, trộn tới khi hoà quyện. Làm theo cách này sẽ giúp bơ sữa hoà quyện trong hỗn hợp bột tốt hơn và không làm quá nhiều bọt khí bị vỡ. </span></p>
+<p><span style="color: #000000;">5. Đổ bánh vào khuôn, nướng ở 175 độ C trong khoảng 25 phút tới khi ấn nhẹ lên mặt bánh thấy vết lõm lập tức phồng trở lại. Nhiệt và thời gian nướng có thể thay đổi tuỳ theo lò. Nếu chưa chắc chắn về việc dùng lò, bạn nên đọc thêm bài viết về cách chỉnh nhiệt lò tại <a href="/lo-nuong-kinh-nghiem-nuong-banh/" style="color: #000000;"><strong>ĐÂY</strong></a> và <a href="/kinh-nghiem-nuong-banh-phan-2/" style="color: #000000;"><strong>ĐÂY</strong></a> nhé. </span></p>
+<p><span style="color: #000000;">Bánh nướng chín lấy ra khỏi khuôn, để nguội trên rack (kê cao cho bánh thoát ẩm). </span></p>
+<p><strong><span style="color: #000000;">B. Phần kem bánh </span></strong></p>
+<p><span style="color: #000000;">1. Đánh bông kem tươi với đường tới khi kem bông đặc cứng. Bạn có thể xem hướng dẫn chi tiết <a href="/cach-lam-kem-tuoi-danh-bong-va-cach-chua-kem-tuoi-tach-nuoc/" style="color: #000000;">cách đánh kem tươi tại bài viết này nhé</a>. </span></p>
+<p><span style="color: #000000;">2. Cho kem vào túi bắt kem, để ngăn mát tủ lạnh tới khi dùng. </span></p>
+<p><strong><span style="color: #000000;">C. Phần anh đào</span></strong></p>
+<p><span style="color: #000000;">1. Lấy riêng quả anh đào, trộn với 2 – 3 thìa rượu hoặc nhiều hơn tuỳ thích. </span></p>
+<p><span style="color: #000000;">2. Phần nước anh đào múc lấy 150 ml, pha thêm 10 – 20 gram đường, tới khi nước đủ ngọt. Đun sôi rồi hạ lửa nhỏ đun liu riu thêm 2 – 3 phút, bắc khỏi bếp, cho 1 – 2 thìa rượu vào quấy đều. </span></p>
+<p>Nếu dùng anh đào tươi thì có thể ngâm anh đào với ít đường, cho thêm nước rồi nấu sôi để anh đào ra nước, dùng nước này làm syrup quét mặt bánh. Sau đó nấu hỗn hợp tới khi sệt và nhuyễn để làm mứt cho bước 4 trong phần D.</p>
+<p><strong><span style="color: #000000;">D. Ráp bánh </span></strong></p>
+<p><span style="color: #000000;">1. Sau khi bánh nguội, gọt bớt phần mặt bánh cho mặt bánh phẳng. Cắt bánh thành 2 bạt tròn bằng nhau. </span></p>
+<p><span style="color: #000000;">2. Dùng chổi thấm syrup rượu anh đào chuẩn bị ở phần (C) lên mặt bánh. Phun kem lên mặt bánh rồi xếp các quả ảnh đào lên. Đặt miếng bánh thứ 2 lên trên, lặp lại khâu quét syrup và phủ kem. Dùng dao trét kem đều ở khắp bên ngoài bánh, không cần chà láng mịn. </span></p>
+
+
+<p><span style="color: #000000;">3. Dùng đui bắt hoa để tạo các búp kem viền mặt bánh. Để bánh vào ngăn mát tủ lạnh cho kem cứng hơn. </span></p>
+<p><span style="color: #000000;">4. Phần anh đào còn lại (khoảng 1/4 – 1/3 lượng anh đào), cho vào nồi cùng nước anh đào (lấy từ lọ). Thêm đường cho vừa ngọt rồi nấu sôi, sau đó hạ lửa nhỏ liu riu, nấu tới khi nước cạn gần hết thì đổ ra bát, để nguội. Sau khi nguội, đổ phần mứt anh đào này lên mặt bánh. Bảo quản bánh trong ngăn mát tủ lạnh, nên dùng sớm. </span></p>
+<p> </p>
+<p> </p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

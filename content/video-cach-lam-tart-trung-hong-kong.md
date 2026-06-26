@@ -1,0 +1,72 @@
+---
+title: "[VIDEO] Cách làm tart trứng Hồng Kông"
+date: "2017-03-24"
+slug: "video-cach-lam-tart-trung-hong-kong"
+categories: []
+tags: []
+image: "/wp-content/uploads/2017/03/cách-làm-tart-trứng-banner.jpg"
+description: "Học cách làm tart trứng Hồng Kông thơm ngon với Linh Trang Savoury Days. Công thức kèm video hướng dẫn chi tiết với các lưu ý và mẹo giúp thành công"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Thi thoảng mình có cảm giác là hình như ở Việt Nam tart trứng của KFC quá phổ biến nên “đè bẹp” một món “anh chị em họ” của nó là tart trứng Hồng Kông. Ít thấy các bạn làm món này mà trong cửa hàng cũng không thấy bán nhiều nữa.</p>
+<p>Thật ra thì tart trứng Hồng Kông mình thấy ngon đâu hề kém tart trứng KFC nhỉ, hay một phần lí do cũng bởi vì mình không khoái tart trứng KFC lắm. Nhưng so với tart trứng KFC với lớp vỏ là bột ngàn lớp thì tart trứng HK có cách làm nhanh và đơn giản hơn nhiều. Đế tart chỉ là trộn rồi  nướng giống kiểu bánh quy bơ, còn nhân thì hệt như làm bánh flan vậy thôi.</p>
+<p>Một ưu điểm khác nữa là món tart này có thể ăn nóng hay nguội đều hợp cả. Nếu là trời lạnh thì có thể quay vi sóng hay dùng lò nướng tầm 150 độ C trong 3 – 5 phút để bánh hơi âm ấm trở lại, dùng kèm bột quế rất ngon (vụ bột quế này là mình học từ món tart trứng Bồ Đào Nha – món tart trứng chuẩn mà phiên bản lỗi chính là tart KFC ý). Còn trời nóng thì có thể ăn bánh nguội hay lạnh cũng được. Phần đế bánh nếu nóng thì sẽ giòn bùi kiểu hơi giống bánh quy, còn lạnh thì chỉ bùi thôi, nhưng đều dễ ăn và ngon như nhau.</p>
+<p>Công thức này thì phần vỏ tart mình dùng công thức vỏ của Gordon Ramsay còn nhân kem trứng thì mình dùng sữa và kem tươi thay cho chỉ sữa tươi với sữa đặc như một số công thức của Hồng Kông. Lý do là kem tươi cho nhân kem thơm ngậy và “mướt” hơn nhiều :) Và cách làm như sau nhé:</p>
+<h2>CÁCH LÀM TART TRỨNG HỒNG KÔNG</h2>
+<p><strong><span style="color: #800000;">Nguyên liệu</span> (làm được 20 – 22 tart nhỏ)</strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><strong>A. Phần vỏ bánh</strong></p>
+<ul>
+<li><em>230 g bột mì đa dụng</em></li>
+<li><em>60 g đường bột (hoặc đường kính trắng cũng được nhưng nên xay hạt nhỏ mịn)</em></li>
+<li><em>1 trứng gà to (khoảng 60 g cân cả vỏ)</em></li>
+<li><em>125 g bơ (nên dùng bơ động vật loại không có muối)</em></li>
+<li><em>½ thìa cafe va-ni (không bắt buộc)</em></li>
+</ul>
+<p><strong>B. Phần kem trứng</strong></p>
+<ul>
+<li><em>3 trứng gà to</em></li>
+<li><em>60 g đường</em></li>
+<li><em>120 ml kem tươi</em></li>
+<li><em>240 ml sữa tươi không đường</em></li>
+<li><em>1 thìa cafe va-ni</em></li>
+</ul>
+<p><strong>Ghi chú:</strong></p>
+<ul>
+<li>Mùi vị của vỏ bánh được quyết định bởi bơ khá nhiều (cũng như khi mình làm bánh quy bơ). Bởi vậy nên các bạn chọn loại bơ có mùi vị thơm ngon một chút (hoặc là mùi vị mà bạn đã luôn thích, luôn quen). Như vậy khi ăn phần đế sẽ có cảm giác hài lòng hơn ;)</li>
+<li>Nếu không có kem tươi, các bạn có thể dùng sữa tươi. Tuy nhiên dùng kem tươi sẽ cho phần kem trứng ngon hơn khá nhiều. KHÔNG dùng topping cream thay cho kem tươi.</li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>Video cách làm bánh tart trứng Hồng Kông đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo <a href="https://youtu.be/MWRTaZZbWLs" target="_blank"><strong>link này</strong></a> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="/demo-flan-creme-caramel-kem-caramel/" target="_blank">cách làm bánh flan này.</a> </strong></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/MWRTaZZbWLs" width="560"></iframe></div>
+<p> </p>
+<p>Tóm tắt các bước như sau</p>
+<p>A. Phần vỏ bánh</p>
+<ol>
+<li>Trộn bơ và đường tới khi mịn mượt. Có thể trộn tay hoặc máy ở tốc độ thấp, không cần đánh bơ bông xốp. Lưu ý là bơ cần để hết lạnh và mềm.</li>
+<li>Cho trứng và vanilla vào trộn đều.</li>
+<li>Rây bột thành 2 – 3 phần, trộn đều trước khi thêm phần tiếp theo. Sau khi trộn hết bột thì dùng tay nhào thật nhanh tới khi bột quyện thành khối. Lưu ý dùng đầu ngón tay thay vì cả bàn tay, tránh hơi nóng từ lòng bàn tay làm bơ bị chảy.</li>
+<li>Bọc kín cả khối bột, để ngăn mát tủ lạnh khoảng 30 phút tới khi bơ cứng và ít dính tay hơn.</li>
+<li>Trong khi đợi bột thì chống dính khuôn tart bằng cách xịt chống dính khắp lòng khuôn hoặc bôi bơ mềm khắp lòng khuôn, rắc một lớp bột mỏng phủ đều khắp lòng khuôn rồi úp ngược, gõ cho bột thừa rơi ra hết. <strong>Cần chống dính khuôn cẩn thận, tránh để bánh dính vào khuôn, khi gỡ ra dễ bị vỡ bánh. </strong></li>
+<li>Khi bột đã đủ lạnh thì chia thành nhiều phần nhỏ, khoảng 20 – 25 gram mỗi phần hoặc nhiều hay ít hơn tùy độ lớn của khuôn. Ấn dẹt từng phần bột rồi đặt vào khuôn (bột nên có độ dày khoảng 2  – 3 mm). Ấn cho bột ép sát khuôn, gạt bỏ các phần bột thừa ra ở riềm/ miệng khuôn. Nếu còn thừa bột thì bọc kín rồi để ngăn đá, khi nào dùng rã đông trong ngăn mát là được.</li>
+<li>Làm nóng lò nướng ở 180 độ C (hai lửa). Cắt các miếng giấy nến nhỏ, lót giấy vào khuôn rồi đổ đầy gạo hoặc đậu để chặn không cho bột nở quá nhiều khi nướng (gạo sau khi nướng bánh xong có thể dùng làm nước gạo rang hoặc nấu cháo :) ).</li>
+<li>Khi lò đủ nóng thì nướng đế bánh trong 5 – 7 phút tới khi đế bánh cứng và hơi chuyển vàng nâu thì lấy ra ngoài, gỡ bỏ giấy nến và đậu/ gạo. Để nguội bớt. <strong>Hạ lò về 150 độ C để nướng bánh. </strong></li>
+</ol>
+<p>B. Phần nhân bánh (có thể làm phần này trong lúc chờ nướng bánh)</p>
+<ol>
+<li>Đánh tan trứng với đường</li>
+<li>Cho sữa và kem tươi vào trộn đều, lọc lại hỗn hợp qua rây.</li>
+</ol>
+<p>C. Nướng bánh.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<ol>
+<li>Đổ nhân kem trứng vào các khuôn. Nếu chưa dùng hết thì để hỗn hợp còn thừa vào tủ lạnh (phần nhân này đủ cho phần vỏ bánh, nhưng nếu lò nhỏ có thể sẽ cần nướng nhiều lần).</li>
+<li>Nướng bánh ở nhiệt 150 độ C trong 20 – 25 phút. Để bánh nguội hoàn toàn trước khi gỡ bánh ra khỏi khuôn.</li>
+</ol>
+<p>(*) <strong>Lưu ý về nhiệt độ nướng: </strong>Với món bánh này, khi nướng phần nhân bánh không nên để nhiệt độ quá cao. Nếu là lò nhỏ, nên nướng ở rãnh thấp nhất của lò và có thể tắt lửa trên, chỉ nướng lửa dưới. Tốt nhất là nướng tới khi mặt bánh se nhưng lắc thử còn hơi rung rinh một chút rồi các bạn tắt lò và để bánh trong lò thêm 5 – 10 phút. Như vậy bánh sẽ chín đúng độ, phần kem vừa mịn vừa mượt. Nếu nướng ở nhiệt độ quá cao, mặt bánh dễ bị phồng, cháy và khô, trong khi phần nhân có thể bị rỗ (do kem trứng sôi) và ăn hơi giống trứng nướng.</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

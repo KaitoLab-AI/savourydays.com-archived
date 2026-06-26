@@ -1,0 +1,137 @@
+---
+title: "Cách làm bánh dẻo không bị xệ, chảy, mất nét, cứng, khô…"
+date: "2017-09-20"
+slug: "cach-lam-banh-deo-khong-bi-xe-chay-mat-net-cung-kho"
+categories: ["Bánh Việt Nam", "Bếp nhà mình"]
+tags: ["bánh trung thu"]
+image: "/wp-content/uploads/2017/09/cách-làm-bánh-dẻo-3.jpg"
+description: ""
+---
+
+<p>Tiếp nối bài <a href="/chia-se-kinh-nghiem-lam-the-nao-de-vo-banh-nuong-trung-thu-cung-hay-mem-theo-y-minh/"><strong>khắc phục các vấn đề về bánh nướng</strong></a>, trong bài viết này mình nói về một số vấn đề thường gặp đối với bánh dẻo trung thu và cách khắc phục nhé.</p>
+<p>Trước hết, về cách làm bánh dẻo truyền thống (và bánh dẻo ít ngọt) thì rất đơn giản, gồm có mấy bước như sau</p>
+<ul>
+<li>Nấu nước đường</li>
+<li>Từ từ trộn bột với nước đường, để nghỉ 5 – 10 phút rồi nhồi nhẹ nhàng thêm một chút nữa</li>
+<li>Chia bột, bọc nhân, đóng bánh</li>
+</ul>
+<p>Thành phần của vỏ bánh dẻo truyền thống do vậy thường chỉ có 3 nguyên liệu chính là</p>
+<ul>
+<li>Đường</li>
+<li>Nước</li>
+<li>Bột bánh dẻo</li>
+</ul>
+<p>Các thứ như nước hoa bưởi, các loại bột tạo màu, chiết xuất tạo mùi thường được sử dụng với lượng không đáng kể, hầu như không ảnh hưởng tới bánh nên mình không liệt kê ở đây.</p>
+<p>Về các nguyên liệu trên, trước hết bột bánh dẻo là bột được xay ra từ gạo nếp đã nổ chín. Vì đã chín rồi nên bột bánh dẻo có thể ăn được trực tiếp luôn mà không cần nấu nướng gì cả. Không thể tự rang bột nếp để làm bánh dẻo do bột nếp rang thường sẽ có màu hơi vàng và mùi khá đậm. Ở nước ngoài các bạn có thể mua bột cooked glutinous/ sticky rice flour trong chợ châu Á. Ở Việt Nam thì có một vài loại bột bán ở các cửa hàng bán đồ làm bánh. Cho bài viết này mình đã thử hai loại là bột bánh dẻo của Sanh Ký và bột bánh dẻo đặc biệt của <strong><a href="https://abby.vn">Abby</a>.</strong> Kết quả cụ thể mình ghi ở dưới nhé.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Khi bột bánh dẻo trộn vào nước sẽ nở ra và kết dính, tạo thành một khối bột đặc là vỏ bánh dẻo. Nước càng nhiều thì vỏ càng mềm dẻo. Nước càng ít thì vỏ sẽ càng đặc và chắc. Để làm vỏ bánh dẻo, tỉ lệ bột: nước đường thường là bột = 1/2 nước đường. Tức là cứ 100g bột thì cần khoảng 200g nước đường (lưu ý đơn vị đong nước đường là gram chứ không phải ml). Vì trong nước đường có nước và đường nên nếu lượng đường càng cao thì nước sẽ càng ít. Bánh làm với nước đường này sẽ dẻo, chắc và rất ngọt vì nhiều đường, nhưng cũng để được lâu hơn do ít nước nên khó bị mốc, hỏng. Ngược lại, khi nước đường ít ngọt (nhiều nước và ít đường) thì vỏ bánh thường mềm hơn, dễ ăn hơn nhưng cũng không để được lâu.</p>
+<p>Các công thức bánh dẻo truyền thống thường dùng khoảng 3 phần đường, 2 phần nước để nấu nước đường, và kết quả ra là bánh khá ngọt (rất ngọt theo khẩu vị của mình), vỏ chắc dẻo và để được lâu. Với công thức bánh dẻo truyền thống của mình thì đường và nước bằng nhau. Bánh làm ra không bị ngọt quá, thời gian để chắc được tầm 3 – 5 ngày nếu nhân cũng khô và bảo quản trong điều kiện khô ráo, sạch sẽ.</p>
+<p style="text-align: center;"><em>Bánh mới đóng xong </em></p>
+<p><img alt="" class="aligncenter size-large wp-image-7430" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2017/09/cách-làm-bánh-dẻo-3-1024x682.jpg" width="1024"/></p>
+<p style="text-align: center;"><em>Bánh để sau 30 giờ ở nhiệt độ phòng, bọc nilon. Vỏ bánh dùng chiết xuất lá dứa nên có màu xanh. Màu bánh ở hai ảnh khác nhau là do ánh sáng khác nhau (bánh hình trên chụp trong bếp, bánh hình dưới chụp cạnh cửa sổ). </em></p>
+<p><img alt="" class="aligncenter size-large wp-image-7431" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2017/09/cách-làm-bánh-dẻo-2-1024x682.jpg" width="1024"/></p>
+<p style="text-align: center;"><em>Mặt cắt bánh </em></p>
+<p style="text-align: center;"><img alt="" class="aligncenter size-large wp-image-7432" height="680" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2017/09/cách-làm-bánh-dẻo-1-1024x680.jpg" width="1024"/></p>
+<p>Mùa Trung thu năm nay dùng bột bánh dẻo ở Việt Nam nên mình cũng thận trọng hơn một chút. Hôm trước đi một vòng FB thì thấy có một số vấn đề mà các bạn gặp với bánh dẻo là:</p>
+<ul>
+<li>Bánh bị xệ sau khi đóng khuôn: thành bánh phồng ra hoặc chảy xuống chứ không thẳng đứng và cứng cáp</li>
+<li>Bánh bị mất hoa trên mặt sau khi đóng khuôn</li>
+<li>Bột rất dính, khó nhồi</li>
+<li>Bột khó lấy ra khỏi khuôn, dễ dính khuôn hoặc bánh dính vào mặt bàn</li>
+<li>Bột khi trộn bị lổn nhổn</li>
+<li>Bột bị cứng sau khi để qua ngày</li>
+</ul>
+<p>Mình có nghe một số bạn nói là do bột hút nước kém quá. Chẳng hạn dùng bột Sanh Ký cần phải cho thêm bột rất nhiều nhưng vỏ bánh vẫn ướt. Nhưng thực ra không phải thế đâu. Nếu các bạn làm đúng như những gì mình hướng dẫn trong<a href="/cach-lam-banh-deo-truyen-thong/"><strong> công thức Cách làm bánh dẻo truyền thống</strong> </a>thì lượng bột mà các bạn cần dùng chỉ xấp xỉ như trong công thức mình đưa ra thôi.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Mình đăng lại video tại đây để các bạn tiện theo dõi. Cách làm của mình vẫn giống như trong video, chỉ <strong>thêm một chút dầu ăn. </strong>Và có 1 số lưu ý ở từng bước mà mình ghi ở dưới, để đảm bảo vỏ bánh không ướt (sẽ làm bánh xệ) hoặc vỏ bánh không quá khô (sẽ làm bánh mất nét). Cụ thể cách làm, lượng nguyên liệu các bạn xem trong bài viết <a href="/cach-lam-banh-deo-truyen-thong/"><strong>Cách làm bánh dẻo truyền thống</strong></a> nhé. Dưới đây chỉ là lưu ý thôi.</p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/qavcRR38NZg" width="560"></iframe></div>
+<p> </p>
+<p>1. <strong>Nấu nước đường </strong></p>
+<p>– Mình dùng 250 g nước, 250 g đường trắng và 1/8 teaspoon cream of tartar (mua được ở các cửa hàng bán đồ làm bánh như Abby, Bakerland… nhưng có thể bỏ qua. Mình nấu theo công thức, sau khi tắt bếp, đổ ra bát thì nước đường mình thu được dao động trong khoảng 400 – 420 gram (80 – 100 gram là nước đã bay hơi khi nấu).</p>
+<p>– Nước đường này <strong>phải để nguội </strong>mới dùng. Có thể để qua đêm cũng được nhưng đừng để quá lâu sẽ dễ hỏng.</p>
+<p>2. <strong>Trộn bột </strong></p>
+<p>– Cứ mỗi 100 gram nước đường thì cân lấy 50 gram bột bánh dẻo.</p>
+<p>– Nếu dùng các loại chiết xuất (lỏng) tạo mùi như nước hoa bưởi thì hoà chung với nước đường. Tuy nhiên chỉ nên dùng tối đa 1/2 thìa cafe (3 ml) cho 100 gram nước đường.</p>
+<p>– <strong>Ngoài nước đường ra, mình dùng thêm 10 gram dầu ăn cho 100 gram nước đường. Dầu ăn giúp vỏ bánh mềm và sắc nét hơn. </strong>Nguyên liệu này không có trong công thức bánh dẻo truyền thống nhưng mình thêm vào để <strong>khắc phục vấn đề của bột bánh dẻo bán tại Việt Nam. </strong>Nếu bạn dùng bột bánh dẻo bán trong chợ châu Á thì có thể bỏ qua phần dầu ăn này.</p>
+<p>– Trộn bột như trong video hướng dẫn: Cho nước đường và dầu ăn, quấy đều rồi từ từ cho bột vào quấy tới khi bột đặc thì chuyển sang dùng phới. Khi đã cho hết khoảng 2/3 lượng bột thì dừng lại, để bột nghỉ rồi nhào thêm tới khi bột thành khối dẻo, không dính tay.</p>
+<p>Khi làm các bước này, <strong>cần lưu ý các điểm sau: </strong></p>
+<ul>
+<li>Nên dùng <strong>phới lồng </strong>để trộn bột với nước ở bước đầu. Cho bột từ từ và quấy kĩ để bột hút nước và nở ra chứ không chỉ để bột hoà quyện với nước là cho thêm bột mới. Chỉ cần quấy thêm 10 giây thôi là bạn sẽ thấy bột đặc hơn và sánh hơn rồi. Bước này nếu làm ẩu thì sẽ rất dễ cho bột quá tay. Thường mình cho khoảng 25 gram bột (cho 100 gram nước đường) là thấy bột đã khá đặc và chuyển sang dùng phới dẹt.</li>
+<li>Nên dùng <strong>phới dẹt </strong>để trộn thêm bột vào âu. Phới dẹt sẽ giúp bạn vét bột ở thành âu sạch hơn. Nếu vét không sạch và trộn ẩu, rất nhiều bột khô có thể sẽ bám trên thành âu chứ không quyện vào khối bột, làm ta tính sai lượng bột. VD: bạn nghĩ là bạn đã cho 40 gram bột nhưng thực tế có 10 – 15 gram dính vào thành âu rồi, trong khối bột bánh chỉ có 25 – 30 gram bột thôi.</li>
+<li>Thường mình trộn hết khoảng 38 – 40 gram bột (cho 100 gram nước đường) là mình để bột nghỉ (theo cách làm trong video). Bột lúc này đã thành khối đặc nhưng vẫn khá ướt. Thời gian nghỉ 10 – 15 phút sẽ giúp bột ngấm nước, nở ra và khô ráo hơn. <strong>Nếu không nghỉ đủ, bột sẽ dính và ướt khi đóng khuôn, làm bánh bị xệ xuống. </strong></li>
+<li>Không nên để bột nghỉ quá lâu vì bột dễ bị cứng lại, khó đóng bánh, dễ mất hoa văn.</li>
+</ul>
+<p>3. <strong>Bọc nhân và đóng khuôn </strong></p>
+<p>– Sau thời gian để bột nghỉ, mình nhồi thêm một chút như trong video. Lượng bột mà mình dùng thêm thường chỉ khoảng 5 – 10 gram. Tức là tổng lượng bột mình dùng là khoảng 45 – 50 gram. Bột Abby hút nước ít hơn một chút so với bột Sanh Ký. Không nên nhồi quá kỹ hoặc thêm quá nhiều bột khô. <strong>Bột đạt là khi bạn ấn lên miếng bột thấy mềm, nhưng bột đàn hồi trở lại chứ không bị lõm. Khi cắt khối bột ta thấy mặt cắt bột không bị ướt. </strong>Nếu bột còn ướt thì đóng bánh rất dễ bị xệ.</p>
+<p>– Để đóng bánh: dùng khuôn gõ như khuôn Singapore, Vĩnh Tường… sẽ dễ hơn là khuôn lò xo. Nếu dùng các khuôn này, nên để bánh trong khuôn tầm 1 – 2 phút cho bánh thật sắc nét mới lấy ra. Nếu dùng khuôn lò xo thì nên ép và giữ khoảng 45 – 60 giây. Bánh trong hình mình dùng khuôn lò xo.</p>
+<p>– Trước khi đóng bánh nên lăn viên bánh qua bột khô, đồng thời rắc bột khô vào trong khuôn để chống dính.</p>
+
+
+<p>– Bánh dẻo để qua ngày ăn sẽ ngon hơn, bớt ngọt và mềm dẻo hơn, nói chung là khác hẳn so với ngày đầu (ngay sau khi vừa làm xong).</p>
+<p>Làm ĐÚNG NHƯ TRÊN thì bạn sẽ tránh được việc bánh bị xệ do bột quá ướt, chưa kịp nở thêm, hoặc bánh bị mất vân do dùng quá nhiều bột, bột không có thời gian nghỉ để nở ra. Bánh trong hình mình làm ngày hôm qua, chụp ảnh vào chiều hôm nay là sau 30 giờ kể từ lúc đóng bánh. Vỏ bánh đã chuyển trong, mềm, dẻo, không đặc dai nhiều như bánh truyền thống vì nước đường ít ngọt. Rất ngon và dễ ăn. Mình để ở ngoài nhiệt độ phòng và bọc nilon, có hút ẩm. Mình sẽ theo dõi tiếp trong mấy ngày tới để xem bánh thế nào rồi cập nhật tình hình với các bạn nhé. À, bánh này để tủ lạnh rồi cho ra ngoài cho hết lạnh thì thấy vỏ mềm trở lại, hoa văn vẫn còn rõ nét.</p>
+<p>Ngoài các điểm trên, còn có 1 số điểm khác mà các bạn hỏi tại Facebook của Savoury Days, mình trả lời chung ở dưới nhé:</p>
+<ol>
+<li>Nếu muốn vỏ bánh chắc dẻo như bánh truyền thống thì nên tăng lượng đường khi nấu nước, ví dụ dùng 650 ml nước cho 1 kg đường. Vỏ bánh sẽ chắc, dẻo, rắn, để được lâu nhưng sẽ rất ngọt.</li>
+<li>Bột nhồi không mịn: dùng phới lồng và phới dẹt để trộn như video là cách khắc phục đơn giản nhất.</li>
+</ol>
+<p>Chúc các bạn thành công! Một vài ngày tới mình sẽ thử lại bánh dẻo lạnh và cập nhật tình hình với bột ở Việt Nam nhé :)</p>
+<p>==============</p>
+<p><strong>BÀI VIẾT VỀ CÁCH LÀM BÁNH TRUNG THU TẠI SAVOURY DAYS</strong></p>
+<p><strong>A. Kiến thức chung</strong></p>
+<ol>
+<li><a href="/tong-hop-cach-lam-banh-nuong-banh-deo-trung-thu-a-z/">Tổng hợp cách làm bánh trung thu</a>: Tất tần tật các bước từ A – Z</li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" rel="noopener noreferrer" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" rel="noopener noreferrer" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+<li><a href="/trung-muoi/" rel="noopener noreferrer" target="_blank">Cách làm trứng muối</a></li>
+<li><a href="/banh-trung-thu-cach-xu-li-trung-muoi-cho-nhan-banh-trung-thu/" rel="noopener noreferrer" target="_blank">Cách xử lí trứng muối để làm nhân bánh</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" rel="noopener noreferrer" target="_blank">Cách chọn khuôn bánh trung thu</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" rel="noopener noreferrer" target="_blank">Cách làm rượu Mai Quế Lộ</a></li>
+<li><a href="/tu-lam-mau-thuc-pham-tu-rau-cu-qua-tu-nhien/" rel="noopener noreferrer" target="_blank">Tự làm màu thực phẩm từ rau củ quả tự nhiên</a></li>
+</ol>
+<p><strong>B. Cách làm bánh nướng trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-nau-nuoc-duong-cho-banh-nuong/" rel="noopener noreferrer" target="_blank">Cách nấu nước đường bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-lam-banh-nuong/" rel="noopener noreferrer" target="_blank">Cách làm bánh nướng trung thu (video) (</a>trộn bột, bọc nhân, đóng bánh và nướng)</li>
+<li><a href="/video-cach-lam-banh-trung-thu-banh-nuong-a-z/">Các lưu ý chung khi làm bánh nướng</a></li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-dau-xanh-tra-xanh-la-dua/" rel="noopener noreferrer" target="_blank">Cách làm nhân đậu xanh – trà xanh – lá dứa</a></li>
+<li><a href="/banh-trung-thu-nhan-thap-cam-nhan-sua-dua/" rel="noopener noreferrer" target="_blank">Cách làm nhân thập cẩm – sữa dừa</a></li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-sen-nhuyen/" rel="noopener noreferrer" target="_blank">Cách làm nhân sen nhuyễn</a></li>
+<li><a href="/banh-trung-thu-tra-xanh-nhan-dau-do/" rel="noopener noreferrer" target="_blank">Bánh trà xanh nhân đậu đỏ</a></li>
+<li><a href="/banh-trung-thu-banh-nuong-hoa-cuc-vi-chanh-leo-nghe-tay-va-chanh-vang/" rel="noopener noreferrer" target="_blank">Bánh hoa cúc vàng (vị nghệ tây, chanh vàng, chanh leo)</a></li>
+<li><a href="/red-velvet-rose-mooncake-banh-nuong-nhan-chocolate-rum-nho/" rel="noopener noreferrer" target="_blank">Bánh nướng hoa hồng đỏ (màu đỏ củ dền, nhân café, chocolate, rum nho)</a></li>
+<li><a href="/cach-sen-nhan-khoai-mon-khoai-tim-banh-trung-thu/" rel="noopener noreferrer" target="_blank">Nhân khoai môn – khoai lang tím</a></li>
+<li><a href="/nhan-sau-rieng-banh-trung-thu/" rel="noopener noreferrer" target="_blank">Nhân sầu riêng bánh trung thu</a></li>
+<li><a href="/banh-nuong-banh-deo-tra-xanh-nhan-me-den-trung-muoi-2/" rel="noopener noreferrer" target="_blank">Nhân mè đen trứng muối</a></li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" rel="noopener noreferrer" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" rel="noopener noreferrer" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+</ol>
+<p><strong>C. Cách làm bánh dẻo trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-lam-banh-deo/" rel="noopener noreferrer" target="_blank">Cách làm bánh dẻo kiểu Việt Nam ít ngọt</a></li>
+<li><a href="/cach-lam-banh-deo-truyen-thong/" rel="noopener noreferrer" target="_blank">Cách làm bánh dẻo truyền thống</a></li>
+<li><a href="/video-cach-lam-banh-deo-lanh-singapore/">Cách làm bánh dẻo lạnh Singapore (video)</a></li>
+<li><a href="/banh-nuong-banh-deo-tra-xanh-nhan-me-den-trung-muoi-2/" rel="noopener noreferrer" target="_blank">Bánh dẻo trà xanh nhân mè đen trứng muối</a></li>
+<li><a href="/banh-deo-mochi-nhan-kem-tra-xanh-dau-do-hoa-anh-dao/">Bánh dẻo mochi kem trà xanh đậu đỏ &amp; hoa anh đào</a></li>
+<li><a href="/banh-trung-thu-chia-se-kinh-nghiem-lam-banh-deo/" rel="noopener noreferrer" target="_blank">Giải đáp các thắc mắc/ vấn đề thường gặp khi làm bánh dẻo</a></li>
+</ol>
+<p><strong>D. Cách làm bánh trung thu rau câu </strong></p>
+<ol>
+<li><a href="/cach-lam-banh-trung-thu-rau-cau-flan-ca-phe/">Bánh trung thu rau câu flan cà phê</a></li>
+</ol>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

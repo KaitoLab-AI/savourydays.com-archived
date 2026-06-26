@@ -1,0 +1,71 @@
+---
+title: "BÁNH TRUNG THU SỮA DỪA NƯỚNG BẰNG NỒI CHIÊN KHÔNG DẦU"
+date: "2021-08-29"
+slug: "banh-trung-thu-sua-dua-nuong-bang-noi-chien-khong-dau"
+categories: []
+tags: []
+image: ""
+description: "Cách làm bánh trung thu với nồi chiên không dầu: rất đơn giản, nhanh và dễ thành công. Nhân sữa dừa mềm dẻo, béo ngậy"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400;">Bánh Trung thu có nướng được bằng nồi chiên không dầu không? – Câu trả lời ngắn gọn là: có thể nướng ngon lành tất cả các loại bánh Trung thu nha!!! 😁</span></p>
+<p><span style="font-weight: 400;">Tụi mình đã làm chuột bạch cho các bạn một món rất dễ, rất đơn giản và nhanh gọn đây: Bánh nướng với nhân sữa dừa – sầu riêng tươi – combo siêu đỉnh cao cho “fan sầu”, vừa có mùi sầu riêng thơm quyến rũ, vừa ngậy béo vị sữa dừa, không ngán, không ngọt 😉 Loại nhân này làm siêu nhanh (khoảng 15 phút), siêu dễ, gần như không thể hỏng, yên tâm là dù chưa có tí kinh nghiệm gì với bánh Trung thu thì cũng thành công luôn ạ 😁</span></p>
+<p><span style="font-weight: 400;">Nướng bánh Trung thu với nồi chiên không dầu thực ra rất dễ, mình đã thử nướng cả bánh nhân thập cẩm, nhân đậu truyền thống, bánh hiện đại nhân chảy đều ngon lành cả. Nên bạn nào không có lò nướng, muốn làm 1 mẻ bánh nhỏ cho gia đình thì cứ mạnh dạn “xông pha” với bánh Trung thu nhé.</span></p>
+<h2>CÁCH LÀM BÁNH TRUNG THU SỮA DỪA NƯỚNG BẰNG NỒI CHIÊN KHÔNG DẦU</h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu (cho 6 bánh 80 gram)</strong></span></p>
+<p><strong>A. Nhân sữa dừa sầu riêng</strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em><span style="font-weight: 400;">200 gram dừa tươi nạo sợi</span></em></li>
+<li><em><span style="font-weight: 400;">60 – 80 gram sữa đặc</span></em></li>
+<li><em><span style="font-weight: 400;">150 gram nước cốt dừa</span></em></li>
+<li><em><span style="font-weight: 400;">70 gram thịt sầu riêng tươi</span></em></li>
+<li><em><span style="font-weight: 400;">25 gram vừng trắng (đã rang chín)</span></em></li>
+<li><em><span style="font-weight: 400;">20 – 25 gram bột bánh dẻo</span></em></li>
+</ul>
+<p><strong>B. Vỏ bánh</strong></p>
+<ul>
+<li><em><span style="font-weight: 400;">80 gram nước đường</span></em></li>
+<li><em><span style="font-weight: 400;">10 gram lòng đỏ</span></em></li>
+<li><em><span style="font-weight: 400;">15 g dầu ăn</span></em></li>
+<li><em><span style="font-weight: 400;">110 – 120 gram bột mì đa dụng</span></em></li>
+</ul>
+<p><strong>C. Hỗn hợp quét mặt bánh</strong></p>
+<ul>
+<li><em><span style="font-weight: 400;">10 gram lòng đỏ (tận dụng số lòng đỏ còn thừa lúc trộn vỏ bánh)</span></em></li>
+<li><em><span style="font-weight: 400;">1 thìa cafe sữa tươi không đường</span></em></li>
+<li><em><span style="font-weight: 400;">½ thìa cafe dầu vừng</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/z238N55mD4A" width="560"></iframe></div>
+<p><strong>A. Nhân sữa dừa</strong></p>
+<ol>
+<li><span style="font-weight: 400;"> Ngâm dừa với sữa đặc và nước cốt dừa trong 45 – 60 phút.</span></li>
+<li><span style="font-weight: 400;"> Cho hỗn hợp dừa ngâm vào chảo, xào trên lửa nhỏ – vừa tới khi nước cạn gần hết.</span></li>
+<li><span style="font-weight: 400;"> Cho thịt sầu riêng vào đảo đều. Việc sên sầu riêng sẽ giúp nhân lâu bị thiu hơn. Cần cho sầu vào khi nước đã cạn bớt, nhân gần đạt, tránh sên sầu quá lâu sẽ làm sầu bị mất mùi.</span></li>
+<li><span style="font-weight: 400;"> Tiếp tục sên tới khi nhân khô ráo, chỉ còn lại 1 ít nước bám trên chảo thì cho vừng vào đảo đều. Tắt bếp.</span></li>
+<li><span style="font-weight: 400;"> Cho từ từ bột bánh bánh dẻo vào, trộn tới khi nhân dẻo quyện, khô ráo, có thể vê thành viên không chảy xệ thì dừng lại. </span></li>
+</ol>
+<p><span style="font-weight: 400;">Lưu ý: Cho bột bánh dẻo vào từ từ tới khi nhân đạt thì dừng lại, tránh cho quá nhiều làm nhân cứng và có nhiều mùi bột bánh dẻo.</span></p>
+<ol start="6">
+<li><span style="font-weight: 400;"> Cho nhân ra bát. Dùng nilon bọc thực phẩm cho kín mặt nhân. Để nguội hoàn toàn. Sau khi nhân nguội, có thể cho nhân vào tủ lạnh vài giờ cho nhân cứng và dễ thao tác hơn.</span></li>
+</ol>
+<p><span style="font-weight: 400;">Nhân bánh chưa dùng luôn có thể bảo quản trong ngăn mát tủ lạnh khoảng 2 – 3 ngày.</span></p>
+<p><strong>B. Trộn vỏ bánh, đóng bánh</strong></p>
+<p><span style="font-weight: 400;">– Thao tác và các lưu ý quan trọng khi làm vỏ bánh nướng, đóng bánh, nướng bánh đã được ghi rất chi tiết ở bài viết này, các bạn xem nhé:</span></p>
+<p><a href="/banh-trung-thu-nhan-thap-cam-nhan-sua-dua/"><span style="font-weight: 400;">/banh-trung-thu-nhan-thap-cam-nhan-sua-dua/</span></a></p>
+<p><span style="font-weight: 400;">– Nếu làm với nồi chiên không dầu, không nên làm bánh quá to, tránh việc bánh khó chín. Chỉ nên làm bánh trong khuôn 75 – 100 gram.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400;">* Lưu ý khi nướng bánh với nồi chiên không dầu:</span></p>
+<p><span style="font-weight: 400;">– Nếu bạn dùng NCKD loại không có chức năng tản nhiệt rất tốt, chỉ có nhiệt từ trên thổi xuống, khi nướng đồ ăn thường phải lật (thường là các nồi Trung Quốc, giá khá rẻ), thì nên nướng bánh ở trong một khuôn nhôm truyền nhiệt tốt (mình dùng khuôn nướng bánh gato). Khi nướng khuôn bánh nóng lên sẽ giúp phần đáy bánh tiếp xúc với khuôn chín đều mà không cần phải lật.</span></p>
+<p><span style="font-weight: 400;">– Nồi chiên không dầu thường nướng nhiệt thấp hơn lò, với bánh Trung thu chỉ nướng ở khoảng 150 – 160 độ C, làm nóng nồi trước 15 phút. </span></p>
+<p><span style="font-weight: 400;">+ Lần 1: Nướng ở khoảng 155 độ C trong 8 – 10 phút tới khi bánh chín, vỏ bánh chuyển đục hoàn toàn. Để bánh nguội hoàn toàn rồi quét mặt bánh. Trong thời gian đợi thì nướng luôn mẻ tiếp theo.</span></p>
+<p><span style="font-weight: 400;">+ Lần 2: Nướng ở khoảng 150 độ trong 4 – 5 phút tới khi bánh vàng. Tiếp tục lặp lại bước nướng này thêm 1 lần.</span></p>
+<p><span style="font-weight: 400;">– NCKD dễ làm bánh bị cháy, vì vậy cần theo dõi thường xuyên.</span></p>
+<p><span style="font-weight: 400;">– NCKD mỗi mẻ chỉ nướng được khoảng 3 – 4 cái bánh, sau khi được 1 mẻ thì mang đi nướng luôn, trong thời gian nướng thì tiếp tục đóng bánh, đợi mẻ đầu nướng xong thì nướng gối tiếp luôn mẻ 2. </span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

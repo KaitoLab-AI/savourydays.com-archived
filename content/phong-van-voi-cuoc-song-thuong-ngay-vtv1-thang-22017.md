@@ -1,0 +1,26 @@
+---
+title: "Phỏng vấn với “Cuộc sống thường ngày” VTV1 tháng 2/2017"
+date: "2017-02-11"
+slug: "phong-van-voi-cuoc-song-thuong-ngay-vtv1-thang-22017"
+categories: ["Chuyện hàng ngày"]
+tags: []
+image: ""
+description: ""
+---
+
+<p>Cuộc phỏng vấn được thực hiện với biên tập viên của chương trình “Cuộc sống thường ngày”, phát sóng trên VTV1 từ ngày mùng 6 Tết nhưng tới giờ mới đăng được phần clip cắt ra từ chương trình lên YouTube. Nhà mình nếu có ai muốn xem thì có thể xem trong link dưới hoặc vào YouTube của Savoury Days ạ.</p>
+<p>Mong là đầu năm đã có nhiều thứ để “khoe” như thế này thì trong năm nay sẽ tiếp tục có thêm nhiều thứ mới để khoe nữa :”&gt;</p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/-ADfHpahFpY" width="560"></iframe></div>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

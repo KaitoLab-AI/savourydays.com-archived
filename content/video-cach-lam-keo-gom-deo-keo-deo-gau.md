@@ -1,0 +1,63 @@
+---
+title: "[VIDEO] Cách làm kẹo gôm dẻo (kẹo dẻo gấu)"
+date: "2016-02-01"
+slug: "video-cach-lam-keo-gom-deo-keo-deo-gau"
+categories: []
+tags: []
+image: "/wp-content/uploads/2016/02/keo-deo-gau.jpg"
+description: "Kẹo gôm dẻo dai, đủ màu sắc và thơm ngọt mùi hoa quả hoàn toàn có thể tự làm tại nhà, rất nhanh và rất dễ nữa..."
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Mình thích những thứ dẻo dẻo, dai dai, giòn giòn, cho nên món kẹo này đương nhiên không thể bỏ qua. Cách tự làm món kẹo dẻo (gumdrops) này mình biết từ khá lâu rồi, nhưng đã từng khá là e ngại nó. Vì không nghĩ là nó có thể làm ra được thứ kẹo vừa dẻo, vừa dai vừa giòn kiểu  như kẹo gấu của Haribo chỉ với các nguyên liệu là gelatin, đường và nước. Mãi tới gần đây, vì trong nhà còn nhiều gelatin nên mới làm thử và quá là ngạc nhiên về thành quả luôn. So với món kẹo gấu dẻo rất nổi tiếng của Haribo thì kẹo này không hề thua kém về độ dai, giòn và dẻo. Ngoài điểm này ra thì tự làm kẹo ở nhà rất vui, rất rất vui, do có thể tạo ra bất kì mùi vị nào mà mình thích, từ các vị phổ thông như hoa quả, bạc hà, cà phê cho tới các vị hơi “quái chiêu” hơn một chút kiểu như vị rượu, vị kẹo bông gòn, vị red velvet cake :P</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/24658952411/" title="gummy candy recipe by LinhTrang9185, on Flickr"><img alt="gummy candy recipe" class="aligncenter" height="426" loading="lazy" src=" https://farm2.staticflickr.com/1598/24658952411_b4837e0030_z.jpg " width="640"/></a></p>
+<p>Thật ra so về mặt giá thành thì tự làm kẹo dẻo gôm ở nhà không rẻ hơn nhiều so với kẹo Haribo mua sẵn vì ngay cả ở bên này thì giá gelatin cũng khá đắt. Nhưng điều mà mình thích khi tự làm kẹo dẻo là có thể dùng nước hoa quả tươi cho nên kẹo ít nhiều cũng có chút vitamin chứ không phải chỉ toàn đường hoá học như kẹo mua từ hàng. Ngoài ra mình cũng có thấy người làm món kẹo này với đường ăn kiêng như Stevia nữa. Mình chưa kịp tự thử, nhưng nếu làm được ngon thì đúng là tốt hơn kẹo mua sẵn rất nhiều.</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p>Công thức dưới đây làm được 16 – 20 viên kẹo nhỏ, các bạn nhân công thức lên nếu muốn làm nhiều kẹo hơn nhé</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em>25 gram gelatin dạng bột hoặc lá </em></li>
+<li><em>70 ml (1/4 cup + 2 tsp) nước ở nhiệt độ phòng – để ngâm gelatin nở mềm </em></li>
+<li><em>110 gram đường (1/2 cup + 1 Tbsp)</em></li>
+<li><em>80 ml (1/3 cup) nước nóng – để nấu syrup đường </em></li>
+<li><em>5 ~ 10 ml nước cốt chanh vàng (1 ~ 2 tsp) – không bắt buộc </em></li>
+<li><em>các loại hương liệu và màu thực phẩm – xem lưu ý ở dưới </em></li>
+</ul>
+<ul>
+<li>Khuôn làm kẹo: dùng bất kì thứ gì bạn có sẵn: khuôn bánh, khuôn kẹo sô-cô-la, khay làm đá viên, hộp đựng thức ăn… loại silicon thì tốt hơn vì lấy kẹo ra dễ hơn</li>
+</ul>
+<p style="text-align: center;">Kẹo dẻo đủ vị: dâu tây (đỏ), cam (vàng tươi), chanh leo (vàng sậm), oải hương (tím), va-ni (xanh biển), bạc hà (xanh lá), cà phê (nâu đen)</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/24658957251/" title="gummy candy recipe by LinhTrang9185, on Flickr"><img alt="gummy candy recipe" class="aligncenter" height="426" loading="lazy" src=" https://farm2.staticflickr.com/1586/24658957251_5a0da2c138_z.jpg " width="640"/></a></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>Làm kẹo này rất đơn giản và dễ thành công nhưng có 1 vài lưu ý về nguyên liệu và cách làm như sau, các bạn đọc kĩ trước khi làm nhé:</p>
+<p>– <strong>Gelatin là gì, có an toàn không</strong>? Gelatin là một loại thực phẩm lành tính, về bản chất là colagen và được chiết xuất từ da lợn. Cho nên nhìn chung ăn Gelatin không có hại gì với sức khoẻ cả, cũng như ăn da/ bì lợn thôi (trừ trường hợp Gelatin không rõ nguồn gốc). Trong một số tài liệu mà mình đọc được thì Gelatin còn được sử dụng làm thực phẩm dinh dưỡng trong một vài chế độ ăn kiêng, hoặc dùng làm thuốc, có tác dụng đặc biệt tốt với da dẻ và bôi trơn các khớp. Liều lượng Gelatin cô đặc mà 1 người lớn có thể dùng trong 1 ngày (trong ngưỡng an toàn) là 20 – 30 gram, ăn hoặc uống trực tiếp cùng một lúc. So với lượng này thì trừ phi chúng ta ăn kẹo dẻo này thay cơm, còn lại thì có thể yên tâm nhé :)</p>
+<p>– <strong>Lưu ý</strong>: luôn phải hoà Gelatin trong nước ở nhiệt độ phòng để làm Gelatin nở mềm, rồi mới cho Gelatin vào nước nóng để Gelatin tan chảy.</p>
+<p>– <strong>Có thay Gelatin bằng bột rau câu Agar được không? </strong>Thứ nhất là không thay với lượng tương đương vào công thức trên được vì mình đã thử và bị hỏng. Thứ hai là vì bột rau câu cho sản phẩm đông dạng cứng giòn, còn Gelatin cho sản phẩm đông dạng dẻo dai, nên mình nghĩ khi thay thế gelatin bằng agar, chắc sẽ không ra được kẹo có kiểu dẻo tương tự.</p>
+<p>– Nếu muốn làm kẹo dẻo với nước hoa quả thì các bạn thay phần nước nóng trong công thức bằng nước hoa quả ép là được.</p>
+<p>– Nước chanh không bắt buộc nhưng nếu muốn kẹo có vị chua một chút thì nên cho vào (mình thấy kẹo hơi chua chua ngon hơn). Dùng chanh vàng để tránh bị đắng.</p>
+<p>– Các loại hương liệu và thực phẩm: không cần dùng nếu nấu với nước hoa quả tươi, còn nếu dùng nước trắng thì nên có, tối thiểu là nên cho va-ni, kẹo sẽ ngon hơn rất nhiều. Gelatin khi dùng với lượng lớn có mùi khá nặng nên nếu không có hương liệu thì kẹo khá dở.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>– Có thể <strong>thay đổi độ dẻo và cứng của kẹo dựa trên nguyên tắc</strong> sau: Càng nhiều gelatin so với nước thì kẹo càng dẻo và cứng. Nếu làm theo công thức trên mà bạn cảm thấy kẹo hơi cứng quá thì có thể rút ngắn thời gian đun nước đường (như mình có nói trong video), hoặc giảm bớt lượng gelatin hay tăng lượng nước trong công thức.</p>
+<p>– Kẹo để ở nơi càng lạnh thì càng cứng, vì vậy nên ở nhiệt độ phòng khoảng 20 độ C, kẹo sẽ mềm dẻo hơn khi vừa lấy ra khỏi tủ lạnh một chút. Nói chung ở nhiệt độ 20 – 23 độ C thì kẹo này có thể để ở nhiệt độ phòng thoải mái và không lo chảy. Nhưng cao hơn một chút thì mình không chắc chắn lắm. Kẹo có lớp đường bao ở ngoài sẽ giữ được lâu hơn.</p>
+<p>(*) Về cách làm: chi tiết các bước và các lưu ý đều đã có trong video đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank"><strong>kênh YouTube của Savoury Days</strong></a> (các bạn nhớ đăng kí/ subscribe kênh để nhận được thông báo ngay khi video mới vừa đăng nhé). Các bạn có thể xem cụ thể trong video dưới hoặc trực tiếp tại <a href="https://youtu.be/w4dOiiEDVP4" target="_blank"><strong>link này</strong></a>.</p>
+<p>Video có phụ đề tiếng Anh và tiếng Việt, các bạn có thể bấm nút CC và chọn Ngôn ngữ/ Language trong Setting để chọn phụ đề. Ngoài ra, nhớ chọn HD để xem video rõ nét và đẹp nhất nhé :)</p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/w4dOiiEDVP4" width="560"></iframe></div>
+<p>———</p>
+<p><strong>TÓM TẮT CÁC BƯỚC LÀM KẸO</strong></p>
+<p>1. Cho gelatin và phần nước để ngâm gelatin vào bát. Có thể cắt nhỏ lá gelatin để gelatin ngấm nước nhanh hơn. Nếu dùng gelatin bột, quấy đều cho gelatin hoà tan trong nước. Để 15 – 20 phút cho gelatin nở mềm.</p>
+<p>2. Trong khi đợi gelatin nở, cho đường và nước nóng hoặc nước hoa quả (không cần đun nóng trước) vào nồi. Đun sôi ở lửa to, vừa đun vừa quấy cho đường tan hết. Sau đó hạ lửa nhỏ nhất, đun liu riu 10 – 15 phút. Thời gian đun này không cố định, tuỳ vào việc bạn muốn kẹo dẻo nhiều hay ít (xem ghi chú ở trên). Nếu là làm lần đầu tiên, nên theo dõi độ đặc loãng của nước đường, nước đường càng đặc thì kẹo sẽ càng dẻo và cứng.</p>
+<p>3. Sau 15 phút, khi gelatin đã nở mềm thì cho vào nồi nước đường trên bếp, cho cả phần nước ngâm gelatin vào nồi. Quấy đều cho gelatin tan hết và hoà quyện vào nước đường. Nấu thêm 2 – 3 phút rồi tắt bếp. Nếu trời lạnh thì nên để nồi trên bếp để giữ ấm vì kẹo sẽ đông khá nhanh khi gặp nhiệt độ thấp.</p>
+<p>4. Đổ kẹo vào khuôn, để nguội rồi cho vào ngăn mát tủ lạnh, để kẹo đông hẳn trong tối thiểu 4h.</p>
+<p>5. Lấy kẹo ra khỏi khuôn. Kẹo rất dính nên dùng dao sắc, nhúng dao vào nước nóng để chống dính trước khi cắt kẹo.</p>
+<p>6. Cắt kẹo thành miếng nhỏ, có thể lăn kẹo qua đường (không bắt buộc). Khi lăn lưu ý là kẹo cần khô ráo nếu không sẽ làm đường vón cục. Để kẹo trên giá phơi ở nơi thoáng mát cho đường khô lại và dính vào kẹo, tạo thành 1 lớp mỏng đường bao quanh kẹo (thời gian phơi sẽ mất 1 – 2 ngày).</p>
+<p>Để kẹo trong lọ hay túi kín ở nơi thoáng mát, nếu có bọc đường thì kẹo sẽ dùng được trong vài tuần.</p>
+<p style="text-align: center;"><em>Phơi kẹo trên giá vì để trên đĩa kín thì phần mặt tiếp xúc với đĩa dễ bị chảy nước</em></p>
+<p><a href=" https://www.flickr.com/photos/savourydays/24384810609/" title="gummy candy recipe by LinhTrang9185, on Flickr"><img alt="gummy candy recipe" class="aligncenter" height="426" loading="lazy" src=" https://farm2.staticflickr.com/1612/24384810609_cf0e77539e_z.jpg " width="640"/></a></p>
+
+
+<p> </p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

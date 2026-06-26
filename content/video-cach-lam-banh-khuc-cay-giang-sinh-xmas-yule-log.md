@@ -1,0 +1,92 @@
+---
+title: "[VIDEO] Cách làm BÁNH KHÚC CÂY GIÁNG SINH – Xmas Yule log"
+date: "2018-12-21"
+slug: "video-cach-lam-banh-khuc-cay-giang-sinh-xmas-yule-log"
+categories: []
+tags: []
+image: "/wp-content/uploads/2018/12/cách-làm-bánh-khúc-cây-giáng-sinh-banner.jpg"
+description: "Tự làm bánh khúc cây giáng sinh tại nhà chưa bao giờ dễ dàng và đơn giản hơn, lại ngon hơn ngoài hàng rất nhiều nữa. Cách làm này mình đã có một số"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #000000;">Sau “tiết mục mở màn” cho chủ đề Giáng sinh ngày hôm qua với một menu đầy đủ các món chính với đồ ăn kèm, ngày hôm nay SD team xin gửi tới các bạn một món tráng miệng để hoàn thiện bữa ăn Giáng sinh của cả gia đình nhé! :)</span></p>
+<div class="" data-block="true" data-editor="e6dd7" data-offset-key="6j06b-0-0">
+<div class="_1mf _1mj" data-offset-key="6j06b-0-0"><span data-offset-key="6j06b-0-0" style="color: #000000;">Bánh cuộn khúc cây có lẽ là món tráng miệng quen thuộc nhất khi nhắc tới bữa tiệc Giáng sinh. Không hề khó làm nhưng lại cực kì “hiệu quả” nhờ hương vị thơm ngon và cả ý nghĩa từ “khúc củi” ấm trên bàn tiệc nữa. Trong không khí Giáng sinh tràn ngập khắp nơi, ngồi nhâm nhi miếng bánh với phần bạt chocolate mềm ẩm, tơi xốp, nhân kem tươi chocolate ngậy béo và lớp kem phủ chocolate ngọt ngào….kể cả không có một bữa tiệc giáng sinh nào đi chăng nữa thì chỉ riêng phần tráng miệng này thôi cũng đủ là “Perfect All-kill” rồi :-&gt;</span></div>
+</div>
+<div class="" data-block="true" data-editor="e6dd7" data-offset-key="6fn07-0-0">
+<div class="_1mf _1mj" data-offset-key="6fn07-0-0"><span data-offset-key="6fn07-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="e6dd7" data-offset-key="f7h4v-0-0">
+<div class="_1mf _1mj" data-offset-key="f7h4v-0-0"><span data-offset-key="f7h4v-0-0" style="color: #000000;">Công thức bánh khúc cây đã được chia sẻ tại blog từ lâu nhưng chưa có video hướng dẫn, nên năm nay, SD team làm video này như là một món quà Giáng sinh sớm gửi tặng các bạn. Mong rằng nó sẽ mang tới thật nhiều cảm hứng cho tất cả mọi người. Không hề khó làm đâu, nhưng đảm bảo là sẽ ngon hơn các khúc cây mua sẵn ngoài hàng nhiều đấy ;)</span></div>
+<div class="_1mf _1mj" data-offset-key="f7h4v-0-0"></div>
+</div>
+<h2>CÁCH LÀM BÁNH KHÚC CÂY GIÁNG SINH</h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong><span style="color: #000000;">A. Bánh cuộn socola</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">4 quả trứng gà (60 gram/quả nguyên vỏ hoặc 50 gram/quả tách vỏ)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">20 gram đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 gram dầu ăn</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 gram sữa tươi không đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">30 gram bột mì</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">20 gram bột ngô</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">10 gram bột cacao</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">¾ thìa cafe cream of tartar (½ + ¼ thìa cafe; có thể thay bằng nước cốt chanh hoặc dấm)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram đường (dùng để đánh bông lòng trắng)</span></em></li>
+</ul>
+<p><strong>B. <span style="color: #000000;">Kem phủ socola</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">160 gram socola (55 – 75% cacao)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">120 gram kem tươi (whipping cream với 30 – 40% béo)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">17 gram bơ động vật không muối (bơ Anchor, President…)</span></em></li>
+</ul>
+<p><strong>C. <span style="color: #000000;">Kem cuộn socola</span></strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">300 gram kem tươi (whipping cream với 30 – 40% béo) – để lạnh </span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">45 gram đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">25 gram bột cacao</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">Video cách làm món ăn này đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" rel="noopener noreferrer" target="_blank">kênh YouTube của Savoury Days.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo <a href="https://youtu.be/HpEuL5PNyhM" rel="noopener noreferrer" target="_blank"><strong>link này</strong></a> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="https://youtu.be/AhsvW5TjQfc" rel="noopener noreferrer" target="_blank">cách làm bánh flan này.</a> </strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"><div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/HpEuL5PNyhM" width="560"></iframe></div></span></p>
+<p><strong><span style="color: #000000;">A. Bánh cuộn socola</span></strong></p>
+<p><span style="color: #000000;">Mình dùng bạt bánh theo công thức <a href="/japanese-cotton-sponge-cake-hay-la-ga-to-nhat-ban-mem-nhu-bong-nhe-nhu-may/"><strong>gato Nhật Bản</strong></a> biến tấu bằng cách thêm bột cacao vào. Khi cuộn rất dễ, dù để nguội hẳn cũng không bị nứt gãy. Vị bánh bông xốp vừa phải, không đến mức quá mịn tan ngay trong miệng, cũng vì thế mà khi ăn cùng kem thấy rất cân bằng, không bị kiểu “chỉ thấy kem chẳng thấy bánh đâu” :D</span></p>
+<p><span style="font-weight: 400; color: #000000;">1. Làm nóng lò nướng ở 180℃, hai lửa. Lót giấy nến vào khay nướng để chống dính</span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Tách lòng đỏ và lòng trắng của 4 quả trứng sang 2 âu riêng.</span></p>
+<p><span style="font-weight: 400; color: #000000;">* Lưu ý: </span><span style="font-weight: 400; color: #000000;">Lòng trắng cần đánh bông nên không được để bị dính lòng đỏ. </span><span style="font-weight: 400; color: #000000;">Để an toàn, các bạn tách riêng lòng trắng vào bát nhỏ, nếu không bị dính lòng đỏ (bị vỡ ra) thì đổ vào âu lớn và tiếp tục tách quả tiếp theo bằng cách tương tự. Như vậy sẽ tránh được trường hợp đến quả trứng cuối cùng nhỡ lòng đỏ bị vỡ dính vào lòng trắng sẽ làm hỏng cả mẻ trứng. </span><span style="font-weight: 400; color: #000000;">Nếu lòng đỏ bị dính vào không đáng kể, có thể dùng vỏ trứng để hớt phần lòng đỏ ấy đi (dùng vỏ trứng dễ hơn nhiều so với dùng thìa).</span></p>
+<p><span style="font-weight: 400; color: #000000;">3. Cho 20 gram đường vào âu lòng đỏ, dùng phới lồng đánh đến khi trứng bông nhẹ và chuyển màu vàng nhạt.</span><span style="color: #000000;"> Cho tiếp dầu ăn và sữa tươi vào âu lòng đỏ, khuấy đều cho hòa quyện. Rây bột mì, bột ngô và bột cacao vào âu, tiếp tục khuấy đến khi được hỗn hợp mịn mượt, không vón cục.</span></p>
+<p><span style="font-weight: 400; color: #000000;">4. Cho vào âu lòng trắng nhúm muối nhỏ (khoảng ⅛ thìa cafe), đánh ở tốc độ thấp đến khi lòng trắng nổi bọt khí thì cho cream of tartar hoặc chanh/dấm vào, tiếp tục đánh đến khi bọt khí nhỏ lại, lòng trắng ở trạng thái hơi giống bọt xà phòng thì cho ½ số đường vào. Đánh tiếp thêm khoảng 30 giây rồi cho nốt chỗ đường còn lại, tăng tốc độ lên gần cao nhất và đánh đến bông cứng: lòng trắng bóng, dẻo, mịn, khi nhấc que lên có chóp nhọn và chóp này không bị oặt xuống.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400; color: #000000;">5. Lấy ¼ số lòng trắng cho vào hỗn hợp lòng đỏ, trộn nhẹ nhàng bằng phới cho lòng đỏ lỏng bớt ra, khi fold sẽ dễ hơn.</span></p>
+<p><span style="font-weight: 400; color: #000000;">6. Cho cho ½ số lòng trắng còn lại vào âu lòng đỏ, dùng phớt dẹt (spatula) fold đến khi lòng trắng hòa quyện. Làm tương tự với phần lòng trắng còn lại. Sau khi trộn xong, hỗn hợp bông mịn, không có bọt khí to, không bị loãng. Nếu hỗn hợp bị loãng thì bạn đã trộn quá mạnh hoặc trộn sai kĩ thuật làm vỡ bọt khí trong lòng trắng.</span></p>
+<p><span style="font-weight: 400; color: #000000;">7. Cho hỗn hợp bột vào khay nướng, dàn đều. Nướng bánh ở 175°C – 180°C trong 25 – 28 phút tới khi bánh nở phồng, ấn nhẹ tay lên mặt bánh thấy vết lõm lập tức phồng trở lại. Nhiệt độ và thời gian nướng có thể thay đổi tuỳ theo lò của bạn. Nếu là lò nhỏ dưới 40 lít, nên hạ nhiệt xuống khoảng 5 độ C và nướng lâu hơn một chút. </span></p>
+<p><span style="font-weight: 400; color: #000000;">Lưu ý: Không lấy bánh ra quá sớm, nếu bánh chưa chín hết thì hơi ẩm trong bánh sẽ kéo bánh bị xẹp, lõm. Tuy nhiên cũng không nướng bánh quá lâu, bánh sẽ bị khô, khi cuộn dễ nứt, gãy. </span></p>
+<p><span style="color: #000000;">8. Khi bánh chín, bánh ra khỏi khuôn và để nguội hoàn toàn trên rack.</span></p>
+<p><strong><span style="color: #000000;">B. Phần kem socola phủ bánh</span></strong></p>
+<p><span style="color: #000000;">Phần kem này mình có biến tấu so với các công thức trước đây. Kem socola bông đặc, khi trang trí sẽ đơn giản và đỡ vất vả hơn kha khá, và màu sắc thì cũng giống khúc cây thật hơn nữa :’&gt;</span></p>
+<p><span style="font-weight: 400; color: #000000;">1. Socola thái nhỏ, cho vào bát cùng với bơ và kem tươi.</span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Đun sôi lăn tăn nước trong một chiếc nồi có phần miệng nhỏ hơn đường kính của bát socola.</span></p>
+<p><span style="font-weight: 400; color: #000000;">3. Đặt bát socola lên nồi, khuấy đều cho đến khi socola chảy ra và hòa quyện hoàn toàn với bơ và kem tươi. Để socola nguội hoàn toàn.</span></p>
+<p><span style="font-weight: 400; color: #000000;">4. Khi socola đã nguội, dùng máy đánh trứng đánh ở tốc độ vừa đến khi phần kem socola bông đặc, chuyển màu nhạt hơn. Giữ lạnh phần kem này đến khi dùng.</span></p>
+<p><strong><span style="color: #000000;">C. Phần kem socola cuộn bánh</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Rây bột cacao và đường bột vào âu kem tươi, dùng máy đánh trứng đánh ở tốc độ thấp rồi tăng dần lên, đánh cho tới khi kem bông cứng, khi úp ngược âu kem không bị chảy xuống.</span></p>
+<p><span style="font-weight: 400; color: #000000;">Lưu ý: Không đánh quá lâu sẽ làm kem bị tách nước.</span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Giữ lạnh kem đến khi cần dùng.</span></p>
+
+
+<p><strong>D. <span style="color: #000000;">Cuộn bánh</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Khi phần bạt bánh đã nguội hoàn toàn, cắt bỏ phần rìa vì phần này thường bị khô, sẽ làm gãy bánh khi cuộn. Đặt bánh lên một tờ giấy nến to hơn. </span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Trét đều phần kem cuộn socola lên bánh. Lưu ý để chừa một khoảng 0.5 cm ở rìa hai bên và 2 – 3cm ở mép cuối cuộn bánh không có kem để khi cuộn phần kem thừa dồn ra là vừa. </span></p>
+<p><span style="font-weight: 400; color: #000000;">3. Nhẹ nhàng cuộn bánh lại, thao tác cần dứt khoát để tránh nứt gãy. </span></p>
+<p><span style="font-weight: 400; color: #000000;">4. Khi cuộn xong nếu phần kem bị chảy, có thể dùng nilon bọc thực phẩm bọc toàn bộ bánh và để vào tủ lạnh trong khoảng 1- 2 giờ cho bánh được định hình.</span></p>
+<p><strong><span style="color: #000000;">E. Trang trí bánh</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Dùng sao cắt vát phần đầu bánh, trét thêm một ít kem rồi dính phần cắt này vào thân bánh, tạo thành phần mấu cây.</span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Trét phần kem phủ socola lên phần ngoài bánh, không cần chăm chút quá vì kem xù xì một chút trông sẽ giống khúc cây thật hơn :’&gt; </span></p>
+<p><span style="color: #000000;"><span style="font-weight: 400;">3. Dùng dĩa tạo thành các đường vân gỗ trên “cây”, mọi người cỏ thể trang trí thêm bằng “nấm” làm từ lòng trắng trứng, cách làm cụ thể tại </span><span style="color: #0000ff;"><a href="/lam-nam-trang-tri-tu-long-trang-trung-meringue-mushrooms/" style="color: #0000ff;"><b>đây</b></a></span><b>. </b><span style="font-weight: 400;">Ngay trước khi ăn có thể rây một chút đường một lên bánh, trông sẽ giống tuyết rơi trên khúc cây.</span></span></p>
+<p><span style="font-weight: 400; color: #000000;">Chúc các bạn “đốn” được một “khúc củi” thật ngon để đón Giáng sinh ấm áp!</span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

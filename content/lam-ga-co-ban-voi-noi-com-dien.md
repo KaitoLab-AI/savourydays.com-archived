@@ -1,0 +1,130 @@
+---
+title: "Làm ga-tô cơ bản với nồi cơm điện"
+date: "2014-05-06"
+slug: "lam-ga-co-ban-voi-noi-com-dien"
+categories: []
+tags: []
+image: "/wp-content/uploads/2014/05/GateauNoicomdien.jpg"
+description: "cách làm bánh ga-tô, làm bánh bằng nồi cơm"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #ff0000;"><strong>Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi.</strong></span></p>
+<p>———————-</p>
+<p>Mình đã luôn nghĩ rằng: để nướng bánh thì cần phải có lò. Vì vấn đề không phải là “nướng được” mà là “nướng được bánh ngon”. Những dụng cụ như lò vi sóng, nồi thủy tinh, nồi nướng… mặc dù đúng là có thể nướng được, nhưng thường bánh ra lò sẽ có khuyết điểm nào đó, hoặc thậm chí là hỏng hoàn toàn. Nên câu trả lời từ trước đến giờ của mình với các bạn thường đều là: “<em>chỉ nướng bánh được bằng lò nướng thôi nhé</em>!”. Nhưng mà, từ sau khi tự “trồng” bánh trong nồi cơm điện thì suy nghĩ của mình có thay đổi kha khá :)</p>
+<p>Công bằng mà nói thì nồi cơm điện đương nhiên không thể so với lò trong khoản bánh trái với một số lí do như:</p>
+<ul>
+<li>Lò có thể nướng được mọi loại bánh, nồi cơm chỉ nướng được một số rất ít loại, đa phần là ga-tô.</li>
+<li>Bánh nướng trong lò thường tơi xốp hơn so với bánh làm từ nồi cơm điện.</li>
+<li>Bánh nướng trong lò thường thơm và ít bị mùi tanh của trứng hay mùi khai của bột nở hơn bánh làm từ nồi cơm điện.</li>
+</ul>
+<p>Nhưng nướng bánh bằng nồi cơm điện cũng có một số ưu điểm. Nhất là nếu lò nướng có vấn đề về nhiệt độ và hay làm bánh bị xẹp, lõm, thì nướng bằng nồi cơm rất nhàn. Vì chỉ cần chọn được công thức tốt, là sẽ có bánh ăn, khả năng bánh xẹp thấp. Bánh làm với nồi cũng thường ẩm hơn, ít có nguy cơ bị khô nếu lỡ nướng quá lâu như lò.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Ngoài ra, so với lò vi sóng hay nồi nướng thì làm bánh với nồi cơm điện có khả năng thành công cao hơn cả. Do nhiệt độ của nồi cơm điện khó có thể lên quá cao như nồi nướng hay lò vi sóng, nhiệt tỏa bên trong cũng đều hơn, làm cho nhiệt trên mặt và nhiệt dưới đáy bánh không chênh nhau quá nhiều nên bánh chín đều hơn. Vì vậy, nếu chưa có điều kiện sắm lò nướng thì mình nghĩ tận dụng nồi cơm điện để làm bánh cũng là phương án không tệ.</p>
+<p>Không phải bánh nào cũng có thể nướng trong nồi cơm điện. Nhìn chung, <em>những cốt bánh có tỉ lệ bột so với chất lỏng cao (nhiều bột và ít chất lỏng) sẽ hợp để nướng trong nồi cơm điện hơn</em>. Vì đây là bài viết đầu tiên về làm bánh với nồi cơm điện, nên mình chọn Gateau cơ bản (Sponge cake) để giới thiệu. Lý do không chỉ vì đây là loại bánh dễ thành công với nồi cơm, mà nó còn là loại bánh khá đơn giản, không đòi hỏi nhiều nguyên liệu cầu kì. Cách làm cũng không quá phức tạp. Trong các bài viết tiếp theo, mình sẽ giới thiệu dần một số loại bánh khác với độ khó tăng dần, để các bạn có thêm lựa chọn nhé.</p>
+<p style="text-align: center;"><em><strong>Tres leche cake với cốt bánh làm từ nồi cơm điện</strong></em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14122655895/" title="IMG_6572-1 by LinhTrang9185, on Flickr"><img alt="IMG_6572-1" class="aligncenter" height="500" loading="lazy" src="https://farm8.staticflickr.com/7367/14122655895_14fb606904.jpg" width="470"/></a></p>
+<p>Ga-tô cơ bản – theo công thức truyền thống nhất – chỉ yêu cầu 3 nguyên liệu: Bột mì, đường và trứng. Câu hỏi đầu tiên mà các bạn có thể thắc mắc là: “Không có bột nở thì bánh có nở được không?”. Câu trả lời là: “Có!”. Bởi vì trứng là một thứ nguyên liệu kì diệu. Điều kì diệu đấy là ở chỗ khi các bạn đánh liên tục với phới lồng, trứng sẽ không còn ở dạng loãng nữa mà từ từ bông và phồng lên. Trong trứng đánh bông này có chứa rất nhiều bọt khí nhỏ li ti. Và khi gặp nhiệt nóng, không khí bên trong các lỗ khí này sẽ giãn nở, dẫn đến sự kì diệu tiếp theo là bánh chẳng có tí nào bột nở mà vẫn phồng to ngon lành :)</p>
+<p>Như vậy, nếu muốn bánh nở được, chúng ta cần có nhiều bọt khí bên trong bạt bánh. Và để đảm bảo có đủ số bọt khí này thì <strong><em>khi làm bánh có 2 điều quan trọng sau đây mà các bạn cần chú ý</em></strong>:</p>
+<ol>
+<li><strong>Đánh bông trứng đạt</strong>: để không những có nhiều bọt khí mà các bọt khí này còn ổn định và đều nhau. Bọt khí ổn định sẽ ít bị vỡ khi trộn với bột. Bọt khí đều nhau sẽ giúp cho thớ bánh mịn màng hơn.</li>
+<li><strong>Trộn bột với trứng đúng cách</strong>: Do các bọt khí rất mỏng manh và dễ vỡ, nên nếu trộn sai cách, bạn hoàn toàn có thể làm vỡ những bọt khí này. Kết quả là vì thiếu bọt khí nên bánh sẽ nở kém hoặc không nở được.</li>
+</ol>
+<p>Để đạt được hai điều này cũng không phải là quá khó. Chỉ cần các bạn đọc kĩ các hướng dẫn trong phần công thức dưới đây, và cố gắng làm theo nó, mình tin là các bạn sẽ có một chiếc bánh thành công với nồi cơm điện :)</p>
+<p>Bắt đầu nhé! :)</p>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Nồi cơm điện, giấy nướng bánh (hoặc giấy trắng tinh), cân, rây bột, phới lồng, phới trộn dẹt (spatula), máy đánh trứng.</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<ul>
+<li><em>3 trứng gà (60gr/ quả – cả vỏ)</em></li>
+<li><em>80 gram đường – <strong>rây mịn </strong></em></li>
+<li><em>90 gram bột mì đa dụng – <strong>rây mịn </strong></em></li>
+</ul>
+<p>(*) <strong>Lưu ý trọng lượng của trứng gà</strong>, nếu dùng trứng nhỏ thì cần thêm trứng để đủ 150 – 160 gram trứng (3 quả, không tính vỏ).</p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Chuẩn bị nồi cơm điện. Nếu nồi không chống dính, có thể dùng bơ quét một lớp mỏng lên đáy và thành trong của nồi. Rắc một lớp bột mỏng lên bơ rồi úp nồi, gõ nhẹ để bột thừa rơi ra ngoài. Cách này sẽ giúp chống dính cho nồi.</p>
+<p>Nên lót 1 – 2 lớp giấy nướng bánh (giấy nến) hoặc giấy trắng (như giấy A4) xuống đáy nồi, khi bánh chín lấy ra sẽ dễ hơn. Mình thường lót 2 lớp giấy nến để hạn chế việc đế bánh bị cháy do nhiệt ở đáy nồi quá nóng.</p>
+<p>2. Chuẩn bị 1 nồi nhỏ có đựng chút nước và 1 âu đánh trứng. Yêu cầu: <em>Miệng nồi nhỏ hơn miệng âu, đủ để có thể đặt âu lên miệng nồi và đáy âu không chạm nước</em>. Đun sôi nước trong nồi. Trong khi đợi nước sôi thì đập trứng và rây đường vào âu.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13936027918/" title="IMG_5050 by LinhTrang9185, on Flickr"><img alt="IMG_5050" class="aligncenter" height="333" loading="lazy" src="https://farm6.staticflickr.com/5483/13936027918_211b49ba8e.jpg" width="500"/></a></p>
+<p>3. Khi nước trong nồi sôi, hạ lửa đủ để nước sôi lăn tăn. Đặt âu lên miệng nồi, dùng phới lồng quấy đều và liên tục. Âu sẽ từ từ ấm dần giúp cho trứng bên trong ấm nóng hơn. Cần <strong><em>phải quấy liên tục để tránh cho trứng bị nóng quá sẽ bị chín</em></strong> (nhất là khi âu làm bằng kim loại và dẫn nhiệt nhanh). Khi trứng đạt khoảng 60 – 70 độ C (sờ tay vào thấy rất nóng) thì bắc âu ra khỏi nồi.</p>
+<p>(*) Không nhất thiết phải thực hiện bước này. Tuy nhiên, trứng ấm thường bông tốt hơn rất nhiều, bọt khí cũng ổn định hơn.</p>
+<p>4. Đánh bông trứng và đường: Đặt máy đánh trứng ở tốc độ thấp, từ từ tăng dần lên cao nhất. Trứng sẽ biến đổi như sau</p>
+<p>Ban đầu trứng loãng, có bọt khí to</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13935994879/" title="IMG_5052 by LinhTrang9185, on Flickr"><img alt="IMG_5052" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7436/13935994879_8cfc04cda0.jpg" width="500"/></a></p>
+<p>Trứng từ từ đặc dần, thể tích tăng lên, bông hơn, bọt khí nhỏ dần</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14119349891/" title="IMG_5054 by LinhTrang9185, on Flickr"><img alt="IMG_5054" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7345/14119349891_f5bfb4b7b8.jpg" width="500"/></a></p>
+<p>Bọt khí nhỏ hơn, trứng mịn hơn. Ở bước này, có thể hạ tốc độ máy xuống mức vừa.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14142727243/" title="IMG_5055 by LinhTrang9185, on Flickr"><img alt="IMG_5055" class="aligncenter" height="334" loading="lazy" src="https://farm8.staticflickr.com/7373/14142727243_5e18d5d576.jpg" width="500"/></a></p>
+
+
+<p>Trứng rất bông, màu vàng nhạt. Bọt khí rất nhỏ và mịn, gần như xà phòng giặt hoặc có thể hầu như không thấy bọt khí nữa. Đến đây thì các bạn hạ máy đánh trứng xuống tốc độ chậm. Đánh thêm khoảng 3 – 5 phút tùy theo công suất máy, đến khi <em>trứng rất mịn, hoàn toàn không thấy bọt khí. Trứng đặc, khi nhấc que đánh lên thấy trứng rơi xuống đều và chậm, mất khoảng 10 – 20 giây mới hòa tan hết vào hỗn hợp trứng trong âu.</em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13936025758/" title="IMG_5058 by LinhTrang9185, on Flickr"><img alt="IMG_5058" class="aligncenter" height="334" loading="lazy" src="https://farm8.staticflickr.com/7415/13936025758_29c207e8ef.jpg" width="500"/></a></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13935993049/" title="IMG_5060 by LinhTrang9185, on Flickr"><img alt="IMG_5060" class="aligncenter" height="334" loading="lazy" src="https://farm8.staticflickr.com/7374/13935993049_2acb5ab250.jpg" width="500"/></a></p>
+<p>(*) <em><strong>Đánh bông trứng là khâu đặc biệt quan trọng trong khi làm Gateau cơ bản</strong></em>. Trứng bông tốt sẽ giúp tạo nhiều bọt khí và bọt khí ổn định. Hơn nữa, nếu trứng được đánh bông đủ thì khi trộn bột, dù có hơi mạnh tay hoặc trộn chưa thật đúng kĩ thuật, bọt khí bị vỡ cũng sẽ ít hơn, giúp giảm khả năng bánh bị chai hoặc nở kém.</p>
+<p>Vì lí do trên nên khi đánh bông trứng, cần kiên nhẫn và đánh đến khi trứng bông đạt. Trứng đánh nguyên quả theo cách này càng đánh sẽ càng đặc, nên sẽ không lo việc đánh trứng quá lâu làm trứng bị hỏng như khi đánh lòng trắng trứng. Vì vậy, <strong>nếu chưa chắc chắn là trứng đã đủ bông, nên đánh thêm một vài phút, đánh lâu sẽ tốt hơn là đánh “non”.</strong></p>
+<p><em><strong>Thời gian đánh trứng sẽ dao động tùy vào một số yếu tố sau:</strong></em></p>
+<ul>
+<li><strong>Số lượng và độ tươi của trứng</strong>: Đánh nhiều trứng sẽ mất thời gian hơn đánh ít trứng. Trứng tươi sẽ bông nhanh và ổn định hơn trứng cũ.</li>
+<li><strong>Công suất máy</strong>. Với máy đánh trứng cầm tay có hai que đánh, công suất 550W, mình đánh mất khoảng 12 – 15 phút. Với máy để bàn, công suất 900W, mình đánh mất khoảng 8 – 10 phút. Hi vọng dựa vào hai mức thời gian này, các bạn có thể suy ra được thời gian đánh trứng cho máy của bạn.</li>
+<li><strong>Cách đánh trứn</strong>g: Nếu dùng máy cầm tay, khi đánh nên di chuyển cho que đánh chạy vòng quanh âu, trứng sẽ bông nhanh hơn là que đánh chỉ đứng nguyên một chỗ. Ngoài ra, sau khi bọt khí đã nhỏ mịn, nên hạ tốc độ máy xuống thấp vì đánh ở tốc độ cao ở thời điểm này sẽ tạo bọt khí to. Tốc độ chậm cũng giúp các bọt khí trong trứng ổn định và đều hơn.</li>
+</ul>
+<p><em><strong>Có thể đánh trứng bằng tay hay không</strong></em>? Câu trả lời là <em>được nhưng cần lực đánh mạnh và liên tục</em>. Ngoài ra, đánh có thể sẽ mất rất nhiều thời gian. Đặc biệt với các bạn chưa có nhiều kinh nghiệm làm bánh thì dùng máy đánh trứng khả năng thành công sẽ cao hơn nhiều.</p>
+<p>5. Rây và trộn bột: Chia bột thành 3 – 4 phần. Rây từng phần vào âu, sao cho bột phủ đều khắp mặt âu.. Trộn theo kỹ thuật fold: cắm phới dẹt (spatula) lún sâu vào trứng, gần chạm đáy âu rồi đảo và hất lên để trứng phủ lên bột, không quấy vòng tròn. Các bạn có thể xem thêm video minh họa cách trộn kiểu fold tại <a href="https://www.youtube.com/watch?v=vP4vbktd-PM"><strong>ĐÂY (từ giây thứ 20)</strong></a>.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14119348601/" title="IMG_5062 by LinhTrang9185, on Flickr"><img alt="IMG_5062" class="aligncenter" height="334" loading="lazy" src="https://farm3.staticflickr.com/2901/14119348601_f27c1d4743.jpg" width="500"/></a></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13935992509/" title="IMG_5063 by LinhTrang9185, on Flickr"><img alt="IMG_5063" class="aligncenter" height="334" loading="lazy" src="https://farm8.staticflickr.com/7335/13935992509_c53d91beef.jpg" width="500"/></a></p>
+<p>Khi trộn cố gắng làm nhanh và nhẹ tay, tránh trộn quá mạnh, quấy đảo nhiều làm vỡ bọt khí và trứng xẹp.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14122979444/" title="IMG_5065 by LinhTrang9185, on Flickr"><img alt="IMG_5065" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7349/14122979444_03a840d325.jpg" width="500"/></a></p>
+<p>Nếu đánh trứng tốt và trộn đúng, sau khi trộn xong, hỗn hợp sẽ dẻo và cảm giác nặng tay hơn do nhiều bột, nhưng vẫn bông và rất mịn, hầu như không có bọt khí to. Trong hình dưới là hỗn hợp sau khi trộn hết bột.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/13936036480/" title="IMG_5068 by LinhTrang9185, on Flickr"><img alt="IMG_5068" class="aligncenter" height="334" loading="lazy" src="https://farm8.staticflickr.com/7442/13936036480_8095a69a9c.jpg" width="500"/></a></p>
+<p>6. Đổ bột vào nồi. Gõ nhẹ nồi xuống mặt bàn vài cái để các bọt khí to (nếu có) vỡ bớt. Đặt vào nồi cơm điện. Bật nút Cook (Nấu).</p>
+<p>Cơ chế hoạt động của nồi cơm điện là sẽ làm nóng ở chế độ Cook đến một mức nhất định (nước cạn, cơm chín) thì chuyển sang chế độ Warm (giữ ấm). Thường thì nhiệt độ ở chế độ Warm này khá thấp, sẽ không đủ để “kích” các hơi khí trong bánh phồng to, giúp cho bánh nở. Cũng không đủ để làm cho bánh chín hẳn và cứng cáp. Vì vậy nên khi nướng bánh bằng nồi cơm điện, cần <strong><em>lưu ý điều chỉnh chế độ Cook &amp; Warm sao cho có đủ nhiệt nướng bánh, không để nhiệt độ xuống quá thấp (có thể sẽ làm cho bánh xẹp ngay từ trong nồi)</em>.</strong></p>
+<p>Mình lấy ví dụ như nồi cơm nhà mình thì nướng bánh như sau:</p>
+<ul>
+<li>Cho bánh vào nồi, bật Cook. Nồi ở chế độ Cook khoảng 3 – 5 phút thì chuyển sang chế độ Warm</li>
+<li>Để chế độ Warm khoảng 7 – 8 phút, bật trở lại chế độ Cook.</li>
+<li>Nồi ở chế độ Cook khoảng 2 phút thì tự động chuyển về chế độ Warm.</li>
+<li>Đợi tiếp 7 – 8 phút rồi bật trở lại chế độ Cook.</li>
+</ul>
+<p>Quá trình trên được lặp lại thêm 2 lần nữa. Như vậy sau lần bật Cook đầu tiên thì có thêm 3 lần bật Cook nữa, mỗi lần cách nhau khoảng 10 phút (3 phút ở chế độ Cook + 7 phút ở chế độ Warm). .</p>
+<p>Có khoảng đợi 7 phút vì nồi cơm của mình khi chuyển sang Warm thì không thể bật lại Cook được. Nhưng khoảng chờ này khá tốt vì nó giúp cho nhiệt độ trong nồi cơm được ổn định, không để nhiệt trong nồi quá nóng. Nếu bật Cook liên tục, nồi cơm làm nóng liên tục, có thể sẽ làm cho phần đáy của bánh cháy nhanh, đồng thời bánh nở rất nhanh trong khi kết cấu chưa kịp vững chắc, làm cho bánh xẹp ngay từ trong nồi.</p>
+<p>Số lần chuyển Cook – Warm này có thể thay đổi tùy theo loại nồi. Thời gian chờ cũng có thể thay đổi. Nhưng <em><strong>trong khoảng 20 – 25 phút đầu tiên, không được mở nồi vì nhiệt độ thay đổi đột ngột sẽ làm bánh xẹp</strong></em>. Sau lần chuyển Warm thứ 3, các bạn có thể kiểm tra xem thử bánh chín chưa, bằng cách ấn ngón tay lên mặt bánh. Nếu vết lõm phồng trở lại là bánh đã gần chín.</p>
+<p>Như với nồi của mình thì sau 40 phút (sau lần chuyển Cook – Warm thứ 4), mình đợi thêm 3 – 5 phút. Khi này bánh co bớt lại và tự róc khỏi thành nồi. Đây cũng là dấu hiệu của việc bánh đã chín. Và việc cuối cùng là lấy bánh ra, đặt bánh lên khay có khe hở, bóc phần giấy lót ở đế bánh cho bánh thoát hơi nước và nguội hẳn.</p>
+<p>Mặt cắt của bánh sau khi đã nguội.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14122656965/" title="IMG_5074 by LinhTrang9185, on Flickr"><img alt="IMG_5074" class="aligncenter" height="334" loading="lazy" src="https://farm6.staticflickr.com/5225/14122656965_eed70d5b8e.jpg" width="500"/></a></p>
+<p>Cốt Gateau cơ bản nướng bằng nồi cơm điện này khá ngon. Bánh xốp, mềm, và khá ẩm nhờ nướng bằng nồi. Bánh co lại nhưng không bị lõm mặt, xẹp hoặc thắt eo. Bánh có thể hơi có mùi tanh khi mới lấy ra khỏi nồi, nhưng khi nguội sẽ hết. Bánh có thể dùng làm cốt bánh kem với các loại kem trang trí khác nhau như <a href="/mini-cakes-cach-danh-bong-kem-tuoi-cong-thuc-chocolate-ganache/">kem tươi đánh bông</a>, kem topping, <a href="/trang-tri-banh-kem-bo-kieu-thuy-sy-voi-long-trang-trung-swiss-buttercream/">kem bơ</a>. Một số công thức bánh tại SD có thể ứng dụng với cốt gateau cơ bản kiểu này là:</p>
+<ul>
+<li><a href="/tiramisu-cake-tiramisu-khong-trung/" target="_blank">Tiramisu cake</a></li>
+<li><a href="/ga-to-kem-sua-tres-leches-cake/" target="_blank">Tres leche cake</a></li>
+<li><a href="/summer-berry-sponge-cake-gateau-dau-va-kem-tuoi/" target="_blank">Gateau dâu &amp; kem tươi </a></li>
+<li><a href="/banh-phu-si-va-cach-lam-banh-ga-to-voi-noi-hap-2/" target="_blank">Bánh phú sỹ</a></li>
+</ul>
+<p style="text-align: center;"><strong>Tres leche cake với dâu tây &amp; chocolate</strong></p>
+<p style="text-align: left;"><a href="https://www.flickr.com/photos/55490207@N05/13935990839/" title="IMG_6566-1 by LinhTrang9185, on Flickr"><img alt="IMG_6566-1" class="aligncenter" height="640" loading="lazy" src="https://farm8.staticflickr.com/7405/13935990839_2a1067724b_z.jpg" width="449"/></a></p>
+<p style="text-align: left;"><span style="color: #ff0000;"><strong>MỘT VÀI LƯU Ý THÊM &amp; CÁC THẤT BẠI CÓ THỂ GẶP – NGUYÊN NHÂN &amp; CÁCH KHẮC PHỤC</strong></span></p>
+<p style="text-align: left;">1. Nồi cơm của mình khá nhỏ, đường kính 16 cm, với công thức 3 trứng bánh ra khỏi nồi cao khoảng 5,5cm. Nếu dùng nồi to hoặc nhỏ hơn, và muốn giữ nguyên độ cao của bánh thì sẽ cần tăng hoặc giảm các nguyên liệu trong công thức bằng cách: tính tỉ lệ diện tích của nồi mà bạn dùng với nồi của mình (16cm). Sau đó, cùng tăng hoặc giảm các nguyên liệu trong công thức theo tỉ lệ diện tích này.</p>
+<p style="text-align: left;">2. Thời gian nướng và số lượng các lần chuyển từ Warm sang Cook có thể thay đổi tùy theo loại nồi và theo độ cao của bánh trong nồi. Nguyên tắc chung là: <strong><em>bột bánh trong nồi càng cao (bánh càng cao) thì thời gian nướng càng lâu và ngược lại</em></strong>. VD: Mình nướng công thức 3 trứng trong nồi đường kính 16cm mất 45 – 50 phút. Nếu bạn nướng cùng ct 3 trứng nhưng trong nồi đường kính 20cm thì thời gian nướng có thể sẽ giảm chỉ còn 30 – 35 phút.</p>
+<p style="text-align: left;"><span style="text-decoration: underline;"><strong>Lưu ý:</strong></span> <em>với các nồi to, không nên nướng bánh quá cao (đổ nhiều bột) vì phần giữa bánh có thể chín chậm trong khi thành bánh đã chín, khô cứng hoặc cháy. Dẫn đến hậu quả là phần giữa bánh bị bết, còn mùi tanh hoặc bánh bị lõm mặt</em>.</p>
+<p style="text-align: left;">3. Thường thì bánh sẽ hết mùi tanh của trứng khi nguội, nhưng để bánh thơm hơn, có thể sử dụng một chút Vanilla. Cho Vanilla vào đánh cùng trứng. Nhưng nên cẩn thận khi dùng vanilla nhân tạo/ vanilla hóa học vì có thể sẽ tạo vị đắng. Tốt nhất là dùng Vanilla chiết xuất tự nhiên.</p>
+<p style="text-align: left;">4. Hai thất bại thường gặp nhất khi làm bánh bằng nồi cơm điện là bánh bị cháy hoặc bánh bị xẹp.</p>
+<p style="text-align: left;">Với trường hợp 1, có thể do nhiệt trong nồi cơm của bạn quá cao. Có thể khắc phục bằng cách lót giấy ở thành và đáy khuôn. Và giãn thời gian chuyển từ Warm sang Cook.</p>
+<p style="text-align: left;">Với trường hợp 2, có thể do một số nguyên nhân như:</p>
+<ul style="text-align: left;">
+<li>do công thức (ít bột, nhiều chất lỏng)</li>
+<li>đánh bông trứng hoặc trộn bột chưa đúng (sau khi trộn bột xong thì bột loãng và lỏng, có nhiều bọt khí to, bánh nở kém hoặc không nở được, mặt bánh lỗ chỗ)</li>
+<li>mở nồi cơm quá sớm</li>
+<li>nhiệt độ trong nồi quá cao và liên tục cao trong một thời gian dài (vd liên tục ở trạng thái Cook…)</li>
+<li>lấy bánh ra khỏi nồi quá sớm, khi bánh chưa chín hẳn</li>
+</ul>
+<p style="text-align: left;">Chúc các bạn sẽ có những chiếc bánh gateau vàng ươm, xốp mềm và thơm phức từ nồi cơm điện của gia đình. Bài tiếp theo mình sẽ giới thiệu công thức Genoise và Chocolate Genoise làm bằng nồi cơm điện nhé.</p>
+<p style="text-align: left;">————————–</p>
+<p style="text-align: left;"><span style="color: #ff0000;"><strong>Vui lòng đọc kĩ bài viết và các phản hồi cũ trước khi đặt câu hỏi. Nếu có thất bại hoặc bánh chưa được vừa ý, các bạn có thể chụp hình và gửi cho mình xem, có hình thì nhận xét sẽ dễ hơn là nghe mô tả hiện tượng.</strong></span></p>
+<p style="text-align: left;">————————–</p>
+<p style="text-align: left;">Các bài khác trong loạt bài làm bánh bằng nồi cơm điện</p>
+<ul>
+<li><a href="/lam-banh-bang-noi-com-dien-genoise-chocolate-genoise/">Genoise &amp; Chocolate Genoise</a></li>
+</ul>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

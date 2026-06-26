@@ -1,0 +1,118 @@
+---
+title: "Cách làm Papparoti/ Mexican Buns/ Coffee Buns/ Rotiboy"
+date: "2012-04-26"
+slug: "papparoti-mexican-buns-coffee-buns-rotiboy"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/04/Papparoti.jpg"
+description: "Video hướng dẫn cách làm bánh mì cà phê với phần ruột bánh thơm mềm mịn và lớp vỏ cà phê giòn tan."
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #ff0000;"><em>Các kiến thức và kĩ thuật cơ bản trong làm bánh mì (<span style="text-decoration: underline;"><strong>nhờ cả nhà đọc kĩ trước khi đặt câu hỏi nha</strong></span> :) )</em></span></p>
+<ol>
+<li>Phân biệt các loại bột làm bánh, cách sử dụng, thay thế các loại bột : <a href="/?p=1997">Phần 1</a> – <a href="/?p=2022">Phần 2</a></li>
+<li><a href="/?p=2068">Các chất gây nở (men nở, bột nở, muối nở..) – Phân loại, cách thay thế &amp; các lưu ý khi sử dụng</a></li>
+<li><a href="/?p=2138">Phân loại bánh mỳ – Hai phương pháp trộn bột bánh mỳ cơ bản và vài dòng chia sẻ</a></li>
+<li><strong>Làm bánh mỳ – Quy trình cơ bản và các lưu ý</strong>
+<ul>
+<li><a href="/?p=2277">Phần 1: Các bước làm bánh mỳ cơ bản &amp; Các chú ý về nguyên liệu</a></li>
+<li><a href="/?p=2293">Phần 2: Cách nhào/ nhồi bột </a></li>
+<li><a href="/?p=2332">Phần 3: Cách ủ bột, tạo hình, nướng bánh và bảo quản</a></li>
+</ul>
+</li>
+</ol>
+<p style="text-align: center;">—————————————————–</p>
+<p>Hồi mình về nhà chơi cách đây 2 năm thì Papparoti đang rộ lên như là “mốt”, người người ăn Papparoti, nhà nhà làm Papparoti, đi mua nhiều khi cũng phải đứng xếp hàng, khổ như con hổ :P Nhưng mà hồi đấy mình không có nhiều ấn tượng với Papparoti lắm, có lẽ lí do lớn nhất là cảm giác cái bánh không xứng đáng với số tiền bỏ ra để mua nó (và tự làm rồi thì thấy đúng là nó không đáng thật :D). Lần này làm Papparoti là do… ham chơi, vì Papparoti là chủ đề của <a href="http://www.webtretho.com/forum/f215/baking-challenge-phan-7-lam-banh-don-giang-sinh-va-nam-moi-2012-a-1021650/index133.html">Baking Challenge 31</a>. Thêm nữa là đợt vừa rồi thời tiết bên mình cũng xấu, nên chỉ tưởng tượng ra cảnh buổi tối bên ngoài mưa lạnh, trong bếp sực nức mùi cà phê với bơ thơm ngậy từ lò nướng là đã thấy muốn lăn ngay vào bếp rồi :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7106267059/" title="IMG_3798-1 by LinhTrang9185, on Flickr"><img alt="IMG_3798-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8146/7106267059_07cd3349ab_z.jpg" width="436"/></a></p>
+<p>Công thức Papparoti của Baking Challenge lần này do <strong><a href="http://denkhonghatbong.wordpress.com/">chị luongtam</a></strong> giới thiệu, bánh ngon và dễ làm. Mình sau lần thứ nhất làm để trả bài cho Baking Challenge thì có đổi công thức và dùng công thức milk bun để làm do mình thích bánh ẩm hơn một chút (do khẩu vị cá nhân thôi) và tăng thêm ít bột trong phần topping, cho thêm bột cacao nữa. Điểm mà mình thích nhất ở Papparoti có lẽ là phần vỏ vì mình chỉ thích mùi cà phê thôi, còn uống thì mình không uống được nên các loại bánh có phần vỏ thơm lừng mùi cà phê như thế này (nhưng lại không có vị đắng như nước cà phê) quả thật là rất hợp ý :)</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>(*) <span style="background-color: #ff0000;"><strong>Cập nhật</strong></span>: <span style="color: #0000ff;">Tháng 11/2015 mình đã quay lại video hướng dẫn cụ thể các bước làm Papparoti. Đồng thời, dựa vào các kinh nghiệm mà mình đã thu được trong khoảng thời gian vừa qua, mình cũng chỉnh sửa lại công thức và các bước làm một chút. Mình cập nhật lại công thức mới trong bài này. Về cơ bản thì nguyên liệu chính và các bước không thay đổi nhiều, mình chỉ chỉnh lại một chút để dễ làm và tăng độ thành công thôi.</span></p>
+<p><span style="color: #0000ff;">Công thức bánh Papparoti cũng đã được đăng trong sách Nhật ký học làm bánh tập 2. Tuy nhiên công thức trong sách sử dụng bánh mì ngọt mềm có dùng Tangzhong, là công thức mình chưa đăng tại blog. Còn bánh Papparoti trong bài này thì dùng vỏ bánh từ <strong><a href="/banh-mi-ngot-mem-nhan-kem-sua-trung-milk-buns-custard-filling/" rel="noopener noreferrer" style="color: #0000ff;" target="_blank">công thức bánh mì Milk bun </a></strong>. Mỗi công thức có một “kiểu ngon” riêng nên bạn nào có sách thì có thể chọn dùng 1 trong hai công thức này nhé.</span></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong>A. Phần vỏ bánh</strong></p>
+<ul>
+<li><em>260 gram (2 cup)  bột làm bánh mì (bột mì số 11/ bread flour) – rây mịn</em></li>
+<li><em>35 gram (3 tablespoon) đường hạt mịn (caster/ ultrafine sugar) – rây mịn</em></li>
+<li><em>3 gram (1/2 teaspoon) muối tinh</em></li>
+<li><em>5 gram (1.5 teaspoon) men instant (instant dry yeast)</em></li>
+<li><em>60 ml (1/4 cup) sữa tươi không đường – nhiệt độ phòng hoặc hơi mát</em></li>
+<li><em>60 ml (1/4 cup) sữa tươi không đường pha với 3 ml (1/2 tsp) nước cốt chanh (xem cách làm ở dưới – có thể thay bằng 60 ml buttermilk)</em></li>
+<li><em>1 trứng gà (50 gram không tính vỏ) – nhiệt độ phòng</em></li>
+<li><em>40 gram (3 tablespoon) bơ nhạt (bơ động vật không muối/ unsalted butter) – để mềm ở nhiệt độ phòng</em></li>
+</ul>
+<p><strong>B. Phần phủ cà phê (topping)</strong></p>
+<ul>
+<li><em>35 gram (1/4 cup) bột mì đa dụng hoặc bột làm bánh mì – rây mịn</em></li>
+<li><em>1 gram (1/8 teaspoon) bột cacao nguyên chất</em></li>
+<li><em>30 gram (2 tablespoon) bơ nhạt (bơ động vật không muối/ unsalted butter) – để mềm ở nhiệt độ phòng</em></li>
+<li><em>25 gram (2 tablespoon) đường hạt mịn (caster/ ultrafine sugar)</em></li>
+<li><em>1 gram (1/8 teaspoon) muối tinh/ muối ăn</em></li>
+<li><em>1/2 trứng gà (đánh tan nhẹ 1 quả trứng, đong lấy 25 gram)</em></li>
+<li><em>10 ml cà phê đậm đặc – có thể là cà phê phin hoặc cà phê dạng hòa tan, nhưng càng đặc</em> <em>thì mùi cà phê trong bánh sẽ càng nổi</em></li>
+</ul>
+<p><strong>C. Nhân bánh</strong></p>
+<ul>
+<li><em>12 miếng bơ nhạt, mỗi miếng 3 – 4 gram – giữ trong tủ đá tới khi dùng.</em></li>
+</ul>
+<p>(*) <span style="text-decoration: underline;"><strong>Ghi chú</strong></span>: Phần topping này vừa  đủ cho 12 bánh trong công thức. Nếu bạn làm lần đầu tiên (thường khó ước lượng được cho bao nhiêu topping lên bánh là vừa phải) thì nên làm gấp đôi lượng topping trong công thức để chắc chắn là không bị thiếu topping. Phần topping dư ra có thể để trong túi hoặc hộp kín, bảo quản trong ngăn đá, khi cần dùng thì rã đông trong ngăn mát tủ lạnh.</p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>Mời các bạn xem cách làm cụ thể tại <strong><a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" rel="noopener noreferrer" target="_blank">kênh YouTube của Savoury Days</a></strong> (mình cập nhật video mới hàng tuần nên các bạn có thể Subscribe/ Đăng kí để nhận được thông báo ngay khi có video mới nhé :) ).</p>
+<p>Video có phụ đề tiếng Anh và tiếng Việt. Khi xem các bạn bật CC và chỉnh Language trong Setting để chọn ngôn ngữ. Ngoài ra, nhớ chọn chế độ 720p (HD) để xem video được rõ nét nhất nha.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/L2jfbrcInfg" width="560"></iframe></div>
+<p> </p>
+<p>Tóm tắt các bước làm bánh</p>
+<p><strong>A. Phần vỏ bánh</strong></p>
+<p>1. Pha nước chanh với sữa tươi, quấy đều, để yên 15 phút rồi dùng. Sữa sẽ kết tủa và hơi chua do tác dụng của acid trong nước chanh. Dùng sữa này làm bánh sẽ giúp bánh có vị đậm đà và xốp hơn. Nếu các bạn ở nước ngoài và có thể mua được buttermilk thì các bạn có thể thay thế buttermilk cho sữa pha chanh này nhé.</p>
+<p>2. Trong video mình dùng men instant nên có thể trộn men thẳng vào bột mà không cần kích hoạt. Nếu bạn dùng men khô, không phải loại “instant” hoặc muốn chắc chắn là men còn tốt thì có thể kích hoạt men bằng cách sau:</p>
+<p>Hâm nóng 60 ml sữa tươi, sao cho sữa ở nhiệt độ khoảng 35 – 40 độ C (<strong>không được nóng hơn, sẽ làm chết men hoặc yếu hoạt động của men</strong>). Cho 5gram đường và toàn bộ số men instant vào sữa, dùng đũa gỗ khuấy đều. Sau khoảng 5-10 phút sẽ thấy men nở tạo mảng, hơi giống với gạch cua (xem hình trong <a href="/banh-mi-ngot-mem-nhan-kem-sua-trung-milk-buns-custard-filling/" rel="noopener noreferrer" target="_blank"><strong>bài viết cách làm bánh mì milk bun tại đâ</strong>y</a>). Nếu men không nở thì có hai khả năng, hoặc là men có vấn đề, hoặc là sữa quá nóng làm chết men, nên bỏ đi và chuẩn bị lại từ đầu.</p>
+<p>3. Cho bột, đường và muối vào âu. Trộn đều. Cho men instant vào âu, trộn đều. Mục đích của việc này là để men không dính vào đường và muối (men dễ bị yếu đi hoặc chết).</p>
+<p>Nếu có kích hoạt men thì cho phần men cùng sữa vào ở bước sau.</p>
+<p>4. Tạo một lỗ trống ở giữa âu bột. Cho sữa, sữa trộn chanh và trứng (đánh đều) vào âu bột. Quấy từ trong ra ngoài, tới khi nguyên liệu hòa quyện thành một khối đồng nhất.</p>
+<p>5. Nhồi bột tới khi bột mịn và khá đàn hồi. Mình nhồi bằng máy cầm tay 500 Watt thì nhồi ở tốc độ thấp trong 3 – 4 phút đầu rồi tăng lên tốc độ vừa, sau 10 phút là đạt được mốc này. Nếu nhồi bằng tay có thể sẽ lâu hơn.</p>
+<p>Bột khá dính nên nếu nhồi tay, các bạn có thể bọc kín âu bột và để nghỉ 20 phút trước khi nhồi. Việc này giúp hình thành gluten trong khối bột, làm cho bột bớt ướt dính hơn.</p>
+<p>6. Cho bơ mềm nhưng chưa chảy nước vào âu. Nhồi tiếp ở tốc độ chậm tới khi bơ hòa quyện hết thì tăng tốc độ, nhồi tới khi khối bột mịn, đàn hồi, có thể thử bằng window pane test: kéo dãn một ít bột, bột có thể căng tạo thành màng mỏng và không bị rách.</p>
+<p>7. Đổ bột ra bàn có phủ một lớp bột khô mỏng. Dùng bột áo cho tay nếu bột quá dính. Tạo hình bột thành khối tròn có mặt mịn. Khối bột lúc này dẻo và có độ đàn hồi tốt, ấn thử ngón tay lên mặt khối bột sẽ thấy phồng trở lại. Ngoài ra, khối bột khá nhão và ướt, nếu sờ ngón tay lên mặt bột sẽ có cảm giác hơi dính, nhưng khi nhấc lên thì bột không dính vào tay.</p>
+<p>8. Cho bột vào âu có quét một lớp dầu ăn mỏng. Lật khối bột cho dầu ăn bao đều bên ngoài khối bột, <em>việc này sẽ tránh cho bột bị khô trong quá trình ủ.</em> Dùng nilon bọc kín âu (hoặc dùng khăn ẩm đậy lên âu), ủ bột ở nhiệt độ phòng, đến khi bột nở gấp đôi.</p>
+<p>Để thử xem bột đã ủ đạt hay không, các bạn ấn một hoặc hai ngón tay vào bột, sâu khoảng 1 – 2cm. Sau khi rút tay lên, nếu vết lõm giữ nguyên tức là bột đã ủ đạt, nếu vết lõm phồng trở lại tức là cần ủ thêm thời gian.</p>
+
+
+<p>(<em>trong lúc đợi ủ bột thì chuẩn bị phần topping và nhân bánh)<br/>
+</em></p>
+<p><strong>B. Topping và nhân bánh</strong></p>
+<p><span style="color: #800000;">* <strong>Phần nhân:</strong></span> Mình dùng bơ nhạt, cắt nhỏ mỗi viên 3 gram làm nhân bánh. Các bạn có thể thay bằng nhân kem trứng (custard – cách làm ở <a href="/?p=2375">đây</a>) hoặc cream cheese… tùy thích.</p>
+<p>Sau khi chia nhân thành 12 phần bằng nhau, để vào tủ đá để nhân không chảy quá nhanh khi ủ bôt và nướng.</p>
+<p><span style="color: #800000;">* <strong>Phần phủ mặt bánh (topping)</strong></span></p>
+<p>1. Chuẩn bị cà phê, nếu là cà phê tan thì hòa trong sữa hay nước nóng rồi để nguội. Hoặc pha cà phê phin rồi để nguội.</p>
+<p>2. Cho bột và bột cacao vào bát, trộn đều.</p>
+<p>3. Cho bơ, đường, muối vào âu. Đánh đều đến khi nguyên liệu hòa quyện, bơ mềm, nhuyễn.</p>
+<p>4. Cho trứng vào, đánh đều cho hòa quyện và có hỗn hợp mịn. *Lưu ý: không đánh quá nhiều, topping sẽ dễ bị rỗ.</p>
+<p>5. Rây bột mỳ &amp; bột Cacao vào âu, trộn đều.</p>
+<p>6. Cho cà phê vào âu, trộn đều đến khi hỗn hợp hòa quyện, mịn mượt.</p>
+<p>7. Cho topping vào túi bắt kem, xoắn đầu túi thật chặt, để ngăn mát tủ lạnh.</p>
+<blockquote><p><em>* <strong>Ghi chú</strong>: topping có nhiều bơ nên tốt nhất là giữ trong tủ lạnh, đến khi dùng mới lấy ra. Để ngoài bơ sẽ nhanh chảy, hoặc topping quá mềm, cho vào lò nướng sẽ chảy nhanh, làm phần vỏ bánh mỏng hoặc không được đẹp.</em></p></blockquote>
+<p><strong>C. Tạo hình bánh và hoàn thiện</strong></p>
+<p>1. Sau khi bột đã nở gấp đôi thì dùng mu bàn tay ép nhẹ cho khí trong khối bột thoát ra ngoài. Lấy bột ra, nhào bằng tay lại sơ qua trong vài phút. Dùng cân để chia bột thành 12 viên bột nhỏ, mỗi viên nặng 40 – 42 gram. Kéo căng mép bột bên ngoài, túm lại, ta sẽ có một viên bột dạng hình cầu với phần mặt bột căng mịn. Đậy kín, để bột nghỉ 5 phút.</p>
+<p>Chuẩn bị khay nướng bánh có lót baking mat hoặc giấy nướng bánh.</p>
+<p>2. Nặn bánh:</p>
+<p>– Lấy nhân bánh ra khỏi tủ đá.</p>
+<p>– Kéo căng mặt bột bên ngoài. Ta có một khối bột hình cầu có mặt bột mịn. Ấn viên nhân vào bột rồi túm lại. Dính kĩ để nhân không chảy khi nướng. Vê bột để bột được tròn trịa. Đặt bột lên khay.</p>
+<p>– Làm tương tự với phần còn lại.</p>
+<p>3. Ủ bột ở nơi ấm áp &amp; ẩm, đến khi bột nở gấp đôi. Mình ủ trong lò nướng bằng cách bật lò nướng ở 50 độ C trong 3 – 5 phút rồi tắt lò, đặt thêm cốc nước sôi và xịt nước vào khoảng không trong lò để giữ ẩm cho bánh. Đưa bánh vào lò, đóng cửa lò và ủ tới khi bánh nở khoảng 70%.</p>
+<p>4. Khi bột bánh nở khoảng 70-80% thìlấy ra và bật lò ở nhiệt độ 180 độ C (lò nướng cần tối thiểu 10 phút để làm nóng nên khi lò đủ nóng thì bánh cũng ủ vừa đạt).</p>
+<p>5. Phun topping lên mặt bánh ngay trước khi đưa bánh vào lò nướng bằng cách: cắt đuôi túi đựng topping, phun topping thành hình xoắn ốc lên mặt bánh. Chỉ phun topping phủ khoảng 1/2 – 2/3 bánh, khi nướng topping sẽ chảy ra và phủ hết mặt bánh.</p>
+<blockquote><p><em>* <strong>Ghi chú:</strong> Nếu nơi bạn ở có thời tiết nóng ẩm thì nên giữ topping trong ngăn mát tủ lạnh đến khi phun lên mặt bánh, để tránh cho topping bị nhão, khi nướng bơ sẽ chảy ra nhanh, làm phần topping bị mỏng trên mặt và hình thức cũng không được đẹp mắt.</em></p>
+<p><em>Ngoài ra, với việc phun topping thì có một số mẹo nhỏ là các bạn cắt đuôi túi đựng topping to một chút, và đặt đầu túi gần sát mặt bánh, phun topping sẽ dễ và đẹp hơn. </em></p></blockquote>
+<p>6. Nướng bánh ở nhiệt độ 180 độ C. Sau khoảng 3 – 5 phút topping sẽ chảy, phủ hết mặt bánh. Nướng trong khoảng 15-18 phút đến khi mặt bánh nâu vàng giòn (nếu bánh có dấu hiệu vàng hoặc cháy trong quá trình nướng thì có thể phủ giấy bạc lên mặt bánh và tiếp tục nướng đến hết thời gian).</p>
+<p>Bánh để qua ngày phần topping có thể sẽ mềm đi nhưng chỉ cần cho vào lò nướng lại ở nhiệt độ 160 độ C trong khoảng 10 phút là bánh sẽ giòn thơm như mới :)</p>
+<p><span style="color: #ff0000;"><strong>Một số thất bại thường gặp và nguyên nhân</strong>:</span> Xem ở phần cuối bài về Milk bun tại <strong><a href="/?p=2375">ĐÂY</a> </strong></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7106259481/" title="IMG_3803-2 by LinhTrang9185, on Flickr"><img alt="IMG_3803-2" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8168/7106259481_9c46604aa8_z.jpg" width="427"/></a></p>
+<p>——-</p>
+<p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ email: <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi hành động cố tình vi phạm sẽ chịu xử lí theo quy định của pháp luật.</span></strong></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

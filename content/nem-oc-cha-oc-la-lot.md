@@ -1,0 +1,91 @@
+---
+title: "Nem ốc & Chả ốc lá lốt"
+date: "2012-11-02"
+slug: "nem-oc-cha-oc-la-lot"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/11/ChaOcLaLot.jpg"
+description: "Cách làm chả ốc lá lốt giòn sựt, thơm ngon"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Từ hồi phát hiện ra là ở chợ  có ốc bươu đông lạnh – nhập khẩu từ Việt Nam – với giá quá rẻ: 2E/400gram, và toàn là thịt ốc đã làm sạch thì cơn nghiện ốc đã cai được từ hồi đi du học quay lại với mình với tốc độ như vũ bão và không gì cản nổi :P Thế là mặc dù biết ăn cái món này chả bổ béo gì, nhưng hầu như tuần nào trong nhà cũng có ốc: <a href="/oc-xao-sa-ot/" target="_blank"><strong>ốc xào sả ớt</strong></a>, <a href="/canh-ca-bung/" target="_blank"><strong>ốc bung đậu &amp; cà</strong></a> (món kết hợp của cà bung &amp; ốc chuối đậu), <a href="/bun-oc-ha-noi/" target="_blank">bún ốc</a>, … cho đến khi gần cạn vốn thì bỗng nhiên nhớ ra chả ốc và nem ốc.</p>
+<p>Cả tỉ năm rồi mới lại làm nem, may quá giở tủ ra thì tập bánh đa mang từ nhà sang vẫn dùng được ngon lành (<em>vỏ bánh đa nem bên này rất chán, hầu hết đều làm từ bột mì, y như vỏ há cảo, cuốn 1 cái nem thì lớp vỏ phải chiếm 1/3, cho nên lần nào về nhà mình cũng mang theo bánh đa nem sang, bọc giấy &amp; nilon cất đi dùng dần</em>). Các nguyên liệu còn lại thì chợ tuần này đều có đủ cả, đặc biệt là rau thơm các loại. Chỉ có điều là về nhà ngồi nhìn hóa đơn tính tiền thì thấy tiền mua rau thơm các thể loại gần bằng tiền mua các nguyên liệu còn lại (thịt, ốc, su hào, cà rốt) rồi :-|</p>
+<p>Cách làm nem và cách pha nước chấm thì mình có viết trong một<a href="/nem-ran-meo-ran-nem-gion-cach-pha-nuoc-cham-bun-cha-nem-cua-minh/"> bài về làm nem</a> từ hồi lâu lâu, khá là kĩ rồi. Nem ốc và chả ốc về cơ bản mình làm cũng giống với nem thông thường, chỉ khác là trong phần nhân có trộn thêm lá lốt và ít mùi tàu (ngò gai). Bí kíp trộn thêm mùi tàu vào nhân nem là mình học được từ một bạn đọc của Savoury Days, không biết bạn còn qua SD chơi nữa không để cảm ơn vì đúng là nó làm cho nem thơm ngon hơn rất nhiều :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8147131507/" title="IMG_7711-1 by LinhTrang9185, on Flickr"><img alt="IMG_7711-1" class="aligncenter" height="342" loading="lazy" src="http://farm9.staticflickr.com/8333/8147131507_a9a63c6b1b.jpg" width="500"/></a></p>
+<p><strong><span style="color: #800000;">Nguyên liệu (cho cả 2 món nem và chả)</span></strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em>500 gram thịt lợn xay (dùng loại thịt có cả nạc lẫn mỡ để miếng chả đỡ bị khô)</em></li>
+<li><em>400-500 gram thịt ốc nhồi (đã làm sạch) </em></li>
+<li><em>200 gram cà rốt</em></li>
+<li><em>150 gram su hào</em></li>
+<li><em>Vài tai mộc nhĩ</em></li>
+<li><em>Một nắm nhỏ miến</em></li>
+<li><em>40 gram hành hương (khoảng 7-8 củ)</em></li>
+<li><em>10 gram tỏi</em></li>
+<li><em>60-70 gram hành tây</em></li>
+<li><em>Một nắm lá lốt (khoảng 50-60gram)</em></li>
+<li><em>5-6 lá mùi tàu (ngò gai)</em></li>
+<li><em>2 quả trứng gà</em></li>
+<li><em>Nước mắm,muối, tiêu</em></li>
+<li><em>Dấm</em></li>
+<li><em>Dầu ăn </em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. <strong>Chuẩn bị nguyên liệu:</strong></p>
+<p>– Ốc đông lạnh: thường là được làm sạch sẽ rồi, tuy nhiên ở đằng sau miệng ốc, đôi khi có thể còn sót lại một mẩu tròn tròn đen đen, là cái gì mình không rõ nhưng không ăn được, cần bóc bỏ đi. Cho khoảng 2 thìa canh dấm với chút muối trộn đều với thịt ốc, bóp cho sạch nhớt đen, để 5-10 phút rồi rửa sạch lại bằng nước lạnh.</p>
+<p>– Ốc tươi: ngâm ốc với nước vo gạo, hoặc nước có 1-2 quả ớt hiểm đập dập. Ngâm qua đêm hoặc ít nhất nửa ngày cho ốc nhả sạch đất cát. Chặt đít ốc, khều lấy ruột, bóc bỏ hết các phần ruột thừa, chỉ lấy phần thịt ốc. Bóp phần thịt này với chút muối cho sạch hết nhớt đen. Tiếp theo cho dấm có pha ít muối vào bóp với ốc, xả lại qua nước lạnh. Có thể lặp lại thêm 1 lần nữa cho thịt ốc thật sạch.</p>
+<p>– Mộc nhĩ, miến ngâm nước ấm trước 1h cho nở mềm. Rửa sạch mộc nhĩ rồi thái sợi nhỏ. Miến cắt khúc độ 2-3cm.</p>
+<p>– Su hào, cà rốt gọt vỏ, bào sợi.</p>
+<p>– Lấy khoảng 20 cái lá lốt và 2-3 lá mùi tàu, rửa sạch, thái chỉ hoặc sợi rất nhỏ.</p>
+<p>– Hành hương, tỏi bóc vỏ. Hành tây bóc vỏ, thái hạt lựu.</p>
+<p>– Cho hành hương, tỏi vào cối, xay nhuyễn. Bỏ thịt vào xay cùng, nhưng chỉ xay vừa phải, sao cho thịt nhuyễn hơn thịt làm chả băm nhưng chưa đến mức như giò sống. Cho hành tây vào trộn đều, đổ ra âu.</p>
+<p>– Cho ốc vào máy, xay sơ qua, làm sao để ốc vẫn hơi còn miếng, khi ăn còn có cảm giác giòn sần sật của ốc. Nếu không có máy xay thì bạn có thể thái hoặc băm bằng tay nhưng sẽ hơi mệt và mất công một chút.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p style="text-align: center;"><em>Thịt và ốc sau khi xay xong</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8147132639/" title="IMG_7690 by LinhTrang9185, on Flickr"><img alt="IMG_7690" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8472/8147132639_17b9135563.jpg" width="500"/></a></p>
+<p>– Trộn ốc với thịt cho nhuyễn đều. Chia làm hai phần: 400gram làm chả, 600gram làm nem.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8147132431/" title="IMG_7691 by LinhTrang9185, on Flickr"><img alt="IMG_7691" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8052/8147132431_e4e6b4dbbb.jpg" width="500"/></a></p>
+<p><strong>2. Nem ốc:</strong></p>
+<p>– Trộn nhân nem gồm:</p>
+<ul>
+<li>600gram hỗn hợp thịt &amp; ốc</li>
+<li>Su hào, cà rốt (đã thái sợi)</li>
+<li>Mộc nhĩ, miến</li>
+<li>1/2 số lá lốt và mùi tàu (đã thái chỉ)</li>
+<li>1 quả trứng gà</li>
+<li>1 thìa canh dầu ăn</li>
+<li>nước mắm, muối hoặc bột nêm, hạt tiêu.</li>
+</ul>
+<p>Gia vị cho nem ốc có thể cho nhạt hơn bình thường một chút, vì sau còn pha nước chấm đi kèm. Các bạn chưa quen tay nêm gia vị thì có thể lấy ít nhân cho vào lò vi sóng, quay chín để nếm thử nhé.</p>
+<p style="text-align: center;"><em>Nhân nem sau khi trộn</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8147132347/" title="IMG_7693 by LinhTrang9185, on Flickr"><img alt="IMG_7693" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8464/8147132347_53ee493d51.jpg" width="500"/></a></p>
+<p>– Gói nem (mình làm nem cỡ nhỏ, với lượng nhân ở trên làm được cả khay đầy như trong hình).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8147132173/" title="IMG_7698 by LinhTrang9185, on Flickr"><img alt="IMG_7698" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8056/8147132173_21511bfd3c.jpg" width="500"/></a></p>
+<p>– Đun nóng dầu ăn. Nếu có thời gian thì nên rán trong nồi nhỏ để sao cho nem được ngập trong dầu, nem sẽ giòn hơn. Các bí quyết làm nem giòn thì các bạn có thể tham khảo thêm ở<strong> <a href="/nem-ran-meo-ran-nem-gion-cach-pha-nuoc-cham-bun-cha-nem-cua-minh/" target="_blank">bài về cách rán nem giòn</a> </strong>nhé. Mình rán hai lượt. Đúng hơn là rán cho nem chín nhưng chưa vàng, để cất tủ đá, khi ăn thì rán lại. Nem rất giòn.</p>
+<p>3. <strong>Chả ốc lá lốt</strong></p>
+<p>– Chuẩn bị khoảng 15 -20 cái lá lốt. Rửa sạch, lau khô.</p>
+<p>– Trộn nhân chả gồm:</p>
+
+
+<ul>
+<li><em>400 gram thịt &amp; ốc đã trộn ở trên</em></li>
+<li><em>1 lòng đỏ trứng gà</em></li>
+<li><em>1/2 số lá lốt &amp; mùi tàu thái sợi</em></li>
+<li><em>Mắm hoặc muối/bột nêm, hạt tiêu</em></li>
+</ul>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8147167516/" title="IMG_7694 by LinhTrang9185, on Flickr"><img alt="IMG_7694" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8048/8147167516_106ae3747e.jpg" width="500"/></a></p>
+<p>– Trộn nhân cho thật đều rồi dùng lá lốt cuốn thành từng cuốn nhỏ. Nếu lá lốt nhỏ thì có thể ghép 2 lá với nhau để cuốn.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8147132077/" title="IMG_7701 by LinhTrang9185, on Flickr"><img alt="IMG_7701" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8470/8147132077_0bf17295b0.jpg" width="500"/></a></p>
+<p>– Chả có thể rán hoặc nướng, nhưng mình thấy nướng ngon hơn vì chả thơm hơn, không bị ngấm quá nhiều dầu mỡ, lá lốt lại giòn. Bạn nào có điều kiện dùng được than hoa để nướng thì chắc còn tuyệt nữa. Mình nướng ở nhiệt độ 190 độ C, bật lò trước khoảng 5 phút, trong 15-17 phút thì thấy chả chín ngon lành rồi. Trước khi cho vào lò thì quết một lớp mỏng dầu ăn lên mặt miếng chả (hay là mặt lá lốt), sẽ giúp lá cháy chậm hơn và thơm hơn.</p>
+<p>4. Cả hai món này đều nên ăn nóng. Nước chấm đi kèm rất đa dạng nhưng mình pha nước chấm chua ngọt như nước chấm bún nem bình thường thôi. Cách pha và các lưu ý ở <a href="/nem-ran-meo-ran-nem-gion-cach-pha-nuoc-cham-bun-cha-nem-cua-minh/"><strong>ĐÂY.</strong></a></p>
+<p>Chúc cả nhà cuối tuần vui vẻ :)</p>
+<p>——-</p>
+<p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ mail <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi trường hợp cố tình vi phạm sẽ chịu sự xử lí theo pháp luật.</span></strong></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

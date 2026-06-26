@@ -1,0 +1,85 @@
+---
+title: "[VIDEO] NOUGAT CAFE SỮA DỪA & NOUGAT DÂU SỮA"
+date: "2021-01-12"
+slug: "video-nougat-cafe-sua-dua-nougat-dau-sua"
+categories: []
+tags: []
+image: "/wp-content/uploads/2021/01/Nougat-cafe-sữa-dừa-banner.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400; color: #000000;">Siêu phẩm mới nối tiếp nougat chanh dừa làm mưa làm gió tuần trước đây ạ. Ưu điểm to đùng vẫn là ngọt vừa, không nồng mùi bơ sữa, mềm dẻo. Còn về hương vị của công thức lần này thì, trời ơi ngonnnnnnn. Combo cafe cốt dừa vốn đã thành vị “quốc dân”, không ai không thích, đưa cái hương vị này vào viên kẹo nougat mềm dẻo, lại thêm các loại hạt bùi bùi béo béo nữa, chắc tả đến đây là mọi người hiểu rồi nhỉ :D Còn Nougat dâu sữa thì thơm thơm, chua chua ngọt ngọt, màu sắc lại cực kì “mùa xuân”, nói chung là rất nên có trong khay bánh kẹo ngày Tết ;)</span></p>
+<p><span style="font-weight: 400; color: #000000;">Một chân ái nữa mình mới phát hiện ra là dùng bánh quy cho nougat: kẹo mềm dẻo, mứt sần sật dai dai, lại thêm vị xốp, giòn của lớp bánh quy ở giữa, thêm có một nguyên liệu thôi mà khi ăn thấy thú vị hơn hẳn. Trong video có hướng dẫn cả cách cho bánh quy vào sao cho đều và đẹp nhất nữa.</span></p>
+<p><span style="font-weight: 400; color: #000000;">QUAN TRỌNG: Trong bài này mình sẽ chỉ ghi tóm tắt các làm, tất cả các lưu ý quan trọng khi làm nougat (về nguyên liệu, thao tác, cách điều chỉnh độ cứng/mềm và độ ngọt của kẹo) mình đã ghi rất rõ tại CT <a href="/video-cach-lam-nougat-chanh-dua-it-ngot/"><strong>Nougat chanh dừa</strong></a> đăng tuần trước rồi, các bạn đọc tại đây giúp mình nhé (Chanh dừa là một vị cực ngon, rất rất nên thử :D): </span></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu (cho 1 khuôn 18x23cm, làm được 60 cái cỡ 2x4cm)</strong></span></p>
+<h2>NOUGAT CAFE SỮA DỪA</h2>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram bơ nhạt</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram kem cốt dừa</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">300 gram marshmallow</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">220 – 250 gram bột cốt dừa</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">5 – 6 gram bột cafe đen hòa tan</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">120 gram hạnh nhân</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">60 gram macca</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram mứt dừa non sấy dẻo</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Bánh quy cafe (không bắt buộc)</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Lưu ý về nguyên liệu:</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="font-weight: 400; color: #000000;">– Cafe đen hòa tan mình dùng loại G7 của Trung Nguyên, đây là loại mình thường dùng khi làm bánh, cho vị đậm đà. Các bạn có thể dùng của hãng khác, tuy nhiên nên cần dùng bột cafe hòa tan, không dùng nước cafe hay bột cafe phin. Ngoài ra, các bạn có thể dùng thêm chiết xuất cafe nhập khẩu từ các thương hiệu nổi tiếng.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Hạt và dừa các bạn có thể thay đổi loại và định lượng, tuy nhiên theo mình thì hạnh nhân và macca là phù hợp nhất. Hạt cần phải nướng/rang thơm trước khi dùng.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Bánh quy cafe không bắt buộc, tuy nhiên cho vào sẽ có thêm phần kết cấu giòn giòn xốp xốp giữa viên nougat dẻo rất thú vị, nên có nha. Mình dùng bánh cafe của Coffee Joy, bánh này rất phổ biến, mua tại siêu thị nào cũng có.</span></p>
+<h2>NOUGAT DÂU SỮA</h2>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram bơ nhạt</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram kem cốt dừa</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">300 gram marshmallow</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">220 – 250 gram bột sữa </span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">10 gram bột dâu tây</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">60 gram hạt hạnh nhân</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 – 50 gram hạt dẻ cười</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 – 50 gram mứt kiwi</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">10 – 12 quả dâu sấy</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Bánh quy (không bắt buộc)</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>* Lưu ý về nguyên liệu:</strong></span></p>
+<p><span style="font-weight: 400; color: #000000;">– Các bạn có thể thay thế toàn bộ hoặc 1 phần bột sữa bằng bột cốt dừa. Tuy nhiên các loại mứt và quả khô đều khá chua nên dù dùng bột sữa thì khi ăn cũng sẽ không bị ngọt.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Bột dâu tây, mứt kiwi và dâu tây sấy các bạn có thể tìm mua tại Shopee. </span></p>
+<p><span style="font-weight: 400; color: #000000;">– Bánh quy mình dùng loại mini của Leibniz, hình thức xinh mà độ ngọt vừa phải, kết cấu giòn xốp, có thể mua tại các siêu thị. Bánh quy không bắt buộc, nhưng cho vào khi ăn sẽ có thêm độ giòn khá thú vị.</span></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/mosZA7iyAHw" width="560"></iframe></div>
+<ol>
+<li><span style="font-weight: 400; color: #000000;"> Trộn hỗn hợp khô:  Với nougat cafe thì trộn bột cafe tan với bột cốt dừa, với nougat dâu tây thì trộn bột sữa với bột dâu tây. Nếu bột dâu tây bị vón cục thì cần rây lại.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Cho bơ và kem cốt dừa vào chảo đế dày và chống dính tốt, đun chảy hoàn toàn trên lửa nhỏ. </span></li>
+<li><span style="font-weight: 400; color: #000000;"> Cho kẹo marshmallow vào, đảo đều ở lửa nhỏ nhất đến khi kẹo chảy hoàn toàn.</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">Nếu dùng chảo đế mỏng, hoặc nấu trên bếp có nhiệt cao dù để để lửa nhỏ (bếp ga, bếp hồng ngoại), trong quá trình làm nếu thấy chảy có dấu hiệu bị nóng quá, hơi nóng bốc lên nhiều thì cần bắc chảo xuống, đảo đến khi chảo nguội bớt rồi lại cho lên bếp.</span></p>
+<ol start="4">
+<li><span style="font-weight: 400; color: #000000;"> Khi kẹo đã chảy hoàn toàn và quyện vào với bơ, chia bột cốt dừa thành 2 phần</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">Sau khi phần bột đầu tiên tan hết thì cho chỗ bột còn lại vào đảo đều. </span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400; color: #000000;">* LƯU Ý: Nếu không chắc lắm về độ mềm của marshmallow, các bạn nên cho bột vào từ từ, đảo đều tới khi thấy kẹo cứng vừa phải thì dừng lại. Độ cứng vừa phải là Khi đảo thấy kẹo quyện được thành khối nhưng nếu để nguyên thì kẹo sẽ hơi chảy dàn ra.</span></p>
+<ol start="5">
+<li><span style="font-weight: 400; color: #000000;"> Khi bột sữa đã tan hết, tắt bếp, cho toàn bộ số hạt đảo đều. Ở bước này kẹo đã rất nặng tay, mọi người có thể trộn theo kiểu tương tự như kĩ thuật fold trong làm bánh sẽ dễ hơn. Đảo đến khi hạt trộn đều vào kẹo, khối kẹo bắt đầu róc chảo thì lấy ra tạo hình. </span></li>
+</ol>
+<p><strong><span style="color: #000000;">Lưu ý: </span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">– Điều quan trọng nhất khi nấu kẹo là chỉ nấu trên lửa nhỏ, khuấy đều tay tránh làm kẹo bị cháy (Nếu thấy hiện tượng kẹo tách đường, cứng lại thì là kẹo đã cháy =&gt; không chữa được).</span></p>
+<ol start="7">
+<li><span style="font-weight: 400; color: #000000;"> Tạo hình khi kẹo còn ấm nóng:</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">– Các bạn có thể tạo hình với khuôn như video để viên kẹo đều và vuông vức. Khuôn kẹo có thể để mua tại các cửa hàng bán đồ làm bánh hoặc shopee.</span></p>
+<p><span style="font-weight: 400; color: #000000;">-Mình cho bánh quy vào bằng cách lấy ½ lượng kẹo ra khuôn, dàn đều rồi xếp 1 lớp bánh quy khắp mặt kẹo, sau đó cho phần kẹo còn lại lên, dàn đều, trang trí bằng hạt và mứt. Ép nhẹ cho kẹo phẳng. Làm như vậy thì bánh quy sẽ được đều, cắt miếng kẹo nào cũng sẽ có 1 lớp bánh quy ở giữa, ngoài ra cũng sẽ hạt chế được việc bánh quy vị gãy vụn. Nếu không làm như vậy, các bạn có thể cho bánh quy vào cùng với hạt rồi đảo đều, tuy nhiên nên chọn loại bánh cứng, khó gãy tránh việc bánh quy quá vụn.</span></p>
+<p><span style="color: #000000;"><span style="font-weight: 400;">– Nếu không có khuôn, tạo hình theo video sau đây: </span><a href="https://youtu.be/qJNfBdS_e58" style="color: #000000;"><span style="font-weight: 400;">https://youtu.be/qJNfBdS_e58</span></a></span></p>
+<ol start="9">
+<li><span style="font-weight: 400; color: #000000;"> Nếu làm bằng khuôn thì sẽ cần BỌC KÍN KHUÔN và để kẹo vào tủ lạnh khoảng 5 – 6 giờ cho kẹo cứng lại hoàn toàn mới gỡ được khỏi khuôn. Nếu không dùng khuôn thì các bạn có thể để ở nhiệt độ phòng (dưới 25 độ C) khoảng 2 – 3 giờ là kẹo cứng và có thể cắt được. Sau khi kẹo cứng thì cắt thành các viên kích cỡ tùy thích.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Bảo quản:</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">– Với thời tiết mát mẻ như mùa đông miền bắc (dưới 25 độ C) thì có thể để nhiệt độ phòng được khoảng 10  ngày. Nếu trời nóng thì cần bảo quản trong tủ lạnh, được khoảng 1 – 1.5 tháng.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– TUY NHIÊN, tụi mình khuyến khích việc gói kín rồi bảo quản trong ngăn mát tủ lạnh. Kẹo để trong tủ lạnh vẫn mềm dẻo, hương vị cũng ngon hơn, trong kẹo có dừa non nên bảo quản trong tủ cũng sẽ yên tâm hơn (phòng trường hợp dừa bạn sấy vẫn còn nhiều nước và dễ thiu). Nếu nougat dùng bánh quy thì việc bảo quản trong tủ lạnh cũng sẽ giúp bánh quy giòn lâu hơn.</span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

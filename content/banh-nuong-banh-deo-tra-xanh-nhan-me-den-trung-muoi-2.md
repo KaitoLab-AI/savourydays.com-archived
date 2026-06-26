@@ -1,0 +1,97 @@
+---
+title: "Bánh nướng, bánh dẻo trà xanh nhân mè đen trứng muối"
+date: "2015-09-10"
+slug: "banh-nuong-banh-deo-tra-xanh-nhan-me-den-trung-muoi-2"
+categories: []
+tags: []
+image: "/wp-content/uploads/2015/09/banh-nuong-tra-xanh-me-den.jpg"
+description: "nhân mè đen bánh trung thu , bánh dẻo, bánh nướng trà xanh"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #ff0000;"><em>Thời gian này mình đang đi vắng nên không trả lời được các phản hồi tại blog, nhờ cả nhà cùng chia sẻ và giúp đỡ lẫn nhau nhé.<br/>
+</em></span></p>
+<p><em>———–</em></p>
+<p>Đây chắc là loại nhân bánh cuối cùng mà mình giới thiệu trong mùa Trung thu năm nay. Nhân mè đen óng ả mịn màng với trứng muối đỏ au nằm ở giữa, chưa cần ăn, chỉ cần nhìn cũng đủ thấy thích mê đi rồi. Lần sên nhân này mình làm cả bánh nướng và bánh dẻo. Bánh dẻo thì trộn với ít bột trà xanh, vị bánh vừa thơm vừa the mát, lại bớt ngọt hơn rất nhiều nên ăn cảm thấy cực kì dễ chịu.</p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/21272524756/in/datetaken/" title="IMG_3731-2"><img alt="IMG_3731-2" class="aligncenter" height="334" loading="lazy" src="https://farm6.staticflickr.com/5715/21272524756_2da231f603.jpg" width="500"/></a></p>
+<p>Cũng như nhân khoai môn, nhân mè đen cần phải pha thêm đậu thì mới “đứng” và nặn thành viên được. Nhân mè đen truyền thống thường pha mè với tinh  bột đậu trắng. Nhưng mình học được từ chị Loan, bà chủ cửa hàng <a href="https://www.facebook.com/2MOMs-1622401898027655/timeline/" target="_blank">2MOM’s </a> bí kíp dùng đậu đen với mè đen – không chỉ giúp nhân có màu đen mịn hơn mà còn rất thơm ngon và làm không mất nhiều thời gian như khi bồng bột đậu trắng. Công thức dưới này cũng là chị Loan chỉ cho mình luôn, xin phép chị chia sẻ lại với cả nhà :)</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><strong><span style="color: #800000;">Nguyên liệu</span> (cho 300 – 330 gram nhân)</strong></p>
+<ul>
+<li><em>100 gram đậu đen (khô)</em></li>
+<li><em>100 gram mè đen/ vừng đen (black sesame seeds)</em></li>
+<li><em>30 gram đường</em></li>
+<li><em>35 – 45 gram mạch nha</em></li>
+<li><em>30 gram dầu ăn (mình dùng 20 gram dầu dừa + 10 gram dầu mè)</em></li>
+<li><em>5 gram bột mì + 30 ml nước để hòa tan bột</em></li>
+<li><em>10 gram bột bánh dẻo (cooked glutinous rice flour)</em></li>
+</ul>
+<p>          <a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/20677689173/in/datetaken/" title="IMG_3724-1"><img alt="IMG_3724-1" height="334" loading="lazy" src="https://farm6.staticflickr.com/5757/20677689173_ac628802d6.jpg" width="500"/></a></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Rửa sạch đậu đen, nhặt bỏ các hạt hỏng. Ngâm nước nóng qua đêm (để nấu đậu cho nhanh). Cho đậu vào nồi nấu với nhiều nước tới khi đậu chín mềm và nhuyễn nhừ (có thể dùng nồi áp suất để ninh đậu). Để đậu nguội bớt.</p>
+<p>2. Mè đen rang chín, để nguội.</p>
+<p>3. Cho mè vào cối xay khô. Khi mè tương đối mịn thì cho đậu vào xay cùng. Nên xay với nhiều nước để hỗn hợp được mịn và không bị hỏng máy xay.</p>
+<p><em>Mè đen sau khi xay </em></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/21288162802/in/datetaken/" title="IMG_9929"><img alt="IMG_9929" class="aligncenter" height="333" loading="lazy" src="https://farm6.staticflickr.com/5814/21288162802_944502d0bd.jpg" width="500"/></a></p>
+<p><em>xay cùng đậu đã chín mềm  </em></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/21306896561/in/datetaken/" title="IMG_9930"><img alt="IMG_9930" class="aligncenter" height="333" loading="lazy" src="https://farm6.staticflickr.com/5686/21306896561_93266cf16e.jpg" width="500"/></a> <em>đậu và mè sau khi xay xong </em></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/21306892801/in/datetaken/" title="IMG_9931"><img alt="IMG_9931" class="aligncenter" height="333" loading="lazy" src="https://farm1.staticflickr.com/599/21306892801_cfdf0ab4e2.jpg" width="500"/></a></p>
+<p>4. Lọc hỗn hợp qua rây để bỏ xác vỏ đậu đen và mè. Phần xác này có thể giữ lại, thêm ít đường và nước cốt dừa để làm thành chè mè và đậu, ăn rất ngon :)</p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/21110667720/in/datetaken/" title="IMG_9932"><img alt="IMG_9932" class="aligncenter" height="333" loading="lazy" src="https://farm1.staticflickr.com/564/21110667720_cdda2dbec9.jpg" width="500"/></a></p>
+<p>5. Cho hỗn hợp đậu mè vừa lọc vào chảo, thêm toàn bộ đường và 1/2 lượng dầu ăn. Bật bếp ở lửa vừa, quấy cho đường và dầu hòa quyện vào trong đậu, mè.</p>
+<p><em>cho đậu, mè, đường và dầu ăn vào chảo </em></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/21111860069/in/datetaken/" title="IMG_9934"><img alt="IMG_9934" class="aligncenter" height="333" loading="lazy" src="https://farm1.staticflickr.com/596/21111860069_e477a248df.jpg" width="500"/></a></p>
+<p><em>quấy đều cho hòa quyện </em></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/21110658110/in/datetaken/" title="IMG_9936"><img alt="IMG_9936" class="aligncenter" height="333" loading="lazy" src="https://farm6.staticflickr.com/5771/21110658110_cac89a2fc6.jpg" width="500"/></a></p>
+<p>6. Khi các nguyên liệu đã hòa quyện, tiếp tục cho phần dầu còn lại. Quấy đều cho hòa quyện.</p>
+<p>Từ bước này sên tương tự như <a href="/banh-trung-thu-cach-lam-nhan-dau-xanh-tra-xanh-la-dua/" target="_blank">cách sên nhân đậu xanh</a>. Bột mì hòa tan trong nước pha vào khi nhân tương đối sệt. Mạch nha được cho vào sau khi cho bột mì. Nếu thấy nhân hơi thiếu ngọt, các bạn có thể thêm mạch nha. Theo chị Loan thì với nhân mè đen, dùng mạch nha sẽ giúp nhân kết dính tốt hơn là chỉ dùng đường.</p>
+<p>7. Khi nhân đã chuyển thành một khối mịn dẻo, đặc và đứng thì rắc bột bánh dẻo lên, trộn đều rồi bắc khỏi bếp. Tiếp tục đảo cho nhân nguội bớt. Khi nhân còn hơi ấm thì nặn thành các viên nhân tròn. Nếu chưa dùng ngay, có thể bọc kín rồi để trong túi có khóa kéo (túi ziplock) và trữ đông. Khi dùng rã đông trong ngăn mát tủ lạnh.</p>
+<p><em>thử miết xem nhân mịn dẻo tới đâu :)</em></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/21111853459/in/datetaken/" title="IMG_9941"><img alt="IMG_9941" class="aligncenter" height="333" loading="lazy" src="https://farm1.staticflickr.com/570/21111853459_27d9bd9988.jpg" width="500"/></a></p>
+<p>Yêu cầu thành phẩm: Nhân mịn nhuyễn, thơm vị mè đen, bùi, béo và ngậy. Nhân hơi dính dầu nhưng không bị nhão, có thể nặn thành viên tròn và không chảy bè khi vẫn còn đang nóng.</p>
+<p>*<span style="color: #ff0000;"><strong> Ghi chú:</strong></span></p>
+
+
+<p>– Theo chị Loan hướng dẫn thì mạch nha giúp kết dính nhân nên bắt buộc phải có. Nếu không có, mình nghĩ các bạn nên tăng lượng bột bánh dẻo.</p>
+<p>– Nếu không có bột bánh dẻo, có thể thay bằng bột ngô (lượng tương đương). Cho bột ngô vào khi nhân còn hơi ướt và nhão một chút rồi sên tới khi nhân khô.</p>
+<p>– Bánh trong hình mình làm loại 150 gram, với bánh nướng là 100 gram nhân và 50 gram vỏ, bánh dẻo là 60 gram nhân và 110 gram vỏ. Vỏ bánh dẻo mình dùng <a href="/cach-lam-banh-deo-truyen-thong/" target="_blank">công thức bánh dẻo truyền thống</a>, cứ mỗi 100 gram bột thì dùng khoảng 2.5 – 3 gram bột trà xanh. Bột trà được trộn chung với 2/3 lượng bột bánh dẻo (1/3 còn lại để làm bột áo), và quấy đều trước khi trộn với nước đường.</p>
+<p>——-</p>
+<p><strong>BÀI VIẾT CÙNG CHỦ ĐỀ TRUNG THU</strong></p>
+<p><strong>A. Kiến thức chung</strong></p>
+<ol>
+<li><a href="/tong-hop-cach-lam-banh-nuong-banh-deo-trung-thu-a-z/">Tổng hợp cách làm bánh nướng, bánh dẻo trung thu</a></li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+<li><a href="/trung-muoi/" target="_blank">Cách làm trứng muối</a></li>
+<li><a href="/banh-trung-thu-cach-xu-li-trung-muoi-cho-nhan-banh-trung-thu/" target="_blank">Cách xử lí trứng muối để làm nhân bánh</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" target="_blank">Cách chọn khuôn bánh trung thu</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" target="_blank">Cách làm rượu Mai Quế Lộ</a></li>
+<li><a href="/tu-lam-mau-thuc-pham-tu-rau-cu-qua-tu-nhien/" target="_blank">Tự làm màu thực phẩm từ rau củ quả tự nhiên</a></li>
+</ol>
+<p><strong>B. Cách làm bánh nướng trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-nau-nuoc-duong-cho-banh-nuong/" target="_blank">Cách nấu nước đường bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-lam-banh-nuong/" target="_blank">Cách làm bánh nướng trung thu (</a>trộn bột, bọc nhân, đóng bánh và nướng)</li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-dau-xanh-tra-xanh-la-dua/" target="_blank">Cách làm nhân đậu xanh – trà xanh – lá dứa</a></li>
+<li><a href="/banh-trung-thu-nhan-thap-cam-nhan-sua-dua/" target="_blank">Cách làm nhân thập cẩm – sữa dừa</a></li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-sen-nhuyen/" target="_blank">Cách làm nhân sen nhuyễn</a></li>
+<li><a href="/banh-trung-thu-tra-xanh-nhan-dau-do/" target="_blank">Bánh trà xanh nhân đậu đỏ</a></li>
+<li><a href="/banh-trung-thu-banh-nuong-hoa-cuc-vi-chanh-leo-nghe-tay-va-chanh-vang/" target="_blank">Bánh hoa cúc vàng (vị nghệ tây, chanh vàng, chanh leo)</a></li>
+<li><a href="/red-velvet-rose-mooncake-banh-nuong-nhan-chocolate-rum-nho/" target="_blank">Bánh nướng hoa hồng đỏ (màu đỏ củ dền, nhân café, chocolate, rum nho)</a></li>
+<li><a href="/cach-sen-nhan-khoai-mon-khoai-tim-banh-trung-thu/" target="_blank">Nhân khoai môn – khoai lang tím</a></li>
+<li><a href="/nhan-sau-rieng-banh-trung-thu/" target="_blank">Nhân sầu riêng bánh trung thu</a></li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+</ol>
+<p><strong>C. Cách làm bánh dẻo trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-lam-banh-deo/" target="_blank">Cách làm bánh dẻo kiểu Việt Nam ít ngọt</a></li>
+<li><a href="/cach-lam-banh-deo-truyen-thong/" target="_blank">Cách làm bánh dẻo truyền thống</a></li>
+<li><a href="/banh-trung-thu-chia-se-kinh-nghiem-lam-banh-deo/" target="_blank">Giải đáp các thắc mắc/ vấn đề thường gặp khi làm bánh dẻo</a></li>
+</ol>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

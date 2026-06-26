@@ -1,0 +1,57 @@
+---
+title: "Đi học làm bánh ở Le Cordon Bleu (p. cuối)"
+date: "2015-06-15"
+slug: "di-hoc-lam-banh-o-le-cordon-bleu-p-cuoi"
+categories: ["Chuyện linh tinh"]
+tags: ["chuyện hàng ngày"]
+image: "/wp-content/uploads/2015/06/LeCordonBleuPhan3.jpg"
+description: "học làm bánh, savoury days"
+---
+
+<p>Khóa học ở Le Cordon Bleu thế là đã kết thúc. Có quá nhiều cảm xúc cũng như kỉ niệm mà mình nghĩ khó có thể ghi lại được hết bằng từ ngữ. Chỉ biết cảm giác của mình trong ngày cuối, khi ngồi xếp các thứ tạp dề, khăn lau có in logo Le Cordon Bleu vào va-li để về nhà là chưa bao giờ thấy đồng tiền của mình được bỏ ra cho một mục đích xứng đáng và làm cho mình thấy hài lòng đến như thế.</p>
+<p>Nhưng cũng có thể một phần là bởi mình đã có nền kiến thức tương đối vững về bánh mì rồi. Nên sau khóa học này thì cảm thấy mọi thứ dường như được “nâng lên một tầm mới”. Và đặc biệt là có thêm vô vàn ý tưởng kèm cảm hứng, những thứ mà chỉ từ sách thì khó có thể có được. Nếu so với những điều này thì các công thức và kĩ thuật học được từ lớp chỉ là một phần rất nhỏ thôi. Và cũng có thể chính vì nó mà mình cảm thấy rất hài lòng với khóa học. Trong khi có một vài bạn khác trong lớp thì lại có phản hồi là chưa thấy hài lòng lắm, hay khóa học chưa đủ thiết thực, và thậm chí là khi các bạn ấy về nhà, chắc sẽ chẳng làm lại những công thức học được từ lớp nữa (thực sự thì mình thấy tiếc cho các bạn ấy lắm).</p>
+<p>Đi học, ngoài kiến thức thì còn vỡ ra được nhiều điều. Chẳng hạn như là có rất nhiều món bánh ngon – thứ mà mình cứ ngỡ chỉ có các bếp bánh chuyên nghiệp mới có thể làm được – thật ra đều có thể tự làm được ở nhà. Không có bí quyết gì cao siêu. Không có phụ gia (mấy thứ như kiểu <em>bread improver</em> đừng nhắc đến ở đây, bị mắng là cái chắc). Chỉ hoàn toàn là các phương pháp ủ bột truyền thống nhưng sản phẩm thì vẫn ngon tuyệt hảo.</p>
+<p>Có một chuyện khá thú vị mà mình cũng có nhắc tới trong bài viết đầu tiên về đi học ở Le Cordon Bleu. Ấy là trước giờ mình vẫn nghĩ châu Á thiên về trường phái bánh mì mềm ngọt nhẹ xốp hơn, trong khi châu Âu là cứng giòn. Như một số món bánh mà mình đã được thử ở Tokyo hay Singapore thì mình không nghĩ ở đây có thể tìm được loại nào mềm, mịn, nhẹ bỗng như thế. Nhưng đi học mới thấy mình đúng là con ếch ngồi đáy giếng, chỉ thấy khoảng trời nhỏ hẹp trên đầu. Thợ làm bánh Âu chuyên nghiệp hoàn toàn có thể làm được các loại bánh siêu mềm, siêu nhẹ. Nhưng, có lẽ là bởi kĩ thuật khác mà bánh mình ăn ở lớp thấy có mùi vị đậm đà hơn hẳn so với bánh nếm thử ở Nhật. Và nói thực là bây giờ mình thấy thích bánh mì làm theo kiểu Âu hơn nhiều các loại bánh mì mềm nhẹ kiểu Á vì cảm thấy nó “chất” và thú vị hơn (trong khi bánh kiểu Á hơi nhạt nhẽo một chút).</p>
+<p>Mình nhất định sẽ chia sẻ lại các công thức được học từ lớp tại Savoury Days, bởi vì cả một kho bánh ngon vậy mà không “phổ biến” được thì quả thực là rất phí. Nhưng chắc sẽ cần một khoảng thời gian khá khá, vài tuần cho đến vài tháng để thử và điều chỉnh lại các công thức này cho phù hợp với điều kiện của bếp gia đình. Nói thực là nếu làm lại được bánh ngon bằng khoảng 80% bánh làm ở lớp là đã mừng lắm lắm rồi. Bởi ở lớp ngoài thiết bị chuyên dụng thì cả các nguyên liệu từ bột cho đến bơ cũng là cho bếp bánh chuyên nghiệp nữa – thứ mà mình không tìm được trong các siêu thị thông thường, kể cả siêu thị tại Paris.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Cho nên nếu như có xem ảnh và thấy thèm một loại bánh nào đó thì chịu khó đợi mình thêm một chút nhé. Cũng như mọi công thức khác, ngay khi thử xong và cảm thấy công thức đủ tốt, đảm bảo để các bạn có thể làm được bánh ngon tại nhà và ít thất bại thì mình sẽ đăng ngay :)</p>
+<p>Trong khi chờ đợi mời mọi người xem thêm một số sản phẩm thực hiện trong mấy ngày cuối nhé:</p>
+<p style="text-align: center;"><em>Brioche trước khi nướng – mặt bánh được rạch một đường dài và phun bơ mềm vào giữa, mục đích để bánh nở rộng hơn trong lò (mẹo này mình có nhắc đến trong sách “Nhật ký học làm bánh 2” rùi, không biết có nhiều bạn áp dụng không :) )</em></p>
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/18827334542" title="IMG_2922 by Trang Linh, on Flickr"><img alt="IMG_2922" class="aligncenter" height="379" loading="lazy" src="https://c2.staticflickr.com/6/5343/18827334542_3108a6b1f1.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Cheesebread – “Most favourite” của mình. Bánh siêu siêu siêu của ngon, mềm, nhẹ, thơm, đậm đà. Đây cũng là món bánh mà mình ưu tiên thử trước nhất khi quay về nhà</em></p>
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/18806178146" title="IMG_2924 by Trang Linh, on Flickr"><img alt="IMG_2924" class="aligncenter" height="333" loading="lazy" src="https://c2.staticflickr.com/4/3825/18806178146_8e0a80a27d.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Cheesebread sau khi nướng xong</em></p>
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/18827338412" title="IMG_2935 by Trang Linh, on Flickr"><img alt="IMG_2935" class="aligncenter" height="500" loading="lazy" src="https://c2.staticflickr.com/4/3746/18827338412_d4ec8a2d89.jpg" width="400"/></a></p>
+<p style="text-align: center;"><em>Bánh mì các loại hạt – món giúp thầy giáo giành giải nhất toàn nước Pháp </em></p>
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/18806190336" title="IMG_2952 by Trang Linh, on Flickr"><img alt="IMG_2952" class="aligncenter" height="400" loading="lazy" src="https://c2.staticflickr.com/6/5346/18806190336_3e12609eb3.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p style="text-align: center;"><em>Brioche sau khi nướng xong (Harry Brioche so với món này vẫn còn thua một khoảng rất dài)</em></p>
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/18806191576" title="IMG_2956 by Trang Linh, on Flickr"><img alt="IMG_2956" class="aligncenter" height="375" loading="lazy" src="https://c2.staticflickr.com/4/3778/18806191576_4a8d1b67a2.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Halequin Sandwich có vị cà chua, nghệ và vị biển vì phần màu đen được làm với squid ink) – bánh sau khi ủ đang chờ nướng</em></p>
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/18832444925" title="IMG_3022 by Trang Linh, on Flickr"><img alt="IMG_3022" class="aligncenter" height="375" loading="lazy" src="https://c2.staticflickr.com/6/5539/18832444925_4bb6bbd55b.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>và sau khi nướng xong, bên trong trông như thế này</em></p>
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/18644711338" title="IMG_3036 by Trang Linh, on Flickr"><img alt="IMG_3036" class="aligncenter" height="334" loading="lazy" src="https://c2.staticflickr.com/4/3955/18644711338_f63b0fba48.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Một số món bánh nướng trong buổi học cuối – bánh mì nâu nâu là món giúp thầy giành giải vô địch châu Âu năm 2010 </em></p>
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/18835146551" title="IMG_3041 by Trang Linh, on Flickr"><img alt="IMG_3041" class="aligncenter" height="333" loading="lazy" src="https://c2.staticflickr.com/4/3803/18835146551_583585fa36.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>hihi ^.^</em></p>
+<p><img alt="IMG_3029" class="aligncenter wp-image-5423 size-medium" height="300" loading="lazy" sizes="(max-width: 225px) 100vw, 225px" src="/wp-content/uploads/2015/06/IMG_3029-225x300.jpg" width="225"/></p>
+<p>——————</p>
+<p>Có một vài bạn hỏi thông tin về việc học ở Le Cordon Bleu. Các bạn có thể xem thêm tại website của trường là: http://www.cordonbleu.edu/home/en</p>
+<p>Trường có rất nhiều Campus khác nhau tại khắp nơi trên thế giới. Tùy nơi mà chương trình học và học phí cũng khác nhau. Riêng ở Paris thì khóa mà mình học là khóa ngắn hạn và có phiên dịch sang tiếng Anh. Các khóa dài hạn cho đầu bếp chuyên nghiệp, nếu mình không nhầm thì chỉ có tiếng Pháp.</p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

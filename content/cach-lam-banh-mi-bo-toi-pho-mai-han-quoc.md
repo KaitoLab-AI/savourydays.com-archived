@@ -1,0 +1,76 @@
+---
+title: "Cách làm BÁNH MÌ BƠ TỎI PHÔ MAI HÀN QUỐC"
+date: "2020-03-19"
+slug: "cach-lam-banh-mi-bo-toi-pho-mai-han-quoc"
+categories: []
+tags: []
+image: "/wp-content/uploads/2020/03/cach-lam-banh-mi-bo-toi-han-quoc-banner.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Bây giờ là 30 phút sau khi mình vừa hoàn thành xong mẻ bánh mì bơ tỏi phô-mai kiểu Hàn, vừa chụp hình xong và đã xử lí hết 1 cái. Cảm xúc lúc này, biết nói thế nào nhỉ, kiểu phấn khích và sung sướng lắm lắm lắm ý!!! ^.^ Là cái cảm giác kiểu vừa chinh phục được thành tựu ý, mà chắc là cũng lâu lắm rồi mình mới có được :D</p>
+<p><img alt="" class="aligncenter size-large wp-image-8507" height="1024" loading="lazy" sizes="(max-width: 819px) 100vw, 819px" src="/wp-content/uploads/2020/03/cach-lam-banh-mi-bo-toi-pho-mai-han-quoc-6-819x1024.jpg" width="819"/></p>
+<p>Chắc mình sẽ bắt đầu bằng việc mô tả hương vị của cái bánh trong hình nhé. Nó thơm, rất thơm, cực kì thơm. Bơ và phô-mai thấm vào trong làm cho bánh siêu mềm, vị mằn mặn, ngọt ngọt, beo béo. Và các bạn có nhìn thấy phần hơi xém ở trên bánh kia không? Chính là điểm nhấn của cái bánh đó, vì nó rất giòn. Vị giòn quyện với vị mềm, lại thêm hương thơm và vị béo ngậy của bơ tỏi phô mai. Ui ngon điên đảo, ngon khó cưỡng, ăn một miếng muốn có miếng thứ hai, thứ ba,.. thứ n! Lúc trét bơ lên bánh mình cứ nghĩ sao tụi HQ lại có thể nghĩ ra cái món béo như này. Hehe, nhưng lúc ăn thì quả thực biết là béo đấy mà KHÔNG THỂ NGỪNG ĂN ĐƯỢC!!! :D</p>
+<p>Món bánh này thực ra tụi mình đã biết và đã thử từ cuối năm ngoái, khi nó bắt đầu hot ở bên Hàn, và lúc ấy tụi mình cũng đang làm khoá học online bánh mì ngọt mềm nâng cao (cùng pizza và bánh mì nguyên cám) nữa. Hồi đó tất cả các công thức của HQ mà tụi mình biết đều dùng pho-mai kem (cream cheese) nhét vào giữa bánh, tụi mình đã thử như thế và nói thật là ngấy không ăn nổi. Tuy nhiên vì trong lớp online có một món bánh mì với sốt bơ tỏi siêu ngon nên tụi mình có hứa với các học viên là sẽ nghiên cứu món này, do chỉ cần làm thêm sốt phô-mai thôi. Mà xong bẵng đi một thời gian bận quá chưa kịp làm, đến mấy ngày nay lại thấy bánh có ở khắp nơi trên FB nên tụi mình quyết tâm thử lại, và tèn ten… lại có thêm một công thức để tụi mình tự hào nữa ;)</p>
+<p>Về cách làm, món này gồm có phần vỏ bánh, sốt bơ tỏi và sốt phô-mai. Vỏ bánh dùng loại nào cũng được, hôm nay mình dùng Amish White Bread, bánh cơ bản nhất trong số các loại bánh mì. Không cần quá cầu kì phần bánh vì sự ngon của món này nằm ở sốt bơ tỏi và sốt phô-mai là chủ yếu.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Với sốt phô-mai, nếu làm theo kiểu HQ chỉ cho cream cheese vào giữa bánh sẽ ngấy lắm. Nên mình đã thay đổi bằng việc đánh cream cheese với một số nguyên liệu khác thành sốt mềm mịn mượt rồi phun vào bánh. Có thể ở HQ người ta chỉ dùng là vì có cream cheese ngon. Như trước đây khi mình ở châu Âu, dùng Philadelphia cream cheese của Kraft rất thích vì mùi vị ổn mà đánh lên rất mượt. Về VN hơi khó khăn hơn tại cream cheese vị ngon thì hơi béo và đặc quá, đánh dễ vón cục. Còn loại dễ đánh mượt thì vị lại không ngon lắm. Thực ra lần này cũng may vì hôm vừa rồi nhà hết cream cheese, đi mua ở Abby thấy các em giới thiệu có loại mới của Mỹ, mua một cục về thử xem sao, kết quả rất ổn, vị chua dịu mặn vừa, mềm mượt rất dễ đánh. Mình ghi tên loại cream cheese ở trong phần nguyên liệu cho bạn nào làm thì thử nhé</p>
+<p>Với sốt bơ tỏi, hồi làm khoá bánh mì online, tụi mình đã có một công thức sốt bơ tỏi ngon siêu cấp thần thánh vô địch thiên hạ rồi. Nhưng mong cách bạn thông cảm vì đây là ct trong lớp online, tụi mình không chia sẻ ra ngoài được, vì làm như vậy sẽ là không công bằng với các học viên đã đóng học phí để tham gia khoá học. Có điều thời gian này mọi thứ đều u ám quá, mình cũng muốn làm việc gì đó giúp cho mọi người vui vẻ hơn nên tụi mình sau khi cân nhắc thì có 2 quyết định như sau ạ:</p>
+<p>(1) với các bạn đọc của SD, tụi mình đã sáng tác ra một ct sốt bơ tỏi mới để tặng các bạn. Phiên bản này dễ làm, mặc dù không thần thánh bằng ct trong lớp học nhưng vẫn rất ngon.</p>
+<p>(2) với các bạn muốn học làm bánh có bài bản và đặc biệt là các bạn muốn kinh doanh, tụi mình sẽ giảm 20% học phí của riêng lớp bánh mì online ABM, là lớp học về các loại bánh mì siêu siêu mềm, với nhân sữa dừa, sốt bơ tỏi, các loại pizza và một số bánh mì nguyên cám. Thời gian này mọi người ở nhà nhiều nên mình biết nhu cầu kinh doanh bánh cũng tăng cao. Các kiến thức trong lớp chắc chắn sẽ hỗ trợ các bạn rất nhiều trong việc “khởi nghiệp” với cửa hàng bánh tại gia đó ;) Sau khi giảm 20%, học phí lớp ABM còn 985K (ưu đãi áp dụng đến hết 24/3 ạ).</p>
+<p>Ngoài ra, tụi mình vẫn áp dụng chính sách giảm 20% cho học viên cũ đã học 2 khoá hoặc học viên mới đăng kí từ 3 khoá trở lên nhé. Thông tin đăng kí có tại đây ạ: <a href="https://forms.gle/AWXRn2TfdBkay8kv6">https://forms.gle/AWXRn2TfdBkay8kv6</a></p>
+<h2>CÁCH LÀM BÁNH MÌ BƠ TỎI PHÔ-MAI HÀN QUỐC</h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<ul>
+<li><em>8 cái bánh mì (mình làm 1.5 công thức <a href="/banh-my-goi-trang-amish-white-bread/"><strong>Amish White Bread</strong></a>, được 8 bánh cỡ 70 g/ cái)</em></li>
+</ul>
+<p><strong>* Sốt pho-mai </strong></p>
+<ul>
+<li><em>200 g cream cheese (mình dùng cream cheese của Schreiber, nhập từ Mỹ, mua ở <a href="https://abby.vn"><strong>Abby.vn</strong></a>, có cửa hàng ở HN và TPHCM, ship toàn quốc)</em></li>
+<li><em>100 g kem tươi (whipping cream, dùng của hãng nào cũng được, lưu ý độ béo trên 30%) </em></li>
+<li><em>25 g đường bột (icing sugar)  </em></li>
+</ul>
+<p><strong>* Sốt bơ tỏi</strong></p>
+<ul>
+<li><em>20 gram tỏi băm nhỏ </em></li>
+<li><em>100 gram bơ nhạt (dùng bơ nào mà bạn thấy ngon nhé) </em></li>
+<li><em>20 gram kem tươi (whipping cream) </em></li>
+<li><em>25 gram đường bột  </em></li>
+<li><em>3 gram muối </em></li>
+<li><em>ít lá thơm mixed herbs của Ý (hỗn hợp Oregano, Basil, thymes… mua ở siêu thị Vinmart hay Abby đều có) </em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><strong>A. Sốt phô mai</strong></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>– Để cream cheese ra ngoài cho hết lạnh và cream cheese rất mềm. Đánh bằng máy ở tốc độ thấp nhất cho cream cheese mịn mượt rồi cho whipping và rây đường bột vào. Đánh Ở TỐC ĐỘ THẤP đến khi các nguyên liệu hoà quyện và đặc sệt thì dừng lại. Nếu không có máy đánh trứng, các bạn dùng phới lồng cầm tay cũng được.</p>
+<p>– Các lưu ý quan trọng:</p>
+<ul>
+<li>Cream cheese cần để hết lạnh và đánh trước rồi mới cho kem tươi whipping vào. Nếu cream cheese vẫn còn lạnh hoặc cho cream cheese đánh chung với whipping, sẽ rất dễ bị vón cục. Tuy nhiên, nếu chẳng may bị vón cục, các bạn cứ kệ nó và dùng tiếp, khi nướng các cục chất béo bị vón sẽ tan ra bớt, sẽ không sao lắm đâu.</li>
+<li>Nên dùng đường bột vì đường kính trắng hạt to sẽ khó tan.</li>
+<li>Không đánh quá kĩ hoăc đánh ở tốc độ cao sẽ làm hỗn hợp bị tách nước (hỗn hợp lổn nhổn, chất béo và nước tách riêng)</li>
+</ul>
+<p>– À, ngoài sốt này ra mình có thử cho Mozzarella vào bánh, nhưng ăn không ngon bằng khi có sốt kem pho-mai kiểu này.</p>
+<p><strong>B. Sốt bơ tỏi </strong></p>
+<p>– Cho 20 gram bơ (của phần bơ 100 g trong công thức) vào nồi đế dày, đun lửa vừa cho bơ tan chảy thì cho tỏi vào. Đảo nhẹ tay trên lửa vừa đến khi tỏi hết hăng nhưng vẫn còn màu trắng, chưa tới mức chuyển vàng. Bước phi tỏi này rất quan trọng, sẽ làm cho sốt của các bạn thơm hơn nhiều và không bị mùi hăng của tỏi tươi. Để nguội. Nên dùng tỏi tươi thay vì bột tỏi vì tỏi tươi thơm hơn nhiều.</p>
+<p>– Phần 80 gram bơ còn lại quay lò vi sóng 1 xíu cho mềm hơn (nhưng không bị chảy nước). Cho kem tươi (whipping cream), đường, muối và phần tỏi phi đã nguội vào trộn đều tới khi ta có hỗn hợp sệt. Có thể quay vi sóng 1 chút cho hỗn hợp hơi nhão nhưng không chảy nước. Nếm lại và thêm đường muối nếu cần. Sốt sẽ có vị hơi mằn mặn, ngòn ngọt, thơm mùi tỏi. Có thể cho thêm một xíu lá thơm vào đây.</p>
+<p><strong>C. Hoàn thiện bánh </strong></p>
+<p>– Làm nóng lò ở 180 độ C</p>
+<p>– Dùng dao cắt bánh mì, chia bánh thành 6 phần bằng nhau. Giống kiểu ở HQ thì sẽ cắt đến gần sát đáy bánh luôn. Nên dùng dao lưỡi cưa chuyên để cắt bánh mì, và cắt theo kiểu như cưa gỗ, đưa qua đưa lại, thì lát cắt sẽ rất đẹp (nếu dùng dao thường cắt bánh sẽ hơi khó).</p>
+<p><img alt="" class="aligncenter size-large wp-image-8503" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2020/03/cach-lam-banh-mi-bo-toi-han-quoc-02-1024x683.jpg" width="1024"/></p>
+<p>– Lấy chổi quét 1 lớp bơ tỏi vào khắp phần bên trong bánh, quét một lớp mỏng vừa.</p>
+<p><img alt="" class="aligncenter size-large wp-image-8504" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2020/03/cach-lam-banh-mi-bo-toi-pho-mai-han-quoc-3-1024x682.jpg" width="1024"/></p>
+<p>– Cho sốt phô mai vào túi bắt kem, cắt đầu túi và phun ở giữa các múi bánh. Các bạn cắt đầu túi độ 0.8 – 1cm và chỉ phun 1 đường giữa 2 múi bánh thôi nhé, nhiều hơn ăn dễ bị ngấy.</p>
+<p><img alt="" class="aligncenter size-large wp-image-8505" height="684" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2020/03/cach-lam-banh-mi-bo-toi-pho-mai-han-quoc-4-1024x684.jpg" width="1024"/></p>
+<p>– Sau khi xong hết, quét 1 lớp bơ lên ngoài vỏ bánh. Rắc thêm ít lá thơm lên trên bánh.</p>
+
+
+<p><img alt="" class="aligncenter size-large wp-image-8506" height="684" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2020/03/cach-lam-banh-mi-bo-toi-pho-mai-han-quoc-5-1024x684.jpg" width="1024"/></p>
+<p>– Nướng ở 180 độ C trong 7 phút (2 phút cuối mình bật quạt lò cho bánh xém nhanh, nhiệt và thời gian nướng sẽ thay đổi tuỳ lò nhé). Đến khi phô-mai chảy ra, vỏ bánh giòn thơm. Dùng nóng. Bánh này nếu để qua ngày thì hôm sau có thể nướng lại ở 175 – 180 độ C cũng được.</p>
+<p>Chúc các bạn ngon miệng hoặc kinh doanh thiệt là đắt hàng!! ;)</p>
+<p><img alt="" class="aligncenter size-large wp-image-8508" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2020/03/cach-lam-banh-mi-bo-toi-pho-mai-han-quoc-7-1024x683.jpg" width="1024"/></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

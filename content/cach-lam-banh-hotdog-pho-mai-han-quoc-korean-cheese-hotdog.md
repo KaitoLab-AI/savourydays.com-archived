@@ -1,0 +1,68 @@
+---
+title: "Cách làm HOTDOG PHÔ-MAI HÀN QUỐC (Korean Cheese Hotdog)"
+date: "2018-11-30"
+slug: "cach-lam-banh-hotdog-pho-mai-han-quoc-korean-cheese-hotdog"
+categories: []
+tags: []
+image: "/wp-content/uploads/2018/11/cách-làm-hotdog-phô-mai-banner.jpg"
+description: "Cách làm hotdog phô-mai kiểu Hàn tuyệt ngon với lớp vỏ ngoài giòn rụm, mỏng, xốp nhẹ cùng phần nhân xúc xích quyện phô-mai kéo sợi chảy dài..."
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #000000;">“Siu phẩm” cho ngày cuối tuần mát giời đây ạ :D Thật ra là cuối tuần này có tận 2 “siu phẩm” cơ, là món này và một món bí mật khác, tối mai sẽ đăng. Đều là công thức mới mà cả SD team đều rất ưng ý, nên mong là sẽ góp phần giúp cho các bạn đọc của SD cũng có một cuối tuần thật thơm ngon nhé ;)</span></p>
+<p><span style="color: #000000;">Món hotdog này chắc là không cần phải giới thiệu nữa rồi, là kiểu món ăn vô cùng hợp với những ngày se se lạnh và ngon tới mức có thể ăn thay bữa chính được. Lớp vỏ mỏng giòn, xốp nhẹ bọc lấy xúc xích và phô-mai bắt đầu chảy dài kéo sợi, thêm một chút tương cà, một tẹo tương ớt, một xíu mù tạt vàng, vừa ăn vừa thổi phù phù, vừa xuýt xoa. Èo, chỉ tả thôi mà thấy lại thèm ghê ấy :”&gt;</span></p>
+<p><span style="color: #000000;"> Làm món hotdog này quan trọng nhất chắc là phần vỏ, và đây cũng là phần mà SD team tự hào nhất vì đã tìm ra được công thức: nhẹ hơn, xốp hơn, giòn hơn ngoài hàng. Nhược điểm duy nhất khi làm món ăn này là hơi tốn dầu chiên một xíu. Nhưng có lẽ đây cũng là ưu điểm vì chiên ở nhà, dùng dầu mới sẽ an tâm hơn là dầu mà các quán ăn chiên đi chiên lại rất nhiều lần rồi. </span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7713" height="684" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/11/cách-làm-hotdog-phô-mai-hàn-quốc-3-1024x684.jpg" width="1024"/></p>
+<h2><span style="color: #000000;">Cách làm HOTDOG PHÔ-MAI HÀN QUỐC (Korean Cheese Hotdog)</span></h2>
+<p><span style="color: #000000;"><span style="color: #800000;"><strong>Nguyên liệu</strong></span></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">10 cây xúc xích</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">200 gram phô mai mozzarella </span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">350 gram bột mỳ đa dụng</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">130 gram đường</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">40 gram bột ngô</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">10 gram bột nở (2 tsp/ 2 thìa cafe)</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">8 gram muối (khoảng 1.5 tsp/ 1.5 thìa cà phê)</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">3 quả trứng gà</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">360 gram sữa tươi không đường</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">100 gram bột chiên xù</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">10 Xiên tre</span></em></span></li>
+<li><span style="color: #000000;"><em><span style="font-weight: 400;">Sốt ăn kèm: Tương ớt, ketchup, mayonaise, </span></em></span></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><span style="font-weight: 400; color: #000000;">1. Trộn bột</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Trong 1 âu to, trộn đều hỗn hợp khô gồm 350 gram bột mỳ đa dụng, 130 gram đường, 40 gram bột ngô, 10 gram bột nở, 8 gram muối</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Đánh tan nhẹ 3 quả trứng trong 1 âu khác, cho sữa tươi vào, trộn đều đến khi hòa quyện với trứng</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Từ từ đổ hỗn hợp trứng sữa vào âu nguyên liệu khô, dùng phới lồng trộn đến khi hỗn hợp hoàn toàn hòa quyện, hơi đặc. </span></p>
+<p><span style="color: #000000;">* Lưu ý: Tùy từng loại bột mà độ hút nước khác nhau, bột thành phẩm cần vừa đủ đặc để khi lăn xúc xích qua bột bám được một lớp quanh xúc xích. Nếu thấy hỗn hợp quá đặc thì có thể cho thêm sữa, nếu quá loãng thì thêm bột mì. Nên cho trứng sữa vào từ từ, tới khi bột vừa đủ đặc thì dừng lại. Cố gắng tránh để bột loãng, vì nếu cho thêm quá nhiều bột mì (để chữa bột loãng) thì khi chiên xong sẽ bị khô, bứ. </span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Chuẩn bị que xiên</span></p>
+<p><span style="color: #000000;"><span style="font-weight: 400;">– Dùng giấy bếp hoặc khăn ăn sạch thấm thật khô xúc xích và phô mai. </span><span style="font-weight: 400;">Lưu ý: Nếu xúc xích hoặc phô mai còn ướt thì sẽ không bám được bột khi chiên</span></span></p>
+<p><span style="font-weight: 400; color: #000000;">– Cắt xúc xích thành miếng dài cỡ 3,5 cm</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Thái phô mai thành từng miếng chữ nhật có kích thước bằng miếng xúc xích</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #000000;"><span style="font-weight: 400;">3. Dùng nồi hoặc chảo sâu lòng (nên dùng chảo có độ to vừa phải, để tiết kiệm dầu do cần chiên ngập dầu). Đổ dầu ăn vào nồi hoặc chảo sao cho đủ để xiên hotdog ngập trong dầu. Đun lửa to tới khi dầu rất nóng (khoảng 400 độ C, </span>thử dầu bằng cách cho đũa vào, nếu rất nhiều bong bóng sủi quanh đầu đũa thì dầu đạt)</span></p>
+<p><span style="color: #000000;">* Lưu ý: dầu cần phải rất nóng để làm cho lớp vỏ xúc xích cứng lại nhanh. Nếu dầu không đủ nóng, vỏ không kịp cứng lại trước khi phô-mai chảy ra thì hotdog sẽ bị bẹt, không đẹp.</span></p>
+<p><span style="font-weight: 400; color: #000000;">4. Trong khi chờ dầu nóng thì tiến hành xiên xúc xích và phô mai</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Dùng xiên tre xiên xúc xích xuống dưới (để chừa ra khoảng 3cm để cầm), rồi đến phô mai, sao cho xúc xích và phô mai che kín đầu nhọn của xiên tre.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Xiên lần lượt đến hết xúc xích và phô mai. Dùng giấy thấm khô các que xiên 1 lần nữa để các nguyên liệu thật khô ráo. </span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7710" height="684" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/11/cách-làm-hotdog-1-1024x684.jpg" width="1024"/></p>
+<p><span style="font-weight: 400; color: #000000;">5. Lăn bột: </span></p>
+<p><span style="font-weight: 400; color: #000000;">– Đổ bột chiên xù ra 1 khay rộng, dàn đều. Đổ hỗn hợp bột ở bước (1) ra một đĩa rộng khác. </span></p>
+<p><span style="color: #000000;">– Lăn từng xiên xúc xích phô mai qua khay bột sệt rồi lăn qua bột chiên xù. Làm sao để bột bao đều thành một lớp mỏng quanh xiên, che kín nguyên liệu. Do bột ướt khá sệt nên làm cách này sẽ dễ hơn là nhúng cả xiên vào hỗn hợp bột ướt, khi nhấc que lên sẽ hơi nặng. </span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7708" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/11/Ảnh-korean-hotdog-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">6. Nhẹ nhàng và cẩn thận đặt từng que bột vào nồi dầu rất nóng. Chiên khoảng 2 phút mỗi mặt tới khi que bột chín vàng đều. </span></p>
+<p><span style="color: #000000;">* Lớp bột đủ mỏng và dầu đủ nóng sẽ tạo ra một lớp vỏ mỏng vừa phải, giòn, xốp, nhẹ. Nếu bột quá loãng hoặc dầu chưa đủ nóng thì lớp vỏ dễ bị rách, xiên bị dẹt, méo. Nếu bột quá dày, khả năng vỏ ngoài cháy mà bên trong chưa chín hết sẽ khá cao. Do vậy nếu chưa quen thì bạn nên làm nhiều hơn 1 chút để thử với 1, 2 xiên đầu nhé :-) </span></p>
+<p><img alt="" class="aligncenter size-large wp-image-7709" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/11/Ảnh-korean-hotdog1-1024x683.jpg" width="1024"/></p>
+<p><span style="font-weight: 400; color: #000000;">7. Dùng nóng với mayonnaise, ketchup, tương ớt, mù tạt hoặc lăn qua một lớp đường mỏng theo đúng chuẩn Hàn rồi rưới lên bất kì loại sốt nào mà bạn thích. Chúc các bạn ngon miệng nhé!!</span></p>
+<p style="text-align: center;"><em><strong>Hotdog phủ sốt </strong></em></p>
+
+
+<p><img alt="" class="aligncenter size-large wp-image-7712" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/11/cách-làm-hotdog-phô-mai-hàn-quốc-2-1024x683.jpg" width="1024"/></p>
+<p style="text-align: center;">dùng nóng khi phô-mai còn kéo sợi dài như thế này nha :)</p>
+<p style="text-align: center;"><img alt="" class="aligncenter size-large wp-image-7714" height="684" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/11/cách-làm-hotdog-phô-mai-hàn-quốc-4-1024x684.jpg" width="1024"/></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

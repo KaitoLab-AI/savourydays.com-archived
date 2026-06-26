@@ -1,0 +1,48 @@
+---
+title: "Fruit Cake & Công thức Pound Cake (bánh bông lan) cơ bản (Highly Recommend)"
+date: "2011-10-28"
+slug: "fruit-cake-cong-thuc-pound-cake-banh-bong-lan-co-ban-highly-recommend"
+categories: []
+tags: []
+image: "/wp-content/uploads/2011/10/Fruit-cake.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Xem thêm về <a href="/nhat-ki-hoc-lam-banh-phan-3-cake-va-butter-cup-cake/">Pound Cake và phương pháp đánh bột dành cho Pound Cake</a>.</p>
+<p>Điều đầu tiên phải nói là mình rất rất rất thích công thức này và highly recommend các bạn dùng công thức này cho Pound cake (xin lỗi cả nhà vì cái từ tiếng Anh kia không biết dịch sang tiếng Việt thế nào cho hay :”&gt;). Tuy là ở trong một bài trước mình có giới thiệu công thức The Perfect Pound Cake của tác giả cuốn The Cake Bible, bánh cũng ngon, nhưng so với công thức này thì không bằng được :)</p>
+<p>Đây là công thức của Cook’s Illustrated. Để ra được công thức này thì bản thân các chuyên gia của Cook’s Illustrated cũng thử rất nhiều công thức pound cake, thay đổi tỉ lệ thành phần nguyên liệu cũng như cách trộn bột khác nhau. So với công thức Pound Cake cơ bản (1 bơ: 1 đường: 1 sữa: 1 trứng) thì công thức này có một số điểm khác biệt là <em>bột được giảm bớt một chút và trứng được tăng thêm một chút.</em> Việc sử dụng 2 quả trứng + 2 lòng đỏ trứng không chỉ giúp cho kết cấu bánh được ổn định (bù cho việc bớt bột để bánh bớt khô), mà còn giúp bánh có màu vàng đẹp. Ngoài ra trong quá trình đánh bột, thay vì cho từng quả trứng vào đánh thì trứng và các chất lỏng khác được đánh tan trước rồi cho vào hỗn hợp rất chậm &amp; rất từ từ. Ưu điểm của việc này là giúp cho bột không bị lợn cợn ốc trâu (hiện tượng rất thường gặp khi làm các loại bánh sử dụng nhiều bơ). Nhờ những thay đổi này mà Pound Cake làm theo công thức này hoàn toàn không bị khô, rất mềm, rất mịn và rất thơm ;) Đợt vừa rồi mình có làm bánh này mấy lần để mời đồng nghiệp, lời khen chung nhất và nhiều nhất là bánh không bị khô, mềm và thơm :) Với Pound Cake thì mình nghĩ đây là một sự thành công “nhớn” rồi nhỉ ;)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6287064448/" title="White fruit cake by LinhTrang9185, on Flickr"><img alt="White fruit cake" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6108/6287064448_6628991f26_z.jpg" width="432"/></a></p>
+<p>Thế còn Fruit Cake thì có liên hệ gì ở đây :) Thật ra Fruit Cake là từ Pound cake mà ra thôi, chỉ là thêm vào các loại quả và hạt khô. Quả và hạt này thường được ngâm với rượu vừa để giúp hoa quả mềm, vừa tăng thêm hương vị cho bánh. Công thức ở dưới đây của mình là Fruit cake nhưng nếu bỏ phần quả khô &amp; rượu Rum ngâm quả đi thì sẽ là công thức Pound cake cơ bản nhé. Ngoài ra thì công thức Pound cake này cũng có thể dùng để làm Cupcake được nữa, rất là tiện :)</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><strong>Nguyên liệu</strong></p>
+<ul>
+<li><em>135g bột mỳ đa dụng (all-purpose flour/ plain flour)</em></li>
+<li><em>150g bơ nhạt – <strong>ở nhiệt độ phòng</strong></em></li>
+<li><em>130g đường</em></li>
+<li><em>2 quả trứng &amp; 2 lòng đỏ trứng (155gram không tính vỏ) – <strong>ở nhiệt độ phòng </strong></em></li>
+<li><em>5 ml/ 1 teaspoon sữa – <strong>ở nhiệt độ phòng</strong></em></li>
+<li><em>1/8 teaspoon muối</em></li>
+<li><em>1 teaspoon vanilla extract</em></li>
+<li><em>150g hoa quả khô các loại ngâm với 3 tablespoons rượu Rum</em></li>
+</ul>
+<p>* Hoa quả khô mình dùng nho, mận, anh đào, cranberry, dưa vàng, mỗi thứ một ít, các bạn có thể dùng các loại khác tùy thích. <strong>Loại nào to thì các bạn cắt thành cỡ hạt lựu nhé</strong>. Ngoài hoa quả thì các bạn cũng có thể cho thêm các loại hạt như hạt óc chó, hồ đào, hạt dẻ cười…</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6286584699/" title="White fruit cake by LinhTrang9185, on Flickr"><img alt="White fruit cake" class="aligncenter" height="340" loading="lazy" src="http://farm7.static.flickr.com/6218/6286584699_470aa93bd9.jpg" width="500"/></a></p>
+<p><strong>Cách làm</strong></p>
+<p><span id="more-1072"></span></p>
+<p>1. Hoa quả khô rửa với nước ấm cho sạch lớp đường bao ngoài. Xóc cho ráo nước rồi ngâm với rượu Rum. Đậy kín để khoảng 7-8 tiếng (hoặc qua đêm) cho hoa quả ngấm rượu.</p>
+<p>Hoa quả khô sau khi đã ngâm với Rum thì đổ ra rổ cho ráo. Giữ lại rượu ngâm để phết lên bánh.</p>
+<p>2. Làm nóng lò ở 165 độ C (325 độ F) – hai lửa. Chống dính khuôn bằng xịt chống dính hoặc lấy bơ thoa đều khắp lòng khuôn rồi phủ một lớp bột lên. Xoay khuôn cho bột bao đều khắp lòng khuôn. Úp ngược khuôn cho bột thừa rơi ra ngoài.</p>
+<p>3. Để máy đánh trứng ở tốc độ vừa, đánh bơ với muối trong khoảng 15giây. Giữ máy chạy, từ từ rây hoặc rắc đường vào âu (mất khoảng 30s để cho hết số đường). <em>Hoặc có thể chia đường làm 3 phần rồi rây lần lượt vào âu, đánh mỗi phần khoảng 10s rồi cho tiếp. </em>Đánh bơ với đường đến khi bơ bông mịn &amp; chuyển sang màu trắng ngà. Thi thoảng dừng máy và vét thành âu để bơ được đánh đều.</p>
+<p>4. Trong một cái âu khác dùng que đánh trứng (whisk) đánh đều trứng, lòng đỏ trứng, sữa và vanilla. Để máy chạy ở tốc độ vừa, từ từ đổ hỗn hợp chất lỏng vào âu bơ đường, đánh đều. <strong>Lưu ý là đổ chậm &amp; rất từ từ nhé, bạn nào không quen thì có thể chia trứng thành 4-5 phần, cho từng phần vào âu bơ, đánh đều sau mỗi lần cho trứng.</strong></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>5. Lấy 80% chỗ bột, chia làm 2 phần, lần lượt rây vào âu và để máy ở tốc độ vừa, đánh đều sau mỗi lần thêm bột.</p>
+<p>6. Lấy 20% chỗ bột còn lại trộn với hoa quả khô (đã chắt hết rượu ngâm) rồi trộn số hoa quả này với hỗn hợp bột trứng trong âu.</p>
+<p>7. Đổ bột vào khuôn, dùng thìa gỗ hoặc spatula dàn mặt bột cho phẳng. Nướng ở nhiệt độ 165 độ trong khoảng 55-65 phút. Nếu sau khoảng ½ hoặc 2/3 thời gian nướng mà thấy mặt bánh có dấu hiệu quá vàng thì lấy một miếng giấy bạc che mặt bánh để mặt bánh khỏi bị cháy.</p>
+<p>Bánh chín lấy ra khỏi lò, để bánh nguội trong khuôn khoảng 5 phút rồi dùng một con dao lưỡi mỏng rọc quanh thành khuôn, lấy bánh ra, phết rượu Rum đều lên mặt &amp; thành bánh. Để bánh nguội hẳn trên rack.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6286558297/" title="White fruit cake by LinhTrang9185, on Flickr"><img alt="White fruit cake" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6226/6286558297_8afa9a3561_z.jpg" width="471"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,65 @@
+---
+title: "Cách làm BÁNH MÀN THẦU SỮA – KHÔNG CẦN NHỒI BỘT"
+date: "2021-09-16"
+slug: "cach-lam-banh-man-thau-sua-khong-can-nhoi-bot"
+categories: []
+tags: []
+image: "/wp-content/uploads/2021/09/cach-lam-banh-man-thau-sua-banner-610x300.jpg"
+description: "Cách làm bánh màn thầu sữa thơm ngon, không cần nhồi bột và chiên bằng nồi chiên không dầu. Công thức kèm video hướng dẫn ch itiết"
+---
+
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Có bạn nào <span style="color: #000000;">cũng mê mẩn mấy cái bánh bao chay nhỏ xinh trắng mịn, mềm xốp, thơm mùi sữa không nhỉ :D Lần nào đi đám cưới mình cũng chỉ mong đợi nhất món bánh bao ăn kèm với bò sốt tiêu đen thôi 😅</span></p>
+<p><span style="font-weight: 400; color: #000000;">Công thức màn thầu này sẽ làm ra kiểu bánh bao có kết cấu hơi khác so với bánh nhân thịt truyền thống của Việt Nam một chút, ruột bánh thơm mùi sữa hơn, ít xốp và ăn cảm giác “chất” hơn, đặc biệt là có lớp da rất mỏng, hơi dai nhẹ (bình thường mình hay thích bóc lớp da này để ăn trước 😅). Bánh để chấm với sữa đặc hay ăn với thịt kho đều rất ngon, nếu chiên/nướng giòn lên thì cực ngon :D</span></p>
+<p><span style="font-weight: 400; color: #000000;">Bột bánh bao bình thường nhồi tay khá là mệt vì bột tương đối khô và nặng, bạn nào không quen sẽ thấy sao nhồi mãi bột không mịn, nhưng với cách làm của tụi mình thì đảm bảo ai cũng làm được, bột kiểu gì cũng mịn nha 😉😉</span></p>
+<p><span style="font-weight: 400; color: #000000;">——————-</span></p>
+<p><span style="font-weight: 400; color: #ff0000;"> NHẮN NHẮN:</span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="font-weight: 400; color: #ff0000;">Chương trình HỖ TRỢ HỌC PHÍ tới 30% TOÀN BỘ khóa học Online CHỈ CÒN 01 NGÀY nữa thôi ạ. Đây là mức hỗ trợ cực hiếm có, chỉ dành riêng cho thời điểm dịch bệnh này nên cả nhà nhanh tay nhé </span></p>
+<p><span style="color: #000000;"><span style="font-weight: 400;"> Bạn xem chi tiết chương trình học tại đây:</span> <span style="color: #0000ff;"><strong><a href="https://bit.ly/chuongtrinhhocSD" style="color: #0000ff;">https://bit.ly/chuongtrinhhocSD</a></strong></span></span></p>
+<p><span style="color: #000000;"><span style="font-weight: 400;"> Để đăng ký khóa học, cả nhà điền vào form này:</span><span style="color: #0000ff;"><strong><a href="https://bit.ly/dangkykhoahocSD" style="color: #0000ff;"> https://bit.ly/dangkykhoahocSD</a></strong></span><span style="font-weight: 400;"> hoặc để lại bình luận dưới bài đăng này ạ </span></span></p>
+<p>——-</p>
+<h2>CÁCH LÀM BÁNH MÀN THẦU SỮA</h2>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">140 gram bột mì đa dụng </span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">10 gram bột ngô (có thể dùng toàn bộ bột đa dụng)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">½ thìa cafe men nở</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">85 – 90 gram sữa tươi không đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">8 gram đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">8 gram sữa đặc</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 nhúm muối</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">5 gram dầu ăn</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">10 gram sữa chua không đường (không bắt buộc, nhưng sữa chua sẽ giúp bánh xốp hơn)</span></em></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;"><strong>* Lưu ý:</strong> Với lượng đường trên, nếu bạn nào ăn ngọt sẽ thấy hơn nhạt, tuy nhiên không nên tăng đường, dễ làm bánh có mùi men. Bánh màn thầu thường chấm sữa đặc hoặc ăn kèm với các loại thịt kho mặn nên độ ngọt này là vừa nha.</span></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/dFTNHTxd394" width="560"></iframe></div>
+<ol>
+<li><span style="font-weight: 400; color: #000000;"> Trộn đều các nguyên liệu ướt (gồm sữa tươi, đường, muối, sữa chua, sữa đặc, dầu ăn) đến khi đường tan. </span></li>
+<li><span style="font-weight: 400; color: #000000;"> Trộn đều bột mì, bột ngô với men nở. Đổ hỗn hợp sữa vào, trộn đều tới khi không còn bột khô, bọc kín để nghỉ trong tủ lạnh 15 phút.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Sau khi để nghỉ, kéo nhẹ và gập mép bột vào giữa khoảng 10 lần. Bước này giúp các nguyên liệu hòa quyện hoàn toàn.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Chống dính mặt bàn và cân cán bột. Cán bột thành hình chữ nhật, dày khoảng 1cm. Gập bột như video. Ở lần cán đầu tiên, bột sẽ hơi dính do lúc này bột chưa dẻo dai.</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">Xoay miếng bột và tiếp tục lặp lại theo tác cán thêm 3 – 4 lần tới khi thấy mặt bột mịn. Nhà bạn nào có máy cán mì có thể cán bằng máy. Chỉ cán tới khi bột mịn, không cán quá nhiều làm bột bị dai và khô.</span></p>
+<ol start="5">
+<li><span style="font-weight: 400; color: #000000;"> Sau khi mặt bột đã mịn. Cán sơ miếng bột (bột lúc này sẽ rất co, khó cán), che kín miếng bột rồi để nghỉ khoảng 3 phút sau đó cán tiếp sẽ giúp bột đỡ co. Cán bột mỏng 0,5 – 0,8cm. </span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">* Lưu ý quan trọng: Để mặt bánh khi hấp xong được mịn, bột không được có bọt khí. Vì vậy, ở lần cán cuối cùng, nếu thấy có bóng khí trên mặt bột, cần ép cho bọt khí ra ngoài rìa, sau đó có thể dùng tăm để chọc vỡ phần bọt khí này.</span></p>
+<ol start="6">
+<li><span style="font-weight: 400; color: #000000;"> Lật ngược miếng bột để phần mịn hơn quay ra ngoài. Cuộn bột chặt tay để ruột bánh nở đẹp. Nếu mặt bột khô quá, có thể quét 1 lớp nước mỏng để khi cuộn bột kết dính tốt hơn.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Vê nhẹ phần bột và xử lí 2 đầu bột giống video.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Chia bột thành 6 phần bằng nhau (khoảng 45 – 48 gram/phần).</span></li>
+<li><span style="color: #000000;"> Che đậy kín và ủ tới khi bột nở 1.7 lần (khoảng 40 phút). </span><span style="color: #000000;">Phần bột nào hấp sau thì che kín và ủ trong tủ lạnh để bột nở chậm hơn. Bột nở đạt là khi ấn nhẹ tay lên mặt bột thấy vết lõm đàn hồi trở lại.</span></li>
+</ol>
+<ol start="10">
+<li><span style="font-weight: 400; color: #000000;"> Đun một nồi nước trên lửa vừa. Đợi nước sôi, hạ lửa trung bình cho nước chỉ còn sôi nhẹ. Lưu ý không để nước sôi quá mạnh sẽ làm mặt bánh bị nhăn.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Hấp bánh trong 9 phút. Tắt bếp, để bánh trong nồi thêm 5 phút rồi mới lấy ra. Ăn kèm với sữa đặc hoặc các loại soup, thịt kho,..</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">Bánh màn thầu có thể chiên cho bánh vàng giòn, hoặc quét 1 lớp dầu ăn mỏng, nướng trong nồi chiên không dầu ở 200 độ C trong khoảng 8 phút tới khi bánh vàng đều.</span></p>
+<div align="center" id="google-ads-body-post-end">
+
+
+</div><!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

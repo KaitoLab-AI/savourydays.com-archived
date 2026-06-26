@@ -1,0 +1,80 @@
+---
+title: "[VIDEO] Cách làm Creme Brulee Donut"
+date: "2020-04-24"
+slug: "video-cach-lam-creme-brulee-donut"
+categories: []
+tags: []
+image: "/wp-content/uploads/2020/04/cách-làm-cream-brulee-donut-banner.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #000000;">Món này mình ngó thấy trên Youtube từ lâu rồi, cũng ghi nó vào danh sách cần làm lâu rồi mà gần đây mới có thời gian để quay cùng team. Mê nó là vì vừa không cần dùng lò, lại vừa kiểu “nhìn đã biết là ngon ý” ;). Dựa vào cách làm thì có thể đoán được thành phẩm có lớp vỏ mềm xốp thơm, lớp đường ngoài giòn tan ngòn ngọt và nhân kem trứng béo ngậy. Eo, ai lại bỏ qua được một món ăn hấp dẫn như thế cơ chứ!!! :D</span></p>
+<p><span style="color: #000000;">Món này có nhiều người khác làm rồi. Nhưng mà cũng không có gì phức tạp nên mình dùng lại công thức cũ của mình thôi chứ không tham khảo các công thức khác nhiều. Phần vỏ là vỏ bánh Donut đã chia sẻ tại SD. Phần custard là nhân kem trứng, mình sửa một chút cho hợp với vị ngọt của lớp đường bên trên. Mấy hôm nay miền Bắc đang lạnh, làm món này sẽ hợp lắm ấy cả nhà ạ. Và nên làm đủ cả ba phần vỏ đường với nhân bánh nha, tại vì thiếu một phần thì mất ngon đi nhiều ý. </span></p>
+<h2><span style="color: #000000;">CÁCH LÀM CREME BRULEE DONUT </span></h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu (Cho khoảng 8 – 10 cái donut cỡ vừa)</strong></span></p>
+<p><span style="color: #000000;"><strong>A. Phần vỏ bánh donut</strong></span></p>
+<ul>
+<li><span style="color: #000000;"><em>400 gram bột mì đa dụng/ bột số 11 </em></span></li>
+<li><span style="color: #000000;"><em>35 gram đường bột (hoặc đường kính xay nhỏ cũng được) </em></span></li>
+<li><span style="color: #000000;"><em>1 nhúm muối</em></span></li>
+<li><span style="color: #000000;"><em>20 gram sữa bột (không bắt buộc)</em></span></li>
+<li><span style="color: #000000;"><em>6 gram men instant (men làm bánh mì, khác với bột nở hoặc muối nở)</em></span></li>
+<li><span style="color: #000000;"><em>180 gram sữa tươi không đường</em></span></li>
+<li><span style="color: #000000;"><em>60 gram bơ nhạt đun chảy, để nguội</em></span></li>
+<li><span style="color: #000000;"><em>1 quả trứng gà (60 gram/quả cả vỏ)</em></span></li>
+</ul>
+<p><span style="color: #000000;"><strong>B. Nhân kem trứng</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><span style="color: #000000;"><em>3 lòng đỏ trứng gà</em></span></li>
+<li><span style="color: #000000;"><em>45 gram đường</em></span></li>
+<li><span style="color: #000000;"><em>25 gram tinh bột ngô</em></span></li>
+<li><span style="color: #000000;"><em>320 gram sữa tươi không đường</em></span></li>
+</ul>
+<p><span style="color: #000000;"><strong>C. Siro đường topping </strong></span></p>
+<ul>
+<li><span style="color: #000000;"><em>70 gram đường trắng</em></span></li>
+<li><span style="color: #000000;"><em>50 gram nước</em></span></li>
+</ul>
+<p><span style="color: #000000;"><strong>* Lưu ý:</strong></span></p>
+<p><span style="color: #000000;">– Sữa bột không bắt buộc nhưng sẽ làm vỏ bánh thơm ngon hơn.</span></p>
+<p><span style="color: #000000;">– Vì bánh có một lớp vỏ đường bên ngoài nên mình bớt lượng đường trong nhân kem trứng đi, nếu bạn nào thích ăn ngọt có thể tăng thêm 10 – 15 gram đường.</span></p>
+<p><span style="color: #000000;">– Nên dùng bơ động vật sẽ thơm ngon hơn bơ thực vật (VD: Tường An, Meizan,..) rất nhiều.</span></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/yH2sr_XuE8o" width="560"></iframe></div>
+<p><span style="color: #000000;"><strong>A. Vỏ bánh donut</strong></span></p>
+<p><span style="color: #000000;">1. Trong một âu lớn, cho bột mì, đường, muối, sữa bột vào trộn đều. Tiếp tục cho men nở, trộn đều.</span></p>
+<p><span style="color: #000000;">2. Tạo một lỗ giữa âu bột, cho sữa tươi, bơ chảy, trứng vào. Dùng thìa/phới khuấy nhẹ cho trứng tan vào chất lỏng, sau đó trộn từ trong ra ngoài theo một chiều đến khi bột hòa quyện thành 1 khối, không còn vụn bột khô. Che kín âu và để bột nghỉ trong khoảng 15 phút.</span></p>
+<p><span style="color: #000000;">3. Nhồi bột đến khi mặt bột mịn (không cần phải nhồi đến mức có thể kéo màng mỏng không rách). Nếu nhồi bằng máy, bắt đầu nhồi ở tốc độ thấp rồi tăng dần. Thời gian nhồi khoảng 10 – 15 phút. </span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #000000;">Bột donut sẽ có độ mềm dẻo tương tự như bánh mì ngọt mềm (các bạn học lớp bánh mì online có thể dựa vào tình trạng bột chuẩn được mô tả trong bài bánh mì gối và bánh mì sữa). Vì mỗi loại bột có độ hút nước khác nhau nên lượng sữa/ chất lỏng có thể xê dịch chứ không nhất thiết y hệt như công thức. Người làm cần chủ động: nếu bột quá khô cần cho thêm sữa, bột quá ướt thì cho thêm bột mì khô.</span></p>
+<p><span style="color: #000000;">* Nếu nhồi mãi mà bột không mịn được thì có thể do (1) kĩ thuật nhồi bột chưa chuẩn, (2) bột thiếu nước hoặc (3) loại bột bạn dùng có gluten yếu nên bột nhồi khó mịn. </span></p>
+<p><span style="color: #000000;">4. Khi đã có một khối bột mịn màng, cho bột vào âu ủ, dùng nilon bọc thực phẩm hoặc khăn ẩm đậy kín âu, ủ ở nhiệt độ phòng đến khi bột nở gấp đôi (45 – 60 phút).</span></p>
+<p><span style="color: #000000;">5. Sau khi bột nở đủ, dùng tay đấm cho xẹp hết bọt khí trong bột, nhồi lại nhẹ nhàng khoảng 1 – 2 phút.</span></p>
+<p><span style="color: #000000;">6. Xoa một lớp mỏng bột khô lên mặt bàn, cây cán bột và lòng bàn tay để chống dính. Cán cho bột dày 0.7 – 0.8cm, dùng khuôn cắt hình tròn đường kính khoảng 5 – 7 cm để cắt bột thành từng miếng tròn. Đặt bột lên các miếng giấy nến cắt nhỏ, khi thả bánh vào chiên rất tiện.</span></p>
+<p><span style="color: #000000;">Với các phần bột thừa, các bạn có thể cán tiếp để cắt, nhưng chỉ nên lặp lại việc này khoảng 2 lần vì mỗi lần nhồi lại sẽ làm cho bột khô hơn, bánh cũng kém xốp hơn. Vì vậy khi cắt cố gắng cắt các bánh sát nhau nhất có thể để tránh việc thừa quá nhiều bột.</span></p>
+<p><span style="color: #000000;">7. Phủ nhẹ khăn lên khay bánh và ủ lần 2 đến khi bánh nở khoảng 80% thì mang đi chiên.</span></p>
+<p><span style="color: #000000;">8. Đổ dầu vào nồi nhỏ, lưu ý lượng dầu cần ngập bánh. Đun nóng dầu ở lửa vừa đến khi dầu nóng đến khoảng 150 – 170 độ C, nếu không có nhiệt kế, các bạn có thể thử bằng cách cho đầu đũa vào, nếu quanh đầu đũa xuất hiện bong bóng nhưng không quá nhiều là dầu đạt (như trong video).</span></p>
+<p><span style="color: #000000;">9. Thả nhẹ nhàng bánh vào nồi dầu, chiên đến khi một mặt vàng đều thì lật bánh. Chiên đến khi mặt còn lại vàng đều thì gắp bánh ra rack để bánh ráo dầu. Để nguội.</span></p>
+<p><span style="color: #000000;">Lưu ý:</span></p>
+<p><span style="color: #000000;">– Dầu cần đủ nóng để bánh nở xốp, nhưng không quá nóng sẽ làm bánh cháy nhanh trong khi chưa chín. Các bạn có thể dựa vào tình trạng bánh để điều chỉnh, làm sao để sau khi thả bánh vào, bánh sẽ vàng mặt trong khoảng 50 – 60 giây, sau đó lật bánh và chiên nốt mặt còn lại. Với bếp điện, mình rán ở mức 3/6. Với bếp điện và bếp hồng ngoại, nên bật bếp trước một khoảng thời gian đủ để dầu nóng ổn định, nếu không những bánh đầu sẽ nở kém (vì thiếu nhiệt) và những bánh sau có thể cháy quá nhanh do dầu quá nóng. </span></p>
+<p><span style="color: #000000;">– Bánh sau khi ủ lần 2 rất nhẹ, cần cẩn thận để không làm bọt khí trong bánh bị vỡ, bánh sẽ không xốp. Vì lí do này mà mình để bánh vào từng miếng giấy nến nhỏ, khi chiên chỉ cần nhấc nhẹ nhàng miếng giấy rồi thả vào nồi mà không cần chạm tay vào để cầm nắm bánh, tránh việc mạnh tay làm bánh xẹp.</span></p>
+<p><span style="color: #000000;">– Nếu lỡ tay làm xẹp bánh, nên ủ lại cho bột nở chứ không rán vì rán thì bánh sẽ không nở được, cứng và đặc ruột. </span></p>
+<p><span style="color: #000000;"><strong>B. Phần nhân kem trứng</strong></span></p>
+<p><span style="color: #000000;">Cách làm nhân kem trứng mình đã ghi rất chi tiết ở bài này, các bạn đọc tại đây giúp mình nhé:</span></p>
+
+
+<p><span style="color: #0000ff;"><a href="/banh-su-kem-choux-a-la-creme-demo-mot-so-luu-y-khi-lam-choux/" style="color: #0000ff;">/banh-su-kem-choux-a-la-creme-demo-mot-so-luu-y-khi-lam-choux/</a></span></p>
+<p><span style="color: #000000;"><strong>C. Siro đường</strong></span></p>
+<p><span style="color: #000000;">1. Cho đường và nước vào nồi, lắc nhẹ để nước ngập đường.</span></p>
+<p><span style="color: #000000;">2. Đun hỗn hợp ở lửa vừa đến khi sôi thì lắc nhẹ nồi để đường tan nhanh và không bị cháy. Hạ nhỏ lửa và đun đến khi thấy không còn hơi nước bốc lên từ nồi, đường chuyển sang màu vàng sậm nhưng chưa đến mức cánh gián (chưa đến mức như đường là flan/caramel).</span></p>
+<p><span style="color: #000000;">Lưu ý: Không khuấy, đảo trong suốt quá trình đun tránh việc bị lại đường.</span></p>
+<p><span style="color: #000000;">3. Khi đường còn nóng, nhúng bánh donut đã nguội vào sao cho đường phủ khắp mặt bánh, để bánh lên rack cho lớp đường nguội hoàn toàn và cứng lại.</span></p>
+<p><span style="color: #000000;">4. Sau khi lớp vỏ đường đã cứng, dùng dao hoặc đầu đũa chọc 1 lỗ bên hông bánh, khoét nhẹ vào trong ruột tạo một rỗ rỗng để bơm kem. Cho kem trứng vào túi bắt kem, phun kem vào trong ruột bánh.</span></p>
+<p><span style="color: #000000;">Nên ăn bánh trong ngày, để qua ngày bánh sẽ hơi khô và lớp đường có thể sẽ bớt giòn nếu độ ẩm trong không khí cao.</span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

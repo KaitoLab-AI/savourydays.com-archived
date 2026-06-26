@@ -1,0 +1,93 @@
+---
+title: "Mousse chocolate & dâu tây – Chocolate & Strawberry mousse"
+date: "2011-07-22"
+slug: "mousse-chocolate-dau-tay-chocolate-strawberry-mousse"
+categories: []
+tags: []
+image: "/wp-content/uploads/2011/07/Nhat-ky-hlb-mousse.jpg"
+description: "Cùng học cách làm mousse dâu tây và mousse chocolate mềm mịn, thơm phức, ngậy béo và tan ngay khi bỏ vào miệng. Bài viết có kèm hình ảnh minh hoạ các bước"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><a href="http://www.flickr.com/photos/55490207@N05/5963662714/" title="Chocolate &amp; Strawberry mousse by LinhTrang9185, on Flickr"><img alt="Chocolate &amp; Strawberry mousse" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6138/5963662714_ab3913333f.jpg" width="390"/></a></p>
+<p><em>C</em><em>ác bước làm mousse cơ bản và một số lưu ý khi làm mousse các bạn xem tại <strong><a href="/?p=423">ĐÂY</a></strong> nhé.</em></p>
+<p>Trước khi ra được cái món ở trong hình ở trên này thì mình đã bị thất bại 2 lần :”&gt; Lần thứ nhất hỏng do đánh kem tươi quá kĩ thành ra lúc trộn kem với dâu tây thì bị tách nước luôn. Hôm đấy vì là lần đầu tiên nên mình còn chẳng hiểu tại sao mà tự nhiên kem đang mịn màng bỗng thành ra lổn nhổn, về sau tra trên mạng mới biết đấy gọi là kem bị tách nước (hơi tiếc là không chụp ảnh lại :P).</p>
+<p>Lần thứ hai kem đánh thì ổn nhưng lại gặp vấn đề lúc làm hỗn hợp chocolate. Theo một công thức mình học được ở trên mạng thì phần chocolate sẽ gồm sữa tươi, kem tươi, trứng, đường và chocolate. Đầu tiên là đun nóng sữa, kem tươi và đường, rồi đổ từ từ vào lòng đỏ trứng đã đánh tan, tiếp theo cho gelatin đã ngâm nở vào hỗn hợp sữa trứng, khuấy đều. Cuối cùng cho chocolate thái vụn vào khuấy cho tan. Tuy nhiên mình làm theo cách này thì thấy có 2 vấn đề không ổn (có lẽ là do mình chưa quen nên làm chậm, chứ không hẳn là tại công thức không đúng).</p>
+<p>Một là sữa sau khi cho vào trộn với trứng thì đã nguội bớt rồi, cho nên khi cho gelatin nguyên lá vào thì gelatin khó mà tan đều và tan hết được. Hậu quả của việc này là sẽ có một vài miếng gelatin còn sót lại trong hỗn hợp sữa trứng, lúc ăn có khi sẽ ăn thấy miếng gelatin này, kiểu hơi giống miếng thịt mỡ :-s</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Hai là nếu cho chocolate thái vụn vào cuối cùng, hỗn hợp kem trứng lúc này chỉ âm ấm thôi, thì chocolate cũng khó tan hết. Cho nên có thể sẽ còn vụn chocolate trong hỗn hợp cuối cùng và làm cho hỗn hợp thiếu mịn màng.</p>
+<p>Để khắc phục hai vấn đề này thì mình làm cho cả gelatin lẫn chococolate tan ra trước, rồi mới trộn với kem sữa trứng theo thứ tự trên. Cụ thể là gelatin ngâm nở rồi chưng cách thủy cho tan. Kem tươi &amp; sữa đun nóng, đổ vào trứng đánh đều rồi cho gelatin này vào trộn cùng. Chocolate cũng chưng cách thủy cho tan chảy hết rồi trộn với kem trứng ở trên. Làm như thế này thì đảm bảo là hỗn hợp chocolate sau khi trộn với kem, trứng sữa sẽ rất mượt và mịn, gelatin cũng tan đều và trộn đều trong hỗn hợp nữa :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5946616271/" title="Chocolate &amp; Strawberry Mousse by LinhTrang9185, on Flickr"><img alt="Chocolate &amp; Strawberry Mousse" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6004/5946616271_521201d957.jpg" width="343"/></a></p>
+<p>Còn một tiết mục nho nhỏ cuối cùng là khi gỡ bánh ra khỏi khuôn. Như ở ảnh trên thì mình dùng mousse ring là loại khuôn tròn bằng kim loại, không có đáy, khi làm thì đặt nó trên một cái đĩa phẳng, đợi mousse đông thành bánh thì gỡ khuôn ra. Cách làm đại loại là sau khi mousse đã đông rồi thì lấy ra khỏi tủ lạnh, để ngoài trời khoảng tầm 5-10 phút cho mousse bớt dính vào khuôn, rồi lách con dao vào chạy vòng quanh thành trong của khuôn là có thể rút khuôn ra rất ngon lành. Tuy nhiên, có một chuyện củ chuối là cả nhà cả cửa (của mình) chỉ có duy nhất 1 con dao để thái… tất cả các thứ (chủ yếu là thịt) :-| Và lưỡi con dao này khá dày, cho nên kết quả là nó đã làm bánh sứt mẻ kha khá như các bạn có thể thấy trong hình :”&gt; Vì vậy nên các bạn làm thì cố gắng tìm con dao nào lưỡi nhọn và mảnh nhé, róc khuôn cho đẹp. Hoặc có một cách khác hay hơn là dùng giấy bóng kính (loại để bó hoa ấy), bọc vòng quanh bên trong thành khuôn rồi đổ mousse vào. Khi mousse đông lại, rút khuôn ra mình sẽ có một cái bánh có bọc giấy bóng kính, rất là đẹp và lịch sự nữa ;)</p>
+<p>Cuối cùng, dưới đây là công thức cụ thể cho món mousse chocolate &amp; dâu tây. Về mùi vị mình thấy ổn, dâu tây thơm và chua nhẹ làm cho chocolate bớt ngấy và ngọt hơn, nói chung là một sự kết hợp hoàn hảo :) Ngoài dâu tây mình nghĩ có thể thay bằng xoài chanh leo, hoặc đào chắc cũng ngon :)</p>
+<p>Chúc cả nhà thành công với món mousse nhé ;)</p>
+<h2>CÁCH LÀM MOUSSE DÂU TÂY &amp; CHOCOLATE</h2>
+<p><span style="text-decoration: underline;"><strong>Nguyên liệu</strong></span></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5963114483/" title="Choco mousse - Ingre by LinhTrang9185, on Flickr"><img alt="Choco mousse - Ingre" class="aligncenter" height="333" loading="lazy" src="http://farm7.static.flickr.com/6029/5963114483_f89c651d76.jpg" width="500"/></a></p>
+<p><em><strong>1. Phần Chocolate Mousse</strong></em></p>
+<ul>
+<li><em>80 gram chocolate đen &amp; 10ml sữa tươi (để làm chocolate chảy)</em></li>
+<li><em>1 lòng đỏ trứng</em></li>
+<li><em>30 ml kem tươi (whipping cream) (để trộn với hỗn hợp chocolate) – hàm lượng béo tối thiểu 30%</em></li>
+<li><em>20 ml sữa tươi</em></li>
+<li><em>1/8 thìa cafe muối</em></li>
+<li><em>10 gram đường</em></li>
+<li><em>2 lá gelatin (1 lá = 2gram)</em></li>
+<li><em>125 ml kem tươi (whipping cream) (để đánh bông) – hàm lượng béo tối thiểu 30%</em></li>
+</ul>
+<p><em><strong>2. Phần Mousse dâu tây</strong></em></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<ul>
+<li><em>200 gram dâu tây</em></li>
+<li><em>3 lá gelatin <em>(1 lá = 2gram)</em></em></li>
+<li><em>125 ml kem tươi (whipping cream) – hàm lượng béo tối thiểu 30%</em></li>
+<li><em>5ml nước cốt chanh</em></li>
+<li><em>40 gram đường</em></li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Lưu ý:</strong></span> Lượng đường có thể thay đổi tùy theo độ chua/ngọt của dâu và chocolate &amp; khẩu vị nữa. Các bạn có thể nếm lại trước khi trộn hỗn hợp dâu/ chocolate với kem tươi. Một chú ý nhỏ nữa là mousse để lạnh ăn sẽ bớt ngọt hơn lúc ở nhiệt độ thường nhé :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5963105713/" title="Chocolate &amp; Strawberry mousse by LinhTrang9185, on Flickr"><img alt="Chocolate &amp; Strawberry mousse" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6131/5963105713_036f4e0878.jpg" width="353"/></a></p>
+<p><span style="text-decoration: underline;"><strong>Cách làm</strong></span></p>
+<p><em><strong>1. Phần chocolate mousse</strong></em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5963662462/" title="Choco mousse 1 by LinhTrang9185, on Flickr"><img alt="Choco mousse 1" class="aligncenter" height="333" loading="lazy" src="http://farm7.static.flickr.com/6144/5963662462_7738e18147.jpg" width="500"/></a></p>
+<p>1. Ngâm 2 lá gelatin trong <strong>nước lạnh</strong> trước 15 phút cho mềm</p>
+<p>2. Đun sôi một bát nước trong nồi. Chocolate bẻ thành miếng nhỏ. Cho vào bát con với 10ml sữa tươi. Để bát chocolate vào trong nồi nước sôi. Nhờ hơi nước nóng trong nồi mà chocolate sẽ mềm và chảy ra, dùng thìa hoặc nĩa đánh đều cho chocolate tan hết. Nếu có lò vi sóng thì các bạn cho chocolate vào quay khoảng 30s là xong, nhưng lưu ý là khoảng 10 – 15s phải lấy ra trộn đều 1 lần, tránh để chocolate bị cháy.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5963105847/" title="Choco mousse 1a by LinhTrang9185, on Flickr"><img alt="Choco mousse 1a" class="aligncenter" height="333" loading="lazy" src="http://farm7.static.flickr.com/6132/5963105847_419d06cd7e.jpg" width="500"/></a></p>
+<p>3. Gelatine sau khi đã ngâm nở, chắt gần hết nước trong bát, để lại khoảng 1 thìa con nước. Cho Gelatin vào lò vi sóng, quay khoảng 15-20 giây rồi dùng thìa hoặc đũa quấy đều đến khi Gelatin tan hết. Hoặc có thể dùng cách tương tự với chocolate là sử dụng hơi nóng của nước sôi để làm gelatin tan chảy.</p>
+<p>4. Đun 20 ml sữa tươi còn lại với 30 ml kem tươi, đường, muối ở lửa vừa. Khuấy cho đường tan hết. Đợi hỗn hợp mấp mé sôi thì bắc xuống.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5963105409/" title="Choco mousse 2 by LinhTrang9185, on Flickr"><img alt="Choco mousse 2" class="aligncenter" height="334" loading="lazy" src="http://farm7.static.flickr.com/6131/5963105409_2f0fef6a59.jpg" width="500"/></a></p>
+<p>5. Lấy phới lồng cầm tay đánh tan lòng đỏ trứng. Từ từ đổ hỗn hợp kem sữa vừa đun vào lòng đỏ trứng. Vừa đổ vừa đánh đều.</p>
+<p><strong>Lưu ý</strong>: s<em>ữa quá nóng đổ vào trứng sẽ dễ làm cho trứng chín luôn, cho nên tốt nhất là đun sữa đến khi sữa chuẩn bị sôi thì bắc xuống, và đổ từ từ từng chút một vào trứng.</em></p>
+<div><em>6. </em>Cho Gelatin đã tan chảy vào hỗn hợp sữa trứng, khuấy đều.</div>
+<div>7. Đổ hỗn hợp sữa trứng này vào chocolate đã đun chảy. Nhẹ nhàng khuấy đều sẽ có một hỗn hợp chocolate sữa trứng bóng mượt. Để nguội.</div>
+<p>8. Cho bát đánh kem, cây đánh kem &amp; 125ml kem tươi vào tủ đá (làm cách này đánh kem bông sẽ nhanh và dễ hơn). Sau 10 phút lấy ra, đánh kem tươi đến <strong><a href="/?p=423">bông mềm</a></strong>.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5963105459/" title="Choco mousse 3 by LinhTrang9185, on Flickr"><img alt="Choco mousse 3" class="aligncenter" height="357" loading="lazy" src="http://farm7.static.flickr.com/6147/5963105459_33923d379b.jpg" width="500"/></a></p>
+
+
+<p><a href="http://www.flickr.com/photos/55490207@N05/5963663000/" title="Choco mousse 4 by LinhTrang9185, on Flickr"><img alt="Choco mousse 4" class="aligncenter" height="333" loading="lazy" src="http://farm7.static.flickr.com/6128/5963663000_f02c34279c.jpg" width="500"/></a></p>
+<p>9. Dùng spatula hoặc thìa nhẹ nhàng trộn hỗn hợp chocolate sữa trứng (<strong>đã nguội</strong>) với kem tươi đánh bông. Hỗn hợp cuối cùng sẽ hơi loãng và sệt như bột quấy cho em bé.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5963105981/" title="Choco mousse 5 by LinhTrang9185, on Flickr"><img alt="Choco mousse 5" class="aligncenter" height="352" loading="lazy" src="http://farm7.static.flickr.com/6123/5963105981_543a3b5e11.jpg" width="500"/></a></p>
+<p>10. Chia hỗn hợp này vào khuôn hoặc cốc.</p>
+<p>11. Để vào tủ đá tầm 15-20 phút cho hỗn hợp se mặt.</p>
+<p><span style="text-decoration: underline;"><strong>2. Phần Mousse dâu tây</strong></span></p>
+<p>1. Ngâm 3 lá gelatin vào nước lạnh trước 15 phút.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5963106089/" title="Choco mousse 6 by LinhTrang9185, on Flickr"><img alt="Choco mousse 6" class="aligncenter" height="154" loading="lazy" src="http://farm7.static.flickr.com/6002/5963106089_0a487156fa.jpg" width="500"/></a></p>
+<p>2. Dâu rửa sạch, bỏ cuống, cắt thành miếng nhỏ. Trộn đều dâu với 40gram đường và 1 teaspoon nước cốt chanh. Mang đi xay đến khi có hỗn hợp nhuyễn mịn.</p>
+<p>3. Đổ hỗn hợp dâu vừa xay vào nồi. Đun ở lửa vừa đến khi hỗn hợp sôi lăn tăn.</p>
+<p>4. Tắt bếp. Vắt 3 lá gelatin (đã ngâm nở) cho ráo nước. Bỏ vào nồi và khuấy nhanh tay cho gelatin tan hết. Để nguội.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5963663262/" title="Choco mousse 7 by LinhTrang9185, on Flickr"><img alt="Choco mousse 7" class="aligncenter" height="333" loading="lazy" src="http://farm7.static.flickr.com/6122/5963663262_c4d45d539e.jpg" width="500"/></a></p>
+<p>5. Chuẩn bị kem tươi giống như làm chocolate mousse.</p>
+<p>6. Trộn hỗn hợp dâu <strong>(đã nguội)</strong> với kem tươi.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5963106273/" title="Choco mousse 8 by LinhTrang9185, on Flickr"><img alt="Choco mousse 8" class="aligncenter" height="333" loading="lazy" src="http://farm7.static.flickr.com/6026/5963106273_2f8af52713.jpg" width="500"/></a></p>
+<p>7. Sau khi lớp mousse đã se mặt thì đổ mousse dâu tây lên trên. Và mình sẽ có những cốc mousse 2 màu rất là xinh như thế kia ;;)</p>
+<p>Mousse để tủ lạnh tầm 4 tiếng là có thể ăn được.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5963105523/" title="Chocolate &amp; Strawberry mousse by LinhTrang9185, on Flickr"><img alt="Chocolate &amp; Strawberry mousse" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6029/5963105523_cbb23c670a.jpg" width="432"/></a></p>
+<p>Về phần trang trí thì có rất nhiều cách, chẳng hạn với dạng khuôn rời và trông như 1 cái bánh con thì mình có thể cắt dâu tây thành lát mỏng rồi xếp lên, như thế này:</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5963105791/" title="Choco mousse 9 by LinhTrang9185, on Flickr"><img alt="Choco mousse 9" class="aligncenter" height="368" loading="lazy" src="http://farm7.static.flickr.com/6143/5963105791_23e1652281.jpg" width="500"/></a></p>
+<p>Còn mousse đựng trong cốc thì mình đợi mousse se mặt thì cắt một ít dâu tây thành miếng nhỏ như hạt lựu rồi đổ lên trên mặt cốc, trông sẽ rất là “fresh &amp; pure” ;) Hoặc các bạn có thể làm thêm 1 lớp <strong><a href="/?p=293">mứt dâu</a></strong> rồi đổ lên trên lớp mousse dâu ăn chắc cũng rất hay ;)</p>
+<p>Ai có thể từ chối một cốc mousse mát lịm người, ngọt ngào và thơm phức như thế này nhỉ :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5963662756/" title="Chocolate &amp; Strawberry mousse by LinhTrang9185, on Flickr"><img alt="Chocolate &amp; Strawberry mousse" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6028/5963662756_528d12e9d0.jpg" width="360"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

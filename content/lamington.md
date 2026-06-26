@@ -1,0 +1,77 @@
+---
+title: "Lamington"
+date: "2013-03-07"
+slug: "lamington"
+categories: []
+tags: []
+image: "/wp-content/uploads/2013/03/Lamington.jpg"
+description: "Lamington, bánh bông lan cơ bản, chocolate ganache"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
+<p>——————————————</p>
+<p>Có lẽ vì mình luôn thích những thứ nho nhỏ xinh xinh, nên lần đầu tiên nhìn thấy những miếng bánh Lamington nhỏ vuông vắn, có thêm lớp chocolate và dừa phủ ngoài thì mình đã mê mẩn ngay lập tức. Suy nghĩ lúc ấy là: “Bánh này mà để bàn tiệc thì chắc là tuyệt lắm nhỉ?! ^.^”</p>
+<p>Lamington không phải là loại bánh phức tạp, thành phần gồm cốt bánh bông lan, phủ bên ngoài là chocolate đường và vụn dừa. Cốt bánh bông lan này có thể là gateau, nhưng cũng có thể là butter cake, tùy theo khẩu vị của bạn. Mình chọn cốt <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/">bông lan cơ bản bất bại</a>, nhưng giảm khá nhiều đường vì Chocolate bên ngoài cũng ngọt rồi. Phần Chocolate thì mình làm hai loại Ganache, với Chocolate đen và trắng (phần màu trắng có pha thêm vài giọt màu hồng cho thêm… lãng mạn :”&gt;). Ngoài ra, mỗi miếng bánh có thêm một lớp mứt mơ chua chua để giúp cho mùi vị bánh thêm hài hòa hơn.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Bánh lúc mới làm xong thì nói thật là mình không thích lắm, vì cốt Gateau cơ bản thì độ ẩm không nhiều, bánh lại không có kem, và vụn dừa bên ngoài thì rất khô nên cảm giác hơi khó chịu ở cổ họng. Nhưng sau khi để tủ lạnh vài giờ thì khác hẳn, Ganache giúp cho cốt bánh bên trong ẩm và mềm hơn, vụn dừa cũng mềm hơn. Miếng bánh vừa xốp, vừa mềm, lại có thêm Chocolate và mứt chua chua ngọt ngọt, hoàn toàn không tệ chút nào :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8535852677/" title="IMG_9829-1 by LinhTrang9185, on Flickr"><img alt="IMG_9829-1" class="aligncenter" height="500" loading="lazy" src="http://farm9.staticflickr.com/8376/8535852677_cdafe2f9bf.jpg" width="472"/></a></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><strong>A. Cốt bánh bông lan cơ bản bất bại</strong>: Mình dùng <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/">công thức 3 trứng</a> – khuôn vuông 20x20cm (<strong>giảm 15gram đường</strong>)</p>
+<p><strong>B. Black Chocolate Ganache</strong></p>
+<ul>
+<li><em>150gram Chocolate đen (hàm lượng cacao 50-60%)</em></li>
+<li><em>70ml kem tươi (whipping cream)</em></li>
+<li><em>10gram bơ nhạt</em></li>
+<li><em>1/4 thìa cafe vanilla (không bắt buộc)</em></li>
+</ul>
+<p><strong>C. Pink Chocolate Ganache</strong></p>
+<ul>
+<li><em>150gram Chocolate trắng</em></li>
+<li><em>40ml kem tươi</em></li>
+<li><em>10gram bơ nhạt</em></li>
+<li><em>1/4 thìa cafe vanilla (không bắt buộc)</em></li>
+</ul>
+<ul>
+<li><em>Dừa vụn sấy khô để bao ngoài bánh</em></li>
+</ul>
+<p>(*) <strong>Ghi chú:</strong></p>
+<p>– Chocolate đen mà mình dùng có hàm lượng Cacao 56%. Nếu các bạn dùng Chocolate có hàm lượng Cacao thấp hơn 50% thì Ganache có thể sẽ lỏng hơn, nên tăng thêm lượng Chocolate hoặc giảm lượng kem tươi.</p>
+<p>– Nếu không có kem tươi, các bạn có thể thay thế bằng bơ và sữa theo tỉ lệ <strong>60% bơ nhạt &amp; 40% sữa tươi không đường.</strong></p>
+<p>– Có thể thêm 1/2 thìa canh (tablespoon) rượu Rum hoặc Brandy vào Black Chocolate Ganache nếu muốn bánh có thêm vị rượu.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8535823295/" title="IMG_9826-1 by LinhTrang9185, on Flickr"><img alt="IMG_9826-1" class="aligncenter" height="500" loading="lazy" src="http://farm9.staticflickr.com/8103/8535823295_e29ff5806c.jpg" width="456"/></a></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><strong>A. Cốt bánh</strong></p>
+<p>Làm theo công thức Gateau cơ bản bất bại tại <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/"><strong>ĐÂY</strong></a>. Mình dùng khuôn vuông 20x20cm, CT 3 trứng mình thấy cho bánh có độ cao vừa phải, cắt ra rất đẹp. Nếu không muốn dùng Gateau cơ bản bất bại thì các bạn có thể dùng Chiffon, Gateau Hồng Kông hoặc Gateau Nhật Bản tùy thích nhé (công thức của tất cả các loại bánh có trong mục lục <a href="/cung-hoc-lam-banh/">“Cùng học làm bán</a>h”).</p>
+<p>Bánh nướng xong để nguội hẳn mới làm các bước tiếp theo.</p>
+<p>Trong lúc đợi nướng bánh thì chuẩn bị Chocolate Ganache.</p>
+<p><strong>B. Chocolate Ganache</strong></p>
+<p>Trong công thức có 2 phần Chocolate Ganache với hai màu khác nhau, nhưng cách làm giống hệt nhau nên mình viết chung 1 cách làm cho cả hai loại nhé.</p>
+<p>1. Chocolate bẻ miếng nhỏ (hoặc bào vụn) cho vào bát cùng bơ.</p>
+<p>2. Đun kem tươi đến <strong>gần sôi</strong>. Đổ kem tươi vào bát đựng Chocolate. Để nguyên 1-2 phút rồi dùng thìa quấy đều đến khi Chocolate và bơ tan hết, hỗn hợp hòa quyện, sánh mượt. Cho vanilla hoặc các hương liệu khác, quấy đều.</p>
+<p>3. Để nguội. Thi thoảng nên quấy để phần Chocolate trên mặt không bị đóng váng.</p>
+<p>(*) <strong>Ghi chú: </strong></p>
+<p>– Có thể cho tất cả các nguyên liệu vào bát và quay lò vi sóng. Nhưng <strong>15-20 giây phải lấy ra quấy đều</strong>, tránh Chocolate bị cháy.</p>
+<p>– Nếu dùng bơ và sữa tươi thay cho kem tươi, thao tác tương tự như trên, nhưng thay vì đun kem tươi thì đun bơ và sữa tươi rồi đổ vào Chocolate.</p>
+<p><strong>C. Hoàn thiện</strong></p>
+
+
+<p>1. Dùng dao răng cưa hoặc dao có lưỡi rất sắc, cắt bánh thành các miếng nhỏ.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8535823433/" title="IMG_9787 by LinhTrang9185, on Flickr"><img alt="IMG_9787" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8365/8535823433_f11535552e.jpg" width="500"/></a></p>
+<p>Các bạn có thể (dùng tay) nhúng từng miếng bánh vào Ganache đã chuẩn bị sẵn (vẫn còn lỏng và đã nguội), rồi lăn qua vụn dừa. Tuy nhiên, cách này với mình có hơi “lem nhem” một chút (vì Ganache dính mà), cho nên mình làm như sau:</p>
+<p>2. Chuẩn bị 1 cái rack đặt trên 1 cái khay, khay nên lót giấy hoặc nilon để hứng Ganache nhỏ xuống (làm xong đỡ mất công rửa khay).</p>
+<p>3. Để các miếng bánh lên rack, dùng thìa hoặc dao phết kem, múc Ganache đổ lên bánh và phết cho Ganache bám đều quanh bánh.</p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/8535823413/" title="IMG_9788 by LinhTrang9185, on Flickr"><img alt="IMG_9788" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8091/8535823413_3016759ab5.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Vì nhà còn nhiều mứt mơ nên Laminton của mình có thêm 1 lớp mứt vàng óng thế này :)</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8535823345/" title="IMG_9790 by LinhTrang9185, on Flickr"><img alt="IMG_9790" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8225/8535823345_d14eb9d75d.jpg" width="500"/></a></p>
+<p>4. Dùng que nhỏ hoặc nĩa (dĩa), nhấc từng miếng bánh lên, thả vào bát đựng dừa sấy, lăn cho vụn dừa bám đều quanh miếng bánh. Để bánh lại lên rack hoặc để vào hộp. Làm lần lượt đến hết.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8536928360/" title="IMG_9792 by LinhTrang9185, on Flickr"><img alt="IMG_9792" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8087/8536928360_fdd047ab73.jpg" width="500"/></a></p>
+<p>5. Bánh sau khi làm xong, cho vào hộp, đậy kín. Để tủ lạnh tối thiểu 30 phút. Nên dùng trong 1-2 ngày (rất hợp với trà nóng).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8536928366/" title="IMG_9816-1 by LinhTrang9185, on Flickr"><img alt="IMG_9816-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8098/8536928366_8bdd1239b6_z.jpg" width="449"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

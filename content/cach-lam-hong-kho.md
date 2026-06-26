@@ -1,0 +1,51 @@
+---
+title: "Tự làm hồng khô kiểu Nhật (Hoshigaki)"
+date: "2015-11-09"
+slug: "cach-lam-hong-kho"
+categories: []
+tags: []
+image: "/wp-content/uploads/2015/11/hongkho.jpg"
+description: "Cách tự làm hồng khô từ quả hồng tươi, với hình ảnh hướng dẫn chi tiết các bước"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Mùa Thu, ngoài táo, ngoài bí đỏ và lá vàng ra thì còn thêm một món đặc sản nữa là quả hồng. Lúc còn ở nhà, tầm này mình nhớ trong giỏ đi chợ của mẹ thường có hai loại hồng ngâm vỏ xanh vàng, ruột giòn với hồng đỏ lựng, ruột mềm mà mẹ vẫn hay suýt xoa “ngọt hơn cả chè ấy”. Xét về vị thì hồng đỏ đậm đà hơn nhưng thường hay mềm quá, mình lại thích những thứ giòn giòn nên hồng ngâm vẫn được ưu ái hơn. Nhiều khi ăn hồng đỏ chỉ chờ nhanh hết phần thịt quả bên ngoài để xử lí mấy cái hạt hồng trong trong, giòn giòn ngấm vị hồng chín ngọt lịm.</p>
+<p>Bên này hồng cũng có hai loại nhưng không chia thành loại “ngâm” và loại “chín đỏ” như ở nhà, mà thay vào đó là hồng tròn và hồng dài. Khác nhau cụ thể thế nào mình cũng không rõ, chỉ thấy cả hai loại đều ngon như nhau. Tầm này đi chợ mà không mua hồng thì thật là “phí của” bởi quả nào quả nấy vàng ươm, to hơn nắm tay người lớn, thịt giòn mà ngọt lịm, không chê vào đâu được.</p>
+<p>Có hồng đúng vụ, vừa ngon vừa rẻ nên tìm cách giữ lại để ăn lâu hơn, vậy là nghĩ tới món hồng khô này. Điều làm mình thấy hứng thú thật ra nằm trong quá trình làm hồng khô hơn là mùi vị của nó. Chẳng hiểu sao nhưng nhìn những dây hồng dài treo hồng vàng ươm dưới nắng thấy kích thích cực kì. Thế là có một đứa nằng nặc bắt chồng đi mua dây với dụng cụ treo về rồi hàng sáng ra siêu thị thu gom hồng mang về nhà nghịch :P</p>
+<p style="text-align: center;"><em>Hồng khô sau khoảng 4 tuần phơi </em></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/22909494681/in/photostream/" title="Japanese Dried Persimmons - Hoshigaki"><img alt="Japanese Dried Persimmons - Hoshigaki" class="aligncenter" height="330" loading="lazy" src="https://farm6.staticflickr.com/5628/22909494681_759da9d18f_z.jpg" width="640"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Quy trình phơi hồng khô rất đơn giản, tóm tắt lại chỉ có mấy bước là:</p>
+<ol>
+<li>Gọt vỏ quả hồng</li>
+<li>Ngâm rượu (sake, shochu…)</li>
+<li>Treo lên dây</li>
+<li>Phơi ở nơi có nắng, thoáng gió và khô</li>
+<li>Sau 7 – 10 ngày, khi hồng đã khô se và hơi quắt lại thì bắt đầu “nắn bóp” (2 – 3 ngày/ lần) để các chất ngọt trong ruột hồng được phân bổ đều.</li>
+<li>Sau 5 – 6 tuần hoặc khi nào hồng khô cứng, không xoa bóp mát-xa được nữa là có thể măm măm.</li>
+</ol>
+<p>Nghe thì rất đơn giản, thế mà tới lúc làm thì thôi rồi thương đau. Mình phải bỏ đi kha khá hồng vì nấm mốc. Nhìn mấy quả hồng bám rêu xanh mà thấy ruột đau như cắt, buồn ơi là sầu. Tóm lại thì mọi lí thuyết đều chỉ là lí thuyết, có sờ tay vào mới biết được thực tế xám ngoét khó khăn khốc liệt đến thế nào.</p>
+<p>Sau khi bỏ đi một số kha khá hồng bị hỏng thì mình cũng rút ra được ít kinh nghiệm xương máu nên ghi lại ở đây để sang năm khi mùa hồng về thì lại tiếp tục thử nữa :)</p>
+<p>1. <strong>Chọn hồng</strong></p>
+<p>Chọn quả to chắc và cứng một chút, không quá chín. Vì khi phơi hồng sẽ chín dần, vị ngọt tiết ra từ từ và bớt chát nên nếu thấy hồng xanh chát giá rẻ thì nên mạnh dạn mua. Hồng chín đỏ ngọt để ăn sống ngon hơn. Nếu chọn được quả hồng nào có cuống dài để buộc dây thì rất tốt.</p>
+<p>2.<strong> Gọt vỏ</strong></p>
+<p>Gọt vòng quanh quả hồng và chừa lại phần cuống để buộc dây. Trước khi gọt nên rửa sạch tay và lúc gọt không làm cho quả hồng bị sứt sẹo.</p>
+<p>3. <strong>Buộc dây vào hồng</strong></p>
+<p>Nếu có cuống để buộc thì rất tốt. Một vài website có hướng dẫn cách dùng đinh cắm vào quả hồng thay cho cái cuống rồi buộc dây vào đinh này. Tuy nhiên mình hơi ngại gỉ sắt từ đinh lẫn vào vị hồng nên mình buộc dây vòng quanh cuống.</p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/22884923932/" title="IMG_1077"><img alt="IMG_1077" height="427" loading="lazy" src="https://farm1.staticflickr.com/573/22884923932_7e554e6839_z.jpg" width="640"/></a>4. <strong>Ngâm rượu</strong> Người Nhật và người Hàn dùng sake hoặc shochu để ngâm hồng. Việt Nam thì chắc dùng Lúa Mới cũng được :D Ở bên này không kiếm được cả 3 thứ đó nên mình mua Vodka loại rẻ nhất trong siêu thị để ngâm. Sau khi gọt vỏ thì buộc dây rồi ngâm hồng vào rượu trong khoảng 1-1.5 phút. Mục đích của việc này không chỉ giúp sát khuẩn mà còn giúp cho vỏ hồng khô nhanh hơn, khả năng bị mốc thấp hơn, rất nên làm. <a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/22275643524/in/photostream/" title="IMG_1079"><img alt="IMG_1079" height="427" loading="lazy" src="https://farm6.staticflickr.com/5715/22275643524_4309e25062_z.jpg" width="640"/></a></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>5. <strong>Treo hồng</strong></p>
+<p>Dùng cái gì để treo và treo lên đâu cũng được, như mình là treo lên thành ghế. Nhưng nhất thiết phải để hồng ở nơi thoáng gió, cao ráo. Hồng không được chạm vào nhau. Có nắng thì càng tốt, không có cũng không sao nhưng cần <strong>thoáng gió và khô ráo. </strong></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/22884911442/in/photostream/" title="IMG_1172"><img alt="IMG_1172" height="427" loading="lazy" src="https://farm1.staticflickr.com/662/22884911442_45c98e9afc_z.jpg" width="640"/></a>Khoảng thời gian 5 – 7 ngày đầu tiên là quan trọng nhất vì mốc dễ phát triển trong tầm này. Cho nên nếu có ý định phơi hồng, nên xem dự báo thời tiết trước. Nếu cả tuần dự báo nắng hoặc hanh khô, không mưa thì mới làm. Đợt hồng bị mốc của mình là làm vào tuần trời mưa sụt sùi. Treo trong nhà cạnh lò sưởi không ăn thua. <em>Hồng sau khi phơi được gần 1 tuần</em> <a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/22479997057/in/photostream/" title="IMG_1085"><img alt="IMG_1085" height="427" loading="lazy" src="https://farm6.staticflickr.com/5693/22479997057_9e7cf6310a_z.jpg" width="640"/></a></p>
+<p>6. <strong>Mát-xa cho quả hồng</strong></p>
+<p>Khi hồng đã tương đối khô (sau khoảng 7 – 10 ngày), quả hơi quắt lại thì đeo bao tay và xoa bóp nhẹ nhàng. Việc này giúp cho ruột hồng tiết thêm chất ngọt và các chất ngọt phân bố đều hơn. Cứ cách 2 ngày thì làm một lần. Trong thời gian đầu tiên, vì ruột hồng rất mềm nên cần <strong>làm nhẹ tay, </strong>tránh cho quả hồng bị bục, sẽ rất dễ bị mốc.</p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/22277214113/in/photostream/" title="IMG_1168"><img alt="IMG_1168" height="427" loading="lazy" src="https://farm6.staticflickr.com/5725/22277214113_8bca5491f4_z.jpg" width="640"/></a>Nhìn chung sau khoảng 10 – 15 ngày, khi vỏ quả hồng đã khá khô và dày thì khả năng mốc thấp hơn khá nhiều. Trừ phi là để ở nơi ẩm quá. Sau khoảng 5 – 7 tuần, khi hồng khô cứng lại không thể mát-xa thêm nữa là đã ổn. Bảo quản trong tủ lạnh để dùng dần. Hồng lúc này sẽ có một lớp trắng li ti  bao ngoài, là đường tiết ra từ quả, không phải mốc (nếu là mốc thì nhìn sẽ thấy như có một lớp lông tơ mỏng, còn đường thì chỉ là hạt trắng li ti thôi). <a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/22710358460/in/photostream/" title="IMG_1169"><img alt="IMG_1169" height="427" loading="lazy" src="https://farm1.staticflickr.com/568/22710358460_45bd134eb4_z.jpg" width="640"/></a></p>
+<p>Mẻ hồng đầu tiên của mình sắp dùng được rồi. Lúc bỏ hồng đi vì mốc thì tiếc lắm lắm, nghĩ là sẽ không làm nữa đâu. Nhưng giờ nhìn mấy quả hồng khô lúc lỉu thì lại thấy muốn làm tiếp. Có lẽ sẽ lại canh siêu thị để mua hồng xanh cuối mùa và đồng thời lập đàn cầu nắng vậy :P</p>
+<p>——-</p>
+<p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ email: <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi hành động cố tình vi phạm sẽ chịu xử lí theo quy định của pháp luật.</span></strong></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

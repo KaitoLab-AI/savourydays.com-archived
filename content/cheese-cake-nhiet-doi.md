@@ -1,0 +1,96 @@
+---
+title: "Cheese cake nhiệt đới (Chocolate Gateau với Cheese cake & Pudding xoài chanh leo)"
+date: "2013-05-20"
+slug: "cheese-cake-nhiet-doi"
+categories: []
+tags: []
+image: "/wp-content/uploads/2013/05/CheesecakeNhietDoi.jpg"
+description: "cheese cake không cần lò nướng, tráng miệng lạnh, món ăn mùa hè"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
+<p>——————————————</p>
+<p>Món bánh này mình mới làm cuối tuần trước với mục đích chính là để giải quyết nốt hộp cream cheese trong tủ lạnh, mãi chưa dùng đến. Ý tưởng ban đầu là Cheese cake lạnh (không dùng lò nướng mà dùng Gelatin để tạo đông) có thêm đế Gateau để giúp hài hòa mùi vị. Nằm chính giữa phần Cheese cake này là một lớp pudding xoài. Khi cắt miếng bánh ra sẽ thấy có phần đế Gateau ở dưới, bên trên là miếng cheese cake và pudding màu đậm hơn nằm trong lớp cheese cake, giúp bánh vừa ngon miệng, vừa ngon mắt.</p>
+<p>Ý tưởng là như vậy nhưng khi làm vì chủ quan nên mình gỡ phần pudding xoài ra hơi sớm, làm cho pudding bị vỡ nát lúc chuyển vào Cheese cake (:(), làm cho phần xoài trong các miếng bánh không được đều nhau. Lát nữa trong công thức mình sẽ ghi chú cụ thể phần này, cả nhà khi làm chú ý nhé. Ngoài vấn đề này ra, thì về mùi vị mình rất rất ưng ý. Cheese cake ngậy béo và mềm mịn (cho vào miệng là tan ra), pudding thơm mát lạnh với đế gateau xốp, tất cả hòa quyện trong một miếng bánh. Nhờ lớp đế bánh Gateau và một phần lớn hoa quả (xoài, chanh leo) với sữa chua, mà bánh không hề ngấy mặc dù có cream cheese và heavy cream. Và mát lạnh nữa, rất rất hợp với mùa hè.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8756188651/" title="IMG_0593-1 by LinhTrang9185, on Flickr"><img alt="IMG_0593-1" class="aligncenter" height="640" loading="lazy" src="http://farm3.staticflickr.com/2805/8756188651_057c6de247_z.jpg" width="470"/></a></p>
+<p><span style="color: #800000;"><strong>Dụng cụ:</strong></span></p>
+<ul>
+<li>1 khuôn tròn đường kính 20cm để làm đế bánh gateau</li>
+<li>1 khuôn tròn đường kính đế rời 18cm để làm pudding và hoàn thiện bánh Cheese cake</li>
+</ul>
+<p>(*) <em><strong>Ghi chú:</strong></em> Để làm Cheese cake lạnh kiểu này nên dùng khuôn đế rời, do bánh rất mềm, nếu dùng khuôn đế liền sẽ rất khó lấy bánh ra khỏi khuôn.</p>
+<p>Lý do mình dùng khuôn 20cm để làm  đế Gateau là sau khi nướng đế bánh sẽ co lại một chút, dùng cho khuôn 18cm sẽ vừa khít (có thể phải gọt một ít quanh thành bánh nhưng không đáng kể). Tuy nhiên, nếu không có đủ khuôn, các bạn có thể dùng 1 khuôn đế rời để nướng đế Gateau.  Sản phẩm có thể sẽ có phần đế Gateau hơi nhỏ hơn so với phần cheese cake.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8756188381/" title="IMG_0612-1 by LinhTrang9185, on Flickr"><img alt="IMG_0612-1" class="aligncenter" height="335" loading="lazy" src="http://farm4.staticflickr.com/3748/8756188381_611b623b7b.jpg" width="500"/></a></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong>A. Pudding xoài chanh leo</strong></p>
+<ul>
+<li><em><em>3 lá Gelatin (2gram/ lá)</em></em></li>
+<li><em>300gram thịt xoài chín</em></li>
+<li><em>1 Tbsp/ 1 thìa canh (15ml) nước cốt chanh leo (lọc từ 2 quả chanh leo)</em></li>
+<li><em>50gram sữa chua không đường</em></li>
+<li><em>1 Tbsp/ 1 thìa canh (15ml) mật ong</em></li>
+</ul>
+<p><strong>B. Cốt bánh Chocolate Sponge</strong></p>
+<ul>
+<li><em>40gram bột mì đa dụng/ bột mì thường (all purpose flour)</em></li>
+<li><em>10gram bột cacao nguyên chất</em></li>
+<li><em>10gram dầu ăn</em></li>
+<li><em>10ml nước lạnh hoặc sữa</em></li>
+<li><em>¼ thìa cafe vanilla chiết xuất (không bắt buộc)</em></li>
+<li><em>2 trứng gà (60gram/ quả cả vỏ hoặc 50gram/quả không tính vỏ)</em></li>
+<li><em>50gram đường</em></li>
+</ul>
+<p><strong>C. Cheese cake</strong></p>
+<ul>
+<li><em>4 lá Gelatin (2gram/ lá)</em></li>
+<li><em>200gram thịt xoài chín</em></li>
+<li><em>1 Tbsp/ 1 thìa canh (15ml) nước cốt chanh leo</em></li>
+<li><em>30gram sữa chua không đường</em></li>
+<li><em>200gram cream cheese</em></li>
+<li><em>250ml kem tươi có hàm lượng béo 35-40% (heavy cream)</em></li>
+<li><em>50gram đường</em></li>
+</ul>
+<p>(*) <em><strong>Ghi chú:</strong></em></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>– Gelatin là chất tạo đông rất an toàn, chuyên dùng trong làm bánh. Có thể mua tại các cửa hàng bán nguyên liệu làm bánh. Tại HN và TPHCM các bạn có thể tham khảo link tổng hợp địa chỉ cửa hàng ở <a href="/dia-chi-mua-dung-cu-va-nguyen-lieu-lam-banh-tai-ha-noi/"><strong>ĐÂY</strong></a>. Nếu không có Gelatin dạng lá, có thể thay bằng Gelatin bột với lượng tương đương.</p>
+<p>– Kem tươi trong công thức có thể thay bằng topping cream nhưng mùi vị sẽ không ngậy béo bằng</p>
+<p>– Nước cốt chanh leo có thể bỏ qua</p>
+<p>– Nếu dùng sữa chua có đường thì giảm bớt lượng đường trong công thức</p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><strong>A. Pudding xoài chanh leo</strong></p>
+<p>Dùng khuôn đế rời. <span style="color: #ff0000;">Chuẩn bị phần pudding này trước tối thiểu 8 tiếng.</span> <span style="color: #ff0000;">Tốt nhất là làm từ tối ngày hôm trước để Pudding đông hẳn.</span></p>
+<p>1. Ngâm 3 lá Gelatin vào nước lạnh. Để khoảng 10-15 phút cho Gelatin mềm hẳn.</p>
+<p>2. Xoài cắt nhỏ, cho vào máy xay cùng nước cốt chanh leo và sữa chua. Xay đến khi hỗn hợp nhuyễn mịn.</p>
+<p>3. Cho mật ong vào trộn đều. Hoặc thay bằng đường. Lượng mật ong/ đường có thể thay đổi tùy theo độ ngọt của xoài.</p>
+<p>4. Gelatin sau khi đã ngâm mềm thì chắt bớt nước ngâm, để lại khoảng 2 – 3 thìa canh. Cho vào lò vi sóng quay 20-25 giây rồi quấy đều cho Gelatin tan hết (Lưu ý: Gelatin có thể đọng lại ở đáy bát). Cho Gelatin vào hỗn hợp xoài, quấy đều.</p>
+<p>5. Đổ hỗn hợp vào khuôn, lắc nhẹ khuôn cho hỗn hợp dàn đều. Để vào tủ lạnh cho hỗn hợp đông cứng lại.</p>
+<p><strong>B. Đế Chocolate Sponge</strong></p>
+<p>(Trước khi chuẩn bị làm đế Sponge, nên lấy Cream cheese để ra ngoài cho Cream cheese hết hẳn lạnh, sẽ dễ đánh mịn hơn).</p>
+<p>Cách làm giống với đế Chocolate Sponge ở <a href="/chocolate-coffee-gateau-flan-caramel/"><strong>ĐÂY</strong></a>.</p>
+
+
+<p>Nhiệt độ nướng: 170 – 175 độ C (hai lửa) trong 25-30 phút. Lưu ý: làm nóng lò trước khi nướng từ 10-15 phút. Nhiệt độ nướng có thể thay đổi tùy theo lò.</p>
+<p>Bánh sau khi nướng chín lấy ra để nguội hẳn. Trong lúc đợi bánh nguội thì chuẩn bị phần cheese cake.</p>
+<div><strong>C. Cheese cake</strong></div>
+<p>1. Ngâm Gelatin và xay nhuyễn hỗn hợp xoài, chanh leo, sữa chua giống như làm pudding. Gelatin trộn đều với hỗn hợp xoài, để sang một bên.</p>
+<p>2. Dùng máy (ở tốc độ thấp nhất) đánh cream cheese (đã hết hẳn lạnh) trong khoảng 1-1.5 phút đến khi cream cheese nhuyễn mịn. Cho hỗn hợp xoài vào, để máy ở tốc độ thấp nhất (hoặc tốt hơn là dùng phới lồng cầm tay), đánh đều cho các nguyên liệu hòa quyện. <em>Không nên đánh quá lâu</em>.</p>
+<p>3. Cho kem tươi và đường vào âu. Đánh kem đến bông mềm. Đổ phần kem này vào âu cream cheese, dùng phới (spatula) nhẹ nhàng trộn đều. Tránh trộn mạnh tay và trộn quá lâu, dễ làm kem tươi tách nước.</p>
+<p>* <span style="text-decoration: underline;"><strong>Lưu ý:</strong></span></p>
+<p>– Kem tươi, âu đánh và que đánh kem có thể cho vào ngăn đá trước khi đánh 10 phút. Kem tươi lạnh sẽ bông dễ hơn.</p>
+<p>– Kem tươi chỉ đánh đến bông mềm (kem hơi đặc nhưng không đặc đến mức nhấc que đánh lên tạo chóp). Mô tả cụ thể “bông mềm” và hướng dẫn cách đánh kem các bạn có thể xem thêm tại <a href="/nhat-ki-hoc-lam-banh-phan-1-mousse/"><strong>ĐÂY</strong></a>.</p>
+<p><strong>D. Hoàn thiện</strong></p>
+<p>1. Gỡ pudding xoài ra khỏi khuôn đế rời. Rửa sạch khuôn, lau khô. Đặt đế bánh (đã nguội hẳn) vào đáy khuôn.</p>
+<p>2. Đổ ½ hỗn hợp cheese cake vào khuôn. Đặt phần pudding xoài vào chính giữa. Đổ nốt phần cream cheese còn lại lên trên. Dùng spatula hoặc dao, thìa dàn mặt bánh cho phẳng. Cho cả khuôn bánh vào tủ lạnh, để 6-8 tiếng (hoặc qua đêm) đến khi phần Cheese cake đông lại hoàn toàn.</p>
+<p>Khi dùng, để dễ lấy bánh ra khỏi khuôn, các bạn nhúng một chiếc khăn vào nước nóng rồi áp quanh thành khuôn khoảng 30 giây – 1 phút. Nhẹ nhàng dùng dao lưỡi mỏng rọc quanh thành khuôn rồi gỡ bánh ra khỏi khuôn. Bánh bảo quản lạnh, dùng trong khoảng 1-2 ngày.</p>
+<p>(*) <strong>Các biến tấu</strong>:</p>
+<p>– Phần đế bánh có thể dùng cốt Genoise hoặc Sponge cơ bản. Nếu không có lò nướng, các bạn có thể bỏ qua phần đế bánh (bánh này rất ngon, kể cả không có đế bánh cũng không lo bị ngấy). Hoặc làm <a href="/cheesecake-khong-can-lo-nuong-no-bake-cheesecake/">đế bánh cheese cake không cần lò nướng theo hướng dẫn tại đây</a>.</p>
+<p>– Phần pudding xoài nếu không có thời gian chuẩn bị, có thể thay bằng xoài tươi cắt miếng nhỏ, xếp vào chính giữa phần cheese cake.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8757313858/" title="IMG_0615-1 by LinhTrang9185, on Flickr"><img alt="IMG_0615-1" class="aligncenter" height="640" loading="lazy" src="http://farm3.staticflickr.com/2830/8757313858_0706b42c7c_z.jpg" width="463"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

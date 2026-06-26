@@ -1,0 +1,119 @@
+---
+title: "Cách làm bánh Mousse Tropical Paradise (Mousse dừa, dứa, sốt caramel và hoa dứa khô)"
+date: "2015-09-21"
+slug: "cach-lam-banh-mousse-tropical-paradise-mousse-dua-dua-sot-caramel-va-hoa-dua-kho"
+categories: []
+tags: []
+image: "/wp-content/uploads/2015/09/TropicalParadise-610x350.jpg"
+description: "Cách làm ga-tô mousse dứa, dừa sốt caramel, với hoa dứa khô thơm ngon để trang trí, bánh không cần lò nướng."
+---
+
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><em>Tropical Paradise (</em>thiên đường nhiệt đới) là một trong số các món Entremet có mặt trong chương 4 của <a href="http://tiki.vn/nhat-ky-hoc-lam-banh-2-p131047.html?ref=c316.c862.c865.&amp;src=search&amp;q=nh%E1%BA%ADt+k%C3%BD+h%E1%BB%8Dc+l%C3%A0m+b%C3%A1nh" target="_blank"><strong>sách Nhật ký học làm bánh tập 2</strong> </a>mà mình ưng ý nhất. Nhớ hồi làm chiếc bánh này để chụp ảnh cho sách, lúc đó mình vẫn còn đang ở Antwerp, chỉ có một mình nên cứ hôm nào có bánh to là lại phải mang đi nhờ vả bạn bè ăn hộ. Một trong những đối tượng “bị nhờ” xử lí hộ chiếc bánh này ngày hôm sau đã nhắn hỏi mình xem có làm thêm cái nữa được không, vì mẹ bạn ấy rất thích vị này và muốn đặt nó. Là một câu chuyện nhỏ thôi nhưng làm cho mình thấy rất vui vì gia đình bạn đó làm trong ngành ẩm thực, vị giác hẳn là tinh tế và khó tính hơn bình thường nhiều, thế mà “thiên đường nhiệt đới” vẫn chinh phục được ^.^ Cũng vì lí do này mà mình đăng lại công thức lên blog. Mặc dù đã in trong sách rồi, nhưng vì đây là một món bánh rất ngon nên mình muốn đăng lại, và cũng để dành tặng cho nhiều bạn đọc của SD sống ở nước ngoài, chưa có điều kiện mua sách nữa :)</p>
+<p>Đúng như tên gọi, hương vị chủ đạo của bánh được tạo nên từ vị chua ngọt của dứa, thơm ngậy béo của dừa xen chút ngọt pha lẫn đắng của caramel, cùng ga-tô mềm xốp. Ngoài ra, một điểm nhấn của bánh là những bông hoa dứa khô giòn dẻo ngọt, vừa ngon mà vừa có tác dụng “trang điểm” thêm cho bánh. Tuy công thức có rất nhiều thành phần nhưng không hề khó, chỉ cần làm lần lượt các bước là ổn. Ngay cả lò nướng cũng không cần thiết vì các bạn hoàn toàn có thể dùng cốt bánh ga-tô làm bằng nồi cơm điện được :)</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21412385390/" title=" Tropical Paradise 1 by LinhTrang9185, on Flickr"><img alt=" Tropical Paradise 1" class="aligncenter" height="640" loading="lazy" src=" https://farm6.staticflickr.com/5726/21412385390_bb005bf37d_z.jpg " width="436"/></a></p>
+<p><strong>*<span style="color: #800000;"> Dụng cụ:</span> </strong></p>
+<p>– Khuôn tròn đường kính 15 cm để làm phần ga-tô</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>– Khuôn tròn đế rời hoặc Mousse ring đường kính 18 cm, cao 10 cm để ráp bánh</p>
+<p><span style="color: #800000;"><strong>* Nguyên liệu</strong></span></p>
+<p><strong>A. </strong><strong>Ga-tô va-ni </strong></p>
+<ul>
+<li><em>20 g bột mì đa dụng (all purpose flour)<br/>
+</em></li>
+<li><em>20 g bột ngô (corn starch)<br/>
+</em></li>
+<li><em>15 g dầu ăn </em></li>
+<li><em>8 g sữa tươi không đường  </em></li>
+<li><em>¼ thìa cà phê va-ni chiết xuất </em></li>
+<li><em>2 trứng </em></li>
+<li><em>40 g đường </em></li>
+<li><em>¼ thìa cà phê cream of tartar </em></li>
+<li><em>một nhúm muối nhỏ</em></li>
+</ul>
+<p><strong>B. Caramel cream </strong></p>
+<ul>
+<li><em>65 g kem tươi – hàm lượng béo 35 – 40 % (whipping cream)<br/>
+</em></li>
+<li><em>50 g đường</em></li>
+</ul>
+<p><strong>C. Mousse dứa </strong></p>
+<ul>
+<li><em>6 g Gelatin (dạng lá hoặc bột) </em></li>
+<li><em>160 g dứa tươi </em></li>
+<li><em>20 g nước </em></li>
+<li><em>15 g đường </em></li>
+<li><em>190 g kem tươi – để lạnh (hàm lượng béo 35 – 40 % /whipping cream)<br/>
+</em></li>
+</ul>
+<p><strong><em>D. </em>Mousse dừa</strong></p>
+<ul>
+<li><em>6 g Gelatin (dạng lá hoặc bột) </em></li>
+<li><em>80 g nước cốt dừa (coconut milk)<br/>
+</em></li>
+<li><em>80 g sữa tươi không đường<br/>
+</em></li>
+<li><em>2 lòng đỏ trứng (18 – 20 gram/ lòng đỏ, nếu trứng nhỏ hơn, cần tăng cho đủ lượng)<br/>
+</em></li>
+<li><em>30 g đường </em></li>
+<li><em>190 g kem tươi – để lạnh (hàm lượng béo 35 – 40 % /whipping cream)</em></li>
+<li><em>15 g đường (để đánh bông cùng kem tươi)</em></li>
+</ul>
+<p><strong>E. Trang trí </strong></p>
+<ul>
+<li><em>½ quả dứa tươi to </em></li>
+<li><em>15 – 20 g dừa tấm sấy khô </em></li>
+</ul>
+<p><a href=" https://www.flickr.com/photos/savourydays/21589107442/" title=" IMG_9673-1 by LinhTrang9185, on Flickr"><img alt=" IMG_9673-1" class="aligncenter" height="640" loading="lazy" src=" https://farm6.staticflickr.com/5767/21589107442_d142251c27_z.jpg" width="427"/></a></p>
+<p><strong><span style="color: #800000;">* Cách làm</span></strong></p>
+<p><strong>A. Ga-tô va-ni</strong></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>– Chuẩn bị phần bánh Ga-tô theo cách làm trong công thức<a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/" target="_blank"><strong> Ga-tô cơ bản bất bại,</strong></a> sử dụng khuôn tròn đường kính 15 cm. Nướng bánh ở nhiệt độ 165 °C (hoặc 155 °C nếu dùng khuôn sẫm màu) trong khoảng 20 đến 25 phút, đến khi bánh chín vàng mặt, thơm mùi bánh nướng, ấn nhẹ tay lên mặt bánh thấy vết lõm phồng trở lại.</p>
+<p>* <em>Nếu không có lò nướng, các bạn có thể nướng bánh bằng nồi cơm điện theo cách làm trong công thức <strong><a href="/video-cach-lam-banh-ga-to-bang-noi-com-dien/" target="_blank">Ga-tô cơ bản làm bằng nồi cơm điện</a></strong>. </em><em>Nếu đường kính nồi từ 15 – 17 cm thì dùng công thức trên. Nếu đường kính đáy nồi từ 18 – 20 cm thì tăng tất cả các nguyên liệu lên gấp đôi để bạt bánh đủ dày</em><em>. </em></p>
+<p>– Sau khi bánh chín lấy ra khỏi khuôn, để nguội trên <em>rack</em> rồi, xẻ làm hai bạt tròn. Nếu bạt bánh cỡ 18 – 20 cm, nên cắt bớt phần riềm ngoài để bạt bánh còn khoảng 15 cm (khi đổ Mousse thì Mousse sẽ phủ lên trên bạt bánh, sẽ đẹp hơn).</p>
+<p>– Chuẩn bị Mousse ring hoặc lót giấy nến vào đế khuôn tròn dùng làm Mousse.</p>
+<p><strong> B. Caramel cream </strong></p>
+<p>– Đun nóng kem tươi (không để sôi).</p>
+<p>– Cho đường vào một nồi khác, đun lửa to đến khi đường nóng chảy và chuyển màu vàng nâu như trong hình thì đổ kem tươi nóng vào, quấy đều.<br/>
+<a href=" https://www.flickr.com/photos/savourydays/21574313766/" title="4.3.2-001 by LinhTrang9185, on Flickr"><img alt=" 4.3.2-001" class="aligncenter" height="334" loading="lazy" src=" https://farm1.staticflickr.com/616/21574313766_070ac4df2b.jpg " width="500"/></a></p>
+<p>Đổ ra bát, để nguội. Ta sẽ có khoảng 50 – 60 gram <em>caramel cream</em>.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21609359521/" title="4.3.3 by LinhTrang9185, on Flickr"><img alt=" 4.3.3" class="aligncenter" height="500" loading="lazy" src=" https://farm1.staticflickr.com/626/21609359521_1f8557c244.jpg " width="499"/></a></p>
+<p>* <em>Không nên để đường cháy quá lâu sẽ làm phần caramel bị đắng nhiều. Nếu khi đổ kem vào có đường bị đông lại thì đặt nồi lên bếp, quấy liên tục đến khi đường tan hết. </em></p>
+<p><strong> C. Mousse dứa </strong></p>
+<p>– Ngâm Gelatin vào 30 ml nước (nếu là Gelatin dạng bột) hoặc 40 – 45 ml nước (nếu dùng Gelatin lá) để Gelatin nở mềm.</p>
+<p>– Xay dứa, nước, đường và 30 gram <em>caramel cream </em>từ phần (B) đến khi nhuyễn mịn. Cho hỗn hợp vào nồi. Đun đến khi hỗn hợp sôi thì hạ lửa nhỏ, đun thêm khoảng 1 phút rồi bắc nồi ra khỏi bếp. Quấy đều trong suốt quá trình đun.</p>
+<p>– Vắt lá Gelatin cho ráo nước, bỏ vào nồi nhanh tay quấy đều cho Gelatin tan hết. Nếu dùng Gelatin bột thì cho cả Gelatin và nước ngâm vào nồi. Đổ hỗn hợp dứa ra bát, để nguội (thu được khoảng 200 – 210 gram hỗn hợp caramel dứa).</p>
+<p>– Cho kem tươi vào âu cùng 20 gram <em>caramel cream </em>từ phần B. Nếm thử hỗn hợp dứa, nếu hỗn hợp dứa vừa ngọt thì cho thêm 10 gram đường vào kem tươi. Nếu hỗn hợp dứa rất ngọt thì không cần cho thêm đường vào kem tươi.</p>
+
+
+<p>– Đánh đến khi kem tươi đạt bông mềm. Nhẹ nhàng đổ phần dứa (đã nguội) vào, quấy đều bằng kĩ thuật <em>fold</em> đến khi các nguyên liệu hòa quyện.</p>
+<p>– Đặt một phần bạt ga-tô vào chính giữa khuôn. Đổ phần mousse dứa vào.<br/>
+<a href=" https://www.flickr.com/photos/savourydays/21589146772/" title="4.3.4-001 by LinhTrang9185, on Flickr"><img alt=" 4.3.4-001" class="aligncenter" height="333" loading="lazy" src=" https://farm1.staticflickr.com/761/21589146772_730490b50e.jpg " width="500"/></a></p>
+<p>Lắc nhẹ khuôn cho Mousse dàn đều. Để khuôn vào ngăn mát tủ lạnh khoảng 30 đến 40 phút (hoặc ngăn đá trong 10 phút) cho Mousse se mặt.</p>
+<p><strong>D. Mousse dừa</strong></p>
+<p>– Ngâm nở Gelatin như trong phần C.</p>
+<p>– Đun nước cốt dừa và sữa nóng ấm (không để sôi). Cho trứng và đường (phần 30 gram) vào âu, dùng phới lồng đánh đến khi đường tan hết, trứng chuyển màu vàng nhạt, hơi bông mịn.</p>
+<p>– Từ từ đổ sữa và nước cốt dừa ấm vào trứng, vừa đổ vừa quấy đều cho các nguyên liệu hòa quyện. Lọc lại hỗn hợp qua rây, cho vào nồi.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/20979349293/" title="4.3.7 by LinhTrang9185, on Flickr"><img alt=" 4.3.7" class="aligncenter" height="500" loading="lazy" src=" https://farm6.staticflickr.com/5789/20979349293_76709f3f4f.jpg " width="499"/></a></p>
+<p>– Nấu ở lửa vừa. Quấy đều tay và liên tục. Khi hỗn hợp đặc và hơi sệt thì tắt bếp. Cho Gelatin vào như cách làm trong phần (C), quấy đều để Gelatin tan hết và hòa quyện. Đổ hỗn hợp ra bát, để nguội (thu được khoảng 200 – 210 gram kem trứng dừa). <em>Hỗn hợp sẽ hơi sánh nhưng chưa đặc đến mức như nhân kem trứng của bánh su kem.</em></p>
+<p>– Đánh bông kem tươi với 15 gram đường đến khi kem đạt bông mềm. Nhẹ nhàng đổ phần kem trứng dừa (đã nguội) vào, trộn đều bằng kĩ thuật <em>fold</em>.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21574284446/" title="4.3.8-001 by LinhTrang9185, on Flickr"><img alt="4.3.8-001" class="aligncenter" height="334" loading="lazy" src=" https://farm1.staticflickr.com/750/21574284446_f63e014284.jpg" width="500"/></a></p>
+<p>– Khi Mousse dứa đã se mặt, đặt phần ga-tô thứ hai lên trên, nhẹ nhàng đổ mousse dừa vào. Lắc nhẹ cho Mousse dàn đều. Đậy hoặc bọc kín khuôn, để ngăn mát tủ lạnh tối thiểu 4 giờ để Mousse đông hẳn (tốt nhất là để qua đêm).</p>
+<p>– Khi Mousse đã hoàn toàn đông lại thì gỡ bánh ra khỏi khuôn.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21589123852/" title="4.3.9 by LinhTrang9185, on Flickr"><img alt="4.3.9" class="aligncenter" height="500" loading="lazy" src=" https://farm1.staticflickr.com/671/21589123852_7f0fe7cfed.jpg " width="500"/></a></p>
+<p>Trang trí mặt bánh bằng dừa sấy khô và hoa dứa khô. Bảo quản bánh trong ngăn mát tủ lạnh, dùng từ 1 đến 2 ngày (chỉ trang trí hoa dứa ngay trước khi ăn để giữ cho hoa được khô ráo).</p>
+<p><strong>E. Cách làm hoa dứa khô: </strong></p>
+<p>– Làm nóng lò ở 110 °C (hai lửa).</p>
+<p>– Dứa gọt vỏ, cắt bỏ sạch mắt dứa (hình 10). Rửa sạch rồi xát muối lên khắp quả dứa. Để khoảng 15 phút rồi rửa lại bằng nước sạch. Thấm khô.</p>
+<p>– Thái dứa thành khoanh tròn dày khoảng 2 – 3 mm. Dùng giấy hoặc khăn sạch thấm hoặc ép cho miếng dứa ra bớt nước (sấy khô sẽ nhanh hơn).</p>
+<p>– Chuẩn bị khay có lót tấm nướng silicon hoặc giấy nến. Xếp dứa vào khay.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21413523559/" title="4.3.11 by LinhTrang9185, on Flickr"><img alt="4.3.11" class="aligncenter" height="333" loading="lazy" src=" https://farm6.staticflickr.com/5715/21413523559_e8521398bd.jpg" width="500"/></a></p>
+<p>-Cho dứa vào lò sấy ở nhiệt độ 110 °C. Sau khoảng 30 đến 35 phút, hoặc khi thấy dứa đã hơi se mặt và có vết hơi xém vàng thì lật mặt các miếng dứa, đồng thời quay ngược khay nướng. Sấy tiếp trong khoảng 30 đến 35 phút. Thời gian sấy có thể thay đổi tùy theo lò. Sấy ở nhiệt độ cao hơn sẽ giúp dứa khô nhanh hơn nhưng khả năng dứa bị cháy phần riềm ngoài cũng cao hơn.</p>
+<p>– Khi phần lõi dứa xuất hiện các đốm nhỏ li ti là dứa đã khô. Tắt lò, lấy dứa ra, nhanh tay xếp dứa vào các cốc nhỏ hay khuôn Muffin/ Cupcake (để cánh hoa dứa được cong). Cho dứa lại vào lò (đã tắt). Để nguyên dứa trong khoảng 3 đến 4 giờ (tốt nhất là qua đêm) cho dứa khô cứng lại hẳn. Dùng hoa gắn lên bánh ngay trước khi ăn vì hoa để trong tủ lạnh sẽ bị ẩm và mềm dai.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21412411700/" title="4.3.12 by LinhTrang9185, on Flickr"><img alt="4.3.12" class="aligncenter" height="334" loading="lazy" src=" https://farm6.staticflickr.com/5716/21412411700_85e24c5762.jpg " width="500"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

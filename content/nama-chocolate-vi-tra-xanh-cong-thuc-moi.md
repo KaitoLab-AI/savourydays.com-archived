@@ -1,0 +1,45 @@
+---
+title: "Nama chocolate vị trà xanh (Công thức mới)"
+date: "2014-03-08"
+slug: "nama-chocolate-vi-tra-xanh-cong-thuc-moi"
+categories: []
+tags: []
+image: "/wp-content/uploads/2014/03/NamaChocolate.jpg"
+description: "nama chocolate trà xanh, matcha, chocolate truffle"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Nama chocolate vị trà xanh đã có công thức từ lâu, nhưng vẫn có một số điểm làm mình chưa thật ưng ý lắm (theo các bạn phản hồi lại), như là mùi vị của kẹo hơi quá ngọt và kẹo khá là khó đông, nên vẫn “nung nấu” ý định sẽ thử lại một công thức khác. Đợt vừa rồi khi giới thiệu các công thức <a href="/chocolate-truffle-kieu-bi-kieu-phap-va-low-carb/">chocolate truffle</a>, có công thức truffle kiểu Bỉ được rất nhiều bạn thích nên mình nảy ra ý tưởng thử áp dụng cách làm kiểu Bỉ với vị trà xanh xem sao.</p>
+<p>Điểm đặc biệt nhất của chocolate truffle kiểu Bỉ là dùng bơ thay cho kem tươi (whipping cream). Theo một đầu bếp Bỉ thì bơ là “bí quyết” để tạo ra vị ngon đặc trưng của chocolate truffle kiểu Bỉ. Bơ chứa ít nước hơn so với kem tươi nên giúp cho kẹo truffle giữ được độ tươi mới lâu hơn và độ tan trong miệng của truffle làm với bơ thì chỉ có hai từ “tuyệt hảo” để mô tả.</p>
+<p>Và quả đúng như vậy, nhờ sử dụng bơ nên công thức Nama chocolate vị trà xanh lần này có độ “tan trong miệng” rất tuyệt, cũng nhờ bơ nên kẹo đông cứng nhanh và dễ hơn, có thể cắt bằng dao rất dễ dàng thành miếng vuông vắn, thậm chí có thể đổ trong các khuôn có hình (trái tim, hoa lá…). Nhược điểm có lẽ là vì lượng bơ khá nhiều nên những ai không chịu được mùi bơ sữa chắc sẽ không thích công thức này. Nhưng dù sao thì đây cũng là một công thức ngon, hi vọng các bạn sẽ thích. Khi nào có thời gian mình sẽ thử nốt công thức Nama chocolate với kem tươi nữa :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/13004328665/" title="Nama chocolate - Green tea powder by LinhTrang9185, on Flickr"><img alt="Nama chocolate - Green tea powder" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7378/13004328665_8775227e9b_z.jpg" width="561"/></a></p>
+<p> </p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<h2>CÁCH LÀM NAMA CHOCOLATE</h2>
+<p>(*)<span style="color: #ff0000;"><strong> Ghi chú:</strong></span> <span style="color: #0000ff;">Tháng 2/2017 mình đã giới thiệu công thức Nama chocolate sử dụng kem tươi (thay vì bơ và sữa tươi như công thức dưới). Bài viết mới có video hướng dẫn, các bạn có thể xem tại bài<a href="/video-cach-lam-nama-chocolate-tra-xanh/" style="color: #0000ff;" target="_blank"><strong> Cách làm Nama Sô cô la Trà xanh Hoa anh đào</strong></a> này nhé. </span></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu<br/>
+</strong></span></p>
+<ul>
+<li><em>70 ml sữa tươi không đường </em></li>
+<li><em>200 – 220 gr chocolate trắng</em></li>
+<li><em>130 gr bơ nhạt – cắt thành miếng nhỏ – để mềm ở nhiệt độ phòng </em></li>
+<li><em>25 – 30 gr bột trà xanh</em></li>
+<li><em>5 ml (1tsp) vanilla chiết xuất (không bắt buộc)</em></li>
+<li><em>5 – 10 gr bột trà phủ ngoài kẹo</em></li>
+</ul>
+<p><strong><span style="color: #800000;">Cách làm</span></strong></p>
+<p>(*) <span style="color: #ff0000;"><em>Để có được Nama chocolate ngon, hãy dùng nguyên liệu (bơ, bột trà) ngon nhất mà bạn có thể tìm được, vì mùi vị của tất cả những nguyên liệu này sẽ quyết định hương vị của kẹo thành phẩm. Không nên dùng bơ thực vật (magarine). Vanilla nếu không có loại chiết xuất thì có thể bỏ qua, tránh dùng vanilla nhân tạo đôi khi có thể gây vị đắng</em></span>.</p>
+<p><strong>Bước 1: </strong>Bào vụn hoặc thái nhỏ chocolate. Cho vào âu cùng sữa tươi. Cho một ít nước vào một nồi nhỏ, sao cho có thể đặt âu lên miệng nồi mà đáy âu không chạm nước. Đun sôi nước trong nồi rồi hạ lửa vừa để nước sôi lăn tăn. Đặt âu lên miệng nồi. Dùng phới quấy đều và liên tục đến khi chocolate tan chảy và hòa quyện hết cùng với sữa. Bắc âu ra, để nguội bớt.</p>
+<p><strong>Bước 2</strong>: Cho bơ (cắt nhỏ và đã hết lạnh) vào 1 chiếc âu khác. Đặt máy ở tốc độ thấp rồi tăng dần, đánh cho bơ mềm mịn và bông, màu sắc của bơ chuyển sang vàng nhạt hoặc trắng. Tùy công suất máy mà thời gian đánh thay đổi khác nhau. Nhưng bơ đánh càng bông thì kẹo sẽ càng có độ <em>melt-in-the-mouth</em> tốt hơn. Trong quá trình đánh thi thoảng nên dừng máy để vét bơ bắn lên bám ở thành âu.</p>
+<p><strong>Bước 3</strong>: Chia phần chocolate sữa (đã nguội) làm 2 – 3 phần. Chia bột trà thành 2 – 3 phần. Đổ từng phần chocolate vào âu bơ, đồng thời rây một phần bột trà vào âu. Để máy ở tốc độ thấp nhất đánh đến khi nguyên liệu hòa quyện thì cho phần chocolate và trà tiếp theo. Làm cho đến hết. Cuối cùng cho vanilla, đánh đều. Ta sẽ có một hỗn hợp tương đối lỏng nhưng không loãng như nước.</p>
+<p>Ở bước này, việc chia chocolate và bột trà thành nhiều phần không chỉ giúp cho nguyên liệu hòa quyện nhanh hơn mà còn tạo điều kiện để các bạn tự điều chỉnh mùi vị của kẹo, ví dụ nếu thấy quá ngọt thì có thể giảm bớt chocolate hoặc tăng bột trà… Ngoài ra, khi nếm thử kẹo ở bước này có thể sẽ thấy chưa được ngon lắm do bơ hơi chảy. Nhưng sau khi để tủ lạnh và bơ cứng lại, khi ăn sẽ thấy mùi vị rất khác ;)</p>
+<p>Đổ kẹo vào khuôn (hình vuông, kích thước khoảng 18 – 20 cm mỗi cạnh). Nếu không phải là khuôn chocolate chuyên dụng, nên lót giấy nến ở đáy khuôn để đổ kẹo ra được dễ dàng. Nếu có khuôn silicon thì dùng khuôn silicon là tốt nhất.</p>
+<p>Để kẹo vào ngăn mát tủ lạnh cho kẹo đông lại. Tùy độ dày của miếng kẹo mà sẽ mất khoảng 45 – 1h30 phút. Sau khi kẹo đã đông lại, gỡ kẹo ra khỏi khuôn. Dùng dao sắc cắt nhanh tay thành các viên nhỏ.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Kẹo có thể bảo quản trong ngăn mát tủ lạnh (đậy/ bọc kín) trong 2 – 3 ngày. Trước khi ăn nên lấy ra ngoài để khoảng 15 – 20 phút (*tùy nhiệt độ phòng) để kẹo mềm hơn và bớt hơi lạnh, ăn sẽ ngon hơn. Khi ăn xếp kẹo lên đĩa rồi rây bột trà lên trên. Bột trà xanh chỉ nên rây lên mặt kẹo ngay trước khi sử dụng vì nếu rây sớm bột có thể bị bết hoặc bị “hút” hết vào trong kẹo.</p>
+<p>Và… thưởng thức thôi!! ^^</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

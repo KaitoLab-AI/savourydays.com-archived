@@ -1,0 +1,59 @@
+---
+title: "Nhật ký học làm bánh – Chia sẻ kinh nghiệm làm Flan (Crème/ Kem Caramel)"
+date: "2011-12-14"
+slug: "nhat-ky-hoc-lam-banh-chia-se-kinh-nghiem-lam-flan-creme-kem-caramel"
+categories: ["Các loại bánh khác", "Kinh nghiệm nấu nướng", "Tráng miệng"]
+tags: ["flan", "kem caramel", "kem tươi", "sữa", "tráng miệng", "trứng"]
+image: "/wp-content/uploads/2011/12/Flan.jpg"
+description: ""
+---
+
+<p>Flan hay còn gọi là Kem Caramel hay Bánh phờ-lăng – Bánh pờ-lăng (và một vài tên gọi khác, mình liệt kê vài ví dụ điển hình thôi :P) là món vừa dễ làm mà cũng vừa khó làm. Nói dễ là bởi vì chỉ cần trộn trứng sữa theo đúng tỉ lệ (mà cái tỉ lệ này cũng đương đối linh hoạt) rồi nướng hoặc hấp lên cho bánh đông lại là thành Flan. Còn nói là “khó” là bởi vì làm sao có được một tỉ lệ thành phần phù hợp, và nướng hay hấp vừa chuẩn, để Flan sau khi lấy ra khỏi lò nướng hay nồi hấp đủ đông, có thể lấy ra khỏi khuôn dễ dàng mà không bị vỡ nát, và đặc biệt là không bị rỗ. Và tuy đông như vậy nhưng Flan không đặc cứng hay dẻo mà vẫn mềm mịn, bỏ vào miệng thì cảm giác như miếng bánh tan ra, và ngay lập tức có thể cảm nhận được vị ngậy béo của kem trứng hòa với vị ngọt pha chút đắng rất đặc trưng của nước đường Caramel :)</p>
+<p>Đến đây thì có thể sẽ có bạn nói là mình thật là “nhiều yêu cầu” :P Về điểm này thì mình cũng công nhận, mình vốn dĩ là đứa kĩ tính, đặc biệt với chuyện ăn uống thì cái sự kĩ này nó tăng gấp 2, 3 lần so với bình thường :D Nhưng mà, nếu như chỉ thay đổi công thức một chút, và chú ý trong quá trình làm hơn một chút để có một món bánh ngon hơn hẳn thì tội gì mà không làm nhỉ?</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6510418453/" title="Flan (Creme Caramel) by LinhTrang9185, on Flickr"><img alt="Flan (Creme Caramel)" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7144/6510418453_76f040fbf8_z.jpg" width="430"/></a></p>
+<p>Ở trong bài này mình chia sẻ một vài kinh nghiệm của bản thân rút ra trong quá trình làm Flan- hi vọng sẽ giúp ích được phần nào cho cả nhà vì Flan có vẻ là món được rất nhiều người ưa thích. Ở trong bài đầu tiên này thì chủ yếu là các lưu ý khi làm Flan, còn công thức cụ thể mình sẽ viết trong phần sau nhé :)</p>
+<p>Làm Flan mình thấy mọi người hay gặp phải mấy vấn đề chính là</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span id="more-1453"></span></p>
+<ul>
+<li><strong><em>Bánh không đông</em></strong></li>
+<li><strong><em>Bánh bị tổ ong/ rỗ mặt, đáy, bên trong.</em></strong></li>
+<li><strong><em>Dùng phương pháp nào thì tốt hơn, hấp cách thủy hay nướng cách thủy? Làm thế nào cho bánh chín, ngon và đẹp :) </em></strong></li>
+</ul>
+<p>Với từng vấn đề này, có một số nguyên nhân chính và cách giải quyết cụ thể là:</p>
+<p>1. <span style="text-decoration: underline;"><strong>Flan không đông</strong></span></p>
+<p>– Tỉ lệ trứng-sữa chưa phù hợp. Chú ý cân đong chính xác và làm theo đúng chỉ dẫn trong công thức.</p>
+<p>– Nhiệt độ quá thấp hoặc thời gian nướng/hấp chưa đủ làm chín bánh.</p>
+<p>2. <span style="text-decoration: underline;"><strong>Flan rỗ mặt</strong></span></p>
+<p>– Thường gặp với phương pháp hấp cách thủy, do hơi nước bốc lên, đọng lại ở nắp vung và chảy xuống gây rỗ bề mặt flan.</p>
+<p>– Cách khắc phục: nguyên nhân là hơi nước chảy xuông nên làm sao ngăn được nước đọng này là ngon lành. Mình làm thì dùng hai cái khăn <strong>sạch và thấm nước tốt. </strong>Một cái phủ lên trên các cốc Flan, một cái phủ lên miệng nồi rồi đậy vung lên. Cẩn thận nữa thì cứ cách khoảng 10-15 phút các bạn có thể mở vung lau sạch nước đọng. Cũng có thể đậy nắp hoặc bọc khuôn Flan bằng nilon thực phẩm, giấy bạc… Nhưng nếu bọc thì nhớ bọc kín vì nếu hở thì hơi nước vẫn có thể đọng lại trên những tấm nắp bọc này.</p>
+<p>3. <span style="text-decoration: underline;"><strong>Flan rỗ đáy hoặc rỗ bên trong</strong></span></p>
+<p>– Có thể gặp với cả hai phương pháp. Nguyên nhân là do nhiệt độ quá cao làm cho hỗn hợp trứng sữa sôi và tạo tổ ong.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>– Cách khắc phục:</p>
+<p>+ Để đúng nhiệt độ quy định. Với <strong>phương pháp hấp</strong>, thường mình đặt bếp ở mức nhỏ nhất, đủ cho nước trong nồi sôi lăn tăn. Với <strong>phương pháp nướng</strong> cách thủy, nhiệt độ nướng mình thấy có thể dao động trong khoảng 150-160 độ tùy lò. Thời gian nướng hay hấp sẽ tùy kích thước khuôn. Các khuôn có thành cao nướng sẽ lâu hơn khuôn thấp.</p>
+<p>+ Chất liệu khuôn và chất liệu khay đặt khuôn (cho phương pháp nướng) đôi khi cũng có ảnh hưởng đến chuyện này. Chẳng hạn khuôn kim loại dẫn nhiệt tốt hơn khuôn sứ. Ngoài ra, đối với <strong>phương pháp nướng, không nên </strong>dùng khay đi kèm với lò nướng, vì khay này tiếp xúc trực tiếp với thành lò cho nên nhiệt sẽ cao hơn -&gt; dễ làm phần đáy flan bị rỗ.</p>
+<p>Cách khắc phục cho những trường hợp này là <strong><em>cách nhiệt khuôn. </em></strong>Một vài ví dụ là</p>
+<p style="padding-left: 30px;">Với <strong>Phương pháp nướng: </strong>Dùng một khay nướng riêng, đặt cốc flan vào khay nướng rồi đổ <strong>nước sôi </strong>sao cho nước ngập khoảng 1/2 khuôn. Khay nươngs này sau đấy đặt lên trên rack đi kèm với lò. Các bạn có thể đặt thêm một cái khăn ở đáy khay đựng nước như trong hình dưới, việc này cũng giúp hạn chế phần trứng sữa ở đáy khuôn flan bị sôi, làm cho flan bị rỗ đáy. Nếu bắt buộc phải dùng khay đi kèm với lò thì nhất thiết nên lót khăn ở đáy khay.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6510418555/" title="2011-11-30 by LinhTrang9185, on Flickr"><img alt="2011-11-30" class="aligncenter" height="500" loading="lazy" src="http://farm8.staticflickr.com/7151/6510418555_9081a706af.jpg" width="500"/></a></p>
+<p style="padding-left: 30px;">Với <strong>Phương pháp hấp: </strong>Dùng nồi hấp hai tầng, hoặc xửng hấp. Nếu không có xừng và buộc phải đặt khuôn flan trực tiếp vào nước và đáy khuôn tiếp xúc với đáy nồi thì nên bọc một lớp giấy bạc bên ngoài khuôn flan, tuy nhiên nhìn chung là không nên để khuôn flan tiếp xúc với đáy nồi vì nhiệt cao dễ làm cho trứng sữa sôi.</p>
+<p> 4. Về lựa chọn giữa hai phương pháp hấp và phương pháp nướng cách thủy.</p>
+<p>Nướng cách thủy như thế nào thì ở trong phần (3) mình cũng có viết sơ qua rồi. Trong bài sau về công thức mình sẽ mô tả cụ thể một lần nữa. Ưu điểm của nướng cách thủy là nhanh và vì không có hơi nước rỏ xuống như hấp nên loại trừ dc nỗi lo Flan bị rỗ mặt (mặc dù nếu chỉnh nhiệt độ ko chính xác thì khả năng rỗ những phần khác vẫn cao như thường). Mình đọc ở một số nơi thì thấy mọi người khen phương pháp nướng hơn hẳn phương pháp hấp, có lẽ là tùy ai quen cách nào thì làm cách ấy thôi. Sản phẩm từ hai cách mình thấy mùi vị ngon như nhau, nướng thì có vẻ flan đặc và chắc hơn một chút, màu cũng vàng hơn, nhưng đôi khi mình vẫn hấp vì cảm giác flan mềm hơn :P</p>
+<p>Tạm vậy đã nhé, còn một vài ý nhỏ nhỏ khác về việc chưng nước đường làm caramel và mấy thứ nữa trong quá trình làm flan mình sẽ viết sau cùng với công thức Flan mà mình hay sử dụng nhé :)</p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

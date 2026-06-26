@@ -1,0 +1,70 @@
+---
+title: "Cách làm BÁNH MÌ HOA CÚC với Nồi chiên không dầu (không nhồi bột)"
+date: "2021-09-01"
+slug: "cach-lam-banh-mi-hoa-cuc-voi-noi-chien-khong-dau-khong-nhoi-bot"
+categories: []
+tags: []
+image: "/wp-content/uploads/2021/09/cach-lam-banh-mi-hoa-cuc-noi-chien-khong-dau-banner.jpg"
+description: "Cách làm bánh mì hoa cúc với nồi chiên không dầu: đây là công thức KHÔNG CẦN NHỒI BỘT, rất đơn giản và có thể nướng với nồi chiên không dầu"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400; color: #000000;">Sau cú hot hit bánh mì không cần nhồi cách đây không lâu, thì tụi mình lại có ngay một “siuuuu phẩm” mới mang tên “Bánh mì hoa cúc KHÔNG CẦN NHỒI – làm với BỘT MÌ ĐA DỤNG – nướng bằng NỒI CHIÊN KHÔNG DẦU”, dành riêng cho những ngày giãn cách đây ạ ;) ;)</span></p>
+<p><span style="font-weight: 400; color: #000000;">Với công thức phiên bản siêu dễ này, bạn không cần có kiến thức gì về bánh mì, không cần nhồi bột, không lo chuyện chảy bơ, v.v.. nhưng bánh vẫn cực kì ngon, thớ bánh rất rất tơi xốp, vẫn có thể “xé thịt gà” tương đối nha 😁</span></p>
+<p><span style="font-weight: 400; color: #000000;">Đặc biệt là bánh không có nhiều bơ nên so với bánh hoa cúc truyền thống thì ăn cũng đỡ ngấy, đỡ “mệt mỏi” hơn với người lớn tuổi hay những ai không quen ăn đồ ngậy béo 😉</span></p>
+<p><span style="font-weight: 400; color: #000000;">Tuy là không thể “sóng sánh” được với bánh hoa cúc chuẩn xịn, nhưng với những bạn chưa chắc chắn về kĩ thuật bánh mì, vẫn “vật vã” hơi việc nhồi bột thì đây là một lựa chọn cực phù hợp 😉</span></p>
+<h2>CÁCH LÀM BÁNH MÌ HOA CÚC VỚI NỒI CHIÊN KHÔNG DẦU</h2>
+<p><strong><span style="color: #000000;">Nguyên liệu (cho 2 bánh cỡ vừa, 200 gram/bánh)</span></strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram bơ động vật không muối, đun chảy</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">55 gram sữa tươi không đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">30 gram đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">10 gram sữa đặc</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">65 gram trứng gà</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">½ thìa cafe chiết xuất vani</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">½ thìa cafe nước hoa cam</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 nhúm muối nhỏ</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">195 – 200 gram bột mì đa dụng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 thìa cafe men nở</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>* Lưu ý:</strong></span></p>
+<p><span style="font-weight: 400; color: #000000;">– Bơ quyết định rất nhiều đến hương vị bánh. Nên dùng bơ động vật không muối, không dùng các loại bơ thực vật như bơ Tường An.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Trứng gà cần cân đủ, lượng trứng trên khoảng hơn 1 quả trứng, phần trứng còn lại để quét mặt bánh.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Vani và nước hoa cam là nguyên liệu tạo nên mùi thơm đặc trưng của bánh mì hoa cúc. Nếu không có thì có thể bỏ qua.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Bột mì đa dụng mình dùng của Hoa Ngọc Lan, nếu bạn có sẵn bột số 13 (bột làm bánh mì) thì có thể dùng, thớ bánh sẽ dai hơn một chút. Nếu dùng bột 13 thì nên cho trước 190 gram bột, nếu bột ướt thì cho thêm sau.</span></p>
+<p><strong><span style="color: #000000;">Cách làm</span></strong></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/-92h5Tlp9H0" width="560"></iframe></div>
+<p><span style="color: #000000;">1. Trộn đều toàn bộ các nguyên liệu ướt gồm: Bơ, sữa tươi, đường, sữa đặc, trứng gà, muối, vani và nước hoa cam. Khuấy đến khi đường tan tương đối.</span></p>
+<p><span style="color: #000000;">2. Trộn đều bột mì với men, cho chất lỏng vào âu bột, trộn tới khi không còn bột khô. </span><span style="color: #000000;">Che đậy kín âu.</span></p>
+<p><span style="color: #000000;">3. Gập bột:</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Để bột nghỉ lần 1 trong 15 phút. Sau 15 phút, thực hiện thao tác gập mép bột ở ngoài vào giữa khoảng 10 – 12 lần. Bột khá ướt dính nên dùng phới để thao tác sẽ dễ hơn nhiều.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400; color: #000000;">– Tiếp tục lặp lại quy trình này thêm 2 lần nữa. Tổng cộng để bột nghỉ 45 phút và gập bột 3 lần.</span></p>
+<p><span style="color: #000000;">4. Sau lần gập thứ 3, bột lúc này đã dẻo dai hơn nhiều. Dùng phới (hoặc dùng tay) ấn cho xẹp hết bọt khí trong thời gian nghỉ. Sau đó bọc kín âu bột và để vào ngăn mát tủ lạnh khoảng 90 phút, đến khi bột nở khoảng 1.3 – 1.5 lần. Không nên để bột nở quá nhiều.</span></p>
+<p><span style="color: #000000;">5. Sau khi bột đã nghỉ đủ trong tủ lạnh, ấn xẹp hết bọt khí trong bột. </span></p>
+<p><span style="color: #000000;">6. Tạo hình</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Mình dùng khuôn có chống dính sẵn. Nếu khuôn không chống dính, cần chống dính bằng cách quét bơ đều khắp lòng khuôn, phủ bột mì khô rồi úp ngược khuôn cho bột thừa rơi ra ngoài.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Chia bột thành 6 phần bằng nhau, mỗi phần khoảng 66 – 68 gram.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Tạo mặt mịn cho các viên bột bằng cách gấp mép bột vào giữa đến khi phần mặt căng mịn (cụ thể xem tại video).</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Cán bột thành hình oval, bột lúc này sẽ co lại nhiều, đây là chuyện bình thường. Sau khi cán xong phần bột đầu tiên, tiếp tục cán các phần bột còn lại. </span></p>
+<p><span style="font-weight: 400; color: #000000;">Sau khi cán hết, quay lại phần bột đầu tiên để cán lần 2, thời gian nghỉ giúp bột bớt co hơn. Cán bột dài khoảng gấp 1.3 – 1.5 lần chiều dài khuôn bánh, sau đó lật mặt bột, cuộn bột rồi vê cho dây bột dài gấp đôi khuôn bánh. Thao tác vê này bạn cũng làm lần lượt, sau đó quay lại dây bột đầu tiên để vê lần 2, bột sẽ bớt co hơn. Các sợi bột có thể sẽ không mịn hoàn toàn (do không nhồi bột) nhưng không sao nhé, bánh nở lên và sau khi nướng vẫn sẽ mịn đẹp.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Tết 3 sợi giống như tết tóc. Đặt bột vào khuôn.</span></p>
+<p><span style="color: #000000;">7. Dùng khăn phủ lên mặt khuôn tránh làm bột bị khô, ủ đến khi bánh nở gấp đôi (khoảng 45 – 60 phút).</span></p>
+<p><span style="color: #000000;">8. Nướng bánh</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Làm nóng nồi chiên không dầu trước 10 phút. Thông thường nhiệt nướng nồi chiên không dầu sẽ thấp hơn lò nương khoảng 15 – 20 độ. Với nồi nhà mình thì nướng ở 155 độ.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Đánh tan một quả trứng rồi lọc qua rây, nhẹ nhàng quét 1 lớp trứng rất mỏng lên mặt bánh rồi rắc hạnh nhân lát lên để trang trí (có thể thay bằng vừng/mè hoặc bỏ qua). Lưu ý cần nhẹ tay và chỉ quét 1 lớp rất mỏng, tránh làm bánh nhanh cháy. Bước quét trứng này là không bắt buộc nha.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– NCKD thường có quạt thổi từ trên xuống khá mạnh và nồi cũng nhỏ nên mặt bánh cháy xém và khô khá nhanh. Vì thế với nồi nhà mình, trong thời gian đầu cần che giấy bạc để bánh chín mà không bị cháy. Khi thời gian nướng chỉ còn khoảng 5 – 8 phút mình mới bắt đầu gỡ giấy bạc để nướng cho mặt bánh vàng. </span></p>
+
+
+<p><span style="font-weight: 400; color: #000000;">—&gt; Che giấy bạc và nướng trong 20 – 22 phút, sau đó gỡ giấy bạc và nướng thêm khoảng 5 phút (với bánh 180 gram). Với bánh nhỏ hơn (VD: chỉ cần nướng 15 phút -&gt; che giấy bạc trong khoảng 10 phút đầu, sau đó gỡ giấy và nướng thêm 5 phút)</span></p>
+<p><span style="font-weight: 400; color: #000000;">Nồi nhà mình có quạt thổi khá mạnh, nếu chỉ phủ giấy bạc thì gió sẽ thổi bay, vì thế mình thường bọc giấy bạc xuống cả đáy khuôn, nhưng cần lưu ý chỉ bọc hờ, để khoảng trống bên trên cho bột nở. </span></p>
+<p><span style="font-weight: 400; color: #000000;">9. Bánh sau khi lấy ra khỏi lò cần gỡ khỏi khuôn ngay và để nguội hoàn toàn trên rack. Khi bánh còn nóng có thể quét 1 lớp bơ chảy hoặc sữa tươi lên mặt bánh giúp mặt bánh đỡ khô hơn.</span></p>
+<p><span style="color: #000000;">10. Bảo quản: Bánh để trong túi, hộp kín để nhiệt độ phòng khoảng 1 – 2 ngày. </span></p>
+<p><span style="font-weight: 400; color: #000000;">Tốt nhất nên để bánh trong ngăn mát tủ lạnh, khi ăn có thể nướng lại bằng NCKD ở 170 độ C trong 7 – 9 phút là bánh lại ngon như mới.</span></p>
+<p> </p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

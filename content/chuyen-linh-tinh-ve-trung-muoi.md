@@ -1,0 +1,37 @@
+---
+title: "Chuyện linh tinh về trứng muối"
+date: "2018-07-23"
+slug: "chuyen-linh-tinh-ve-trung-muoi"
+categories: ["Chia sẻ thông tin"]
+tags: []
+image: "/wp-content/uploads/2018/07/IMG_4943-1.jpg"
+description: ""
+---
+
+<p><span style="color: #000000;"><img alt="" class="aligncenter size-large wp-image-7619" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/07/IMG_4943-1-1024x682.jpg" width="1024"/></span></p>
+<p><span style="color: #000000;">Mình bị nghiện chụp ảnh lòng đỏ trứng muối. </span></p>
+<p><span style="color: #000000;">Tại lúc nào cũng thấy nó đẹp một cách kì diệu ấy! Tròn xoe, đỏ cam rực rỡ, lúc chuẩn bị nướng còn bóng và hơi óng ánh, để trong lò đã đẹp, bày lên đĩa lại càng hút mắt hơn. Chụp ảnh không cần sắp đặt gì, cứ thể giơ ra chỗ có ánh sáng trời bấm máy là kiểu gì cũng có hình đẹp để mang đi khoe :D </span></p>
+<p><span style="color: #000000;">Hồi ở châu Âu trứng muối không có sẵn lắm, có bán trong chợ châu Á nhưng mà rất đắt, một quả trứng muối bằng gần một hộp trứng chục quả nên có đứa tiếc tiền hay tự muối. Về Việt Nam rồi mua trứng muối ngoài chợ khá dễ, cơ mà chẳng hiểu sao ăn trứng nhà muối vẫn thấy bùi, béo, thơm ngon hơn. Nên lại đành lọ mọ. Trước đây nhìn thấy trứng muối thì nghĩ tới bánh nướng bánh dẻo. Nhưng giờ thì hễ lúc nào hứng lên là muối, làm một lọ dăm ba chục quả, qua mấy tuần là có trứng ngon để ăn rồi. </span></p>
+<p><span style="color: #000000;">Mình có cảm giác mọi người thường ngại “Muối trứng” vì nghĩ nó mất thời gian: phải lựa trứng, rửa trứng sạch, lau khô, đun nước muối… rồi đợi tới tận 3 – 4 – 5 tuần liền mới ăn được. Nhưng thực ra thì muối trứng chẳng khó mà cũng không có gì phức tạp, là kiểu món “làm hỏng còn khó hơn làm thành công”. Mất một chút công chuẩn bị nước thôi nhưng một lần có thể muối nhiều, vài chục quả để ăn dần. Mà trứng muối lại là món có nhiều ứng dụng. Buổi sáng hay sau một bữa nhậu đầy rượu thịt mà có bát cháo trắng với trứng muối thì ấm bụng cực kì. Đậu chiên trứng muối, tôm chiên trứng muối là những món đã quen thuộc rồi. Dựa vào cách làm của mấy món này, chị em có thể sáng tạo ra thêm các món khác kiểu như mề gà chiên trứng muối, gà chiên trứng muối, cá tẩm bột chiên trứng muối… để đổi bữa. Lòng đỏ trứng muối ngoài vị bùi béo ngon miệng thì cũng rất bổ dưỡng nữa, tóm lại là kiểu món ăn tầm cỡ nhà hàng nhưng chi phí và cách làm lại bình dân, rất nên có trong bếp mỗi nhà ;)</span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="color: #000000;">Trung thu năm nay vào tuần cuối tháng 9, bạn nào muốn làm bánh trung thu thì muối từ bây giờ là vừa đẹp. Mà không làm bánh thì cũng nên làm một lọ, đảm bảo không tiếc công muối đâu ;) Cách làm mình đã quay video ở đây: <a href="/trung-muoi/">/trung-muoi/</a> Có mấy phương pháp khác nhau, mình thì luôn dùng cách muối nước tại thấy nó là cách dễ và an toàn nhất. Làm trứng muối dễ, nhưng vẫn có mấy thắc mắc thường gặp, mình tóm tắt lại như sau nhé: </span></p>
+<p><span style="color: #000000;">– <strong>Làm nhiều trứng thì pha nước muối theo tỉ lệ thế nào?</strong> Tỉ lệ như mình ghi trong công thức là tỉ lệ khá chuẩn, các bạn tăng nước thì tăng muối. Có một cách rất dễ để theo dõi lượng muối là bạn pha muối vào nước cho tới khi nào bão hoà, thấy muối không tan được nữa thì dừng lại. Làm theo cách này đảm bảo nước muối đủ mặn để thành công. </span></p>
+<p><span style="color: #000000;">– Nên có đường và rượu, lòng đỏ sẽ cứng nhanh và đẹp hơn. Gừng, quế, hồi, thảo quả.. thì tuỳ, nhưng có gừng sẽ thơm và bớt tanh hơn. </span></p>
+<p><span style="color: #000000;">– Nếu đang muối mà thấy nước có dấu hiệu nổi váng thì đổ bỏ nước đó đi, kiểm tra lại xem có quả trứng nào bị nứt vỡ không thì bỏ ra ngoài. Nấu nước mới muối tiếp, không sao cả. </span></p>
+<p><span style="color: #000000;">– Trứng muối xong có thể cứ để trong lọ thêm 1 – 2 tuần, hoặc tách lấy lòng đỏ và nướng rồi cấp đông như cách làm trong bài viết này: <a href="/banh-trung-thu-cach-xu-li-trung-muoi-cho-nhan-banh-trung-thu/">/banh-trung-thu-cach-xu-li-trung-muoi-cho-nhan-banh-trung-thu/ </a></span></p>
+<p><span style="color: #000000;">Để lòng đỏ trứng có màu đỏ bóng đẹp thì <strong>chỉ nướng tới khi lòng đỏ vừa đủ chín, hoặc hơi tái một chút, đừng nướng quá lâu hay quá kĩ, trứng sẽ chuyển màu vàng nhạt và bị khô. </strong>Thường mình nướng ở 175 độ C trong tầm 6 – 7 phút. Và nướng thì lòng đỏ trứng đẹp hơn, hấp thì khó giữ được màu đẹp. </span></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

@@ -1,0 +1,103 @@
+---
+title: "Tổng hợp các nguyên nhân làm bánh ga-tô lõm mặt, đáy, thắt eo và cách khắc phục"
+date: "2016-01-11"
+slug: "tong-hop-cac-nguyen-nhan-lam-banh-ga-to-lom-mat-day-that-eo-va-cach-khac-phuc"
+categories: ["Bếp nhà mình"]
+tags: ["chia sẻ kinh nghiệm", "kinh nghiệm làm bánh", "làm bánh căn bản"]
+image: "/wp-content/uploads/2016/01/butterscotch-magic-cake-1-14.jpg"
+description: "Bài viết đưa câu trả lời đầy đủ nhất, giải đáp thắc mắc \"làm thế nào để bánh cao, tròn, đẹp mịn màng, không bị lõm mặt/ đáy, xẹp hay gãy thành"
+---
+
+<p>Chủ đề cũ, nhưng chưa bao giờ hết nóng hổi: “<strong>Làm thế nào để bánh không bị xẹp, lõm đáy, thắt eo (gãy thành bánh)???</strong>”</p>
+<p>Hầu như tuần nào mình cũng nhận được câu hỏi tại SD về chủ đề này. Và bản thân mình từ sau khi chuyển qua nơi ở mới cũng gặp phải vấn đề này vì lò của nơi ở mới đã quá cũ rồi (ở bên này lò thường gắn kèm với bếp nên mình dùng lò này luôn chứ không sắm lò riêng). Chiếc lò này ngoài nút để chỉnh nhiệt độ ra thì không còn nút điều chỉnh nào khác, thanh nhiệt trên lộ hẳn ra ngoài nên lửa trên cao hơn lửa dưới rất rất nhiều. Kết quả là vẫn công thức cũ nhưng bánh ra lò thì…. buồn ơi là sầu :-(</p>
+<p>Vậy là lại mày mò học cách “chiến đấu” với lò mới, đồng thời ôn tập lại các kiến thức cũ ở SD. Và sau khi đã tổng hợp được kha khá kinh nghiệm thì mình quyết định viết thêm một bài nữa cho chủ đề này – là tập hợp đầy đủ nhất tất cả những gì mình biết về nguyên nhân và cách khắc phục bánh bị lõm mặt, mong là sẽ giúp được các bạn cũng đang gặp khó khăn với vấn đề này :)</p>
+<p>* <span style="color: #ff0000;"><strong>LƯU Ý QUAN TRỌNG TRƯỚC KHI ĐỌC BÀI:</strong></span></p>
+<p>1. Bài viết này tập trung vào các loại bánh kiểu foam cake – là bánh được làm bằng cách:</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li>đánh trứng nguyên quả (vd: <a href="/demo-genoise-cot-banh-bong-lan-ga-to-co-ban/" target="_blank">ga-tô cơ bản/ sponge cake</a>)</li>
+<li>tách riêng, đánh lòng trắng trứng trước rồi cho lòng đỏ vào (vd: <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/" target="_blank">gateau cơ bản bất bại</a>)</li>
+<li>đánh bông lòng trắng rồi trộn cùng hỗn hợp bột, lòng đỏ và chất lỏng (vd: bánh ga-tô <a href="/chiffon-cam/" target="_blank">chiffon</a>, ga-tô Hồng Kông, <a href="/japanese-cotton-sponge-cake-hay-la-ga-to-nhat-ban-mem-nhu-bong-nhe-nhu-may/" target="_blank">ga-tô Nhật Bản</a>…).</li>
+</ul>
+<p>So với <a href="/nhat-ky-hoc-lam-banh-p3-yellow-butter-cupcake-vanilla-butter-cupcake/" target="_blank">butter cake</a> (bánh có nhiều bơ, thường làm theo kiểu đánh bông bơ với đường rồi trộn bột, chất lỏng vào), thì foam cake có nhiều vấn đề và dễ nướng hỏng hơn, do hai lí do chính là:</p>
+<ul>
+<li>Bánh nở nhờ bọt khí trong trứng đánh bông, nên nếu đánh trứng không đủ bông hoặc làm vỡ nhiều bọt khí thì bánh sẽ nở kém hoặc không nở</li>
+<li>Trong nguyên liệu thường chỉ có ít bột, nhiều chất lỏng, nên bánh thường mềm, nhẹ và khá yếu. Khi nướng nếu nhiệt và thời gian không ổn định, bánh không đủ cứng cáp, khi lấy ra khỏi lò sẽ bị xẹp, lõm, gãy thành…</li>
+</ul>
+<p>2. Kiến thức trong bài viết này được dựa trên nhiều phần giải thích trong các bài viết trước, đặc biệt là về quy trình nướng bánh và nhiệt lò, nên (và cần) đọc đầy đủ cả những bài trước để hiểu vấn đề đầy đủ và thấu đáo nhất. Cụ thể, nên đọc các bài sau:</p>
+<ul>
+<li> <a href="/tai-sao-3-trung-chi-duoc-5cm/" target="_blank">Tại sao 3 trứng chỉ nở được 5cm? </a></li>
+<li><strong>A-Z: Lò nướng – Kinh nghiệm chọn lò – Cách chỉnh lò để bánh không bị xẹp, lõm, thắt eo, ẩm, cháy…</strong> <a href="/lo-nuong-kinh-nghiem-nuong-banh/">Phần 1</a> – <a href="/kinh-nghiem-nuong-banh-phan-2/">Phần 2</a></li>
+</ul>
+<p style="text-align: center;"><em>Bánh võng mặt vì nhiệt và thời gian nướng</em></p>
+<p><img alt="butterscotch-magic-cake-1-14" class="aligncenter size-full wp-image-6885" height="590" loading="lazy" sizes="(max-width: 590px) 100vw, 590px" src="/wp-content/uploads/2016/01/butterscotch-magic-cake-1-14.jpg" width="590"/></p>
+<p>Quay về câu hỏi chính: “<strong>Tại sao bánh bị xẹp, lõm đáy, thắt eo (gãy thành) trong và sau khi lấy khỏi lò? Làm thế nào để khắc phục?</strong>”. Tổng hợp lại thì có hai nhóm nguyên nhân khác nhau, gây ra hai kiểu hỏng bánh khác nhau, cụ thể là:</p>
+<p><strong>* TRƯỜNG HỢP 1</strong>: Nếu <span style="color: #ff0000;"><strong>bánh không nở hoặc nở kém <span style="text-decoration: underline;"><em>trong lò</em></span>, bột bánh loãng, có nhiều bọt khí to</strong></span> thì nguyên nhân là</p>
+<p>– <strong>Đánh trứng chưa đủ bông</strong> (lòng trắng chưa đủ bông cứng, trứng nguyên quả chưa đạt độ bông đặc…).</p>
+<p>=&gt; CÁCH GIẢI QUYẾT: tham khảo các video và mô tả của SD để làm cho đúng</p>
+<p>– Do <strong>trộn bột chưa đúng cách</strong>: không fold bột đúng cách, fold mạnh tay làm vỡ bọt khí trong trứng.</p>
+<p>=&gt; CÁCH GIẢI QUYẾT: thực hành nhiều, tập fold bột thật nhiều (vd có thể xem cách fold bột trong video <a href="/banh-bong-lan-cuon-kem-tuoi-hoa-qua-japanese-fruit-roll-cake/" target="_blank"><strong>cách làm bánh cuộn hoa quả</strong></a> theo phương pháp trộn bột kiểu chiffon)</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>– <strong>Để bánh quá lâu mới mang đi nướng</strong>: bọt khí trong trứng đợi lâu nên bị vỡ.</p>
+<p>=&gt; CÁCH GIẢI QUYẾT: trộn xong bột thì mang bánh đi nướng ngay.</p>
+<p>*<strong> TRƯỜNG HỢP 2</strong>: <span style="color: #ff0000;"><strong>Bánh nở cao và xẹp ngay trong lò</strong></span>, hoặc <span style="color: #ff0000;"><strong>nở tốt nhưng đến phút cuối hoặc sau khi lấy ra khỏi lò thì xẹp, lõm mặt hoặc đáy bánh, thành bánh bị gãy (thắt eo)</strong></span>: do nhiệt độ và thời gian nướng chưa phù hợp. Cụ thể:</p>
+<p>– <strong>Nhiệt trong lò quá cao</strong>: làm cho bánh nở rất nhanh, có thể nứt mặt, thành bánh yếu không kịp cứng cáp -&gt; xẹp ngay trong lò hoặc sau khi lấy khỏi lò.</p>
+<p>=&gt; CÁCH GIẢI QUYẾT: chỉnh nhiệt thấp xuống, đặt khay nướng ở thấp hơn rãnh giữa một nấc, để khuôn bánh ở giữa lò.</p>
+<p style="text-align: center;"><i>Một ví dụ cho nhiệt nướng quá cao: thành và mặt bánh đều có màu vàng sậm, bánh nở cao và xẹp, lõm sau khi lấy ra khỏi lò </i></p>
+<p><img alt="apple cake" class="size-full wp-image-6881 aligncenter" height="338" loading="lazy" sizes="(max-width: 506px) 100vw, 506px" src="/wp-content/uploads/2016/01/99118097_1.jpg" width="506"/></p>
+<p>– <strong>Nhiệt trên quá cao so với nhiệt dướ</strong>i: đây là trường hợp thường gặp nhất với các lò gia đình, đặc biệt là những lò có thanh nhiệt lộ ra bên ngoài. Trong trường hợp này, chỉnh nhiệt độ thấp xuống không giải quyết được nhiều do khi nhiệt độ trong lò hạ xuống một mức nhất định và lò phải làm nóng lại, thì thanh nhiệt trên vẫn sẽ bật lên, làm cho nhiệt trên cao đột ngột.</p>
+<p style="text-align: center;"><em>Một ví dụ cho trường hợp lửa trên quá cao, bánh nứt mặt và có màu vàng sậm</em></p>
+<p><img alt="Angel-Food-baked" class="aligncenter size-full wp-image-6883" height="480" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="/wp-content/uploads/2016/01/Angel-Food-baked.jpg" width="640"/></p>
+<p>=&gt; Nếu rơi vào trường hợp này thì có thể khắc phục như sau:</p>
+<ul>
+<li>nướng bánh ở rãnh thấp nhất của lò</li>
+<li>làm nóng lò ở hai lửa theo hướng dẫn trong công thức, hoặc có thể thấp hơn nếu cảm thấy bánh nở hơi nhanh quá và vẫn bị nứt mặt hay xẹp. Tiếp theo, <strong>khi đưa bánh vào thì chỉ nướng lửa dưới</strong>, sau khi bánh đã nở hết cỡ mới bật hai lửa để mặt bánh vàng</li>
+</ul>
+<p>Nếu hai cách trên đều không có tác dụng (thì lò nhà bạn cũng giống lò nhà mình và chúng ta có thể làm như sau: làm nóng lò ở nhiệt độ cao hơn nhiệt độ quy định một chút, hạ nhiệt xuống tương đối thấp khi nướng và nướng trong thời gian dài.</p>
+<p>VD: Gateau Hồng Kông thường yêu cầu nướng ở 150 độ C trong 40 – 50 phút. Tuy nhiên, với lò của mình thì mình làm nóng lò ở 155 độ C. Khi đưa bánh vào lò thì hạ xuống 125 – 130 độ C (do lò nhà mình chỉ có thể nướng hai lửa, không chỉnh được riêng lửa dưới), và nướng trong khoảng 90 – 100 phút.</p>
+<p>Cách này, về cơ bản là một kiểu “sấy” cho bánh khô, thường sẽ làm cho thành bánh khá khô, có nhiều vụn bánh khô và hơi dày. Tuy nhiên như vậy vẫn tốt hơn rất nhiều là bánh xẹp. Thường mình nướng kiểu này thì bánh nở vẫn tốt, ngoài việc thành bánh dày và khô ra thì bên trong bánh không vấn đề gì.</p>
+<p style="text-align: center;"><em>Bánh nướng chưa đủ thời gian, trong ruột bánh còn ẩm làm cho bánh sau khi lấy khỏi lò thì bị nhăn nhúm và xẹp</em></p>
+
+
+<p><img alt="basic-sponge-cake-recipe" class="aligncenter size-full wp-image-6884" height="235" loading="lazy" sizes="(max-width: 314px) 100vw, 314px" src="/wp-content/uploads/2016/01/basic-sponge-cake-recipe.jpg" width="314"/></p>
+<p> </p>
+<p>* <strong>LƯU Ý QUAN TRỌNG CHO TẤT CẢ CÁC TRƯỜNG HỢP TRÊN</strong></p>
+<p>Ngoài những cách giải quyết như ở trên thì có một số điểm chung mà chúng ta cần chú ý khi nướng các loại bánh foam cake là:</p>
+<p>+ <strong>KHÔNG</strong> dùng lò vi sóng, nồi nướng hay lò thuỷ tinh để nướng bánh vì nhiệt của các thiết bị này rất không ổn định và khó chỉnh. Nồi cơm điện nếu có chức năng “Cake” thì thường nướng tốt, không thì chỉ dùng được cho một vài loại bánh nhất định và cũng cần phải biết cách chỉnh nhiệt khi làm thì bánh mới không bị hỏng.</p>
+<p>+ <strong>KHÔNG làm nóng lò ở nhiệt quá cao</strong>: nếu nhiệt trong lò cao thì khi đưa bánh vào lò, nhiệt cao này sẽ làm cho bánh nở nhanh hơn mức cần thiết, trong khi thành bánh chưa kịp cứng cáp, bánh dễ xẹp và gãy thành</p>
+<p>+ <strong>KHÔNG đánh lòng trắng quá bông</strong> trong các công thức làm theo kiểu Chiffon – trừ phi công thức có yêu cầu cụ thể. Lòng trắng quá bông cứng sẽ có rất nhiều bọt khí ổn định, các bọt khí này sẽ làm cho bánh nở khá nhanh trong lò, rơi vào tình trạng như lưu ý thứ (1).</p>
+<p>+<strong> KHÔNG nướng bánh trong khuôn quá cao, nhất là khi lò nhỏ</strong>: việc bánh nở cao 7 – 8 – 9 – 10 cm không nói lên được gì nhiều và hoàn toàn không phải là dấu hiệu thể hiện công thức tốt hay tay nghề tài giỏi (vì như đã nói ở trên, lò nướng quyết định chất lượng bánh khá nhiều, công thức và tay nghề chỉ là một phần thôi).</p>
+<p>Khuôn bánh càng cao, bánh càng cao thì khả năng phần trong ruột bánh chưa chín hết càng lớn, bánh ra lò càng dễ bị lõm mặt hoặc xẹp. Nếu muốn làm bánh nhiều tầng, các bạn có thể chia bạt bánh và nướng trong nhiều khuôn cùng kích thước (nướng cùng nhau trong một mẻ). Cách làm này an toàn hơn việc nướng bánh trong khuôn cao rất nhiều (trừ phi bạn có một cái lò tốt).</p>
+<p>+ Một số “mẹo” hay được mọi người nhắc nhau để giúp bánh đỡ xẹp hơn, nhưng không phải lúc nào cũng có thể áp dụng được, cụ thể như sau:</p>
+<ul>
+<li>Sau khi tắt lò, để bánh trong lò khoảng  5 phút mới lấy ra: thực chất thì đây là 1 kiểu sấy để bánh khô hơn, cứng cáp hơn, khi lấy ra ngoài sẽ đỡ xẹp. Cách này chỉ đúng khi nhiệt nướng ngay từ đầu đã được chỉnh đúng. Nếu nhiệt từ đầu chỉnh sai, ví dụ quá nóng, làm cho bánh nở nhanh thì về sau, càng để bánh trong lò lâu bánh sẽ càng xẹp.</li>
+<li>Úp ngược khuôn bánh sau khi lấy ra khỏi lò, để nguội rồi mới lấy ra khỏi khuôn. Cách này nên áp dụng khi dùng khuôn có lõi giữa (khuôn Angel Food Cake/ Chiffon Cake). Với khuôn không lõi, cách này thường chỉ nên áp dụng khi dùng khuôn đế rời, do ở đáy khuôn có khe hở để thoát ẩm. Ngoài ra, nếu muốn dùng cách này, không nên lót giấy ở đáy khuôn. Lý do: với khuôn đế liền và có lót giấy, việc úp ngược khuôn sẽ làm cho hơi nóng ở dưới đáy khuôn bí, không có lối thoát, do đó đọng lại ở đáy khuôn và làm cho đáy bánh bị lõm. Nhìn chung nếu đã nướng bánh đủ chín và cứng cáp thì hoàn toàn có thể lấy bánh ra khỏi khuôn ngay khi vừa lấy ra khỏi lò.</li>
+</ul>
+<p>Cuối cùng, <strong>nếu áp dụng mọi biện pháp mà bánh vẫn lõm, thắt đáy, … thì sao</strong>?</p>
+<p>Chẳng sao cả! :) Mặt trời vẫn mọc ở hướng Đông và ngày vẫn đẹp như thế. Thường thì bánh bị lõm mặt đều đã gần như chín rồi, chỉ do bánh vẫn còn hơi yếu và chưa khô hẳn nên bị xẹp thôi. Cho nên bánh này hoàn toàn có thể dùng được. Nếu không thể cho ra lò được bánh nở cao thì các bạn có thể áp dụng một hoặc nhiều cách giải quyết như sau nhé:</p>
+<ol>
+<li>Chia bạt bánh thành nhiều phần, nướng song song trong nhiều khuôn cùng kích thước (đã nói ở trên).</li>
+<li>Gọt bớt các phần lồi lõm, lấy bạt bánh bằng phẳng, dùng làm đế cho bánh Mousse, các loại bánh nhiều tầng, entremet. Nếu cần làm một chiếc bánh Mousse to mà nướng xong cốt bánh bị lõm thì gọt lấy phần còn nguyên vẹn lành lặn, sau đó nướng thêm một chiếc bánh khác để bù cho phần bị thiếu.</li>
+<li>Bánh gọt ra có thể dùng để làm các loại triffle hay đồ tráng miệng đựng trong cốc như kiểu <a href="/black-forest-trifle-mini-black-forest-cakes/" target="_blank">Black forest triffle</a> này.</li>
+</ol>
+<p>Bài viết này tới đây là hết rồi. Tất cả những gì mình biết về bánh xẹp, lõm, thắt eo… cũng ở cả đây. Sau 1, 2 năm nữa nếu có tích luỹ được thêm kinh nghiệm gì mới thì mình sẽ lại viết một bài kiểu “tái bản có biên tập và cải biên” nhé! Chúc các bạn sẽ luôn cho ra lò những chiếc bánh căng phồng và mịn màng (không cần cao vút) ;-)</p>
+<p>————–</p>
+<p><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. K<span style="color: #ff0000;">hông được sử dụng hoặc đăng tải lại một phần hoặc toàn bộ nội dung bài viết mà không ghi đầy đủ đường dẫn nguồn bài viết.</span> </strong></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

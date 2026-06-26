@@ -1,0 +1,50 @@
+---
+title: "Cách làm KẸO NOUGAT TRÀ XANH – DÂU TÂY"
+date: "2022-01-22"
+slug: "cach-lam-keo-nougat-tra-xanh-dau-tay"
+categories: []
+tags: []
+image: "/wp-content/uploads/2022/01/nougatdautaybanner-610x300.jpg"
+description: "Cách làm kẹo nougat trà xanh nhân dâu tây nguyên quả sấy khô ít ngọt, mềm dẻo thơm ngon hot nhất cho Tết Nguyên Đán"
+---
+
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400;">Một món kẹo nhìn là đã thấy may mắn, lộc lá cho năm mới đây ạ 😁</span></p>
+<p><span style="font-weight: 400;">Nougat thì mấy năm nay quá nổi tiếng rồi, nhưng món này thì mình mới gặp trên Tik Tok, nhìn là thích luôn vì quá là đáng yêu. Ngoài hình thức ra thì mùi vị cũng dễ thương không kém, trà xanh siêu hợp với dâu tây, mà kẹo chỉ có 1 lớp nougat mỏng, thơm thơm đắng đắng vị trà, nhân dâu tây chua chua, thêm lớp vụn dừa thơm thơm ở ngoài, ăn không hề ngọt hay ngấy đâu 😉</span></p>
+<p>Thao tác thì cũng tương tự như khi làm các loại kẹo nougat khác, đơn giản cực kì, cả nhà thử xem nhé ^^</p>
+<h2><span style="color: #993300;"><strong>Cách làm KẸO NOUGAT TRÀ XANH – DÂU TÂY</strong></span></h2>
+<p><strong><span style="color: #993300;">Nguyên liệu:</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400;">80 gram bơ nhạt </span></em></li>
+<li><em><span style="font-weight: 400;">200 gram kẹo dẻo (Marshmallow)</span></em></li>
+<li><em><span style="font-weight: 400;">60 gram bột sữa </span></em></li>
+<li><em><span style="font-weight: 400;">2 tsp bột trà xanh (matcha)</span></em></li>
+<li><em><span style="font-weight: 400;">130 gram dâu tây sấy giòn</span></em></li>
+<li><em><span style="font-weight: 400;">50 gram cơm dừa sấy khô để bọc bên ngoài kẹo</span></em></li>
+</ul>
+<p><strong><span style="color: #993300;">* Lưu ý nguyên liệu:</span></strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="font-weight: 400;">– Bơ nhạt: Dùng bơ động vật không muối, KHÔNG dùng bơ thực vật (magarine) như Tường An hay Meizan.</span></p>
+<p><span style="font-weight: 400;">– Bột trà xanh có thể tăng hoặc giảm tùy khẩu vị, nếu tăng cũng chỉ nên tăng nhiều nhất 2-3 gram cho 1 công thức, không nên tăng quá nhiều sẽ làm kẹo bị đắng.</span></p>
+<p><span style="font-weight: 400;">– Nếu không thích lăn qua vụn dừa có thể lăn qua bột trà xanh, bột sữa hoặc đường bột tùy thích.</span></p>
+<p><strong><span style="color: #993300;">Cách làm:</span></strong></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/ZhBFRCjZuDY" width="560"></iframe></div>
+<p><span style="font-weight: 400;">1. Cho bơ vào chảo đế dày và chống dính tốt, đun chảy hoàn toàn trên lửa nhỏ. </span></p>
+<p><span style="font-weight: 400;">2. Cho kẹo marshmallow vào, đảo đều ở lửa nhỏ nhất đến khi kẹo chảy hoàn toàn.</span></p>
+<p><span style="font-weight: 400;">Nếu dùng chảo đế mỏng, hoặc nấu trên bếp có nhiệt cao dù để để lửa nhỏ (bếp ga, bếp hồng ngoại), trong quá trình làm nếu thấy chảy có dấu hiệu bị nóng quá, hơi nóng bốc lên nhiều thì cần bắc chảo xuống, đảo đến khi chảo nguội bớt rồi lại cho lên bếp.</span></p>
+<p><span style="font-weight: 400;">3. Khi kẹo đã chảy hoàn toàn và quyện vào với bơ, cho bột trà xanh và bột sữa vào đảo trên LỬA NHỎ cho bột tan ra hết.</span></p>
+<p><span style="font-weight: 400;">4. Khi bột sữa đã tan hết, tắt bếp, cho toàn bộ số dâu sấy vào đảo đều. Đảo đến khối kẹo bắt đầu róc chảo thì lấy ra tạo hình.</span></p>
+<p><span style="font-weight: 400; color: #993300;"><strong>* Lưu ý:</strong> </span><span style="font-weight: 400;">Điều quan trọng nhất khi nấu kẹo là chỉ nấu trên lửa nhỏ, khuấy đều tay tránh làm kẹo bị cháy (Nếu thấy hiện tượng kẹo tách đường, cứng lại thì là kẹo đã cháy =&gt; không chữa được).</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400;">5. Tạo hình (khi kẹo còn ấm nóng):</span></p>
+<p><span style="font-weight: 400;">– Đổ kẹo ra 1 khay có lót giấy nến, nếu kẹo còn rất nóng và chảy nhiều thì nên để nghỉ khoảng 15-30 phút cho kẹo nguội bớt và cứng dẻo hơn.</span></p>
+<p><span style="font-weight: 400;">– Khi kẹo đã nguội bớt nhưng vẫn còn ấm và dẻo, kéo từng quả dâu sấy ra, dùng tay nắn và bọc lại phần kẹo bên ngoài sao cho kẹo bao đều 1 lớp quanh dâu sấy, cho kẹo vào bát vụn dừa lăn đều. Tiếp tục làm tương tự cho tới khi hết dâu.</span></p>
+<p><span style="font-weight: 400;"> Để kẹo nguội hoàn toàn. Khi kẹo nguội hẳn rồi, bọc kín để nghỉ ở nhiệt độ phòng (dưới 25 độ C) khoảng 6-8 giờ hoặc qua ngày là kẹo cứng và dâu sấy giòn trở lại là có thể cắt được. Nết thời tiết quá nóng có thể để trong tủ lạnh.</span></p>
+<p><strong><span style="color: #993300;">* Bảo quản:</span></strong></p>
+<p><span style="font-weight: 400;">Với thời tiết mát mẻ như mùa đông miền bắc (dưới 25 độ C) thì có thể để nhiệt độ phòng được khoảng 10  ngày. Nếu trời nóng thì cần bảo quản trong tủ lạnh, được khoảng 1 – 1.5 tháng.</span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

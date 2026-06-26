@@ -1,0 +1,78 @@
+---
+title: "Đế Pizza cơ bản – Phần 2: Công thức Pizza đế giòn"
+date: "2012-06-15"
+slug: "de-pizza-co-ban-phan-2-cong-thuc"
+categories: ["Bánh mỳ", "Pizza"]
+tags: ["baking", "kinh nghiệm làm bánh", "pizza", "pizza đế giòn"]
+image: "/wp-content/uploads/2012/06/DePizzaCoBanPhan2.jpg"
+description: "Tự làm pizza đơn giản, pizza đế giòn, làm pizza tại nhà, pizza stone"
+---
+
+<p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết, các phản hồi và các <span style="color: #ff0000;"><a href="/cung-hoc-lam-banh/">kiến thức cơ bản về làm bánh mì</a><a href="/cung-hoc-lam-banh/"> </a></span>trước khi đặt câu hỏi.</strong></span></p>
+<p><span style="color: #ff0000;">* <strong>Toàn bộ nội dung bài viết và hình ảnh thuộc bản quyền của Savoury Days (trừ các hình ảnh &amp; nội dung có ghi nguồn trích dẫn). Vui lòng không sao chép, đăng tải hoặc sử dụng lại dưới bất kì hình thức nào nếu không có sự đồng ý của tác giả.</strong></span></p>
+<p>———————————-</p>
+<p>Bài trước mình đã nói về <a href="/de-pizza-co-ban-phan-1/">các chú ý trong thao tác khi làm đế Pizza</a> rồi, bài này mình nói thêm một chút về các loại công thức làm Pizza rồi sẽ đi luôn vào cách làm cụ thể nhé :)</p>
+<p>Công thức làm Pizza có rất nhiều phiên bản, với các tỉ lệ thành phần nguyên liệu khác nhau. Có một số công thức đọc lên sẽ có cảm giác cực kì phức tạp và mất công, chẳng hạn như các công thức sử dụng men Biga, mất 1-2 ngày để chuẩn bị trước. Cũng có những công thức làm nhanh theo kiểu “mì ăn liền”, sau 2h là có thể có Pizza nóng trên bàn ăn rùi.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Công thức mà mình giới thiệu dưới đây cũng là một dạng công thức làm nhanh, không phải chuẩn bị men Biga trước. Lý do chọn công thức này là mình nghĩ có lẽ một công thức nhanh sẽ tiện lợi hơn cho các chị em cũng không có nhiều thời gian như mình. Nhưng có một điều có lẽ nên giải thích thêm. Mình thấy một vài tài liệu cho rằng men Biga thực chất chỉ giúp bánh nở chứ không có công dụng gì nhiều, cho nên sử dụng men nở thông thường (men instant chẳng hạn) vừa nhanh lại đơn giản hơn. Hiểu như vậy là không chính xác. Việc sử dụng men Biga có một mục đích rất quan trọng là tăng hương vị cho bánh, cũng giống như các phương pháp pre-fermented khác (lý do tại sao các bạn có thể đọc thêm tại <strong><a href="/lam-banh-mi-quy-trinh-co-ban-cac-luu-y-phan-3-u-bot-tao-hinh-nuong-banh-va-bao-quan/">ĐÂY</a></strong>). Cho nên mặc dù mất thời gian nhưng công thức có sử dụng Biga mình vẫn nghĩ có những ưu điểm riêng của nó, có điều đợt này mình bận nhiều việc quá, khi nào có nhiều thời gian hơn mình sẽ giới thiệu sau nhé.</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu (3 Pizza đế mỏng đường kính 20cm)</strong></span></p>
+<ul>
+<li><em>225gram bread flour (hoặc bột mì đa dụng/ all purpose flour) (+ khoảng 10gram làm bột áo)</em></li>
+<li><em>150gram nước</em></li>
+<li><em>3gram (1/2 teaspoon) men instant</em></li>
+<li><em>25gram dầu Olive</em></li>
+<li><em>3gram (1/2 teaspoon) muối</em></li>
+<li><em>10gram mật ong (có thể thay bằng đường)</em></li>
+</ul>
+<p><em>* <strong>Lưu ý: lượng nước có thể thay đổi tùy theo loại bột sử dụng, xem thêm chú ý tại <a href="/de-pizza-co-ban-phan-1/">ĐÂY</a> về việc điều chỉnh lượng nước trong bột làm đế Pizza</strong><br/>
+</em></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Cho bột, nước và men instant vào âu. Dùng thìa gỗ hoặc spatula quấy đến khi hòa quyện thành một khối (hình 1-2). Để bột nghỉ khoảng 20 phút. <em>Nếu khí hậu hanh khô thì dùng một chiếc ăn ẩm đậy lên mặt âu</em>. Bước này sẽ có các tác dụng là kích thích việc hình thành sợi Gluten trong bột, giúp tăng hương vị cho bánh và cũng giúp nhồi bột dễ hơn (nếu nhồi bằng tay).</p>
+<p>2. Cho tất cả số nguyên liệu còn lại (gồm dầu Olive, muối, và mật ong) vào âu (hình 3). Dùng thìa gỗ hoặc spatula trộn đều. Để bột nghỉ thêm 10 – 15 phút nữa.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7188995909/" title="2012-05-281 by LinhTrang9185, on Flickr"><img alt="2012-05-281" class="aligncenter" height="300" loading="lazy" src="http://farm8.staticflickr.com/7080/7188995909_530c25848b.jpg" width="500"/></a></p>
+<p>3. Đổ bột ra mặt bàn đã phủ một lớp mỏng bột áo. Nhồi bột trong khoảng 15 – 20 phút, đến khi có một khối bột mịn dẻo, đàn hồi (hoặc dùng máy nhồi bột trong khoảng 10-15 phút đến khi đạt) (hình 4-5).</p>
+<p><span style="text-decoration: underline;"><strong>* Lưu ý:</strong></span></p>
+<p>– Hỗn hợp bột Pizza khá ướt và nhão, đặc biệt là trong khoảng 5 phút đầu tiên sẽ thấy bột rất dính tay. Nhưng trong quá trình nhồi thì bột sẽ ngấm nước, Gluten phát triển, làm khối bột trở nên đàn hồi và “khô” dần. Các bạn có thể sử dụng thêm bột áo để nhồi bột dễ dàng hơn. Nhưng <em>không nên vì thấy bột quá nhão trong giai đoạn đầu mà cho rằng bột chịu nước kém và tăng thêm bột</em>,<em> vì nếu ngay từ đầu đã nhồi dễ dàng thì bột sẽ dễ bị khô sau khi nhồi xong. </em></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>– Cách nhồi bột bằng tay các bạn có thể xem thêm hướng dẫn tại <strong><a href="/lam-banh-mi-quy-trinh-co-ban-cac-luu-y-phan-2-cach-nhao-nhoi-bot/">ĐÂY</a></strong>.</p>
+<p>– Khối bột sau khi nhồi xong sẽ đàn hồi, ấn thử ngón tay vào thấy vết lõm phổng trở lại. Bột nhão và hơi dính, chạm ngón tay vào cảm giác hơi dính tay nhưng nhấc lên thì bột không dính theo tay.</p>
+<p><span id="more-2800"></span>4. Dùng chút dầu Olive xoa đều lên khắp khối bột. Cho bột vào bát, đậy khăn ẩm lên trên hoặc dùng nilon bọc kín. Ủ bột ở nhiệt độ phòng đến khi bột nở gấp đôi (<em>tùy theo nhiệt độ mà thời gian ủ có thể dao động trong khoảng 45 phút – 90 phút, nhiệt độ càng cao thì bột nở càng nhanh, nhưng bột nở chậm sẽ cho bánh có mùi vị ngon hơn). </em></p>
+<p>Thử bột bằng cách ấn 1 hoặc 2 ngón tay vào khối bột, sâu khoảng 1-2cm, nếu vết lõm giữ nguyên tức là bột đã ủ đủ (hình 6).</p>
+<p>5. Sau khi bột đã ủ đủ thì lấy khối bột ra ngoài, dùng tay ép nhẹ cho khối bột xẹp bớt (<strong>không đấm mạnh và không cán</strong>).</p>
+<p>Một công thức đế bánh như trên sẽ cho khối bột khoảng 380-390 gram, mình chia làm 3 phần, mỗi phần (125 – 130gram) đủ làm 1 Pizza đế mỏng đường kính 20cm. Nếu các bạn muốn làm bánh to hơn thì dùng nhiều bột hơn. Phần bột chưa dùng đến thì dùng nilon bọc thức ăn bọc kín để ngăn đá. Có thể bảo quản trong 1-2 tháng. Khi dùng các bạn để bột tự rã đông ở nhiệt độ phòng, rồi tạo hình, xếp nhân và nướng ngay vì trong thời gian rã đông bột sẽ tự nở thêm (tương đương với ủ lần 2).</p>
+<p>6. Thường thì khối bột làm Pizza sẽ được vê tròn (cách vê tròn xem tại <strong><a href="/hamburger-kieu-viet-nam-cach-tao-hinh-banh-mi-tron-cach-ve-tron-bot-banh/">ĐÂY</a></strong>) nhưng không cần vê kĩ, chỉ cần có hình tròn cho dễ tạo hình (nếu làm Pizza đế tròn). Trước khi tạo hình nên rắc lên mặt bàn một lớp bột mỏng để khối bột Pizza không bị dính vào mặt bàn. Mình thường là dùng giấy nến (giấy nướng bánh) vì giấy nến cũng có tác dunjg chống dính và khi nướng có thể chuyển cả lớp giấy nến này vào lò nướng. Ngoài ra, nếu làm Pizza tròn các bạn cũng có thể lấy 1 vật hình tròn làm khuôn để dễ tạo hình. Mình dùng đế của khuôn đế rời hình tròn (gỡ riêng phần đế ra để dùng) (hình 7).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7374229656/" title="2012-06-02 by LinhTrang9185, on Flickr"><img alt="2012-06-02" class="aligncenter" height="400" loading="lazy" src="http://farm6.staticflickr.com/5462/7374229656_2fe7d6383a.jpg" width="500"/></a></p>
+<p>Tạo hình đế Pizza: Dùng ngón tay ép hoặc ấn nhẹ, dàn bột thành hình tròn, phần rìa hình tròn các bạn có thể làm dày hơn một chút (hình 8). Trong quá trình tạo hình bột có thể sẽ co lại, điều này là hoàn toàn bình thường. Cách khắc phục là các bạn cố gắng<strong> <em>dàn bột rộng đến hết mức có th</em>ể</strong> (vd: khoảng ½ khuôn). <strong>K</strong><em><strong>hi bột có biểu hiện bị co thì để bột nghỉ khoảng 5 phút rồi tiếp tục tạo hình</strong>.</em> Khoảng thời gian nghỉ này sẽ giúp các sợi Gluten trong bột “quen” với hình dạng mới (là hình tròn) và không đàn hồi nữa.</p>
+<p>Sau khi đã dàn bột mỏng (khoảng 3 mm) thì để bột nghỉ thêm khoảng 15-20 phút. <em>Nếu trời hanh khô thì phủ một lớp nilon lên để cho bột không bị khô. </em></p>
+<p>7. Làm nóng lò nướng và Pizza stone ở 250 độ C – chế độ hai lửa. Nếu không có Pizza stone thì có thể dùng 1 vật khác thay thế (lý do tại sao nên dùng thì xem tại <strong><a href="/de-pizza-co-ban-phan-1/">ĐÂY</a>). </strong></p>
+<p>Mình dùng 1 trong 2 thứ trong hình (9) và (10) để thay cho Pizza stone. Trong hình (9) là đế của khuôn đế rời hình tròn. Hình (10) là khay làm bánh cuộn. Những thứ này đều được làm nóng cùng với lò. Tốt nhất là các bạn <strong>bật lò trước khi tạo hình đế Pizza để có đủ thời gian làm lò nướng thật nóng (thông thường để nướng Pizza thì lò được bật tối thiểu 30 phút trước khi nướng bánh)</strong>.</p>
+<p>8. Xếp nhân lên trên đế bánh. Một vài chú ý với việc xếp nhân là:</p>
+<p>– K<strong>hông nên xếp quá nhiều nhân</strong>, lớp nhân mỏng sẽ cho bánh ngon hơn.</p>
+<p>– Nếu sử dụng các loại sauce thì nên dùng sauce lỏng một chút, vì sauce sẽ đặc lại trong quá trình nướng.</p>
+
+
+<p>– Nếu có sử dụng các loại rau tươi hoặc lá gia vị tươi (như basil tươi) thì nên trộn với dầu Olive và xếp ở dưới lớp pho mát, tránh để các loại rau này bị cháy</p>
+<p>– Nếu có sử dụng thịt hun khói, salami hay xúc xích thì có thể xếp lên trên cùng để khi nướng xong các nguyên liệu này có độ giòn. Còn nếu là các loại thịt hay hải sản tươi sống thì nên làm chín trước vì thời gian nươngs Pizza khá ngắn, khoảng 10-12 phút, đôi khi sẽ không đủ để làm chín các loại thịt tươi.</p>
+<p>– Pho mát thường sử dụng là Mozzarella. Nhưng các loại pho mát khác như Cheddar, Parmesan cũng có thể được dùng, và đều có thể tạo ra lớp pho mát chảy, có thể kéo sợi trên mặt bánh, với điều kiện là pho mát chất lượng tốt.</p>
+<p>Thường là mình xếp nhân theo thứ tự: 1 lớp <strong><a href="/pizza-sauce-sot-ca-chua-kieu-y-cho-pizza-pasta/">Pizza sauce</a></strong> – 1 lớp pho mát mỏng – 1 lớp rau và thịt xen kẽ – 1 lớp pho mát mỏng ở trên cùng.</p>
+<p>9. Nướng bánh trên Pizza stone ở 250 độ C, khay chính giữa lò. Nướng trong khoảng 10-12 phút, đến khi đế bánh vàng nâu và hơi có một vài vết cháy xém (nếu dùng pho mát thì pho mát sẽ hơi “sôi” lăn tăn). Không nên nướng lâu hơn vì có thể làm đế bánh bị khô hoặc cứng. Bánh làm nhiều ăn không hết có thể bảo quản trong tủ lạnh trong 1 ngày, khi ăn nướng lại ở 190-200 độ C trong khoảng 5-7 phút, bánh sẽ giòn trở lại.</p>
+<p>———————</p>
+<p>Đến đây thì coi như là xong hết về “Pizza cơ bản” rồi. Từ công thức đế này và <strong><a href="/pizza-sauce-sot-ca-chua-kieu-y-cho-pizza-pasta/">công thức Pizza sauce</a></strong>, các bạn có thể thêm các nguyên liệu khác cho phần nhân là có Pizza ngon lành theo khẩu vị của riêng mình. Ở các bài tiếp theo mình sẽ giới thiệu một vài công thức Pizza mà mình đã thử (và rất thích) nhé ;)</p>
+<p> </p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

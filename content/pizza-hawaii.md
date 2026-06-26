@@ -1,0 +1,39 @@
+---
+title: "Mini Hawaii Pizza (Pizza với thịt xông khói, dứa và phô-mai)"
+date: "2012-08-25"
+slug: "pizza-hawaii"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/08/HaiwaiiPizza.jpg"
+description: "cách làm pizza hawaii tại nhà đơn giản (có hình minh họa chi tiết các bước)"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Cuối tuần mát trời nên lại có Pizza đổi bữa. Bột vẫn được nhồi theo công thức ở <a href="/de-pizza-co-ban-phan-2-cong-thuc/"><strong>ĐÂY</strong></a>, nhưng chỉ làm 1/2 công thức để ăn hết trong một bữa, và vì thích nghịch một tí nên lần này Pizza to đã được “biến hình” thành rất nhiều mini Pizza cỡ lòng bàn tay, be bé, xinh xinh như thế này ;)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7856858008/" title="IMG_3924 by LinhTrang9185, on Flickr"><img alt="IMG_3924" class="aligncenter" height="334" loading="lazy" src="http://farm8.staticflickr.com/7260/7856858008_4cff894a7f.jpg" width="500"/></a></p>
+<p>Ảnh trên là sau khi các bạn ấy đã được nghỉ khoảng 10 phút và có thể bắt đầu xếp nhân, với lớp đầu tiên là <a href="/pizza-sauce-sot-ca-chua-kieu-y-cho-pizza-pasta/">Pizza sauce</a>, tiếp đến là một lớp mozzarella cheese</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7856857434/" title="IMG_3925 by LinhTrang9185, on Flickr"><img alt="IMG_3925" class="aligncenter" height="334" loading="lazy" src="http://farm9.staticflickr.com/8283/7856857434_21520bbf39.jpg" width="500"/></a></p>
+<p>Thêm thịt nguội và dứa cắt hạt lựu, với ít ớt chuông xanh và hành tây cho có đủ màu sắc xanh đỏ, và có đủ thịt đủ rau nữa.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7856857142/" title="IMG_3926 by LinhTrang9185, on Flickr"><img alt="IMG_3926" class="aligncenter" height="334" loading="lazy" src="http://farm9.staticflickr.com/8448/7856857142_98ce5bfa56.jpg" width="500"/></a></p>
+<p>Và một lớp pho mát lên trên cùng.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7856855826/" title="IMG_3928 by LinhTrang9185, on Flickr"><img alt="IMG_3928" class="aligncenter" height="334" loading="lazy" src="http://farm9.staticflickr.com/8421/7856855826_af7275cecf.jpg" width="500"/></a></p>
+<p>Và chỉ sau chục phút “luyện công” trong lò là đã có các em Hawaii Pizza giòn rụm, chua chua ngọt ngọt thơm lừng và béo ngậy như thế này cho bữa trưa ;) Mời cả nhà cùng măm măm nhé :)</p>
+<p>* <span style="text-decoration: underline; color: #ff0000;"><strong>Lưu ý</strong></span>: <em><strong>Lò phải được làm nóng trước ở 240-250 độ C, 2 lửa, trước ít nhất 15 phút</strong></em>.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7856855176/" title="IMG_3929-1 by LinhTrang9185, on Flickr"><img alt="IMG_3929-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8434/7856855176_6272100f53_z.jpg" width="429"/></a></p>
+<p><span style="text-decoration: underline;"><strong>Ghi chú:</strong></span></p>
+<p><span id="more-3097"></span>Pizza Hawaii là loại khá đơn giản nên mình không viết công thức cụ thể. Phần <a href="/de-pizza-co-ban-phan-2-cong-thuc/">đế Pizza</a>, <a href="/de-pizza-co-ban-phan-2-cong-thuc/">cách nướng đế, cách nhồi bột</a>, cách làm <a href="/pizza-sauce-sot-ca-chua-kieu-y-cho-pizza-pasta/">Pizza sauce.</a>.. mình đều đã nói rất kĩ trong các bài viết trước, nếu bạn chưa quen với Pizza thì tham khảo thêm, và cả các phản hồi nữa nhé.</p>
+<p>Phần nhân đặc trưng của Hawaii Pizza gồm thịt hun khói, dứa và pho mát, phần rau xanh là mình thêm vào, các bạn có thể thay đổi hoặc thêm bớt theo khẩu vị của gia đình. Có một vài lưu ý nhỏ là:</p>
+<p>1. Nếu làm mini Pizza như trên thì sau khi bột ủ xong lần 1, các bạn lấy bột ra, nhồi sơ rồi vê bột thành dạng hình trụ tròn dài. Tiếp theo chia bột thành các viên nhỏ khoảng 20-30gram, tùy theo kích thước miếng Pizza mà bạn muốn làm, rồi tạo hình Pizza mini cho từng viên bột. <strong>Không nên dàn mỏng rồi dùng cutter để cắt thành đế tròn</strong>. Lý do là cách này sẽ làm thừa ra khá nhiều bột, phần bột thừa này rất khó dùng lại vì các sợi gluten đã bị cắt thì rất khó nối lại.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>2. Phần nhân nên tỉ lệ thuận với độ dày của đế. Nếu đế mỏng thì nên xếp nhân vừa phải, đế dày có thể xếp nhân nhiều hơn một chút, nhưng không nên quá nhiều, khi nướng nhân sẽ khó chín và đế cũng khó giòn.</p>
+<p>3. Nếu trong nhân có sử dụng rau (như mình dùng ớt chuông và hành tây), thì nên trộn rau với dầu Olive trước khi xếp lên bánh để tránh khi nướng rau bị cháy.</p>
+<p>Chúc cả nhà cuối tuần vui vẻ nhé :)</p>
+<p>——-</p>
+<p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ email: <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi hành động cố tình vi phạm sẽ chịu xử lí theo quy định của pháp luật.</span></strong></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

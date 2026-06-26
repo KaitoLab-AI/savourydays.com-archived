@@ -1,0 +1,60 @@
+---
+title: "Gà xé phay – Gỏi/nộm gà đu đủ & Cách luộc gà (công nghiệp) sao cho ngon"
+date: "2013-02-07"
+slug: "nom-goi-ga-xe-phay"
+categories: []
+tags: []
+image: "/wp-content/uploads/2013/02/GaXePhay.jpg"
+description: "gà xé phay, món ăn ngày Tết, gỏi gà chua ngọt"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><strong>*<span style="color: #ff0000;"> Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
+<p>——————————————</p>
+<p>Trước khi vào tiết mục chính thì có một tin mới nhận được từ miền Nam là <strong>sách Quà tặng ngọt ngào đã về đến kho của Văn Việt tại TPHCM</strong>. Các bạn muốn có sách trước Tết thì <strong><span style="text-decoration: underline;">sáng mai (8/2/2013), trước 9h có thể qua Văn Việt để mua sách nha</span></strong>, địa chỉ là:</p>
+<p>Số 8, Nguyễn Bỉnh Khiêm, P. ĐaKao, Q.1, TP.HCM | Tel: (84-8) 66790 955</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Thật ra thì công ty đã nghỉ Tết rồi nhưng do sự cố sách vào muộn nên sẽ có người trực đến 9h sáng mai để xuất sách, cả nhà chịu khó thu xếp qua sớm vậy nha. Sau Tết sách sẽ có mặt ở các nhà sách, danh sách cụ thể mình sẽ cập nhật sau nhé. Cảm ơn các bạn nhiều vì đã ủng hộ :x</p>
+<p>———————–</p>
+<p>Ở nhà mình, Gà xé phay là một món cực kì được yêu thích trong ngày Tết. Lý do là sau tất cả những “sự ngấy” từ xôi nếp, bánh chưng, chân giò, thịt kho… thì một món ăn chua chua ngòn ngọt, nhẹ nhàng như gà xé phay quả là lý tưởng. Hơn nữa, gà xé phay có thể giúp “xử lí” hết số thịt gà “tồn kho”, mà như ở nhà mình thì thường là phần lườn gà, chẳng ai muốn ăn vã.</p>
+<p>Đó là ở nhà, qua bên này rồi gà xé phay càng trở thành món ăn được lựa chọn nhiều hơn bởi vì gà ở bên này chỉ có gà công nghiệp thôi. Không như gà ta hay gà chạy bộ của nhà mình, gà công nghiệp béo ú và lười vận động, thịt thì nhiều mà chẳng thấy cơ bắp đâu. Cho nên kể cả phần thịt đùi cũng không được săn chắc, luộc lên lại dễ bị bở và có thể hơi tanh nữa. Nên có thêm ít gia vị trộn thành gỏi hay nộm như trong món gà xé phay cũng giúp món thịt gà thơm ngon hơn ít nhiều.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8452187529/" title="IMG_7135-1 by LinhTrang9185, on Flickr"><img alt="IMG_7135-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8524/8452187529_77f38463b0_z.jpg" width="427"/></a></p>
+<p>Gà xé phay là món phổ biến và dễ làm, nên trong bài này ngoài cách làm gà xé phay và một biến tấu khác là gỏi gà đu đủ, thì mình muốn chia sẻ ít kinh nghiệm luộc gà nữa, dành tặng cho các anh chị em ở xa nhà, không có gà chạy bộ như mình. Hi vọng là những mẹo nho nhỏ này sẽ giúp các bạn có món thịt gà thơm ngon hơn để chiêu đãi bạn bè trong ngày Tết cổ truyền của Việt Nam.</p>
+<p><strong>1. Cách luộc gà (công nghiệp)</strong></p>
+<p>– Gà nguyên con hoặc riêng phần đùi (hoặc lườn tùy thích), rửa sạch. Chuẩn bị thêm một vài củ hành hương (hành khô), hoặc hành tím, hành tây, và một củ gừng nhỏ. Lượng hành gừng tùy thuộc vào lượng thịt. Thường với hai cái đùi gà to (khoảng 0.5kg) mình dùng 2-3 củ hành hương (hoặc 1/2 củ hành tây) và 1 mẩu gừng bằng 1/2 ngón tay cái.</p>
+<p>Nướng hành và gừng ở lửa vừa (có thể nướng trên bếp điện hoặc bếp ga) đến khi chín thơm. Cạo bỏ phần vỏ cháy bên ngoài, rửa sạch. Gừng đập dập. Nếu dùng hành tây thì bổ đôi/ bổ tư.</p>
+<p>– Cho thịt vào nồi, đổ nước lạnh ngập thịt, thêm ít muối. Vặn lửa to đun sôi. Hớt sạch bọt (nước luộc gà này có thể dùng để nấu canh hoặc nấu miến, nên hớt bọt cho trong và ngon).</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>– Cho hành, gừng vào nồi. Hạ lửa vừa, đun sôi liu riu thêm khoảng 10-20 phút tùy theo lượng thịt gà. Luộc đến khi dùng nĩa hoặc đũa xiên thử vào gà, thấy có nước hơi hồng chảy ra thì tắt bếp. <strong>Lưu ý:</strong> <em>Gà công nghiệp chín rất nhanh, không nên luộc quá lâu, gà chín quá kĩ sẽ bở và bã</em>.</p>
+<p>– Bắc nồi ra khỏi bếp, đậy vung. Để gà trong nồi thêm khoảng 15-20 phút thì vớt ra. Để nguội rồi dùng nilon bọc kín. Cho thịt gà vào trong tủ lạnh, để khoảng 3-4h hoặc qua đêm.</p>
+<p>Cách làm này sẽ giúp cho thịt gà vừa chín tới, thịt thơm nhờ gừng và hành, sau khi để lạnh thịt sẽ săn chắc, phần da gà cũng bớt bị nhão hơn. Trước khi ăn các bạn có thể để thịt ra ngoài khoảng 30 phút để thịt bớt lạnh là được.</p>
+<p><strong>2. Gà xé phay (tham khảo công thức của chị Pikatru :x)</strong></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8452187709/" title="IMG_7119-1 by LinhTrang9185, on Flickr"><img alt="IMG_7119-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8380/8452187709_b77a83583b_z.jpg" width="446"/></a></p>
+<p><strong>Nguyên liệu</strong></p>
+<ul>
+<li><em>Thịt gà đã luộc chín </em></li>
+<li><em>Hành tây </em></li>
+<li><em>Rau răm</em></li>
+<li><em>Chanh tươi hoặc dấm</em></li>
+<li><em>Bột gia vị (bột canh) hoặc muối, nước mắm</em></li>
+<li><em>Đường </em></li>
+<li><em>Tiêu </em></li>
+<li><em>Ớt tươi, vài cái lá chanh </em></li>
+</ul>
+<p><strong>Cách làm</strong></p>
+<p>– Hành tây bổ làm tư hoặc bổ đôi (nếu củ hành nhỏ), thái miếng mỏng vừa. Chuẩn bị một bát nước đá lạnh, cho hành vào ngâm khoảng 3-5 phút, vớt ra, rửa lại rồi vẩy ráo nước.</p>
+<p>– Trộn hành tây với đường và ít dấm hoặc nước cốt chanh. Lượng đường nên nhiều hơn một chút, sẽ giúp hành giòn và bớt hăng hơn. Để khoảng 20 phút rồi đổ hành ra rổ, xóc cho ráo nước (bỏ phần nước tiết ra từ hành tây).</p>
+<p>– Thịt gà dùng dao thái thành miếng (sao cho mỗi miếng có dính ít thịt và da), hoặc có thể dùng tay xé nếu là gà ta ngon. Ướp thịt gà với chút bột gia vị (hoặc muối), tiêu xay. Để 15-20 phút.</p>
+<p>– Rau răm rửa sạch, thái nhỏ. Lá chanh rửa sạch, thái chỉ.</p>
+<p>– Cho hành tây, thịt gà và rau răm vào bát. Thêm nước cốt chanh, đường và nước mắm cho vừa ăn. Thêm ớt tươi nếu thích. Rắc lá chanh thái chỉ lên trên.</p>
+<p>Ngoài món gà xé phay này ra, nếu trong nhà có sẵn su hào, cà rốt hay đu đủ thì các bạn có thể bào sợi các loại rau này và trộn cùng với thịt gà, khi ăn thêm lạc rang giã vụn, hành phi… ta sẽ có món nộm gà rau củ, rất ngon, mát và nhiều vitamin, đặc biệt là đáp ứng được nhu cầu “háo” rau trong mấy ngày Tết.</p>
+<p><em>* <strong>Ghi chú: </strong>Phần rau bào sợi có thể xóc qua với ít muối rồi rửa nước lạnh, vắt ráo trước khi trộn, sẽ giúp rau giòn hơn. Nếu cần tham khảo thêm về cách pha nước trộn nộm, các bạn có thể xem <a href="/nom-ga-bap-cai/">bài viết này. </a></em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8453278872/" title="IMG_9236-1 by LinhTrang9185, on Flickr"><img alt="IMG_9236-1" class="aligncenter" height="337" loading="lazy" src="http://farm9.staticflickr.com/8233/8453278872_a9dfe563c2.jpg" width="500"/></a></p>
+
+
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

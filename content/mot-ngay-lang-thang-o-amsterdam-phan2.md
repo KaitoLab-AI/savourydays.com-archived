@@ -1,0 +1,75 @@
+---
+title: "Một ngày lang thang ở Amsterdam – Phần 2: Chợ bán “củ giống” hoa – Đi lạc một lần nữa & Hành trình tìm đến với I amsterdam"
+date: "2012-05-24"
+slug: "mot-ngay-lang-thang-o-amsterdam-phan2"
+categories: ["Du lịch"]
+tags: ["Amsterdam", "châu Âu", "du lịch", "Hà Lan"]
+image: "/wp-content/uploads/2012/05/AmsterdamPhan2.jpg"
+description: "du lịch, amsterdam, hà lan, châu âu"
+---
+
+<p>Ở cuối bài trước mình có viết đi lang thang đã vui, đi lang thang không bản đồ mà chỉ theo trí nhớ lại càng vui hơn. Nó không chỉ là cảm giác hồi hộp, hơi giống với … một cuộc thám hiểm, mà còn cả sự bất ngờ khi gặp lại những “nơi cũ, vật cũ” nữa, cảm giác gần giống như là “kỉ niệm ùa về” ấy :).</p>
+<p>Nơi đầu tiên mà mình gặp lại (<em>nếu không tính phố đèn đỏ</em> :P) là một khu chợ hoa</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7220900700/" title="2012-05-172 by LinhTrang9185, on Flickr"><img alt="2012-05-172" class="aligncenter" height="500" loading="lazy" src="http://farm6.staticflickr.com/5240/7220900700_e0b963bd5c.jpg" width="500"/></a></p>
+<p>Ở đây ngoài hoa được trồng thành cây, bạn còn có thể tìm thấy rất nhiều loại hạt giống và “củ giống” của cực cực nhiều loài cây khác nhau nữa. Gọi là “củ giống” bởi vì đa phần các củ giống này đều trông rất giống… củ chứ không giống hạt gì cả, như thế này này (<em>Lần đầu tiên mình nhìn thấy mấy củ này, không biết nó sẽ lên thành hoa đâu, cứ nghĩ là củ gừng hay hành gì đó ấy :”&gt; )</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7220899850/" title="IMG_4625 by LinhTrang9185, on Flickr"><img alt="IMG_4625" class="aligncenter" height="331" loading="lazy" src="http://farm8.staticflickr.com/7224/7220899850_6b1d7dd61a.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Đi sâu vào bên trong chợ, mình gặp lại cả mấy cửa hàng bán pho mát nằm dưới hầm. Pho mát được đóng thành từng tảng to (<em>kiểu giống như miếng pho mát trong phim hoạt hình Tom &amp; Jerry</em> ;) ) với đủ loại mùi vị, từ pho mát nguyên chất đến pho mát với các loại gia vị như tỏi, hành, mùi, húng tây, xạ hương… và có cả những miếng pho mát đã.. lên mốc xanh mốc đỏ nữa (<em>nhưng pho mát vầy mới là ngon</em> :) ).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7220899698/" title="IMG_4628 by LinhTrang9185, on Flickr"><img alt="IMG_4628" class="aligncenter" height="500" loading="lazy" src="http://farm8.staticflickr.com/7245/7220899698_60ce9e01e4.jpg" width="338"/></a></p>
+<p>rồi một cửa hàng bán đồ chơi rất dễ thương mà hai năm trước mình có tạt vào..</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7220900580/" title="2012-05-173 by LinhTrang9185, on Flickr"><img alt="2012-05-173" class="aligncenter" height="500" loading="lazy" src="http://farm6.staticflickr.com/5036/7220900580_5f6dfbc012.jpg" width="500"/></a></p>
+<p>và cả những con đường dốc nhỏ xanh rì lá. Đi bộ ở đây thích ơi là thích, cảm giác yên ả và thanh bình lắm ấy :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7220899352/" title="IMG_4634 by LinhTrang9185, on Flickr"><img alt="IMG_4634" class="aligncenter" height="500" loading="lazy" src="http://farm8.staticflickr.com/7081/7220899352_f8ce06ea46.jpg" width="308"/></a></p>
+<p>Còn đây là một trong những khu ăn uống khá nổi tiếng của Amsterdam.</p>
+<div><span id="more-2674"></span></div>
+<div><a href="http://www.flickr.com/photos/55490207@N05/7220899240/" title="IMG_4640 by LinhTrang9185, on Flickr"><img alt="IMG_4640" class="aligncenter" height="333" loading="lazy" src="http://farm6.staticflickr.com/5200/7220899240_d418d9b7f2.jpg" width="500"/></a></div>
+<div></div>
+<div>nơi có cửa hàng sườn nướng yêu thích của mình ;)</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7220898698/" title="IMG_4642 by LinhTrang9185, on Flickr"><img alt="IMG_4642" class="aligncenter" height="354" loading="lazy" src="http://farm8.staticflickr.com/7234/7220898698_67a1615ebb.jpg" width="500"/></a></p>
+<p>Lần trước khi đến Amsterdam mình ghé qua cửa hàng này 2 hay 3 lần. Sườn ở đây khá ngon, mềm, róc xương, gia vị ướp cũng ngon, và giá thì siêu rẻ. <strong>All you can ea</strong>t, có nghĩa là chỉ với 1 số tiền nhất định (cụ thể là 9,95EUR), bạn có thể ăn bao nhiêu cũng được, đến khi nào no không ăn nổi nữa thì thôi. Mà sườn ở đây siêu bự, một đĩa cho một người phải to bằng suất loại lớn của sườn bán tại Al fresco nhà mình ấy, cho nên mình đặc biệt khoái cửa hàng này :D</p>
+<p>Đi qua khu ăn uống này thì cũng gần đến đích cuối cùng của chuyến lang thang lắm rồi. Nơi mình muốn đến ấy là Museum plein, nơi tập trung rất nhiều bảo tàng nổi tiếng của Amsterdam, và cả một dòng chữ mà chắc khách du lịch nào ghé qua Amsterdam cũng phải chạy qua đây để… chụp ảnh với nó ;) Thật ra để đến đây thì rất dễ, vì chỉ cần đi tram số 5, từ ga mất khoảng 10 phút thôi là đến nơi. Nhưng vì lần trước, khi đến đây có một con đường để đi bộ khá là thú vị, với cả có một “đứa” cũng muốn thử xem trí nhớ của nó tốt đến đâu, cho nên nhất quyết không thèm đi tram mà đi bộ, tự dò đường bằng…kỉ niệm.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Ai đó “dạy” rằng: <strong>Nhiệt tình + ngu dốt = phá hoại</strong> quả là không sai!!!</p>
+<p>Không nhớ đường, không có bản đồ trong tay, nhưng lại cứ thích tự đi, hậu quả là thế nào có lẽ ai cũng đoán được <em>(chỉ có một đứa cứng đầu là không thể nhìn thấy trước thôi</em> :-&lt;).</p>
+<p>Chuyện xảy ra tiếp theo đó, cụ thể là như này:</p>
+<p>Sau khi ra khỏi khu ăn uống thì mình không nhớ cần phải đi tiếp theo hướng nào, chỉ nhớ là Museum Plein ở rất gần đây, nhưng cụ thể ở đâu thì không chắc chắn. Đúng lúc đang đứng nghĩ xem nên đi tiếp thế nào thì mình bỗng nhiên nghe (lỏm) thấy “I Amsterdam” (<em>là dòng chữ ở Museum plein mà mình nhắc đến ở phía trên ấy</em>) trong câu chuyện của mấy bạn ở đằng trước. Mà trông mấy bạn ấy cũng rất có dáng giống dân du lịch. Thế nên mình nghĩ chắc mấy bạn này cũng đến đó, vậy chắc cứ đi theo cũng được (<em>đúng là một suy nghĩ</em> <em>ngốc chưa từng thấy</em> :-|)</p>
+<p>Các bạn ấy đi vào trong công viên ở trong hình, công viên có vẻ khá đẹp đẹp, nên mình nghĩ cứ đi thôi, coi như thăm quan luôn, kiểu gì chẳng đến, cho nên cũng tò tò chạy theo.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7220898554/" title="IMG_4643 by LinhTrang9185, on Flickr"><img alt="IMG_4643" class="aligncenter" height="334" loading="lazy" src="http://farm8.staticflickr.com/7245/7220898554_9ed41ed0c4.jpg" width="500"/></a></p>
+<p><em>Lần đi theo người khác thứ hai trong ngày. Cũng là quyết định ngớ ngẩn thứ hai trong ngày.</em></p>
+<p>Công viên có vẻ khá dài và mình cũng cứ cắm đầu đi, đi mãi, đi mãi, vẫn thấy… mình đang ở trong công viên mà chả thấy có dấu hiệu nào của bảo tàng hay quảng trường gì hết :-|</p>
+<p>Mình bắt đầu chột dạ, vì theo mình nhớ thì nó không thể xa đến thế. Lúc này đáng lẽ ra phải quay đầu lại ngay, thì mình bỗng dưng lại thấy có một đường ra. Và mình nghĩ Museum plein chắc cũng ở gần đây, vậy thì có thể khi ra khỏi công viên mình sẽ tìm thấy biển chỉ đường (<em>thường ở đây luôn có bảng chỉ đường cho khách du lịch đến các địa điểm nổi tiếng của thành phố</em>). Thế là, thay vì quay lại, mình quyết định …. đi tiếp, theo một lối mà mình hoàn toàn chẳng biết nó dẫn đến đâu :-|</p>
+<p>Lối ra ấy cuối cùng không phải dẫn đến Museum plein, cũng không có biển chỉ đường nào cả. Nhưng lại quay vào trong công viên thì mình cũng không muốn, cho nên mình quyết định đi theo hướng ngược lại với đường vừa đi (nhưng ở bên ngoài công viên), nghĩ đơn giản là đi hướng này sẽ dẫn mình trở về gần trung tâm (đ<em>oạn này vẫn còn “nhiệt tình” lắm, vẫn chưa biết sợ</em> :P)</p>
+<p>Và cứ thế đi, đi tiếp, đi tiếp, thêm được khoảng 10-15 phút gì đấy thì mình thấy bảng chỉ đường thật (phù).</p>
+<p>Nhưng mà,</p>
+<p>không phải là kiểu bảng chỉ đường cho khách du lịch đi bộ, là bảng chỉ hướng cho ô tô (kiểu như là đi hướng nào về phía Đông hay Tây của thành phố ý) :-| :((</p>
+<p>Và cuối cùng, mình cũng bắt đầu… hoảng, vì nếu có bảng chỉ đường cho ô tô thì nhiều khả năng là đã xa trung tâm thật rồi… :'( :'( Lúc này đã là quá trưa, bánh mang theo từ sáng đã hết, chân thì cảm giác như sắp rời ra đến nơi. Giờ quay lại đường cũ thìa quá dở vì sẽ mất thêm nửa tiếng nữa, nhưng cứ đi tiếp, thì chẳng biết liệu có chạy ra đến ngoại ô thành phố không.. :-s :-s</p>
+<p>Đành phải đi hỏi vậy :-&lt; (<em>haizzz…</em> h<em>óa ra đi lang thang cũng chẳng dễ chút nào, và mình thật ra cũng không “siêu” như mình tưởng</em> :-&lt; )</p>
+
+
+<p>Nghĩ như vậy rồi, thậm chí là cả ngó nghiêng xem có ai mặt mũi đủ tin cậy không để hỏi đường rồi, thì bỗng nhiên, mình thấy… cổng công viên ở ngay đằng trước, và mình đang đứng ở nơi mà mình quyết định đi theo người lạ cách đây nửa tiếng</p>
+<p>:-| :-D :-| :-D :-| :-| :-D :-| :-D :-|</p>
+<p>*^&amp;^$%^$(*()*(^^$^%&amp;^*(())()&amp;*%$%$#$%#%$^%&amp;*</p>
+<p>Cảm xúc cứ gọi là “lỗn lận”. Tất nhiên là rất vui, vì hóa ra không phải là đi lạc, quay được về đúng chỗ cũ nữa chứ (<em>bạn Trang hóa ra vẫn giỏi, hông phải hỏi ai mà vẫn tìm được đường về</em> :D). Nhưng mà, tổng thời gian “đi dạo” là khoảng 30-35 phút gì đấy :-&lt; :-&lt; Mà sau này xem bản đồ mình mới biết là Museum plein thật ra nằm ngay cạnh công viên này, nhưng phải đi một đường ở phía trên, cạnh công viên chứ không phải là xông vào trong công viên như thế. Đúng là phá hoại mà :((</p>
+<p>Việc tốt lành tiếp theo là mình thấy tram số 5 và ko chần chừ gì đi theo nó. Và chỉ mất thêm 5 phút đi bộ thôi, mình cuối cùng cũng đến được nơi mình muốn đến.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7220898276/" title="IMG_4649 by LinhTrang9185, on Flickr"><img alt="IMG_4649" class="aligncenter" height="334" loading="lazy" src="http://farm8.staticflickr.com/7220/7220898276_9e3fcc938d.jpg" width="500"/></a></p>
+<p>“Lâu đài” ở phía sau dòng chữ cũng là một bảo tàng lớn của Amsterdam, nhưng rất tiếc là cả hai lần mình đến Ams đều không đủ thời gian để vào đây. Lần sau nhất định phải cố gắng thu xếp :)</p>
+<p>——————-</p>
+<p>Ngay khi chụp xong bức ảnh này thì bạn Trang nhận được điện thoại của giáo sư nhắn là bác đã xong việc, có thể đến gặp luôn, thế là ba chân bốn cẳng chạy về. Bài tường thuật chuyến lang thang của bạn Trang tại Amsterdam đến đây vì thế cũng xin kết thúc (đoạn sau họp chán lắm, chả có gì vui cả :( ).<br/>
+(<em>rất xin lỗi mọi người nếu bị làm cho mất hứng vì cái kết này, xin hứa bài du lịch lần tiếp theo mình sẽ nghĩ một cái kết bớt…hụt hẫng hơn. Và cảm ơn các bạn rất nhiều vì đã kiên nhẫn nghe mình kể chuyện lung tung đến tận đây :”&gt; :”&gt; )</em></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

@@ -1,0 +1,26 @@
+---
+title: "Cupcake sô-cô-la anh đào & Bar/ tart chanh leo"
+date: "2014-06-30"
+slug: "cupcake-co-la-anh-dao-bar-tart-chanh-leo"
+categories: []
+tags: []
+image: "/wp-content/uploads/2014/06/CupcakeChocoAnhDao1.jpg"
+description: "tart chanh, bar chanh, cupcake sô-cô-la"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Đợt vừa rồi vì mải mê với sữa chua, lại có một thời gian dài vắng nhà nên mình hầu như không đụng vào lò nướng (àh thật ra là có đụng nhưng chỉ để ủ sữa chua thôi, nên không tính). Đầu tuần trước vì có một vài lý do đặc biệt, muốn mời đồng nghiệp ít bánh kẹo nên mới lôi phới lồng, khuôn, âu trộn ra… phủi bụi.</p>
+<p>Thường bánh để mang đến trường mời đồng nghiệp, hay cho các buổi liên hoan, mình đều làm loại nhỏ để dễ vận chuyển mà tiện… chia cho đều nữa. Cho nên các loại cupcake, choux, bars, hay kẹo thường được ưu tiên. Hai loại bánh lần này là kiểu bình mới rượu cũ. Đều là công thức cũ nhưng có ít biến tấu. Cupcake chocolate làm theo công thức <a href="/incredibly-easy-chocolate-cake/">Incredible easy chocolate cake</a>. Chỉ thêm anh đào trộn với ít rượu Rum cho “mềm” bớt. Bánh nướng xong có phần ruột hơi ẩm một chút, thơm mùi chocolate với anh đào chua ngọt, vừa mềm vừa giòn, ăn rất dễ chịu.</p>
+<p>Loại thứ hai là bars chanh leo cũng làm theo <a href="/bars-chanh-leo/">công thức cũ </a>nhưng phần đế bánh mình thay bằng <a href="/tart-hoa-qua-fruit-tart-ct-de-cua-gordon-ramsay/">công thức đế tart của Gordon Ramsay</a>. So với đế bánh trong công thức cũ thì đế tart này giòn và cứng cáp hơn, cũng thơm mùi bơ hơn. Chanh leo thì vẫn ngon như thế, dẻo dẻo, chua chua ngòn ngọt và mát nữa. Nhìn chung cả hai thứ đều nhanh, dễ làm. Nên tuy công thức không mới nhưng mình vẫn muốn ghi lại, thêm một gợi ý cho món tráng miệng trong mùa hè này. Đặc biệt nếu bạn nào có khách là người Âu thì thử nhé, vì mình cảm giác họ rất chuộng bánh kiểu này :)</p>
+<p>(*) <strong>Ghi chú về định lượng:</strong></p>
+<p>– Cupcake chocolate mình làm 1/2 công thức <a href="/incredibly-easy-chocolate-cake/">Incredible easy chocolate cake</a> với khoảng 180gram anh đào. Anh đào bỏ hột, bổ tư, ngâm với 2 thìa canh/ 2 tablespoons (60ml) rượu Rum trong 30 phút trước khi làm bánh. Khi làm thì trộn cả anh đào lẫn rượu vào hỗn hợp ướt rồi thao tác như bình thường. Làm được 24 cupcake mini (đường kính 3cm, cao 2cm)</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14562833833/" title="Chocolate cherry cupcakes by LinhTrang9185, on Flickr"><img alt="Chocolate cherry cupcakes" class="aligncenter" height="640" loading="lazy" src="https://farm3.staticflickr.com/2906/14562833833_33299035db_z.jpg" width="602"/></a></p>
+<p>– Bars chanh leo mình dùng 1/2 <a href="/tart-hoa-qua-fruit-tart-ct-de-cua-gordon-ramsay/">công thức vỏ tart của Gordon Ramsay</a> và toàn bộ phần chanh leo trong <a href="/bars-chanh-leo/">công thức bars chanh leo</a>. Nướng trong khuôn 15cm để lớp chanh leo được dày hơn, ăn “đã” hơn. Tuy nhiên, phần đế mình thấy vẫn hơi dày, khi nướng hơi mất thời gian để chín giòn và khô hoàn toàn. Nên mình nghĩ dùng khoảng 1/3 công thức vỏ tart thì có lẽ vừa hơn. Thời gian nướng như trong công thức bars chanh leo nhé.</p>
+<p>À, nếu các bạn có khuôn tart thì có thể dùng công thức này làm tart chanh cũng rất ngon :)</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14356115539/" title="Passion fruit bars by LinhTrang9185, on Flickr"><img alt="Passion fruit bars" class="aligncenter" height="602" loading="lazy" src="https://farm6.staticflickr.com/5485/14356115539_167f4577be_z.jpg" width="640"/></a></p>
+<p> </p>
+<p> </p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

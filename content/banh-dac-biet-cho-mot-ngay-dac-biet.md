@@ -1,0 +1,32 @@
+---
+title: "Bánh đặc biệt cho một ngày rất đặc biệt"
+date: "2012-12-30"
+slug: "banh-dac-biet-cho-mot-ngay-dac-biet"
+categories: ["Về tôi"]
+tags: ["bánh kem", "Gateau", "về tôi"]
+image: "/wp-content/uploads/2012/12/BanhSInhNhatme.jpg"
+description: "savoury days, chuyện hàng ngày, kaole, bánh sinh nhật"
+---
+
+<p>Hôm nay là sinh nhật mẹ mình :)</p>
+<p>Bình thường hồi xưa khi mình còn ở nhà thì hai chị em sẽ cùng chuẩn bị một cái gì đó nho nhỏ để mừng sinh nhật mẹ. Thường sẽ là một cái bánh ngọt sau đó gọi trẻ con … nhà hàng xóm sang thổi nến hộ, sinh nhật nhỏ nhưng ấm cúng và rất vui. Ba năm gần đây mình đi vắng nên chỉ có thể chúc mừng sinh nhật mẹ được từ xa, còn mọi thứ ở nhà nhờ cả vào em gái. Năm nay vì muốn có một món quà đặc biệt hơn mọi năm một chút nên mình tự làm một cái bánh và gửi tặng mẹ qua ảnh. Đây là chiếc bánh sinh nhật thứ hai mà mình tự làm, nhưng là chiếc bánh “lớn” đầu tiên vì bánh sinh nhật thứ nhất chỉ nho nhỏ xinh xinh thôi. Chưa có kinh nghiệm gì nên phần trang trí rất là lóng ngóng: chữ viết thì siêu run tay và trang trí cũng rất bình thường nhưng mình vẫn cảm thấy vui hơn rất nhiều lần so với việc chạy đi mua một thỏi son hay một lọ nước hoa :) Hi vọng các năm tới sẽ có thể làm được một cái bánh đẹp hơn và mẹ cũng không phải “ăn” qua ảnh nữa.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8322073084/" title="IMG_8873-1 by LinhTrang9185, on Flickr"><img alt="IMG_8873-1" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8077/8322073084_4227e6ac2b.jpg" width="500"/></a></p>
+<p>Mình chọn Kaolé để làm vì nghĩ mẹ và các cô ở tầm tuổi mẹ mình sẽ không thích bánh có quá nhiều kem trang trí. Cốt Kaolé thì rất nhẹ nhàng: Hai lớp bạt gateau, một lớp Chocolate mousse và một lớp Diplomat mousse. Bánh chỉ có phần kem tươi trong Mousse và một chút kem bơ để trang trí, bạt bánh cũng không sử dụng một tẹo bơ nào, cho nên hạn chế “béo” đến mức tối đa và hoàn toàn không ngấy. Mùi vị bánh thì cực kì hòa hợp vì có Gateau và Mousse xen kẽ nhau :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8323857512/" title="IMG_8887-1 by LinhTrang9185, on Flickr"><img alt="IMG_8887-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8213/8323857512_c032ce4fd1_z.jpg" width="427"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>P.s: <em>Mấy hôm nay mình có việc gấp phải hoàn thành nên cách làm Kaolé (rất dễ) mình sẽ gõ và đăng sau nhé.</em></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

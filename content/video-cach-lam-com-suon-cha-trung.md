@@ -1,0 +1,137 @@
+---
+title: "[VIDEO] Cách làm CƠM SƯỜN NƯỚNG CHẢ TRỨNG"
+date: "2018-10-08"
+slug: "video-cach-lam-com-suon-cha-trung"
+categories: []
+tags: []
+image: "/wp-content/uploads/2018/10/cách-làm-cơm-sườn-nướng-banner.jpg"
+description: "Cách làm sườn nướng đúng kiểu cơm tấm sườn bì với chả trứng tuyệt ngon. Công thức có thêm nhiều bí quyết giúp thành công."
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400; color: #000000;">Một trong những món ăn thân thuộc, dễ ăn và dễ yêu nhất chắc là “Cơm tấm sườn bì” nhỉ? Cơm tấm sườn bì không phải là món ăn  miền Bắc, không rất phổ biến ở Hà Nội, chính vì vậy nên mình lại càng tò mò hơn về món ăn này. Thật ra chưa ăn, mới chỉ nhìn qua dĩa cơm đã tưởng tượng ra là nó rất ngon rồi, thịt mềm thơm phức này, chả trứng béo bùi, bì giòn sần sật lại thêm đồ chua ngọt rất dễ ăn nữa. Có lẽ cũng may mắn vì mình là người có khẩu vị khá dễ thích ứng nên khi nếm thử món ăn này trong Nam thì chỉ thấy: ngon, ngon &amp; ngon thôi (một vài người bạn mình nhận xét là hơi ngọt quá, do ngoài Bắc nấu ăn thường không cho quá nhiều đường). </span></p>
+<p><span style="font-weight: 400; color: #000000;">Ăn xong rồi về nhà lần mò tự làm thử. Món ăn đơn giản mà kiếm cách làm sao khó quá trời. Không phải khó vì không có công thức tham khảo, mà ngược lại, mỗi người nấu một kiểu khác nhau, đặc biệt là món sườn. Chỉ riêng trong Group “Món ngon nhà làm” thôi cũng đã có rất nhiều công thức khác nhau, mà công thức nào cũng nhận được nhiều phản hồi tốt, đến mức mà mình và SD team đã lập hẳn một bảng Excel để so sánh xem các công thức có gì khác nhau, có ưu điểm gì cơ mà. </span></p>
+<p><span style="color: #000000;">Thử đi thử lại, cuối cùng vẫn là quay về cách ướp thịt quen thuộc. Mình là kiểu người thích đồ ăn đậm đà, nhiều hương vị, nhưng mặt khác lại thích đơn giản hoá mọi thứ. Vậy nên các gia vị ướp thịt, sau khi thử đi thử lại mình đã lược bỏ khá nhiều nguyên liệu không mang tới rất nhiều sự khác biệt cho món ăn, chỉ dùng những thứ rất cơ bản thôi. Dựa theo các công thức và kinh nghiệm hỏi được từ các chị em trong Nam thì mình thấy một trong những nguyên liệu tuy ít nhưng quan trọng nhất của sườn nướng kiểu này chính là sữa đặc và sữa tươi. Sữa tươi giúp món ăn giữ độ ẩm, giúp thịt mềm. Thật ra có kiểu dùng nước ép hoa quả (lê, kiwi…) làm thịt mềm nhưng hay dùng trong các cách ướp thịt kiểu khác, mình không muốn sử dụng ở công thức này, sẽ làm lẫn lộn. Sữa đặc không chỉ giúp tạo độ ngọt mà còn giúp thịt đậm đà hơn, dậy mùi hơn, là nguyên liệu mà chắc chắn không nên bỏ qua. À, có một sự khác biệt trong sản phẩm sữa đặc của các hãng khác nhau ở Việt Nam nhé. Tỉ lệ trong công thức dưới đây mình dùng là cho sữa đặc Cô Gái Hà Lan (loại Gold, không phải loại nhãn xanh). Sữa CGHL ít ngọt và không bị gây mùi sữa quá nhiều như các nhãn sữa khác nên khi dùng cho thịt, kể cả với khẩu vị của người Bắc cũng sẽ không thấy quá ngọt, mặc dù vẫn đủ làm cho thịt mềm, béo, thơm. Còn với khẩu vị người Nam, thích ăn ngọt hơn thì chỉ cần tăng lượng lên là ổn.</span></p>
+<p><span style="font-weight: 400; color: #000000;">À, vì mình không có gạo tấm, cũng không mua được bì để làm theo đúng kiểu món ăn của miền Nam, nên công thức này không dám đặt tên là “Cơm tấm sườn bì” mà là “Cơm sườn nướng chả trứng” thôi. Mong là các bạn sẽ thích công thức và cách ướp sườn này :)</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">Video cách làm món ăn này đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" rel="noopener noreferrer" target="_blank">kênh YouTube của Savoury Days.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo <a href="https://youtu.be/E75DWdi4Zco" rel="noopener noreferrer" target="_blank"><strong>link này</strong></a> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="https://youtu.be/AhsvW5TjQfc" rel="noopener noreferrer" target="_blank">cách làm bánh flan này.</a> </strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="font-family: arial, helvetica, sans-serif;"><div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/E75DWdi4Zco" width="560"></iframe></div></span></p>
+<h2><span style="color: #000000;">CÁCH LÀM CƠM SƯỜN NƯỚNG CHẢ TRỨNG</span></h2>
+<p><span style="color: #993300;"><strong>A. Sườn nướng </strong></span></p>
+<p><span style="color: #000000;"><b>Nguyên liệu</b></span></p>
+<ul>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">600g sườn cốt lết (phần thịt lưng dính với xương) </span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">10 gram tỏi</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">20 gram hành khô</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">30 gram (2 thìa canh)  sữa đặc (giúp thịt mềm, ẩm, đậm đà)</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">30 ml (2 thìa canh) sữa tươi không đường (giúp thịt mềm, ẩm)</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">15 ml (1 thìa canh) nước mắm</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">30 gram (2 thìa canh dầu hào)</span></em></li>
+</ul>
+<p><span style="color: #000000;"><b>Cách làm</b></span></p>
+<p><span style="font-weight: 400; color: #000000;">1. Sơ chế nguyên liệu</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Rửa sạch thịt sườn, lọc bỏ bớt phần mỡ thừa và màng bên ngoài. Nếu dùng sườn cốt lết, dùng dụng cụ dần thịt hoặc lưng dao dần nhẹ cho thịt mỏng và mềm bớt </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Tỏi lột vỏ băm nhỏ</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Hành khô băm nhỏ</span></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;">2. Ướp thịt</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Trong một âu thuỷ tinh hoặc hộp nhựa lớn, lần lượt cho vào: hành tỏi băm nhỏ, 2 thìa canh sữa đặc, 2 thìa canh sữa tươi không đường, 1 thìa canh nước mắm, 2 thìa canh dầu hào. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Trộn đều tất cả các nguyên liệu đến khi hoà quyện hoàn toàn. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Cho sườn vào âu, đeo bao tay “massage” nhẹ nhàng đến khi tất cả sườn được bao bởi nước ướp thịt.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Dùng màng bọc hoặc nắp vung đậy kín, ướp khoảng 3 – 4 giờ cho sườn thật ngấm. </span></li>
+</ul>
+<p><span style="color: #000000;"><b>Lưu ý:</b></span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Ướp thịt trong âu thuỷ tinh hoặc nhựa, tránh dùng âu kim loại vì lượng axit trong nước ướp sẽ tác dụng với các chất trong kim loại, ảnh hưởng tới mùi vị của thịt. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Thời gian ướp lí tưởng với thịt lợn (hoặc gà) nướng là 3-4 tiếng ở nhiệt độ phòng không quá nóng hoặc 8 tiếng trong ngăn mát tủ lạnh. Không ướp thịt quá lâu vì protein trong thịt sẽ bị các gia vị phá vỡ, khiến thịt quá mềm, nhão và mất đi độ tươi</span></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;">3. Sau khi thịt ngấm gia vị, bật lò nướng ở nhiệt độ 190 – 200 độ C trước 15 phút. Trong thời gian đó lót giấy bạc vào khay nướng và xếp thịt lên khay. </span></p>
+<p><span style="font-weight: 400; color: #000000;">4. Nướng thịt trong khoảng 20 phút thì tiến hành lật mặt thịt, dùng chổi phết nước ướp pha với chút mật ong lên mặt thịt rồi nướng tiếp trong 5 – 10 phút tuỳ độ dày miếng thịt. Mật ong được phết lên sau để mặt thịt vàng đẹp, không nên cho mật ong từ đầu, thịt sẽ dễ cháy.  </span></p>
+<p><span style="color: #993300;"><strong>B. Chả trứng</strong></span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #000000;"><b>Nguyên liệu</b></span></p>
+<p><strong><span style="color: #000000;">* Phần chả trứng</span></strong></p>
+<ul>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">120 gram thịt ba chỉ</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">½ thìa canh (8ml) sữa tươi không đường</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">½ thìa cafe (3 gram) bột canh</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">1 thìa canh (15ml) dầu hào</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">15 gram hành lá</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">3 quả trứng gà</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">5 gram nấm hương</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">10 gram mộc nhĩ</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">30 gram củ đậu</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">½ thìa canh (8ml nước mắm)</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">* Phần quét mặt</span></strong></p>
+<ul>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">2 lòng đỏ trứng gà</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">½ thìa cafe sữa tươi không đường</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">½ thìa cafe dầu ăn</span></em></li>
+</ul>
+<p><span style="color: #000000;"><b>Dụng cụ:</b></span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Xửng hấp cách thủy</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Khuôn hấp chịu được nhiệt</span></li>
+</ul>
+<p><span style="color: #000000;"><b>Cách làm</b></span></p>
+<p><span style="font-weight: 400; color: #000000;">1. Sơ chế nguyên liệu</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Thịt lợn rửa sạch, lọc bỏ bì và băm nhỏ (băm thịt sẽ ngon hơn xay) </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Nấm hương, mộc nhĩ ngâm trong nước ấm đến khi nở mềm, rửa sạch và băm nhỏ</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Củ đậu gọt vỏ, thái hạt lựu nhỏ</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Hành lá bỏ rễ, rửa sạch, thái nhỏ</span></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;">2. Ướp thịt: nên ướp thịt trước, chả sẽ đậm đà và thơm hơn</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Trong bát đựng thịt lợn vừa băm, bỏ vào ½ thìa canh sữa tươi, ½ thìa cafe bột canh, 1 thìa canh dầu hào, hành lá đã băm nhỏ</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Trộn đều và ướp trong 30 phút</span></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;">3. Trộn trứng</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Sau khi thịt ướp đủ thời gian, đập 3 quả trứng và vào bát thịt</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Bỏ nấm nương, mộc nhĩ, củ đậu vào cùng ½ thìa canh nước mắm, dùng đũa trộn đều</span></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;">4. Hấp chả</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Chống dính khuôn hấp chả: cắt một mảnh giấy nến lót vào đáy khuôn và quét một lớp dầu ăn mỏng quanh thành khuôn</span></li>
+</ul>
+<p><span style="color: #000000;"><b>Lưu ý</b><span style="font-weight: 400;">: Chọn khuôn hấp sao cho lượng chả đổ vào chỉ tới ⅔ khuôn vì chả sẽ nở sau khi hấp. Nếu không có giấy nến có thể dùng dầu ăn để chống dính, tuy nhiên cần quét nhiều dầu để chả lấy ra không bị dính vỡ</span></span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Đặt chả vào nồi hấp cách thủy, dùng khăn sạch phủ lên miệng nồi để tránh hơi nước đọng từ vung chảy xuống</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Đậy nắp hấp ở lửa vừa trong khoảng 15 – 20 phút tới khi chả trứng chín. </span></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;">5. Quét mặt</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Đánh tan 2 lòng đỏ trứng với ½ thìa cafe sữa tươi và ½ thìa cafe dầu ăn</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Khi chả chín (sau khoảng 20 phút), mở vung ra và đổ hỗn hợp quét mặt lên trên, dùng thìa dàn đều</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Đậy vung hấp khoảng 2 – 3 phút rồi mở vung và hấp thêm 7 – 10 phút đến khi lớp trứng trên mặt chín hẳn. </span></li>
+</ul>
+<p><span style="color: #000000;"><b>Lưu ý</b><span style="font-weight: 400;">: ở bước này cần hấp mở vung thì chả trứng mới có màu vàng đẹp. Không nên hấp quá lâu, mặt chả trứng sẽ mất màu. </span></span></p>
+<p><span style="color: #993300;"><strong>C. Nước chấm ăn kèm</strong></span></p>
+<p><span style="color: #000000;"><b>Nguyên liệu</b></span></p>
+<ul>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">100ml nước lọc </span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">40 gram đường</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">30ml (2 thìa canh) nước mắm</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">15 ml (1 thìa canh) dấm ăn</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">20 gram tỏi </span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400; color: #000000;">1 quả ớt tươi</span></em></li>
+</ul>
+<p><span style="color: #000000;"><b>Cách làm</b></span></p>
+
+
+<ul>
+<li style="font-weight: 400;"><span style="color: #000000;"><span style="font-weight: 400;">Trong một chiếc nồi nhỏ, trộn đều 100 ml nước lọc, 40 gram đường, 30 ml nước mắm</span><span style="font-weight: 400;"><br/>
+</span><span style="font-weight: 400;">Vặn lửa vừa, đun đến khi hỗn hợp sôi thì vặn nhỏ lửa, để sôi liu riu đến khi lượng nước cạn còn một nửa, nước mắm hơi sánh lại</span></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Cho từ từ dấm ăn đến khi chua vừa đủ</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Tỏi lột vỏ, băm nhỏ; ớt tươi thái lát</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #000000;">Đợi nước mắm nguội hoàn toàn mới cho tỏi ớt vào, nếu cho lúc nóng tỏi ớt sẽ chìm xuống dưới</span></li>
+</ul>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

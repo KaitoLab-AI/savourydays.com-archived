@@ -1,0 +1,66 @@
+---
+title: "Cách làm bánh mì nguyên cám 100% (với máy làm bánh mì)"
+date: "2015-11-06"
+slug: "cach-lam-banh-mi-nguyen-cam-100-voi-may-lam-banh-mi"
+categories: []
+tags: []
+image: "/wp-content/uploads/2015/11/bmi.jpg"
+description: "Cách làm bánh mì nguyên cám mềm xốp với lớp vỏ giòn, dùng máy làm bánh mì Zojirushi"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Như đã hứa trong bài trước, mình đăng nốt công thức bánh mì nguyên cám 100% dành cho máy làm bánh mì nhé. Mình biết là có khá nhiều bạn đọc của SD có máy làm bánh mì nên hi vọng là bài viết này sẽ mang đến cho các bạn thêm một món bánh ngon và bổ dưỡng nữa cho gia đình :)</p>
+<p>Gọi là bánh mì nguyên cám 100% vì bánh ngày hôm nay sử dụng hoàn toàn bột mì nguyên cám, khác với bánh trong bài trước, dùng 1/2 bột mì nguyên cám và 1/2 bột mì trắng nên tạm gọi là “bánh mì nguyên cám 50%”.</p>
+<p style="text-align: center;"><em>bánh mì nguyên cám 100% với hạt chia và vừng đen </em></p>
+<p><a href=" https://www.flickr.com/photos/savourydays/22434275919/" title=" Whole wheat bread 100% (made with bread machine) by LinhTrang9185, on Flickr"><img alt=" Whole wheat bread 100% (made with bread machine)" class="aligncenter" height="427" loading="lazy" src=" https://farm1.staticflickr.com/637/22434275919_8ae6fb63d9_z.jpg " width="640"/></a></p>
+<p>Công thức trong bài này cũng chỉ nên dùng cho máy làm bánh mì. Như đã giải thích trong bài trước, bột mì nguyên cám có nhiều thành phần “thô” như vỏ cám. Các thành phần này có cạnh sắc nên sẽ làm đứt các sợi Gluten trong bột hoặc làm gluten yếu hơn. Do vậy nên nhồi bột mì nguyên cám khó hơn nhồi bột mì thường rất nhiều. Bột không chỉ mất nhiều thời gian để dẻo dai và mịn, mà còn có thể bị nhão và dính tay nếu cho đủ nước. Còn nếu cho ít nước hơn, dùng nhiều bột khô để bột không dính tay thì bánh sẽ bị khô và cứng. Vì những lí do này mà khi làm bánh mì nguyên cám – không dùng máy – thì trong công thức nên pha trộn một phần bột mì trắng với bột mì nguyên cám. Còn nếu muốn dùng 100% bột mì nguyên cám thì vẫn có thể được nhưng người làm phải có kĩ năng và kiến thức rất tốt về làm bánh mì thì mới cho ra lò bánh ngon được.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><a href=" https://www.flickr.com/photos/savourydays/22205288803/" title=" Whole wheat bread 100% (made with bread machine) by LinhTrang9185, on Flickr"><img alt=" Whole wheat bread 100% (made with bread machine)" class="aligncenter" height="427" loading="lazy" src=" https://farm6.staticflickr.com/5769/22205288803_618184ac8c_z.jpg" width="640"/></a></p>
+<p><strong>Nguyên liệu</strong></p>
+<ul>
+<li><em>3/4 cup (180 ml) nước</em></li>
+<li><em>1-3/4 cup (210 gr) bột mì nguyên cám</em></li>
+<li><em>2 Tbsp (20 gr) đường</em></li>
+<li><em>1 Tbsp (5 gr) sữa bột – không bắt buộc</em></li>
+<li><em>1/2 tsp (3 gr) muối</em></li>
+<li><em>1 Tbsp (14 gr) bơ nhạt (bơ động vật không muối – nếu dùng bơ thực vật thì bớt phần muối ở trên đi)</em></li>
+<li><em>1 tsp (3 gr) men instant</em></li>
+<li><em>20 gr hạt chia và 20 gr hạt vừng đen – rang chín, để nguội</em></li>
+</ul>
+<p>*<span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;"><strong> Lưu ý quan trọng:</strong> </span></span></p>
+<p>– Các cup/ tbsp/ tsp ở trên được đong với cốc và thìa đong đi kèm theo máy. Cốc và thìa này hơi khác so với cốc và thìa đong tiêu chuẩn nên nếu bạn không dùng máy Zojirushi thì nên đong theo gram sẽ chuẩn hơn.</p>
+<p>– Công thức này mình sửa lại từ công thức “Whole Wheat Bread” trong phần Regular bread ở trong sách công thức đi kèm theo máy. Công thức trong sách dùng 270 gram bột nhưng khi làm với lượng bột này thì mình thấy bánh hơi cứng và khô. Sau đó mình có đi tìm hiểu thêm các công thức khác và giảm lượng bột xuống còn 210 gram. Với lượng bột này thì bánh làm ra rất tuyệt, mềm xốp và ẩm với lớp vỏ giòn, vị cũng thơm ngon. Tuy nhiên mình nghĩ tùy loại bột mì (cũ hay mới, hãng nào) mà độ hút ẩm có thể khác nhau. Vì vậy nên khi làm các bạn có thể tự điều chỉnh lượng bột tùy theo ruột bánh. Nếu thấy ruột bánh có dấu hiệu đặc và ẩm ướt thì tăng bột mì, còn nếu ruột bánh khô cứng thì giảm bột.</p>
+<p>– Hạt chia và vừng đen không nhất thiết phải cho vào, nhưng mình hay dùng vì cả hai loại hạt này vì khi nhai miếng bánh có thêm vị tí tách khá vui miệng. Hơn nữa thì vừng rất thơm còn chia cực kì tốt cho sức khỏe.</p>
+<p>– Máy làm bánh mì của mình là Zojirushi BB-HAQ10/ BB-HAC10 (ở châu Á mã máy là HAQ10, còn ở Mỹ là HAC10). Mình dùng chế độ “regular setting” để làm bánh trong hình. Quy trình thông thường của chế độ này là:</p>
+<ul>
+<li>20 phút: nghỉ</li>
+<li>14 – 19 phút: nhồi bột</li>
+<li>64 phút: ủ bột lần 1</li>
+<li>20 phút: nhồi bột sơ lại và ủ lần 2</li>
+<li>45 – 50 phút:  nhồi bột sơ lại và ủ lần 3</li>
+<li>37 – 50 phút: nướng</li>
+</ul>
+<p>Nếu bạn dùng máy của hãng khác thì nên để ý tới quy trình này vì có thể các chế độ/ quy trình khác nhau sẽ cho bánh có mùi vị và ruột bánh, thớ bánh khác nhau. Như Zojirushi thì mình rất thích việc máy không nhồi bột quá nhiều và ủ ba lần. Cách làm này giúp cho thớ bánh vừa đủ dai và xốp, nhưng không làm mất đi nhiều chất dinh dưỡng trong bánh và đảm bảo mùi vị thơm ngon.</p>
+<p>Thông tin thêm về các tính năng của máy các bạn có thể xem tại <strong><a href="/dung-cu-bep-qua-tang-cho-mua-he/" target="_blank">bài viết này</a></strong> hoặc <a href="http://www.amazon.com/dp/B000G32H84/?tag=savodays-20" target="_blank"><strong> Amazon US ở ĐÂY.</strong></a></p>
+<p>Ở Việt Nam hiện tại cũng đã có <a href="http://www.zojirushi.vn/may-lam-banh/may-lam-banh-zojirushi-bb-haq10-4264344.html" target="_blank"><strong>đại lý chính hãng của Zojirushi</strong></a>. Nếu mình không nhầm thì gian hàng của Zojirushi tại AEON mall Hà Nội đang có khuyến mại tới  ngày 10/11, bạn nào quan tâm có thể rẽ qua xem thử máy nhé :)</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Cách làm cụ thể thì mình có quay video lại để các bạn tiện hình dung (video ở phía dưới nhé :) ). Khi làm chỉ có một vài điều cần lưu ý là:</p>
+<ul>
+<li>cho các loại nguyên liệu vào theo đúng thứ tự</li>
+<li>men không được chạm đường, muối hay nước (vì sẽ làm chậm hoạt động của men hoặc chết men)</li>
+<li>trong quá trình máy hoạt động thì không nên mở nắp máy nhiều, đặc biệt là khi bánh đang được ủ lần cuối và nướng.</li>
+<li>Bánh khi nướng xong cần để nguội bớt rồi mới cắt. Nếu cắt khi bánh còn nóng, ruột bánh sẽ bị bết và đặc.</li>
+</ul>
+<p>Nếu không ăn hết, bọc bánh thật kín bằng nilon bọc thực phẩm. Bánh có thể để được trong 3 – 4 ngày mà vẫn ngon. Hoặc nếu trong nhà có lò nướng, các bạn có thể dùng bình xịt, xịt nước bên ngoài bánh rồi nướng ở 170 – 180 độ C trong 5 – 7 phút tùy độ dày của miếng bánh. Bánh lúc này sẽ có lớp vỏ giòn giòn và ruột mềm thơm, nóng hổi như khi vừa nướng xong, quết tí bơ, pate hay mứt quả thì trên cả tuyệt vời :)</p>
+<p>Video được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank"><strong>kênh</strong> <strong>YouTube của Savoury Days</strong></a>. Nếu không xem được tại blog, các bạn có thể xem trực tiếp theo link này: https://youtu.be/pOMFP0VMqI0</p>
+<p>Video có phụ đề tiếng Việt và Anh, các bạn ấn CC để xem phụ đề nhé. Ngoài ra có nút hình bánh xe ở góc dưới bên phải video để chỉnh chế độ HD (xem video đẹp nhất) và đổi ngôn ngữ trong phụ đề :)</p>
+<p>À, các bạn nhớ “Đăng kí/Subscribe” kênh YouTube của SD để nhận được thông báo ngay khi mình có video mới nha :)</p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/pOMFP0VMqI0" width="560"></iframe></div>
+<p>——-</p>
+<p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ email: <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi hành động cố tình vi phạm sẽ chịu xử lí theo quy định của pháp luật.</span></strong></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

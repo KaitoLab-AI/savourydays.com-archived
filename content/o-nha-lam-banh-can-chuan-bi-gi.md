@@ -1,0 +1,59 @@
+---
+title: "Ở NHÀ LÀM BÁNH CẦN CHUẨN BỊ GÌ?"
+date: "2020-04-01"
+slug: "o-nha-lam-banh-can-chuan-bi-gi"
+categories: ["Kinh nghiệm nấu nướng"]
+tags: []
+image: ""
+description: ""
+---
+
+<p>Những ngày tới ở nhà nhiều hơn. Đồ làm bánh thực ra đều là dạng nguyên liệu khô, để được lâu nên chúng ta hoàn toàn có thể chuẩn bị trước để ở nhà dùng dần. Bài này mình viết dành cho các bạn mới, tiếp theo bài <a href="/tu-hoc-lam-banh-nen-bat-dau-nhu-the-nao/"><strong>“Tự học làm bánh nên bắt đầu từ đâu”</strong></a> ngày hôm qua nhé.</p>
+<p>Ngoài dụng cụ cơ bản gồm có: âu trộn, phới lồng, phới dẹt, cân, rây… các bạn có thể xem cụ thể ở đây <a data-ft='{"tn":"-U"}' data-lynx-mode="async" data-lynx-uri="https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.savourydays.com%2Fhuong-dan-chon-dung-cu-lam-banh-cho-nguoi-moi-bat-dau%2F%3Ffbclid%3DIwAR0R5QxsABPZSZqYLM7bVHiKoAO3rdZvvOsjrRmZ_MBHIxmLWmUKWeKijGA&amp;h=AT2o6vdcHuf1d2iqJ1YC_V6oj3hcmUcNjjnqpcypfOn5Ig6GUiwAZE6PYGV-cJX5SGJCINvclO-7qCKpEWc0NQEaOK9SNBNqWhxXg56XpaA-TDbgBKmluPLE-fCqQMilkAz9lmeKhKjveGY24bgsgOjeULq-j34mFI5GtExORpnmTwaz128pMJHxvL8R4UWvUDpZ4m2m6-wb5GVCzRoZB7ym8Xbx5pKXnYArqDfVCS8LTdcN6X-O9JBFLvwpd7-IaJ7c8QlTeH-NfrIJDDCBuht24XD7u12iFQWEbHjd-zN1Hb96Vfq7Z5P2qpY5HUMQzl2ylbYX8MHR9YlHYEHt7OizpdCD-dNPsL-l-9Sk3wWOt4XO5aX5v4InGe3YLJNcz-6dZJqbqCb5sw6IoQhpP0MyhoymO5xKF1V1_IlSQaaN2y4FM1lrMyxWOiFs1Hngiptlst_D7Cj87WYVdjnrc-qv3dZC9cu03hr8CqNKtj-qqpM4wK_3-2i09IHtlXhM__IwA5OTaGDXBgjEcP8Chb7-7gyApqSuOtkX4hVf_TfEaiXVKilKBAe2nibEqUMJ2zr29TUUJp1YAAGWCSijT7D4SeiLiN3PDZ85c-LyYJgVURbqd8YTfKqHrE5DDDP910xXTnW16Q" href="/huong-dan-chon-dung-cu-lam-banh-cho-nguoi-moi-bat-dau/?fbclid=IwAR0R5QxsABPZSZqYLM7bVHiKoAO3rdZvvOsjrRmZ_MBHIxmLWmUKWeKijGA" rel="nofollow noopener noreferrer" target="_blank">/huong-dan-chon-dung-cu-lam-banh…/</a><span class="text_exposed_show"><br/>
+thì chúng ta sẽ cần mấy thứ nguyên liệu sau:</span></p>
+<div class="text_exposed_show">
+<p><span class="_5mfr"><span class="_6qdm">✅</span></span> Bột mì đa dụng (số 11): làm bánh gì cũng được. 1 kg bột có thể làm được khoảng 400 cái su kem tuỳ kích thước, 30 – 40 cái bánh mì tròn cỡ trung bình, 20 cái bánh gato tròn cỡ 16cm.. Nếu muốn làm nhiều bánh mì thì nên mua cả bột làm bánh mì (số 13)</p>
+<p><span class="_5mfr"><span class="_6qdm">✅</span></span> Trứng gà CN: bánh mì mỗi công thức chỉ cần 1 quả nhưng bánh gato sẽ cần 3 – 4 quả</p>
+<p><span class="_5mfr"><span class="_6qdm">✅</span></span> Sữa tươi: nên mua loại tiệt trùng hạn dùng lâu một chút (1-2 lít)</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span class="_5mfr"><span class="_6qdm">✅</span></span> Đường bột mịn (icing) hoặc đường kính trắng hay đường nâu nếu nhà bạn ít ăn đường</p>
+<p><span class="_5mfr"><span class="_6qdm">✅</span></span> Men nở (instant yeast) để làm bánh mì<br/>
+<span class="_5mfr"><span class="_6qdm">✅</span></span> Bột nở (baking powder) và muối nở (baking soda) để làm bánh bông lan, bánh quy</p>
+<p><span class="_5mfr"><span class="_6qdm">✅</span></span> Bơ loại nào cũng được, nên là tảng cứng, khoảng 0.5 kg – 1 kg nếu làm bánh mì, bánh quy, cupcake hay bông lan bơ nhiều</p>
+<p><span class="_5mfr"><span class="_6qdm">✅</span></span> Kem tươi (whipping cream): 1 lít dùng nhoè</p>
+<p><span class="_5mfr"><span class="_6qdm">✅</span></span> Nếu làm tráng miệng không cần lò sẽ cần có: gelatin 20 – 30 lá, bột thạch rau câu, mascarpone (làm tiramisu), bánh lady fingers (làm cốt bánh).</p>
+<p><span class="_5mfr"><span class="_6qdm">✅</span></span> Mấy thứ có thì rất tốt, không có cũng không sao gồm: bột ngô, chiết xuất vani, cream cheese (kem phô-mai), phô-mai bò cười, cream of tartar, bột ca cao, bột trà xanh, hạnh nhân lát và mấy loại hạt.</p>
+<p>Về các công thức làm bánh thì SD có đủ hết từ dễ đến khó, có cả video. Ngoài ra, tụi mình cũng sẽ <strong>GIẢM GIÁ TẤT CẢ CÁC KHOÁ HỌC ONLINE CỦA SD</strong> cho các bạn nào cần. Hướng dẫn đăng kí và chi tiết về lớp các bạn xem tại đây hoặc inbox tụi mình nhé: <a data-ft='{"tn":"-U"}' data-lynx-mode="async" href="https://forms.gle/fULvT2kPw6o7c43q8" rel="nofollow noopener noreferrer" target="_blank">https://forms.gle/fULvT2kPw6o7c43q8</a></p>
+<p>Chương trình học 1 số lớp tiêu biểu có trong hình ở dưới (1 khoá học tất cả các loại bánh trong hình luôn). Thật ra tự xem công thức rồi tự làm vẫn được nhưng học online sẽ có mình “cầm tay chỉ việc” cho các bạn, dù là qua video bài giảng nhưng các hướng dẫn đều rất chi tiết, dễ hiểu. Học viên các lớp Online có rất rất nhiều bạn chưa làm bánh bao giờ nhưng làm lần 1 thành công luôn. Nên nếu muốn tiết kiệm thời gian tìm hiểu, đọc bài và cả học các bánh mới (công thức ở lớp online đa số chưa được đăng ở blog) thì các bạn có thể tham khảo nhé. Thành phẩm, phản hồi của học viên cũ các bạn có thể xem ở đây: <a data-ft='{"tn":"-U"}' data-lynx-mode="async" href="https://www.facebook.com/pg/lophoclambanhsavourydays/photos/?tab=album&amp;album_id=128198915438679&amp;__tn__=-UC-R" rel="nofollow noopener noreferrer" target="_blank">bit.ly/anhtrabailoponline</a></p>
+<p>Cả nhà cần hỏi thêm gì về mua sắm nguyên liệu, cách học như thế nào, nên học từ đâu thì cứ để lại phản hồi ở dưới bài viết này, tụi mình sẽ trả lời sớm nhất có thể nha. À còn về địa chỉ nơi mua nguyên vật liệu thì theo mình biết nhiều cửa hàng bán dụng cụ nguyên liệu làm bánh vẫn mở cửa bình thường. Các bạn có thể vào Facebook của các cửa hàng để cập nhật địa chỉ và hoạt động của họ nhé, dưới đây là một số địa chỉ để tham khảo:</p>
+<p><strong>* Tại Hà Nội</strong><br/>
+(1) Abby tại <a data-lynx-mode="asynclazy" data-lynx-uri="https://l.facebook.com/l.php?u=https%3A%2F%2Fabby.vn%2F%3Ffbclid%3DIwAR0V_Qi8PBTQrETn-6QGQobXu_Hasq_lrHEjkJoweVsI31G_9ZeyFFdICkk&amp;h=AT0VKmMhIH9xtzeFxyscGaUrxortA5heV-X-mSPtsczyZDfQHLOq-Wylu-AQyLhQmQ6peXGfsnKU7K-peB8lAYlRhBLwrzmbeQlLX7C6hMKkglfhSAl0tKvocd2crPfr9FlhyD5ehw" href="https://abby.vn/?fbclid=IwAR0V_Qi8PBTQrETn-6QGQobXu_Hasq_lrHEjkJoweVsI31G_9ZeyFFdICkk" rel="nofollow noopener noreferrer" target="_blank">https://abby.vn/</a> :<br/>
+(2) Vana tại <a data-lynx-mode="asynclazy" data-lynx-uri="https://l.facebook.com/l.php?u=http%3A%2F%2Fdolambanh.com%2F%3Ffbclid%3DIwAR3iXR5Gk2gM7vbElFJXHtvHgfoviSkF4JkNu7O55BDlxFpWl5KjxwOmD0o&amp;h=AT0ZeTslxBC5byydKcheHO-b16IYjDMtKoTCZ8HWEX5Um7WymKmlx2wWBnMC94zZ2EB1BPSdk0V0sbl5VnnEDDjQqWLsL0WdsEI_pDuBmLg6LcQ1HQefP5Fwlero7xq2xoxuK9JQvQ" href="http://dolambanh.com/?fbclid=IwAR3iXR5Gk2gM7vbElFJXHtvHgfoviSkF4JkNu7O55BDlxFpWl5KjxwOmD0o" rel="nofollow noopener noreferrer" target="_blank">http://dolambanh.com/</a><br/>
+(3) Holakitchen- BakerLand: bakerland.vn/ holakitchen.vn, hoặc fanpage: <a class="" data-hovercard="/ajax/hovercard/user.php?id=260383744081159" href="https://www.facebook.com/bakerland.vn/?hc_location=ufi">https://www.facebook.com/bakerland.vn/</a></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><strong>* Tại TP Hồ Chí Minh:</strong><br/>
+(1) Tiệm Cường Dung (Cống Quỳnh): <a data-lynx-mode="asynclazy" data-lynx-uri="https://l.facebook.com/l.php?u=http%3A%2F%2Fcuongdungfoods.com%2Fgioi-thieu.html%3Ffbclid%3DIwAR1wazwoUG1x5m2Mlo2sG8UERZYautk5-gHKkDDDnNCHcY29ZsVHUDgYgAg&amp;h=AT1G3wlmSbsDo_OS978GIwzURkV6QHZ_nmE7p5N_3vIBytNVrcZcDA5N3ySomdcFc5UhTnuuB05C8HU2vAWpyAhbHRNPyb1SMbEsYaMkuv0KADDRy3pS23GiMJW_yA26MqVWoEVVPw" href="http://cuongdungfoods.com/gioi-thieu.html?fbclid=IwAR1wazwoUG1x5m2Mlo2sG8UERZYautk5-gHKkDDDnNCHcY29ZsVHUDgYgAg" rel="nofollow noopener noreferrer" target="_blank">http://cuongdungfoods.com/gioi-thieu.html</a><br/>
+(2) Tân Nhất Hương: <a data-lynx-mode="asynclazy" data-lynx-uri="https://l.facebook.com/l.php?u=https%3A%2F%2Fdungculambanh.com.vn%2F%3Ffbclid%3DIwAR1Agh7jCtCoGj5PFQ7Ruj7cCAcPBbiJWJNtkOiM-6_9bHnF26oPEAICWjY&amp;h=AT1bw_DwW_WuvhHm-xnmTwSJp3jIDO6SAmjRuSRe717nDgbTSKxyfyQp9KWrwT9oSEkrf1ONbLZXSbx51K4VjRAsJt58O8f9_FarDRXScTJXn9Gj0JE8KwE2ykq0hD6Q5LjGOOQu2g" href="https://dungculambanh.com.vn/?fbclid=IwAR1Agh7jCtCoGj5PFQ7Ruj7cCAcPBbiJWJNtkOiM-6_9bHnF26oPEAICWjY" rel="nofollow noopener noreferrer" target="_blank">https://dungculambanh.com.vn</a><br/>
+(3) Phương Hà (ở Hàm Nghi): <a data-lynx-mode="asynclazy" href="https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.phuonghahamnghi.vn%2F%3Ffbclid%3DIwAR2vF1zFeKBFqOFW499jp5uf-jsM2a80fUlJEpW28GS4YjLZdwlcIqaLK9Q&amp;h=AT1UT3-4Q6k3UHQnvKE8AGhQBMsqtnRFP_s4tWHwdJnJDig3a4j9gw54hTt_MOAljXLpMK0aTPwt7yKKByToDXoybqhdNNZMo3irrgUiNBbZfP3IUS8klIWw-mHdBRSp3-LGcMT4mw" rel="nofollow noopener noreferrer" target="_blank">http://www.phuonghahamnghi.vn</a><br/>
+(5) Beemart: <a data-lynx-mode="asynclazy" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.beemart.vn%2F%3Ffbclid%3DIwAR2FnVcFlOH5sW_8Zcq0caSFbwZ2xxPIluVAGzcNfLDasagq7KlmL4qEg7c&amp;h=AT3mPP9v9fKrpPDLdRpxOYLDeYboUUmMWetCeYlimZ6JXg8DUSw8Qtv8h03NQpteGw3MTK6sugsoLnFwgu2FJqVrpxBzxfcDOjZrbkbdxg2big4_rjZnp0CDBTdWwVvr92FGbc6m8g" rel="nofollow noopener noreferrer" target="_blank">https://www.beemart.vn</a><br/>
+(6) Bếp xinh: <a data-lynx-mode="asynclazy" href="https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.bepxinhvn.vn%2F%3Ffbclid%3DIwAR14HU7p35wBpG4M3eEJwbo6QVCrD6_TDk1OK-bov8FqvIJkbBHQMJQC0Vc&amp;h=AT2WnPnaJmiU_UBWGNdfNEyx55uAC2xdIqRr1eLVZhdXGkcwG-gQzGUtAKX20qoovY91lEjCkgNPhCS4FD7lJawYsNE7z56rSXsK2fHrnnU_rr6E77wUMxwA8tuhiZDMUS8ZTjhfGw" rel="nofollow noopener noreferrer" target="_blank">www.bepxinhvn.vn</a><br/>
+(7) Abby (<a data-lynx-mode="asynclazy" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fabby.vn%2F%3Ffbclid%3DIwAR2tvhvlzX-fwoMxAJLjGxnAUIqbcsJXuvMkk-FvkJipfpCPs7uVPCxZ0zk&amp;h=AT0VKmMhIH9xtzeFxyscGaUrxortA5heV-X-mSPtsczyZDfQHLOq-Wylu-AQyLhQmQ6peXGfsnKU7K-peB8lAYlRhBLwrzmbeQlLX7C6hMKkglfhSAl0tKvocd2crPfr9FlhyD5ehw" rel="nofollow noopener noreferrer" target="_blank">https://abby.vn/</a>): 766/6, phường 5, CMT8, Tân Bình, TP. Hồ Chí Minh<br/>
+(8) Metro: mua bơ và các loại nguyên liệu</p>
+</div>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

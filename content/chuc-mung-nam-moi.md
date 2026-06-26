@@ -1,0 +1,32 @@
+---
+title: "Chúc mừng năm mới"
+date: "2019-02-06"
+slug: "chuc-mung-nam-moi"
+categories: ["Bếp nhà mình"]
+tags: []
+image: "/wp-content/uploads/2019/02/Thiệp-năm-mới-15x10.jpg"
+description: ""
+---
+
+<p><img alt="" class="aligncenter size-large wp-image-8061" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/Thiệp-năm-mới-15x10-1024x682.jpg" width="1024"/></p>
+<p>Năm mới đã đến rồi, Linh Trang &amp; toàn thể Savoury days team xin gửi tới các cô, chú, bác, các anh chị em và các bạn bè gần xa của SD những lời chúc tốt đẹp nhất cho năm mới Kỷ Hợi. Mong rằng một năm với rất nhiều điều tốt lành, bình an và thuận lợi sẽ đến với tất cả mọi người <span class="_47e3 _5mfr" title="heart emoticon"><img alt="" class="img" height="16" loading="lazy" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png" width="16"/><span class="_7oe">&lt;3</span></span></p>
+<p>Năm vừa qua là một năm đáng nhớ của SD khi SD đã có căn bếp offline của riêng mình, tuy không rất rộng nhưng lúc nào cũng ấm áp và đầy ắp tiếng cười. Tuyệt hơn nữa là SD giờ đây đã không chỉ là một mình Linh Trang đơn độc, mà đã trở thành một đội đoàn kết, gắn bó, cùng chung quyết tâm mang tới thật nhiều cảm hứng và niềm vui bếp cho bạn đọc của SD. Mong rằng năm tới đây sẽ tiếp tục là một năm với nhiều nhiệt huyết, đam mê và cảm hứng với nhiều khám phá mới trong bếp hơn nữa.</p>
+<p><span class="_47e3 _5mfr" title="heart emoticon"><img alt="" class="img" height="16" loading="lazy" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png" width="16"/><span class="_7oe">&lt;3</span></span> CHÚC MỪNG NĂM MỚI <span class="_47e3 _5mfr" title="heart emoticon"><img alt="" class="img" height="16" loading="lazy" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png" width="16"/><span class="_7oe">&lt;3</span></span></p>
+<p style="text-align: center;"><em>Giới thiệu với cả nhà đội SD trong bữa tiệc cuối năm ạ :)</em></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><img alt="" class="aligncenter size-large wp-image-8060" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/IMG_7662-1024x683.jpg" width="1024"/></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

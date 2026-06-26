@@ -1,0 +1,70 @@
+---
+title: "Món ngon Việt Nam – Offline tháng 4: “Hội ngộ – Sài Gòn xưa và nay”"
+date: "2012-04-16"
+slug: "mon-ngon-viet-nam-offline-thang-4-hoi-ngo-sai-gon-xua-va-nay"
+categories: ["Chuyện hàng ngày"]
+tags: []
+image: "/wp-content/uploads/2012/04/ok.png"
+description: ""
+---
+
+<p>Cuối tuần này sẽ có một hoạt động offline nấu ăn do tạp chí Món Ngon Việt Nam kết hợp với một số bloggers (bao gồm Savoury Days) tổ chức, dành tặng cho các bạn có chung niềm đam mê với ẩm thực. Chương trình mang tên “Hội ngộ – Sài Gòn xưa và nay”, với hoạt động chính là tranh tài nấu ăn các món ăn Nam Bộ và từ đó cùng nhau chia sẻ kinh nghiệm nấu nướng cũng như các kiến thức về ẩm thực khác. Mình nghĩ đây sẽ là một cơ hội và sân chơi rất thú vị dành cho các bạn yêu thích nấu &amp; ăn (như mình :P), cũng là cơ hội tốt để gặp gỡ các bạn cùng sở thích, và học hỏi lẫn nhau nữa… Thật tiếc là mình không ở nhà để có thể trực tiếp tham dự, nhưng mình rất hi vọng qua lần Offline lần này sẽ được làm quen với các bạn cùng sở thích, đặc biệt là các bạn ở TP HCM, và sẽ cố gắng hết sức để hỗ trợ các bạn trong cuộc thi nấu ăn :)</p>
+<p>Thông tin cụ thể về chương trình, đơn vị tổ chức, cách thức đăng kí và giải thưởng các bạn xem thêm trong thông báo ở dưới của Món ngon Việt Nam nhé. Để đăng kí thì các bạn vào link này nha: <a href="http://www.monngonvietnam.vn/user/10618">http://www.monngonvietnam.vn/user/10618</a> (chỉ cần thông tin cá nhân và chia sẻ một mẹo nhỏ về nấu ăn của bản thân thôi :) ).</p>
+<p>Mong sẽ sớm được “gặp” các bạn trong Cộng đồng Savoury Days vào cuối tuần này :)</p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2012/04/ok.png"><img alt="" class="aligncenter wp-image-2324" height="288" loading="lazy" sizes="(max-width: 614px) 100vw, 614px" src="/wp-content/uploads/2012/04/ok.png" title="ok" width="614"/></a></p>
+<p style="text-align: center;">———————</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Hoà cùng không khí rộn ràng của cả nước tưng bừng đón mừng kỷ niệm 37 năm giải phóng miền Nam thống nhất đất nước 30/04/1975. Cộng đồng ẩm thực Món Ngon Việt Nam cùng với các cộng đồng ẩm thực Kokotaru, Kiwisite, KitchenArt và Savourydays hội ngộ cùng nhau và tổ chức một thi tranh tài nấu các món ăn Sài Gòn, món ăn Nam Bộ xưa… Đây sẽ là một cơ hội để những thành viên yêu thích ẩm thực được hội ngộ gặp gỡ, và trao đổi kinh nghiệm cùng nhau. Và đây cũng sẽ là một ngày hội giúp các bạn hiểu hơn về ẩm thực Sài Gòn xưa, từ đó khéo léo biến tấu và sáng tạo ra những món ăn không những thơm ngon, lạ miệng mà vẫn giữ được hương vị quê hương xưa…</p>
+<p><span id="more-2323"></span>Chương trình này do Cộng đồng MNVN cùng với các cộng đồng Chuyên Gia Ẩm Thực tổ chức, dưới sự tài trợ giải thưởng chương trình The Coffee Bean &amp; Tea Leaf, và sự bảo trợ thông tin cuả tạp chí Món Ngon Việt Nam, Báo Người Lao Động và tạp chí Thời Trang Trẻ tạo ra một ngày hội <strong>hội ngộ</strong> giưã các cộng đồng và một cuộc thi trổ tài nấu các món ăn Sài Gòn phải thể hiện được ý tưởng “<strong>Sài Gòn xưa và nay</strong>”.</p>
+<p><strong><span style="text-decoration: underline;">Thời gian:</span></strong></p>
+<ul>
+<li>Tp.HCM, Thứ 7  ngày 21/04/2012.</li>
+<li>Địa điểm: sẽ thông báo chính thức sau</li>
+<li>Từ 8h00 – 13h00</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Điều kiện tham dự: (đăng ký từ thứ 6 14/04/2012 – thứ 4 18/04/2012)</strong></span></p>
+<ul>
+<li>Là thành viên MNVN hoặc cuả các cộng đồng Chuyên Gia Ẩm Thực.</li>
+<li>Các bạn đăng ký để lại thông tin cá nhân: Họ và tên, số điện thoại, điạ chỉ email</li>
+<li>Mỗi bạn chia sẻ một bí quyết, kinh nghiệm mà mình rút ra được trong quá trình nấu ăn hoặc làm bánh cuả mình.</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Thành phần tham dự:</strong></span></p>
+<ul>
+<li>Cộng đồng MNVN</li>
+<li>Cộng đồng Chị Ngọc Linh – Kokotaru.</li>
+<li>Cộng đồng chị Thanh Thuỷ – Kiwisite.</li>
+<li>Cộng đồng chị Chi Anh – KitchenArt.</li>
+<li>Cộng đồng Savourydays.</li>
+<li>Ban giám khảo chương trình: Đầu bếp Cook.Nguyễn – Hoàng Phúc</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Lịch trình chương trình:</strong></span></p>
+<ul>
+<li>8h00                   :  Tập trung</li>
+<li>8.30h – 9h00      :  Giao lưu làm quen với nhau</li>
+<li>9h00 – 10h30     :  Các nhóm thi nấu ăn với nhau</li>
+<li>10h30 – 11h00   :  Chấm điểm và trao quà cho nhóm thắng cuộc</li>
+<li>11h00 – 12h00   :  Các cộng đồng cùng nhau thưởng thức các món ăn, giao lưu, trao đổi cùng nhau</li>
+<li>12h00 – 12h30   : Tổng kết và dọn dẹp</li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Các bên tài trợ/hợp tác:</span></strong></p>
+<ul>
+<li style="text-align: left;">Nhãn hàng Hafele</li>
+<li style="text-align: left;"><a href="http://www.coffeebean.com.vn/VN/default.aspx">Nhãn hàng The Coffee Bean &amp; Tea Leaf Việt Nam</a></li>
+<li style="text-align: left;">Báo Người Lao Động</li>
+<li style="text-align: left;">Tạp chí Thời Trang Trẻ</li>
+</ul>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

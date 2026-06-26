@@ -1,0 +1,49 @@
+---
+title: "Gà chiên “siêu giòn” kiểu Nhật – Chicken Karaage"
+date: "2019-09-19"
+slug: "ga-chien-sieu-gion-kieu-nhat-chicken-karaage"
+categories: []
+tags: []
+image: "/wp-content/uploads/2019/09/cách-làm-gà-chiên-giòn-karaage-banner.jpg"
+description: "Cách làm gà chiên giòn kiểu Nhật - Chicken Karaage đạt chuẩn nhà hàng 5 sao: với lớp vỏ giòn tan, thịt bên trong mềm mà không hề khô hay bã"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #000000;">Mát trời rồi, mà cũng sắp đến cuối tuần nữa, nên tụi mình đặc biệt giới thiệu với các mẹ món gà chiên siêu giòn này nhé ;)</span></p>
+<p><span style="color: #000000;">Món này nằm trong sê-ri đồ Nhật Hàn mà tụi mình thử công thức hồi lâu lâu, là một trong những món đặc biệt thành công. Đợt đó không nhớ vì lí do gì mà tụi mình làm thử khá nhiều loại “chiên giòn” khác nhau. Nên khi làm món này là “công phu” chiên giòn đã luyện rất thâm hậu rồi, làm một lần là chuẩn ngon luôn: Lớp vỏ giòn, mỏng mà thịt gà bên trong vẫn mềm mại, không hề khô bã, cả đội đều cực kì “chim ưng” :D.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8425" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/09/cách-làm-gà-chiên-giòn-karaage-1-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">Bí kíp khi làm món này là ngâm gà với sữa trước khi chiên, và chiên 2 lần, mỗi lần trong thời gian ngắn để độ ẩm của thịt không bị thoát ra ngoài, vẫn đảm bảo ngoài giòn trong mềm. Chỉ đơn giản vậy thôi. À, tụi mình có ướp thịt gà với chút xì dầu và rượu cho hương vị đậm và thơm hơn một chút nữa. Cách làm như sau nhé: </span></p>
+<h2><span style="color: #000000;">CÁCH LÀM GÀ CHIÊN GIÒN KIỂU NHẬT – CHICKEN KARAAGE </span></h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu:</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em><span style="color: #000000;">300gr thịt gà</span></em></li>
+<li><em><span style="color: #000000;">200ml sữa tươi không đường </span></em></li>
+<li><em><span style="color: #000000;">10gr gừng</span></em></li>
+<li><em><span style="color: #000000;">10gr tỏi</span></em></li>
+<li><em><span style="color: #000000;">15ml xì dầu</span></em></li>
+<li><em><span style="color: #000000;">15ml rượu mirin hoặc rượu gạo </span></em></li>
+<li><em><span style="color: #000000;">2ml dầu vừng</span></em></li>
+<li><em><span style="color: #000000;">2gr đường</span></em></li>
+<li><em><span style="color: #000000;">40gr tinh bột khoai tây</span></em></li>
+<li><span style="color: #000000;"><em>dầu ăn để rán gà </em></span></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm:</strong></span></p>
+<p><span style="color: #000000;">1. Gà lọc xương, bỏ da, rửa sạch, cắt thành những miếng nhỏ vừa ăn 4- 5 cm. Ngâm gà với sữa trong khoảng 15- 20 phút. Vớt ra rổ, để ráo.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8428" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/09/gà-chiên-giòn-bước-1-1024x682.jpg" width="1024"/></p>
+<p><span style="color: #000000;">2. Gừng cạo vỏ, rửa sạch, đập giập, băm nhỏ. Tỏi bóc vỏ, băm nhỏ. Ướp thịt gà với gừng tỏi băm, 1 thìa canh (15ml) xì dầu, 1 thìa canh rượu trắng, 1/2 thìa cafe (2ml) dầu vừng), 1/2 thìa cà phê (2 grams) đường. Ướp khoảng 30 phút, có thể bọc kín rồi để thịt trong ngăn mát tủ lạnh 2 – 3 tiếng để thịt được ngấm kỹ gia vị.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8429" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/09/gà-chiên-giòn-bước-2-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">3. Cho dầu vào chảo vừa đủ để chiên ngập thịt. Đun sôi dầu.</span></p>
+<p><span style="color: #000000;">Trong lúc chờ dầu sôi thì trộn đều bột khoai tây với thịt gà đã ướp, sao cho bột được bám ít nhất một lớp mỏng toàn bộ miếng gà. Nếu thích các bạn có thể trộn thêm ít hạt vừng trắng hoặc đen vào hỗn hợp bột này, lớp vỏ sẽ càng thơm và giòn hơn. </span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8430" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/09/gà-chiên-giòn-bước-3--1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">4. Chiên gà lần 1: Thả từng miếng thịt vào chiên trên lửa vừa trong khoảng 2 phút cho tới khi miếng gà vàng đều thì gắp ra. Làm lần lượt tới khi hết thịt. </span><span style="color: #000000;">Lưu ý: không chiên quá nhiều gà trong chảo, sẽ làm hạ nhiệt độ của dầu và làm gà bị mềm.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8431" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/09/gà-chiên-giòn-bước-4-1024x683.jpg" width="1024"/></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #000000;">5. Chiên gà lần 2: Đun sôi dầu trở lại, cho gà vào chiên lửa to trong khoảng 45 giây, miếng gà đạt tới màu vàng nâu đẹp mắt thì vớt ra rổ, để ráo dầu. Gắp thịt gà ra đĩa, dùng nóng.</span></p>
+<p><span style="color: #000000;">*Yêu cầu thành phẩm: gà có lớp vỏ giòn tan, mỏng, không bị mùi bột. Thịt gà ngấm đều gia vị, thơm mùi xì dầu, dầu vừng. </span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8426" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/09/cách-làm-gà-chiên-giòn-karaage-2-1024x683.jpg" width="1024"/></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

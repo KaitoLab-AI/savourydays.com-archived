@@ -1,0 +1,90 @@
+---
+title: "[VIDEO] Cách làm bánh crepe trà xanh ngàn lớp (Matcha mille crepe)"
+date: "2016-02-23"
+slug: "video-cach-lam-banh-crepe-tra-xanh-ngan-lop-matcha-mille-crepe"
+categories: []
+tags: []
+image: "/wp-content/uploads/2016/02/crepe-ngan-lop-tra-xanh.jpg"
+description: "Bài viết chia sẻ cách làm bánh crepe trà xanh ngàn lớp với kem trứng tuyệt ngon, công thức đơn giản, dễ làm và không cần lò nướng, có video cach lam"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Đồ ăn từ Tết để tủ đá cuối cùng đã giải quyết hết. Giờ là lúc tìm một thứ gì đó thật là ngon, thật là ngọt và thật là nhẹ nhàng để “giải ngấy”. Và mình nghĩ ngay tới bột trà xanh (matcha/ green tea powder). Mình thích vị trà xanh lắm, chỉ cần ngửi mùi thôi cũng đã thấy cảm giác thanh mát trong lành tràn ngập rồi. Trà xanh cũng là món có thể dùng để làm nhiều loại đồ tráng miệng ngon. Nhờ hương vị thanh mát và có chút đắng mà trà xanh giống như thứ nguyên liệu lí tưởng để giúp cân bằng trong các món hơi nhiều béo ngậy một chút như các loại bánh phô-mai <em>cheesecake </em>chẳng hạn.</p>
+<p>Đầu năm vẫn còn bận nhiều việc, không có thời gian để bày vẽ lò nướng. Thêm nữa là cũng hơi hơi ngại vụ thử công thức mới rồi nhỡ hỏng sẽ “dông” cả năm thì saooo :P Cho nên mình chọn làm bánh crepe ngàn lớp vị trà xanh. Món crepe kiểu này mình đã giới thiệu một công thức bánh <a href="/cach-lam-banh-crepe-ngan-lop-vi-tiramisu-tiramisu-mille-crepe-cake/" target="_blank"><strong>crepe Tiramisu</strong></a> từ khá lâu rồi và rất được các bạn ủng hộ cũng như gửi về nhiều phản hồi tích cực. Crepe trà xanh thì không có hương vị nồng nàn kiểu quyến rũ như Tiramisu, nhưng lại có sự hấp dẫn riêng của nó, giống như một cô nàng kiêu kì và cao ngạo, khiến cho người ta vì tò mò mà muốn khám phá ấy :)</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/25120567911/" title="crepe tra xanh ngan lop by LinhTrang9185, on Flickr"><img alt="crepe tra xanh ngan lop" class="aligncenter" height="800" loading="lazy" src=" https://farm2.staticflickr.com/1684/25120567911_b8194cd385_z.jpg " width="533"/></a></p>
+<p>Làm crepe ngàn lớp kiểu này rất dễ, không cần nhiều dụng cụ mà nguyên liệu cũng đơn giản. Với bạn nào chưa quen làm crepe thì khi tráng 1, 2 chiếc bánh đầu có thể sẽ lúng túng một chút. Nhưng dần sẽ ổn thôi. Bánh crepe trà xanh mình hay thấy mọi người dùng kem tươi hoặc kem topping. Làm kiểu đó khi ăn mình có cảm giác vị bánh hơi “lì” một chút, không đủ ấn tượng. Cho nên trong công thức này thì mình dùng kem trứng custard trộn với kem tươi, kem vừa thơm vừa ngọt, đủ ngậy nhưng không hề ngấy, thêm vị thơm của trà xanh nữa, ngon kiểu dễ chịu và mê li lắm :)</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu </strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>A. <strong>Crepe trà xanh</strong></p>
+<ul>
+<li><em>3 trứng cỡ vừa, 60 gram/ quả cả vỏ, nếu trứng nhỏ hơn thì đánh tan 1 quả rồi đong thêm trứng cho đủ tổng lượng mà công thức yêu cầu – trứng ở <strong>nhiệt độ phòng </strong></em></li>
+<li><em>470 ml (2 cup minus 2 tsp) sữa tươi không đường – <strong>nhiệt độ phòng </strong></em></li>
+<li><em>40 gr (3 tbsp + 1 tsp) bơ nhạt (bơ động vật không muối) – đun chảy rồi giữ ấm</em></li>
+<li><em>1/4 thìa cafe (tsp) vani chiết xuất – có thể bỏ qua</em></li>
+<li><em>170 gram (1-1/3 cup) bột mì đa dụng</em></li>
+<li><em>10 gram (5 tsp) bột trà xanh (dùng loại nguyên chất, không dùng loại có pha đường để uống)</em></li>
+<li><em>40 gram (1/5 cup minus 1 tsp) đường</em></li>
+</ul>
+<p>B. <b>Kem trứng </b></p>
+<ul>
+<li><em>3 lòng đỏ trứng (18 – 20 gram/ lòng đỏ) – <strong>nhiệt độ phòng</strong></em></li>
+<li><em>75 gram (1/3 C) đường</em></li>
+<li><em>30 gram (1/4 C) bột mì đa dụng</em></li>
+<li><em>300 ml (1-1/4C) sữa tươi – <strong>ấm</strong> </em></li>
+<li><em>1/2 thìa cafe (tsp) vani chiết xuất – có thể bỏ qua</em></li>
+<li><em>3 lá gelatin (6 gram, có thể dùng gelatin bột, lượng tương đương) + 50 ml nước mát để ngâm gelatin</em></li>
+<li><em>300 ml (1-1/4 C) kem tươi (30 – 35% béo) – <strong>để lạnh</strong></em></li>
+<li><em>20 gram (4 tsp) đường</em></li>
+</ul>
+<p>(*)<strong> Ghi chú: </strong></p>
+<ul>
+<li>Dùng bơ động vật cho bánh có mùi vị thơm ngon hơn. Có thể dùng bơ đông vật có muối hoặc bơ thực vật nhưng bánh sẽ có vị hơi mặn một chút</li>
+<li>Có thể thay kem tươi bằng kem topping nhưng vị ngậy của kem sẽ bị giảm khá nhiều (ai không quen ăn ngậy thì nên thay, ai đã quen nếu thay sẽ thấy kem không ngon)</li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>Chi tiết các bước và các lưu ý đều đã có trong video đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank"><strong>kênh YouTube của Savoury Days</strong></a> (các bạn nhớ đăng kí/ subscribe kênh để nhận được thông báo ngay khi video mới vừa đăng nhé). Các bạn có thể xem cụ thể trong video dưới hoặc trực tiếp tại <a href="https://youtu.be/TOkQvF7lFbQ" target="_blank"><strong>link này</strong></a>.</p>
+<p>Video có phụ đề tiếng Anh và tiếng Việt, các bạn có thể bấm nút CC và chọn Ngôn ngữ/ Language trong Setting để chọn phụ đề. Ngoài ra, nhớ chọn HD để xem video rõ nét và đẹp nhất nhé :)</p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/TOkQvF7lFbQ" width="560"></iframe></div>
+<p>——-</p>
+<p><strong>TÓM TẮT CÁC BƯỚC LÀM BÁNH</strong></p>
+<p>A. <strong>Làm phần crepe:</strong></p>
+<p>1. Cho trứng vào âu, đánh trứng tan nhẹ. Cho sữa (không lạnh) vào đánh tan đều cùng trứng. Cho bơ đun chảy và va ni, trộn đều. Nếu vì trứng sữa lạnh làm bơ bị đông hay đóng váng thì đun sôi chút nước trong nồi rồi đặt âu trứng lên miệng nồi, quấy đều, hơi nóng từ nước sôi sẽ giúp bơ tan chảy.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>2. Rây bột mì, bột trà, đường vào âu, trộn đều.</p>
+<p>3. Đổ từng phần bột vào âu trứng sữa, quấy đều cho nguyên liệu hoà tan. Khi trộn xong hết, lọc hỗn hợp qua rây để loại bỏ vụn bột vón. Hỗn hợp sau khi trộn xong sẽ khá loãng. Bọc kín âu, để tủ lạnh 20 – 30 phút.</p>
+<p>4. Đun nóng chảo ở lửa nhỏ – vừa, đun chảy ít bơ trong chảo rồi dùng giấy bếp lau gần sạch bơ.</p>
+<p>5. Múc khoảng 3 thìa canh (40 – 45ml) bột bánh đổ vào chảo. Nghiêng chảo cho bột dàn đều. Rán lửa nhỏ trong 1 – 1.5 phút tới khi rìa bánh hơi vàng, khô và róc khỏi chảo thì lật mặt bánh và rán thêm 45  – 60 giây tới khi bánh chín. Cho bánh ra khay có khe hở, để bánh nguội hoàn toàn.</p>
+<p><strong>Lưu ý</strong>:</p>
+<ul>
+<li>Bột sau khi để lạnh sẽ đặc hơn, càng để lạnh lâu thì càng đặc, nếu bột quá đặc cần cho thêm sữa để bột đủ loãng, có thể chảy tràn tương đối dễ dàng khi đổ vào chảo. Bột quá đặc sẽ làm cho bánh crepe bị dày và khó chín.</li>
+<li>Để lửa nhỏ vừa phải. Lửa quá lớn sẽ làm cho bánh cháy nhanh. Lửa quá nhỏ sẽ làm cho bánh lâu chín và bị dai. Mình để lửa ở mức 2/6 bếp điện. Khi đổ bột vào có tiếng “xèo” nhỏ. Bột bám dính vào chảo ngay lập tức nhưng phần bột ở trên vẫn có thể tự chảy dàn đều ra dễ dàng.</li>
+<li>Luôn quấy đều bột trước khi đổ tránh cho bột lắng xuống đáy âu.</li>
+<li>Một công thức trên làm được 12 – 15 bánh. Nếu bạn không quen làm crepe, có thể sẽ bị hỏng 1, 2 cái đầu, nếu muốn ăn nhiều bánh thì nên tăng thêm 1/3 công thức (thành 4 trứng)</li>
+</ul>
+<p>6. Rán hết phần bột, để bánh nguội rồi dùng bát ô tô to để cắt bớt phần rìa bánh khô (làm theo hướng dẫn như trong video).</p>
+<p>B. <strong>Nhân kem trứng</strong>g</p>
+<p><em>Có thể chuẩn bị nhân kem trong khi đợi bánh nguội. </em></p>
+<p>1. Cho lòng đỏ trứng và đường vào âu, đánh tới khi lòng đỏ vàng nhạt và bông mịn. Rây bột, trộn đều. Cho sữa ấm vào trộn đều, cho sữa từng phần nhỏ, đánh đều để sữa hoà quyện trong hỗn hợp trứng rồi mới cho thêm sữa. Cho vani trộn đều. Lọc hỗn hợp qua rây, đổ vào nồi.</p>
+<p>2. Đun ở lửa vừa, quấy liên tục trong khi đun để tránh trưng bị chín làm hỗn hợp bị vón cục. Khi kem trứng đặc và bóng, nếm thử không thấy có vị bột nữa thì bắc khỏi bếp.</p>
+<p>(*) <strong>Lưu ý</strong></p>
+<ul>
+<li>Nếu kem đặc nhanh và vẫn còn vị bột thì nguyên nhân là do nấu ở lửa quá lớn, có thể cho thêm ít sữa vào kem, quấy đều rồi bắc lên bếp nấu tiếp ở lửa nhỏ tới khi kem chín hoàn toàn</li>
+</ul>
+<p>3. Đổ kem trứng ra bát. Dùng phới quấy mạnh tay trong 1 – 3 phút, giúp kem mịn mượt và nguội nhanh. Dùng nilon bọc thực phẩm phủ lên mặt âu kem, làm sao cho nilon sát mặt kem, không để hở chỗ nào để giúp cho kem không bị đóng váng trên mặt. Để kem vào tủ lạnh 30 – 40 phút tới khi kem nguội hoàn toàn.</p>
+<p>4. Ngâm gelatin vào nước lạnh trong 10 – 15 phút để Gelatin nở mềm. Quay vi sóng hoặc chưng cách thuỷ để gelatin tan. Quấy đều cho gelatin hoà tan đều trong nước, để nguội bớt.</p>
+<p>5. Đánh kem tươi <strong>lạnh </strong>với 20 gram đường ở tốc độ cao. Từ từ đổ Gelatin, từng chút một, vào âu kem. Khi kem tươi chuyển đặc hơn như trong video thì hạ tốc độ thấp và đánh tới khi kem đạt gần bông cứng. Không đánh ở tốc độ cao và đánh quá lâu sẽ làm kem dễ bị tách nước.</p>
+<p>6. Lấy âu kem trứng ra khỏi tủ lạnh. Cho từng phần kem tươi đánh bông vào âu kem trứng trộn đều. Hỗn hợp kem sau khi trộn xong sẽ rất mịn và tương đối đặc. Nếu kem quá lỏng (do kem tươi có hàm lượng béo thấp hoặc không đủ lạnh, do trời nóng…) thì để âu kem vào tủ lạnh 20 – 30 phút để kem đặc hơn.</p>
+
+
+<p>C. <strong>Hoàn thiện</strong></p>
+<p>1. Đặt 1 bánh crepe lên đế bánh, cắt vài miếng giấy sạch lót dưới crepe để kem không dây bẩn ra đế.</p>
+<p>2. Trét kem lên crepe rồi đặt một miếng crepe khác lên. Lặp lại các bước trét kem – đặt crepe tới khi hết crepe và kem. Mình làm tổng cộng 15 lớp crepe và mỗi lớp kem ở giữa khoảng 2 – 3 thìa canh (30 – 40 ml)</p>
+<p>3. Khi đã xong, để bánh vào tủ lạnh trong tối thiểu 2h tới khi kem cứng lại hoàn toàn.</p>
+<p>4. Trước khi ăn, rắc bột trà xanh lên mặt bánh. Ở trong video mình dùng mẫu stencil để trang trí bột trà. Mẫu này mình mua ở Hà Nội nhưng từ lâu rồi nên không nhớ chính xác mua ở cửa hàng nào. Các bạn có thể thử Google tìm nếu quan tâm nhé.</p>
+<p>Bánh có thể bảo quản trong ngăn mát tủ lạnh trong 2 ngày. Chỉ rắc bột trà ngay trước khi ăn để tránh bột trà hút ẩm trong tủ lạnh và bị bết.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/25120572191/" title="crepe tra xanh ngan lop by LinhTrang9185, on Flickr"><img alt="crepe tra xanh ngan lop" class="aligncenter" height="428" loading="lazy" src=" https://farm2.staticflickr.com/1639/25120572191_f69b419b09_z.jpg" width="640"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

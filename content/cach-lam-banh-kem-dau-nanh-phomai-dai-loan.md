@@ -1,0 +1,94 @@
+---
+title: "Cách làm BÁNH KEM ĐẬU NÀNH PHOMAI ĐÀI LOAN"
+date: "2021-06-26"
+slug: "cach-lam-banh-kem-dau-nanh-phomai-dai-loan"
+categories: []
+tags: []
+image: "/wp-content/uploads/2021/06/cach-lam-banh-kem-dau-nanh-phomai-banner.jpg"
+description: "Bánh nhẹ, mềm, xốp, mát và thơm vị đậu nành, rất phù hợp với những ngày hè nóng nực. Công thức có video hướng dẫn cách làm chi tiết"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Món bánh đậu nành với kem pho-mai và “mochi xiên que” này đã rầm rộ ở các tiệm bánh suốt nửa năm nay rồi nhưng đến bây giờ SD team mới có dịp thử nó. Và nó thực sự rất rất hợp với mùa hè, những ngày trời nóng bức ngột ngạt, bởi vì nó không quá ngọt, rất thanh, rất mát, thơm mùi đậu nành, về “texture” lại đa dạng, mềm xốp của bánh gato, dẻo dẻo của bánh nếp và mịn béo của kem pho-mai. Làm hơi nhiều bước nhưng mà đáng công lắm ý cả nhà ạ. À, cách làm thực ra là biến tấu từ công thức cơ bản thôi, nên trông dài thế chứ không hề “đáng sợ” đâu nhé ;)</p>
+<h2><span style="color: #000000;">CÁCH LÀM BÁNH KEM ĐẬU NÀNH PHO-MAI ĐÀI LOAN</span></h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu (bánh tròn đường kính 16cm)</strong></span></p>
+<p><strong><span style="color: #000000;">A. Gato đậu nành</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">3 quả trứng gà (50 gram/quả không tính vỏ)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 gram dầu ăn</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram sữa đậu nành không đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 gram bột làm bánh ngọt (bột mì số 8 – cake flour)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">20 gram bột đậu nành rang</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">45 gram đường vàng</span></em></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;">* Nếu không có bột làm bánh ngọt, các bạn có thể thay 40 gram bột bằng 35 gram bột mì và 5 gram bột ngô. Tuy nhiên dùng bột làm bánh ngọt sẽ ngon hơn. </span></p>
+<p><strong>B. <span style="color: #000000;">Kem đậu nành pho-mai</span></strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">2 lòng đỏ trứng gà</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 gram đường vàng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">10 – 15 gram bột ngô</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">240 gram sữa đậu nành không đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">60 gram kem phomai (cream cheese)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">80 gram kem tươi (whipping cream)</span></em></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;">* Nếu muốn độ lỏng nhiều như trong video thì chỉ dùng 10 gram bột ngô, còn nếu muốn kem chảy ít hơn thì dùng 15 gram bột ngô và bớt đi 20 – 30 gram sữa nhé.</span></p>
+<p><strong><span style="color: #000000;">C. Bánh nếp đậu nành (không bắt buộc)</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram bột gạo nếp</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">10 gram bột đậu nành rang</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">15 gram đường xay</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram sữa đậu nành không đường</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">* Lưu ý:</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">– Sữa đậu nành mình mua sẵn của hãng Ichiban, có bán tại các siêu thị. Nếu dùng sữa đậu nành loại khác có thể độ đặc loãng sẽ khác nhau, và cần điều chỉnh thêm/bớt bột sao cho thành phẩm giống với video nhé.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Bột đậu nành rang mình dùng loại của Nhật (Kinako) rất thơm, bột này có thể mua tại Shopee hoặc các cửa hàng bán đồ Nhật Bản.</span></p>
+<p><span style="font-weight: 400; color: #000000;"><strong>Cách làm</strong> </span></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/iWT_MLQkXcU" width="560"></iframe></div>
+<p><strong><span style="color: #000000;">A. Gato đậu nành (dùng khuôn tròn đế rời đường kính 16cm)</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Chuẩn bị: </span></p>
+<p><span style="font-weight: 400; color: #000000;">– Làm nóng lò nướng ở 160 độ C, hai lửa. </span></p>
+<p><span style="font-weight: 400; color: #000000;">– Tách lòng đỏ và lòng trắng của 3 quả trứng sang 2 âu riêng.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400; color: #000000;">*Lưu ý: Lòng trắng cần đánh bông nên không được để bị dính lòng đỏ. </span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Cho dầu ăn vào âu lòng đỏ, đánh đều. Sau đó cho sữa tươi vào âu lòng đỏ, khuấy đều cho hòa quyện.</span></p>
+<p><span style="font-weight: 400; color: #000000;">3. Trộn đều bột mì, bột ngô và bột đậu nành, rây bột vào âu lòng đỏ, khuấy đến khi bột vừa hòa quyện thì dừng lại.</span></p>
+<p><span style="font-weight: 400; color: #000000;">4. Cho vào âu lòng trắng nhúm muối nhỏ (khoảng ⅛ thìa cafe), đánh ở tốc độ thấp đến khi lòng trắng nổi bọt khí thì cho cream of tarta hoặc chanh/dấm vào, tiếp tục đánh đến khi bọt khí nhỏ lại, lòng trắng ở trạng thái hơi giống bọt xà phòng thì cho ½ số đường vào. Đánh tiếp thêm khoảng 30 giây rồi cho nốt chỗ đường còn lại, tăng tốc độ lên cao nhất và đánh đến bông gần cứng: lòng trắng bóng, dẻo, mịn, khi nhấc que lên có chóp nhọn hơi ngoặt xuống.</span></p>
+<p><span style="font-weight: 400; color: #000000;">5. Lấy ⅓ chỗ lòng trắng đánh bông cho vào hỗn hợp lòng đỏ, trộn nhẹ nhàng bằng phới lồng đến khi lòng trắng hòa quyện, hỗn hợp lòng đỏ lỏng ra bớt. </span></p>
+<p><span style="color: #000000;"><span style="font-weight: 400;">6. Chia chỗ lòng trắng còn lại thành 2 phần, trộn lần lượt vào hỗn hợp bột bằng kĩ thuật fold đến khi vừa hòa quyện thì dừng lại. Lưu ý vét sát đáy âu tránh việc bột đọng ở dưới, khi nướng phần bột này sẽ chìm xuống làm bánh bị bết. Cụ thể về các thao tác đánh trứng, trộn bột các bạn có thể xem tại đây: </span><a href="/video-cach-danh-trung-bang-tay-cach-tron-bot-theo-kieu-fold/" style="color: #000000;"><span style="font-weight: 400;">/video-cach-danh-trung-bang-tay-cach-tron-bot-theo-kieu-fold/</span></a></span></p>
+<p><span style="font-weight: 400; color: #000000;">7. Đổ bột vào khuôn, dàn đều bột và thả khuôn xuống mặt bàn khoảng 2 – 3 lần cho bọt khí vỡ bớt.</span></p>
+<p><span style="font-weight: 400; color: #000000;">8. Nướng bánh ở 150 – 160 độ C trong khoảng 55 – 65 phút tới khi bánh chín vàng, ấn nhẹ tay vào mặt bánh thấy vết lõm phồng trở lại. </span></p>
+<p><span style="font-weight: 400; color: #000000;">9. Lấy bánh ra khỏi lò, úp ngược khuôn trên rack và để bánh nguội hoàn toàn trong khuôn rồi mới gỡ bánh ra. Nếu dùng khuôn đế liền thì sau khi nướng xong cần lấy bánh ra luôn.</span></p>
+<p><strong><span style="color: #000000;">* Lưu ý:</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">– Mặt bánh có thể hơi nứt hoặc lõm là chuyện bình thường vì bánh rất xốp và nhẹ, chỉ cần bánh không xẹp, thắt eo, ruột bánh bông xốp là đạt nha.</span></p>
+<p><strong><span style="color: #000000;">B. Kem phomai đậu nành</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Đặt âu cream cheese vào nồi nước nóng, dùng thìa miết tới khi cream cheese mềm nhuyễn.</span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Đánh tan lòng đỏ trứng với đường tới khi lòng đỏ bông nhẹ và chuyển màu nhạt hơn. Cho bột ngô vào, trộn tới khi hỗn hợp mịn mượt.</span></p>
+<p><span style="font-weight: 400; color: #000000;">3. Làm ấm sữa đậu nành đến khoảng 30 độ C. Đổ sữa vào bát trứng, vừa đổ vừa khuấy đều tới khi hòa quyện hoàn toàn.</span></p>
+
+
+<p><span style="font-weight: 400; color: #000000;"><strong>Lưu ý</strong>: Sữa chỉ làm ấm, có thể sờ tay vào (giống nước tắm của em bé). KHÔNG để hỗn hợp quá nóng, tránh việc làm chín trứng và hỗn hợp bị lợn cợn.</span></p>
+<p><span style="font-weight: 400; color: #000000;">4. Lọc hỗn hợp trứng sữa qua rây cho vào nồi. Khuấy ở lửa vừa tới khi thấy có hơi nóng bốc lên từ nồi thì hạ nhỏ lửa, khuấy đến khi thấy kem đặc lại, nếm thử thấy không còn mùi bột sống.</span></p>
+<p><strong><span style="color: #000000;">* Lưu ý: </span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">– Cần khuấy liên tục hỗn hợp trên lửa nhỏ. Nếu trong quá trình nấu thấy kem bị vón cục (do đun lửa cao quá) thì bắc nồi xuống, dùng phới lồng khuấy mạnh tay cho mịn mượt trở lại rồi nấu tiếp.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nếu kem đã đặc rồi nhưng vẫn còn mùi bột sống (do nấu trên lửa cao quá, kem chưa kịp chín nhưng nước đã bay hơi nhiều làm kem đặc) thì cho thêm sữa tươi và tiếp tục khuấy trên lửa nhỏ nhất.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Độ đặc/loãng của kem trứng ảnh hưởng tới độ chảy của kem. Nếu muốn kem chảy nhiều, kem trứng chỉ đặc vừa phải như trong video nhé.</span></p>
+<p><span style="font-weight: 400; color: #000000;">5. Đổ kem ra bát, dùng nilon bọc thực phẩm dán sát mặt kem, để kem nguội hoàn toàn rồi để kem vào tủ lạnh 2 – 3 giờ tới khi kem lạnh. </span></p>
+<p><span style="font-weight: 400; color: #000000;">6. Đánh 80 gram kem tươi tới khi bông gần cứng, sau đó fold đều với kem đậu nành (đã lạnh).</span></p>
+<p><strong><span style="color: #000000;">C. Bánh nếp đậu nành</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Làm ấm hỗn hợp sữa đậu nành đến khoảng 40 độ C.</span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Trộn đều bột nếp, bột đậu, đường. Cho sữa vào âu bột, trộn tới khi bột hòa quyện thành khối mềm dẻo. </span></p>
+<p><span style="font-weight: 400; color: #000000;">3. Nặn bột thành các viên nhỏ khoảng 15 gram (cỡ viên bánh chay của Việt Nam).</span></p>
+<p><span style="font-weight: 400; color: #000000;">4. Đun sôi 1 nồi nước, thả bánh vào luộc trên lửa vừa tới khi bánh chín và nổi lên thì vớt ra và thả vào âu nước mát. </span></p>
+<p><strong><span style="color: #000000;">D. Hoàn thiện</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Dùng dao nhọn “đục” một lỗ rỗng giữa bánh, phun kem đậu nành vào giữa.</span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Dùng mica trong bọc bên ngoài bánh, cần bọc khít phần mặt bánh để khi phun kem lên không bị chảy.</span></p>
+<p><span style="font-weight: 400; color: #000000;">3. Sau khi rút mica để kem chảy xuống thì đặt xiên bánh nếp và rây bột đậu nành lên mặt bánh.</span></p>
+<p><span style="font-weight: 400; color: #000000;">4. Bảo quản bánh trong ngăn mát, dùng trong 2 – 3 ngày.</span></p>
+<p><span style="font-weight: 400; color: #000000;">Nếu không muốn rút mica như trong video, bạn có thể làm như bánh kem trà sữa này nhé:</span></p>
+<p><span style="color: #0000ff;"><a href="/video-cach-lam-banh-chiffon-tra-sua-tran-chau-pho-mai/" style="color: #0000ff;"><span style="font-weight: 400;">/video-cach-lam-banh-chiffon-tra-sua-tran-chau-pho-mai/</span></a></span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

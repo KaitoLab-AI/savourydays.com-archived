@@ -1,0 +1,45 @@
+---
+title: "Thử bánh mới: Bánh mì Sữa và Bánh mì Sữa chua Mật ong"
+date: "2019-08-20"
+slug: "thu-banh-moi-banh-mi-sua-va-banh-mi-sua-chua-mat-ong"
+categories: ["Bánh mỳ"]
+tags: []
+image: "/wp-content/uploads/2019/08/IMG_8583-1.jpg"
+description: ""
+---
+
+<p><span style="color: #000000;">Hôm nay nhà mình có bánh mì! :)</span></p>
+<p><span style="color: #000000;">Bánh mì hôm nay thử một cách làm mới, với bột cái. Có rất nhiều kĩ thuật làm bột cái khác nhau, nhưng cách mình thử hôm nay là một trong những kiểu đơn giản nhất, vì mục đích sau cùng của việc này, ngoài chuyện vì mình thích có bánh mì ngon hơn để ăn vẫn là hi vọng có công thức tốt để chia sẻ và dạy học. Cho nên chọn kiểu dễ thì các chị em học theo sẽ dễ hơn. </span></p>
+<p><span style="color: #000000;">Dùng bột cái, nghe qua cảm giác phức tạp chứ thực ra chỉ thêm mỗi một khâu trộn bột trước khi đi ngủ. Sáng dậy lấy ra làm, vậy thôi. Đơn giản thế nhưng mà “quyền lực” lắm, có bột cái bánh sẽ ngon hơn nhiều, mềm, dai, ẩm, xốp, nói chung mọi thứ đều xuất sắc xuất chúng hơn.</span></p>
+<p><span style="color: #000000;">Tại sao lại tự nhiên thử bánh mì mới? Bánh mình làm giờ vẫn chưa đủ ngon hay sao? À, hiện tại mấy công thức bánh mà mình chia sẻ tại SD như bánh mì Hokkaido, bánh mì hoa cúc, bánh mì sữa Nhật Bản… đều rất rất ổn. Nhưng mình vẫn muốn làm được bánh ngon hơn nữa. Với lại, bể học là vô tận mà ;) Và nói “tự nhiên” cũng chẳng phải vì vụ làm bánh mì này mình ấp ủ từ lâu rồi, có điều vừa rồi hơi bận chuyện trung thu nên chưa làm được thôi.</span></p>
+<p><span style="color: #000000;">Thật ra từ khi về VN mình làm bánh mì nhiều hơn mà cũng thích làm bánh mì hơn hồi ở châu Âu nhiều. Lý do đầu tiên là ở bên kia mua bánh mì vừa ngon vừa rẻ rất dễ, ở VN thì không dễ lắm. Mà mình cũng hơi ngại vụ bánh  mì cho phụ gia nên thôi cứ tự làm cho lành mà lại hợp khẩu vị, tiết kiệm nữa. Lý do tiếp theo là làm bánh mì thì ai cũng thích ăn, chứ làm bánh ngọt rất khó mời tập đoàn những người sợ đường, sợ kem, sợ sữa, sợ béo ở bên cạnh. Và cuối cùng là mùi bánh mì chín toả ra từ lò là một thứ “liệu pháp tinh thần” cực kì tuyệt vời ý, cho nên nhiều khi kể cả nóng, nhà mình cũng vẫn có bánh mì mới ra lò.</span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="color: #000000;">Nhưng lý do quan trọng nhất, có lẽ là vì mình muốn “chinh phục”: chinh phục các dòng bánh mới, ngon hơn, mềm hơn, chuẩn hơn; chinh phục bản thân; và chinh phục cả một số những định kiến và sự “ì ạch” của bánh mì ở Việt Nam nữa. Dạo gần đây mình rất vui vì có thêm những cửa hàng bánh mới kiểu “bánh mì Sư Phụ”, có bán thêm nhiều loại bánh mì ngọt mềm, thơm ngon. Nếu không có những cửa hàng này, chắc “bánh mì ngọt” sẽ chỉ được giới hạn trong “bánh mì hoa cúc” quá. Mặc dù đúng là bánh mì hoa cúc rất ngon, nhưng ngoài hoa cúc ra còn có tá lả các thứ “hoa” khác cũng ngon không kém ấy. Cho nên mình rất hi vọng sẽ có thể giới thiệu các loại bánh mới, đúng hơn là chia sẻ và hỗ trợ, hướng dẫn các chị em làm được thêm nhiều loại bánh mới, ngon hơn, đẹp hơn. Mà muốn được như vậy thì mình cần phải thử và hiểu chắc chắn về các loại bánh này trước đã. </span></p>
+<p><span style="color: #000000;">Hôm nay mình thử hai công thức có dùng bột cái là bánh mì sữa và bánh mì sữa chua mật ong. Vì là làm lần đầu tiên nên mình làm gần như y hệt hướng dẫn, chỉ điều chỉnh chút ít lượng chất lỏng, để xem bánh ra thế nào. Trong quá trình làm cơ bản không có vấn đề gì mấy. Lý do chính (lại khoe) là dạo này mình thấy trình độ làm bánh mì của mình đã lên vài phần chân kính rồi :D :D :D Chủ yếu là nhờ các lớp học bánh mì. Nhờ vào việc đi dạy, giải thích đủ thứ tình huống và các vấn đề của học viên, rồi hướng dẫn rất nhiều các khâu khác nhau nên mình không chỉ làm quen tay hơn mà còn hiểu thêm được kha khá thứ nữa. Cho nên làm bánh mì vì vậy cũng nhẹ nhàng và “chắc tay” hơn hồi trước khá nhiều. </span></p>
+<p><span style="color: #000000;">Sau khi nhồi bột xong, lúc mang đi nướng thì hơi có vấn đề một chút. Ở trong công thức gốc hướng dẫn nướng ở 220 độ C. Mình thấy hơi lạ vì biết là bánh mì kiểu này chỉ nướng ở tầm 190 – 200 độ C là kịch kim, không thể nướng quá cao, với cả nhiệt lò nhà mình cũng chuẩn nữa nên sẽ không có sự xê dịch. Nhưng vẫn làm theo. May mà cẩn thận sau 10 phút đi kiểm tra thì thấy mặt bánh chuyển màu “rám nắng” lắm rồi. Thế là kịp đậy tờ giấy bạc lên, xong hạ nhiệt nướng tiếp. May thế chứ, làm theo đúng công thức là sau 30 phút ta có món bánh mì tinh than tre rồi. Túm lại vẫn là cái gì mới đều phải thử mới biết chắc chắn được.</span></p>
+<p><span style="color: #000000;">Bánh ra lò, để nguội rồi cắt. Èo, cái bánh mật ong sữa chua lúc cắt đã ưng lắm rồi bởi vì nó mềm oặt ra luôn ý. Trong bánh mình cho thêm một ít hạt jam sữa vị cafe (cái này không mua ở VN, để mình hỏi lại bên bán xem giờ họ còn bán không mới giới thiệu địa chỉ được nha), nên bánh thơm mùi bơ sữa quyện với cafe và mật ong, quyến rũ cực kì ấy. Cơ bản mình rất ưng món bánh này, thớ bánh vừa mềm vừa ẩm vừa xốp, vị ngọt rất vừa phải, ngon gần giống như cái bánh sandwich siêu mềm mà mình được ăn ở Nhật rồi.</span></p>
+<p style="text-align: center;"><span style="color: #000000;"><em>mặt cắt của bánh, lỗ khí chưa nở đều hết do lần 2 vẫn ủ hơi thiếu thời gian </em></span></p>
+<p><span style="color: #000000;"><img alt="" class="aligncenter size-large wp-image-8379" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/08/IMG_8581-1-1024x683.jpg" width="1024"/></span></p>
+<p><span style="color: #000000;"><img alt="" class="aligncenter size-large wp-image-8378" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/08/IMG_8573-002-1024x683.jpg" width="1024"/></span></p>
+<p><span style="color: #000000;">Món bánh mì sữa cũng ngon nhưng không được bằng bánh mật ong sữa chua. Với cả do mình tạo hình hơi ẩu và để quên bột ủ lần 1 hơi quá đà nên ruột bánh chưa đẹp được như mình chờ đợi. Tuy nhiên, lúc nướng mở lò ra thì mùi bánh phải nói là thơm đặc biệt luôn, mặc dù bánh không hề cho thêm bột sữa gì cả. Và tuy thớ bánh chưa đẹp như mong đợi nhưng bánh rất mềm, kiểu bánh mì gối vuông ấy, nhưng tất nhiên là ngon hơn nhiều. Lần sau làm mình sẽ thử với khuôn bánh mì gối xem sao.</span></p>
+<p style="text-align: center;"><span style="color: #000000;"><em>lần sau sẽ lưu ý lượng nước và thời gian ủ để thớ trong ruột bánh đẹp hơn, giống ruột bánh mì mật ong sữa chua hơn </em></span></p>
+<p><span style="color: #000000;"><img alt="" class="aligncenter size-large wp-image-8382" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/08/IMG_8584-1024x683.jpg" width="1024"/></span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #000000;">Hôm nay ngoài vụ nhiệt độ, mình còn rút ra được thêm 1 kinh nghiệm là bánh mì làm với men cái này nở rất ác chiến, nở không chỉ gấp đôi mà chắc phải cỡ gấp 3 – 3.5 lần. Cả hai bánh của mình hôm nay đều có hiện tượng hơi bị “ủ chưa đủ” ở lần thứ 2, mặc dù đã để quá mốc nở gấp đôi rồi. Lần sau mình sẽ lưu ý vụ này, và chỉnh lại lượng chất lỏng nữa, chắc bánh sẽ đẹp hơn nữa, còn ngon thì như hôm nay là quá ổn rùi.</span></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

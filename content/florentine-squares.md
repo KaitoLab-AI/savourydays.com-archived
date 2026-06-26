@@ -1,0 +1,100 @@
+---
+title: "Florentine Squares"
+date: "2012-10-26"
+slug: "florentine-squares"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/10/FlorentineSquares.jpg"
+description: "cách làm bánh ga-tô phủ kem sô-cô-la và mứt dâu mềm mịn thơm ngon"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Món bánh này làm mình nhớ thời cấp 3 của mình ghê gớm. Chả là hồi ấy học buổi chiều, đến 5h30 mới tan học. Các lớp học thêm thì 6h bắt đầu, nên thường tan học một cái là mình chạy ra hàng bánh ngọt ở gần trường, nạp năng lượng để học tiếp ca tối. Cửa hàng bánh có nhiều loại, nhưng chỉ có hai loại bánh mình hay ăn nhất là bánh cuộn và một loại bánh hình chữ nhật, cũng có khi hình tam giác, trên mặt có phủ một lớp đặc đặc, sệt sệt, màu trắng ngà, thêm các đường vân chocolate để trang trí, ăn khá ngọt nhưng kèm với bánh và sữa thì không vấn đề gì. Cả mấy năm đều ăn một loại bánh như thế nên lúc nhìn thấy hình của Florentine squares trong sách mình mừng lắm, bụng bảo dạ nhất định phải thử ngay, tại vì nhớ cái vị ngọt ngọt thơm thơm của cái lớp màu trắng trên mặt ấy quá mà, bao nhiêu năm không ăn rồi.</p>
+<p>Thế mà cuối cùng đến lúc làm, mở tủ ra mới phát hiện là hết sạch chocolate trắng, còn mỗi chocolate đen, thành ra phải đổi lại thành Black Florentine Squares như thế này :P Nhưng cũng không sao vì bánh rất ngon. Phần bạt bánh trong công thức gốc là Genoise nhưng mình muốn thử công thức mới nên tự thay đổi và rất ưng ý với thử nghiệm mới. Bánh mềm và siêu mịn, xốp nhẹ nữa. Phần nhân xen giữa hai lớp bánh thì mình dùng mứt cam mua sẵn. Mứt chua chua ngọt ngọt, cũng ngon nhưng sau này mình thử với nhân kem tươi thì thấy còn ngon hơn, cho nên khi làm ở nhà các bạn có thể thay thế tùy thích nhé. Còn lớp phủ trên mặt bánh là Ganache thì rất quen thuộc rồi :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8124360266/" title="IMG_7651-1 by LinhTrang9185, on Flickr"><img alt="IMG_7651-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8323/8124360266_492fca2163_z.jpg" width="427"/></a></p>
+<p><strong><span style="color: #000000;">Nguyên liệu (8 miếng nhỏ – như trong hình)</span></strong></p>
+<p><span style="color: #800000;"><strong>A. </strong></span><span style="text-decoration: underline;"><strong><span style="color: #800000; text-decoration: underline;">Bạt bánh</span></strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em>3 lòng đỏ trứng gà (khoảng 20gram/ lòng đỏ)</em></li>
+<li><em>10 gram đường</em></li>
+<li><em>40 gram bột mì đa dụng (hoặc cake flour) – <strong>rây mịn </strong></em></li>
+<li><em>30 gram bột ngô (corn starch) – rây mịn </em></li>
+<li><em>35 gram dầu ăn thực vật (<strong>không dùng dầu Olive</strong>)</em></li>
+<li><em>35 gram sữa tươi không đường</em></li>
+<li><em>½ thìa café vanilla extract</em></li>
+</ul>
+<ul>
+<li><em>4 lòng trắng trứng gà (khoảng 30-32 gram/ lòng trắng)</em></li>
+<li><em>1 nhúm nhỏ muối</em></li>
+<li><em>½ thìa café cream of tartar (hoặc 1/2 thìa cafe nước cốt chanh hoặc dấm)</em></li>
+<li><em>50 gram đường hạt mịn hoặc đường bột</em></li>
+</ul>
+<p><span style="color: #800000;"><strong>B. </strong></span><span style="text-decoration: underline; color: #800000;"><strong><span style="color: #800000; text-decoration: underline;">N</span>hân bánh</strong></span>: <em>80-100 gram mứt hoa quả hoặc kem tươi đánh bông tùy thích</em></p>
+<p><span style="color: #800000;"><strong>C. </strong></span><span style="text-decoration: underline;"><span style="color: #800000; text-decoration: underline;"><strong>Ganache phủ mặt bánh</strong></span></span></p>
+<ul>
+<li><em>70 gram kem tươi (whipping cream)</em></li>
+<li><em>70 gram chocolate đen</em></li>
+<li><em>10 gram bơ nhạt</em></li>
+<li><em>10 gram chocolate trắng – đun chảy để vẽ hình</em></li>
+</ul>
+<p>(*) <span style="color: #800000;"><strong><em><span style="color: #000000;">Ghi chú:</span></em> </strong></span>Vì cả nhân bánh và Ganache đều khá ngọt nên mình không cho nhiều đường trong bạt bánh. Nếu bạn thích ăn ngọt hơn thì có thể tăng đường nhé.</p>
+<p><span id="more-3314"></span><strong><span style="color: #000000;">Dụng cụ</span></strong></p>
+<ul>
+<li><em>2 âu trộn</em></li>
+<li><em>Phới lồng đánh trứng</em></li>
+<li><em>Spatula/ phới trộn bột</em></li>
+<li><em>Máy đánh trứng</em></li>
+<li><strong><em>Khay nướng cỡ 20 x 30cm (khuôn làm bánh cuộn)</em></strong></li>
+<li><em>Giấy nến hoặc giấy trắng sạch để lót đáy khay nướng</em></li>
+<li><em>Rack để làm nguội bánh</em></li>
+<li><em>Túi bắt kem &amp; dao trét kem</em></li>
+</ul>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8124360414/" title="IMG_7646-1 by LinhTrang9185, on Flickr"><img alt="IMG_7646-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8055/8124360414_1b8b75f310_z.jpg" width="434"/></a></p>
+<p><strong>Cách làm</strong></p>
+<p><span style="color: #800000;"><strong>A. Đế bánh</strong></span></p>
+<p>1. Bật lò nướng 2 lửa – 165 độ C. Lót giấy nến hoặc giấy A4 ở đáy khuôn. Không chống dính thành khuôn.</p>
+<p>2. Cho lòng đỏ trứng, 10gram đường, bột mì, bột ngô, dầu ăn, sữa tươi và vanilla vào âu. Dùng phới lồng nhẹ nhàng trộn đều theo một chiều. Ta sẽ có một hỗn hợp mịn và khá đặc sệt. * <span style="text-decoration: underline;"><strong>Lưu ý</strong></span>: <em>bột mì, bột ngô và đường<strong> cần phải rây mịn</strong>, nếu không sẽ dễ bị vón cục khi trộn.</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8124360664/" title="IMG_7632 by LinhTrang9185, on Flickr"><img alt="IMG_7632" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8050/8124360664_225139e8a1.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>3. Cho lòng trắng trứng và muối vào một cái âu khác. Dùng máy đánh trứng, đánh ở tốc độ thấp trong khoảng 30 – 45 giây, đến khi bắt đầu nổi bọt khí lớn thì cho cream of tartar. Tăng dần tốc độ máy, đánh đến khi bọt khí trở nên nhỏ li ti, hơi giống bọt xà phòng cạo râu hay bọt xà phòng giặt thì cho đường. Đánh đến khi lòng trắng trứng đạt gần chóp cứng (stiff peak).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8124360610/" title="IMG_7633 by LinhTrang9185, on Flickr"><img alt="IMG_7633" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8323/8124360610_66df8ee1ed.jpg" width="500"/></a></p>
+<p>* <span style="text-decoration: underline;"><strong>Lưu ý:</strong></span></p>
+<p>– Âu đánh &amp; que đánh lòng trắng phải sạch, không được dính chất béo (dầu, mỡ, lòng đỏ).</p>
+<p>– Nên cho đường từ từ, từng chút một, không nên đổ ụp tất cả đường vào âu vì sẽ ảnh hưởng đến độ bông của lòng trắng trứng.</p>
+<p>– Chỉ nên đánh trứng đến gần chóp cứng. Cụ thể là lòng trắng bóng và dẻo, nhấc que lên thấy chóp bám ở đầu que, có thể hơi cong, nhưng không đến mức thẳng đứng nhọn hoắt. Lý do là nếu đánh quá cứng thì khi trộn với hỗn hợp lòng đỏ sẽ rất khó, do hỗn hợp lòng đỏ trong công thức này khá đặc. Ngoài ra, không đánh quá nhiều đến mức lòng trắng trứng bị khô.</p>
+<p><em>Nếu bạn chưa quen với việc đánh bông lòng trắng trứng thì có thể xem thêm bài viết hướng dẫn cách đánh bông lòng trắng trứng tại <strong><a href="/danh-bong-long-trang-trung/">ĐÂY</a></strong> và <strong><a href="/danh-bong-trung-phan-2/">ĐÂY</a> </strong>nhé<strong>. </strong></em></p>
+<p>4. Lấy 1/3 lòng trắng trứng vừa đánh bông cho vào âu đựng hỗn hợp lòng đỏ trứng. Dùng phới lồng trộn đều bằng động tác quấy vòng tròn. Trộn nhẹ tay, theo một chiều. Mục đích của việc làm này là đểu cho hỗn hợp lòng đỏ lỏng hơn, để dễ trộn với lòng trắng trứng hơn, nên các bạn cứ trộn thoải mái, không phải rón rén gì cả.</p>
+<p>5. Chia hỗn hơp lòng trắng còn lại làm 2 phần. Cho từng phần vào âu đựng hỗn hợp lòng đỏ, trộn đều theo <a href="/pancake-va-ki-thuat-fold-trong-lam-banh/">kĩ thuật fold</a>. Lưu ý là trộn nhẹ tay, tránh dằn, ép, .. làm vỡ bọt khí trong trứng. Nếu các bạn đánh trứng đạt thì khi trộn lòng trắng trứng sẽ hòa với lòng đỏ theo dạng sợi trắng như trong hình và việc trộn hai hỗn hợp với nhau khá là dễ dàng, thường chỉ cần vài nhát là hỗn hợp có thể hòa quyện gần hết.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8124342185/" title="IMG_7635 by LinhTrang9185, on Flickr"><img alt="IMG_7635" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8055/8124342185_5554ba1399.jpg" width="500"/></a></p>
+<p>Sau khi trộn xong bột phải đầy âu và nhìn có cảm giác rất mịn, xốp. Nếu bột không còn nhiều và loãng, có nhiều bọt khí to thì có khả năng là trong quá trình trộn bạn đã làm vỡ quá nhiều bọt khí (bánh khi nướng sẽ nở kém hoặc không nở được).</p>
+<p>6. Đổ bột vào khuôn. Dùng spatula dàn mặt bột cho phẳng. Gõ nhẹ khuôn xuống bàn cho vỡ bớt bọt khí to.</p>
+<p>7. Nướng bánh ở nhiệt độ 165 độ C trong khoảng 30-35 phút. Bánh chín là khi có mùi thơm tỏa ra từ lò, mặt bánh vàng nâu, ấn nhẹ lên mặt bánh thấy vết lõm phồng trở lại ngay lập tức.</p>
+<p>* Thời gian nướng có thể thay đổi tùy theo lò, các bạn có thể xem thêm hướng dẫn về việc chỉnh nhiệt độ tại <a href="/chiffon-phan-4-cong-thuc-chiffon-co-ban/">ĐÂY (bước 5) </a></p>
+<p>8. Bánh chín lấy ra khỏi lò. Dùng dao mỏng rọc quanh thành khuôn, lấy bánh ra rack, bóc bỏ lớp giấy lót đế bánh. Để bánh trên rack cho nguội hẳn.</p>
+
+
+<p>B.<span style="color: #800000;"><strong> Nhân bánh &amp; Ganache phủ mặt bánh</strong></span></p>
+<p>1. <strong>Nhân bánh</strong>: Như mình đã nói ở trên, nhân bánh các bạn có thể dùng mứt quả tùy ý thích, hoặc một loại kem như kem tươi đánh bông, kem cream cheese, kem mascarpone…</p>
+<p>2. <strong>Ganache:</strong></p>
+<p>– Bẻ chocolate thành miếng nhỏ, cho vào bát. Cắt nhỏ bơ, cho vào bát cùng chocolate.</p>
+<p>– Đun sôi kem tươi rồi đổ kem vào bát đựng chocolate và bơ. Để nguyên khoảng 2-3 phút rồi dùng thìa hoặc phới lồng quấy đều đến khi chocolate tan và hòa quyện hết với kem tươi và bơ. Ta sẽ có một hỗn hợp sánh và bóng mịn, hơi đặc một chút. Để nguội (thi thoảng nên quấy một lần để tránh cho lớp mặt của Ganache bị đông hoặc đóng váng).</p>
+<p>C. <span style="color: #800000;"><strong>Trang trí bánh</strong></span></p>
+<p>1. Chia đôi bánh theo chiều ngang. Vì bánh làm trong khuôn 20 x 30cm nên sau khi chia mình sẽ có 2 miếng bánh cỡ 20 x 15cm.</p>
+<p>2. Trét mứt hoặc kem lên trên 1 lớp bánh. Đặt lớp còn lại lên trên. Đổ Ganache lên mặt bánh, dùng spatula hoặc thìa dàn cho Ganache phẳng.</p>
+<p>3. Chocolate trắng đun chảy, để hơi nguội – sao cho chocolate đủ lỏng để vẽ trang trí. Cho chocolate vào túi bắt kem, cắt đầu túi, vẽ lên mặt bánh các đường thẳng song song rồi dùng tăm vạch các vạch vuông góc.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8124342131/" title="IMG_7639 by LinhTrang9185, on Flickr"><img alt="IMG_7639" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8467/8124342131_b204cb8891.jpg" width="500"/></a></p>
+<p>Nếu bạn vạch theo hướng ngược nhau thì sẽ có bánh ở hình bên trái, nếu vạch cùng chiều sẽ có bánh ở hình bên phải.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8124342081/" title="IMG_7640 by LinhTrang9185, on Flickr"><img alt="IMG_7640" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8328/8124342081_26e2d3f94a.jpg" width="500"/></a></p>
+<p>D. <strong><span style="color: #800000;">Bảo quản &amp; cắt bánh</span></strong></p>
+<p>– Bánh làm xong nên để nơi khô ráo thoáng mát (nhiệt độ khoảng 20-22 độ C) hoặc ngăn mát tủ lạnh cho lớp kem và ganache hơi đặc lại. Dùng trong 1-2 ngày.</p>
+<p>– Về việc cắt bánh: Sách hướng dẫn dùng dao răng cưa, nhưng mình dùng thử thì thấy là lớp Ganache rất dễ lem nên mình thay bằng dao bình thường có lưỡi rất sắc. Khi cắt các bạn chuẩn bị một bát nước sôi và 1 chiếc khăn ẩm. Nhúng dao qua bát nước, lau sạch rồi cắt gọn gàng, nhanh và dứt khoát. Lau hết phần kem bám trên dao rồi tiếp tục cắt đến hết.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8124360342/" title="IMG_7650-1 by LinhTrang9185, on Flickr"><img alt="IMG_7650-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8052/8124360342_0e223123c8_z.jpg" width="427"/></a>————</p>
+<p>——-</p>
+<p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ mail <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi trường hợp cố tình vi phạm sẽ chịu sự xử lí theo pháp luật.</span></strong></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

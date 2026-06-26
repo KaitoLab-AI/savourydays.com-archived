@@ -1,0 +1,89 @@
+---
+title: "Ga-tô Nhật Bản “mềm như bông, nhẹ như mây”"
+date: "2012-02-17"
+slug: "japanese-cotton-sponge-cake-hay-la-ga-to-nhat-ban-mem-nhu-bong-nhe-nhu-may"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/02/GateauNhatBan1.jpg"
+description: "Ga-tô Nhật Bản, Sponge cake, mem nhu bong, nhe nhu may"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Mình ít thấy mọi người ở nhà làm bánh Ga-tô Nhật Bản này – nói đúng hơn là trên các forum và food blog về ẩm thực, bánh trái của chị em ở VN thì mình hầu như không thấy nhắc đến bánh này. Có vẻ mọi người hay làm Japanese Cotton Cheese Cake hơn. Nhưng mà thực sự là mình thấy bánh này ngon lắm, làm ra bao nhiêu là hết veo bấy nhiêu, bánh mềm và nhẹ bỗng, mịn, và thơm nữa. Làm cũng nhanh, nếu so với Cheesecake thì không phải bận tâm đến khâu nướng cách thủy, thêm nữa là thành phần cũng ít chất béo hơn hẳn (ít hơn đến cả trăm gram cream cheese mà) cho nên ăn cũng đỡ lo lắng :D</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6890601885/" title="IMG_2129-1 by LinhTrang9185, on Flickr"><img alt="IMG_2129-1" class="aligncenter" height="341" loading="lazy" src="http://farm8.staticflickr.com/7182/6890601885_e801583542.jpg" width="500"/></a></p>
+<p>Bạn nào thích <a href="/nhat-ki-hoc-lam-banh-phan-5-foam-cake-va-gateau-hong-kong-gioi-thieu-mot-vai-luu-y/" title="gato">Gato Hồng Kông</a> và Chiffon thì rất nên thử công thức này. Riêng với mình thì có lẽ đây là một trong những loại bánh mà mình làm thành công nhất từ trước đến nay. Bánh này mình làm thường để “ăn vã” thôi, không thêm kem gì cả vì bản thân bánh cũng đã rất ngon rồi. Bánh rất nhẹ nên nếu trang trí thì có lẽ cũng chỉ nên dùng kem tươi hoặc rất ít kem bơ, nặng hơn thì sợ là bánh dễ bị xẹp.</p>
+<p>Ở dưới này phần nguyên liệu mình giới thiệu 2 công thức – mình đã thử cả 2. Một CT 3 trứng cho khuôn tròn đường kính 20cm, một CT 4 trứng cho khuôn tròn 23 cm hoặc khuôn vuông 20x20cm. Ảnh minh họa các bươcs là mình dùng khuôn tròn, còn ảnh sản phẩm là mình dùng khuôn vuông nhé.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6890517143/" title="Japanese Cotton Sponge Cake by LinhTrang9185, on Flickr"><img alt="Japanese Cotton Sponge Cake " class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7054/6890517143_3158141cf4_z.jpg" width="435"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><strong>Nguyên liệu</strong></p>
+<p><em><strong>* Công thức 3 trứng (khuôn tròn đường kính 20cm)</strong></em></p>
+<ul>
+<li><em>20gram bột mỳ đa dụng (all-purpose flour)</em></li>
+<li><em>20gram bột  ngô (corn starch)</em></li>
+<li><em>10gram bơ nhạt (unsalted butter)</em></li>
+<li><em>20gram dầu ăn (dùng dầu thực vật <strong>TRỪ</strong> dầu Olive)</em></li>
+<li><em>30gram sữa tươi không đường</em></li>
+<li><em>3 quả trứng gà (50gram/quả) tách riêng lòng đỏ và trắng</em></li>
+<li><em>60gram đường</em></li>
+<li><em>3ml (1/2 teaspoon) vanilla extract (vani dạng lỏng)</em></li>
+<li><em>1/4 teaspoon cream of tartar (hoặc thay bằng 1/4 teaspoon nước cốt chanh, <strong>nhưng dùng cream of tartar thì tốt hơn)</strong></em></li>
+<li><em>1 nhúm nhỏ muối</em></li>
+<li><em>Vỏ 1 quả cam vàng hoặc 1 quả chanh vàng to bào vụn (không bắt buộc nhưng có thì sẽ thơm hơn rất nhiều)</em></li>
+</ul>
+<p><em><strong>* Công thức 4 trứng (khuôn tròn đường kính 23cm hoặc khuôn vuông 20 x 20cm)</strong></em></p>
+<ul>
+<li><em>25gram bột mỳ đa dụng</em></li>
+<li><em>25gram bột ngô</em></li>
+<li><em>15gram bơ nhạt</em></li>
+<li><em>25gram dầu ăn <em>(dùng dầu thực vật <strong>TRỪ</strong> dầu Olive)</em></em></li>
+<li><em>40gr sữa tươi</em></li>
+<li><em>4 trứng <em>gà (50gram/quả) tách riêng lòng đỏ và trắng</em></em></li>
+<li><em><em>80gram đường</em></em></li>
+<li><em>5ml (1 teaspoon) vanilla <em>extract (vani dạng lỏng)</em></em></li>
+<li><em>1/2 teaspoon cream of tartar <em>(hoặc thay bằng 1/2 teaspoon nước cốt chanh, <strong>nhưng dùng cream of tartar thì tốt hơn)</strong></em></em></li>
+<li><em>1 nhúm nhỏ muối</em></li>
+<li><em><em>Vỏ 1 quả cam vàng hoặc 1 quả chanh vàng to bào vụn</em></em></li>
+</ul>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6890516863/" title="Japanese Cotton Sponge Cake by LinhTrang9185, on Flickr"><img alt="Japanese Cotton Sponge Cake " class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7046/6890516863_661817b3bd_z.jpg" width="450"/></a><span id="more-1798"></span></p>
+<p><strong>Cách làm</strong></p>
+<p>1. Vặn lò 160 độ C (hoặc 145-150 độ C nếu dùng khuôn sẫm màu). Lót một miếng giấy nướng bánh hoặc giấy trắng (loại giấy viết như giấy A4) xuống đáy khuôn, <strong>không</strong> chống dính thành khuôn.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6890517943/" title="2012-02-154 by LinhTrang9185, on Flickr"><img alt="2012-02-154" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7183/6890517943_932ac07281.jpg" width="500"/></a></p>
+<p>2. Rây bột mỳ và bột ngô vào bát, dùng phới lồng đánh trứng cầm tay trộn đều. Dùng nĩa đánh tan nhẹ lòng đỏ trứng, vỏ cam/chanh bào vụn và vanilla.</p>
+<p>3. Đun sôi một chút nước trong nồi. Cho sữa, bơ và dầu ăn vào âu. Đợi nước sôi thì đặt âu lên miệng nồi (<strong>lưu ý: đáy âu không chạm nước)</strong>, dùng thìa hoặc phới lồng đánh trứng quấy đều đến khi bơ tan, hỗn hợp hòa quyện và ấm nóng (khoảng 40-45 độ C,không nóng hơn) (hình 1-2)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6890518213/" title="2012-02-155 by LinhTrang9185, on Flickr"><img alt="2012-02-155" class="aligncenter" height="354" loading="lazy" src="http://farm8.staticflickr.com/7197/6890518213_58605c38a6.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>4. Bắc nồi ra khỏi bếp, rây bột vào âu, nhanh tay trộn đều. Cho lòng đỏ trứng, vanilla và vỏ cam vào, trộn đều để có một hỗn hợp mịn và mượt (hình 3-6)</p>
+<p>5. Dùng một chiếc âu khác để đánh lòng trắng trứng. Để máy ở tốc độ thấp, đánh lòng trắng khoảng 40-50giây, đến khi các bọt khí lớn bắt đầu xuất hiện. Cho muối và cream of tartar vào, tăng dần tốc độ máy lên mức gần cao nhất. Đánh đến khi các bọt khí nhỏ dần, trông gần giống như bọt xà phòng giặt hay bọt cạo râu thì từ từ cho đường vào (cho từng chút một, sẽ mất khoảng 30-40giây để cho hết chỗ đường, trong lúc cho đường vẫn giữ máy chạy ở tốc độ cao). Lòng trắng sẽ bông và đặc dần, đạt chóp mềm (soft peak như trong hình 8). Tiếp tục đánh lòng trắng trứng đến khi bông cứng (stiff-peak) (hình 9-10).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6890517715/" title="2011-11-133 by LinhTrang9185, on Flickr"><img alt="2011-11-133" class="aligncenter" height="354" loading="lazy" src="http://farm8.staticflickr.com/7202/6890517715_017563d828.jpg" width="500"/></a></p>
+<p><strong>Ghi chú:</strong></p>
+<p><em>– Lòng trắng trứng ở <strong>nhiệt độ phòng</strong>, <strong>không dính</strong> tạp chất, đặc biệt là các chất béo như bơ, dầu, mỡ, lòng đỏ.</em></p>
+<p><em>– Âu đánh và que đánh phải <strong>sạch và khô</strong>, không dính chất béo như bơ, dầu mỡ, long đỏ..</em></p>
+<p><em>– Với công thức này nhất định phải đánh lòng trắng trứng đạt đến “stiff-peak” (bông cứng). Khi đạt đến stiff peak thì lòng trắng sẽ rât bông và “cứng”, đánh cảm giác nặng tay (nếu dùng máy đánh trứng cầm tay hoặc đánh bằng phới lồng cầm tay). Nhìn bên ngoài thấy lòng trắng bóng mịn và cảm giác lòng trắng dẻo. Nhấc que lên thấy trứng dính trên đầu que, hoàn toàn không rung rinh hay lay chuyển gì (phần chóp nhọn cũng thẳng đứng và không oặt xuống). Nếu lấy thìa xúc thử sẽ thấy lòng trắng đóng thành miếng như trong hình 11-12. Lòng trắng đánh đến đây là vừa chuẩn, không nên đánh lâu hơn nữa vì có thể sẽ làm cho lòng trắng bị “khô”, hiện tượng là lòng trắng không còn bóng mịn mà lồng phồng và rời rạc giống bọt xà phòng giặt. </em></p>
+<p>6. Lấy 1/3 chỗ lòng trắng trứng cho vào âu bơ &amp; lòng đỏ ở (4). Quấy đều, thoải mái (hình 13). Mục đích của bước này là làm cho hỗn hợp bơ &amp; lòng đỏ loãng hơn, để về sau trộn với lòng trắng dễ hơn nên cả nhà cứ quấy thoải mái, không phải rón rén gì cả.</p>
+<p>7. Chia chỗ lòng trắng còn lại thành 2 phần, lần lượt cho vào âu. Dùng <a href="/?p=910">kỹ thuật fold</a> trộn đều sau mỗi lần thêm lòng trắng, hỗn hợp bột cuối cùng sẽ mịn &amp; mượt (hình 14-15).</p>
+<p><strong>Ghi chú</strong>:</p>
+<p><em>– Khi trộn các hỗn hợp nhẹ &amp; nhiều bọt khí như lòng trắng trứng đánh bông, luôn trộn theo cách đảo &amp; xúc từ dưới lên, để bột từ dưới phủ lên trên lòng trắng, không quấy vì dễ làm xẹp hoặc vỡ quá nhiều bọt khí, bánh sẽ nở kém.</em></p>
+<p><em>– Trộn nhẹ tay, dứt khoát và <strong>theo một chiều</strong> – không đảo xuôi ngược lung tung nhé.</em></p>
+<p>8. Đổ bột vào khuôn. Vỗ nhẹ hoặc gõ nhẹ khuôn xuống bàn cho mặt bột được dàn phẳng và các bọt khí to vỡ bớt (hình 16).</p>
+<p>9. Đặt khay nướng sao cho <strong>khuôn ở chính giữa lò nướng </strong>(mình đặt thấp hơn khe chính giữa 1 nấc). Nướng ở nhiệt độ quy định (hai lửa, cả trên &amp; dưới) trong khoảng 45 phút hoặc đến khi bánh chín vàng mặt, ấn nhẹ lên mặt bánh thấy lập tức phồng trở lại, cắm que thử vào giữa bánh rút lên thấy que sạch và khô.</p>
+<p><em>Trong hình dưới là bột trước khi nướng (hình 16), sau khi ở trong lò khoảng 20 phút (hình 17), sau khoảng 40 phút (hình 18) và bánh sau khi lấy khỏi khuôn (vuông) (hình 19-20).</em></p>
+
+
+<p><a href="http://www.flickr.com/photos/55490207@N05/6890552209/" title="2012-02-156 by LinhTrang9185, on Flickr"><img alt="2012-02-156" class="aligncenter" height="354" loading="lazy" src="http://farm8.staticflickr.com/7205/6890552209_e27c4ca1cf.jpg" width="500"/></a></p>
+<p>Bánh chín lấy ra khỏi lò và lập tức dùng dao mỏng rạch quanh thành trong của khuôn, đặt rack lên mặt khuôn rồi úp ngược để lấy bánh ra. <em>Bánh <strong>rất nhẹ </strong>nên khi lấy cả nhà nhẹ tay thôi nhé :) </em>Mình luôn làm cách này chứ không úp ngược khuôn đợi nguội mới lấy ra, và chưa bao giờ bánh bị xẹp mặt hay lõm đáy, thắt eo cả.</p>
+<p>* <em><strong>Nếu bánh sau khi nướng gặp phải một trong số các hiện tượng sau đây….</strong></em></p>
+<p>– Bánh nở kém, thấp, ruột bánh không tơi xốp mà hơi đặc, dính, bết.</p>
+<p>– Bọt khí to, bánh kém mịn màng</p>
+<p>– Bánh xẹp trong quá trình nướng, xẹp sau khi lấy ra khỏi lò nướng, lõm đáy hoặc… lõm 1 phần nào đó.</p>
+<p><em><strong>………thì hãy kiểm tra lại các điểm sau:</strong></em></p>
+<p>– Trứng có tươi hay không? Trứng có đủ trọng lượng theo công thức hay không (50-55gram/ quả không tính vỏ)</p>
+<p>– Lòng trắng có đánh bông đạt hay không?</p>
+<p>– Trộn lòng trắng với lòng đỏ có kỹ quá hay không</p>
+<p>– Nhiệt độ lò nướng có ổn định và chính xác không (nhất là khi bánh cháy mặt mà trong chưa chín thì nhiều khả năng là do nhiệt độ quá cao). Với dạng bánh kiểu Sponge/ Chiffon như thế này, mình thấy để nhiệt độ thấp và nướng trong thời gian lâu để bánh nở từ từ có vẻ tốt hơn, đảm bảo bánh vững vàng hơn, hạn chế hiện tượng xẹp mặt sau khi lấy ra khỏi lò.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6890518601/" title="Japanese Cotton Sponge Cake by LinhTrang9185, on Flickr"><img alt="Japanese Cotton Sponge Cake " class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7205/6890518601_21e4d1c129_z.jpg" width="431"/></a></p>
+<p>Chúc cả nhà thành công với món bánh này nhé :)</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

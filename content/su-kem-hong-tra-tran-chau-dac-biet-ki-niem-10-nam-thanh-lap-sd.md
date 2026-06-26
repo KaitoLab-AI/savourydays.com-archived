@@ -1,0 +1,142 @@
+---
+title: "SU KEM HỒNG TRÀ TRÂN CHÂU (Đặc biệt kỉ niệm 10 năm thành lập SD)"
+date: "2021-05-07"
+slug: "su-kem-hong-tra-tran-chau-dac-biet-ki-niem-10-nam-thanh-lap-sd"
+categories: []
+tags: []
+image: "/wp-content/uploads/2021/05/IMG_9343-scaled.jpg"
+description: "Bánh su kem hồng trà trân châu này có phần vỏ giòn rụm với kem hồng trà thơm, ngậy béo rất ngon, kết hợp với trân châu giòn dẻo, là món tráng miệng"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<div class="" data-block="true" data-editor="uk92" data-offset-key="96pqm-0-0"></div>
+<div class="" data-block="true" data-editor="uk92" data-offset-key="7fot9-0-0">
+<div class="_1mf _1mj" data-offset-key="7fot9-0-0"><span style="color: #ff0000;">** Để chào mừng SD tròn 10 năm tuổi, hiện đang có chương trình ƯU ĐÃI 20% HOC PHÍ cho TẤT CẢ các LỚP HỌC LÀM BÁNH của SD, chi tiết học phí và cách đăng ký có tại đây:</span> <a href="http://bit.ly/dangkykhoahocSD">bit.ly/dangkykhoahocSD </a><span style="color: #ff0000;">hoặc các bạn có thể inbox Facebook Savoury Days nha &lt;3</span></div>
+<div data-offset-key="7fot9-0-0">————————</div>
+</div>
+<p><span style="color: #000000;">Ngày 2/5 vừa rồi, SD tròn 10 năm tuổi. Vì là một dấu mốc rất đáng nhớ nên cả tháng 5 này tụi mình sẽ tổ chức nhiều hoạt động khác nhau để kỉ niệm và chúc mừng, và thay lời cảm ơn với các bạn đọc đã luôn theo dõi, ủng hộ và yêu mến SD trong thời gian qua nữa :)</span></p>
+<p><span style="font-weight: 400; color: #000000;">Một trong số các hoạt động này là “dự án nhìn lại 10 năm” để điểm lại những món bánh nổi bật nhất trong mỗi năm, cũng như những công thức đặc biệt của SD qua từng năm, từ thời điểm mới thành lập đến bây giờ. Và tất cả những công thức này sẽ đều được nâng cấp lên một phiên bản mới ngon hơn, phù hợp với khẩu vị và xu hướng bánh ngọt hiện tại hơn, “thử thách” hơn nữa. Món mở màn của chuỗi các công thức đặc biệt này – REPLY 2011 – món bánh của năm 2011 chính là SU KEM!!!</span></p>
+<p><span style="font-weight: 400; color: #000000;">Vào thời điểm năm 2011 – năm đầu tiên mình viết blog, mình nghĩ có lẽ đó là thời điểm đỉnh cao của phong trào “tự làm bánh su kem tại nhà”. Trước đó, mình nhớ su kem chỉ có thể mua ngoài tiệm với giá khá đắt. Loại bánh nhỏ xinh, ngậy béo, mát lạnh này luôn là mơ ước của hầu hết tụi trẻ con thời ấy. 10 năm đã trôi qua, nhưng độ hot của su kem thì không hề thay đổi. Chỉ có điều su kem giờ đã trở thành một món rất quen thuộc và cơ bản trong bếp của các homebaker, không nhất thiết phải ra hàng mua, tự làm ở nhà chúng ta cũng hoàn toàn có thể cho ra đời nhiều món bánh su khác nhau rất ngon lành. </span></p>
+<p><span style="font-weight: 400; color: #000000;">Với phiên bản su kem 2021, tụi mình làm phần nhân kem hồng trà với trân châu đường đen. Nhân hồng trà siêu siêu ngon, ngậy béo vừa phải và rất thơm mùi trà và cực kì hợp với vỏ su giòn nữa. Mặc dù tụi mình hàng ngày ăn ngủ với bánh ngọt, và có phần “thờ ơ” với những loại bánh đã quá quen như su kem, nhưng cũng phải gật gù tâm đắc khi ăn su kem nhân hồng trà này :D Cách làm phức tạp hơn một chút nhưng rất dễ, và rất rất xứng đáng nha ;)</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8759" height="1024" loading="lazy" sizes="(max-width: 686px) 100vw, 686px" src="/wp-content/uploads/2021/05/2011-Poster-banh-su-kem-686x1024.jpg" width="686"/></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<h2>CÁCH LÀM BÁNH SU KEM HỒNG TRÀ ĐƯỜNG ĐEN</h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu </strong></span></p>
+<p><span style="color: #000000;"><b>A. Vỏ giòn đường đen</b></span></p>
+<ul>
+<li><span style="font-weight: 400; color: #000000;">4<em>0 gram bơ động vật không muối (để mềm ở nhiệt độ phòng trong khoảng 5 – 10 phút, ấn tay vào thấy bơ lún xuống nhưng không được chảy nước)</em></span></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram đường nâu Hàn Quốc</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram bột mì đa dụng</span></em></li>
+</ul>
+<p><span style="color: #000000;"><b>B. Vỏ bánh</b></span></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">65 gram bơ động vật không muối</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">120 gram nước nóng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">3 gram đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">⅛ thìa cafe (tsp) muối</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">65 gram bột mì</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">115 gram trứng gà (đánh tan)</span></em></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;">Lưu ý: Lượng trứng này tương đương với 2,5 – 3 quả trứng tùy vào kích thước trứng. Các bạn có thể đập 2 quả trứng và cân trọng lượng, nếu thiếu thì đánh tan 1 quả trứng nữa và cân từ từ đến khi đủ.</span></p>
+<p><span style="color: #000000;"><b>C. Trân châu đường đen (không bắt buộc)</b></span></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">100 gram trân châu khô</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 lít nước</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50-70 gram đường đen Hàn Quốc</span></em></li>
+</ul>
+<p><span style="color: #000000;"><b>* Lưu ý:</b></span></p>
+<p><span style="font-weight: 400; color: #000000;">– Có thể dùng trân châu màu đen hoặc trắng tùy thích. Mình dùng trân châu trắng, sau khi ngâm đường nâu trân châu chuyển màu ánh vàng rất đẹp.</span></p>
+<p><span style="color: #000000;"><span style="font-weight: 400;">– Trân châu các bạn có thể mua sẵn hoặc tự làm theo công thức dưới đây: </span><a href="/cach-lam-tra-sua-tran-chau-va-thach-rau-cau-pho-mai/" style="color: #000000;"><span style="font-weight: 400;">/cach-lam-tra-sua-tran-chau-va-thach-rau-cau-pho-mai/</span></a></span></p>
+<p><span style="font-weight: 400; color: #000000;">– Trân châu sẽ bị cứng nếu để trong tủ lạnh qua ngày, vì thế nếu muốn cho thêm trân châu thì chỉ nên ăn trong ngày hoặc bơm trân châu vào trước khi ăn. Tuy nhiên bánh dù không có trân châu thì đã rất ngon rồi nên các bạn có thể bỏ qua phần trân châu này nhé. </span></p>
+<p><span style="color: #000000;"><b>D. Kem hồng trà (đặc biệt ngon :D)</b></span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><strong><span style="color: #000000;">* Phần 1:</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">300 gram kem tươi</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">20 gram hồng trà khô</span></em></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;"><strong>* Phần 2</strong>:</span></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">180 gram nước hồng trà (xem cách làm ở dưới)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram sữa tươi</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">2 lòng đỏ trứng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">25 gram đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">15 gram bột ngô</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 tsp chiết xuất vani</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram socola trắng</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">* Lưu ý:</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">– Bơ dùng loại bơ động vật không muối, không dùng các loại bơ thực vật (như bơ Tường An, Meizan).</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Chất lượng trà càng tốt thì vị trà càng thơm và đậm hơn. Lượng trà sử dụng có thể tăng giảm tùy khẩu vị.</span></p>
+<p><span style="color: #800000;"><strong>Cách làm </strong></span></p>
+<p><span style="color: #000000;"><b>A. Vỏ giòn đường đen</b></span></p>
+<p><span style="font-weight: 400; color: #000000;">Cụ thể thao tác làm vỏ giòn các bạn xem tại đây nhé, mình dùng đường nâu Hàn Quốc thay cho đường vàng, còn lại :</span></p>
+<p><span style="color: #000000;"><a href="/cach-lam-banh-su-kem-vo-gion-xu-craquelin/" style="color: #000000;"><span style="font-weight: 400;">/cach-lam-banh-su-kem-vo-gion-xu-craquelin/</span></a></span></p>
+<p><span style="font-weight: 400; color: #000000;">Phần vỏ giòn nên cán mỏng một chút thì bánh sẽ nở tròn đẹp, lớp vỏ cũng phủ đều đẹp hơn.</span></p>
+<p><span style="color: #000000;"><b>B. Vỏ bánh su kem</b></span></p>
+<p><span style="color: #000000;"><b><i>Thao tác trộn bột  làm vỏ bánh cụ thể xem tại đây: </i></b><span style="font-weight: 400;">/video-cach-lam-su-kem-vo-xu-vi-yen-mach-hanh-nhan-kem-tra-earl-grey/</span></span></p>
+<ol>
+<li><span style="font-weight: 400; color: #000000;"> Sau khi trộn xong, cho bột vào túi bắt kem, cắt đầu túi khoảng 1cm và bóp bột thành hình tròn có đường kính khoảng 3 – 4 cm (bằng với đường kính của phần vỏ giòn). Sau khi bóp xong bột sẽ hơi chảy ra nên các bạn bóp bột bé hơn mong muốn một chút thì bột chảy ra là vừa. </span></li>
+<li><span style="font-weight: 400; color: #000000;"> Đặt phần bột vỏ giòn (đã đông cứng) lên bột bánh su.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Nướng bánh ở 200 – 210 độ C trong 12 – 15 phút, khi mặt bánh bắt đầu vàng thì hạ xuống 180 – 190 độ và nướng thêm 15 – 17 phút đến khi mặt bánh khô ráo hoàn toàn. </span></li>
+</ol>
+<p><span style="color: #000000;"><b>Lưu ý:</b></span></p>
+<ul>
+<li><span style="font-weight: 400; color: #000000;">Nướng trong nhiệt độ cao ở những phút đầu tiên sẽ giúp phần chất lỏng sôi và tạo ra nhiều hơi nước, giúp bánh nở cao hết cỡ. Sau đó thì hạ nhiệt độ để vỏ bánh cứng lại, hơi nước thoát ra hết, bánh khô ráo và không bị xẹp sau khi mang ra khỏi lò. Trong quá trình nướng nếu phần vỏ giòn của bạn bị xém quá mà bánh chưa đủ khô ráo thì trong những phút cuối, các bạn có thể mở cửa lò thật nhanh tay và để một tờ giấy bạc che mặt bánh, giúp mặt bánh không bị cháy. Tuy nhiên việc mở cửa lò chỉ được phép thực hiện trong những phút cuối, khi bánh đã khá cứng cáp, và phải làm thật nhanh tay.</span></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;">Các lưu ý quan trọng và thất bại thường gặp khi làm bánh su kem (tại sao bánh không nở? tại sao bánh xẹp?v.v..) mình đã tổng hợp tại đây: <a href="/tai-sao-vo-banh-su-kem-choux-cream-puff-khong-hay-xep-sau-khi-nuong-ct-choux-tra-xanh/">/tai-sao-vo-banh-su-kem-choux-cream-puff-khong-hay-xep-sau-khi-nuong-ct-choux-tra-xanh/</a></span></p>
+<ol start="4">
+<li><span style="font-weight: 400; color: #000000;"> Sau khi nướng xong, để bánh nguội hoàn toàn.</span></li>
+</ol>
+<p><span style="color: #000000;"><b>C. Trân châu đường đen</b></span></p>
+
+
+<ol>
+<li><span style="font-weight: 400; color: #000000;">Đun sôi 1 lít nước, cho trân châu vào khuấy đều ở lửa to đến khi trân châu nổi lên trên bề mặt nước thì hạ xuống lửa nhỏ vừa, để sôi liu riu thêm 20 phút nữa. Trong lúc đun thỉnh khoảng khuấy đều để trân châu không bị cháy. </span></li>
+<li><span style="font-weight: 400; color: #000000;"> Sau khi đun khoảng  20 phút, bắc nồi xuống, đậy vung và ủ trân châu thêm 10 phút. Sau đó đổ trân châu vào rây để lọc bỏ phần nước, không cần rửa lại trân châu.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Đổ trân châu ra bát sạch cho đường đen vào và trộn đều, để trân châu nguội hẳn ở nhiệt độ phòng.</span></li>
+</ol>
+<p><span style="color: #000000;"><b>D. Kem hồng trà</b></span></p>
+<p><strong><span style="color: #000000;">* Phần 1: Kem tươi vị trà</span></strong></p>
+<ol>
+<li><span style="font-weight: 400; color: #000000;"> Cho kem tươi và trà khô vào nồi đun ở lửa nhỏ đến khi ấm bốc hơi (khoảng 50-60 độ).</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Tắt bếp, đậy nắp nồi, ủ trà trong khoảng 30-60 phút.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Lọc bã trà qua rây (giữ lại bã trà), ta được phần kem tươi vị trà. Dùng màng bọc thực phẩm bọc sát mặt kem, để lạnh khoảng 3-4 giờ (BẮT BUỘC phải để kem lạnh lâu, không rút ngắn thời gian làm lạnh).</span></li>
+</ol>
+<p><strong><span style="color: #000000;">Phần 2: Kem custard hồng trà</span></strong></p>
+<ol>
+<li><span style="font-weight: 400; color: #000000;"> Đun sôi 220 gram nước, đổ vào phần bã trà lọc từ kem tươi (phần 1), ủ trà trong khoảng 20 phút. Lọc lấy 200 gram nước trà, hòa với 50 gram sữa tươi (nếu phần nước lọc trà không đủ 200 gram thì bù thêm sữa tươi vào).</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Đánh lòng đỏ trứng với đường tới khi lòng đỏ bông và chuyển sang màu vàng nhạt. Cho bột ngô vào trộn tới khi hỗn hợp mịn mượt. </span></li>
+<li><span style="font-weight: 400; color: #000000;"> Đun phần nước trà sữa trên lửa nhỏ, vừa đun vừa khuấy đều tới khi trà ấm nóng, có hơi bốc lên từ nồi.</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">Lưu ý: Chỉ đun đến khi trà ấm khoảng 30 độ C, có thể sờ tay vào. KHÔNG đun quá nóng, nếu không khi đổ vào trứng sẽ làm trứng bị chín và lợn cợn. </span></p>
+<ol start="4">
+<li><span style="font-weight: 400; color: #000000;"> Đổ từ từ trà sữa ấm vào âu lòng đỏ trứng, vừa đổ vừa khuấy đều tới khi hòa quyện. Lọc hỗn hợp qua rây vào nồi.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Đun kem trứng trên lửa trung bình, vừa đun vừa khuấy đều tới khi thấy có hơi nước bốc lên thì hạ lửa nhỏ nhất, khuấy tới khi kem trứng đặc lại, nếm thử không còn vị bột sống hay mùi trứng tanh. Tắt bếp, cho chocolate trắng vào quấy đến khi chocolate chảy hết và hòa quyện vào kem trứng. Ở bước này socola phải tan chảy và hòa quyện hòa toàn vào kem, nếu không kem sẽ bị lợn cợn.</span></li>
+</ol>
+<p><span style="color: #000000;"><b>Lưu ý:</b></span></p>
+<p><span style="font-weight: 400; color: #000000;">– Trong quá trình khuấy đến khi thấy kem trứng bị vón cục (do khuấy trên lửa cao quá) thì bắc nồi xuống, khuấy thật nhanh tay cho tới khi kem trứng mượt trở lại rồi cho lên bếp khuấy tiếp trên lửa nhỏ nhất.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nếu sau khi kem trứng đã đặc mà chưa chín (vẫn còn vị bột sống hay mùi trứng tanh) thì cho thêm sữa tươi rồi khuấy tiếp trên lửa nhỏ tới khi kem trứng chín. </span></p>
+<ol start="6">
+<li><span style="font-weight: 400; color: #000000;"> Đổ hỗn hợp ra bát sạch, dùng màng bọc thực phẩm bọc sát mặt kem trứng. Để nguội bớt rồi cho vào tủ lạnh, để hỗn hợp khoảng 1 – 2 giờ tới khi kem lạnh.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Sau khi kem trà sữa đã lạnh, đánh ở tốc độ cao nhất tới khi kem bông gần cứng thì dừng lại.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Với phần kem custard hồng trà (lạnh), đánh ở tốc độ thấp nhất khoảng 40 – 60 giây tới khi kem mịn mượt. Cho kem trà sữa đánh bông vào âu kem custard, trộn đều bằng kĩ thuật fold. Giữ lạnh tới khi dùng.</span></li>
+</ol>
+<p><strong><span style="color: #000000;">* Hoàn thiện:</span></strong></p>
+<p><strong><span style="color: #000000;">* Cách 1: </span></strong></p>
+<ol>
+<li><span style="font-weight: 400; color: #000000;"> Dùng kéo cắt phần đầu bánh (khoảng ⅓). Nên chọc 1 đầu kéo vào vỏ rồi từ đó cắt vòng quanh thân bánh sẽ đẹp hơn.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Cho kem trà sữa vào túi bắt kem đã lồng sẵn đui sò (1M/ 2D) hoặc đui sao, bơm kem thành vòng tròn quanh thành bánh, để hổng 1 lỗ ở giữa,cho trân châu vào phần giữa bánh, tiếp cục bơm kem phủ kín phần trân châu. Đậy nắp vỏ bánh lại.</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">Cách này sẽ nhìn thấy phần vân kem rất đẹp, nhưng khi ăn sẽ hơi bất tiện một chút, nếu thích kem nằm gọn bên trong bánh các bạn làm như sau:</span></p>
+<p><strong><span style="color: #000000;">* Cách 2:</span></strong></p>
+<ol>
+<li><span style="font-weight: 400; color: #000000;"> Cho kem và trân châu vào 2 túi riêng biệt.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Bóp kem vào khoảng ⅔ bánh (khi cầm bánh sẽ cảm nhận được lượng nhân bên trong), sau đó chọc túi trân châu vào sâu bên trong rồi bóp trân châu tới khi đầy.</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">Bánh nên ăn trong ngày, để qua đêm lớp phủ bên ngoài sẽ bị ỉu và trân châu bị cứng. Nếu muốn để qua ngày hôm sau. Các bạn có thể để riêng vỏ và nhân, khi nào ăn thì nướng sơ lại vỏ ở 160 độ trong khoảng 5 phút cho lớp vỏ giòn trở lại, để nguội sau đó mới bơm nhân. </span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

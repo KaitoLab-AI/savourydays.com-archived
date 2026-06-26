@@ -1,0 +1,80 @@
+---
+title: "[VIDEO] Shakshuka (Egg in hell) bread bowl"
+date: "2018-12-07"
+slug: "video-shakshuka-egg-in-hell-bread-bowl"
+categories: []
+tags: []
+image: ""
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #000000;">Một món ăn cực dễ, cực hay ho, rất đủ chất và vô cùng hợp với mùa Đông miền Bắc đây ạ ;) </span></p>
+<p><span style="color: #000000;"><span style="font-weight: 400;">Shakshuka (hay còn được gọi bằng một cái tên rất thú vị – Egg in Hell :D) là món ăn kiểu “tống tất cả nguyên liệu vào một nồi”: đầu tiên là nấu sốt cà chua thật thơm ngon với nhiều thành phần, tới lúc gần ăn thì đập vào chảo vài quả trứng, thêm phô-mai. Và sau đó là măm măm trứng chín lòng đào vơi phô-mai chảy kéo sợi thơm phức trong sốt cà chua chua ngòn ngọt thôi. </span></span></p>
+<p><span style="color: #000000;"><span style="font-weight: 400;">Phiên bản của Savoury Days đã được biến tấu đi một chút là tụi mình đổ phần sốt cà chua vào trong bánh mì, đập trứng lên rồi nướng cho tới khi vỏ bánh  mì giòn và trứng cũng vừa chín. Kết quả thực sự là “rất ra gì” đó ah :D Vỏ ngoài bánh mì giòn rụm, quyện với trứng, phô-mai và sốt thơm phức khiến cho cả SD team dù ngày hôm đó phải quay tới tận 2 giờ chiều mới được nghỉ ăn trưa, nhưng đều cảm thấy vô cùng “đáng đồng tiền bát gạo” </span></span></p>
+<p> </p>
+<h2><span style="color: #000000;">Cách làm Shakshuka (Egg in hell) bread bowl </span></h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><strong><span style="color: #000000;">A. Phần sốt cà chua</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">30 gram bơ nhạt</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">10 gram tỏi </span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">30 gram hành tây</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">300 gram cà chua</span></em></li>
+</ul>
+<p><strong>B. Phần sốt shakshuka</strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">30 ml dầu olive</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">20 gram tỏi</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram hành tây</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">130 gram ớt chuông xanh</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">90 gram nấm đùi gà</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">3 cái xúc xích</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 gram ketchup</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 thìa cafe lá thơm Ý (Italian mix herbs)</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">C. Nguyên liệu khác</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">7 – 8 chiếc bánh mì tròn</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">7 – 8 quả trứng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Phomai mozarella </span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">Video cách làm món ăn này đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" rel="noopener noreferrer" target="_blank">kênh YouTube của Savoury Days.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo <a href="https://youtu.be/LBplS4QhYRg" rel="noopener noreferrer" target="_blank"><strong>link này</strong></a> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="https://youtu.be/AhsvW5TjQfc" rel="noopener noreferrer" target="_blank">cách làm bánh flan này.</a> </strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"><div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/LBplS4QhYRg" width="560"></iframe></div></span></p>
+<p> </p>
+<p><span style="font-weight: 400; color: #000000;">1. Phần sốt cà chua</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Sơ chế nguyên liệu:</span></p>
+<ul>
+<li><span style="font-weight: 400; color: #000000;">Cà chua, hành tây lột vỏ và thái hạt lựu (có thể lột vỏ cà chua bằng cách khứa 2 đường chéo và đun cà chua trên nước sôi khoảng 40 giây – 1 phút, vớt cà chua ra và lột vỏ rất dễ dàng)</span></li>
+<li><span style="font-weight: 400; color: #000000;">Tỏi bóc vỏ, băm nhỏ</span></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;">– Đun chảy bơ trong chảo, cho hành tây và tỏi băm vào đảo đều ở lửa nhỏ đến khi hành tây chín mềm</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400; color: #000000;">– Cho cà chua vào đảo đều, đậy vung và đun ở lửa trong khoảng 20 phút đến khi cà chua chín nhuyễn</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Để riêng sốt cà chua</span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Phần sốt shaksuka</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Sơ chế nguyên liệu</span></p>
+<ul>
+<li><span style="font-weight: 400; color: #000000;">Tỏi bóc vỏ, băm nhỏ</span></li>
+<li><span style="font-weight: 400; color: #000000;">Ớt chuông, hành tây, nấm đùi gà, xúc xích thái hạt lựu</span></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;">– Đun nóng dầu olive và cho hành tây, tỏi băm vào đảo đều trên lửa nhỏ đến khi hành chín mềm</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Cho ớt chuông và nấm vào xào trong khoảng 5 – 7 phút</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Cho xúc xích vào chảo, nêm 1 thìa cafe muối và xào thêm 5 – 7 phút</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Cho phần sốt cà chua làm ở bước (1), ketchup, đường, muối, lá thơm Ý (Italian mixed herbs) và khoảng 100 ml nước vào đảo đều trên lửa nhỏ trong khoảng 5 phút (thêm nước nếu sốt cạn quá nhanh). Nêm nếm lại cho vừa ăn. </span></p>
+<p><span style="font-weight: 400; color: #000000;">3. Hoàn thiện bánh</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Làm nóng lò ở 180℃, hai lửa</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Bánh mì cắt một khoanh nhỏ đường kính khoảng 7cm trên đầu và lấy bớt ruột bánh ra ngoài</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Dùng giấy bạc bọc ngoài vỏ bánh</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Lần lượt xúc nhân shaksuka đầy khoảng ½ lõi bánh, xếp phomai mozzarella bào sợi hoặc thái mỏng, cuối cùng đập 1 quả trứng lên trên</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nướng ở 180℃ trong 15 – 20 phút tùy thuộc bạn muốn ăn trứng lòng đào hay chín hẳn</span></p>
+<p><span style="font-weight: 400; color: #000000;">Có thể ăn cùng với hạt tiêu và rau mùi thơm, dùng nóng </span></p>
+
+
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

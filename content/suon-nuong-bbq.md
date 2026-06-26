@@ -1,0 +1,55 @@
+---
+title: "Sườn nướng BBQ"
+date: "2013-11-29"
+slug: "suon-nuong-bbq"
+categories: []
+tags: []
+image: "/wp-content/uploads/2013/11/SuonBBQ1.jpg"
+description: "cách làm sườn nướng, cách ướp sườn, sườn nướng Alfresco"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Đợt này bên mình trời xấu và ảm đạm kinh khủng, giữa trưa mà trời u ám như cuối chiều, cây cối còn vài chiếc lá trơ trụi. Thời tiết làm cho tâm trạng cũng dễ “tối thui” theo. Những lúc này lại phải nhờ đến đồ ăn để “kéo” cho tinh thần “lên” trở lại, chứ không thì dễ tụt dốc không phanh lắm :P</p>
+<p>Trời lạnh, các món nướng có vẻ hợp nhất, vừa nhanh, lại ít dầu mỡ. Thường thì mình hay ướp thịt trước rồi để ngăn đá, sáng đi làm cho xuống tủ mát, tối về cho vào lò là xong: cánh gà nướng, đùi gà, thịt ba chỉ.. quay vòng. Cuối tuần có thời gian thì làm món “mất thời gian” hơn một tí là chim cút hoặc sườn.</p>
+<p>Sườn nướng cũng là món dễ làm, chỉ hơi mất nhiều thời gian nướng. Vì muốn sườn thật mềm, theo kiểu róc xương thì sẽ cần nướng trong khoảng 80 – 90 phút. Mặc dù có thể rút ngắn thời gian bằng cách cho vào lò vi sóng quay cho sườn chín sơ trước, nhưng mình nghe nói là sóng trong lò vi sóng làm giảm chất dinh dưỡng và vitamin của nguyên liệu nên cũng cố gắng tránh dùng nếu không thật cần thiết.</p>
+<p>Làm sườn nướng quan trọng nhất có lẽ là ướp thế nào cho thơm ngon. Một trong những cách nhanh gọn nhất nhưng vẫn rất đậm đà là <a href="/thit-nuong-chien-ngu-vi/">ướp ngũ vị</a>, sườn có mùi vị thơm ngon “kiểu châu Á”. Còn nếu muốn làm theo kiểu Âu thì phần sốt sẽ phức tạp hơn một chút. Thật ra sốt này có bán sẵn khá nhiều, nhưng mình vẫn thích tự làm hơn vì cảm giác là sốt mua sẵn có một cái gì đó hơi “sắc”, trong khi sốt mình tự làm mùi vị “đằm” hơn, mà màu sắc cũng đẹp hơn.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/11116959504/" title="BBQ Pork Ribs by LinhTrang9185, on Flickr"><img alt="BBQ Pork Ribs" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7328/11116959504_79ccf256e2_z.jpg" width="485"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Để làm sốt BBQ thì cần những nguyên liệu sau đây (định lượng đủ để ướp 1kg sườn)</p>
+<ul>
+<li><em><em>25ml dầu ăn</em></em></li>
+<li><em>1 củ hành tây nhỏ – bóc vỏ, băm nhỏ </em></li>
+<li><em>20gr tỏi bằm nhuyễn</em></li>
+<li><em>120ml tương cà chua Ketchup </em></li>
+<li><em>30ml Worcestershire sauce </em></li>
+<li><em>30ml xì dầu/ nước tương (soy sauce)</em></li>
+<li><em>7-8gr bột ớt Paprika</em></li>
+<li><em>25ml mù tạt vàng</em></li>
+<li><em>5gr bột gừng (hoặc thay bằng 15gr gừng tươi bằm nhuyễn)</em></li>
+<li><em>40ml nước</em></li>
+<li><em>25ml dấm (tốt nhất là dùng dấm táo)</em></li>
+<li><em>60gr đường nâu</em></li>
+<li><em>30ml mật ong</em></li>
+<li><em>1 thìa cafe Tabasco </em></li>
+<li><em>muối – theo khẩu vị </em></li>
+</ul>
+<p>Trong số các nguyên liệu trên thì có lẽ <a href="http://en.wikipedia.org/wiki/File:Worcestershire_sauce.jpg">Worcerstershire sauce</a> và <a href="http://www.goodhousekeeping.com/product-reviews/food-products/mustard-reviews/heinz-yellow-mustard-376">mù tạt vàn</a>g là “lạ lẫm” với người Việt Nam nhất. Nhưng đây lại là hai nguyên liệu tạo ra hương vị đặc trưng của sốt BBQ và không thể thay thế bằng bất kì loại gia vị nào khác. Mình không ở Việt Nam nên không biết địa chỉ chính xác để mua, nhưng ở các cửa hàng bán thực phẩm nhập ngoại chắc sẽ có. Bạn nào có địa chỉ cụ thể thì chia sẻ nha.</p>
+<p>Ngoài ra các nguyên liệu còn lại mình nghĩ đều khá dễ tìm. Bột ớt Paprika nếu không có thì có thể bỏ qua hoặc thay bằng một loại bột ớt khác với lượng ít hơn (vì bột ớt Paprika không cay nhiều). Đường nâu có thể thay bằng đường trắng với lượng ít hơn, hoặc dùng đường mía, đường thốt nốt. Tabasco có thể bỏ qua.</p>
+<p><span style="color: #ff0000;">Định lượng của các loại nguyên liệu nên được điều chỉnh tùy theo khẩu vị của gia đình</span>. Theo kinh nghiệm của mình thì sốt có vị chua hơi nhiều một chút sẽ cho ra sản phẩm ngon và đậm đà hơn.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/11116959944/" title="BBQ Pork Ribs by LinhTrang9185, on Flickr"><img alt="BBQ Pork Ribs" class="aligncenter" height="640" loading="lazy" src="http://farm4.staticflickr.com/3670/11116959944_402b28d986_z.jpg" width="539"/></a></p>
+<p>Cách làm sốt BBQ như sau:</p>
+<p>1. Đun nóng dầu ăn trong nồi hoặc chảo chống dính. Cho hành tây vào xào ở lửa vừa trong 2 – 3 phút đến khi dậy mùi thơm, hành mềm hơn và hơi chuyển vàng. Cho tỏi vào xào cùng hành thêm khoảng 1 phút.</p>
+<p>2. Cho tất cả các nguyên liệu còn lại vào nồi. Quấy đều, đun ở lửa nhỏ hoặc vừa trong khoảng 10 – 15 phút, đến khi sốt sệt hơn và sánh đặc.</p>
+<p>3. Đổ sốt ra bát hoặc lọ sạch, khô. Để nguội. Sốt BBQ có thể bảo quản trong tủ lạnh trong vòng 7 – 8 ngày.</p>
+<p>Sau khi đã có sốt rồi thì khâu còn lại rất dễ dàng. Thông thường, nên ướp sườn trong khoảng 12 – 18 giờ để sườn thật ngấm gia vị. Phần sốt ở trên đủ cho 1kg sườn. Các bạn có thể ướp nguyên cả dải sườn to, nhưng nếu dùng lò nướng thì nên cắt thành các miếng sườn nhỏ, khi ướp và nướng sẽ dễ hơn.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><strong>Cách làm sườn BBQ </strong></p>
+<p>1. Sườn rửa sạch, thấm khô rồi ướp với sốt BBQ trong 12 – 18 giờ.</p>
+<p>2. Làm nóng lò trước khi nướng 10 phút, nhiệt độ 175 độ C. Chuẩn bị khay nướng có bọc giấy bạc (để đỡ khâu rửa khay sau khi nướng sườn xong). Xếp sườn vào khay rồi bọc kín hoặc đậy khay bằng giấy bạc.</p>
+<p>3. Sau khi lò đủ nóng thì cho sườn vào nướng ở nhiệt độ 170 – 175 độ C trong khoảng 90 phút. Sau 80 – 90 phút các bạn có thể lấy sườn ra và dùng nĩa xé thử, nếu thấy sườn đã mềm, róc xương, có thể xé dễ dàng thì tăng nhiệt độ lên 230 độ C (nếu sườn chưa đủ mềm như ý thì nướng thêm 10 – 15 phút nữa). Bỏ lớp giấy che mặt sườn, quét phần sốt BBQ (còn dư lại từ chỗ nước ướp) lên sườn. Cho sườn vào lò, quay mặt nhiều thịt lên, để khay sát với thanh nhiệt trên, nướng thêm 5 – 10 phút đến khi sườn chuyển vàng và hơi xém cạnh. <strong>Lưu ý</strong>: <em>để ý canh sườn, tránh để sườn bị cháy</em>. <em>Nướng theo cách này sẽ giúp cho sườn mềm nhưng không bị khô, không bị bã, 10 phút cuối ở lửa cao giúp cho sườn có độ săn và màu sắc bóng đẹp.</em></p>
+<p>Dùng nóng với Ketchup hoặc sốt tùy thích, khoai tây chiên hoặc khoai tây nghiền, salad :)</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

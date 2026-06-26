@@ -1,0 +1,106 @@
+---
+title: "SD TUYỂN DỤNG – Biên tập nội dung & Nhiếp ảnh/ Thiết kế hình ảnh"
+date: "2018-03-25"
+slug: "sd-tuyen-dung-bien-tap-noi-dung-nhiep-anh-thiet-ke-hinh-anh"
+categories: ["Linh tinh"]
+tags: []
+image: "/wp-content/uploads/2018/03/Hiring-300x159.jpg"
+description: ""
+---
+
+<p data-block="true" data-editor="4kv7i" data-offset-key="1k0ql-0-0"><span data-offset-key="3rief-0-0" style="color: #000000;">Các bạn thân mến,</span></p>
+<p data-block="true" data-editor="4kv7i" data-offset-key="1k0ql-0-0"><span data-offset-key="5ikfh-0-0" style="color: #000000;">Để thực hiện các kế hoạch củng cố và mở rộng hoạt động cả online lẫn offline của Savoury Days trong thời gian tới, SD team cần thêm người hỗ trợ. Nếu bạn là người yêu thích nấu nướng hay chụp ảnh, và muốn góp phần truyền cảm hứng cũng như niềm vui bếp tới bạn bè khắp nơi trên thế giới thì hãy đến với bọn mình nhé :-)</span></p>
+<p class="_1mf _1mj" data-offset-key="66gsp-0-0"><span data-offset-key="66gsp-0-0" style="color: #000000;">Cụ thể các vị trí cần nhân sự như sau: </span></p>
+<p class="_1mf _1mj" data-offset-key="8a32q-0-0"><span style="color: #000000;"><strong>(1) BIÊN TẬP NỘI DUNG &amp; TRỢ LÝ MANAGER:</strong></span></p>
+<p class="_1mf _1mj" data-offset-key="3p018-0-0"><span style="color: #000000;"><strong>– Mô tả công việc: </strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li class="_1mf _1mj" data-offset-key="b0hrs-0-0"><span style="color: #000000;">Hỗ trợ viết công thức và các bài viết liên quan tới nấu nướng (chia sẻ kinh nghiệm bếp núc, tổng hợp các kiến thức hay về bếp núc từ tài liệu tiếng Anh…)</span></li>
+<li class="_1mf _1mj" data-offset-key="b0hrs-0-0"><span style="color: #000000;">Thử công thức (nấu hoặc nướng thử). Nấu món ăn để chụp ảnh/ quay video.</span></li>
+<li class="_1mf _1mj" data-offset-key="b0hrs-0-0"><span style="color: #000000;">Trợ lý lớp học</span></li>
+<li class="_1mf _1mj" data-offset-key="b0hrs-0-0"><span style="color: #000000;">Hỗ trợ Linh Trang làm các công việc khác liên quan tới quản lý hoạt động chung của SD.</span></li>
+</ul>
+<p class="_1mf _1mj" data-offset-key="bv0js-0-0"><span style="color: #000000;"><strong>– Yêu cầu: </strong></span></p>
+<ul>
+<li class="_1mf _1mj" data-offset-key="3jmnk-0-0"><span data-offset-key="3jmnk-0-0" style="color: #000000;">Yêu thích nấu nướng và có thể nấu tốt. Ưu tiên các bạn biết cả nấu ăn và nướng bánh. </span></li>
+<li class="_1mf _1mj" data-offset-key="3jmnk-0-0"><span style="color: #000000;">Tiếng Anh tốt, có thể đọc các tài liệu nấu ăn bằng tiếng Anh.</span></li>
+<li class="_1mf _1mj" data-offset-key="3jmnk-0-0"><span style="color: #000000;">Có khả năng viết tốt.</span></li>
+<li class="_1mf _1mj" data-offset-key="3jmnk-0-0"><span style="color: #000000;">Sáng tạo, có tinh thần cầu thị, cởi mở, tiếp thu các ý kiến mới và các nhận xét để làm tốt hơn.</span></li>
+<li class="_1mf _1mj" data-offset-key="3jmnk-0-0"><span style="color: #000000;">Cởi mở, nhanh nhẹn, trung thực, cầu tiến.</span></li>
+<li class="_1mf _1mj" data-offset-key="3jmnk-0-0"><span style="color: #ff0000;">Có thể gắn bó lâu dài với SD (1 năm trở lên)</span></li>
+</ul>
+<p class="_1mf _1mj" data-offset-key="5l5q4-0-0"><span data-offset-key="5l5q4-0-0" style="color: #000000;">–<strong> Thời gian làm việc</strong>: Do đặc thù công việc nên khối lượng công việc tương đương với toàn thời gian (full time) nhưng thời gian và địa điểm làm việc linh hoạt và không cố định trong giờ hành chính (bạn có thể làm tại nhà, vào buổi tối hay cuối tuần… miễn đảm bảo được chất lượng và kết quả công việc). Lưu ý rằng nhược điểm của việc linh hoạt này là bạn sẽ có thể thường xuyên cần làm việc ngoài giờ hành chính (vd các lớp học cuối tuần hay làm vào buổi tối).</span></p>
+<p class="_1mf _1mj" data-offset-key="9ih6f-0-0"><span data-offset-key="9ih6f-0-0" style="color: #000000;">– <strong>Thù lao:</strong> thoả thuận, gồm một phần lương cứng + bonus theo hiệu quả công việc.</span></p>
+<p class="_1mf _1mj" data-offset-key="43tfq-0-0"><span data-offset-key="43tfq-0-0" style="color: #000000;">– <strong>Địa điểm làm việc:</strong> Hoàng Quốc Việt (Hà Nội), vào một số buổi trong tuần. Thời gian còn lại các bạn có thể làm việc tại nhà.</span></p>
+<p class="_1mf _1mj" data-offset-key="a93sm-0-0"><span style="color: #000000;"><strong>* Thủ tục ứng tuyển: </strong></span></p>
+<p class="_1mf _1mj" data-offset-key="88jlg-0-0"><span style="color: #000000;">+ Ứng viên nộp hồ sơ tới địa chỉ mail <span style="color: #ff0000;"><strong>savourydays.HR@gmail.com</strong></span>. Hồ sơ gồm:</span></p>
+<ul>
+<li class="_1mf _1mj" data-offset-key="dbq91-0-0"><span data-offset-key="dbq91-0-0" style="color: #000000;"><strong>01 sơ yếu lí lịch</strong> (CV) ghi rõ các thông tin cá nhân, quá trình học tập, công tác, các kinh nghiệm có liên quan tới nấu nướng</span></li>
+<li class="_1mf _1mj" data-offset-key="dbq91-0-0"><span style="color: #000000;"><strong>01 thư xin việc</strong> ghi rõ: tại sao bạn muốn làm công việc này và tại sao bạn là người thích hợp nhất để làm nó (lý do tại sao mình nên chọn bạn chứ không phải ai khác)</span></li>
+<li class="_1mf _1mj" data-offset-key="dbq91-0-0"><span style="color: #000000;"><strong>01 công thức mà bạn tâm đắc nhấ</strong>t, có thể là của bạn hoặc của người khác. Nội dung công thức gồm 1 đoạn văn ngắn giới thiệu về công thức, nguyên liệu (định lượng cho 4 người ăn) và các bước thực hiện (cấu trúc về cơ bản giống các công thức của SD).</span></li>
+<li class="_1mf _1mj" data-offset-key="dbq91-0-0"><strong><span style="color: #000000;">Các chứng chỉ tiếng Anh, nấu nướng nếu có</span></strong></li>
+</ul>
+<p class="_1mf _1mj" data-offset-key="m0f1-0-0"><span style="color: #000000;"><strong>Lưu ý: hồ sơ ở dạng Word hoặc PDF, đính kèm theo mail.</strong></span></p>
+<p class="_1mf _1mj" data-offset-key="2df9e-0-0"><span data-offset-key="2df9e-0-0" style="color: #000000;">+ Tiêu đề của email ghi rõ: Ứng tuyển Biên tập nội dung</span></p>
+<p class="_1mf _1mj" data-offset-key="apu3h-0-0"><span data-offset-key="apu3h-0-0" style="color: #000000;">+ <strong><span style="color: #ff0000;">Thời gian nộp hồ sơ: đến hết ngày 8/4/2017.</span></strong> Nếu bạn đọc được thông báo sau thời gian này và vẫn cảm thấy mình thích hợp với công việc thì vẫn có thể gửi hồ sơ ứng tuyển nhé.</span></p>
+<p class="_1mf _1mj" data-offset-key="f0o26-0-0"><span data-offset-key="f0o26-0-0" style="color: #000000;">+ Các mốc thời gian xét tuyển cụ thể như sau:</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<ul>
+<li class="_1mf _1mj" data-offset-key="aaikc-0-0"><span data-offset-key="aaikc-0-0" style="color: #000000;">Thông báo trúng tuyển vòng 1 (lọc hồ sơ): 15/4/2018 (lưu ý: <span style="color: #ff0000;"><strong>bọn mình sẽ chỉ gửi mail thông báo tới các bạn trúng tuyển</strong></span>)</span></li>
+<li class="_1mf _1mj" data-offset-key="aaikc-0-0"><span style="color: #000000;">Phỏng vấn thử việc: 16/4 – 28/4</span></li>
+</ul>
+<p class="_1mf _1mj" data-offset-key="5jfeu-0-0"><span data-offset-key="5jfeu-0-0" style="color: #000000;">+ Bắt đầu làm việc từ tháng 5/2017. Thời gian thử việc: 3 tháng. Các chế độ nghỉ phép thoả thuận cùng lương. </span></p>
+<p class="_1mf _1mj" data-offset-key="b25cm-0-0"><strong><span style="color: #000000;">(2) NHIẾP ẢNH &amp; THIẾT KẾ</span></strong></p>
+<p class="_1mf _1mj" data-offset-key="24obh-0-0"><span style="color: #000000;">– Mô tả công việc:</span></p>
+<ul>
+<li class="_1mf _1mj" data-offset-key="bimbs-0-0"><span data-offset-key="bimbs-0-0" style="color: #000000;">Chụp ảnh món ăn thành phẩm, các bước thực hiện món ăn.</span></li>
+<li class="_1mf _1mj" data-offset-key="bimbs-0-0"><span style="color: #000000;">Chụp ảnh các hoạt động offline của SD: lớp học, workshop, họp báo…</span></li>
+<li class="_1mf _1mj" data-offset-key="bimbs-0-0"><span style="color: #000000;">Thiết kế poster, infographic…</span></li>
+<li class="_1mf _1mj" data-offset-key="bimbs-0-0"><span style="color: #000000;">Hỗ trợ quay phim và edit video hướng dẫn nấu ăn.</span></li>
+<li class="_1mf _1mj" data-offset-key="bimbs-0-0"><span style="color: #ff0000;">Có thể gắn bó lâu dài với SD (1 năm trở lên)</span></li>
+</ul>
+<p class="_1mf _1mj" data-offset-key="8ahll-0-0"><span data-offset-key="8ahll-0-0" style="color: #000000;">– Yêu cầu:</span></p>
+<ul>
+<li class="_1mf _1mj" data-offset-key="5ttmk-0-0"><span data-offset-key="5ttmk-0-0" style="color: #000000;">Yêu thích nấu nướng. Ứng viên không nhất thiết phải giỏi nấu ăn nhưng cần phải “thích ăn” và có hiểu biết về ẩm thực.</span></li>
+<li class="_1mf _1mj" data-offset-key="5ttmk-0-0"><span style="color: #000000;">Có thẩm mỹ tốt, đặc biệt là về cách sắp xếp và chụp ảnh đồ ăn.</span></li>
+<li class="_1mf _1mj" data-offset-key="5ttmk-0-0"><span style="color: #000000;">Có kinh nghiệm chụp đồ ăn là lợi thế.</span></li>
+<li class="_1mf _1mj" data-offset-key="5ttmk-0-0"><span style="color: #000000;">Cởi mở, nhanh nhẹn, trung thực, có tinh thần cầu thị, tiếp thu nhận xét và các ý kiến mới để làm tốt hơn.</span></li>
+</ul>
+<p class="_1mf _1mj" data-offset-key="6b5o2-0-0"><span data-offset-key="6b5o2-0-0" style="color: #000000;">–<strong> Thời gian làm việc</strong>: Do đặc thù công việc nên khối lượng công việc tương đương với toàn thời gian (full time) nhưng thời gian và địa điểm làm việc linh hoạt và không cố định trong giờ hành chính (bạn có thể làm tại nhà, vào buổi tối hay cuối tuần… miễn đảm bảo được chất lượng và kết quả công việc). Lưu ý rằng nhược điểm của việc linh hoạt này là bạn sẽ có thể thường xuyên cần làm việc ngoài giờ hành chính (vd các lớp học cuối tuần hay làm vào buổi tối).</span></p>
+<p class="_1mf _1mj" data-offset-key="2rla2-0-0"><span data-offset-key="2rla2-0-0" style="color: #000000;">– <strong>Thù lao</strong>: thoả thuận, gồm một phần lương cứng + bonus theo hiệu quả công việc.</span></p>
+<p class="_1mf _1mj" data-offset-key="and7-0-0"><span data-offset-key="and7-0-0" style="color: #000000;">– <strong>Địa điểm làm việc:</strong> Hoàng Quốc Việt (Hà Nội), vào một số buổi trong tuần. Thời gian còn lại các bạn có thể làm việc tại nhà.</span></p>
+<p class="_1mf _1mj" data-offset-key="3ppof-0-0"><span data-offset-key="3ppof-0-0" style="color: #000000;">* <strong>Thủ tục ứng tuyển:</strong></span></p>
+<p class="_1mf _1mj" data-offset-key="4kp0v-0-0"><span data-offset-key="4kp0v-0-0" style="color: #000000;">+ Ứng viên nộp hồ sơ tới địa chỉ mail <span style="color: #ff0000;"><strong>savourydays.HR@gmail.com</strong></span>. Hồ sơ gồm: </span></p>
+<ul>
+<li class="_1mf _1mj" data-offset-key="99ljd-0-0"><span data-offset-key="99ljd-0-0" style="color: #000000;"><strong>01 sơ yếu lí lịch (CV)</strong> ghi rõ các thông tin cá nhân, quá trình học tập, công tác, các kinh nghiệm có liên quan tới chụp ảnh.</span></li>
+<li class="_1mf _1mj" data-offset-key="99ljd-0-0"><span style="color: #000000;"><strong>01 thư xin việc ghi rõ:</strong> tại sao bạn muốn làm công việc này và tại sao bạn là người thích hợp nhất để làm nó (lý do tại sao mình nên chọn bạn chứ không phải ai khác)</span></li>
+<li class="_1mf _1mj" data-offset-key="99ljd-0-0"><strong><span style="color: #000000;">Portfolio của bạn hoặc một số bức ảnh chụp đồ ăn của bạn</span></strong></li>
+</ul>
+<p class="_1mf _1mj" data-offset-key="54m46-0-0"><strong><span data-offset-key="54m46-0-0" style="color: #000000;">Lưu ý: hồ sơ ở dạng Word hoặc PDF, đính kèm theo mail.</span></strong></p>
+<p class="_1mf _1mj" data-offset-key="2msg5-0-0"><span data-offset-key="2msg5-0-0" style="color: #000000;">+ Tiêu đề của email ghi rõ: Ứng tuyển Nhiếp ảnh/ thiết kế</span></p>
+<p class="_1mf _1mj" data-offset-key="cn1bl-0-0"><span data-offset-key="cn1bl-0-0" style="color: #000000;">+ <span style="color: #ff0000;"><strong>Thời gian nộp hồ sơ: đến hết ngày 8/4/2017.</strong></span> Nếu bạn đọc được thông báo sau thời gian này và vẫn cảm thấy mình thích hợp với công việc thì vẫn có thể gửi hồ sơ ứng tuyển nhé.</span></p>
+<p class="_1mf _1mj" data-offset-key="ea217-0-0"><span data-offset-key="ea217-0-0" style="color: #000000;">+ Các mốc thời gian xét tuyển cụ thể như sau:</span></p>
+<ul>
+<li class="_1mf _1mj" data-offset-key="6rkq9-0-0"><span data-offset-key="6rkq9-0-0" style="color: #000000;">Thông báo trúng tuyển vòng 1 (lọc hồ sơ): 15/4/2018 (<span style="color: #ff0000;"><strong>lưu ý: bọn mình sẽ chỉ gửi mail thông báo tới các bạn trúng tuyển</strong></span>)</span></li>
+<li class="_1mf _1mj" data-offset-key="6rkq9-0-0"><span style="color: #000000;">Phỏng vấn thử việc: 16/4 – 28/4</span></li>
+</ul>
+<p class="_1mf _1mj" data-offset-key="cqm67-0-0"><span style="color: #000000;">+ Bắt đầu làm việc từ tháng 5/2017. Thời gian thử việc: 3 tháng. Các chế độ nghỉ phép thoả thuận cùng lương </span></p>
+
+
+ <div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

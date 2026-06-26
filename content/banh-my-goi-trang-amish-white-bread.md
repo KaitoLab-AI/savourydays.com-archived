@@ -1,0 +1,90 @@
+---
+title: "Bánh mỳ gối trắng – Amish White Bread"
+date: "2012-04-23"
+slug: "banh-my-goi-trang-amish-white-bread"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/04/AmishBread1.jpg"
+description: "bánh mỳ gối trắng, hoc lam banh mi, kinh nghiem lam banh mi, nguyen nhan that bai khi lam banh mi"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #ff0000;"><em>Nếu bạn là “người mới” trong lĩnh vực “làm bánh mì” thì trước khi bắt tay vào làm thứ một công thức bất kì, hãy dành ra đôi ba phút để đọc thông tin mà mình đã chia sẻ trong các bài viết dưới đây nhé (<strong>không dài lắm đâu, nhưng rất quan trọng và cần thiết :) )</strong></em></span></p>
+<ol>
+<li>Phân biệt các loại bột làm bánh, cách sử dụng, thay thế các loại bột : <a href="/tu-hoc-lam-banh-can-ban-phan-biet-cac-loai-bot-lam-banh-phan-1/">Phần 1</a> – <a href="/tu-hoc-lam-banh-can-ban-phan-biet-cac-loai-bot-phan-2/">Phần 2</a></li>
+<li><a href="/tu-hoc-lam-banh-can-ban-cac-chat-gay-no-men-no-bot-no-muoi-no-phan-loai-va-cac-luu-y-khi-su-dung/">Các chất gây nở (men nở, bột nở, muối nở..) – Phân loại, cách thay thế &amp; các lưu ý khi sử dụng</a></li>
+<li><a href="/tu-hoc-lam-banh-can-ban-phan-loai-banh-my-hai-phuong-phap-tron-bot-co-ban-vai-dong-chia-se/">Phân loại bánh mỳ – Hai phương pháp trộn bột bánh mỳ cơ bản và vài dòng chia sẻ</a></li>
+<li><strong>Làm bánh mỳ – Quy trình cơ bản và các lưu ý</strong>
+<ul>
+<li><a href="/lam-banh-my-quy-trinh-co-ban-va-mot-vai-luu-y-phan-1/">Phần 1: Các bước làm bánh mỳ cơ bản &amp; Các chú ý về nguyên liệu</a></li>
+<li><a href="/lam-banh-mi-quy-trinh-co-ban-cac-luu-y-phan-2-cach-nhao-nhoi-bot/">Phần 2: Cách nhào/ nhồi bột </a></li>
+<li><a href="/lam-banh-mi-quy-trinh-co-ban-cac-luu-y-phan-3-u-bot-tao-hinh-nuong-banh-va-bao-quan/">Phần 3: Cách ủ bột, tạo hình, nướng bánh và bảo quản</a></li>
+</ul>
+</li>
+</ol>
+<p style="text-align: center;">——————————-</p>
+<p>Amish White Bread là công thức bánh mì đầu tiên mà mình thử. Và có lẽ là rất may mắn khi mình đã tình cờ chọn đúng Amish White Bread để làm thử vào thời điểm bắt đầu, khi mà chưa biết gì về các loại nguyên liệu hay các kĩ thuật làm bánh mì. Bởi vì Amish White Bread có lẽ là một trong những công thức bánh mì đơn giản và dễ làm nhất. Thành phần nguyên liệu cực kì cơ bản. Cách làm cũng không có nhiều bước phức tạp hay đòi hỏi kĩ thuật cao siêu gì, những người mới cũng hoàn toàn có thể làm thành công – <strong>mặc dù – </strong>nếu bạn thật sự là “người mới” thì mình nghĩ những dòng chú ý ở đầu bài sẽ giúp bạn tự tin và có món bánh ngon hơn nhiều ;)</p>
+<p>Nói dông dài thêm một chút xíu nữa là nếu bạn là “người mới” và muốn học làm bánh mì, thì đây là một trong những công thức mà mình nghĩ rất nên thử, vì nó không chỉ đơn giản mà còn ngon nữa. Và việc làm nhiều lần những công thức đơn giản như thế này cũng sẽ có ích cho bạn khi chuyển sang làm các loại bánh khó và “cao cấp” hơn (như Baguette chẳng hạn).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6959717030/" title="Bánh mỳ gối trắng - Amish White Bread  by LinhTrang9185, on Flickr"><img alt="Bánh mỳ gối trắng - Amish White Bread " class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8161/6959717030_bfb5d4ccd7_z.jpg" width="437"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Quay về Amish White Bread, vì đây là loại bánh phổ biến, rất rất phổ biến, nên công thức cũng không phải là mới mẻ gì, Google một giây là ra cả chục trang :) Công thức ở dưới đây mình dịch lại gần như nguyên văn từ công thức gốc trên <a href="http://allrecipes.com/recipe/amish-white-bread/detail.aspx">allrecipes.com,</a> kèm thêm một vài chú thích ở các bước nhé. Chúc các bạn thành công!</p>
+<p><strong>Nguyên liệu </strong></p>
+<ul>
+<li><em>120gram nước </em></li>
+<li><em>20gram đường </em></li>
+<li><em>5gram men instant </em></li>
+<li><em>205gram bột bánh mì (bread flour) </em></li>
+<li><em>2gram muối </em></li>
+<li><em>15gram dầu ăn </em></li>
+</ul>
+<p><strong>Ghi chú</strong></p>
+<ul>
+<li><em>Nếu dùng men khô hoặc men tươi thì có thể tham khảo tỉ lệ quy đổi giữa các loại men tại <strong><a href="/tu-hoc-lam-banh-can-ban-cac-chat-gay-no-men-no-bot-no-muoi-no-phan-loai-va-cac-luu-y-khi-su-dung/">ĐÂY</a></strong></em></li>
+<li><em>Nên dùng nước ấm, có nhiệt độ trong khoảng 35-40 độ C, <strong><span style="text-decoration: underline;">không được nóng hơn</span> vì sẽ làm men hoạt động yếu hoặc chết. </strong></em></li>
+<li><em>Nếu không có bột bánh mì, có thể thay bằng bột mì đa dụng (all purpose flour). </em></li>
+<li><em>Lượng nước có thể <strong>thay đổi, </strong>tùy theo hàm lượng protein trong bột mì, độ cũ mới của bột mì… Mình thay 1/2 số nước trong công thức bằng <strong>sữa tươi không đường (</strong>cụ thể là mình dùng 60 gram nước + 60 gram sữa)</em></li>
+</ul>
+<p><span id="more-2363"></span><strong>Cách làm </strong></p>
+<p>1. Hòa tan đường và men trong nước.</p>
+<blockquote><p>* <strong>Ghi chú</strong>: Men tốt sẽ nở bung và tạo mảng trên mặt nước, trông hơi giống gạch cua (hình 1). Nếu sau khoảng 10-15 phút không thấy có thay đổi gì thì nên bỏ đi và làm lại vì hoặc là men đã hết tác dụng, hoặc là nước nóng quá làm chết men.</p></blockquote>
+<p>2. Cho dầu ăn, muối và nước có đường và men vào âu trộn. Dùng thìa gỗ quấy đều. Chia bột làm 2-3 phần, cho từng phần vào âu, dùng thìa gỗ quấy đều sau mỗi lần thêm bột, đến khi có một khối bột nhão và dính (và lổn nhổn :P) (hình 2-5).<br/>
+<a href="http://www.flickr.com/photos/55490207@N05/7105801515/" title="2012-04-09 by LinhTrang9185, on Flickr"><img alt="2012-04-09" class="aligncenter" height="400" loading="lazy" src="http://farm9.staticflickr.com/8019/7105801515_feaf6376c8.jpg" width="500"/></a></p>
+<p>3. <strong>Nhồi bột:</strong> Đổ bột ra mặt bàn có phủ một lớp bột áo mỏng. Nhào bột trong khoảng 15 phút đến khi có một khối bột dẻo mịn, đàn hồi, không dính tay (hoặc nhào bằng máy trong thời gian tương tự), ấn thử gón tay lên mặt bột sẽ thấy phồng trở lại.</p>
+<blockquote><p><strong>Ghi chú</strong>: Bột bánh Amish White Bread có độ nhão vừa phải, không quá dính tay. Thường mình làm thì cần rất ít bột áo, chắc khoảng 2-3gram. Trong khoảng 5 phút đầu thấy khá dính, nhưng sau thì không vấn đề gì. <strong>Tuy nhiên, việc này còn phụ thuộc vào loại bột bạn dùng và khả năng hút nước của bột, </strong>cho nên nếu thấy bột quá nhão và quá dính thì có thể thêm bột, nhưng cố gắng thêm <strong>càng ít bột càng tốt, </strong>vì bột bánh khô sẽ làm bánh bị khô, nặn khó, bề mặt cũng kém mịn màng.</p></blockquote>
+<p>4. <strong>Ủ bột (lần 1): </strong>Dùng một chiếc âu hoặc bát to, quét 1 lớp dầu ăn <span style="text-decoration: underline;"><strong>mỏng</strong></span> lên đáy và thành âu. Cho khối bột vào âu, lật mặt khối bột để dầu ăn bao đều quanh cả khối bột. Dùng khăn ẩm hoặc nilon bọc kín âu. Ủ bột ở <strong>nhiệt độ phòng </strong>(25 – 32 độ C) đến khi bột nở gấp đôi.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<blockquote><p><strong>Ghi chú</strong>: Không có thời gian ủ cố định vì tùy theo nhiệt độ ủ mà bột có thể nở nhanh hay chậm. “<strong>Bột nở lớn gấp đôi”</strong> là căn cứ tốt nhất. Ngoài ra, các bạn có thể kiểm tra bột ủ đạt bằng cách dùng 2 ngón tay cắm vào khối bột, sâu khoảng 1-2cm, nếu vết lõm giữ nguyên là bột đã ủ đủ, nếu vết lõm phồng trở lại thì cần phải ủ thêm (hình 7-8).</p></blockquote>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6959717274/" title="2012-04-091 by LinhTrang9185, on Flickr"><img alt="2012-04-091" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7091/6959717274_3aec2e9353.jpg" width="500"/></a></p>
+<p>5. <strong>Tạo hình: </strong>Sau khi bột đã nở gấp đôi thì dùng mu bàn tay để “đấm” nhẹ hay ép nhẹ cho khí trong khối bột thoát ra ngoài. Lấy bột ra, nhào bằng tay lại sơ qua trong khoảng 1-2 phút. Nếu làm bánh mì gối và dùng khuôn loaf thì để bột nghỉ khoảng 5 phút rồi cán khối bột thành hình chữ nhật và tạo thành hình ổ bánh. Cách tạo hình khối bột cho khuôn loaf các bạn có thể tham khảo tại <a href="http://www.youtube.com/watch?v=CmQ2hbK7Nl4">đây</a>.</p>
+<p>Cách đơn giản nhất là gập 1/3 miếng bột, rồi tiếp tục gập đến hết. Sau đó có thể tiếp tục gập đôi, hoặc xoay miếng bột và gập tiếp theo chiều dọc. C<strong>ác bạn nhớ dính chắc mép bột, tránh để bột bị bung ra khi nướng.</strong></p>
+<p>6. <strong>Ủ bột lần 2: </strong>Ủ bột ở nơi ấm áp &amp; ẩm, đến khi bột nở gấp đôi. Mình ủ trong lò nướng bằng cách bật đèn trong lò nướng và đặt thêm 1 cốc nước sôi để giữ ẩm, tránh cho mặt bánh bị khô. Nếu dùng khăn ẩm che mặt khuôn thì nhớ cẩn thận, <strong>tránh để bột nở to bị dính vào khăn nhé.</strong></p>
+<p>Khi bột nở khoảng 70-80% thì bật lò ở nhiệt độ 170 độ C (lò nướng cần tối thiểu 10 phút để làm nóng nên khi lò đủ nóng thì bánh cũng ủ vừa đạt).</p>
+<p>7. Nướng bánh ở 170 – 175 độ C trong khoảng 25-30 phút, hoặc lâu hơn nếu làm bánh to, đến khi bánh chín vàng mặt. Nếu mặt bánh vàng sớm thì có thể dùng giấy bạc che cho mặt bánh khỏi bị cháy. Không nên chữa bằng cách nướng ở nhiệt độ thấp vì có thể sẽ làm cho vỏ bánh bị dày.</p>
+<p>8. Bánh chín để lên rack cho <strong>nguội hẳn </strong>rồi mới cắt lát (với bánh mì sandwich) (cắt khi bánh chưa nguội hẳn sẽ dễ làm bánh bị bết, dai, dính).</p>
+<p>9. Bánh làm xong nên ăn trong vòng 8-10 tiếng. Hoặc cho vào túi nilon/ hộp,<strong> đậy kín</strong>.</p>
+<p><strong>Cuối cùng là một số thất bại thường gặp và nguyên nhân (<span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">cả nhà đọc kĩ trước khi comment nha</span></span> ;) )</strong></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7105786139/" title="IMG_3506-1 by LinhTrang9185, on Flickr"><img alt="IMG_3506-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8148/7105786139_e12edff335_z.jpg" width="436"/></a></p>
+<p>1. <strong>Bột ủ không nở</strong>: Men có vấn đề (hết hạn, bị chết trong lúc kích hoạt), dùng sai loại men (ví dụ: thay vì dùng men nở thì dùng bột nở/ bột nổi)</p>
+<p>2. B<strong>ánh có mùi rượu hoặc có mùi chua</strong>:</p>
+<ul>
+<li>Quá nhiều men (lần tiếp theo nên giảm bớt 1/4 lượng men)</li>
+<li>Men chưa kích hoạt hết (nếu dùng men khô)</li>
+<li>Ủ quá lâu</li>
+</ul>
+<p>3. <strong>Bột nhào mãi mà vẫn lổn nhổn</strong>: Nhồi bột chưa đúng cách (xem thêm trong <a href="/lam-banh-mi-quy-trinh-co-ban-cac-luu-y-phan-2-cach-nhao-nhoi-bot/">bài về cách nhồi bột</a>)</p>
+<p>4. <strong>Ruột bánh bở hoặc kém dai</strong>:</p>
+
+
+<ul>
+<li>Nhồi bột chưa đạt</li>
+<li>Ủ quá lâu</li>
+</ul>
+<p>5. <strong>Ruột bánh không trắng: </strong>thường là do loại bột sử dụng</p>
+<p>6. <strong>Bánh để lâu bị khô:</strong> chưa bọc, gói, đậy đủ kín. Nhưng nhìn chung thì bánh mì nên ăn càng sớm càng tốt, để lâu ít nhiều mùi vị bánh sẽ bị ảnh hưởng, dù bảo quản tốt thế nào đi chăng nữa (trừ cách làm đông đá).</p>
+<p>7. <strong>Bánh bị cháy mặt </strong>hoặc <strong>Ruột bánh ẩm, ướt..: </strong>Nhiệt độ nướng chưa phù hợp, có thể là lửa trên hoặc lửa dưới quá cao làm cháy mặt hoặc đáy bánh trong khi phần bên trong chưa đủ chín. Ngoài ra, nếu khuôn nướng là khuôn sẫm màu thì truyền nhiệt sẽ nhanh và tốt hơn, nên hạ nhiệt độ nướng xuống khoảng 10 độ so với công thức.</p>
+<p>8. <strong>Ruột bánh quá đặc: </strong>Cho muối hơi quá nhiều, ủ chưa đủ hoặc bột quá khô (ít nước).</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

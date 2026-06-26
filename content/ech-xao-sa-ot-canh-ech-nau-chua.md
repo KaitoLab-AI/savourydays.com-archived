@@ -1,0 +1,58 @@
+---
+title: "Ếch xào sả ớt & Canh ếch nấu chua"
+date: "2011-07-05"
+slug: "ech-xao-sa-ot-canh-ech-nau-chua"
+categories: []
+tags: []
+image: "/wp-content/uploads/2011/07/Canh-ech-chua.jpg"
+description: "Cách làm ếch xào sả ớt và canh ếch nấu chua ngon cho ngày mưa lạnh. Món ếch xào này là món tủ của mình, thịt ếch săn chắc, ngấm gia vị, thơm mùi hành tỏi sả"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Hình như là rất lâu rồi, rất rất lâu rồi mình không ăn thịt ếch, khéo đến cả chục năm rồi cũng nên. Cho nên là hôm trước tình cờ nhìn thấy trong siêu thị có bán đùi ếch thì xách một túi về luôn, chẳng đắn đo suy nghĩ gì hết :&gt; Người ta bán cả túi nguyên 1kg, mà lại chỉ có một mình, thế là lại được dịp bày vẽ :D Và kết quả là mình có một bữa cơm “đồng quê” với ếch xào sả ớt và canh ếch nấu chua. Giá mà có thêm quả cà bát dầm nữa thì … =P~</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5901661719/" title="IMG_4075 by LinhTrang9185, on Flickr"><img alt="IMG_4075" class="aligncenter" height="500" loading="lazy" src="http://farm6.static.flickr.com/5077/5901661719_bd17154aa2.jpg" width="326"/></a></p>
+<p>Ếch xào sả ớt hơi nóng một chút nên có thể ăn vào mùa hè không được hợp lắm. Nhưng nếu như có thêm bát canh chua thì mọi sự sẽ khác hẳn, bao nhiêu cái nóng cứ gọi là bị “thổi” bay đi hết trong vị chua dịu và thơm phức hành mùi của canh nhé :) Ah, quên mất một điều này nữa là theo mình thì món ếch xào sả ớt này sẽ là một ứng cử viên rất tốt nếu các bạn cần mồi nhậu ;;)</p>
+<p>Cách làm cũng đơn giản thôi, đợt này mình đang bận nhiều việc quá nên không chụp ảnh các bước được. Hứa với cả nhà là sau đợt bận rộn này xong sẽ “bù” lại nha :)</p>
+<p><strong><span style="text-decoration: underline;">I. Canh ếch nấu chua</span></strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5897525053/" title="Frog legs with tomato &amp; tamarin paste soup by LinhTrang9185, on Flickr"><img alt="Frog legs with tomato &amp; tamarin paste soup" class="aligncenter" height="500" loading="lazy" src="http://farm6.static.flickr.com/5061/5897525053_7ba768ff0a.jpg" width="326"/></a></p>
+<p><strong>Nguyên liệu</strong></p>
+<ul>
+<li><em>300gram thịt ếch (đã làm sạch, chặt miếng vừa ăn)</em></li>
+<li><em>1 quả cà chua to (rửa sạch, bổ múi cau)</em></li>
+<li><em>2 củ hành khô (bóc vỏ, băm nhỏ)</em></li>
+<li><em>Nước cốt me (hoặc thay bằng dấm bỗng hoặc sấu tươi)</em></li>
+<li><em>Hành, mùi tàu (rửa sạch, thái nhỏ)</em></li>
+<li><em>Gia vị, hạt tiêu, bột nêm</em></li>
+<li><em>Dầu ăn</em></li>
+</ul>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5897416501/" title="Frog legs with tomato &amp; tamarin paste soup by LinhTrang9185, on Flickr"><img alt="Frog legs with tomato &amp; tamarin paste soup" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6060/5897416501_6af441603a.jpg" width="345"/></a><a href="http://www.flickr.com/photos/55490207@N05/5897525053/" title="Frog legs with tomato &amp; tamarin paste soup by LinhTrang9185, on Flickr"><br/>
+</a><strong>Cách làm</strong></p>
+<p>1. Ướp đùi ếch với ½ số hành băm, gia vị, tiêu. Để khoảng 30 phút.</p>
+<p>2. Đun nóng một thìa con dầu trong nồi. Cho hành vào phi thơm. Tiếp theo cho ếch vào đảo sơ trong khoảng 1 phút. Cho cà chua. Thêm chút gia vị. Xào ếch và cà chua trong khoảng 3 – 4 phút, đến khi cà chua mềm (có thể để lại vài miếng cà chua, thả vào bát canh khi gần múc ra, để bát canh có miếng cà chua đẹp).</p>
+<p>3. Đổ nước lạnh (lượng đủ ăn) vào nồi. Đun sôi. Đợi nước sôi thì hớt hết bọt. Nêm lại gia vị, cho nước cốt me để có vị chua như mong muốn (hoặc cả nhà có thể thay bằng dấm bỗng hoặc sấu tươi nhé). Đun thêm khoảng 3-4 phút.</p>
+<p>4. Tắt bếp. Cho hành mùi vào nồi (giữ lại một ít để rắc lên mặt bát canh). Múc canh ra bát, rắc nốt chỗ hành mùi còn lại lên trên.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5898091998/" title="Frog legs with tomato &amp; tamarin paste soup by LinhTrang9185, on Flickr"><img alt="Frog legs with tomato &amp; tamarin paste soup" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6037/5898091998_9be27faba0.jpg" width="349"/></a></p>
+<p><span style="text-decoration: underline;"><strong>II. Ếch xào sả ớt</strong></span></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5897526067/" title="IMG_4082 by LinhTrang9185, on Flickr"><img alt="IMG_4082" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6046/5897526067_48d5df1eb8.jpg" width="339"/></a></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><strong>Nguyên liệu</strong></p>
+<ul>
+<li><em>300 gram thịt ếch (đã làm sạch, chặt miếng vừa ăn, mình dùng đùi ếch)</em></li>
+<li><em>1 củ sả (thái khoanh mỏng)</em></li>
+<li><em>2 quả ớt tươi (bỏ hột, thái khoanh)</em></li>
+<li><em>2 củ hành khô (bóc vỏ, băm nhỏ)</em></li>
+<li><em>2-3 tép tỏi (bóc vỏ, băm nhỏ)</em></li>
+<li><em>1 mẩu gừng nhỏ</em></li>
+<li><em>xì dầu (nước tương), dầu hào, xì dầu ngọt, gia vị, bột nêm, hạt tiêu</em></li>
+</ul>
+<p><strong>Cách làm</strong></p>
+<p>1. Đùi ếch ướp với chút gia vị, ½ số hành tỏi băm và tiêu. Để 30 phút.</p>
+<p>2. Đun nóng 1 thìa dầu ăn trong chảo. Cho lần lượt hành, tỏi và gừng vào chảo, phi thơm. Cho ếch vào. Để lửa to, xào sơ trong khoảng 2 phút.</p>
+<p>3. Cho xì dầu, dầu hào và xì dầu ngọt (hoặc đường) vào chảo. Đảo đều cho các thứ gia vị trộn đều với ếch trong chảo. Cho sả và ớt vào. Xào đến khi ếch chín.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5898090056/" title="IMG_4081 by LinhTrang9185, on Flickr"><img alt="IMG_4081" class="aligncenter" height="500" loading="lazy" src="http://farm6.static.flickr.com/5273/5898090056_5f9dd895b2.jpg" width="330"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

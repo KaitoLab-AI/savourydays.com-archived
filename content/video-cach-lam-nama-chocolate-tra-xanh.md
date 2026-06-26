@@ -1,0 +1,51 @@
+---
+title: "[VIDEO] Cách làm Nama Sô cô la trà xanh sakura"
+date: "2017-02-07"
+slug: "video-cach-lam-nama-chocolate-tra-xanh"
+categories: []
+tags: []
+image: "/wp-content/uploads/2017/02/cách-làm-nama-sô-cô-la-trà-xanh-banner.jpg"
+description: "Cùng học cách làm nama sô cô la trà xanh thật ngon với Savoury Days. Công thức đơn giản kèm video hướng dẫn cách làm chi tiết với các bí quyết thành công"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Valentine sắp đến rồi, một hộp chocolate thật ngọt ngào và thơm mát nhưng vẫn đáng yêu để tặng ‘bạn í’ thì sao nhỉ? ;)</p>
+<p>Nama chocolate hay sô-cô-la tươi là món liên tục hot trong nhiều năm gần đây. Mà cũng phải thôi, miếng chocolate bỏ vào miệng là tan ra, vừa có vị thơm ngậy, vừa có độ thanh mát của trà xanh làm cho người ăn không bị chóng ngán. Làm nama chocolate khá dễ, tại SD trước đây mình cũng giới thiệu một vài cách làm, nhưng đều là cách dùng bơ cùng sữa tươi để bạn nào không mua được kem tươi thì vẫn có thể thử món kẹo thơm ngon này.</p>
+<p>Thật ra so với nama chocolate dùng kem tươi thì nama chocolate dùng bơ không hề kém ngon, đặc biệt là về độ tan và độ mướt mịn, chỉ thiếu chút hương vị thơm ngậy đặc trưng của kem tươi thôi. Vì đã hứa với các bạn sẽ giới thiệu cách làm Nama chocolate với kem tươi từ khá lâu rồi nên trong video lần này mình dùng công thức “nguyên thuỷ” sử dụng kem tươi cùng chocolate nhé.</p>
+<p>Cách làm cũ dùng bơ các bạn có thể tham khảo tại<a href="/nama-chocolate-vi-tra-xanh-cong-thuc-moi/" target="_blank"><strong> công thức này.</strong></a></p>
+<h2>CÁCH LÀM NAMA SÔ CÔ LA TRÀ XANH SAKURA</h2>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Hộp hoặc khuôn vuông, kích thước 10 x 10 cm hoặc hộp hình chữ nhật kích thước tương đương; giấy nến để lót khuôn</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<ul>
+<li><em>16 bông hoa anh đào muối (không bắt buộc)</em></li>
+<li><em>12 g bột trà xanh</em></li>
+<li><em>1 – 2 g bột lá cây anh đào (không bắt buộc)</em></li>
+<li><em>70 ml (67 – 68 g) kem tươi hàm lượng béo 30 – 40%</em></li>
+<li><em>20 g bơ (nên dùng bơ động vật loại không muối)</em></li>
+<li><em>200 g chocolate trắng</em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>Về thành phần thì công thức Nama chocolate của mình không khác biệt nhiều so với hầu hết các công thức Nama chocolate trà xanh khác trên mạng. Mình dùng thêm bột lá cây anh đào vì cá nhân mình rất thích sự kết hợp của hai hương vị trà xanh và hoa anh đào. Thú vị lắm ấy, kiểu vừa thanh mát vừa nhẹ nhàng mà lại vẫn rất quyến rũ theo một cách đặc biệt :) Tuy nhiên, bột lá cây anh đào này ở Việt Nam mình không biết có nơi nào bán không, nên phần này chỉ là phụ thêm, các bạn có thể chỉ dùng bột trà xanh thôi là kẹo đã rất ngon rồi.</p>
+<p>Ở nước ngoài thì các bạn có thể tham khảo mua hoa anh đào muối, bột lá hoa anh đào từ website này: <a href="http://anything-from-japan.com" target="_blank">http://anything-from-japan.com</a> Hồi còn ở châu Âu mình vẫn hay đặt hàng từ đây, chất lượng cực kì đảm bảo và vận chuyển rất nhanh, tuy giá vận chuyển có hơi mắc một chút nhưng cộng vào với giá thành gốc thì vẫn chấp nhận được.</p>
+<p>Về cách làm thì công thức của mình có hơi khác với nhiều công thức khác là mình không đun nóng kem tươi rồi đổ vào chocolate mà dùng phương pháp cách thuỷ để chocolate chảy ra từ từ và hoà quyện với kem tươi. Việc đun nóng kem tươi có một yếu tố khá “nguy hiểm” là nếu đun quá đà thì chất béo trong kem sẽ dễ bị kết tủa làm hỏng mùi vị và chất lượng của kem. Ngoài ra, nếu kem quá nóng cũng dễ làm chocolate bị tách dầu và chuyển sang dạng lổn nhổn chứ không mịn mượt được. Do vậy mình chọn cách an toàn là để hơi nóng từ nước sôi lăn tăn làm nóng âu, giúp chocolate từ từ chảy ra.</p>
+<p>Các bước làm Nama về cơ bản thì rất dễ. Video cách làm đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo <a href="https://youtu.be/zp7TWWtIl4I" target="_blank"><strong>link này</strong></a> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="/demo-flan-creme-caramel-kem-caramel/" target="_blank">cách làm bánh flan này.</a> </strong></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/zp7TWWtIl4I" width="560"></iframe></div>
+<p> </p>
+<p><strong>TÓM TẮT CÁC BƯỚC CHÍNH</strong></p>
+<p>1. Ngâm hoa anh đào muối trong nước khoảng 1 giờ để hoa anh đào bớt mặn. Sau đó ép bớt nước ra khỏi hoa rồi để hoa trên giấy tới khi hoa khô hoàn toàn.</p>
+<p>2. Cắt một miếng giấy nến đủ để có thể bao kín lòng và thành khuôn. Dùng bơ đun chảy hoặc bình xịt chống dính khuôn trét vào thành trong của khuôn rồi lót giấy vào khuôn. Bơ/ xịt chống dính sẽ giúp giấy không bị xô lệch.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>3. Trộn bột trà xanh với bột lá cây anh đào (nếu có).</p>
+<p>4. Cho vào âu <strong>sạch và khô </strong>kem tươi, bơ cắt nhỏ, chocolate cắt nhỏ. Đun một chút nước trong nồi tới khi nước sôi lăn tăn thì hạ nhỏ lửa, đặt âu lên miệng nồi (<strong>lưu ý: đáy âu không chạm nước</strong>). Quấy liên tục. Hơi nóng từ nước sôi sẽ giúp chocolate tan chảy từ từ và hoà quyện với kem bơ thành hỗn hợp mịn mượt. Bắc âu ra khỏi nồi.</p>
+<p>5. Rây 1/2 lượng bột trà và bột lá anh đào vào âu, trộn đều tới khi hoà quyện rồi nếm thử. Từ từ cho thêm bột trà xanh và trộn đều, tới khi kẹo có vị ngọt vừa như ý muốn (càng nhiều bột trà, kẹo sẽ càng đắng hơn, lưu ý ta còn rây bột trà lên mặt kẹo sau cùng).</p>
+<p>6. Đổ hỗn hợp kẹo vào khuôn. Nếu hỗn hợp có nhiều bọt khí li ti (do trộn hơi mạnh tay quá) thì đập khuôn xuống bàn cho bọt khí vỡ bớt (tuy nhiên việc này không quan trọng lắm và sẽ không ảnh hưởng tới kẹo sau khi hoàn thành).</p>
+<p>Để khuôn vào tủ lạnh 4 – 5 giờ hoặc lâu hơn để kẹo đông cứng hoàn toàn.</p>
+<p>7. Lấy kẹo ra khỏi khuôn rồi dùng dao sắc cắt thành miếng vừa ăn. Bạn có thể nhúng dao qua nước sôi rồi lau khô, sau đó cắt kẹo sẽ dễ hơn. Sau mỗi lần cắt nên lau dao sạch.</p>
+<p>8. Rây bột trà xanh và lá anh đào lên mặt kẹo. Có thể xếp kẹo vào hộp rồi mới rây. Nếu chưa dùng ngay, nên rây một lớp mỏng rồi cất hộp kẹo vào ngăn mát tủ lạnh. Ngay trước khi dùng mới rắc thêm bột trà và trang trí bằng hoa anh đào muối.</p>
+<p>Bảo quản kẹo trong ngăn mát tủ lạnh, dùng càng sớm càng tốt.</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

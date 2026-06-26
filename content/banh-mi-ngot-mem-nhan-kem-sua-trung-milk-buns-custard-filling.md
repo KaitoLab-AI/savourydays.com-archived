@@ -1,0 +1,135 @@
+---
+title: "Cách làm bánh mì ngọt nhân kem sữa trứng (Milk buns)"
+date: "2012-04-25"
+slug: "banh-mi-ngot-mem-nhan-kem-sua-trung-milk-buns-custard-filling"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/04/MilkBun.jpg"
+description: "Cách làm bánh mì sữa ngọt mềm thơm mùi bơ với nhân kem trứng mềm mịn tuyệt ngon - có video và hình minh họa cụ thể các bước"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><em>Nếu bạn là “người mới” trong lĩnh vực “làm bánh mì” thì trước khi bắt tay vào làm thứ một công thức bất kì, hãy dành ra đôi ba phút để đọc thông tin mà mình đã chia sẻ trong các bài viết dưới đây nhé (<strong>không dài lắm đâu, nhưng rất quan trọng và cần thiết :) )</strong></em></p>
+<ol>
+<li>Phân biệt các loại bột làm bánh, cách sử dụng, thay thế các loại bột : <a href="/?p=1997">Phần 1</a> – <a href="/?p=2022">Phần 2</a></li>
+<li><a href="/?p=2068">Các chất gây nở (men nở, bột nở, muối nở..) – Phân loại, cách thay thế &amp; các lưu ý khi sử dụng</a></li>
+<li><a href="/?p=2138">Phân loại bánh mỳ – Hai phương pháp trộn bột bánh mỳ cơ bản và vài dòng chia sẻ</a></li>
+<li><strong>Làm bánh mỳ – Quy trình cơ bản và các lưu ý</strong>
+<ul>
+<li><a href="/?p=2277">Phần 1: Các bước làm bánh mỳ cơ bản &amp; Các chú ý về nguyên liệu</a></li>
+<li><a href="/?p=2293">Phần 2: Cách nhào/ nhồi bột </a></li>
+<li><a href="/?p=2332">Phần 3: Cách ủ bột, tạo hình, nướng bánh và bảo quản</a></li>
+</ul>
+</li>
+</ol>
+<p style="text-align: center;">—————————————————–</p>
+<div>Vỏ bánh mì ngọt/ bánh mì sữa (sweet roll dough/ milk bun) là một công thức bánh mì cực kì tiện dụng, vì từ vỏ bánh này người làm có thể thay đổi các loại nhân, thay đổi phần phủ mặt bánh (topping) hoặc thêm các loại hạt hay các loại gia vị là có thể tạo ra nhiều loại bánh khác nhau, cho các mục đích sử dụng khác nhau :)</div>
+<p>Thời gian vừa rồi mình làm thử khá nhiều công thức vỏ bánh mì ngọt khác nhau, không nhớ đã thử bao nhiêu nhưng  nhìn chung là nhiều vì liên tục trong vài tuần gần như tối nào mình cũng làm để ăn sáng &amp; trưa ngày hôm sau. Nhận xét rút ra là không thấy có sự khác biệt rất lớn trong thành phẩm làm ra. Bản thân các công thức cũng không khác nhau nhiều, với tỉ lệ chất lỏng (nước, sữa) so với lượng bột trong khoảng 50 – 60%, bơ khoảng 10 – 20%, đường khoảng 10 – 20%, và 10-20% trứng. Tỉ lệ chất lỏng cao như thế này, kèm thêm một lượng bơ, đường và trứng sẽ giúp cho bánh mềm và đủ ẩm, có thể giữ qua ngày mà không sợ bị khô.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7112304869/" title="Milk buns with custard filling by LinhTrang9185, on Flickr"><img alt="Milk buns with custard filling" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7131/7112304869_9e7b66a1a9_z.jpg" width="436"/></a></p>
+<p>Công thức vỏ bánh mà mình giới thiệu dưới đây cũng có tỉ lệ các thành phần gần như trên, tuy nhiên có một vài thay đổi nhỏ là với chất lỏng, <strong>mình dùng sữa và buttermilk</strong>. Buttermilk là một dạng sản phẩm sữa lên men, có vị chua và khá sánh, ngậy nữa. Buttermilk giúp cho bánh có mùi vị ngon hơn, ẩm và béo, acid trong buttermilk cũng có lợi cho việc nở của bánh. Mặc dù buttermilk rất khó kiếm ở Việt Nam, nhưng các bạn có thể thay thế bằng sữa tươi không đường pha với chanh hoặc dấm theo một tỉ lệ nhất định.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Công thức ở dưới đây bao gồm phần vỏ bánh (milk bun) và nhân kem trứng (custard). Bánh ra lò rất mềm, xốp, thơm và ngậy. Phần nhân kem trứng không bắt buộc. Các bạn cũng có thể thay bằng các loại nhân khác như bơ mặn, cream cheese, pho-mát bò cười… tùy thích nhé.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6966228358/" title="Milk buns with custard filling by LinhTrang9185, on Flickr"><img alt="Milk buns with custard filling" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7193/6966228358_c315c9e58e_z.jpg" width="431"/></a></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong>A. Phần vỏ bánh</strong></p>
+<ul>
+<li><em>260 gram (2 cup)  bột làm bánh mì (bột mì số 11/ bread flour) – rây mịn</em></li>
+<li><em>35 gram (3 tablespoon) đường hạt mịn (caster/ ultrafine sugar) – rây mịn</em></li>
+<li><em>3 gram (1/2 teaspoon) muối tinh</em></li>
+<li><em>5 gram (1.5 teaspoon) men instant (instant dry yeast)</em></li>
+<li><em>60 ml (1/4 cup) sữa tươi không đường – nhiệt độ phòng hoặc hơi mát</em></li>
+<li><em>60 ml (1/4 cup) sữa tươi không đường pha với 3 ml (1/2 tsp) nước cốt chanh (xem cách làm ở dưới – có thể thay bằng 60 ml buttermilk)</em></li>
+<li><em>1 trứng gà (50 gram không tính vỏ) – nhiệt độ phòng</em></li>
+<li><em>40 gram (3 tablespoon) bơ nhạt (bơ động vật không muối/ unsalted butter) – để mềm ở nhiệt độ phòng</em></li>
+</ul>
+<p><strong>B. Phần nhân bánh</strong></p>
+<ul>
+<li><em>1 lòng đỏ trứng gà (18 – 20gram)</em></li>
+<li><em>15 gram đường</em></li>
+<li><em>13 gram bột ngô (corn starch) – <strong>có thể thay bằng bột mỳ</strong></em></li>
+<li><em>50 gram sữa tươi không đường</em></li>
+<li><em>50 gram kem tươi (whipping cream) – <strong>có thể thay hoàn toàn bằng sữa tươi</strong></em></li>
+<li><em>2 ml va-ni chiết xuất (vanilla extract) </em></li>
+<li><em>10 gram bơ nhạt (bơ động vật không muối/ unsalted butter)<br/>
+</em></li>
+<li><em>1 gram muối</em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>(*) <span style="color: #ff0000;"><strong>Cập nhật</strong></span>: <span style="color: #ff0000;"><em>Tháng 11/2015 mình quay lại video hướng dẫn <a href="/papparoti-mexican-buns-coffee-buns-rotiboy/" target="_blank"><strong>cách làm bánh  mì cà phê Papparoti</strong></a>. Món bánh trong video sử dụng phần vỏ bánh của công thức Milk bun này, thêm phần phủ cà phê ở trên. Do vậy các bạn có thể tham khảo thêm trong video về cách nhồi bột, cách ủ bột, các tạo hình (vê tròn bột bánh) nhé.</em></span></p>
+<p>Video được đăng tại <strong><a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days</a></strong> (mình cập nhật video mới hàng tuần nên các bạn có thể Subscribe/ Đăng kí để nhận được thông báo ngay khi có video mới nhé :) ).</p>
+<p>Video có phụ đề tiếng Anh và tiếng Việt. Khi xem các bạn bật CC và chỉnh Language trong Setting để chọn ngôn ngữ. Ngoài ra, nhớ chọn chế độ 720p (HD) để xem video được rõ nét nhất nha.</p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/L2jfbrcInfg" width="560"></iframe></div>
+<p> </p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Cách làm của từng bước như sau:</p>
+<p><strong>A. Phần vỏ bánh</strong></p>
+<p>1. Pha nước chanh với sữa tươi, quấy đều, để yên 15 phút rồi dùng. Sữa sẽ kết tủa và hơi chua do tác dụng của men. Dùng sữa này làm bánh sẽ giúp bánh có vị đậm đà và xốp hơn. Nếu các bạn ở nước ngoài và có thể mua được buttermilk thì các bạn có thể thay thế buttermilk cho sữa pha chanh này nhé.</p>
+<p>2. Trong video mình dùng men instant nên có thể trộn men thẳng vào bột mà không cần kích hoạt. Nếu bạn dùng men khô, không phải loại “instant” hoặc muốn chắc chắn là men còn tốt thì có thể kích hoạt men bằng cách sau:</p>
+<p>Hâm nóng 60 ml sữa tươi, sao cho sữa ở nhiệt độ khoảng 35 – 40 độ C (<strong>không được nóng hơn, sẽ làm chết men hoặc yếu hoạt động của men</strong>). Cho 5gram đường và toàn bộ số men instant vào sữa, dùng đũa gỗ khuấy đều. Sau khoảng 5-10 phút sẽ thấy men nở tạo mảng, hơi giống với gạch cua như trong hình dưới. Nếu men không nở thì có hai khả năng, hoặc là men có vấn đề, hoặc là sữa quá nóng làm chết men, nên bỏ đi và chuẩn bị lại từ đầu.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/10722866194/" title="IMG_3221 by LinhTrang9185, on Flickr"><img alt="IMG_3221" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2872/10722866194_6d9b1051e1.jpg" width="500"/></a></p>
+<p>3. Cho bột, đường và muối vào âu. Trộn đều. Cho men instant vào âu, trộn đều. Mục đích của việc này là để men không dính vào đường và muối (men dễ bị yếu đi hoặc chết).</p>
+<p>Nếu có kích hoạt men thì cho phần men cùng sữa vào ở bước sau.</p>
+<p>4. Tạo một lỗ trống ở giữa âu bột. Cho sữa, sữa trộn chanh và trứng (đánh đều) vào âu bột. Quấy từ trong ra ngoài, tới khi nguyên liệu hòa quyện thành một khối đồng nhất.</p>
+<p>5. Nhồi bột tới khi bột mịn và khá đàn hồi. Mình nhồi bằng máy cầm tay 500 Watt thì nhồi ở tốc độ thấp trong 3 – 4 phút đầu rồi tăng lên tốc độ vừa, sau 10 phút là đạt được mốc này. Nếu nhồi bằng tay có thể sẽ lâu hơn.</p>
+<p>Bột khá dính nên nếu nhồi tay, các bạn có thể bọc kín âu bột và để nghỉ 20 phút trước khi nhồi. Việc này giúp hình thành gluten trong khối bột, làm cho bột bớt ướt dính hơn.</p>
+<p>6. Cho bơ mềm nhưng chưa chảy nước vào âu. Nhồi tiếp ở tốc độ chậm tới khi bơ hòa quyện hết thì tăng tốc độ, nhồi tới khi khối bột mịn, đàn hồi, có thể thử bằng window pane test: kéo dãn một ít bột, bột có thể căng tạo thành màng mỏng và không bị rách.</p>
+<p>7. Đổ bột ra bàn có phủ một lớp bột khô mỏng. Dùng bột áo cho tay nếu bột quá dính. Tạo hình bột thành khối tròn có mặt mịn. Khối bột lúc này dẻo và có độ đàn hồi tốt, ấn thử ngón tay lên mặt khối bột sẽ thấy phồng trở lại. Ngoài ra, khối bột khá nhão và ướt, nếu sờ ngón tay lên mặt bột sẽ có cảm giác hơi dính, nhưng khi nhấc lên thì bột không dính vào tay.</p>
+<p>8. Cho bột vào âu có quét một lớp dầu ăn mỏng. Lật khối bột cho dầu ăn bao đều bên ngoài khối bột, <em>việc này sẽ tránh cho bột bị khô trong quá trình ủ.</em> Dùng nilon bọc kín âu (hoặc dùng khăn ẩm đậy lên âu), ủ bột ở nhiệt độ phòng, đến khi bột nở gấp đôi.</p>
+<p>(<em>trong lúc đợi ủ bột có thể tranh thủ đi làm nhân kem trứng</em>)</p>
+
+
+<p>B. <span style="color: #000000;"><strong>Phần nhân kem trứng (Custard)</strong></span></p>
+<p>1. Đánh lòng đỏ trứng với đường đến khi lòng đỏ bông đặc, chuyển sang màu vàng nhạt.</p>
+<p>2. Rây bột vào âu trứng đường, trộn đều.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7112304917/" title="Custard by LinhTrang9185, on Flickr"><img alt="Custard" class="aligncenter" height="400" loading="lazy" src="http://farm6.staticflickr.com/5239/7112304917_0a062d2a7e.jpg" width="500"/></a></p>
+<p>3. Đun sữa đến khi sữa ấm nóng (<strong>nhưng không để sữa sô</strong>i). Từ từ đổ sữa vào âu trứng bột, vừa đổ vừa quấy đều tay (đổ liên tục đến khi hết sữa).</p>
+<p>4. Cho hỗn hợp vào nồi, để lửa nhỏ, <strong>quấy đều &amp; liên tục</strong>, lưu ý vét thành và đáy nồi. Đun đến khi hỗn hợp đặc sệt. Nếu trong quá trình đun kem trứng có dấu hiệu vón cục thì bắc ra khỏi bếp &amp; dùng phới lồng đánh trứng đánh mạnh tay cho hỗn hợp mịn trở lại. Sau khi hỗn hợp đặc sệt như ý muốn thì bắc khỏi bếp, cho bơ, muối &amp; vanilla, trộn đều. Để nguội (có thể bọc kín và bảo quản trong ngăn mát tủ lạnh từ 1-2 ngày)</p>
+<p><strong>* Ghi chú: </strong></p>
+<blockquote><p>Phần nhân custard đặc sẽ giúp ruột bánh sau khi nướng hơi rỗng một chút (như trong hình minh họa ở đầu bài). Còn nếu các bạn muốn ruột bánh đặc như trong hình dưới thì nên làm nhân lỏng hơn (tuy nhiên khi tạo hình bánh sẽ hơi mệt do nhân lỏng).</p></blockquote>
+<p>C. Tạo hình và hoàn thiện</p>
+<p>1. Để thử xem bột đã ủ đạt hay không, các bạn ấn một hoặc hai ngón tay vào bột, sâu khoảng 1 – 2cm. Sau khi rút tay lên, nếu vết lõm giữ nguyên tức là bột đã ủ đạt (hình 16), nếu vết lõm phồng trở lại tức là cần ủ thêm thời gian.</p>
+<p>2. Dùng mu bàn tay ép hoặc đấm nhẹ cho xẹp bọt khí trong khối bột. Lấy bột ra khỏi âu, nhồi lại sơ qua trong khoảng 1-2 phút. Cân cả khối bột (được khoảng 480 – 490gram), rồi chia nhỏ bột thành các phần bằng nhau. Lưu ý là <strong>dùng cân để chia cho chính xác (</strong>hình 18). Mình chia thành 10 khối bột, mỗi khối nặng 47 – 49gram. Để bột nghỉ 10 phút (hình 19-20).</p>
+<p>Chuẩn bị khay nướng có lót tấm nướng bánh hoặc giấy nướng bánh</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7112305057/" title="Milk bun 3 by LinhTrang9185, on Flickr"><img alt="Milk bun 3" class="aligncenter" height="400" loading="lazy" src="http://farm9.staticflickr.com/8026/7112305057_41a1e10e61.jpg" width="500"/></a></p>
+<p>3. Ấn hoặc cán bột thành các miếng dẹt, xúc nhân kem trứng đặt vào giữa, gấp bột lại để tạo thành hình thuôn dài (hình 21 – 24), hoặc túm các mép bột rồi vê tròn để làm bánh hình tròn (cách vê tròn bánh xem trong video). <strong>Dính mép bột thật kĩ để tránh nhân bị trào ra ngoài trong khi nướng.</strong> Đặt viên bột lên khay, xoay phần có vết dính các mép bột xuống dưới.</p>
+<p>4. Ủ bột lần 2. Các bạn có thể bọc cả khay bột rồi ủ ở nhiệt độ phòng, nếu trời nóng. Hoặc bật lò khoảng 50 độ C trong khoảng 3 – 5 phút rồi tắt lò, cho khay bột vào lò, để thêm một cốc nước sôi (để giữ ẩm), ủ bánh ở nhiệt độ 32 – 38 độ C đến khi bánh nở thêm khoảng 70 – 80% (<strong>không ủ ở nhiệt độ nóng hơn vì sẽ ảnh hưởng đến hoạt động của men, thậm chí có thể làm chết men</strong>).</p>
+<p>Thường quá trình ủ lần 2 này sẽ mất khoảng 30-45 phút để bánh nở thêm khoảng gấp đôi, và lò cần được làm nóng trước 10 – 15 phút. Nên sau khi ủ khoảng 20 – 25 phút thì các bạn làm nóng lò ở chế độ 2 lửa, nhiệt độ 180 độ C, khi lò đủ nóng cũng là lúc bột nở đủ. Nếu ủ bánh trong lò, cần lấy bánh ra khỏi lò rồi mới làm nóng lò.</p>
+<p><strong>* Ghi chú:</strong></p>
+<blockquote><p>Các bạn có thể đánh tan 1/2 quả trứng &amp; 1 thìa café nước. Nhẹ nhàng dùng chổi quét một lớp mỏng trứng trước khi đưa bánh vào lò nướng. Cách này sẽ giúp mặt bánh bóng vàng đẹp.</p></blockquote>
+<p>5. Nướng bánh ở nhiệt độ 180 – 190 độ C trong 20 – 30 phút, tùy theo kích thước bánh. Sau khoảng 15 – 20 phút, nếu mặt bánh đã vàng đủ thì các bạn lấy một tấm giấy bạc che mặt bánh, để mặt bánh khỏi bị cháy.</p>
+<p>6. Bánh chín lấy ra khỏi lò, để bánh trên rack cho nguội hẳn.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7112304773/" title="Milk buns with custard filling by LinhTrang9185, on Flickr"><img alt="Milk buns with custard filling" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7121/7112304773_5c88acc9dc_z.jpg" width="432"/></a></p>
+<p><span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;"><strong>* Các thất bại thường gặp &amp; nguyên nhân</strong><strong><br/>
+</strong></span></span></p>
+<p>1. <strong>Bột ủ không nở</strong>: Men có vấn đề (hết hạn, bị chết trong lúc kích hoạt), dùng sai loại men (ví dụ: thay vì dùng men nở thì dùng bột nở/ bột nổi)</p>
+<p>2<strong>. Bột quá nhão và dính tay, không thể nhào được</strong>: Tùy từng loại bột mà lượng nước hấp thụ có thể khác nhau (khác nhau như thế nào các bạn có thể xem thêm trong bài về phân loại bột và bài về cách nhồi bột – <strong>link ở đầu bài viết</strong>). Ngoài ra, nếu bạn làm bột trong một ngày nóng ẩm thì có thể bột cũng sẽ nhão hơn. Nếu bột quá nhão và dính thì các bạn có thể dùng thêm bột áo, rắc lên bột và xoa lên tay. Tuy nhiên, lưu ý là bột làm bánh mì ngọt thường nhão và dẻo, nhào rất dễ dàng. Dùng quá nhiều bột áo sẽ dễ làm cho bột bị khô, nhồi bột có cảm giác nặng tay hoặc khó nhồi (khó ấn, đẩy). Bột khô sẽ làm cho bánh kém mềm và kém ẩm, giữ bánh qua ngày cũng dễ bị khô hơn.</p>
+<p>3. <strong>Bột nhào mãi mà vẫn lổn nhổn, không thấy dai, mịn</strong>: Nhồi bột chưa đúng cách (xem thêm trong <a href="/?p=2293">bài về cách nhồi bột</a>)</p>
+<div>
+<p>4<strong>. Bột đàn hồi, co dãn khiến tạo hình khó (khó cán, khó nặn thành hình bánh mì hoặc vê tròn): </strong>nếu bột co dãn nhiều, hãy cán mỏng viên bột và để bột nghỉ khoảng 5 phút, việc này sẽ giúp các sợi Gluten “thư giãn” và không bị co rút nhiều nữa.</p>
+</div>
+<p>5. B<strong>ánh có mùi rượu hoặc có mùi chua, mùi men</strong>:</p>
+<ul>
+<li>Quá nhiều men (lần tiếp theo nên giảm bớt 1/4 lượng men)</li>
+<li>Men chưa kích hoạt hết (nếu dùng men khô)</li>
+<li>Ủ quá lâu</li>
+</ul>
+<p>6. <strong>Ruột bánh bở hoặc kém dai</strong>:</p>
+<ul>
+<li>Nhồi bột chưa đạt</li>
+<li>Ủ quá lâu</li>
+<li>Dùng loại bột có hàm lượng protein/ gluten thấp</li>
+</ul>
+<p>7. <strong>Ruột bánh không trắng: </strong>vì bánh này có bơ và trứng nên ruột bánh có thể sẽ hơi vàng một chút, đây là điều bình thường, còn nếu ruột bánh sẫm màu thì có thể là do loại bột sử dụng.</p>
+<p>8. <strong>Bánh bị cháy mặt, cháy đáy </strong>hoặc <strong>Ruột bánh ẩm, ướt..: </strong>Nhiệt độ nướng chưa phù hợp, có thể là lửa trên hoặc lửa dưới quá cao làm cháy mặt hoặc đáy bánh trong khi phần bên trong chưa đủ chín. Ngoài ra, nếu khuôn nướng là khuôn sẫm màu thì truyền nhiệt sẽ nhanh và tốt hơn, nên hạ nhiệt độ nướng xuống khoảng 10 độ C so với công thức.</p>
+<p>9.<strong> Nhân bánh bị trào ra ngoài: </strong>lượng nhân quá nhiều so với lượng bột, hoặc miết hay dính các mép bột chưa đủ kĩ</p>
+<p>10. <strong>Ruột bánh quá đặc: </strong>Cho muối hơi quá nhiều, ủ chưa đủ hoặc bột quá khô (ít nước).</p>
+<p>11. <strong>Ruột bánh có nhiều lỗ khí to: </strong>Đấm bột hoặc nhồi bột sau lần ủ thứ nhất chưa đủ kĩ, khiến bọt khí to còn lại trong bánh, hoặc ủ lần 2 quá lâu</p>
+<p>12. <strong>Vỏ bánh quá dày: </strong>Nhiệt độ nướng quá thấp.</p>
+<p>13. <strong>Bánh để lâu bị khô:</strong> Nướng hơi quá lâu hoặc Bảo quản chưa đủ tốt (chưa bọc, gói, đậy đủ kín). Bánh loại này nếu bảo quản tốt có thể để đến ngày thứ 2, thứ 3 mà bánh vẫn mềm.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6966228286/" title="Milk buns with custard filling by LinhTrang9185, on Flickr"><img alt="Milk buns with custard filling" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7200/6966228286_d8eb05e9b0_z.jpg" width="427"/></a></p>
+<div></div>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

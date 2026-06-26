@@ -1,0 +1,58 @@
+---
+title: "Nhật ký học làm bánh (Phần 5): Gateau Hồng Kông – Công thức"
+date: "2011-11-11"
+slug: "nhat-ky-hoc-lam-banh-phan-5-gateau-hong-kong-cong-thuc"
+categories: []
+tags: []
+image: "/wp-content/uploads/2011/11/GateauHK1.jpg"
+description: "Hoc lam banh, gato Hong Kong, mem nhu bong"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><strong>Xem thêm các lưu ý khi làm <a href="/nhat-ki-hoc-lam-banh-phan-5-foam-cake-va-gateau-hong-kong-gioi-thieu-mot-vai-luu-y/" title="gato">Gateau Hồng Kông tại ĐÂY</a></strong></p>
+<p>Đầu tiên là phải xin lỗi cả nhà vì up công thức chậm hơn so với đã hứa. Tại vì sau khi đăng bài giới thiệu lên, mình cảm giác là hình như đây là loại bánh mà rất nhiều bạn thích &amp; rất nhiều bạn mong đợi. Cho nên mình muốn kiểm tra lại mọi thứ một lần nữa, không chỉ công thức mà cả phần mô tả cách làm để được rõ ràng nhất có thể. Giờ thì chắc là ổn rồi :)</p>
+<p>Mấy hôm nay mình cũng dành thời gian đi đọc lại các công thức Ga-tô HK khác cũng như phản hồi trên các diễn đàn &amp; blog về loại bánh này. Một điểm mà mình nhận thấy khi đọc các phản hồi về Ga-tô HK là bánh ra lò thường hay bị xẹp, lõm trên, lõm dưới. Và cùng một công thức nhưng có người thành công, có người làm mãi vẫn hỏng. Tổng kết lại thì mình thấy có vẻ hai khâu dễ gây ra thất bại cho không chỉ Ga-tô HK mà còn cả các loại Foam Cake khác là <strong>đánh trứng</strong> và <strong>nhiệt độ lò nướng.</strong> Về đánh trứng thì mình có nói trong bài trước rồi, còn nhiệt độ lò nướng thì mình thấy hình như là phần lớn lò nướng tại gia đều có nhiệt độ rất không ổn định, chẳng hạn như là thanh nhiệt trên nóng hơn thanh nhiệt dưới, nhiệt độ trong lò khác với nhiệt độ điều chỉnh bên ngoài… Hậu quả là bánh bị cháy mặt trong khi đáy chưa chín, hoặc bánh nướng bị non (cho nên lấy ra thì xẹp), hoặc bên ngoài cháy mà bên trong sống… Nhưng bệnh này là của riêng từng lò nên tự bản thân mình phải nắm được và tự điều chỉnh thôi. Chẳng hạn như nếu lửa trên to hơn thì đặt khay nướng thấp hơn, hoặc nướng lửa dưới trước rồi đổi sang hai lửa… Và có một cái nhiệt kế cho lò là tốt nhất. Như lò nhà mình sau khi mình mua nhiệt kế về mới biết là nó luôn thấp hơn so với nhiệt đo bên ngoài tầm 15-20 độ :-| Một điểm nữa liên quan đến nhiệt độ là mình thấy chẳng hạn như Ga-tô HK, nướng ở nhiệt độ làm sao để bánh nở chậm và từ từ, thì cũng giúp bánh “vững” và ít xẹp khi lấy ra ngoài hơn.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6328245807/" title="Minicakes by LinhTrang9185, on Flickr"><img alt="Minicakes" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6101/6328245807_9154634017_z.jpg" width="436"/></a></p>
+<p>Quay về Gateau Hồng Kông, như mình cũng nói trong bài trước là mình không biết có thực sự nên gọi công thức này là Ga-tô Hồng Kông hay không vì nó rất khác so với công thức Ga-tô HK mà mình thấy được giới thiệu trên nhiều blog. Nhưng mình vẫn rất muốn giới thiệu công thức này vì tất cả những lần thử của mình, trừ hai lần đầu tiên do chưa biết cách đánh trứng đúng và chỉnh sai nhiệt độ ra thì bánh đều rất ổn, ngon và gần như không xẹp. Điều duy nhất mà mình còn hơi lăn tăn với công thức này là bánh chưa được mịn lắm, không biết có phải đánh trứng vẫn hơi bị kĩ quá không. Mặc dù theo mình biết thì mịn có lẽ không phải là tiêu chí quan trọng của Ga-tô Hồng Kông. Nhưng mình sẽ tìm cách khắc phục thử xem sao, và nếu kết quả tốt thì sẽ update với cả nhà nhé.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><strong>Nguyên liệu (cho khuôn tròn đường kính 20cm, bánh ra lò nở cao khoảng 5-6cm)</strong></p>
+<ul>
+<li> 45 <em>gram bột mỳ đa dụng/ bột mỳ thường (all purpose flour/ plain flour)</em></li>
+<li><em>15 gram bột ngô (corn starch)</em></li>
+<li><em>3 gram bột nở (baking powder)</em></li>
+<li><em>1 gram muối</em></li>
+<li><em>25 gram sữa tươi không đường</em></li>
+<li><em>20 gram bơ nhạt</em></li>
+<li><em>3 quả trứng (55-60gram/ quả không tính vỏ)</em></li>
+<li><em>80 gram đường</em></li>
+<li><em>2-3ml vanilla</em></li>
+</ul>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6329328711/" title="Sponge cake by LinhTrang9185, on Flickr"><img alt="Sponge cake" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6226/6329328711_2884a3d714_z.jpg" width="439"/></a></p>
+<p><span id="more-1190"></span></p>
+<p><strong>Cách làm</strong></p>
+<p><em><strong>Đây là trình tự mà mình làm, bao gồm cả bước cân nguyên liệu :D</strong></em></p>
+<p>1. Đầu tiên là tách lòng đỏ và lòng trắng của <strong>1 quả trứng</strong>. Lòng trắng để riêng trong 1 bát (<strong>sạch &amp; khô</strong>). Lòng đỏ đựng chung với 2 quả trứng còn lại. <strong>Lưu ý: </strong><em><strong>lòng trắng không được lẫn lòng đỏ hay bơ hoặc dầu mỡ</strong>. </em>Trứng nếu lạnh thì phải để cho bớt lạnh ở nhiệt độ phòng rồi mới bắt tay vào làm.</p>
+<p>2. Cân sữa và bơ. Cho bơ sữa vào nồi, đun nhỏ lửa cho bơ chảy &amp; hỗn hợp mấp mé sôi thì bắc xuống. Cho vanilla vào quấy đều, rồi đậy hoặc bọc kín để giữ ấm. <em>Theo sách thì việc dùng bơ và sữa ấm sẽ tốt hơn.</em></p>
+<p>3. Vặn lò nướng 150 độ C. Trong lúc đợi bơ sữa nóng thì cân đường, bột mỳ, bột ngô, bột nở. Dùng cây đánh trứng (whisk) trộn đều bột mỳ, bột ngô, bột nở. Rây lại cho mịn.</p>
+<p>4. Chuẩn bị hai cái âu <strong>sạch &amp; khô. </strong>Một âu đựng 2 quả trứng và 1 lòng đỏ trứng. Một âu đựng lòng trắng trứng.</p>
+<p>Cho ½ số đường (40 gram) vào âu đựng <strong>trứng &amp; lòng đỏ trứng</strong>, để máy ở tốc độ chậm rồi tăng dần đền tốc độ cao, đánh đến khi trứng bông mịn, chuyển màu vàng nhạt và khi nhấc que lên thì trứng chảy xuống thành dòng mịn mượt (giống như thả dây ruy-băng xuống vậy).</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Rửa sạch que đánh trứng – lau khô<strong> </strong>để đánh lòng trắng trứng. <strong>Lưu ý</strong> <em>que đánh phải sạch và khô, <strong><span style="text-decoration: underline;">không được</span></strong> dính chất béo</em> (bơ, lòng đỏ) nhé, vì <strong>có chất béo thì lòng trắng trứng sẽ không bông được đâu</strong>.</p>
+<p>5. Để máy đánh ở tốc độ chậm, cho một nhúm muối vào lòng trắng trứng, đánh khoảng 10-15s đến khi lòng trắng nổi bọt. Từ từ chuyển máy lên tốc độ cao, giữ máy chạy, từ từ cho nốt 1/2 số đường còn lại vào, đánh đến khi lòng trắng mịn, mượt, bóng, nhấc que lên thấy lòng trắng dính ở đầu que &amp; mềm. <span style="text-decoration: underline;"><strong>Không</strong></span> đánh lòng trắng bông quá nhé.</p>
+<p><em>Ở cả hai khâu đánh trứng trên, các bạn sẽ thấy đầu tiên là bọt khí rất to rồi từ từ nhỏ dần, làm cho hỗn hợp sẽ có nhiều bọt khí li ti trông như xà phòng giặt ấy. Tiếp tục đánh thì các bọt khí này sẽ nhỏ hơn nữa rồi “biến mất”, hỗn hợp trứng trở nên đặc, mịn &amp; mượt. Mình cảm giác đây giống như là <strong>mốc</strong> của việc đánh trứng, tức là nếu trứng chưa đánh được đến đây thì là quá non. Và đến bước này thì chỉ cần đánh thêm 1 chút xíu nữa để trứng <strong>đạt được như mô tả ở trên</strong> là dừng lại được rồi. Công thức này <span style="text-decoration: underline;"><strong>không</strong></span> yêu cầu đánh trứng quá bông.</em></p>
+<p>7. Cho ½ chỗ lòng trắng vào lòng đỏ. Dùng <strong><a href="/?p=910">kỹ thuật fold</a></strong> trộn cho hòa quyện. Cho nốt ½ chỗ lòng trắng còn lại vào. <strong>Fold</strong> cho hòa quyện. <strong>Lưu ý</strong> <em>trộn nhanh, nhẹ tay và dứt khoát, thường thì bước trộn này sẽ rất nhanh vì lòng trắng không quá bông nên trộn tương đối dễ.</em></p>
+<p>Về cách <strong>fold</strong> thì mình có cái clip hướng dẫn rồi. Bạn nào mới tập làm bánh thì xem cái đó sẽ dễ hơn. Mô tả đại loại kiểu trộn này là hất từ dưới lên để phần ở dưới phủ lên phần ở trên, khác với khuấy sẽ dễ làm vỡ các bọt khí trong trứng.</p>
+<p>8. Chia bột làm 3 phần, lần lượt rây từng phần vào âu và <strong>fold</strong> cho hòa quyện sau mỗi lần thêm bột.</p>
+<p>9. Lấy khoảng 3-5 thìa to (độ 1/2 bát con ăn cơm) hỗn hợp bột trứng, cho vào bơ sữa, quấy đều cho hòa quyện. Đổ hỗn hợp này ngược trở lại vào âu bột trứng và <strong>fold</strong> đều. <em>Mục đích của việc này là để cho bơ &amp; sữa dễ hòa trộn trong bột hơn. </em></p>
+<p>10. Đổ bột vào khuôn. Gõ nhẹ khuôn xuống bàn vài cái cho các bọt khí to vỡ bớt. Đặt khay nướng sao cho <strong>khuôn bánh ở chính giữa lò (</strong>thường là mình đặt thấp hơn rãnh giữa một nấc)<strong>,</strong> nướng ở nhiệt độ 150-155 độ C trong khoảng 30-40 phút.</p>
+<p><strong>Lưu ý: </strong>Khuôn <strong>không </strong>chống dính và sau khi trộn xong bột phải <strong>nướng ngay</strong> (để lâu thì bọt khí nó vỡ mất ý)</p>
+<p>Bánh chín lấy ra, úp ngược lên rack khoảng 5 phút rồi lấy một con dao mảnh rọc quanh thành bánh. Lấy bánh ra khỏi khuôn để bánh nguội hoàn toàn trên rack. Chỗ này mở ngoặc giải thích thêm 1 tí là cái “rack” mà mọi người hay dùng cho loại bánh này thường là các loại giá (tấm lưới kê) có nhiều lỗ hoặc khe hở và kê cao để hơi nước từ bánh có thể thoát bớt ra ngoài.</p>
+<p>Về trang trí bánh thì mình thấy bánh này rất nhẹ nên chắc chỉ dùng cái gì nhẹ nhẹ để trang trí thôi. Mình thì làm mấy cái mini cakes như kiểu ở đầu bài, trang trí bằng kem tươi &amp; chocolate, đơn giản mà vẫn ngon và đủ xinh để chụp ảnh :D Ah, mấy cái bánh này là làm từ bạt bánh to, nướng trong khuôn 20cm rồi cắt ra. Khi nào có nhiều mẫu hay ho mình sẽ viết riêng một bài về minicakes nhé.</p>
+<p>Thế thui, chắc là mọi thứ mình biết &amp; lượm lặt được đều ở đây hết rùi. Thật ra thì loại bánh này không đánh sợ lắm đâu, chỉ cần làm cẩn thận một chút (<strong>đánh trứng đủ, trộn bột đúng cách, nhẹ tay &amp; nhanh, nướng đúng nhiệt độ &amp; đủ thời gian) </strong>thì sẽ thành công thôi. Mình mới học làm bánh kiểu gateau mà làm được thì mọi người cũng sẽ làm được ấy mà ;) Vì công thức này cũng khá mới nên nếu được thì sau khi làm thử cả nhà phản hồi cho mình biết kết quả với nhé.</p>
+<p>Good luck!! ;)<br/>
+<a href="http://www.flickr.com/photos/55490207@N05/6328245153/" title="IMG_9207-2 by LinhTrang9185, on Flickr"><img alt="IMG_9207-2" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6214/6328245153_75959284e9_z.jpg" width="441"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

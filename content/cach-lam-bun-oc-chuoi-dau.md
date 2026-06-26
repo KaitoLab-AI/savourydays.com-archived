@@ -1,0 +1,103 @@
+---
+title: "Cách làm BÚN ỐC CHUỐI ĐẬU"
+date: "2019-02-22"
+slug: "cach-lam-bun-oc-chuoi-dau"
+categories: []
+tags: []
+image: "/wp-content/uploads/2019/02/cách-làm-bún-ốc-chuối-đậu-banner.jpg"
+description: "Cách làm bún ốc chuối đậu: một món ăn ngon dành cho những ngày trời chớm lạnh, cả gia đình quây quần xì xụp bên nồi ốc nóng hổi, chẳng cần sơn hào hải vị nh"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p> </p>
+<p><span style="color: #000000;">Nếu bạn đã quen với món bún riêu ốc hay bún ốc với nước dùng thanh, chua nhẹ, thì hãy thử đổi món này một lần xem sao nhé (đảm bảo bạn sẽ thích ngay ấy ;) ). Món ăn này tuy nguyên liệu trông nhiều vậy thôi chứ cách làm không phức tạp lắm đâu. Cuối tuần rồi, bỏ một chút thời gian là có một món mới cực kì hấp dẫn để chiêu đãi cả nhà, dù là dùng với bún hay nấu với ít nước để ăn kèm cơm đều ngon. </span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8114" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocchuoidau_final-1024x683.jpg" width="1024"/></p>
+<h2><span style="color: #000000;">CÁCH LÀM BÚN ỐC CHUỐI ĐẬU </span></h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu:</strong></span></p>
+<ul>
+<li><em><span style="color: #000000;">1 kg ốc mít cả vỏ</span></em></li>
+<li><em><span style="color: #000000;">400 gr xương lợn</span></em></li>
+<li><em><span style="color: #000000;">200 gr đậu phụ (4 bìa nhỏ)</span></em></li>
+<li><em><span style="color: #000000;">200 gr chuối xanh (khoảng 4 quả)</span></em></li>
+<li><em><span style="color: #000000;">200 gr cà chua (khoảng 4 quả cỡ vừa)</span></em></li>
+<li><em><span style="color: #000000;">100 ml dấm bỗng</span></em></li>
+<li><em><span style="color: #000000;">100 gr mẻ</span></em></li>
+<li><em><span style="color: #000000;">20 gr mắm tôm (nếu không ăn được có thể bỏ qua)</span></em></li>
+<li><em><span style="color: #000000;">50 gr hành khô</span></em></li>
+<li><em><span style="color: #000000;">1 quả chanh</span></em></li>
+<li><em><span style="color: #000000;">3 quả ớt tươi</span></em></li>
+<li><em><span style="color: #000000;">2 củ sả</span></em></li>
+<li><em><span style="color: #000000;">20 gr hành lá</span></em></li>
+<li><em><span style="color: #000000;">15 gr tía tô</span></em></li>
+<li><em><span style="color: #000000;">15 gr lá lốt</span></em></li>
+<li><em><span style="color: #000000;">20 gr xà lách (1 cây)</span></em></li>
+<li><em><span style="color: #000000;">20 gr hoa chuối bào</span></em></li>
+<li><em><span style="color: #000000;">10 gr bột nghệ</span></em></li>
+<li><em><span style="color: #000000;">20 ml nước mắm</span></em></li>
+<li><em><span style="color: #000000;">20 gr ớt chưng</span></em></li>
+<li><em><span style="color: #000000;">20 gr gia vị</span></em></li>
+<li><em><span style="color: #000000;">80 ml dầu ăn</span></em></li>
+<li><em><span style="color: #000000;">1 kg bún sợi nhỏ</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="color: #000000;"> 1. Ốc mua về ngâm trong nước với vài quả ớt thái lát trong ít nhất 2h hoặc qua đêm cho ốc nhả hết chất bẩn. Rửa lại nhiều lần bằng nước sạch.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8116" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocchuoidau1-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">2. Xương lợn rửa thật sạch,  cho vào nồi ngập nước với một thìa cafe muối, đun sôi khoảng 1 phút rồi đổ nước đi, rửa sạch hết bọt bẩn. Cho xương vào nồi với khoảng 1 lít nước. Đun sôi rồi hớt bọt nếu có. Cho vào nồi 3 – 4 củ hành khô, hầm xương trong khoảng 1h (dùng nồi áp suất thì nhanh hơn).</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8117" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocchuoidau2-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">3. Đậu phụ thái vuông cỡ 2cm, rán giòn các mặt.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8118" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocchuoidau3-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">4. Chuẩn bị các nguyên liệu còn lại:</span></p>
+<p><span style="color: #000000;">– Chuối xanh tước vỏ, thái lát dày cỡ 0,5cm, ngâm 15’ trong chậu nước muối và 1 thìa dấm cho hết nhựa.</span></p>
+<p><span style="color: #000000;">– Cà chua rửa sạch, bổ múi cau</span></p>
+<p><span style="color: #000000;">– Hành khô bóc vỏ, thái mỏng</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #000000;">– Sả rửa sạch, đập dập, cắt khúc dài 3cm.</span></p>
+<p><span style="color: #000000;">– Hành, tía tô, lá lốt rửa sạch, thái nhỏ.</span></p>
+<p><span style="color: #000000;">– Rau sống rửa sạch, vẩy khô, thái nhỏ vừa ăn.</span></p>
+<p><span style="color: #000000;">– Cho 1 bát con nước vào mẻ, lọc kĩ mẻ qua rây để lấy nước, bỏ phần cái mẻ.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8119" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocchuoidau4-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">5. Cho ốc vào nồi, đổ nước ngập xâm xấp ốc. Cho vào nồi 1 thìa cafe muối và sả đập dập, đun sôi đến khi ốc vừa mở miệng, vảy ốc bung ra là ốc chín. Không nên luộc quá lâu sẽ làm ốc mất ngon. Vớt ốc ra, để nguội bớt rồi nhể lấy phần thịt.</span></p>
+<p><span style="color: #000000;">Phần nước luộc ốc bạn để yên trong 15’ cho cặn bẩn lắng hết xuống đáy, sau đó nhẹ nhàng chắt phần nước luộc trong vào 1 tô khác, loại bỏ phần có cặn bẩn đi.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8120" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocchuoidau5-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">6. Bóp nhẹ phần thịt ốc với nước cốt 1 quả chanh trong 5’ cho hết nhớt, rửa lại bằng nước sạch. Sau đó ướp với 2 thìa cafe nước mắm, 1 thìa cafe dầu ăn, 1 thìa canh mẻ, 1 thìa cafe bột nghệ. Để 15’ cho ngấm.</span></p>
+<p><span style="color: #000000;">* 1 thìa café/ thìa ăn sữa chua/ teaspoon = 5 ml</span></p>
+<p><span style="color: #000000;">* 1 thìa canh/ thìa nhỡ ăn phở/ tablespoon = 15 ml</span></p>
+<p><span style="color: #000000;">7. Chuối xanh sau khi ngâm, trần qua nước sôi trong 1’ đến hơi chín, vớt ra để ráo. Ướp chuối với 1 thìa cafe gia vị, 1 thìa cafe mắm, 1 thìa cafe bột nghệ và 1 thìa canh mẻ. Để 15’ cho ngấm.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8121" height="681" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocchuoidau7-1024x681.jpg" width="1024"/></p>
+<p><span style="color: #000000;">8. Đun nóng 30ml dầu ăn, cho ¼ chỗ hành khô thái mỏng vào phi thơm. Cho ốc vào xào săn trong vòng 5’ trên lửa to. Trút ra bát, để riêng.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8122" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocchuoidau8-1024x683.jpg" width="1024"/></p>
+
+
+<p><span style="color: #000000;">9. Cho thêm 1 thìa canh dầu ăn vào chảo, phi thơm ½ chỗ hành khô, cho chuối vào </span><span style="color: #000000;">xào khoảng 5’. Sau đó cho đậu phụ đã rán vào xào cùng thêm 2’, lưu ý đảo nhẹ nhàng tránh đậu bị nát. Cho khoảng 1 bát con nước xương hầm vào chảo, om thêm khoảng 5’ đến khi chuối, đậu chín mềm (nhưng không nát), ngấm đều các gia vị, trút ra bát, để riêng. Nếu nước cạn nhanh có thể cho thêm.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8123" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocchuoidau9-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">10. Đun nóng 1 thìa dầu ăn phi vàng nốt chỗ hành khô còn lại, cho cà chua đảo nhanh tay khoảng 0.5 – 1 phút rồi tắt bếp.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8124" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocchuoidau10-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">11. Đổ phần nước luộc ốc và nước xương hầm vào 1 nồi to, cho hết cà chua xào vào nồi và đun sôi. Nêm nếm nồi nước dùng với gia vị, nước mắm và dấm bỗng cho vừa khẩu vị.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8125" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocchuoidau11-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">12. Trụng bún vào nồi nước sôi, xóc cho bớt nước, cho vào bát tô. Rồi xếp lên trên các nguyên liệu: Chuối, đậu, ốc xào, ½ thìa cafe mắm tôm, hành, tía tô, lá lốt thái nhỏ, rồi chan nước dùng đang sôi lên đầy bát. Ăn kèm với các loại rau sống thái nhỏ và chút ớt chưng.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8126" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocchuoidau12-1024x682.jpg" width="1024"/></p>
+<p><span style="color: #000000;">13. Làm ớt chưng: Nguyên liệu</span></p>
+<ul>
+<li><span style="color: #000000;"><em>20 gr ớt khô</em></span></li>
+<li><span style="color: #000000;"><em>8 gr ớt tươi (3 quả ớt cay nhỏ, nếu muốn ăn cay hơn thì tăng thêm lượng ớt tươi)</em></span></li>
+<li><span style="color: #000000;"><em>7 gr bột ngũ vị hương</em></span></li>
+<li><span style="color: #000000;"><em>30 gr vừng trắng rang chín thơm</em></span></li>
+<li><span style="color: #000000;"><em>6 gr hạt tiêu xay</em></span></li>
+<li><span style="color: #000000;"><em>1 lá nguyệt quế (có thể bỏ qua)</em></span></li>
+<li><span style="color: #000000;"><em>1 cái hoa hồi</em></span></li>
+<li><span style="color: #000000;"><em>100 ml dầu ăn</em></span></li>
+<li><span style="color: #000000;"><em>1 nhánh gừng tươi băm nhỏ</em></span></li>
+<li><span style="color: #000000;"><em>10 gr hành khô băm nhỏ</em></span></li>
+</ul>
+<p><strong><span style="color: #000000;">Cách làm:</span></strong></p>
+<p><span style="color: #000000;">– Cho vào bát tất cả các nguyên liệu: ớt khô, ngũ vị hương, vừng rang, hạt tiêu, lá nguyệt quế, hoa hồi.</span></p>
+<p><span style="color: #000000;">– Đun nóng dầu ăn, cho hành khô và gừng băm nhỏ vào phi đến khi thơm, hành hơi ngả vàng thì cho ớt băm vào xào cùng 30 giây rồi tắt bếp, cẩn thận đổ dầu hành ớt vẫn đang sôi vào bát nguyên liệu, khuấy đều cho các nguyên liệu chín.</span></p>
+<p><span style="color: #000000;">– Đến khi dầu nguội bớt và không còn nổi bong bóng nữa thì vớt bỏ lá nguyệt quế và hồi.</span></p>
+<p><span style="color: #000000;">– Cho ớt chưng vào lọ thủy tinh và bảo quản ở ngăn mát tủ lạnh.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8127" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunocchuoidau14-1024x683.jpg" width="1024"/></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

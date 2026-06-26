@@ -1,0 +1,36 @@
+---
+title: "[VIDEO] Cách làm bánh mì sữa Hokkaido"
+date: "2015-11-02"
+slug: "video-cach-lam-banh-mi-sua-hokkaido"
+categories: ["Bếp nhà mình"]
+tags: ["bánh mì"]
+image: "https://farm6.staticflickr.com/5716/22516311730_491233e5cd.jpg"
+description: "Video hướng dẫn cách làm bánh mì sữa Hokkaido tuyệt ngon"
+---
+
+<p>Đã gần hai năm kể từ ngày mình giới thiệu <a href="/banh-mi-sua-hokkaido-hokkaido-milky-bread/" target="_blank"><strong>công thức bánh mì sữa Hokkaido</strong></a> tại blog và cho đến giờ đây vẫn là một trong những công thức bánh mì được yêu thích nhất ở SD. Bánh mềm, xốp, dai và đặc biệt thơm mùi của kem và sữa – thứ hương vị mà không loại nguyên liệu nào khác thay thế được. Cũng vì đây là công thức rất được ưa chuộng nên tuần vừa rồi mình quay lại cả quá trình làm bánh mì Hokkaido và đã đăng tại YouTube của SD. Hi vọng video này sẽ giúp các bạn hình dung được rõ hơn về cách làm trong từng bước, và đặc biệt là tình trạng bột như thế nào là ổn :)</p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/22516311730/in/photostream/" title="IMG_3768"><img alt="IMG_3768" class="aligncenter" height="313" loading="lazy" src="https://farm6.staticflickr.com/5716/22516311730_491233e5cd.jpg" width="500"/></a></p>
+<p>Mặc dù công thức Hokkaido vốn đã rất ngon, nhưng để làm được bánh mì ngon thì ngoài công thức còn cần tay nghề nữa. Như bản thân mình thì thấy món bánh mì Hokkaido mà mình làm bây giờ, so với chiếc bánh đầu tiên mình thử cách đây hai năm có khác nhiều, mặc dù vẫn dùng một công thức như vậy.</p>
+<p>Cho nên, nếu trong lần thứ 1, 2 … bạn thử công thức mà thấy chưa vừa ý thì hãy xem thêm các kiến thức về bánh mì, đọc thêm phản hồi để rút kinh nghiệm và thử lại nhé. Đừng vội chán nản và cho rằng tại công thức chưa ổn hay do mình không biết làm. Việc gì cũng cần có quá trình rèn luyện cả.</p>
+<p>Còn một điểm nữa về bánh mì Hokkaido mà  các bạn cũng hay thắc mắc là thời gian sử dụng của bánh, l<strong><em>àm thế nào để bánh có thể để được tới 4 ngày mà vẫn mềm, ăn vẫn thơm ngon, không bị khô</em></strong>. Một bí quyết thường được dùng là sử dụng bột Tangzhong – là kĩ thuật làm bánh của người châu Á, đun một phần bột với nước trước rồi dùng bột này để làm bánh. Trong sách Nhật ký học làm bánh 2 mình cũng có giới thiệu công thức bánh mì Hokkaido với Tangzhong, các bạn có thể làm thử. Tuy nhiên, ngay cả với công thức không có Tangzhong này thì bánh làm ra vẫn có thể để được tới ngày thứ 4 mà vẫn mềm. Bí quyết là <strong>bột bánh cần có nhiều nước. </strong>Bột bánh trong video mình làm với lượng nước vừa phải (lượng nước ghi trong công thức), bột sau khi nhồi xong dẻo, mịn và hơi ướt chút xíu. Nếu tăng sữa nhiều hơn một chút để bột ướt hơn nữa thì khối bột sẽ nhão hơn bột trong video, sờ vào sẽ thấy dính, khâu tạo hình và nhồi bột cũng khó hơn kha khá. Tuy nhiên bánh làm ra sẽ mềm, xốp và để được lâu hơn nhiều.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/22083154263/" title="IMG_0879"><img alt="IMG_0879" class="aligncenter" height="313" loading="lazy" src="https://farm6.staticflickr.com/5753/22083154263_6112d3e3b6.jpg" width="500"/></a></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/savourydays/22704271445/in/photostream/" title="IMG_0884"><img alt="IMG_0884" class="aligncenter" height="333" loading="lazy" src="https://farm1.staticflickr.com/656/22704271445_326bb3af88.jpg" width="500"/></a></p>
+<p>Mình không đưa phần này vào video vì việc tăng bao nhiêu nước và xử lí bột như thế nào phụ thuộc nhiều ở tay nghề làm bánh mì của các bạn. Ngay cả trong trường hợp nhồi bột bằng máy thì cũng cần biết cách “cảm nhận” khối bột, để biết như thế nào là ổn. Bởi vậy nên mình chỉ chia sẻ tại đây, để các bạn nào đã có nhiều kinh nghiệm về làm bánh mì thì thử xem sao nhé.</p>
+<p>Video đã được đăng tại <strong><a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days.</a></strong> Để nội dung bài không bị loãng thì mình gắn video tại <a href="/banh-mi-sua-hokkaido-hokkaido-milky-bread/" target="_blank"><strong>bài viết có công thức của bánh mì Hokkaido</strong></a>. Các bạn có thể xem trong bài viết hoặc xem trực tiếp tại YouTube nhé. Video mới cũng được đăng hàng tuần tại YouTube của SD nên nếu các bạn có tài khoản Gmail thì các bạn có thể Subscribe (đăng kí) ở kênh YouTube của SD để nhận được thông báo ngay khi video được đăng lên nha.</p>
+<p>Chúc cả nhà một tuần mới nhiều niềm vui :)</p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

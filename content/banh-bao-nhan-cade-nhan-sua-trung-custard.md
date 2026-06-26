@@ -1,0 +1,81 @@
+---
+title: "Cách làm bánh bao nhân cade (nhân sữa trứng/ custard)"
+date: "2014-09-22"
+slug: "banh-bao-nhan-cade-nhan-sua-trung-custard"
+categories: []
+tags: []
+image: "/wp-content/uploads/2014/09/BanhBaoCade.jpg"
+description: "bánh bao cade, cách làm bánh bao"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Trời chuyển lạnh rồi, buổi sáng có một hai chiếc bánh bao nóng thêm ly sữa đậu nành nữa thì quá tuyệt, vừa ngon, vừa đủ chất mà lại rất nhanh nữa vì bánh bao đã chín rồi nên chỉ cần bỏ vào lò vi sóng quay 30s là có đồ ăn nóng sẵn sàng. Hôm nào có chẳng may dậy  muộn cũng không lo nhịn đói đi làm vì không đủ thời gian chuẩn bị bữa sáng ;)</p>
+<p>Vì bánh bao lâu nay chủ yếu là nhân mặn, nên lần này mình thử đổi vị, làm bánh bao nhân ngọt xem sao. Nói là món mới nhưng thực ra cả bánh bao và nhân custard đều là hai thứ đã rất quen thuộc rồi. Chỉ có điều nhân custard cho bánh bao (hay còn gọi là nhân cade) thì hơi khác với nhân custard của bánh su một chút vì cần phải đặc hơn để dễ nặn bánh, và thường có thêm ít vị sữa dừa. Một số công thức của người Trung Quốc có sử dụng bột custard để làm phần nhân này. Nhưng sau khi thử thì mình thấy bột custard chỉ có ưu điểm là giúp cho nhân có màu vàng đẹp hơn, ngoài ra cũng có tạo thêm mùi thơm của sữa (mặc dù nói thật lòng là mùi thơm này rất nhân tạo). Về chất lượng, nếu so với nhân chỉ dùng hoàn toàn sữa, trứng.. thì nhân dùng bột custard mình thấy không ngon và ngậy bằng. Nên mình bỏ nguyên liệu này ra khỏi công thức, và dùng thêm ít màu thực phẩm vàng để nhân được hấp dẫn hơn. Công thức mình ghi lại ở dưới nhé :)</p>
+<p><img alt="IMG_8587" class="aligncenter" height="333" loading="lazy" src="https://farm6.staticflickr.com/5594/15316907351_539124695c.jpg" width="500"/></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong>A. Nhân custard (nhân cade):</strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em>2 lòng đỏ trứng (18 – 20 gr/ lòng đỏ)</em></li>
+<li><em>30 gr đường</em></li>
+<li><em>15 gr sữa bột (không bắt buộc nhưng có thì nhân sẽ thơm hơn)</em></li>
+<li><em>70 gr (khoảng 65 ml) nước cốt dừa (coconut milk)</em></li>
+<li><em>20 gr bột ngô (corn starch)</em></li>
+<li><em>80 gr sữa tươi không đường</em></li>
+<li><em>20 gr bơ nhạt (bơ động vật không muối)</em></li>
+<li><em>1/2 teaspoon/ thìa cafe (2 – 3 ml) vanilla chiết xuất </em></li>
+<li><em>chút xíu muối</em></li>
+<li><em>vài giọt màu thực phẩm vàng (không bắt buộc)</em></li>
+</ul>
+<p><strong>B. Vỏ bánh:</strong></p>
+<ul>
+<li><em>1/2 công thức v<a href="/banh-bao-nhan-xa-xiu/">ỏ bánh bao nhân thịt</a> hoặc vỏ <a href="/banh-bao-sua-chay/">bánh bao sữa chay Hokkaido</a> (có thể giảm đường trong ct gốc – mình giảm 10 gr vì nhân bánh cũng ngọt rồi)</em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm </strong></span></p>
+<p><strong>A. Nhân custard:</strong> N<em>ên chuẩn bị phần nhân này trước, để nhân nguội hẳn và đông đặc lại thì khi nặn bánh sẽ dễ hơn.</em></p>
+<p>1. Cho lòng đỏ trứng vào âu. Rây đường. Đánh tan nhẹ nhàng đến khi đường và trứng hòa quyện (không cần đánh bông)</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15133361270/" title="Banh bao nhan custard by LinhTrang9185, on Flickr"><img alt="Banh bao nhan custard" class="aligncenter" height="313" loading="lazy" src="https://farm6.staticflickr.com/5564/15133361270_fd6ff3f8b1.jpg" width="500"/></a></p>
+<p>2. Rây sữa bột, trộn đều với trứng và đường</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15316907501/" title="Banh bao nhan custard1 by LinhTrang9185, on Flickr"><img alt="Banh bao nhan custard1" class="aligncenter" height="313" loading="lazy" src="https://farm4.staticflickr.com/3913/15316907501_ac75163d12.jpg" width="500"/></a></p>
+<p>3. Cho nước cốt dừa, sữa tươi và rây bột ngô vào âu trứng. Quấy đều đến khi các nguyên liệu hòa quyện.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15320059765/" title="Banh bao nhan custard2 by LinhTrang9185, on Flickr"><img alt="Banh bao nhan custard2" class="aligncenter" height="313" loading="lazy" src="https://farm4.staticflickr.com/3889/15320059765_c02610b24d.jpg" width="500"/></a></p>
+<p>4. Lọc hỗn hợp qua rây, đổ vào nồi (nếu có vụn bột đọng lại trong rây thì miết cho bột này tan và rơi qua rây xuống hỗn hợp, quấy đều).</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>5. Đun hỗn hợp trứng sữa ở lửa vừa. Quấy liên tục và đều tay trong quá trình đun.</p>
+<p><strong>Lưu ý</strong>: <em>không để lửa quá to, sẽ dễ làm trứng bị chín, làm cho hỗn hợp bị lợn cợn trứng. Nếu hỗn hợp có dấu hiệu đặc quá nhanh và có lợn cợn thì nhấc nồi ra khỏi bếp, dùng phới lồng quấy mạnh tay đến khi hỗn hợp mịn mượt trở lại.</em></p>
+<p>6. Quấy đến khi hỗn hợp chín và chuyển hơi đặc sệt thì bắc ra khỏi bếp. Cho bơ, vanilla và muối, quấy đều. Có thể bắc lên bếp quấy thêm 1 – 2 phút nếu hỗn hợp còn hơi lỏng. Cần nấu đến khi hỗn hợp chuyển thành dạng khá đặc sệt. nhưng không quá đặc vì phần sữa trứng sẽ tiếp tục đặc và cứng hơn khi để nguội. Nhân lỏng quá khi nặn bánh sẽ rất mệt. Nhân đặc quá khi ăn bánh sẽ kém ngon. Nên làm sao đạt được điểm ở giữa hai mốc này: không quá đặc và không quá lỏng là đạt :)</p>
+<p>Sau khi hỗn hợp đã đạt, đổ ra bát, để nguội (có thể bảo quản trong tủ lạnh).</p>
+<p>* <strong>Ghi chú</strong>: <em>nếu nếm thử thấy hỗn hợp nhân còn vị bột sống thì các bạn thêm vào nồi chút sữa, quấy tan đều cho nhân loãng ra rồi bắc lên bếp nấu tiếp đến khi chín hoàn toàn, không còn vị bột nữa.</em></p>
+<p style="text-align: center;"><em>Nhân sau khi quấy chín </em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15133514588/" title="IMG_6476 by LinhTrang9185, on Flickr"><img alt="IMG_6476" class="aligncenter" height="333" loading="lazy" src="https://farm6.staticflickr.com/5582/15133514588_87f3ff3075.jpg" width="500"/></a></p>
+<p><strong>B. Làm vỏ bánh và hoàn thiện</strong></p>
+<p>1. Làm vỏ bánh theo hướng dẫn trong công thức vỏ bánh bao mà bạn lựa chọn trong phần nguyên liệu.</p>
+<p>2. Sau khi vỏ bánh đã ủ đủ. Chia vỏ bánh làm 8 phần (mỗi phần khoảng 35 – 40 gram). Chia nhân bánh thành 8 phần (mỗi phần khoảng 23 – 25)</p>
+<p>3. Vê tròn từng viên bột vỏ bánh, cán mỏng thành hình tròn. Vì vỏ bánh sẽ co, khó gói nhân, nên mình cán tất cả 8 miếng bột. Sau đó quay về với miếng bột đầu tiên, cán sơ qua một lần nữa, rồi cho nhân vào và gói. Miếng bột đã có một thời gian “nghỉ” nên sẽ co dãn ít hơn, có thể dễ dàng gói nhân.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15133317209/" title="Banh bao nhan custard3 by LinhTrang9185, on Flickr"><img alt="Banh bao nhan custard3" class="aligncenter" height="313" loading="lazy" src="https://farm4.staticflickr.com/3850/15133317209_d8e05a1c9d.jpg" width="500"/></a></p>
+<p>*<strong> Lưu ý</strong>:</p>
+<p>– <em>Nếu các bạn làm nhiều, nên dùng nilon hoặc khăn ẩm để che phần bột chưa sử dụng, tránh làm bột bị khô, bánh hấp xong sẽ kém mềm.</em></p>
+<p><em>– Nên cán phần mép bột mỏng và phần giữa dày hơn. Khi túm vỏ lại, cần tránh cho trứng dính vào mép vỏ bột, sẽ làm cho bột không dính được với nhau, khi hấp dễ bị bung mép.</em></p>
+
+
+<p><em>– Có thể cắt giấy trắng hoặc giấy nến để đặt bánh bao lên trên. Mình hay dùng cup giấy làm cupcake (loại trắng tinh). Nếu làm bánh bao hình tròn thì quay phần mép bột xuống dưới, giúp bánh đẹp hơn và cũng hạn chế được việc mép bột bị bung khi hấp.</em></p>
+<p><em>– Sau khi nặn xong, để bánh nghỉ khoảng 10 – 15 phút rồi hấp.</em></p>
+<p>4. Chuẩn bị xửng hấp, đun sôi nước. Hấp bánh trong khoảng 7 – 10 phút. Khi hấp cần để lửa to, làm sao để hơi nước nóng và bốc lên nhiều, nhưng nước không bị trào lên phần đặt bánh. Lửa to sẽ giúp bánh nở tốt hơn.</p>
+<p>Trong quá trình hấp không được mở nồi, sẽ làm bánh bị xẹp. Cũng không nên hấp quá lâu, sẽ dễ làm vỏ bánh bị nhăn nheo.</p>
+<p>Các lưu ý khác các bạn có thể xem thêm trong bài về vỏ bánh bao (link trong phần Nguyên liệu ở trên) nhé.</p>
+<p>5. Bánh ngon nhất là khi vừa hấp xong, vỏ bánh mềm xốp và phần nhân nóng ấm nên hơi mềm lỏng một chút (kiểu rất <em>creamy). </em>Để nguội thì nhân sẽ cứng hơn một chút nhưng vẫn rất ngon :)</p>
+<p>Bánh có thể bọc kín để tủ lạnh trong khoảng 2 ngày. Khi ăn hấp lại hoặc cho vào lò vi sóng (đậy kín để bánh không bị khô), quay cho bánh nóng lại. Nếu muốn để lâu hơn, các bạn có thể để bánh (đã hấp chín) trong tủ đá, khi ăn thì rã đông rồi làm nóng lại như trên. Hoặc cũng có thể trữ đông bánh chưa hấp, khi ăn thì rã đông rồi hấp như hướng dẫn trong bước (4) ở trên.</p>
+<p>Chúc các bạn có món bánh bao ngon làm điểm tâm trong những ngày mùa thu thời tiết siêu tuyệt diệu này ^.^</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15320059655/" title="IMG_8598-1 by LinhTrang9185, on Flickr"><img alt="IMG_8598-1" class="aligncenter" height="347" loading="lazy" src="https://farm6.staticflickr.com/5556/15320059655_57cc624968.jpg" width="500"/></a></p>
+<hr/>
+<p>Tổng hợp các công thức làm bánh bao trên Savoury Days:</p>
+<ul>
+<li><a href="/video-cach-lam-banh-bao-a-z-va-cach-bat-mui-banh-bao/" target="_blank">Cách làm bánh bao A-Z cùng các công thức bánh bao trứng muối lạp sườn, bánh bao sữa chay, bánh bao kim sa, bánh bao kim sa vị sầu riêng …</a></li>
+<li><a href="/banh-bao-nhan-xa-xiu/" target="_blank">Cách làm bánh bao – Công thức làm bánh bao nhân xá xíu</a></li>
+</ul>
+<p> </p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,39 @@
+---
+title: "Tôm rim mặn ngọt (Caramelized Shrimps)"
+date: "2011-11-17"
+slug: "tom-rim-man-ngot-caramelized-shrimps"
+categories: []
+tags: []
+image: "/wp-content/uploads/2011/11/TomRimManNgot1.jpg"
+description: ""
+---
+
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Món ăn quá quen thuộc rùi nên chắc không phải giới thiệu nữa đâu nhỉ :) Mình thích món này vì thích cái vị săn chắc của con tôm ngấm đường mắm mặn ngọt, thích cả cái nước rim tôm sền sệt nữa, trộn với cơm trắng và thêm ít dưa cải muối nữa thì…</p>
+<p>Vì là món quen thuộc nên mình nghĩ chắc cũng có nhiều cách làm cho món ăn này. Cách của mình thì đơn giản thôi, tôm được rang trước với hành tỏi và dầu ăn cho săn bóng lại, rồi mới đảo với mắm và đường để tôm đậm đà. Phần nước rim tôm nếu làm cho cạn hơi sền sệt lại thì mình thấy hơi giống kiểu kho quẹt, nhưng ai không thích có thể đảo đến khi khô lại cũng không sao :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6352221441/" title="IMG_8972-1 by LinhTrang9185, on Flickr"><img alt="IMG_8972-1" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6034/6352221441_d3776c1090_z.jpg" width="426"/></a></p>
+<p><strong>Nguyên liệu</strong></p>
+<ul>
+<li><em>0.5kg tôm to </em></li>
+<li><em>2-3 củ hành khô </em></li>
+<li><em>2-3 tép tỏi</em></li>
+<li><em>Nước hàng (nước màu – cách chưng tại <a href="/?p=1030">ĐÂY</a>)</em></li>
+<li><em>Nước mắm </em></li>
+<li><em>Đường </em></li>
+<li><em>Tiêu </em></li>
+<li><em>Dầu ăn </em></li>
+<li><em>Hành xanh thái khoanh tròn nhỏ (không bắt buộc)</em></li>
+</ul>
+<p><em><span id="more-1220"></span></em></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><strong>Cách làm</strong></p>
+<p>1. Tôm cắt bớt râu và phần ngạnh cứng ở đầu. Để nguyên đầu và vỏ (bỏ đi cũng được nhưng mình thấy để nguyên thì ngon hơn). Rửa sạch, để ráo.</p>
+<p>Hành tỏi bóc vỏ, băm nhỏ.</p>
+<p>2. Cho một thìa dầu ăn vào chảo. Phi thơm 1/2 số hành tỏi. Để lửa to, cho tôm vào đảo đến khi tôm chuyển màu đỏ, hơi săn lại (chín khoảng 60-70%).</p>
+<p>3. Bắc chảo tôm ra khỏi bếp. Cho nước mắm, nước hàng, đường sao cho vừa mặn ngọt và 1/2 số hành tỏi còn lại. Đảo đều. Bắc lại chảo lên bếp rang đến khi tôm chín và đạt như “quảng cáo” ở đầu bài :D Cho tiêu &amp; hành xanh, xóc đều rồi trút ra bát/ đĩa.</p>
+<p><strong>Lưu ý</strong>: Các món rang hay rim tôm không nên đậy vung vì sẽ gây mùi khó chịu.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6352221569/" title="IMG_8975-1 by LinhTrang9185, on Flickr"><img alt="IMG_8975-1" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6216/6352221569_e411b7c18f_z.jpg" width="427"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

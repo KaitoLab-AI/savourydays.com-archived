@@ -1,0 +1,62 @@
+---
+title: "Bánh bông lan trà xanh trứng muối"
+date: "2014-09-17"
+slug: "banh-bong-lan-tra-xanh-trung-muoi"
+categories: []
+tags: []
+image: "/wp-content/uploads/2014/09/BanhTraXanhTrungMuoi.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<div>
+<p>Tuy là đã nghe tiếng món bánh này từ lâu rồi nhưng thú thực là mình không mặn mà với nó lắm. Một phần vì mình không thích bánh mà có cả vị ngọt lẫn vị mặn. Một phần khác là vì …. lười muối trứng. Trứng bán sẵn ở chợ châu Á không biết chất lượng sao nhưng nhìn vào giá tiền là thấy hết muốn mua rồi. Trứng tự muối thì phải đợi cả tháng mới ăn được. Cho nên cứ lần lữa mãi. Đến đợt vừa rồi nhân tiện có trứng muối để làm bánh trung thu, tự nhiên nhớ ra món bánh này nên lấy ra vài quả để làm thử.</p>
+<p>Có rất nhiều cốt bánh khác nhau có thể dùng làm món bánh này, nhưng mình chọn <a href="/whipped-cream-cupcake-banh-bong-lan-kem-tuoi/">cốt bánh kem tươi (</a><em><a href="/whipped-cream-cupcake-banh-bong-lan-kem-tuoi/">whipped cream cake)</a> </em>để làm. Lý do là nó không quá nhẹ và dễ xẹp như các loại sponge hay chiffon, nhưng cũng không quá nhiều bơ như <em>butter cake</em>. Vì lòng đỏ trứng vốn cũng béo rồi, nếu cốt bánh cũng béo nữa thì e là sẽ khó ăn lắm.</p>
+<p>Lần đầu tiên kết quả khá ổn, tuy là bánh hơi nhiều so với trứng và trứng cho vào trước khi nướng nên đến khi nướng xong thì hầu như chẳng thấy trứng đâu nữa. Lần thứ hai rút kinh nghiệm từ lần 1, mình dùng cup giấy loại mini và mỗi bánh đặt 1 quả trứng. Trứng lần này được đặt vào khi bánh đã nở được tương đối, không bị chìm nữa nhưng có lẽ đặt hơi chậm nên trứng lại nổi hơi… quá đà trên mặt bánh. Và 1 quả trứng cho 1 cupcake cỡ mini cũng có vẻ là hơi nhiều :P Tổng kết lại sau 2 lần thử thì 1/2 quả trứng cho 1 cupcake loại mini là ổn nhất và trứng cần cho vào sớm hơn 1 chút. Nhưng mà trứng muối thì đã dùng hết mất rồi, nên đành đợi sau 1 tháng nữa rồi thử lại vậy.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15267494342/" title="IMG_8568-1 by LinhTrang9185, on Flickr"><img alt="IMG_8568-1" class="aligncenter" height="334" loading="lazy" src="https://farm4.staticflickr.com/3868/15267494342_d78ac09740.jpg" width="500"/></a></p>
+<p>Mặc dù hình thức chưa hoàn thiện nhưng mùi vị thì mình rất ưng. Nếu bạn nào băn khoăn trà xanh có hợp với trứng muối không, thì có một ví dụ rất gần là bánh trung thu nhân trà xanh trứng muối :) Cá nhân mình cực kì ưng sự kết hợp này. Vì mình không dùng thêm chà bông (ruốc) hay phô mai, nên bánh chỉ có các hương vị cơ bản của kem tươi, trà xanh và trứng muối thôi. Nhưng cũng có lẽ vì đơn giản như vậy nên cảm giác bánh là một sự tổng hòa hoàn hảo của vị thơm ngậy từ kem tươi, bùi béo từ trứng muối và thơm mát của trà xanh. Và hoàn toàn không ngấy, ăn vài cái vẫn thấy muốn thêm nữa :)</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Công thức thì cả bánh cupcake kem tươi và cách muối trứng đều đã đăng rồi. Nên mình gõ lại phần nguyên liệu và tóm tắt cách làm thôi nhé.</p>
+<p><span style="color: #800000;"><strong>Số lượng</strong></span>: 16 cupcake mini (đường kính 2 – 3 cm) hoặc 8 – 10 cupcake cỡ vừa</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<ul>
+<li><em>8 lòng đỏ trứng muối</em></li>
+<li><em>75 gr bột làm bánh ngọt (cake flour) – hoặc có thể thay bằng bột mì đa dụng</em></li>
+<li><em>5 gr bột trà xanh</em></li>
+<li><em>4 gr bột nở (baking powder)</em></li>
+<li><em>55 gr đường</em></li>
+<li><em>115 gr kem tươi (tối thiểu 35% béo – để lạnh)</em></li>
+<li><em>1 trứng gà (55 – 65 gr/ quả cả vỏ)</em></li>
+<li><em>1/4 thìa cafe (tsp) vanilla chiết xuất (không bắt buộc)</em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Trứng muối xử lí như trong <a href="/banh-trung-thu-cach-xu-li-trung-muoi-cho-nhan-banh-trung-thu/"><strong>bài viết này</strong></a>. Không cần nướng chín trứng, chỉ cần nướng cho mặt ngoài trứng hơi se lại là được vì trứng sẽ tiếp tục chín trong quá trình nướng bánh. Mình nướng ở nhiệt độ 170 độ C trong khoảng 5 phút.</p>
+<p style="text-align: center;"><em>Trứng sau khi nướng xong </em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15268070572/" title="IMG_6442 by LinhTrang9185, on Flickr"><img alt="IMG_6442" class="aligncenter" height="333" loading="lazy" src="https://farm6.staticflickr.com/5588/15268070572_1f79776c3e.jpg" width="500"/></a></p>
+<p>Chuẩn bị trứng trước khi làm bánh, để trứng nguội bớt. Khi trứng nguội, cắt trứng làm hai phần.</p>
+<p>2. Làm cốt bánh:</p>
+<p>Rây mịn bột mì, bột trà xanh và bột nở. Quấy đều. Các bước còn lại thao tác giống như trong bài <a href="/whipped-cream-cupcake-banh-bong-lan-kem-tuoi/">Cupcake kem tươ</a>i (hoặc có thể xem trong <a href="/dat-sach-nhat-ki-hoc-lam-banh/">sách “Nhật kí học làm bánh”</a> :) ). Một công thức trong bài chia ra được 16 cupcake mini. Nếu cupcake cỡ lớn hơn thì được khoảng 8 cái.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p style="text-align: center;"><em>Bột sau khi trộn xong </em></p>
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/15268457675/" title="IMG_6489 by LinhTrang9185, on Flickr"><img alt="IMG_6489" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3901/15268457675_16fc28d5a8.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Chia vào khuôn cupcake </em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15081894138/" title="IMG_6490 by LinhTrang9185, on Flickr"><img alt="IMG_6490" class="aligncenter" height="333" loading="lazy" src="https://farm6.staticflickr.com/5573/15081894138_d207e8d3b3.jpg" width="500"/></a></p>
+<p>Bánh trà xanh cần nướng ở nhiệt độ thấp để giữ màu trà. Vi bánh mini, mình nướng ở nhiệt độ 150 độ C, trong khoảng 25 phút. Bánh cỡ to có thể tăng nhiệt độ hơn một chút, tầm 155 độ C và nướng trong khoảng 30 – 35 phút, tùy loại cỡ bánh. Lưu ý là <em><strong>nhiệt độ và thời gian này có thể thay đổi tùy theo lò</strong></em>. Các bạn có thể đọc thêm bài viết này để nắm được cách chỉnh nhiệt cho phù hợp với lò nhà mình nhé:</p>
+<p><span class="Apple-style-span"><strong>* A-Z: Lò nướng – Kinh nghiệm chọn lò – Cách chỉnh lò để bánh không bị xẹp, lõm, thắt eo, ẩm, cháy…</strong> <a href="/lo-nuong-kinh-nghiem-nuong-banh/">Phần 1</a> – <a href="/kinh-nghiem-nuong-banh-phan-2/">Phần 2</a></span></p>
+<p>Để trứng nổi trên mặt bánh thì các bạn có thể cho trứng vào khi bánh đã nướng được khoảng hơn 1/2 thời gian. Lúc này bánh đã nở tương đối, riềm ngoài bánh hơi se nhưng giữa bánh vẫn hơi lõm và cảm giác như còn ướt. Đặt trứng vào lúc này thì trứng sẽ chỉ chìm xuống một chút thôi, mình đặt hơi muộn một chút nên trứng bám được vào bánh nhưng gần như không chìm gì cả.</p>
+<p>Vì việc mở lò sẽ làm hạ nhiệt độ trong lò, có thể ảnh hưởng tới bánh nên khi đặt trứng cần làm nhanh tay. Mình tóm tắt cách mình làm ở dưới để các bạn tham khảo nhé:</p>
+<p>– Chuẩn bị sẵn bát đựng trứng và một bát đựng nước. Chấm mặt cắt của trứng vào nước, nước sẽ giúp trứng bám lên mặt bánh dễ hơn.</p>
+<p>– Nhanh tay mở cửa lò, quay mặt cắt trứng xuống dưới, đặt trứng lên mặt bánh. Đóng cửa lò lại.</p>
+<p>– Làm tiếp tục với các miếng trứng khác đến hết.</p>
+<p>Theo cách này thì chỉ mở cửa lò khi đặt trứng lên bánh, nên hạn chế được nhiệt độ giảm nhiều. Nên đặt trứng từ bánh trong cùng ra ngoài, sẽ dễ thao tác và tránh bị vướng víu hơn :)</p>
+<p>Nếu không làm bánh trà xanh thì các bạn có thể dùng hoàn toàn công thức cupcake kem tươi, có thể giảm đường đi một chút nhé.</p>
+<p>Chúc cả nhà có món bánh bông lan trứng muối ngon hơn mua từ tiệm ;)</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15080989787/" title="IMG_8579-1 by LinhTrang9185, on Flickr"><img alt="IMG_8579-1" class="aligncenter" height="500" loading="lazy" src="https://farm4.staticflickr.com/3889/15080989787_8ee19686be.jpg" width="431"/></a></p>
+
+
+</div>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

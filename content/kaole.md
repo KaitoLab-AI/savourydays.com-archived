@@ -1,0 +1,83 @@
+---
+title: "Kaole (Gateau với Chocolate và Diplomat mousse)"
+date: "2013-01-08"
+slug: "kaole"
+categories: []
+tags: []
+image: "/wp-content/uploads/2013/01/Kaole1.jpg"
+description: "cách làm Kaole, Chocolate mousse, diplomat mousse, gateau cơ bản, bánh kem cơ bản"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
+<p>——————————————</p>
+<p>Tình hình là đợt bận rộn của mình vẫn chưa kết thúc :( Cũng chưa biết cụ thể là bao giờ sẽ kết thúc nữa, nhưng hi vọng là sẽ xong sớm vì mình cũng bắt đầu cảm thấy oải rồi. Và hơn nữa là có bao nhiêu công thức muốn chia sẻ mà chẳng có thời gian để viết bài nữa :-&lt;</p>
+<p>Bánh Kaole mừng sinh nhật mẹ, hứa với các bạn sẽ viết sớm mà giờ mới ngồi gõ được. Công thức này mình chỉnh sửa lại từ công thức của anh Tú labangroi, mình giảm bớt định lượng nguyên liệu một chút vì cảm giác phần Mousse trong công thức gốc hơi nhiều. Tỉ lệ của công thức mới với mình thì ổn vì như các bạn thấy trong hình là lớp Mousse và lớp bánh khá đều nhau nên ăn cảm giác rất cân bằng, không bị ngấy và cũng không thấy bạt Gateau át vị Mousse :)</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8361636410/" title="IMG_8883-1 by LinhTrang9185, on Flickr"><img alt="IMG_8883-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8512/8361636410_e9c5332a34_z.jpg" width="442"/></a></p>
+<p><span style="color: #800000;"><strong>Mức độ</strong></span>: Khá dễ</p>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn tròn đế rời hoặc khuôn chuyên dụng làm Mousse (Mousse ring), đường kính 18-20 cm</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong>A. Bạt bánh</strong></p>
+<ul>
+<li><em>1 công thức Gateau cơ bản (3 trứng)</em></li>
+</ul>
+<p><strong>B. Phần Chocolate Mousse</strong></p>
+<ul>
+<li><em>4gram Gelatin (dạng lá hoặc bột – nên dùng dạng lá )</em></li>
+<li><em>85gram Chocolate đen đắng (hàm lượng Cacao tối thiểu 45%)</em></li>
+<li><em>10gram bơ nhạt </em></li>
+<li><em>175gr kem tươi có hàm lượng béo 35-40% (heavy cream)</em></li>
+</ul>
+<p><strong>C. Phần Diplomat Mousse</strong></p>
+<ul>
+<li><em>1 lòng đỏ trứng gà (18-20gram)</em></li>
+<li><em>25gram đường</em></li>
+<li><em>10gram bột ngô hoặc bột mì đa dụng</em></li>
+<li><em>125gram sữa tươi không đường</em></li>
+<li><em>4gram Gelatin </em></li>
+<li><em>½ thìa cafe vanilla</em></li>
+<li><em>100gr kem tươi có hàm lượng béo 35-40% (heavy cream)</em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><strong>A. Chuẩn bị bạt bánh</strong></p>
+<p>– Mình sử dụng <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/">công thức Gateau cơ bản “bất bại” – 3 trứng</a>. Các bạn có thể thay bằng một loại bánh khác tùy thích, như Chiffon, Gateau Hồng Kông… nhé.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>– Bánh sau khi nướng xong để trên rack cho nguội hẳn. Sau khi bánh nguội thì xẻ làm hai lớp bạt tròn. Chuẩn bị khuôn. Nếu là khuôn đế rời thì lót một miếng giấy nến hoặc giấy trắng ở đáy khuôn để khi rút khuôn ra, các bạn có thể gỡ đáy và di chuyển bánh (lên một chiếc đế khác hoặc lên đĩa…) được dễ dàng.</p>
+<p><strong>B. Phần Chocolate Mousse:</strong></p>
+<p>1. Cho Gelatin vào bát, ngâm với nước lạnh khoảng 10-15 phút đến khi Gelatin nở mềm. Nếu dùng Gelatin bột thì các bạn đong lượng nước nhiều gấp 2-3 lần Gelatin là vừa.</p>
+<p>2. Bẻ chocolate thành miếng nhỏ. Cho Chocolate cùng bơ vào bát. Đun sôi 50gram kem tươi rồi đổ vào bát chocolate và bơ. Để yên khoảng 1-2 phút rồi quấy thật đều đến khi Chocolate và bơ tan hết, hỗn hợp hòa quyện và bóng mịn, mượt. Nếu Chocolate không tan hết, các bạn có thể cho cả bát đựng Chocolate và kem tươi vào lò vi sóng, quay khoảng 10-20 giây nhưng không nên quá lâu vì có thể làm Chocolate bị cháy.</p>
+<p>3. Gelatin chưng cách thủy hoặc quay lò vi sóng (nếu dùng Gelatin lá thì để lại khoảng 1 thìa canh nước trong bát) cho Gelatin tan hết. Trộn thật đều Gelatin với hỗn hợp Chocolate. Để nguội (thi thoảng nên quấy đều, tránh để hỗn hợp bị đóng váng trên mặt).</p>
+<p>4. Đánh bông phần 125gram kem tươi còn lại:</p>
+<p style="padding-left: 30px;">+ Cho âu đánh, que đánh và kem tươi vào ngăn đá tủ lạnh để khoảng 5-10 phút (giúp kem đánh bông nhanh hơn)</p>
+<p style="padding-left: 30px;">+ Đánh kem tươi đến khi kem bông mềm, chạy máy thấy có vân nhưng hỗn hợp không quá đặc. Không nên đánh đến bông cứng vì khi trộn với Chocolate sẽ dễ bị tách nước.</p>
+<p>5. Nhẹ nhàng đổ Chocolate vào âu kem tươi, trộn đều. Tốt nhất là nên trộn theo kiểu fold để tránh làm kem tươi bị tách nước.  * Lưu ý quan trọng: Chocolate phải nguội và lỏng, không trộn chocolate nóng ấm vì sẽ làm hỏng kem tươi, cũng không để Chocolate quá nguội vì hỗn hợp có thể sẽ đặc lại, khó trộn.</p>
+<p style="text-align: center;"><em>Trộn chocolate với kem tươi </em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8360574523/" title="IMG_8862 by LinhTrang9185, on Flickr"><img alt="IMG_8862" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8221/8360574523_06b7e397f4.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Hỗn hợp sau khi trộn xong nhìn chung là khá đặc như thế này </em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8360574543/" title="IMG_8863 by LinhTrang9185, on Flickr"><img alt="IMG_8863" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8044/8360574543_8f81e47da9.jpg" width="500"/></a></p>
+<p>6. Đặt một lớp bạt bánh vào khuôn, đổ hỗn hợp Mousse Chocolate lên trên. Để tủ lạnh khoảng 30 phút đến khi hỗn hợp tương đối se mặt.</p>
+<p><strong>C. Phần Diplomat Mousse:</strong></p>
+
+
+<p>1. Cho Gelatin vào bát, ngâm với nước lạnh khoảng 10-15 phút đến khi Gelatin nở mềm.</p>
+<p>2. Đánh lòng đỏ trứng với đường đến khi lòng đỏ bông mịn và chuyển màu vàng nhạt. Rây bột ngô (hoặc bột mì), trộn đều.</p>
+<p>3. Đun sữa đến khi sữa hơi nóng ấm (k<em>hông để sữa sôi hay quá nóng</em>) rồi từ từ đổ vào âu đựng trứng và bột, vừa đổ vừa quấy đều.</p>
+<p>4. Lọc lại hỗn hợp qua rây để loại bỏ các vụn bột hay trứng vón cục. Cho hỗn hợp vào nồi. Đun ở lửa vừa, vừa đun vừa quấy đều tay đến khi hỗn hợp hơi sệt thì tắt bếp. Cho Gelatin và Vanilla, quấy đều cho Gelatin hòa quyện. Để nguội * Lưu ý: không để hỗn hợp quá đặc, sẽ khó trộn với kem tươi.</p>
+<p>5. Đánh bông phần 100gram kem tươi theo cách giống như làm Chocolate Mousse</p>
+<p>6. Sau khi hỗn hợp kem trứng đã nguội thì nhẹ nhàng đổ vào âu đựng kem tươi, trộn đều.</p>
+<p style="text-align: center;"><em>Trộn hỗn hợp kem trứng với kem tươi </em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8361636426/" title="IMG_8869 by LinhTrang9185, on Flickr"><img alt="IMG_8869" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8196/8361636426_0168f43561.jpg" width="500"/></a></p>
+<p>7. Đặt lớp bạt bánh còn lại lên trên lớp Chocolate Mousse, cuối cùng đổ Diplomat Mousse lên trên. Để tủ lạnh tối thiểu 4 tiếng cho phần Mousse đông hoàn toàn. Giữ  lạnh đến khi dùng.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8360574405/" title="IMG_8887-1 by LinhTrang9185, on Flickr"><img alt="IMG_8887-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8045/8360574405_cdd7dd582f_z.jpg" width="427"/></a></p>
+<p><strong>D. Một vài chú ý:</strong></p>
+<p>– Kaole là loại bánh dễ làm. Chỉ có thể thất bại nếu bạn đánh kem tươi hoặc trộn quá tay làm hỗn hợp bị tách nước. Nếu chưa quen làm Mousse thì các bạn có thể xem thêm lưu ý về cách làm Mousse và cách đánh bông kem tươi cho Mousse ở <strong><a href="/nhat-ki-hoc-lam-banh-phan-1-mousse/">ĐÂY</a> </strong>nhé.</p>
+<p>– Trên mặt Kaole thường có thêm 1 lớp đường được đốt bằng đèn khò cho chảy nhưng mình bỏ qua phần này vì muốn trang trí mặt bánh.</p>
+<p>– Các bạn nên chuẩn bị khuôn to hơn bạt bánh một chút, khi làm thì dàn phần Mousse cho Mousse chảy xuống và phủ hết thành bên của bánh, như vậy sau khi hoàn thành, phần thành bánh sẽ chỉ thấy hai màu của Mousse là đen và trắng ngà, sẽ đẹp hơn bánh trong hình của mình. Một cách khác là các bạn có thể dùng bánh cuộn quế hoặc Lady fingers để xếp trang trí quanh thành bánh.</p>
+<p>– Mình thấy Kaole ngon hơn sau khi để tủ lạnh từ 8-10 tiếng (để qua đêm). Mousse mặc dù có Gelatin nhưng vẫn cần giữ lạnh đến khi ăn, nếu không trong thời tiết nóng ẩm thì Mousse có thể bị chảy.</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

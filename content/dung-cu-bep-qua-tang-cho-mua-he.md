@@ -1,0 +1,83 @@
+---
+title: "[Dụng cụ bếp] Quà tặng cho mùa hè"
+date: "2015-07-15"
+slug: "dung-cu-bep-qua-tang-cho-mua-he"
+categories: ["Dụng cụ - Nguyên liệu bếp", "Làm bánh"]
+tags: ["bánh mì", "dụng cụ"]
+image: "/wp-content/uploads/2015/07/QuaTangMuaHe.jpg"
+description: "máy làm bánh mì"
+---
+
+<p><em>“Giới thiệu dụng cụ – Nguyên liệu bếp” là chuyên mục mới tại Savoury Days (bắt đầu từ tháng 6/ 2015) dành riêng để giới thiệu về các loại Dụng cụ và Nguyên liệu trong làm bánh và nấu nướng nói chung. Xem thêm bài giới thiệu tại <strong><a href="/huong-dan-chon-dung-cu-lam-banh-cho-nguoi-moi-bat-dau/">ĐÂY</a></strong></em></p>
+<p>————–</p>
+<p>Nằm trong chuyên mục giới thiệu dụng cụ bếp, lại là quà tặng cho mùa hè. Nói đến đây hẳn nhiều bạn sẽ nghĩ tới các loại máy như máy làm kem, máy làm sữa chua, hay làm sữa đậu nành nhỉ?</p>
+<p>Câu trả lời đúng, thật ra, là <strong>máy làm bánh mì</strong> :-)</p>
+<p>Mùa nóng, hai chữ “bánh mì” được nhắc tới ít hơn hẳn, nhất là nếu so với các loại đồ uống hay tráng miệng lạnh. Chẳng phải do bánh mì ăn kém ngon hơn, mà có lẽ phần nhiều là bởi làm bánh mì mùa hè cực quá. Tưởng tượng trời nóng 36, 37 độ C mà phải đứng hì hục nhồi bột, đập bột, chưa kể tới cái lò 200 độ C ở bên cạnh. Nghĩ thôi đã thấy rùng rợn rồi ấy chứ :P</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Và đây chính là lúc ta cần đến chàng hiệp sĩ mang tên “máy làm bánh mì” ;)</p>
+<p>Nói thật là mình chẳng bao giờ nghĩ sẽ có ngày mình tậu hay dùng máy để làm bánh mì cả. Bởi mình luôn nghĩ bánh mì nhồi tay và làm thủ công mới là số 1, máy chỉ để giải quyết các tình thế theo kiểu mì ăn liền thôi. Thế rồi được tặng chiếc máy này, không thể để không nên một ngày rảnh rỗi lôi ra nghiên cứu và dùng thử. Và thử, và thử, và thử… Ban đầu cứ nghĩ dùng cho khỏi phí chiếc máy thôi, thế mà giờ nó là cái máy được dùng gần như thường xuyên nhất trong bếp, chỉ sau nồi cơm và máy đánh trứng (ngang với lò nướng vì dạo này trời nóng nên mình ngại sờ tới lò).</p>
+<p>Có quá nhiều thứ ở chiếc máy này làm mình cảm thấy ưng ý. Dùng chính xác từ ngữ thì phải là “cực cực thích”. Nên thời gian vừa rồi đã mang đi giới thiệu búa xua đến bạn bè, và phát hiện ra hóa ra cũng có khá nhiều bạn của mình dùng cùng loại máy y xì. Thế là có thêm chuyện để buôn. Và mình nghĩ tại sao không giới thiệu nó trong chuyên mục “Dụng cụ bếp” của Savoury Days nhỉ, khi mà nó được nhiều bạn bè của mình khen hết lời như thế?! (và để cho các bạn của SD biết thêm một loại dụng cụ bếp rất hữu ích nữa ;) ).</p>
+<p style="text-align: center;"><em>Bánh và mứt dâu, mứt mơ tươi làm bởi máy </em></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19715820731/in/datetaken/" title="Homemade bread &amp; apricot jam (all by Zojirushii breadmaker)"><img alt="Homemade bread &amp; apricot jam (all by Zojirushii breadmaker)" height="432" loading="lazy" src="https://farm1.staticflickr.com/504/19715820731_1c35c787af_z.jpg" width="640"/></a></p>
+<p>Liệt kê hết các ưu điểm của chiếc máy này thì hơi khó, nên mình gạch đầu dòng một vài điểm mà mình thích nhất ở chiếc máy này, để các bạn nào quan tâm thì tham khảo thêm nha.</p>
+<ol>
+<li>Nhỏ gọn, không chiếm nhiều chỗ trong bếp. Hoạt động rất yên tĩnh. Khi nướng cũng không quá nóng.</li>
+</ol>
+<ol start="2">
+<li>Làm bánh cỡ trung bình, một ổ khoảng 0.5 kg (1 pound). Mình có thử xem qua một số loại máy làm bánh mì khác thì thấy hầu hết đều làm ra bánh 2 pound (1 kg). Với gia đình nhỏ như nhà mình (2 vợ chồng) thì bánh 1 pound là vừa xinh. Giả sử có thêm 2 bé con nữa thì 1 pound vẫn ổn. 2 pound thì khéo ăn nửa tuần mới hết.</li>
+</ol>
+<ol start="3">
+<li>Mùi vị bánh cực kì ngon. Lý do là bột được ủ 3 lần thay vì 2 lần. Ai học làm bánh mì cũng biết rằng việc ủ bột và số lần ủ bột với bánh mì cực kì quan trọng vì sẽ quyết định mùi vị của bánh. Và riêng việc này thì máy của Zojirushi này làm cực tốt. Không chỉ ủ 3 lần mà khống chế nhiệt độ ủ và nhiệt độ khối bột cũng tốt (mình đã đo thử ;) ). Bánh ra lò nhờ vậy mà không chỉ mềm xốp mà hương vị còn rất có “chiều sâu”. Cùng là bánh mì gối trắng nhưng bánh làm từ máy khi nếm cảm giác mùi vị đậm đà, vừa thơm vừa ngọt, khác hẳn với bánh công nghiệp mua từ siêu thị. Đây cũng là điểm mà mình ưng nhất ở chiếc máy này (thành nghiện luôn ý).</li>
+</ol>
+<ol start="4">
+<li>Có rất nhiều công thức bánh mì để thử, đủ loại từ vỏ mềm cho đến vỏ giòn, từ bánh mì trắng đến bánh mì nâu, rồi các loại hạt… Đi kèm máy là bộ dụng cụ đong nên không cần cân cũng được.</li>
+</ol>
+<ol start="5">
+<li>Ngoài bánh mì ra, còn có thể làm ra mứt quả tươi. Đây là một trong những lý do tại sao mình gọi nó là quà tặng cho mùa hè. Vì mùa hè cũng là lúc có nhiều loại quả tươi ngon nhất. Mang đi làm mứt phải nói là tuyệt cú mèo. Không chỉ mứt, máy còn có chức năng đánh bột riêng. Có thể dùng chức năng này để nhồi bột làm bánh mì, trộn bột bánh quy, làm bánh bơ… (mình chưa kịp thử hết nhưng nhồi bột thì thấy làm ổn).</li>
+</ol>
+<ol start="6">
+<li>Tiết kiệm được nhiều thời gian, công sức và thuận tiện. Cái này thì rõ quá rồi. Chẳng phải làm gì cả, chỉ có đổ nguyên liệu vào máy rồi ngồi chờ ăn :P Nhưng thích hơn cả có lẽ là chức năng đặt giờ của máy có thể đặt tối đa 13h. Nên hoàn toàn có thể đặt giờ vào buổi tối để bánh nướng trong đêm và tỉnh dậy là có bánh nóng hổi cho bữa sáng. Dạo gần đây mình hay làm mứt quả buổi tối, xong rồi đặt giờ cho máy nướng bánh ban đêm. Sáng dậy lấy bánh ra, dùng với mứt quả, thêm ly sữa, thấy sung sướng nhàn hạ ghê gớm :”&gt;</li>
+</ol>
+<ol start="7">
+<li>Dọn rửa rất nhanh. Hihi, so với việc rửa một đống âu với lau bàn, dọn lò thì việc rửa một cái nồi nướng với 1 cái lưỡi đánh bột rõ là nhẹ nhàng hơn nhiều (bạn chồng mình thích điều này :D).</li>
+</ol>
+<p>Sơ sơ là như vậy… Nhìn chung thì bạn máy này làm mình thay đổi cách suy nghĩ rất nhiều về các loại máy móc. Quả thực là nếu chọn đúng loại máy thì bản thân mình sẽ đỡ đi được nhiều việc hơn hẳn, như máy làm mì lần trước hay máy làm bánh mì lần này, đều là kiểu sản phẩm đã có rồi thì không dứt ra được.</p>
+<p>Nhân đã giới thiệu thì giới thiệu luôn cụ thể cho đầy đủ. Còn hai thông tin nữa là “giá cả” và “mua ở đâu”? Mình có tham khảo một vài nơi và thấy máy có tại <a href="http://www.amazon.com/dp/B000G32H84/?tag=savodays-20"><strong>Amazon US</strong></a>, (đang giảm giá từ 233$ xuống còn 168$, hình như chỉ có trong ngày 15/7) và ở Việt Nam thì có tại đại lý của Zojirushi (<a href="http://www.zojirushi.vn">www.zojirushi.vn</a>). Amazon JP thì không hiểu sao không tìm ra. Giá thành không phải là rẻ nhưng mình nghĩ là một khoản đầu tư rất rất xứng đáng. À, tên đầy đủ của máy là Home Bakery Mini BB-HAQ10 nha.</p>
+<p style="text-align: center;"><em>Cho tất cả nguyên liệu vào </em></p>
+<p style="text-align: center;"><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19715814511/in/datetaken/" title="IMG_9314"><img alt="IMG_9314" class="aligncenter" height="427" loading="lazy" src="https://farm1.staticflickr.com/513/19715814511_740480e552_z.jpg" width="640"/></a></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p style="text-align: center;"><em>chọn chế độ, bật nút và đi làm việc khác ;)</em></p>
+<p style="text-align: center;"><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19524608259/in/datetaken/" title="Making bread"><img alt="Making bread" class="aligncenter" height="427" loading="lazy" src="https://farm1.staticflickr.com/474/19524608259_1e8542f752_z.jpg" width="640"/></a></p>
+<p style="text-align: center;"><em>bột sau khi nhồi xong </em></p>
+<p style="text-align: center;"><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19090307923/in/datetaken/" title="IMG_9316"><img alt="IMG_9316" class="aligncenter" height="427" loading="lazy" src="https://farm1.staticflickr.com/410/19090307923_c8612e5e70_z.jpg" width="640"/></a></p>
+<p style="text-align: center;"><em>ủ lần thứ nhất</em></p>
+<p style="text-align: center;"><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19684999726/in/datetaken/" title="Making bread - 1st proof"><img alt="Making bread - 1st proof" class="aligncenter" height="427" loading="lazy" src="https://farm1.staticflickr.com/400/19684999726_ca6d60c80a_z.jpg" width="640"/></a></p>
+<p><em>hoàn thành</em></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19523124578/in/datetaken/" title="Bread making - ready"> <img alt="Bread making - ready" height="427" loading="lazy" src="https://farm1.staticflickr.com/316/19523124578_15ca2e324f_z.jpg" width="640"/></a></p>
+<p style="text-align: center;"><em>mặt cắt </em></p>
+<p style="text-align: center;"><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19088676144/in/datetaken/" title="Homemade bread by Zojirushii breadmaker"><img alt="Homemade bread by Zojirushii breadmaker" height="640" loading="lazy" src="https://farm1.staticflickr.com/321/19088676144_bc07488594_z.jpg" width="638"/></a></p>
+<p style="text-align: center;"><em>làm mứt mơ và mứt dâu tây</em></p>
+<p style="text-align: center;"><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19711229755/in/datetaken/" title="IMG_9405"><img alt="IMG_9405" height="427" loading="lazy" src="https://farm1.staticflickr.com/560/19711229755_956990d321_z.jpg" width="640"/></a></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19684990566/in/datetaken/" title="Making apricot jam"><img alt="Making apricot jam" height="427" loading="lazy" src="https://farm1.staticflickr.com/376/19684990566_2efaa5f5a2_z.jpg" width="640"/></a></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19704024332/in/datetaken/" title="Apricot jam - In progress"><img alt="Apricot jam - In progress" height="427" loading="lazy" src="https://farm1.staticflickr.com/287/19704024332_c1f1e2504a_z.jpg" width="640"/></a></p>
+<p style="text-align: center;"><em>thành phẩm</em></p>
+
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19704013482/in/datetaken/" title="IMG_9416"><img alt="IMG_9416" height="427" loading="lazy" src="https://farm1.staticflickr.com/317/19704013482_214156664a_z.jpg" width="640"/></a></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

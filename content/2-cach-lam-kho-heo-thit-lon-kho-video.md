@@ -1,0 +1,74 @@
+---
+title: "2 cách làm khô heo/ thịt lợn khô [VIDEO]"
+date: "2017-01-09"
+slug: "2-cach-lam-kho-heo-thit-lon-kho-video"
+categories: []
+tags: []
+image: "/wp-content/uploads/2017/01/Cách-làm-khô-heo-banner.jpg"
+description: "Học cách làm khô heo hay thịt lợn khô thật ngon với Savoury Days. Thịt dẻo, dai, thơm ngon không thua gì thịt bò mà cách làm lại dễ hơn nhiều. Kèm video"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Vậy là mình đã về nhà được gần một tuần rồi. Tuy vẫn còn phải làm quen với một Hà Nội đã cực kì khác sau hơn 7 năm, nhưng nhìn chung thì khoảng thời gian mấy ngày vừa rồi của mình khá ổn. Cảm ơn các bạn đã quan tâm và gửi lời hỏi thăm, lời chúc. Nếu có việc gì đó “không ổn” nhất thì có lẽ là nhớ bếp và bánh. Nửa cuối tháng 12 mình phải tập trung đóng gói đồ đạc và chuẩn bị về nước, sau đó là một loạt chuyến tàu xe nối tiếp nhau, và rồi là về nhà. Tới hôm nay thì thực sự cảm thấy như đã lâu lắm rồi mình không được làm bánh, chỉ thèm được ngửi thấy mùi bánh chín toả ra từ lò nướng thôi.</p>
+<p>Vì mới về và có khá nhiều việc cần giải quyết trước Tết nên e là trong thời gian sắp tới đây mình cũng sẽ không vào được website/ facebook hay youtube thường xuyên để trả lời phản hồi của các bạn. Mong mọi người thông cảm nhé. Mình sẽ cố gắng thu xếp thời gian để trả lời các câu hỏi khẩn cấp vì mình cũng biết là thời gian này gần Tết, bếp nhà ai cũng bận hơn và những thắc mắc cũng vì thế mà nhiều hơn.</p>
+<p>Tuy không trả lời được phản hồi thường xuyên nhưng mình sẽ cố gắng cập nhật bài mới tại website đều đặn. Có một số món ăn mình nấu và quay video từ tháng 12 năm ngoái, đều là các món ăn dành cho dịp Tết Nguyên Đán nên mình rất hi vọng có thể giới thiệu được hết trong 1 – 2 tuần tới để nếu thích thì các bạn còn kịp chuẩn bị cho Tết năm nay.</p>
+<p>Món đầu tiên là khô heo hay thịt heo, thịt lợn khô làm theo phong cách <a href="/thit-bo-kho-thit-bo-uot/" target="_blank"><strong>khô bò</strong></a>. Thời gian vừa rồi sau khi thử <a href="/2-cach-lam-kho-ga-xe-mem-dai-va-gion-deo-video/" target="_blank"><strong>khô gà xé</strong></a> thì mình thấy thịt bò đúng là không phải nguyên liệu duy nhất để làm món ăn vặt tuyệt ngon này. Đã có bò và gà rồi nên làm nốt thịt lợn nữa là đủ bộ.</p>
+<p>Cách làm cơ bản mình vẫn dựa trên <a href="/thit-bo-kho-thit-bo-uot/" target="_blank"><strong>cách làm thịt bò khô</strong></a> thôi, nhưng so với thịt bò thì làm thịt lợn đơn giản và nhẹ nhàng hơn rất nhiều. Thịt lợn không dai như thịt bò nên mình chỉ thái, tẩm ướp và sau đó cho vào lò sấy tới khô. Không có công đoạn đun như thịt bò, và thật ra cũng không cần vì nếu đun quá lâu, thịt sẽ dễ bị khô và mất đi độ ngọt cũng như dai của thớ thịt. Gia vị ướp cũng gần giống với món thịt bò khô, chỉ khác là thịt lợn nên mình dùng thêm ít hành. Và thịt lợn cũng không có mùi nặng như thịt bò nên mình có giảm một chút phần tỏi và ngũ vị hương, tránh cho thịt bị quá hắc.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Thành phẩm ngon lắm ấy, không chỉ người Việt mà cả người Đức cũng khen ;) Mùi vị thơm ngon không thua gì thịt bò khô. Thịt sau khi sấy xong cũng có độ dai và dẻo, nhưng lại không dễ cứng như thịt bò. Nếu làm miếng thịt dày một chút thì ở ngoài sẽ khô trong khi bên trong còn mềm, ăn vã nhấm nháp, nhậu với bia hay dùng kèm cơm trắng, xôi trắng đều rất ngon. Mình làm món này hay chọn phần thịt có dính tí mỡ, sau khi sấy xong mỡ giòn, giúp thịt mềm và không khô, ăn có phần còn thú vị hơn cả khô bò.</p>
+<p>Trong video món khô heo này mình giới thiệu hai cách làm: sấy khô nguyên miếng bằng lò nướng và xé sợi rồi rang trên chảo. Thật ra cả cách xé sợi cũng có thể sấy trong lò được nhưng vì nhiều bạn không có lò nướng nên mình dùng chảo để các bạn có thêm lựa chọn. Cá nhân mình thì thích loại thịt được sấy bằng lò nướng hơn bởi nhanh và nhàn hơn (chỉ cho thịt vào lò rồi ngồi đợi thôi). Hơn nữa thịt được làm khô từ từ, giữ được chất ngọt và lại dẻo dai. Còn rang trên chảo thì hơi khó để thịt có thể đạt được độ khô và dẻo như vậy.</p>
+<p>Video cách làm khô heo đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo <a href="https://youtu.be/xkQXgSU20Y8" target="_blank"><strong>link này</strong></a> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="/demo-flan-creme-caramel-kem-caramel/" target="_blank">cách làm bánh flan này.</a> </strong>Phần dưới video là danh sách nguyên liệu, tóm tắt các bước và một vài ghi chú để làm thịt ngon, không bị hỏng.</p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/xkQXgSU20Y8" width="560"></iframe></div>
+<h2>CÁCH LÀM KHÔ HEO/ THỊT LỢN KHÔ</h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<ul>
+<li><em>1 kg thịt nạc thăn, chọn miếng có thớ dài</em></li>
+<li><em>15 – 20 g tỏi </em></li>
+<li><em>15 g hành khô </em></li>
+<li><em>5~6 củ sả to </em></li>
+<li><em>2~3 thìa canh (30~45 ml) nước mắm </em></li>
+<li><em>1~2 thìa canh (15~30 ml) dầu hào </em></li>
+<li><em>2 thìa canh (40~50g) đường nâu </em></li>
+<li><em>1~1.5 thìa cafe bột ngũ vị hương </em></li>
+<li><em>2~3 thìa canh ớt bột – tuỳ khả năng ăn cay </em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Ghi chú</strong></span>:</p>
+<ol>
+<li>Vị sả, tỏi, ớt là một phần rất quan trọng tạo nên hương vị của các món thịt bò, thịt lợn hay gà khô, đặc biệt là sả. Bởi vậy, không nên bỏ qua.</li>
+<li>Nước mắm có thể thay bằng bột nêm theo sở thích nhưng không nên thay bằng xì dầu (nước tương). Dầu hào giúp món ăn thêm đậm đà, không nên bỏ qua.</li>
+<li>Đường (mía) nâu hay đường thốt nốt, các loại đường vàng nhìn chung sẽ cho món ăn có vị ngọt ngon hơn đường kính trắng. Nếu chỉ có lựa chọn duy nhất là đường kính trắng, bạn có thể nấu thành nước đường bánh nướng (theo cách làm tại đây) rồi dùng nước đường này để ướp thịt. Thịt sẽ có hương vị và màu sắc hấp dẫn hơn.</li>
+<li>Ớt bột Hàn Quốc, loại để làm kim chi, cho món ăn có màu đỏ khá đẹp. Nếu không có loại ớt này, bạn có thể thay  bằng hỗn hợp trộn giữa ớt paprika (để có màu đỏ) và ớt cayenne (để có vị cay). Trong các siêu thị Tây đều có bán các loại bột ớt này ở quầy gia vị. Hoặc dùng ớt bột của Việt Nam cũng không sao.</li>
+</ol>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Chuẩn bị nguyên liệu</p>
+<ul>
+<li>Thịt rửa sạch, thấm khô, cắt thành lát to bản, dày khoảng 1.5 cm. Thịt mỏng sấy nhanh hơn nhưng có thể bị cứng, thịt quá dày sẽ mất thời gian sấy và bên ngoài có thể cứng giòn trong khi bên trong vẫn còn mềm. <strong>Lưu ý </strong>thái thịt dọc thớ: nhìn miếng thịt thấy rõ các đường thớ thịt tạo thành các sợi dài chạy song song.</li>
+<li>Bóc vỏ hành, tỏi, băm nhỏ. Sả tước bớt lớp lá già bên ngoài, đập dập rồi băm nhỏ.</li>
+</ul>
+<p>2. Cho thịt và hành, tỏi, sả vào âu. Trộn gia vị ướp gồm nước mắm, dầu hào, đường, bột ngũ vị hương, bột ớt vào một bát khác, nêm nếm cho vừa ăn rồi trộn thật đều hỗn hợp gia vị này với thịt. Đậy kín, để ngăn mát tủ lạnh tối thiểu 4 giờ cho thịt ngấm, có thể để qua đêm.</p>
+<p>Làm theo cách này bạn sẽ kiểm soát được độ mặn, ngọt, cay của thịt như ý muốn. Sau khi trộn xong, bạn có thể lấy 1 miếng nhỏ thịt và rán hoặc làm chín bằng lò vi sóng rồi nếm thử. Vì mỗi loại mắm, đường có độ mặn ngọt khác nhau nên lượng mà bạn cần dùng có thể sẽ khác với định lượng mà mình ghi trong công thức.</p>
+<p>3. Sấy khô thịt</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>(*) <strong>Cách 1: làm khô heo nguyên miếng với lò nướng </strong></p>
+<ul>
+<li>Bật lò ở 110 độ C/ 230 độ F. Chuẩn bị một chiếc khay rộng có lót giấy bạc hay giấy nến, trên khay đặt một vỉ nướng có khe hở. Giấy ở trong khay giúp hứng các thứ chảy từ thịt xuống, tiết kiệm công rửa khay :)</li>
+<li>Xếp các miếng thịt lên vỉ nướng. Nên dùng vỉ nướng có lỗ hở vì thịt sẽ được sấy khô đều cả mặt trên và dưới. Nếu thịt đặt trên khay thường, ở dưới miếng thịt không có lỗ thoát hơi thì thịt sẽ dễ bị chảy nước và khô.</li>
+<li>Nướng thịt ở rãnh giữa ở nhiệt 110 độ C/ 230 độ F trong khoảng 1.5 – 2 giờ hoặc tới khi thịt khô như ý muốn.</li>
+<li><strong>lưu ý: </strong>Thời gian và nhiệt độ nướng thay đổi tuỳ vào từng lò và lượng thịt cần sấy, độ dày của miếng thịt. Do vậy cần điều chỉnh cho phù hợp. Ví dụ nếu thịt cháy nhanh thì cần hạ nhiệt độ….</li>
+</ul>
+<p>(*) <strong>Cách 2: làm khô heo xé sợi với chảo rang </strong></p>
+<ul>
+<li>Cho thịt vào chảo chống dính, đổ thêm ít nước (khoảng 80-100 ml cho mỗi 0.5 kg thịt). Đậy vung, đun trên lửa to</li>
+<li>Khi nước trong chảo bắt đầu sôi thì mở vung và đảo cho thịt hết màu hồng ở bên ngoài (thịt vừa chín tới). Không nên đun quá lâu, thịt dễ bị khô và mất độ ngọt.</li>
+<li>Tắt bếp, gắp thịt ra đĩa, để nguội. Giữ lại nước đun trong chảo.</li>
+<li>Xé thịt thành sợi không quá nhỏ (khi ăn sẽ dai hơn và có thể xé tiếp nếu thích).</li>
+<li>Đổ thịt vừa xé vào chảo, đảo đều cho nước trong chảo ngấm đều với thịt. Vặn lửa vừa/ to đun tới khi nước cạn, thi thoảng đảo thịt.</li>
+<li>Khi nước đã cạn thì hạ lửa nhỏ rồi đảo liên tục để giúp nước bay hơi, thịt khô dần. Rang tới khi thịt khô như ý muốn. Trong quá trình rang có thể nêm nếm và thêm gia vị nếu cần.</li>
+</ul>
+<p>4. Bảo quản: để thịt nguội rồi cho vào hộp kín. Giữ ở nơi thoáng mát, nên có thêm túi hút ẩm trong hộp. Dùng trong 5 ngày. Nếu muốn để lâu hơn, nên bảo quản trong ngăn đá tủ lạnh. Khi dùng rã đông rồi sấy hoặc rang sơ lại.</p>
+<p>YÊU CẦU THÀNH PHẨM: Thịt có vị mặn, ngọt, cay đậm đà, có mùi thơm từ hỗn hợp hành tỏi và ngũ vị hương cùng mùi đặc trưng từ sả. Thịt dai và còn độ ngọt tự nhiên, không bị khô hay bã.</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

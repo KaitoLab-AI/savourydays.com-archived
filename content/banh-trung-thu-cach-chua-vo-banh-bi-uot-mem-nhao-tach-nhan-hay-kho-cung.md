@@ -1,0 +1,106 @@
+---
+title: "{Bánh trung thu} Cách chữa vỏ bánh bị ướt, mềm, nhão, tách nhân hay khô cứng"
+date: "2014-08-23"
+slug: "banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung"
+categories: ["Bánh Việt Nam"]
+tags: ["bánh trung thu"]
+image: ""
+description: "vỏ bánh nướng trung thu, bánh nướng vỏ mềm"
+---
+
+<p style="text-align: justify;">Bài viết này thật ra không có trong dự tính. Vì các vấn đề liên quan đến bánh nướng mình đã giải thích trong một bài viết từ tuần trước rồi. Nhưng mấy ngày hôm nay vẫn thấy có các thắc mắc như là :”<em>tại sao bột nhào xong bị nhão? tại sao bánh nướng xong để sang ngày 1 – 2 vỏ bánh lại bị ẩm ướt và quá mềm? tại sao bánh nướng xong để sang ngày hôm sau lại bị tách nhân? tại sao công thức của SD lại có trứng? tại sao công thức của SD không giống với các công thức bánh nướng khác? “… vân vân &amp; vân vân </em>:D  nên mình nghĩ có lẽ nên viết một vài dòng để giải thích rõ hơn. Thật ra<strong><em> trong nấu ăn, công thức chỉ là một phần nhỏ thôi. Còn khi áp dụng vào thực tế, tùy vào nguyên liệu khác nhau, điều kiện nhiệt độ, độ ẩm không khí khác nhau, thao tác khác nhau mà kết quả có thể rất rất khác</em></strong>. Nên mình cũng hi vọng phần giải thích dưới đây sẽ giúp cho các bạn hiểu được nguyên nhân và từ đó tự khắc phục được vấn đề của bánh, dù bạn làm theo công thức nào đi chăng nữa.</p>
+<p style="text-align: justify;">Về công thức vỏ bánh của SD thì đúng là nó không giống với đa phần các công thức có trên mạng hiện nay. Một đặc điểm chung của nhiều công thức bánh nướng là có sử dụng nước tro tàu để làm mềm vỏ bánh và giúp vỏ bánh có màu đẹp hơn. Nước tro tàu có thể tự làm từ rơm rạ, nhưng hiện nay thì chắc chỉ có nước tro tàu công nghiệp (lye water/ alkaline water) thôi. Mặc dù lượng cho vào trong bánh không lớn, nhưng thật sự mình không thấy yên tâm khi dùng nước tro tàu công nghiệp này vì những khuyến cáo không tốt cho sức khỏe của nó. Ở bên này không thể tìm mua được <em>lye water</em> ở bất kì đâu, trừ cửa hàng của người TQ, mình nghĩ cũng một phần vì lí do không an toàn.</p>
+<p style="text-align: justify;">Vì vậy nên mình tìm cách để thay thế nước tro trong công thức, và kết quả của rất nhiều thử nghiệm là công thức hiện tại ở SD với trứng, bơ đậu phộng, không dùng nước tro hay baking soda. Trứng gà không chỉ giúp bánh có màu đẹp mà còn giúp vỏ bánh có độ dẻo mềm, dễ cán, dễ gói bột, dễ ấn khuôn sắc nét. Khi nướng xong bánh cũng có vị bùi ngậy hơn nhờ trứng và bơ đậu phộng. Trứng và bơ đậu phộng cũng là nguyên liệu tự nhiên, dễ kiếm hơn so với baking soda nên mình lựa chọn hai thứ này. Còn việc có thêm trứng và bơ đậu phộng không có liên quan đến việc vỏ nhanh mềm hay mau hỏng. Nguyên nhân thực sự nằm ở các yếu tố khác, mình giải thích theo từng vấn đề ở dưới đây nhé.</p>
+<p style="text-align: justify;"><strong>1. Bột vỏ bánh nhào xong bị nhão hoặc khô:</strong></p>
+<p style="text-align: justify;">Tùy vào nước đường và loại bột sử dụng mà bột có thể khô hoặc nhão. Một số trường hợp thường gặp là</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p style="text-align: justify;">– Nước đường càng mới thì khả năng làm cho vỏ nhão càng cao</p>
+<p style="text-align: justify;">– Bột hút ẩm kém (bột mới xay) sẽ làm cho bột nhão</p>
+<p style="text-align: justify;">– Bột có hàm lượng protein thấp sẽ hút nước ít hơn =&gt; vỏ nhão hơn (hàm lượng protein có thể xem trong thành phần in trên vỏ bao). Dùng bột mì làm bánh ngọt (protein thấp, vd như bột mì số 8) sẽ cho bánh mềm hơn nhưng vỏ bột có thể nhão hơn so với bột mì đa dụng (protein 10,5 – 11,5%, vd như bột mì số 11).</p>
+<p style="text-align: justify;">Thường bột sau khi trộn sẽ hơi ướt. Cần để nghỉ khoảng 30 – 45 phút để bột khô ráo và dẻo hơn. Nếu sau khi để nghỉ mà:</p>
+<p style="text-align: justify;">– Bột vẫn ướt: thì cho thêm một ít bột mì khô vào trộn đều, đến khi bột khô hơn và đủ dẻo để cán. Lưu ý là khi cán bột bạn vẫn phải dùng thêm bột áo, nên nếu cần trộn thêm bột thì cũng không nên trộn quá nhiều, có thể sẽ làm bột bị khô.</p>
+<p style="text-align: justify;">– Bột quá khô: trộn thêm ít nước đường hoặc dầu ăn (nhưng nếu dùng ct của SD thì khả năng này rất rất thấp). Hoặc nếu đang dùng bột mì có protein cao thì thay một phần hoặc toàn bộ bằng bột có protein thấp hơn.</p>
+<p style="text-align: justify;"><strong>2. Bánh nướng xong ăn ngon nhưng để 1 – 2 ngày bị ướt.</strong></p>
+<p style="text-align: justify;">* Nguyên tắc chung với bánh trung thu là: bánh nướng xong vỏ sẽ cứng (gần như bánh quy) và vỏ bánh chỉ hơi hanh vàng. Để sau 1 – 3 ngày vỏ bánh sẽ chuyển màu nâu nhờ nước đường. Đồng thời vỏ bánh cũng mềm hơn nhờ dầu ăn từ nhân bánh thấm ra ngoài &amp; ngấm hơi ẩm từ không khí.</p>
+<p style="text-align: justify;">– Như vậy, nếu bánh nướng xong mà ăn vừa ngon thì có nghĩa là trong vỏ bánh vẫn còn khá nhiều nước . Sau 1, 2 ngày, khi dầu từ nhân bánh ngấm ra vỏ và bánh hút thêm ẩm từ không khí (đặc biệt khi bánh được để trong hộp kín và không có hút ẩm), vỏ bánh chắc chắn sẽ trở nên mềm hơn rất nhiều. <em><strong>Bánh có nhân càng nhiều dầu ăn thì vỏ bánh sẽ mềm càng nhanh</strong></em> =&gt; Vỏ bánh nhân đậu, sen, khoai… sẽ mềm nhanh hơn là bánh nhân thập cẩm (ít dầu).</p>
+<p style="text-align: justify;">– Do đó,<em><strong> nếu muốn để bánh lâu hơn, thì cần nướng ở nhiệt độ và thời gian phù hợp để sao cho vỏ bánh sau khi nguội thì cứng cáp gần như bánh quy (1 – 3 ngày sau bánh mềm hơn là vừa ăn)</strong></em>. Nếu vỏ bánh nướng xong mà vừa mềm để ăn thì nguyên nhân chính có thể là bạn đã nướng hơi non (nhiệt độ hơi thấp hoặc thời gian hơi ngắn).</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p style="text-align: justify;"><em><strong>Nhiệt độ và thời gian nướng bánh không cố định mà tùy thuộc vào kích thước bánh, độ dày của vỏ bánh, trọng lượng bánh và cả lò nướng của bạn nữa</strong></em>. Vì vậy, không nên rập khuôn y hệt công thức mà cần tự điều chỉnh. Ở dưới đây mình gạch đầu dòng một vài ý chính để các bạn có thể dựa vào và tự tính nhiệt độ &amp; thời gian cho bánh nướng của mình nhé.</p>
+<p style="text-align: justify;">– Mình thường làm bánh 75 gram, vỏ mỏng (vỏ = 1/2 nhân), nướng ở nhiệt độ 180 – 190 độ C trong khoảng 7 – 8 phút ở lần nướng thứ 1. Thường thì vỏ bánh sẽ chín gần như hoàn toàn trong lần nướng đầu tiên. Các lần nướng tiếp theo chỉ có tác dụng làm khô thêm vỏ và giúp mặt bánh thêm vàng. Nên ở lần nướng thứ 2 và 3 mình tăng nhiệt thêm khoảng 5 – 10 độ C và nướng ngắn hơn 1 – 2 phút.</p>
+<p style="text-align: justify;">– Nếu là bánh cỡ to hơn, nên tăng nhiệt độ thêm một chút và thời gian nướng có thể kéo dài hơn một chút. Nếu vỏ bánh dày cũng cần tăng nhiệt và nướng lâu hơn.</p>
+<p style="text-align: justify;">– Nếu lò có lửa trên to, nên đặt bánh ở dưới rãnh giữa một nấc, đặt chế độ hai lửa. Lò nướng halogen, lò thủy tinh hay nồi nướng thì mình không có kinh nghiệm sử dụng.</p>
+<p style="text-align: justify;">– Khi xịt nước giữa các lần nướng, chỉ xịt vừa đủ để giúp bánh nguội bớt, không xịt quá nhiều, sẽ làm cho vỏ bánh quá ướt và dễ bị mềm sau này.</p>
+<p style="text-align: justify;">– Sau khi nướng xong có thể sấy bánh bằng cách: hạ lò về 100 – 110 độ C, đặt toàn bộ bánh ở khay giữa lò, nướng trong khoảng 5 – 15 phút tùy độ to của bánh và độ dày của vỏ. Lưu ý: việc sấy bánh này chỉ áp dụng nếu như vỏ bánh khi nguội bị mềm, và không sấy quá lâu, làm vỏ bánh mất nhiều hơi nước, sẽ bị cứng và khô.</p>
+<p style="text-align: justify;">– Đợi bánh nguội hoàn toàn mới được cất vào hộp hoặc bảo quản trong túi kín. Cần có thêm túi hút ẩm nếu bánh được gói trong túi kín.</p>
+<p style="text-align: justify;">– Nếu vỏ bánh bị mềm nhão do hút ẩm từ không khí, có thể áp dụng cách sấy bánh để làm bánh khô trở lại. Nhưng đừng sấy quá lâu dễ làm vỏ bánh bị khô quá nhé.</p>
+<p style="text-align: justify;">– Nếu vỏ bánh bị mềm do nhân có nhiều dầu: cần khắc phục ở khâu sên nhân, để dầu và nhân bánh được quyện với nhau, dầu không bị tách khỏi nhân (việc này mình sẽ giải thích thêm trong bài về cách sên nhân sen nhuyễn).</p>
+<p style="text-align: justify;"><strong>3. Bánh nướng xong nhân bị tách vỏ: </strong></p>
+<p style="text-align: justify;">–  Nếu tách ngay từ đầu thì có thể do bọc vỏ bánh chưa tốt làm không khí xen vào giữa vỏ bánh và nhân.</p>
+<p style="text-align: justify;">– Nếu để qua ngày mà vỏ bị ướt dầu và nhân bánh tách khỏi vỏ thì có thể do hai  nguyên nhân:</p>
+<ul>
+<li style="text-align: justify;">Sên nhân chưa tốt, nhân bị tách dầu hoặc dầu chưa thật sự ngấm vào phần tinh bột trong nhân</li>
+<li style="text-align: justify;">Nhân có quá ít dầu</li>
+</ul>
+<p style="text-align: justify;"><strong>4. Bánh bị biến dạng trong và sau khi nướng</strong>:</p>
+<p style="text-align: justify;">– Bánh bị mất nét sau khi đóng khuôn: nhồi bột quá kĩ làm cho bột dai, đàn hồi.</p>
+<p style="text-align: justify;">– Nếu bánh bị chảy xệ thì có thể do nhân chưa đủ khô nên khi nướng nhân gặp nhiệt độ cao và chảy làm cho vỏ bánh biến dạng. Vấn đề này có thể khắc phục trong khâu sên nhân. Ngoài ra, nên lưu ý với các loại nhân mềm và dẻo như nhân cốm sẽ chảy khá nhanh khi gặp nhiệt độ cao. Khi làm nhân nên tăng đủ lượng tinh bột (vd thêm bột đậu xanh, đậu trắng). Làm sao khi nhân còn nóng vẫn có thể nắm thành viên và tự viên nhân có thể đứng, không bị chảy là được.</p>
+
+
+<p style="text-align: justify;">– Bánh bị chảy xệ còn có thể do bột bánh quá nhão. Việc này sẽ kết hợp với hoa văn trên mặt bị mờ đi (cách khắc phục các bạn xem ở trên, phần vỏ bánh ướt).</p>
+<p style="text-align: justify;">– Nếu bánh bị phồng chân hay phồng mặt hay cạnh bánh, nhiều khả năng do:</p>
+<ul>
+<li style="text-align: justify;">nhiệt độ nướng quá cao, nên hạ bớt nhiệt độ.</li>
+<li style="text-align: justify;">nhân quá nhão, ướt hoặc quá dẻo (nhân cốm, nhân khoai)</li>
+</ul>
+<p style="text-align: justify;">– Bánh bị rạn mặt hay nứt hoặc mờ hoa văn: do quét nhiều trứng, quét trứng khi vỏ bánh còn ướt.</p>
+<p style="text-align: justify;">Hi vọng là với bài viết này thì các thắc mắc của các bạn đều đã được giải đáp. Chúc các bạn sẽ luôn có những chiếc bánh ngon với phần vỏ bánh thật ưng ý nhé :)</p>
+<p><span style="color: #141823;"> ———————————–</span></p>
+<p><strong>BÀI VIẾT CÙNG CHỦ ĐỀ TRUNG THU</strong></p>
+<p><strong>A. Kiến thức chung</strong></p>
+<ol>
+<li>Tổng hợp cách làm bánh nướng, bánh dẻo trung thu</li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+<li><a href="/trung-muoi/" target="_blank">Cách làm trứng muối</a></li>
+<li><a href="/banh-trung-thu-cach-xu-li-trung-muoi-cho-nhan-banh-trung-thu/" target="_blank">Cách xử lí trứng muối để làm nhân bánh</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" target="_blank">Cách chọn khuôn bánh trung thu</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" target="_blank">Cách làm rượu Mai Quế Lộ</a></li>
+<li><a href="/tu-lam-mau-thuc-pham-tu-rau-cu-qua-tu-nhien/" target="_blank">Tự làm màu thực phẩm từ rau củ quả tự nhiên</a></li>
+</ol>
+<p><strong>B. Cách làm bánh nướng trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-nau-nuoc-duong-cho-banh-nuong/" target="_blank">Cách nấu nước đường bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-lam-banh-nuong/" target="_blank">Cách làm bánh nướng trung thu (</a>trộn bột, bọc nhân, đóng bánh và nướng)</li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-dau-xanh-tra-xanh-la-dua/" target="_blank">Cách làm nhân đậu xanh – trà xanh – lá dứa</a></li>
+<li><a href="/banh-trung-thu-nhan-thap-cam-nhan-sua-dua/" target="_blank">Cách làm nhân thập cẩm – sữa dừa</a></li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-sen-nhuyen/" target="_blank">Cách làm nhân sen nhuyễn</a></li>
+<li><a href="/banh-trung-thu-tra-xanh-nhan-dau-do/" target="_blank">Bánh trà xanh nhân đậu đỏ</a></li>
+<li><a href="/banh-trung-thu-banh-nuong-hoa-cuc-vi-chanh-leo-nghe-tay-va-chanh-vang/" target="_blank">Bánh hoa cúc vàng (vị nghệ tây, chanh vàng, chanh leo)</a></li>
+<li><a href="/red-velvet-rose-mooncake-banh-nuong-nhan-chocolate-rum-nho/" target="_blank">Bánh nướng hoa hồng đỏ (màu đỏ củ dền, nhân café, chocolate, rum nho)</a></li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+</ol>
+<p><strong>C. Cách làm bánh dẻo trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-lam-banh-deo/" target="_blank">Cách làm bánh dẻo kiểu Việt Nam ít ngọt</a></li>
+<li><a href="/banh-trung-thu-chia-se-kinh-nghiem-lam-banh-deo/" target="_blank">Giải đáp các thắc mắc/ vấn đề thường gặp khi làm bánh dẻo</a></li>
+</ol>
+<p> </p>
+<p> </p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

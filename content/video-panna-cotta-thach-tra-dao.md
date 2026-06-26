@@ -1,0 +1,68 @@
+---
+title: "[VIDEO] Cách làm PANNA COTTA THẠCH TRÀ ĐÀO"
+date: "2019-07-07"
+slug: "video-panna-cotta-thach-tra-dao"
+categories: []
+tags: []
+image: "/wp-content/uploads/2019/07/cach-lam-panna-cotta-thạch-trà-đào-banner.jpg"
+description: "cách làm panna cotta thạch trà đào: món tráng miệng làm rất nhanh, đơn giản mà siêu mềm mịn ngậy béo thơm ngon, rất thích hợp cho các ngày hè nóng nực"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #000000;">Nếu bạn cần tìm một món ăn “mát lịm tim” để chống chọi với cái nắng hơn bốn-chục-độ-xê ngoài kia thì đây chính là một sự lựa chọn cực tốt cho bạn. </span></p>
+<p><span style="color: #000000;">Nếu bạn thích trà sữa, trà đào… và đã chán uống nước thì đây cũng là một sự lựa chọn cực hay ho khi mà những hương vị quen thuộc sẽ “xuất hiện” trong một “bộ quần áo” hoàn toàn mới mẻ – thậm chí còn theo phong cách sang chảnh chanh sả mà thường chỉ thấy trong các nhà hàng kiểu Âu. </span></p>
+<p><span style="color: #000000;">Và nếu bạn cần một món tráng miệng cho nhiều người theo tiêu chí nhanh, đơn giản, dễ làm mà lại lạ miệng, bắt mắt thì đây càng là sự lựa chọn hàng đầu để không chỉ làm hài lòng mà còn khiến cho các thực khách tại bàn ăn của bạn phải ồ lên mắt tròn mắt dẹt ;) </span></p>
+<p><span style="color: #000000;">Tại sao thế? Mời các bạn xem video để hiểu lí do vì sao món ăn này lại xịn sò tới mức đó nha (ở dưới video là danh mục nguyên liệu và cách làm như mọi khi ah). </span></p>
+<p><span style="color: #000000;"><div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/ONcprxxkSic" width="560"></iframe></div></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p> </p>
+<p>Nếu không xem được video ở trên, bạn có thể xem trực tiếp tại <strong><a href="https://youtu.be/ONcprxxkSic">link này</a> nhé. </strong></p>
+<h2>CÁCH LÀM PANNA COTTA THẠCH TRÀ ĐÀO</h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong><span style="color: #000000;">A. Phần thạch trà đào</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">1 hộp đào ngâm (cỡ tối thiểu 500g) </span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">300 ml nước sôi</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 túi trà lọc vị đào</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 ml nước đào ngâm (lấy từ hộp đào)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">30 gram đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">12 gram gelatin</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">B. Phần panna cotta </span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">300 gram sữa tươi có đường </span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">300 gram kem tươi (whipping cream, hàm lượng béo tối thiểu 30%)</span></em></li>
+<li><span style="color: #ff0000;"><em>50 gram đường (xem lưu ý ở dưới) </em></span></li>
+<li><em><span style="font-weight: 400; color: #000000;">15 gram gelatin</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Vỏ 1 quả cam vàng bào nhuyễn</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">* Lưu ý về nguyên liệu: </span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">– Gelatin sẽ làm cho thạch và panna cotta đông kiểu mềm dẻo, “núng nính” nên <strong>không thay thế</strong> được bằng bột thạch rau câu hoặc agar agar.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Tỉ lệ kem tươi và sữa trong panna cotta là tỉ lệ cơ bản, nếu muốn ít ngậy béo các bạn có thể bớt kem tươi và tăng sữa lên, nhưng panna cotta sẽ ít mềm hơn.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Tỉ lệ gelatin trong công thức là tỉ lệ cơ bản của panna cotta, theo mình đây là tỉ lệ cho panna cotta vừa đủ cứng cáp để đổ ra khỏi khuôn, nhưng vẫn mềm dẻo núng nính.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Vỏ cam là nguyên liệu không bắt buộc nhưng rất nên có vì hương cam rất hợp với đào, đồng thời vị the mát sẽ giúp cân bằng vị ngậy béo của kem tươi. Nếu không có cam vàng các bạn có thể thay bằng vỏ chanh vàng hoặc bỏ qua.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400; color: #000000;">– Ngoài loại khuôn mình dùng trong video, các bạn có thể cho vào các cốc thủy tinh trong suốt nhỏ, phần thạch đào có thể đổ lên trên lớp panna cotta cũng rất đẹp.</span></p>
+<p><span style="color: #ff0000;">* Trong video hướng dẫn, khi dựng video tụi mình bỏ quên mất phần đường của công thức panna cotta, rất xin lỗi các bạn. Đường này có thể điều chỉnh theo khẩu vị, các bạn pha vào kem sữa khoảng 40 – 45 gram rồi từ từ thêm đường nếu thấy nhạt nhé. </span></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><strong><span style="color: #000000;">A. Phần thạch trà đào</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Lấy riêng phần miếng đào và giữ lại phần nước siro ngâm.</span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Cho túi trà lọc vào nước sôi, để khoảng 15 phút cho trà ngấm và bỏ phần bã trà đi. Cho nước đào ngâm và đường vào khuấy đều. Các bạn có thể cho đường từ từ đến khi nếm thử thấy vừa ngọt.</span></p>
+<p><span style="font-weight: 400; color: #000000;">3. Ngâm lá gelatin vào nước mát cho gelatin nở mềm.</span></p>
+<p><span style="font-weight: 400; color: #000000;">4. Đun nước trà đào đến khi sôi thì tắt bếp, vắt lá gelatin kiệt nước và nhanh tay cho vào trà nóng, khuấy cho gelatin tan hoàn toàn. Để cho phần nước thạch này nguội bớt, tránh làm miếng đào bị nhũn, thỉnh thoảng khuấy đều tránh thạch bị tạo váng.</span></p>
+<p><span style="font-weight: 400; color: #000000;">5. Xếp các miếng đào vào khuôn, đổ phần nước thạch (chỉ còn hơi ấm) lên ngập kín mặt đào. Để thạch vào tủ lạnh khoảng 1 – 2 giờ cho thạch đông.</span></p>
+<p><strong><span style="color: #000000;">B. Panna cotta </span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Bào vụn vỏ cam vàng, không bào đến phần cùi trắng vì sẽ có vị đắng.</span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Ngâm gelatin vào nước cho gelatin mềm ra.</span></p>
+<p><span style="font-weight: 400; color: #000000;">3. Cho vào nồi sữa tươi, kem tươi, vỏ cam, đun hỗn hợp trên lửa vừa, vừa đun vừa khuấy đều đến khi hỗn hợp nóng, gần sôi thì tắt bếp.</span></p>
+<p><span style="font-weight: 400; color: #000000;">Lưu ý: Chỉ đun đến khi hỗn hợp ấm nóng (khoảng 75 – 80℃), không đun đến khi sôi vì sẽ làm sữa và kem tươi vị tách béo.</span></p>
+<p><span style="font-weight: 400; color: #000000;">4. Vắt kiệt nước lá gelatin đã ngâm mềm và cho vào kem sữa, dùng phới khuấy nhanh tay đến khi gelatin tan hoàn toàn. Để nguội hoàn toàn, thi thoảng khuấy đều tránh làm panna cotta tạo váng.</span></p>
+
+
+<p><span style="color: #000000;">5. Khi thạch đào đã đông và panna cotta đã nguội hoàn toàn, dùng thìa múc panna cotta và nhẹ nhàng đổ vào khuôn đến khi đầy khuôn. Lưu ý không đổ quá mạnh tay sẽ làm hỏng phần thạch bên dưới. Để cả khuôn vào tủ lạnh trong ít nhất 4 giờ đến khi panna cotta đông hoàn toàn. </span></p>
+<p><span style="font-weight: 400; color: #000000;">Cách lấy panna cotta ra khỏi khuôn: Nhúng cả khuôn bánh vào nước nóng trong khoảng 8 – 10 giây sau đó úp ngược khuôn để lấy panna cotta ra. Lưu ý: <strong>Không dùng nước sôi và nhúng khuôn quá lâu sẽ làm panna cotta bị chảy quá nhiều. </strong></span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

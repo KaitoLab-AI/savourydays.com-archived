@@ -1,0 +1,101 @@
+---
+title: "[VIDEO] Cách làm bánh cuốn/ bánh ướt thịt nướng (tráng nồi hơi)"
+date: "2016-05-06"
+slug: "video-cach-lam-banh-cuon-banh-uot-thit-nuong-trang-noi-hoi"
+categories: []
+tags: []
+image: "/wp-content/uploads/2016/05/cách-làm-bánh-cuốn-banner.jpg"
+description: "Cách làm bánh cuốn hay bánh ướt bằng nồi hấp với video hướng dẫn và rất nhiều mẹo để giúp tráng bánh dễ, mềm, ngon - công thức bánh cuốn Savoury Days"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>“Sự tích món bánh cuốn nồi hơi” ở nhà mình bắt đầu từ khoảng vài tháng trước khi mình được một người bạn từ Việt Nam qua chơi và tặng chiếc khuôn để tráng bánh. Cả hai vợ chồng mình đều rất rất thích bánh cuốn nhưng làm bánh cuốn tráng chảo thú thật là mình hơi ngại và lười, nên thi thoảng nếu rất thèm thì chạy ra chợ người Việt ở đây để mua thôi. Cho nên khi được tặng cái khuôn để tráng bánh thì thích lắm, mang ra thử liền.</p>
+<p>Lần đầu tiên làm thử bánh cuốn với nồi hấp rất đáng nhớ vì đánh vật mất gần 3 giờ đồng hồ và hi sinh khoảng 1/2 âu bột chỉ vì không biết cách tráng và hơn nữa là không biết cách lấy bánh ra. Bánh khi ra đĩa hoặc bị rách tả tơi, hoặc bị dính lằng nhằng với nhau chứ không thành tấm bánh mỏng. Chỉ thương cho bạn cùng nhà hôm đó vừa đói meo vì phải đợi lâu, vừa phải ăn món bánh cuốn mà hơi giống bánh phở tráng mỏng, mà vẫn phải khen động viên để vợ có tinh thần làm tiếp :D</p>
+<p>Nhưng chỉ bị mỗi lần đó thôi, các lần sau này vì mình đã rút được nhiều kinh nghiệm nên bánh rất ổn. Chồng khen (chắc thật lòng) là ngon hơn bánh ngoài hàng. Mà một khi đã biết tráng bánh bằng nồi hơi thì sẽ nghiện cực kì luôn vì bánh rất ngon mà làm cũng không mất công lắm. Từ khi “chuẩn hoá” được quá trình làm bánh cuốn nồi hơi rồi thì hầu như tuần nào nhà mình cũng có ít nhất một bữa ăn sáng với bánh cuốn nhân thịt bằm hoặc ăn bữa chính với thịt nướng (bữa nào ngồi ăn cảm giác cũng sung sướng cực kì ;) ).</p>
+<p>Làm bánh cuốn không khó nhưng có nhiều điểm cần chú ý nên bài viết này của mình sẽ hơi dài. Nếu bạn chưa làm bánh cuốn bằng nồi hơi bao giờ thì nên đọc kĩ các lưu ý và quan sát cách tráng trong video nhé. Lần đầu tiên thử sẽ thấy hơi trúc trắc một chút nhưng qua giai đoạn đầu rồi thì sẽ ổn hơn, và chắc chắn sẽ cảm thấy bỏ công ra làm cực kì đáng ấy.</p>
+<h4><span style="color: #ff0000;">I. <strong>Để làm bánh cuốn tại nhà, ta sẽ cần chuẩn bị các <span style="text-decoration: underline;">DỤNG CỤ</span> như sau</strong></span></h4>
+<p>– <strong>1 nồi to để đun nước hấp bánh, có nắp vung</strong>.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>– <strong>1 khuôn tròn căng vải để tráng bánh cuốn</strong>. Khuôn của mình là do chị bạn đặt hàng bánh cuốn gần nhà làm giúp. Chị nói là ở Hà Nội các bạn có thể đo đường kính miệng nồi rồi ra chợ Nguyễn Công Hoan, đặt mấy hàng bánh cuốn tại đây căng khuôn cho. Thật ra như các bạn xem trong video thì sẽ thấy cái khuôn này hoàn toàn có thể tự làm được. Nó chỉ là một khung kim loại uốn tròn, sau đó căng vải lên rồi dùng dây thít cho vải thật căng thôi.</p>
+<p>Có một cách khác rất tốt là mua khung thêu tay rồi tự căng vải như trong hình minh hoạ ở dưới. Đây là khung bánh cuốn của chị Thuỳ Dung, một bạn đọc của SD đã làm thử với khung thêu và vải phin trắng.</p>
+<p><img alt="cach lam banh cuon khuon banh 1" class="aligncenter size-full wp-image-7046" height="1224" loading="lazy" sizes="(max-width: 1632px) 100vw, 1632px" src="/wp-content/uploads/2016/05/cach-lam-banh-cuon-khuon-banh-1.jpg" width="1632"/></p>
+<p>Lưu ý chung của khuôn tráng bánh cuốn là:</p>
+<ul>
+<li><strong>Mặt vải cần rất căng</strong>, nếu không căng tráng bánh sẽ khó mà lấy bánh ra cũng rất khó</li>
+<li>Dùng vải mỏng vừa, không có nhiều bông hay tơ sợi vải để không bị dính vào bánh</li>
+<li>Nên đo cho khuôn bằng miệng nồi và chọn vung đậy vừa khít (mình dùng nắp vung to hơn miệng nồi nên khi hấp nước từ vung nhỏ xuống bếp khá nhiều)</li>
+</ul>
+<p>Có hướng dẫn căng vải lên mặt nồi, nhưng mình nghĩ cách này có nhiều nhược điểm, như căng vải cần chặt tay, vải dễ bị xô lệch và cần đổ đủ nước, nếu không giữa chừng đang tráng bánh mà hết nước thì rất phiền.</p>
+<p>– <strong>1 dụng cụ để gạt và lấy bánh</strong>. Mình có được tặng kèm một que tre để gạt bánh nhưng thực sự là dùng que này gạt rất khó với người không chuyên, bánh dễ bị dính vào nhau và cũng khó đặt lên đĩa sau khi lấy ra ngoài. Sau mình đổi, dùng spatula (phới dẹt để trét kem lên mặt bánh – các bạn xem trong video sẽ thấy hình dáng cụ thể) thấy dễ lấy bánh hơn hẳn. Thật ra không chỉ với bánh cuốn mà các loại bánh tráng mỏng nói chung như bánh crepe chẳng hạn, mình đều cảm thấy dùng vật dẹt phẳng như spatula thì lật hay lấy ra đều dễ hơn. Nếu không có sẵn, bạn có thể tìm một thanh tre vót mỏng dẹt, mình nghĩ cũng ổn.</p>
+<h4><span style="color: #ff0000;">II. Các NGUYÊN LIỆU cần chuẩn bị (đủ cho 4 người ăn)</span></h4>
+<ul>
+<li><em>250 gram bột gạo tẻ khô (2-1/2 cup rice flour)</em></li>
+<li><em>45 gram bột năng khô (1/2 cup minus 1 Tbsp tapioca starch)</em></li>
+<li><em>45 gram tinh bột khoai tây (1/3 cup minus 1 Tbsp potato starch) </em></li>
+<li><em>1 nhúm nhỏ muối nếu muốn bánh có vị hơi đậm một chút (mình không dùng)</em></li>
+<li><em>1 – 1.1 lít nước (4-1/2 cup water)</em></li>
+</ul>
+<p>– Mình không dùng bột bánh cuốn pha sẵn vì ở bên này chỉ mua được bột Vĩnh Thuận, bột VT thường có mùi khá nồng mình không thích lắm. Bột gạo và bột năng thì mình mua loại sản xuất ở Thái, hãng nào cũng được, về cơ bản chất lượng đều rất ổn, bánh ngon mà không bị nồng mùi bột.</p>
+<p>– Bột khoai tây thì mình mua trong siêu thị Âu, hầu như ở đâu cũng có. Ở Nhật các bạn có thể dùng Katakuriko. Ở trong công thức này thì <strong>bột khoai chính là “chìa khoá bí mật” giúp cho bánh có độ mềm, mướt, dai, dẻo</strong>. Nếu không có bột khoai, bạn có thể thay bằng bột ngô (<em>corn starch) </em>hoặc bột gạo tẻ với lượng tương đương (<em>45 gram hoặc 1/3 cup + 1.5 tsp corn starch</em>). Nhưng khi dùng bột ngô mình thấy bánh kém mềm và mướt hơn chút xíu (chồng mình không thấy có sự khác biệt nên mình nghĩ là ít thôi).</p>
+<p>– Bột năng giúp cho bánh có vị hơi dai và dẻo, tuỳ khẩu vị của gia đình mà bạn có thể thay đổi lượng bột trong công thức. VD nếu muốn bánh dai nhiều hơn thì tăng bột năng và giảm bột gạo (giữ nguyên tổng lượng bột). Mình đã thử làm toàn bột gạo thì thấy không ngon lắm.</p>
+<p>– <strong>Lượng nước trong công thức có thể thay đổi tuỳ vào chất lượng bột</strong>. Độ lỏng của bột quyết định khá lớn độ  mềm và mỏng của vỏ bánh. Bột càng nhiều nước, càng loãng thì vỏ bánh càng dễ mỏng và mềm hơn NHƯNG nếu quá loãng, bánh sẽ lâu chín, khó tráng và dễ rách.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Với lượng bột trên, mình thường dùng 1.1 lít nước. Nhưng mình thường chỉ pha bột với 1 lít nước. Sau đó tráng thử bánh, nếu thấy bánh dày quá và khó đổ bánh thì từ từ thêm nước cho tới khi bánh mỏng như ý muốn. Nếu bạn lỡ tay pha bột quá loãng thì thêm vào một chút bột gạo tẻ là được.</p>
+<p>– Nếu dùng bột ướt xay từ gạo thì lượng nước sẽ khác. Mình không có kinh nghiệm gì với loại bột này nên không biết được định lượng cụ thể.</p>
+<h4><span style="color: #ff0000;">III. Cho phần nhân bánh và nước chấm</span></h4>
+<p>– Trong video mình giới thiệu bánh tráng chay dùng kèm thịt nướng. Cách ướp này làm theo kiểu thịt của <a href="/bun-cha-ha-noi/" target="_blank"><strong>bún chả Hà Nộ</strong></a>i, hơi khác với <a href="/tu-lam-thit-xien-nuong-ngon-nhu-ngoai-hang-d/" target="_blank"><strong>thịt xiên nướng</strong></a> và thịt của bún thịt nướng trong Nam, nhưng rất ngon, ăn với bánh cuốn rất hợp. Công thức như sau (cho 4 người)</p>
+<ul>
+<li><em>70 gr đường + 150 ml nước sôi để chưng nước hàng/ nước màu</em></li>
+<li><em>1 kg thịt lợn</em></li>
+<li><em>2.5 thìa canh nước mắm (1 thìa canh = 1 tbsp = 15 ml)</em></li>
+<li><em>2.5 thìa canh dầu hào (oyster sauce)</em></li>
+<li><em>50 gr hành hương (hành khô/ hành củ)</em></li>
+<li><em>15 gr tỏi </em></li>
+</ul>
+<p>– Nước hàng/ nước màu nên tự chưng, và không chưng quá cháy để giúp thịt có màu đẹp nhưng vẫn giữ được vị ngọt từ đường.</p>
+<p>– <strong>Loại thịt mà mình thường dùng để nướng là nạc vai, tiếp theo là ba chỉ</strong>. Hai loại này có mỡ nên giúp thịt nướng không bị khô. Đặc biệt là nạc vai, sau khi nướng xong không khô, vừa mềm vừa giòn (hình miếng thịt có trong video).</p>
+<p>– Nước mắm của các hãng khác nhau có độ mặn khác nhau nên <strong>lượng mắm, dầu hào, đường có thể thay đổi.</strong> Nếu không chắc, bạn nên làm ít hơn lượng trong công thức và nếm thử theo cách mình hướng dẫn trong video.</p>
+<p>– Nếu làm nhân thịt băm thì cần thịt lợn băm xào với mộc nhĩ và hành khô (phần này mình sẽ làm bài riêng có định lượng riêng sau).</p>
+<p>– <strong>NƯỚC CHẤM</strong> cho bánh cuốn thịt nướng mình pha chua mặn ngọt giống nước chấm bún chả. Nếu ăn bánh cuốn với chả lụa hay nhân thịt thì nước chấm sẽ hơi khác chút, vị chua không có hoặc rất ít, chủ yếu là mặn và ngọt thôi. Nguyên liệu cho nước chấm gồm:</p>
+<ul>
+<li><em>25 gr đường</em></li>
+<li><em>15~18 ml nước cốt chanh</em></li>
+<li><em>175 ml nước đun sôi để nguội</em></li>
+<li><em>15~20 ml nước mắm</em></li>
+<li><em>tỏi, tiêu, ớt bằm (tuỳ khẩu vị)</em></li>
+<li><em>rau mùi, dưa chuột hoặc cà rốt, su hào ngâm chua ngọt để ăn kèm (tham khảo cách làm trong bài <a href="/video-cach-lam-banh-ran-man-bi-quyet-de-banh-ran-khong-no/" target="_blank"><strong>cách làm bánh rán mặn</strong></a>)</em></li>
+<li><em>hành khô phi giòn (tham khảo cách làm trong bài <a href="/xoi-xeo/" target="_blank"><strong>cách làm xôi xéo</strong></a>)</em></li>
+</ul>
+<h4><span style="color: #ff0000;"><strong>IV. CÁCH LÀM BÁNH CUỐN THỊT NƯỚNG</strong></span></h4>
+<p>Video quay cách làm cả phần bánh và thịt đã được đăng tại <strong><a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days</a></strong>.<span style="color: #ff0000;"> </span>Nếu không xem được video tại blog, các bạn có thể xem trực tiếp trong <strong><a href="https://youtu.be/LjZg6UQg0Kk" target="_blank">link này</a> </strong>nhé. Video có chế độ bản đẹp HD. Các bạn có thể xem hướng dẫn cách chỉnh chế độ HD ở cuối bài viết <strong><a href="/demo-flan-creme-caramel-kem-caramel/" target="_blank">cách làm bánh flan này.</a></strong></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/LjZg6UQg0Kk" width="560"></iframe></div>
+<p> </p>
+<p>Các bước chính đều đã có trong clip rồi nên dưới đây là tóm tắt <strong>CÁC LƯU Ý KHI LÀM</strong> nhé</p>
+<p>1. Pha bột bánh cuốn và ướp thịt:</p>
+<p>– <strong>Bột bánh cuốn nên pha trước tối thiểu 2 giờ</strong> để thay nước ngâm bột như trong video, sẽ giúp bánh hết mùi bột nồng hoặc chua. Nếu pha được qua đêm thì càng tốt.</p>
+<p>– <strong>Thịt nên ướp trước 2 – 4 giờ để ngấm gia vị</strong> (mình thường ướp từ tối hôm trước rồi để tủ lạnh, ngăn mát, vì đã có gia vị rồi nên thịt sẽ không bị ôi thiu nhé).</p>
+<p>– <strong>Nước chấm cũng nên pha trước vài giờ</strong> để cho ngấu. Khi dùng mới băm nhỏ tỏi ớt (nếu dùng) và thả vào.</p>
+
+
+<p>2. Khi tráng bánh</p>
+<p>– Chuẩn bị các dụng cụ gồm âu bột, nồi hấp, que lấy bánh, đĩa đựng bánh… sẵn sàng.</p>
+<p>– Nên <strong>dùng nhiều nước để hấp bánh</strong>. <strong>Luôn để nước sôi mạnh</strong> nếu không bánh sẽ khó chín. Mình để lửa ở mức 4/6 của bếp điện.</p>
+<p>– Nên nhúng khuôn tráng qua nước ấm, đặt lên miệng nồi, đợi khuôn ẩm mới bắt đầu tráng sẽ dễ hơn.</p>
+<p>– Đổ bột tráng bánh từ trong ra ngoài, cố gắng đổ đều tay, bánh mỏng hay dày có một phần phụ thuộc vào tay nghề tráng bánh. Việc này thì cần quen tay do làm nhiều chứ mình cũng không có mẹo gì cả. Nếu cảm thấy bột khó tráng mỏng thì thêm nước. Bánh dày do cách tráng nhưng bột đủ nước sẽ vẫn mềm, còn bánh bị dày bởi bột thiếu nước, không tráng mỏng được thường sẽ cứng.</p>
+<p>–<strong> Luôn quấy bột trước khi tráng bánh mới</strong> vì bột sẽ lắng xuống đáy trong lúc chờ. Khi gần hết âu bột có thể cần thêm nước vì bột thường đặc hơn.</p>
+<p>– <strong>Cần có nắp vung đậy</strong> để giữ hơi nước giúp bánh chín nhanh và mềm. Chọn nắp vung vừa với nồi sẽ tốt hơn vì tránh được nước chảy từ vung xuống bếp.</p>
+<p>– <strong>Căn giờ để đợi bánh vừa chín tới.</strong> Bánh chín thường trong và rất dễ lấy ra. Bánh chưa chín hoàn toàn khi ăn sẽ có vị bột, bánh có màu đục. Bánh bị để lâu quá sẽ ướt, dính và dễ rách khi lấy ra. Nếu lỡ để bánh quá lâu, nên mở vung đợi một chút cho hơi nước bay bớt rồi mới lấy bánh.</p>
+<p>– Khi lấy bánh, để cho dễ thì có thể dùng que hay phới gạt xung quanh rìa bánh cho róc rồi mới xiên vào trong để hất bánh lên.</p>
+<p>– Nên quét dầu ăn lên đĩa để bánh cuốn sau khi hấp chín để bánh không dính đĩa. Có thể quét cả một lớp mỏng dầu lên mặt bánh. Nếu tự phi hành, dùng dầu ăn phi hành để quét giúp bánh thơm ngon hơn. Nếu có rổ hay rá nhỏ có thể úp ngược rổ, để bánh cuốn lên rổ, bánh dễ thoát hơi nên sẽ nguội nhanh và ít dính như khi đặt lên đĩa.</p>
+<p>– Đợi bánh nguội bớt mới gấp hoặc chuyển sang đĩa khác nếu không bánh sẽ dính chập lại với nhau.</p>
+<p>– <strong>Nếu chỉ hấp bằng một nồi nhỏ thì thời gian làm bánh sẽ khá lâu</strong>. Mình làm cho 4 người mất tầm 2 – 2.5 tiếng. Để tiết kiệm thời gian các bạn có thể làm nồi to (giống nhiều hàng bánh cuốn) hoặc tráng 2 – 3 nồi một lúc.</p>
+<p>– Bánh không dùng hết có thể bảo quản trong hộp kín, để ngăn mát tủ lạnh từ 1 – 2 ngày. Khi dùng lại thì làm nóng với lò vi sóng (đậy kín để bánh không mất hơi nước và bị khô).</p>
+<p>3. Khi nướng thịt</p>
+<p>– Có thể nướng thịt cùng lúc tráng bánh để tiết kiệm thời gian.</p>
+<p>– Nướng trên than là ngon nhất. Còn nếu nướng lò thì nên dùng khay có khe hở (mình dùng khay nướng pizza) hoặc xiên thịt vào que tre, nướng trên rack sẽ giúp thịt mềm ngon hơn vì không bị mất nhiều nước.</p>
+<p>Các lưu ý chắc là hết rồi, cũng hơi nhiều nên nếu chẳng may có bỏ sót mục nào mình sẽ thêm vào sau nhé. Có gì cần biết thêm mà chưa được giải thích rõ trong bài thì các bạn để lại câu hỏi ở dưới, mình sẽ cố gắng trả lời sớm. Chúc cả nhà có món bánh cuốn ưng ý :)</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

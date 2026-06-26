@@ -1,0 +1,91 @@
+---
+title: "Cách làm bánh kem nhiều tầng dọc – trang trí kem bơ hoa hồng"
+date: "2015-12-21"
+slug: "cach-lam-banh-kem-nhieu-tang-doc-trang-tri-kem-bo-hoa-hong"
+categories: []
+tags: []
+image: "/wp-content/uploads/2015/12/rose-cake.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Vì đang là dịp lễ hội nên làm một chiếc bánh hơi to to, hơi đặc biệt hơn ngày thường một chút :)</p>
+<p>Mình mê kiểu bánh ga-tô có tầng dọc (vertical layer cake) này lắm, cảm giác nó lạ, sáng tạo và hay ho. Nhìn mặt cắt bánh thì nghĩ là cao siêu phức tạp, nhưng biết cách rồi sẽ thấy rất dễ. Thậm chí mình còn thấy đơn giản hơn làm bánh tầng ngang kiểu bình thường ấy.</p>
+<p>Món bánh này mình dùng cốt là ga-tô Nhật Bản có chỉnh sửa đi một chút để bánh “chắc chắn” hơn, nhưng vẫn đảm bảo độ siêu mềm, siêu nhẹ đặc trưng của loại ga-tô này. Mình pha chút màu đỏ với cocoa vì muốn bánh có màu hồng tro đậm, kiểu kiêu sa nhưng vẫn rực rỡ ;) Phần kem bên trong là kem pho-mát đánh bông với kem tươi và đường, ăn cùng dâu tây tươi, còn bên ngoài là kem bơ, trang trí kiểu hoa hồng mì ăn liền. Lại nói đến kiểu trang trí hoa hồng này, không phức tạp như bắt hoa hồng từng cánh, nói đúng hơn là đơn giản như đan rổ, chưa đầy nửa phút đã xong bông hoa rồi. Cho nên đây là kiểu trang trí mà mình cũng hay áp dụng khi thích bánh “xinh đẹp mỹ miều” hơn chút mà không muốn bày bừa ra nhiều và không có thời gian.</p>
+<p>Tổng kết lại thì bánh này không khó đâu, nhưng có một vài chú ý quan trọng, mình ghi trong phần cách làm, cả nhà nhớ đọc kĩ trước khi làm bánh nhé.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/23259185394/" title=" IMG_9391-1 by LinhTrang9185, on Flickr"><img alt=" IMG_8233-1" class="aligncenter" height="427" loading="lazy" src=" https://farm1.staticflickr.com/745/23259185394_ab03bba8de_z.jpg " width="640"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>* <span style="color: #800000;"><strong>Dụng cụ</strong></span>: 1 khuôn chữ nhật kích thước 38 x 25.5 cm (15 x 10 inches), có thể to hơn hoặc nhỏ hơn chút cũng được)</p>
+<p>* <strong><span style="color: #800000;">Nguyên liệu</span></strong></p>
+<p>A. <strong>Phần bánh</strong></p>
+<ul>
+<li><em>5 lòng đỏ trứng (18 – 20 gr/ lòng đỏ) – nhiệt độ phòng</em></li>
+<li><em>20 gram đường hạt mịn </em></li>
+<li><em>50 ml sữa tươi không đường</em></li>
+<li><em>50 gram dầu ăn thực vật (không dùng dầu Olive)</em></li>
+<li><em>1/2 thìa cafe vani chiết xuất (vanilla extract)</em></li>
+<li><em>1/8 thìa màu đỏ Wilton (có thể bỏ qua hoặc dùng loai khác nhưng cần điều chỉnh lượng cho phù hợp)</em></li>
+<li><em>45 gram bột mì đa dụng (all purpose flour)</em></li>
+<li><em>25 gram bột ngô (corn starch</em>)</li>
+<li><em>5 gram bột cacao nguyên chất </em></li>
+<li><em>5 lòng trắng trứng (30 – 35 gr/ lòng trắng) – nhiệt độ phòng</em></li>
+<li><em>1 nhúm nhỏ muối</em></li>
+<li><em>1/2 thìa cafe cream of tartar – hoặc thay bằng nước cốt chanh hay dấm với lượng tương đương</em></li>
+<li><em>80 gram đường – rây mịn</em></li>
+</ul>
+<p>B. <strong>Kem pho-mát và hoa quả trong bánh</strong></p>
+<ul>
+<li><em>100 gram kem pho mát (mình dùng Philadelphia cream cheese) – nhiệt độ phòng </em></li>
+<li><em>100 ml kem tươi (35~40% béo) – để lạnh</em></li>
+<li><em>30 gr đường hạt mịn  </em></li>
+<li><em>1/4 thìa cafe vani chiết xuất </em></li>
+<li><em>200 gram dâu tươi </em></li>
+</ul>
+<p>C. <strong>Kem bơ trang trí bánh</strong>: cần 350~400 gram (khoảng gấp rưỡi công thức tại <a href="/trang-tri-banh-kem-bo-kieu-thuy-sy-voi-long-trang-trung-swiss-buttercream/" target="_blank">bài viết này</a>)</p>
+<p>* <b><span style="color: #800000;">Cách làm</span> </b></p>
+<p>Trước khi vào phần cách làm, mình có một vài lưu ý về quá trình làm bánh và chuẩn bị nguyên liệu như sau, các bạn đọc kĩ trước khi làm nhé:</p>
+<p>– Kem pho-mát trong phần (B) cần để ở nhiệt độ phòng tới khi rất mềm, nếu không khi đánh bông sẽ dễ bị vón cục</p>
+<p>– Vì cốt bánh này rất mềm và nhẹ, xốp, cho nên cơ bản không cần rất nhiều kem đi kèm. Nếu không quen ăn ngậy nhiều, các bạn có thể thay thế kem bơ trong phần (C) bằng kem tươi đánh bông hoặc kem pho mát như trong phần (B).</p>
+<p>– Do kiểu trang trí hoa hồng như trong hình tốn khá nhiều kem nên nếu thay kem bơ trong phần C và vẫn muốn trang trí kiểu như vậy thì các bạn cần chuẩn bị đủ lượng kem. Ngoài ra, nếu dùng kem tươi hay kem pho-mát, nên để kem trong tủ lạnh trong khoảng 1 vài tiếng để kem thực sự đông đặc mới dùng. Nếu không bắt hoa hồng sẽ không đẹp.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>– Cách làm món bánh này về cơ bản giống với món <a href="/banh-bong-lan-cuon-kem-tuoi-hoa-qua-japanese-fruit-roll-cake/" target="_blank"><strong>bánh bông lan cuộn kem tươi hoa quả kiểu Nhật</strong></a>. Nếu bạn làm bánh cuộn hay gặp vấn đề về việc bánh bị gãy, nên cuộn khi bánh còn hơi ấm ấm thay vì cuộn nguội hoàn toàn như cách làm của mình. Và các lần nướng sau, nên để bánh trong lò lâu hơn một chút cho bánh bớt ẩm vì một trong những nguyên nhân thường gặp khiến bánh bị gãy là trong cốt bánh còn ẩm nhiều, khiến cho bạt bánh hơi bết và nặng, độ đàn hồi kém -&gt; nứt gãy khi cuộn.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/23591685440/" title=" rose cake 3 by LinhTrang9185, on Flickr"><img alt=" rose cake 3" class="aligncenter" height="427" loading="lazy" src=" https://farm6.staticflickr.com/5785/23591685440_00e05784d6_z.jpg " width="640"/></a></p>
+<p>Mời các bạn xem video tại <strong><a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days</a></strong> (mình cập nhật video mới hàng tuần nên các bạn có thể Subscribe/ Đăng kí để nhận được thông báo ngay khi có video mới nhé :) ). Nếu không xem được video tại blog thì các bạn có thể xem trực tiếp ở <strong><a href="https://youtu.be/" target="_blank">link này</a></strong>.</p>
+<p>Video có phụ đề tiếng Anh và tiếng Việt. Khi xem các bạn bật CC và chỉnh Language trong Setting để chọn ngôn ngữ. Ngoài ra, nhớ chọn chế độ 720p (HD) để xem video được rõ nét nhất nha.</p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/-DqbhWNpWHc" width="560"></iframe></div>
+<p> </p>
+<p><strong>Tóm tắt cách làm các bước </strong></p>
+<p>1. Chuẩn bị khay nướng có lót giấy nến. Làm nóng lò ở 170 độ C (hai lửa)</p>
+<p>2. Cho lòng đỏ trứng và đường vào âu, đánh tan nhẹ. Cho dầu ăn, sữa, vanilla, trộn đều. Trộn màu đỏ vào hỗn hợp, lượng dùng của màu đỏ có thể thay đổi tuỳ loại màu bạn dùng. Để có màu bánh như trong hình, nên dùng đủ màu đỏ để hỗn hợp có màu sậm một chút.</p>
+<p>Nếu muốn bánh có màu khác, các bạn có thể thay đổi. Lưu ý bột cacao trong công thức là để giúp cho màu có sắc trầm, nếu bạn thích màu sắc tươi sáng thì thay phần bột này bằng bột ngô.</p>
+<p>3. Rây bột mì, bột ngô, bột ca cao vào âu, trộn tới khi hoà quyện và mịn mượt. Rây hỗn hợp qua âu 1-2 lần cho thật mịn, để sang một bên.</p>
+<p>4. Đánh lòng trắng trứng với muối, cream of tartar (hoặc thay bằng chanh/ dấm) và đường tới bông cứng.</p>
+<p>5. Lấy 1/3 lượng lòng trắng trứng cho vào âu đựng hỗn hợp bột và lòng đỏ, trộn đều và thoải mái để làm cho hỗn hợp lòng đỏ “nhẹ” hơn. Cho thêm một phần lòng trắng, trộn bằng kĩ thuật fold và phới dẹt. Trộn nhẹ tay tránh làm xẹp bọt khí trong lòng trắng trứng. Sau khi trộn xong, hỗn hợp cần mịn và vẫn bông xốp.</p>
+<p>6. Đổ bột vào khay nươngs, dùng phới dàn phẳng mặt bột. Gõ khay xuống bàn vài cái để làm vỡ bớt bọt khí to trong bột.</p>
+<p>7. Nướng bánh ở 170 độ C – hai lửa trong khoảng 30 phút tới khi mặt bánh se khô, ấn nhẹ lên bánh thấy vết lõm phồng trở lại ngay lập tức.</p>
+<p>* Mỗi loại lò khác nhau sẽ có nhiệt độ và thời gian nướng hơi khác nhau, cần điều chỉnh cho phù hợp, tham khảo thêm thông tin bài viết về “<a href="/lo-nuong-kinh-nghiem-nuong-banh/" target="_blank">Lò nướng và cách chỉnh lò để bánh không bị xẹp lõm</a>” này (gồm 2 phần).</p>
+
+
+<p>8. Khi bánh chín, lấy ra khỏi lò. Rọc dao quanh thành trong của khuôn để tách rời bánh khỏi khuôn. Phủ khăn sạch lên mặt khuôn rồi đặt khay có khe hở (wire rack) lên trên, úp ngược khuôn để lấy bánh ra ngoài. Bóc bỏ phần giấy nến (làm nhẹ tay tránh bánh bị rách). Để bánh nguội hẳn.</p>
+<p>9. Chuẩn bị phần kem pho mát: Cho cream cheese, kem tươi, đương và vanilla vào âu. Đánh tới bông mềm, kem hơi đặc, khi chạy máy thấy có xuất hiện vân trên mặt kem thì hạ tốc độ xuống chậm nhất, đánh tới khi kem bông cứng.</p>
+<p>– Philadelphia cream cheese khi đã hết lạnh, về nhiệt độ phòng thì rất mềm, có thể đánh kèm kem tươi mà không vấn đề gì. Nếu là kem nhãn khác cứng hơn, các bạn có thể cho kem vào âu và dùng nĩa hay máy đánh ở tốc độ chậm cho kem mượt trước rồi  mới cho thêm các nguyên liệu khác vào đánh cùng.</p>
+<p>– Kem đặc khá nhanh nên bước cuối cần đánh ở tốc độ chậm hoặc đánh bằng tay, tránh làm kem bị đánh quá tay sẽ bị tách nước.</p>
+<p>– Sau khi đánh xong thì bọc kín âu kem, để ngăn mát tủ lạnh ít nhất 30 phút để kem đặc hơn. <strong>Hoặc có thể chuẩn bị kem trước khi làm bạt bánh.</strong> Kem lạnh sẽ đặc và sệt hơn, khi trét lên bánh sẽ dễ dàng hơn.</p>
+<p>10. Rửa sạch rồi thái dâu tây thành lát mỏng.</p>
+<p>11. Khi bánh đã nguội, chia thành 3 phần đều nhau. Trét kem lên mặt bánh, chừa khoảng 2cm ở một đầu bạt bánh, xếp dâu tây lên trên kem. Cuộn bạt thứ nhất lại, khi đến cuối cuộn bánh thì nối với đầu của phần bạt bánh thứ hai, cuộn tiếp, cố gắng làm cho hai phần nối liền nhau. Làm cho đến hết bánh, ta sẽ có một cuộn bánh lớn.</p>
+<p>12. Bọc bánh lại bằng nilon bọc thực phẩm. Nắn lại nhẹ nhàng cho cuộn bánh tròn. Để tủ lạnh ít nhất 2h để phần kem đông lại và cứng cáp, trang trí bánh sẽ dễ hơn (mình để qua đêm).</p>
+<p>13. Chuẩn bị kem bơ trong phần C hoặc kem tươi hay kem pho-mát. Phủ kem bên ngoài bánh, trang trí theo ý thích.</p>
+<p>Bảo quản bánh trong ngăn mát tủ lạnh và dùng trong 48h tính từ thời điểm trét kem pho-mát lên bánh. Nếu dùng kem bơ, nên lấy bánh ra khỏi tủ lạnh khoảng 20 phút trước khi ăn để kem bơ mềm hơn.</p>
+<p>——–</p>
+<p>CÁC MÓN BÁNH TƯƠNG TỰ:</p>
+<ol>
+<li><a href="/banh-cuon-rafaello/" target="_blank">Bánh cuộn Rafaello (chocolate trắng, dừa)</a></li>
+<li><a href="/banh-khuc-cay-giang-sinh/" target="_blank">Bánh cuộn khúc cây giáng sinh</a> (bạt chocolate sponge, cuộn kem tươi)</li>
+<li><a href="/banana-ice-cream-royal-charlotte-banh-cuon-kem-chuoi-hoang-gia/" target="_blank">Bánh cuộn kem chuối hoàng gia</a></li>
+<li><a href="/cach-lam-banh-cuon-cau-vong/" target="_blank">Bánh cuộn cầu vồng</a></li>
+</ol>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

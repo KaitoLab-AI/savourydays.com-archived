@@ -1,0 +1,56 @@
+---
+title: "Mini cakes – Cách đánh bông kem tươi – Công thức Chocolate Ganache"
+date: "2011-11-13"
+slug: "mini-cakes-cach-danh-bong-kem-tuoi-cong-thuc-chocolate-ganache"
+categories: []
+tags: []
+image: "/wp-content/uploads/2011/11/BostonCreamPie.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><strong>Xem thêm <a href="/nhat-ky-hoc-lam-banh-phan-5-gateau-hong-kong-cong-thuc/">công thức Ga-tô Hồng Kông và các chú ý khi làm Ga-tô Hồng Kông</a>.</strong></p>
+<p>Trong bài trước về Foam Cake và Ga-tô Hồng Kông mình có nói là mình tạm thời chưa có thời gian và hứng thú với việc làm bánh kem lắm. Thật ra thì cũng nên học, nhưng vì mình ở một mình nên cứ nghĩ đến chuyện hì hục ngồi làm ra cả cái bánh kem to rồi lại hì hục nghĩ cách mang nó đi làm để nhờ mọi người ăn hộ cũng thấy oải rồi. Nhưng mà hôm trước tự nhiên xem được mấy cái ảnh mini cakes của chị Cáo ở <a href="http://foxkitchen.blogspot.com/">Fox Kitchen</a>, thấy xinh ơi là xinh, cho nên nhân dịp trong nhà có quá nhiều cốt bánh Ga-tô Hồng Kông (do làm để thử công thức), nên lôi ra làm mini cakes luôn :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6334392250/" title="IMG_9284-1 by LinhTrang9185, on Flickr"><img alt="IMG_9284-1" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6224/6334392250_ed33200ec1_z.jpg" width="431"/></a></p>
+<p>Mini cakes thật ra rất đơn giản, hiểu nôm na là cái bánh kem cỡ nhỏ thôi. Nhưng mình thì thích làm loại bánh này hơn bánh kem to nhiều. Lý do là mình chưa có nhiều kinh nghiệm với các loại kem trang trí, nên bắt đầu từ những thứ nhỏ sẽ tốt hơn. Ngoài ra mini cakes có một cái hay là trang trí dễ và đơn giản (mà lại dễ đẹp), không phải lo bắt bông hồng với cả vỏ sò như bánh to (trét kem phẳng cũng dễ hơn nữa chứ :D). Với mình thì mini cakes còn hai ưu điểm nữa là chụp ảnh đẹp hơn và có muốn mang đi nhờ người khác ăn cũng dễ hơn (mang 4 cái bánh nhỏ thì đơn giản hơn là mang 1 cái bánh to nhiều).</p>
+<p>Từ số cốt bánh Ga-tô Hồng Kông mà mình làm thử trong tuần trước để test công thức thì mình làm ra được hai loại bánh mini cakes. Loại đầu tiên là gồm hai lớp bạt ga-tô, xen giữa là hai lớp kem tươi và rắc thêm một ít chocolate bào vụn để trang trí. Loại thứ hai cũng gồm hai lớp bạt ga-tô và kem tươi, nhưng trên cùng mình phủ Chocolate Ganache (hình ở đầu bài). Rất thơm &amp; ngon ;)</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6328245807/" title="Minicakes by LinhTrang9185, on Flickr"><img alt="Minicakes" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6101/6328245807_9154634017_z.jpg" width="436"/></a></p>
+<p>Để làm mấy cái bánh mini hình tròn như trên thì mình nướng bạt bánh ga-tô trong khuôn tròn bình thường, theo <a href="/?p=1190">công thức như mình đã up trong bài trước</a>. Sau khi bánh chín và nguội hoàn toàn thì mình cắt đôi theo chiều ngang, thành hai lớp bạt ga tô dày khoảng 2,5cm. Phần cắt này các bạn nhớ dùng loại dao dài, mảnh và sắc, và cắt cẩn thận để bạt bánh có độ dày bằng nhau nhé. Hoặc các bạn dùng hai khuôn tròn, chia bột bằng nhau và nướng cùng lúc (trên cùng một khay), thì sẽ đảm bảo có hai lớp bạt bánh bằng nhau và không phải lo vụ cắt gọt.</p>
+<p><span id="more-1206"></span></p>
+<p>Sau khi có 2 lớp bạt bánh rồi thì mình phủ kem (mình dùng kem tươi (whipping cream) đánh bông, sẽ giải thích kĩ hơn ở dưới), rồi dùng mousse ring cắt. Bánh kem phủ Chocolate Ganache là ring có đường kính 8-9 cm, bánh kem loại nhỏ là ring đường kính 5cm. Cuối cùng là chồng hai lớp bạt bánh lên nhau, vậy thôi. Cách này mình cảm thấy vẫn còn hơi thủ công một chút, nhưng tạm thời chưa nghĩ ra được cách  nào tốt hơn. Bạn nào làm bánh quen rồi và có cách khác hay hơn thì bảo mình với nhé ;) Nếu không có ring mousse để cắt hình tròn thì các bạn có thể trét kem, ghép hai phần cốt bánh, rồi dùng dao cắt thành hình vuông hoặc chữ nhật cũng đẹp, không nhất thiết cứ phải là hình tròn.</p>
+<p>Việc làm mini cakes của mình thì chỉ có vậy thôi, kem mà mình dùng là kem tươi (whipping cream). Lý do là vì trong tất cả các loại kem trang trí phổ biến thì mình thấy kem tươi là ngon và dễ ăn nhất. Kem bơ thì mình không thích lắm do quá ngấy, cảm giác như ăn cả miếng bơ ấy. Mà làm kem tươi đánh bông cũng đơn giản nữa, tóm tắt cách làm là:</p>
+<p>1. Cho kem tươi, que đánh &amp; âu đánh kem vào ngăn đá khoảng 10 phút. <strong><span style="text-decoration: underline;">Lý do</span>: kem tươi để lạnh sẽ dễ đánh bông hơn. </strong></p>
+<p>2. Lấy kem ra đánh với đường (cho đường sao cho đủ ngọt vừa ăn). Để máy ở tốc độ chậm rồi chuyển dần lên tốc độ cao. Khi kem bắt đầu đặc lại và thấy có vân thì hạ tốc độ xuống. <strong><span style="text-decoration: underline;">Lý do</span>: lúc này kem đã gần “được” rồi, để tốc độ cao nếu đánh không quen sẽ dễ bị đánh quá tay, làm cho kem bị tách nước (trông hỗn hợp kem lổn nhổn, lợn cợn, mọi người hay gọi là bị “ốc trâu”). </strong></p>
+<p>3. Đánh đến khi kem mịn, đặc (gọi là bông cứng – stiff peak), nghiêng tô hoặc úp ngược tô thấy kem không di chuyển gì là được.</p>
+<p><strong>Một vài lưu ý (phần này quan trọng nha)</strong></p>
+<p>1. Kem tươi để đánh bông phải có hàm lượng béo tổi thiểu khoảng 30%, <strong>không </strong>dùng các loại light cream có hàm lượng béo từ 12-15% trở xuống. Với kem dùng để trang trí bánh kem, tốt nhất là dùng heavy cream (hàm lượng béo từ 35-40% trở lên).</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>2. Hướng dẫn ở trên là dành cho kem tươi đánh bông để trang trí bánh kem. Còn kem tươi đánh bông để dùng trong một số trường hợp khác như mousse thì thường là không nên đánh đến bông cứng vì khi trộn với các nguyên liệu khác kem sẽ dễ bị tách nước. Các bạn có thể xem thêm tại <a href="/?p=423">ĐÂY</a></p>
+<p>3. Cách xử lí kem bị tách nước – mình được một bạn đọc blog chỉ cho – cảm ơn em rất nhiều :)</p>
+<table cellspacing="0">
+<tbody id="the-comment-list">
+<tr id="comment-1204">
+<td><em>Hôm nay đọc bài viết của chị thấy vấn đề về việc đánh kem tươi bị tách nước, em mới nhớ ra ngày trước em cũng từng bị như thế. Cô giáo dạy làm bánh bảo là vẫn có cách chữa, đấy là đánh thêm một tí cho tách nước hẳn đủ để gạn được nước một bên, kem (lổn nhổn) một bên ra 2 cái tô riêng. Sau đó đánh phần kem lổn nhổn cho cứng lại rồi sau đó trút từ từ từng tí một nước vào cho quyện dần… Làm thế kem tươi tuy không mịn bằng lúc trước nhưng vẫn dùng được. Không biết chị đã biết cách chữa chưa, em cứ chia sẻ xem có bạn nào bị cùng một lỗi thì biết cách chữa cháy cho khỏi phí <img alt=":D" src="/wp-includes/images/smilies/icon_biggrin.gif"/></em></td>
+</tr>
+</tbody>
+</table>
+<p>Cuối cùng là công thức làm Chocolate Ganache nhé. Công thức này mình thấy ổn, không quá ngậy và vừa đủ lỏng để chảy xuống nhưng không đến mức quá loãng. Sau khi cho vào tủ lạnh để thì tuy là có đông lại một chút nhưng vẫn rất mềm, không bị cứng ngắc thành một lớp kẹo chocolate phủ lên mặt bánh.</p>
+<p><strong>Nguyên liệu (công thức tham khảo từ Joy of Baking)</strong></p>
+<ul>
+<li><em>60gram chocolate</em></li>
+<li><em>60ml kem tươi </em></li>
+<li><em>7 gram bơ</em></li>
+<li><em>2-3ml Brandy hoặc Rhum (không bắt buộc) </em></li>
+</ul>
+<p><strong>Cách làm</strong></p>
+<p>1. Bẻ chocolate thành miếng nhỏ, cho vào một cái bát.</p>
+<p>2. Cho kem tươi &amp; bơ vào nồi, đun nhỏ lửa đến khi hỗn hợp mấp mé sôi. Ngay lập tức đổ kem bơ vào chocolate, khuấy đều đến khi chocolate tan hết &amp; hòa quyện với kem sữa thành một hỗn hợp mịn, bóng. Cho rượu nếu có, khuấy đều. Để nguội.</p>
+<p>3. Chocolate Ganache làm nhiều có thể bảo quản trong tủ lạnh khoảng 1 tuần.</p>
+<p>Nếu trang trí bánh như trong hình đầu bài của mình thì dễ lắm, chỉ cần dùng một cái thìa nhỏ, đổ chocolate ganach lên mặt bánh rồi lấy thìa hoặc spatula dàn cho chocolate chảy đều, phủ kín mặt bánh là xong.</p>
+<p>Have fun!! ;)</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,78 @@
+---
+title: "Bánh Crepe & Chủ đề tháng 3 của “Cùng nấu ăn-Cùng chụp ảnh”"
+date: "2012-03-01"
+slug: "banh-crepe-chu-de-thang-3-cua-cung-nau-an-cung-chup-anh"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/03/Crepe.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Crepe là một trong những loại “bánh” không cần lò nướng, rất dễ làm, nguyên liệu không đòi hỏi những thứ quá phức tạp và từ vỏ Crepe cơ bản mọi người có thể biến tấu theo rất nhiều cách khác nhau để tạo ra các loại Crepe mặn hoặc ngọt tùy theo khẩu vị, sở thích của gia đình và dành cho các dịp khác nhau. Chính vì tất cả những lý do này mà Crepe được chọn làm chủ đề tháng 3 cho hoạt động chụp ảnh theo tháng của Hội Food Photography. Mong là từ những bàn tay khéo léo và tài hoa của các thành viên, tháng 3 tới hội sẽ có rất nhiều món Crepe ngon với ảnh chụp đẹp.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6943445993/" title="IMG_2498-1 by LinhTrang9185, on Flickr"><img alt="IMG_2498-1" class="aligncenter" height="349" loading="lazy" src="http://farm8.staticflickr.com/7177/6943445993_53dc36acb0.jpg" width="500"/></a></p>
+<p>Công thức mà mình giới thiệu trong bài này là công thức Crepe cơ bản, mình tham khảo và điều chỉnh từ hai công thức của Julia Child và Alton Brown tại Food network. Công thức rất đơn giản và dễ làm, chỉ có một điều quan trọng là sau khi trộn bột xong nên có một khoảng thời gian nhất định để bột “nghỉ” trong tủ lạnh. Điều này sẽ giúp vỏ bánh Crepe mịn &amp; “mướt” hơn.</p>
+<p>Cuối cùng, thêm một chuyện ngoài lề nữa về Pancake và Crepe. Có thể sẽ có bạn thắc mắc rốt cuộc thì hai loại bánh này khác nhau như thế nào? Vì thành phần nguyên liệu khá là giống nhau, hỗn hợp bột pha xong đều tương đối loãng, đều dùng chảo để chiên và bánh đều có hình dạng tròn, mặc dù 1 cái nhỏ và phồng còn 1 cái thường to và xẹp lép :P Thật ra thì cũng có một vài điểm khác nhau, cụ thể là như thế này:</p>
+<p>1. Về hình dạng bên ngoài, như nói ở trên Pancake nhỏ và phồng, có độ xốp mềm. Crepe thì to và mỏng.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>2. Về thành phần nguyên liệu, để giúp Pancake nở phồng và xốp mềm, bột nở hoặc muối nở thường được sử dụng. Ngoài ra, lòng trắng trứng đánh bông cũng là một “chất xúc tác” rất tốt giúp pancake nở xốp mềm khi rán. Crepe thì không cần những thứ này.</p>
+<p>3. Về cách thưởng thức, Pancake thường được dùng kèm với các loại mứt, syrup (đặc biệt là Maple syrup), chocolate sauce… Crepe thì ngoài phần vỏ còn có một phần quan trọng nữa là nhân (fillings). Nhân này có thể là nhân ngọt như hoa quả, mứt, syrup, bơ lạc, chocolate… cũng có thể là nhân mặn như các loại salad dạng rau củ hoặc hải sản, đồ nguội trộn với dressing dạng kem (mayonnaise, sữa chua..). Phần nhân này, đặc biệt là nhân ngọt, có thể chế biến cùng lúc với khi làm Crepe, bằng cách chiên vàng 1 mặt Crepe rồi đặt nhân lên trên, “gói” lại ngay trên chảo. Hoặc có thể làm riêng phần vỏ rồi bọc với nhân hoặc ăn kèm với nhân.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6943446195/" title="IMG_2486 by LinhTrang9185, on Flickr"><img alt="IMG_2486" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7204/6943446195_3ac8a24013_z.jpg" width="439"/></a></p>
+<p>Bánh Crepe lần này mình làm là Crepe ngọt, vì muốn ăn cho nhẹ nhàng một chút, đi chợ nhân tiện thấy dâu tây tươi rói mà lại rẻ nên mua về ăn với Crepe và chút kem tươi đánh bông nữa. Ngon, mát và khá là “healthy” ^.^</p>
+<p>Cuối cùng, thêm một ghi chú nữa về <strong>cách thức tham dự hoạt động “Cùng nấu ăn, cùng chụp ảnh”…</strong></p>
+<p>Từ tháng 3 này bọn mình cũng có thay đổi một chút về cách thức tham dự. Mọi thành viên có thể up ảnh (không giới hạn số lượng) trên Wall Facebook của Hội tại <strong><a href="http://www.facebook.com/groups/179901282024560/">ĐÂY</a></strong>. Ngoài ra, <strong>từ 1/3 đến hết 30/3/2012</strong>, các bạn có ảnh tham gia chủ đề gửi giúp bọn mình<strong> 1-2 ảnh mà các bạn tâm đắc nhất</strong>, kèm theo các thông tin dưới đây đến địa chỉ mail của hội là: <strong>foodphotographylovers@gmail.com </strong>nhé. Các thông tin đi kèm với ảnh là:</p>
+<ul>
+<li>Tên món ăn (nếu có tóm tắt cách làm thì càng tốt)</li>
+<li>Ý tưởng của bức ảnh (không bắt buộc)</li>
+<li>Thông số kỹ thuật của ảnh (không bắt buộc)</li>
+<li>Tên hoặc địa chỉ Facebook, địa chỉ blog nếu có (và có thể công khai)</li>
+</ul>
+<p>Bọn mình sẽ tổng hợp ảnh tham dự, đánh giá, nhận xét, rút kinh nghiệm… theo ảnh mà các bạn gửi. Làm cách này thì các thành viên vừa có thể thoải mái chia sẻ ảnh của mình và cuối tháng bọn mình tổng hợp lại cũng thuận tiện hơn. Mong cả nhà sẽ giúp đỡ :)</p>
+<p>Và đây là công thức</p>
+<p style="text-align: left;"><strong>Nguyên liệu (khoảng 15-17 bánh Crepes)</strong></p>
+<ul>
+<li><em>2 quả trứng gà (50gram/ quả không tính vỏ)</em></li>
+<li><em>180ml sữa tươi không đường </em></li>
+<li><em>120ml nước </em></li>
+<li><em>120gram bột mỳ thường/ bột mỳ đa dụng (plain/ all purpose flour)</em></li>
+<li><em>45gram bơ nhạt (unsalted butter)</em></li>
+<li><em>1gr muối</em></li>
+<li><em>Bơ để phết chống dính cho chảo khi rán</em></li>
+</ul>
+<p><strong>Nếu muốn làm Crepe ngọt thì có thể cho thêm</strong></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<ul>
+<li><em>20gram đường (hoặc điều chỉnh tùy theo khẩu vị và nhân ăn kèm)</em></li>
+<li><em>5ml vanilla dạng lỏng (hoặc 5gram vani bột)</em></li>
+<li><em>15ml rượu Rum (hoặc một loại rượu tùy thích)</em></li>
+</ul>
+<p><strong>Nếu làm Crepe mặn thì có thể cho thêm</strong></p>
+<ul>
+<li><em>1-2gram muối</em></li>
+<li><em>Các loại rau gia vị như basil, parsley, oregano… (băm nhuyễn, trộn vào cùng hỗn hợp bột)</em></li>
+</ul>
+<p style="text-align: center;"><em>Giỏ dâu xách về từ ngoài chợ :)</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6797331142/" title="IMG_2466 by LinhTrang9185, on Flickr"><img alt="IMG_2466" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7047/6797331142_e9d75f5c12.jpg" width="500"/></a></p>
+<p><span id="more-1848"></span></p>
+<p><strong>Cách làm</strong></p>
+<p>1. Bơ đun cách thủy hoặc cho vào lò vi sóng, quay khoảng 20-30 giây cho chảy, để nguội. Cho trứng gà, sữa, nước và bơ vào âu trộn hoặc bát to. Dùng nĩa hoặc phới lồng đánh trứng đánh nhẹ cho hòa quyện.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6797331460/" title="2012-02-26 by LinhTrang9185, on Flickr"><img alt="2012-02-26" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7206/6797331460_794f275684.jpg" width="500"/></a></p>
+<p>2. Rây bột vào âu trứng sữa, dùng phới lồng đánh trứng trộn đều đến khi bột tan hết, các nguyên liệu hòa quyện.</p>
+<p>3. Lọc hỗn hợp bột qua rây. Bọc hoặc đậy kín, để bột vào ngăn mát tủ lạnh tối thiểu 60 phút. Thường thì bột sẽ giữ được trong tủ lạnh khoảng 1 – 1.5 ngày nên nếu ăn sáng thì bạn có thể chuẩn bị bột từ tối hôm trước.</p>
+<p>4. Chuẩn bị một chiếc chảo đáy phẳng, chống dính được là tốt nhất. Để lửa vừa. Phết một lớp bơ mỏng lên mặt chảo. Múc 2-3 thìa bột, đổ vào chảo rồi nhanh tay nghiêng chảo cho bột dàn được đều. <em>Lưu ý: lượng bột có thể thay đổi tùy theo kích thước chảo. </em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6797331502/" title="2012-02-261 by LinhTrang9185, on Flickr"><img alt="2012-02-261" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7202/6797331502_8c95b8302f.jpg" width="500"/></a></p>
+<p>Rán vàng 1 mặt rồi lật rán nốt mặt còn lại, <em>cố gắng đừng để bị cháy nhé, rám rám mặt thì được :) </em>Thời gian rán mặt thứ 2 sẽ rất ngắn vì bánh lúc đó là gần như chín rồi. Nếu các bạn làm nhân ngọt như hoa quả thì có thể xếp hoa quả lên Crepe trên chảo, “gấp” mép lại là xong.</p>
+<p>Vỏ Crepe có thể bảo quản trong túi hoặc hộp kín, để ngăn mát tủ lạnh 2-3 ngày, hoặc để đông lạnh trong 2 tháng.</p>
+<p style="text-align: center;"><em>Crepe với dâu tây và Maple syrup cũng rất ngon và mát :)</em></p>
+<p> </p>
+
+
+<p><a href="http://www.flickr.com/photos/55490207@N05/6943446323/" title="IMG_2493-1 by LinhTrang9185, on Flickr"><img alt="IMG_2493-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7051/6943446323_5c88a0a84e_z.jpg" width="432"/></a><br/>
+Chúc các bạn thành công &amp; mong sẽ nhận được nhiều ảnh đẹp &amp; công thức hay từ cả nhà :)</p>
+<p style="text-align: right;"><em>Linh Trang (<a href="">Savoury Days</a>)</em></p>
+<p style="text-align: right;"><em>White poplar (<a href="http://www.lanvaobep.org/">Lăn Vào Bếp</a>)</em></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

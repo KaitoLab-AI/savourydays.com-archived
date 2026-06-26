@@ -1,0 +1,66 @@
+---
+title: "Bún tôm thịt nướng"
+date: "2012-03-14"
+slug: "bun-tom-thit-nuong"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/03/BunTomThitNuong.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Mấy hôm nay ngồi đọc sách với tìm ảnh để viết bài làm bánh căn bản hoa mắt quá nên hôm nay mình tạm dừng chuyện bánh trái, thay bằng một món mặn nhé.</p>
+<p>Bún tôm thịt nướng này là món cuối tuần vừa rồi của mình, làm bún chả nhưng tiện trong tủ lạnh có mấy con tôm nên làm thêm một món nữa cũng liên quan đến bún và thịt nướng luôn. Thịt cho món ăn này mình ướp theo kiểu <a href="/?p=79">thịt xiên nướng</a>, và theo mình biết thì khá là giống với cách ướp thịt cho món bún thịt nướng của miền Nam. Tôm thì để giữ vị ngọt tự nhiên của tôm nên mình chỉ ướp với chút xíu muối tiêu thôi.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6827128846/" title="IMG_2758-1 by LinhTrang9185, on Flickr"><img alt="IMG_2758-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7062/6827128846_57f32cee92_z.jpg" width="435"/></a></p>
+<p>Món bún này làm cũng nhanh gọn, thịt ướp từ tối hôm trước, ngày hôm sau lấy ra xiên cùng với tôm, rồi mang đi nướng là xong. Các bạn có thể nướng than hoa, hoặc lò nướng, mình thì có <a href="http://www.ikea.com/us/en/catalog/products/50055085/">1 cái chảo để nướng thịt, mua ở IKEA</a>, cũng không đắt lắm, mà tiện và sạch sẽ, nướng trên bếp điện rất nhanh :D</p>
+<p><strong>Nguyên liệu (4 phần ăn)</strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em>400gram thịt nạc vai hoặc thịt ba chỉ (ba rọi)</em></li>
+<li><em>200gram tôm </em></li>
+</ul>
+<p><em><strong>Gia vị ướp thịt:</strong><br/>
+</em></p>
+<ul>
+<li><em>2 củ hành khô – bóc vỏ, bằm nhỏ </em></li>
+<li><em>2-3 tép tỏi (tỏi VN thì 1/2 củ) – bóc vỏ, bằm nhỏ </em></li>
+<li><em>1 nhánh sả – tước bỏ lớp vỏ ngoài cùng, thái khoanh rồi bằm nhỏ</em></li>
+<li><em>2/3 thìa canh nước mắm (khoảng 9-10ml)</em></li>
+<li><em>1 thìa canh đường (khoảng 15gram)</em></li>
+<li><em>2 thìa canh nước hàng/ nước màu (30ml – chưng từ 1.5 thìa canh đường)</em></li>
+<li><em>1/2 thìa canh dầu hào (8ml)</em></li>
+<li><em>1 thìa cafe tiêu đen </em></li>
+<li><em>1/2 thìa cafe dầu vừng (sesame oil)</em></li>
+</ul>
+<p><em><strong>Gia vị ướp tôm</strong><br/>
+</em></p>
+<ul>
+<li><em>1/2 thìa cafe muối + 1/4 thìa cafe tiêu đen xay </em></li>
+<li><em>Xiên tre</em></li>
+<li><em>Rau sống ăn kèm (xà lách, giá đậu, rau thơm các loại…)</em></li>
+<li><em>Lạc rang, bóc vỏ, giã dập (đừng giã quá vụn nhé)</em></li>
+<li><em>Bún </em></li>
+</ul>
+<p><strong><span id="more-1961"></span></strong></p>
+<p><strong>Cách làm</strong></p>
+<p>1. Thịt rửa sạch, thấm khô, thái lát mỏng. Ướp thịt với các loại gia vị trong phần nguyên liệu. Đậy hoặc bọc kín, để ngăn mát tủ lạnh từ 3-4 tiếng. Thường thì mình ướp từ tối hôm trước để ăn bữa trưa hôm sau, hoặc ướp buổi sáng để ăn tối.</p>
+<p><strong>Ghi chú:</strong></p>
+<p>– Cách chưng nước hàng/ nước màu các bạn có thể xem thêm tại <strong><a href="/?p=1030">ĐÂ</a></strong>Y. Không có cũng không sao, nhưng có thì tốt hơn rất nhiều vì nước hàng sẽ giúp cho thịt có màu vàng nâu đẹp.</p>
+<p>– Ở trong bài viết về thịt xiên nướng mình có cả ảnh minh họa và cũng giải thích khá kĩ về cách thái thịt, ướp và xiên thịt, bạn nào cần thì xem lại tại <strong><a href="/?p=79">ĐÂY</a></strong> nhé.</p>
+<p>2. Tôm rửa sạch, bóc vỏ, bỏ chỉ đen ở lưng, thấm khô. Ướp tôm với muối, tiêu, để khoảng 15-20 phút.</p>
+<p>3. Xiên thịt và tôm vào que tre. Nếu dùng lò thì nướng 200-220 độ trong khoảng 20-30 phút, tùy theo độ dày của xiên thịt.<em> Tôm chín nhanh hơn thịt nên cả nhà canh chừng cẩn thận kẻo cháy nhé.</em></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>4. Trong lúc đợi nướng thịt thì nhặt rau, rửa rau, ngâm nước muối… Bún nếu bạn nào ở nước ngoài phải dùng bún khô thì nên ngâm nước ấm trước khoảng 60 phút. Khi luộc sẽ nhanh hơn. Bún khô sau khi luộc chín thì xả lại qua nước lạnh, xóc cho thật ráo nước. Thi thoảng (cách 5-10 phút) lấy đũa đảo nhẹ, sau khoảng 2-3 lần bún sẽ tơi và ráo, không bị vón hay dính.</p>
+<p>5. Nước chấm cho món này thì mình pha bình thường, chỉ gồm nước mắm, dấm, chanh và đường thôi. Trước khi ăn thì quay lò vi sóng khoảng 30 giây cho hơi ấm ấm một chút (sẽ ngon hơn, thật đấy ;)), rồi cho tiêu, tỏi, ớt băm nhỏ vào. Nước chấm cho món bún này sẽ “đặc” hơn nước chấm ăn bún chả kiểu Hà Nội một chút, tức là phần nước lọc pha thêm sẽ ít hơn, vì với món này chỉ cần đủ để trộn thôi nên không cần nhiều nước như nước chấm bún chả.</p>
+<p>Cách pha nước chấm chua ngọt kiểu này mình có nói rất kĩ tại <strong><a href="/?p=315">ĐÂY</a></strong> rồi, tóm tắt lại thì có 2 điểm chính nên lưu ý khi pha nước chấm là:</p>
+<p>– Về tỉ lệ các nguyên liệu: mình thường không để ý đến tỉ lệ dấm, chanh, đường, mắm,… và cũng không có tỉ lệ chuẩn cho các nguyên liệu để pha nước chấm ngon. Lý do là các loại nước mắm khác nhau, hay dấm khác nhau sẽ có độ mặn/ độ chua khác nhau. Ngoài ra, tùy theo khẩu vị, có gia đình thích ăn mặn hơn một chút, có gia đình lại thích ngọt hơn một chút. Với món này thì mình nghĩ các bạn pha sao cho vị mặn và ngọt nhiều một chút, ăn sẽ ngon hơn :)</p>
+<p>– Về thứ tự pha các nguyên liệu: vấn đề thường gặp khi pha nước chấm là sau một hồi nêm nếm thì mọi người dễ bị “loạn vị”, không biết cái gì thiếu, cái gì thừa để thêm. Để khắc phục thì cách của mình vẫn dùng là pha 2 vị trước, rồi mới thêm vị thứ 3 vào. Thường là mình pha chua &amp; ngọt trước, cụ thể là dấm/chanh + đường + nước trước. Sau khi nếm thấy ngọt &amp; chua vừa rồi mới cho nước mắm vào đến khi đủ mặn. Mình thấy cách này khá đơn giản mà lại ít bị loạn như trên :)</p>
+<p>Còn một mẹo nữa mình học được từ một người bạn là pha nước mắm trước vài tiếng, đến khi ăn mới cho tỏi ớt vào, mùi vị sẽ ngon hơn. Tỏi ớt thì các bạn nhớ băm thật nhuyễn nhé, khi thả vào nước chấm tỏi ớt sẽ nổi lên &amp; đẹp hơn.</p>
+<p>6. Sau khi mọi nguyên liệu đã sẵn sàng thì bước cuối cùng là sắp các loại rau vào bát, sắp bún lên trên, cùng với tôm &amp; thịt, rưới nước chấm &amp; trộn đều. Ở bên này rau thơm không có nhiều loại nên mình dùng xà lách, su hào và cà rốt bào sợi, giá đậu, rau mùi và bạc hà, thấy cũng ổn :)</p>
+<p>Chúc cả nhà ngon miệng :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6827129224/" title="IMG_2735-1 by LinhTrang9185, on Flickr"><img alt="IMG_2735-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7069/6827129224_c2e05d1f1b_z.jpg" width="427"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

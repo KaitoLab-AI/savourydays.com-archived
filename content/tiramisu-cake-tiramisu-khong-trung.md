@@ -1,0 +1,62 @@
+---
+title: "Tiramisu cake (Tiramisu không trứng)"
+date: "2013-01-10"
+slug: "tiramisu-cake-tiramisu-khong-trung"
+categories: []
+tags: []
+image: "/wp-content/uploads/2013/01/TiramisuCake.jpg"
+description: "tiramisu đơn giản, tiramisu không trứng, gateau đơn giản, công thức tiramisu"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
+<p>——————————————</p>
+<p>Cuối tuần trước kiểm tra lại các thứ đồ trong tủ lạnh mới phát hiện ra là hộp kem Mascarpone đang chuẩn bị hết hạn, mà lại chẳng có nhiều thời gian để nghĩ xem nên làm gì với nó nên cuối cùng quyết định lại làm Tiramisu. Vì nhà không có sẵn bánh Lady fingers, và cũng không có nhiều thời gian nên mình làm bạt Gateau cơ bản và phần Tiramisu thì không có trứng. Làm kiểu này đúng là siêu nhanh, bánh thì vẫn có đủ các vị đặc trưng của Tiramisu, thơm mùi cafe, nồng nàn vị rượu và kem béo ngậy ngọt ngào. Mình ghi lại công thức ở đây để bạn nào cần thì tham khảo nhé :)</p>
+<p><img alt="IMG_9018-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8514/8366823455_940c0c9c7b_z.jpg" width="427"/></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<ul>
+<li><em>1 bạt bánh Gateau cơ bản 3 trứng</em></li>
+</ul>
+<ul>
+<li><em>250gram Mascarpone</em></li>
+<li><em>1 thìa cafe (1tsp) vanilla</em></li>
+<li><em>200ml kem tươi hàm lượng béo 35-40% (heavy cream)</em></li>
+<li><em>45gram đường</em></li>
+<li><em>30ml (2 thìa canh/ Tbsp) rượu Rum</em></li>
+<li><em>20ml nước cà phê đặc</em></li>
+<li><em>5gram đường</em></li>
+</ul>
+<p><strong><span id="more-3564"></span><span style="color: #800000;">Cách làm</span></strong></p>
+<p>1. Chuẩn bị 1 bạt bánh Gateau cơ bản theo công thức tại <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/"><strong>ĐÂY</strong></a> (dùng công thức 3 trứng cho khuôn 18-20cm).</p>
+<p>2. Phần kem phủ bánh:</p>
+<p>– Cho Mascarpone, 1 thìa canh (15ml) Rum và vanilla vào âu. Để máy đánh trứng ở tốc độ thấp nhất, đánh trong khoảng 5-15 giây cho Mascarpone mềm và nhuyễn hơn.</p>
+<p>– Hòa tan đường bột với kem tươi, cho vào âu Mascarpone, đánh ở tốc độ thấp nhất đến khi kem bông đặc mịn, đường tan hết.</p>
+<p>– Để cả âu kem vào tủ lạnh, giữ lạnh đến khi trét lên bánh.</p>
+<p>* <strong>Lưu ý: </strong></p>
+<p>– <strong>Không</strong> <em>đánh Mascarpone và kem tươi quá lâu vì rất dễ làm kem tách nước. Nếu không quen, các bạn có thể đánh bông kem tươi riêng với đường đến bông mềm rồi trộn phần kem này với Mascarpone. Hoặc có thể dùng phới lồng để trộn bằng tay. Mascarpone để bớt lạnh sẽ đánh mềm dễ hơn. </em></p>
+<p>– <em>Nên dùng đường bột (đường icing). Nếu không có đường bột thì nên xay đường mịn trước khi làm.</em></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>3. Phần rượu cafe:</p>
+<p>– Cà phê (còn hơi nóng ấm) pha với 5gram đường và 1 thìa canh (15ml) Rum. Quấy đều.</p>
+<p>4. Hoàn thiện:</p>
+<p>– Xẻ bánh làm 2 bạt (hoặc 3 tùy thích). Dùng chổi quét rượu cafe lên mặt bánh. Trét 1/3 số kem lên.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8367890730/" title="IMG_8991 by LinhTrang9185, on Flickr"><img alt="IMG_8991" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8335/8367890730_f763977f98.jpg" width="500"/></a></p>
+<p>Đặt lớp bạt bánh thứ hai, quét rượu cafe lên khắp mặt và thành bánh. Phủ phần kem còn lại lên bên ngoài bánh (cả mặt và thành bánh).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8367890722/" title="IMG_8992 by LinhTrang9185, on Flickr"><img alt="IMG_8992" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8330/8367890722_2cf9a5b923.jpg" width="500"/></a></p>
+<p>– Trang trí bằng bột cacao và hoa quả tùy thích.</p>
+<p>* <strong>Lưu ý</strong>:</p>
+<p>– Kem rất đặc nên nhìn chung là trét lên bánh dễ, không có vấn đề gì. Nhưng với thời tiết nóng ẩm, tốt nhất là các bạn giữ kem trong tủ lạnh đến khi trét bánh. Sau khi hoàn thiện cũng giữ bánh trong tủ lạnh, đến khi dùng mới lấy ra. Bánh để qua 1 ngày sẽ ngon hơn vì bạt bánh ẩm hơn.</p>
+<p>– Bột cacao nếu sử dụng, chỉ nên rắc lên bánh trước khi ăn để tránh bột bị ngấm nước hay hút ẩm từ tủ lạnh -&gt; bị bết.</p>
+<p>– Phần kem trong công thức là vừa đủ để dùng cho bánh. Nếu muốn trang trí các bạn nên dùng thêm kem ngoài ct nhé.</p>
+<p>– Khi cắt bánh, các bạn chuẩn bị 1 con dao thật sắc, 1 bát nước sôi và khăn ẩm. Nhúng dao qua bát nước nóng, lau sạch rồi cắt dứt khoát và gọn gàng. Sau khi cắt xong dùng khăn lau sạch dao rồi mới cắt tiếp. Cách này sẽ cho lát bánh gọn gàng và đẹp mắt.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8366823439/" title="IMG_9012-1 by LinhTrang9185, on Flickr"><img alt="IMG_9012-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8465/8366823439_7bc50eb9df_z.jpg" width="427"/></a></p>
+<p> </p>
+
+
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

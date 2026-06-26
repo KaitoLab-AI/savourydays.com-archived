@@ -1,0 +1,52 @@
+---
+title: "Cách làm bánh quy Chocolate Chips – Chocolate Chip Cookies"
+date: "2011-11-15"
+slug: "banh-quy-chocolate-chips-chocolate-chip-cookies"
+categories: []
+tags: []
+image: "/wp-content/uploads/2011/11/ChocochipCookie.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Dạo này mình mắc một cái tật rất xấu là hay buồn miệng và thèm ăn vặt :”&gt; Thường thì mình đi làm hay mang theo hoa quả để vừa làm vừa lai rai :D nhưng đôi khi cũng thèm thứ gì đấy ngoài hoa quả, nhất là nếu muốn uống trà thì hoa quả rõ ràng là không hợp rồi. Bánh kẹo ở trong siêu thị bên này không thiếu, nhưng mà giờ biết làm bánh rùi, ai lại đi mua (<em>chả hay tí nào</em>), tự mình làm có phải vừa ngon, vừa rẻ, vừa theo đúng ý mình, mà vừa… oách hơn không?!! :D</p>
+<p>Bánh để ăn vặt thì làm bánh quy chắc là phù hợp nhất. Thật ra mình đã định viết một bài giới thiệu chung về Cookies (bánh quy) và các phương pháp làm cơ bản. Nhưng sau khi tham khảo Professional Baking và một vài tài liệu khác thì mình thấy không thật cần thiết, vì thật ra Cookies là một dạng Cake mini. Phương pháp trộn bột cơ bản của Cookies rất giống với các phương pháp trộn bột cơ bản của Cake (nhưng nhanh và ít thứ phải chú ý hơn). Cho nên chắc không nhất thiết phải nhắc lại, mà có lẽ với từng loại bánh mình sẽ thêm các lưu ý (nếu có) trong quá trình làm – vậy chắc tốt hơn.</p>
+<p>Cảm nhận chung của mình về Cookies là Cookies dường như dễ làm hơn Cakes nhiều. Và bởi vì Cookies là một dạng mini cakes cho nên nếu đã quen làm Cakes, đặc biệt là các phương pháp trộn bột và một số lưu ý khi làm Cakes thì làm Cookies sẽ thấy cực kì nhẹ nhàng.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6317977984/" title="Chocolate chip cookies by LinhTrang9185, on Flickr"><img alt="Chocolate chip cookies" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6050/6317977984_530bde4377_z.jpg" width="427"/></a></p>
+<p>Một trong những cách trộn bột được sử dụng để làm rất nhiều loại Cookies là<a href="/nhat-ki-hoc-lam-banh-phan-3-cake-va-butter-cup-cake/"> Creaming-method.</a> Tuy nhiên có vẻ là với Cookies thì bơ không cần phải đánh bông nhiều như làm Cake. Ngoài ra lượng chất lỏng trong Cookies cũng thường là ít hơn Cake rất nhiều, có nhiều loại bánh thậm chí còn không có tí tẹo chất lỏng nào, nên sau khi đánh trứng với bơ đường chỉ cần trộn thêm bột là xong. Làm Cookies mình thấy có hai điều có lẽ là khá quan trọng. Một là <strong>kích thước của các viên bột bánh khi mang đi nướng cần phải đồng đều</strong>, vì nếu cái to cái nhỏ thì <em>khả năng một cái gần cháy trong khi cái còn lại vẫn chưa chín sẽ cao</em>. Hai là <strong>nhiệt độ</strong> nướng Cookies khá quan trọng, nhất là với các loại Cookies mỏng hay nhỏ thì chậm một vài phút có thể làm bánh cháy ngay. Nên cả nhà khi nướng Cookies thì lưu ý canh lò cẩn thận nhé ;)</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span id="more-1215"></span></p>
+<p>Chocolate chip cookies là loại bánh quy đơn giản và có vẻ cũng rất quen thuộc nữa nhỉ? :) Công thức mình tham khảo của Professional Baking và Joy of Baking, bánh ra lò rất ngon, giòn và xốp, ngậy và thơm mùi chocolate chip ;) Công thức ở dưới làm được khoảng 25-30 cái đường kính tầm 5cm nhé.</p>
+<p><strong>Nguyên liệu</strong></p>
+<ul>
+<li><em>150gram bột mỳ thường/ bột mỳ đa dụng (all-purpose flour/ plain flour)</em></li>
+<li><em>115gram bơ nhạt – <strong>ở nhiệt độ phòng</strong></em></li>
+<li><em>60gram đường trắng</em></li>
+<li><em>80gram đường nâu</em></li>
+<li><em>1 quả trứng cỡ lớn (55-60gram không tính vỏ) –<strong> ở nhiệt độ phòng</strong></em></li>
+<li><em>¾ teaspoon (3-4ml) vanilla dạng lỏng</em></li>
+<li><em>½ teaspoon (2-3gram) baking soda (muối nở)</em></li>
+<li><em>¼ teaspoon (1-2gram) muối</em></li>
+<li><em>100-130gram chocolate chips</em></li>
+<li><em>50gram hạt óc chó (walnuts) hoặc hạt hồ đào (pecan) (không bắt buộc)</em></li>
+</ul>
+<p>* <strong>Lưu ý</strong>: Đường nâu trong công thức có thể thay bằng đường trắng nhưng nên giảm bớt còn khoảng 80-90gram đường vì đường nâu thường ít ngọt hơn đường trắng nhiều. Ngoài ra lượng đường còn phụ thuộc vào độ ngọt và lượng chocolate chip sử dụng. Với lượng đường trong công thức mình dùng 120gram chocolate chip loại khá đắng và ít ngọt.</p>
+<p><strong>Cách làm (<a href="/nhat-ki-hoc-lam-banh-phan-3-cake-va-butter-cup-cake/">Creaming-method</a>)</strong></p>
+<p>1. Đong bột mỳ, muối nở và muối. Dùng cây đánh trứng (whisk) trộn đều.</p>
+<p>2. Để máy đánh trứng ở tốc độ chậm, đánh bơ trong khoảng 10-15s cho bơ mềm, nhuyễn. Cho đường vào, để tốc độ gần cao nhất, đánh bơ với đường, <em>không cần đánh quá bông</em>. Mình dùng máy đánh trứng cầm tay, đánh mất khoảng 3-5 phút. Lưu ý trong quá trình đánh vét thành &amp; đáy âu.</p>
+<p>3. Cho trứng vào, đánh cho hòa quyện. Cho vanilla, đánh tiếp khoảng 20-30s.</p>
+<p>4. Rây bột vào âu, đánh đến khi hỗn hợp hòa quyện. Cuối cùng cho chocolate chip &amp; hạt (nếu có), trộn đều.</p>
+<p>5. Bọc kín âu, cho hỗn hợp bột vào tủ lạnh, để khoảng 30 – 60 phút cho bột cứng lại.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>6. Vặn lò 170 độ C. Chuẩn bị khay nướng, lót giấy nến (giấy nướng bánh) lên khay.</p>
+<p>7. Viên bột thành các phần nhỏ bằng nhau (mỗi phần khoảng 10-15gram). Mình dùng thìa đong đơn vị 1 tablespoon để xúc, rất tiện &amp; đảm bảo là các viên đều bằng nhau :D Đặt lên khay nướng, để chừa khoảng cách khoảng 3-5cm giữa các viên bột.</p>
+<p>8. Nướng ở rãnh giữa của lò, nhiệt độ 170-175 độ C trong khoảng 15 phút hoặc đến khi bánh chín vàng và phần viền bánh hơi nâu nhạt. Đến đây thì mình thấy có một số công thức ghi chú là chuyển nhiệt độ xuống 100-110 độ và sấy thêm khoảng 5-10 phút cho bánh giòn. Tuy nhiên mình khá là thắc mắc chuyện này vì theo mình thấy thì nhiệt độ lò nướng lúc này đang là 170-180 độ C, làm sao chuyển ngay lập tức xuống 100 độ được nhỉ? Cách mình làm là sau khi bánh chín, nướng đủ thời gian quy định thì mình tắt lò, chỉ để đèn và để bánh thêm 3-5 phút. Bánh lúc nào cũng giòn và chưa bao giờ cháy.</p>
+<p><span style="color: #ff0000;">Bổ sung kinh nghiệm làm bánh giòn :D: Sau khi làm kha khá bánh quy thì mình thấy cách sấy bánh sau khi nướng khá là hiệu quả. Cụ thể là sau khi nướng bánh xong, các bạn hạ lò xuống 100-110 độ, nếu sấy ngay sau khi nướng bánh thì đợi lò xuống đúng nhiệt độ rồi mới cho bánh vào nhé, sấy bánh khoảng 10 phút, bánh sẽ rất giòn :)</span></p>
+<p>9. Bánh chín lấy ra khỏi khay nướng, để trên rack đến khi nguội hẳn (bánh ra khỏi lò sẽ hơi mềm, nhưng để nguội thì bánh sẽ cứng giòn). Bảo quản trong hộp kín.</p>
+<p>Bởi vì cả bài này chỉ có mỗi một cái hình cho nên bonus thêm 1 cái hình (tuy là không liên quan mấy) nữa nhé ;) Bánh quy dừa hạnh nhân mình làm cuối tuần trước (hôm qua mang đi làm mời đồng nghiệp và đã hết sạch rùi :) ). Rất thơm &amp; ngon :) Công thức mình gõ xong sẽ up sớm.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6339866273/" title="IMG_9394-1 by LinhTrang9185, on Flickr"><img alt="IMG_9394-1" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6115/6339866273_2d116e194c_z.jpg" width="436"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

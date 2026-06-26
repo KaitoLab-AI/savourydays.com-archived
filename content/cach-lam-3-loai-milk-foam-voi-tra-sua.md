@@ -1,0 +1,98 @@
+---
+title: "Cách làm 3 loại MILK FOAM với TRÀ SỮA"
+date: "2017-06-01"
+slug: "cach-lam-3-loai-milk-foam-voi-tra-sua"
+categories: []
+tags: []
+image: "/wp-content/uploads/2017/06/Cách-làm-milk-foam-trà-sữa-banner.JPG.jpg"
+description: "Cách làm milk foam với trà sữa ngon hơn hẳn ngoài hàng. Công thức kèm video hướng dẫn chi tiết cùng các mẹo giúp pha trà và milk foam thơm ngon hơn."
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>TRÀ SỮA – Mùa hè trời nóng chỉ cần nghe tới hai từ thần thánh này là đã thấy người như được giảm nhiệt rồi nhỉ?</p>
+<p>Mình thích uống trà, bao gồm cả các loại trà hoa quả và trà sữa. Mình cũng thích các thứ đồ dai giòn dẻo nên đặc biệt thích trân châu. Hồi mới về VN mình cũng hăm hở đi mua trà sữa uống thử lắm. Thử ở khắp các cửa hàng lớn luôn, nhưng không có nơi nào làm cho mình thấy muốn quay lại cả. Lý do có rất nhiều: không ngon, giá quá đắt, chất lượng không ổn định, và quan trọng nhất là lần nào uống cũng bị đầy bụng :((</p>
+<p>Vậy nên ổn định xong bếp một cái là mình đi “nghiên cứu thị trường” để tự pha trà sữa. Đi mua đồ về rồi tự làm mới thấy xót tiền mua trà sữa ngoài hàng kinh khủng. Tại tính chi phí thì rẻ hơn nhiều ấy, mà quan trọng hơn là có thể pha theo ý mình, và cũng biết là trong cốc trà có gì nữa (trà tự pha ở nhà thì chẳng bao giờ làm bụng đầy cả ;) ).</p>
+<p>Trà sữa là một chủ đề vô tận bởi có rất nhiều biến tấu. Nhưng trong bài này mình muốn tập trung vào một thứ mà hình như đang rất hot trong thời gian gần đây ở Hà Nội là <strong>milk foam </strong>(hay còn gọi là bọt sữa, bọt kem sữa…). Lớp bọt kem sữa ngậy béo này hẳn là đã làm “lủng ví” của rất nhiều con nghiện trà sữa nhỉ? Nếu bạn cũng nằm trong số này thì mình cho bạn một tin rất tốt nhé: milk foam có thể tự làm ở nhà, với chi phí tương đối rẻ và chất lượng – mình nghĩ – là ngon hơn ngoài hàng nhiều.</p>
+<p>Trong video ngày hôm nay có 3 loại milk foam đi kèm với 3 loại trà, để các bạn có nhiều sự lựa chọn hơn. Cụ thể là hồng trà với milk foam muối biển, trà ô long với kem sữa Hokkaido và trà sữa hồng trà bá tước (earl grey) với kem pho-mát. Mỗi loại có một kiểu ngon khác nhau: hồng trà milk foam muối biển thì nhẹ nhàng, trà sữa Earl grey kem pho-mát dành cho các fan của vị mằn mặn, chua dịu, ngậy béo của pho-mát, còn trà sữa Hokkaido milk foam thì cho các bạn thích hương sữa đậm và béo.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Video có hướng dẫn các bước, còn trong phần bài dưới đây <strong>có các ghi chú quan trọng về nguyên liệu cùng một số mẹo giúp pha trà ngon, </strong>nên cả nhà đừng bỏ qua thông tin ở dưới nhé.</p>
+<h2>CÁCH LÀM 3 LOẠI MILK FOAM VỚI TRÀ SỮA</h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu (cho 1 cốc 300 ml)</strong></span></p>
+<p><strong>A. Hồng trà &amp; Milk foam muối biển</strong></p>
+<ul>
+<li><em>2 tbsp hồng trà (black tea)</em></li>
+<li><em>3/4 cup nước sôi</em></li>
+<li><em>1 tbsp đường (để pha trà)</em></li>
+<li><em>1 tbsp bột milk foam</em></li>
+<li><em>1 tsp đường (cho phần kem sữa)</em></li>
+<li><em>3 tbsp sữa tươi không đường</em></li>
+<li><em>1 cup đá viên</em></li>
+</ul>
+<p><strong>B. Trà sữa Earl Grey &amp; Kem pho-mát</strong></p>
+<ul>
+<li><em>2 tbsp hồng trà bá tước (Earl Grey tea)</em></li>
+<li><em>3/4 cup nước nóng</em></li>
+<li><em>1 tbsp bột sữa Indo Kievit</em></li>
+<li><em>1 tbsp đường (để pha trà)</em></li>
+<li><em>2 tbsp kem pho-mát cream cheese – đã để mềm ở nhiệt độ phòng </em></li>
+<li><em>2 tbsp kem tươi</em></li>
+<li><em>1 tsp đường (cho phần kem sữa)</em></li>
+<li><em>1 – 2 tsp sữa tươi không đường</em></li>
+<li><em>1/8 tsp muối</em></li>
+</ul>
+<p><strong>C. Trà Ô long &amp; Kem sữa Hokkaido</strong></p>
+<ul>
+<li><em>1 tbsp trà Ô long</em></li>
+<li><em>3/4 cup nước sôi</em></li>
+<li><em>1 tbsp đường (để pha trà)</em></li>
+<li><em>2 tbsp kem tươi (whipping cream)</em></li>
+<li><em>1 tbsp sữa tươi không đường</em></li>
+<li><em>1 tsp bột sữa Kievit Indo</em></li>
+<li><em>1 tsp milk foam muối biển</em></li>
+<li><em>1 tsp đường (cho phần kem sữa)</em></li>
+</ul>
+<p><strong>Dụng cụ</strong></p>
+<ul>
+<li><em>1 rây mắt lưới nhỏ</em></li>
+<li><em>1 cốc lắc (cocktail shaker)</em></li>
+<li><em>máy đánh trứng hoặc máy tạo bọt, hoặc phới lò xo (đánh tay sẽ hơi mất thời gian và mệt một chút)</em></li>
+<li><em>bộ thìa và cốc đong theo đơn vị tbsp, tsp, cup</em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Ghi chú</strong></span></p>
+<p>1. Để nhanh gọn, chính xác (và đỡ tốn tiền mua cân điện tử, nếu bạn không làm bánh, chỉ muốn pha trà) thì mình dùng bộ thìa và cốc đong theo đơn vị tablespoon (tbsp), teaspoon (tsp) và cup trong công thức này. Bạn có thể mua bộ thìa và cốc này ở các cửa hàng bán đồ làm bánh với giá thành tương đối rẻ (rẻ hơn cân điện tử nhiều). Tham khảo thêm thông tin giải thích về bộ thìa và cốc đong trong<a href="/huong-dan-chon-dung-cu-lam-banh-cho-nguoi-moi-bat-dau/"><strong> bài viết về dụng cụ làm bánh cơ bản</strong></a> này</p>
+<p>2. Bột sữa milk foam muối biển là nguyên liệu cho hương vị milk foam chuẩn và ngon nhất (thậm chí là ngon hơn milk foam ngoài hàng). Ở Việt Nam các bạn có thể mua tại <a href="https://abby.vn/nguyen-lieu-lam-tra-sua"><strong>Abby</strong></a>. Các bạn ở nước ngoài có thể tham khảo công thức thay thế ở cuối bài nhé, tuy không chuẩn vị bằng nhưng cũng không tệ.</p>
+<p>3. Hiện tại có khá nhiều loại kem sữa béo nhân tạo, tuy nhiên mình vẫn thích dùng kem whipping cream và kem pho-mát cream cheese nhất vì các sản phẩm này được làm từ sữa bò nên hương vị – với mình – thơm ngon hơn và cũng tốt cho sức khoẻ hơn. Trong một số công thức như milk foam Hokkaido, nếu thay kem tươi bằng kem topping thì hương vị sẽ thay đổi rất nhiều.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>4. Cốc lắc là thứ rất rất nên có. Cốc lắc giúp cho các loại nguyên liệu hoà quyện tốt hơn, giúp làm lạnh trà nhanh hơn và giữ hương vị trà tốt hơn. Lưu ý khi dùng cốc lắc giống như trong hình là nên đậy nắp nhỏ trước khi mở hoặc đóng nắp (sẽ dễ hơn).</p>
+<p>5. Các bạn có thể dùng những vị trà khác nhưng với mình thì trên đây là 3 sự kết hợp ổn nhất. Ví dụ như Ô long khá đậm đặc, đi với kem sữa Hokkaido giúp cân bằng và không hề ngấy. Còn hương cam chanh trong earl grey thì hợp với sữa và hợp dùng để làm trà sữa kinh khủng.</p>
+<p>6. Về các loại topping cho vào trà thì tuỳ ý cả nhà nhé. SD đã giới thiệu <a href="/cach-lam-tra-sua-tran-chau-va-thach-rau-cau-pho-mai/"><strong>cách làm trân trâu và thạch rau câu phô-mai tại đây</strong></a>, nếu cần các bạn tham khảo nha.</p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>Video cách làm milk foam với trà sữa đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" rel="noopener noreferrer" target="_blank">kênh YouTube của Savoury Days.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo <a href="https://youtu.be/QyYMWD2ADMo" rel="noopener noreferrer" target="_blank"><strong>link này</strong></a> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="/demo-flan-creme-caramel-kem-caramel/" rel="noopener noreferrer" target="_blank">cách làm bánh flan này.</a> </strong></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/QyYMWD2ADMo" width="560"></iframe></div>
+<p><strong>A. Hồng trà &amp; milk foam muối biển</strong></p>
+<ol>
+<li>Cho trà và nước sôi vào cốc, ủ 20 phút.</li>
+<li>Cho 1 tbsp bột milk foam, 1 tsp đường và 3 tbsp sữa vào âu, đánh tới khi hỗn hợp đặc và đông mịn. Giữ trong ngăn mát tủ lạnh tới khi dùng.</li>
+<li>Lọc trà qua rây, cho vào cốc lắc. Thêm đường theo khẩu vị, quấy tan. Thêm đá rồi đóng nắp và lắc đều.</li>
+<li>Đổ trà qua nắp nhỏ của cốc vào cốc có sẵn đá. Đổ milk foam lên trên. Nghiêng cốc 45 độ khi uống để thưởng thức cả milk foam và trà cùng lúc nhé :)</li>
+</ol>
+<p>Nếu không có bột milk foam thì có thể làm phần milk foam như sau: 2 tbsp kem tươi, 1 tsp đường, 1/8 tsp muối biển, cho vào âu đánh bông đặc. Sau đó từ từ cho 2 – 3 tsp sữa tươi vào, đánh đều tới khi kem lỏng như ý muốn. Milk foam sẽ có vị thơm béo của sữa (nhưng không ngấy hay quá ngậy) và một chút mặn của muối.</p>
+<p><strong>B. Trà sữa Earl Grey &amp; kem pho-má</strong>t</p>
+<ol>
+<li>Cho trà và nước sôi vào cốc, ủ 20 phút rồi lọc qua rây, cho vào cốc lắc. Cho đường, bột sữa vào quấy tan trong khi trà còn ấm nóng.</li>
+<li>Cho kem pho-mát, kem tươi, đường vào âu, đánh tới khi bông đặc mịn. Cho muối và từ từ cho sữa tươi vào đánh đều tới khi kem lỏng như ý muốn. Giữ lạnh tới khi dùng</li>
+<li>Cho đá vào cốc lắc, đậy nắp và lắc đều. Đổ trà qua nắp nhỏ cho vào cốc khác đã bỏ sẵn đá. Đổ phần kem pho-mát lên trên. Nghiêng cốc 45 độ khi uống để thưởng thức cả milk foam và trà cùng lúc :)</li>
+</ol>
+<p>Bột sữa Indo Kievit có thể thay bằng sữa bột dùng để pha cà phê (các bạn ở nước ngoài tìm mua trong siêu thị, quầy bán sữa để pha cà phê nhé).</p>
+<p><strong>C. Trà Ô long &amp; Hokkaido milk foam</strong></p>
+<ol>
+<li>Cho trà và nước sôi vào cốc, ủ 15 phút rồi lọc qua rây, cho vào cốc lắc (không ủ lâu hơn). Cho đường vào quấy tan.</li>
+<li>Cho kem tươi, sữa tươi, bột sữa Indo Kievit, milk foam muối biển, đường vào âu, đánh tới khi bông đặc mịn. Giữ lạnh tới khi dùng.</li>
+<li>Cho đá vào cốc lắc, đậy nắp và lắc đều. Đổ trà qua nắp nhỏ cho vào cốc khác đã bỏ sẵn đá. Đổ phần Hokkaido milk foam lên trên. Nghiêng cốc 45 độ khi uống để thưởng thức cả milk foam và trà cùng lúc :)</li>
+</ol>
+<p>Nếu không có bột milk foam và bột sữa Indo Kievit thì bạn có thể làm theo công thức sau: 2 tbsp heavy cream, 1 tsp sữa tươi không đường, 1 tsp đường, 1/8 tsp muối: đánh bông đặc mịn. Nếu mua được bột sữa thì nên dùng thêm 1/2 – 1 tsp bột sữa, kem sẽ thơm hơn.</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

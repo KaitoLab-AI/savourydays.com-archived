@@ -1,0 +1,96 @@
+---
+title: "[VIDEO] Cách làm bánh bông lan trứng muối (không cần lò nướng) và sốt phô-mai"
+date: "2016-03-18"
+slug: "cach-lam-banh-bong-lan-trung-muoi-khong-can-lo-nuong-2"
+categories: []
+tags: []
+image: "/wp-content/uploads/2016/03/cach-lam-banh-bong-lan-trung-muoi.jpg"
+description: "Bài viết chia sẻ cách làm bánh bông lan trứng muối dùng nồi hấp hoặc lò vi sóng, không cần lò nướng hay máy đánh trứng, bánh rất thơm ngon, mềm mịn..."
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Cộng thêm cả bài viết này là tại SD có đủ bộ cách làm bánh bông lan trứng muối: bằng lò nướng, bằng nồi cơm điện, bằng nồi hấp và bằng lò vi sóng nhé ;)</p>
+<p>Về cách làm bánh bông lan trứng muối bằng lò nướng hay nồi cơm điện thì cả nhà có thể <a href="/cach-lam-banh-bong-lan-trung-muoi-khong-can-lo-nuong/" target="_blank"><strong>xem lại bài cũ ở ĐÂY</strong></a>. Công thức đó mình dùng cốt bánh bông lan cơ bản làm với nồi nướng hay nồi cơm điện, kèm thêm các loại nhân. Còn trong bài này thì mình giới thiệu một công thức khác theo xì-tai “nhanh – gọn – dễ – đơn giản”, có thể nướng, hấp hoặc vi sóng. Công thức này đặc biệt dành tặng cho các bạn mới học làm bánh, chưa có nhiều kinh nghiệm hoặc cho các bạn nào chỉ cần làm với số lượng nhỏ và không muốn bày bừa quá nhiều dụng cụ nha.</p>
+<p>Tuy không nướng bằng lò nhưng cả nhà yên tâm là công thức này cho bánh rất rất ổn. Bánh nướng trong lò vi sóng thì không khác gì so với bánh nướng trong lò cả. Bánh hấp thì có màu hơi nhạt và khi hấp xong sẽ hơi có mùi trứng một chút. Nhưng sau khi để nguội thì ăn sẽ giống như bánh trong lò nướng.</p>
+<p>Bánh lần này mình không dùng sốt mayonnaise trong suốt như mọi khi mà thử công thức sốt phô-mai theo yêu cầu của các bạn. Món sốt này cũng ổn lắm, mùi vị rất thơm ngon và không bị quá ngậy béo. Ưu điểm nữa là có thể để tủ lạnh qua ngày mà không bị chảy nước hay gì cả. Túm lại là ưng :)</p>
+<p>Mình đã đăng video hướng dẫn cách làm bánh lên <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" style="font-weight: bold;" target="_blank">kênh YouTube của Savoury Days</a> rồi. Nếu không xem được tại blog, các bạn có thể xem trực tiếp trong <strong><a href="https://youtu.be/Eghm7c0FWf0" target="_blank">link này</a> </strong>nhé. Video có phụ đề tiếng Anh và tiếng Việt, và có chế độ bản đẹp HD. <span style="color: #ff0000;"><strong>Hướng dẫn cách chỉnh HD và bật phụ đề mình để ở cuối bài viết.</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/Eghm7c0FWf0" width="560"></iframe></div>
+<p> </p>
+<h2>Cách làm bánh bông lan trứng muối</h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span> (8 – 10 cupcake cỡ vừa, tuỳ kích thước khuôn)</p>
+<p><strong>A. Phần sốt phô-mai</strong></p>
+<ul>
+<li><em>1 lòng đỏ trứng (18 – 20 gram) – nhiệt độ phòng </em></li>
+<li><em>20 gram đường (1.5 Tbsp caster sugar) (nên dùng loại hạt mịn hoặc xay nhỏ hạt đường trước khi dùng)</em></li>
+<li><em>10 gram tinh bột ngô (1 Tbsp corn starch)</em></li>
+<li><em>120 ml  sữa tươi không đường -(1/2 cup milk) (quay trong lò vi sóng hoặc đun cho sữa hơi ấm chút xíu nhưng không nóng)</em></li>
+<li><em>3 viên phô-mai bò cười (50 gram)</em></li>
+<li><em>10 gram bơ nhạt ( có thể dùng bơ thực vật nhưng dùng bơ động vật sẽ cho mùi vị thơm ngon hơn) (2 tsp unsalted butter)</em></li>
+<li><em>1/2 thìa cafe (tsp) chiết xuất va-ni (không bắt buộc)</em></li>
+<li><em>1/8 thìa cafe muối (không bắt buộc)</em></li>
+</ul>
+<p><strong>B. Phần cốt bánh</strong></p>
+<ul>
+<li><em>60 gram bơ nhạt ( có thể dùng bơ thực vật nhưng dùng bơ động vật sẽ cho mùi vị thơm ngon hơn) (4-1/2 Tbsp unsalted butter) </em></li>
+<li><em>100 ml sữa tươi không đường (1/3 cup plus 4 tsp)</em></li>
+<li><em>140 gram bột mì đa dụng (1 cup plus 1 Tbsp all purpose flour) </em></li>
+<li><em>1 thìa cafe (tsp) bột nở/ baking powder (4 gram) – không thay bằng baking soda/ muối nở được</em></li>
+<li><em>70 gram đường (nên dùng loại hạt mịn hoặc xay nhỏ hạt đường trước khi dùng) – (1/3 cup caster sugar)</em></li>
+<li><em>1 trứng gà (60 gram/ quả tính cả vỏ – nhiệt độ phòng)</em></li>
+<li><em>1/2 thìa cafe (tsp) chiết xuất va-ni (không bắt buộc) –  nếu hấp bánh thì nên dùng vani để át bớt mùi trứng</em></li>
+</ul>
+<p><strong>C. Nhân mặn</strong></p>
+<ul>
+<li><em>8 – 10 lòng đỏ trứng muối</em></li>
+<li><em>ruốc thịt (chà bông)</em></li>
+<li><em>xúc xích, lạp xưởng, mỡ hành, rau mùi… tuỳ thích</em></li>
+</ul>
+<p>(*) <strong>Ghi chú:</strong> Lòng đỏ trứng muối đã được làm chín. Các bạn có thể tham khảo cách làm trong video tại <strong><a href="/cach-lam-banh-bong-lan-trung-muoi-khong-can-lo-nuong/" target="_blank">bài viết cách làm bánh bông lan trứng muối</a> </strong>cũ. Thay vì nướng trứng thì hấp trứng chín. <strong>Không quay trong lò vi sóng vì trứng dễ bị nổ. </strong><strong> </strong></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><strong>A. Phần sốt phô-mai</strong></p>
+<p>1. Đánh lòng đỏ trứng với đường tới khi bông mịn, chuyển màu vàng nhạt. Rây bột ngô, trộn đều.</p>
+<p>2. Từ từ đổ sữa ấm vào trộn đều cùng hỗn hợp trứng, vừa đổ vừa quấy đều tay.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>3. Nấu hỗn hợp ở lửa vừa – to. Quấy liên tục trong khi nấu để tránh trứng bị lắng xuống đáy và chín, tạo ra lợn cợn. Khi hỗn hợp chuyển đặc thì bắc khỏi bếp và quấy mạnh tay để hỗn hợp mịn mượt. Nếm thử, nếu hỗn hợp còn vị bột nhưng đã đặc lại thì cho thêm ít sữa và bắc lên bếp, nấu tiếp ở lửa nhỏ.</p>
+<ul>
+<li>Lưu ý không đun ở lửa quá to vì dễ làm hỗn hợp bị lợn cợn. Bắc ra khỏi bếp khi hỗn hợp vừa bắt đầu đặc, không đợi quá lâu sẽ làm cho sốt bị quá đặc.</li>
+</ul>
+<p>4. Cho pho-mát, bơ, vani vào khi hỗn hợp còn đang nóng, quấy nhanh tay cho bơ và pho-mát tan hết. Nếu muốn sốt có chút vị mặn thì các bạn có thể cho thêm chút muối (mình có dùng muối vì thấy có ít vị mặn ngon hơn).</p>
+<ul>
+<li>Nếu không có phô-mai bò cười, các bạn có thể thay bằng cream cheese. Một số công thức dùng Cheddar hoặc Mozzarella, mình nghĩ có thể thay bằng lượng tương đương nhưng mùi pho-mát sẽ khá đậm và sốt cũng dẻo dính hơn khi dùng phô-mai bò cười.</li>
+</ul>
+<p>5. Đổ sốt ra bát, dùng nilon bọc thực phẩm che mặt sốt (đặt nilon áp sát mặt sốt) để phần mặt sốt không bị khô và tạo váng. Để nguội ở nhiệt độ phòng.</p>
+<p><strong>B. Làm phần bánh</strong></p>
+<p>1. Cho bơ và sữa vào âu. Chưng cách thuỷ hoặc quay vi sóng khoảng 1 phút để bơ tan chảy. Quấy đều rồi để nguội bớt.</p>
+<p>2. Cho vào 1 bát phần nguyên liệu khô gồm bột mì, bột nở, đường, quấy đều.</p>
+<p>3. Khi bơ sữa đã nguội bớt, cho trứng và vani vào, quấy đều.</p>
+<p>4. Rây hỗn hợp bột khô vào âu đựng bơ sữa trứng. Trộn nhanh tay. Chỉ trộn tới khi nguyên liệu khô vừa đủ hoà quyện với nguyên liệu ướt và không thấy bột mì khô trong âu nữa. Không cố gắng trộn tới khi hỗn hợp mịn mượt vì sẽ làm cho bánh bị dai, chai cứng và nở kém.</p>
+<p><strong>Ngay sau khi trộn xong thì mang bột đi hấp hoặc nướng luôn, không được để lâu</strong>.</p>
+<p>5. Hấp hoặc vi sóng bánh như sau:</p>
+<p>* <strong>Hấp bánh:</strong></p>
+<p>– Chia hỗn hợp vào khuôn có lót giấy nến (không cần khuôn cupcake chuyên dụng, có thể dùng bát, cốc nhỏ, nhưng đồ kim loại thì tốt hơn là sứ vì dẫn nhiệt tốt hơn). Chỉ đổ 2/3 khuôn vì bánh còn nở thêm khi hấp. Đun nước và làm nóng xửng hấp.</p>
+<p>– Khi nước sôi, xửng hấp nóng thì đặt bánh vào xửng. Phủ khăn lên miệng xửng, đậy nắp. Để lửa vừa – to, làm sao để nước sôi mạnh trong nồi. Hấp bánh trong 15 – 20 phút. <strong>Trong khoảng 10 – 13 phút đầu không được mở nắp vì sẽ làm bánh xẹp</strong>. Sau khoảng 15- 17 phút có thể mở ra kiểm tra, nếu bánh nở phồng, mặt bánh khô ráo, ấn lên thấy lập tức phồng trở lại/ đàn hồi tốt là bánh đã đạt.</p>
+<p>– Để bánh trong khuôn khoảng 2 – 3 phút rồi lấy ra và để nguội hoàn toàn trên rack.</p>
+<p>* <strong>Nướng trong lò vi sóng</strong></p>
+
+
+<p>– Chia hỗn hợp bột bánh vào ramekin hoặc cốc sứ. Quay ở 1200 W trong 1 – 2 phút tuỳ độ lớn của cốc (cốc 250 ml thì mất khoảng 2 phút). Lấy bánh ra khi mặt bánh vừa đủ khô ráo, ấn lên thấy đàn hồi tốt và bánh chưa tách khỏi thành khuôn.</p>
+<p>– Các bạn có thể xem thêm hướng dẫn <a href="/7-mon-banh-lam-voi-lo-vi-song-tuyet-ngon-cong-thuc-kem-video/" target="_blank"><strong>cách làm bánh trong lò vi sóng tại ĐÂY</strong></a>. Trong bài viết này mình có giải thích rất rõ về cách căn chỉnh thời gian, chọn nguyên liệu, dụng cụ… khi làm bánh với lò vi sóng. Nếu lò nhà bạn không ghi rõ công suất bao nhiêu watt thì bạn có thể thử với mức độ Cao/ High và theo dõi bánh nở. Có thể mở lò ra để kiểm tra, nếu thấy mặt bánh còn hơi ướt thì quay thêm vài giây để bánh tiếp tục chín. Bánh làm trong lò vi sóng không dễ bị xẹp như nướng bằng lò nên không phải lo ngại việc mở lò kiểm tra bánh nhé.</p>
+<p>* <strong>Nướng bằng lò nướng:</strong></p>
+<p>– Bánh này có thể nướng trong khuôn cupcake/ muffin, nhiệt 165 – 170 độ C trong 25 – 35 phút tuỳ vào độ lớn của khuôn. Khi mặt bánh vàng, ấn nhẹ lên thấy vết lõm lập tức phồng trở lại thì lấy bánh ra ngoài.</p>
+<p>6. Khi bánh đã nguội hoàn toàn thì phun kem pho-mát, xếp trứng và ruốc lên mặt bánh (xem thêm cách làm trong video).</p>
+<p>7. Nếu chưa dùng ngay, có thể bảo quản bánh trong hộp kín, để tủ lạnh và dùng trong 2 ngày. Trong trường hợp này, nên để bánh riêng, phần nhân riêng. Trước khi dùng thì cho bánh vào lò vi sóng (đậy kín để bánh không bị khô), quay 20 – 30 giây cho bánh mềm trở lại rồi mới xếp các phần nhân mặn lên trên.</p>
+<p>Chúc các bạn thành công! :)</p>
+<p>————–</p>
+<p><span style="color: #800000;"><strong>CÁCH BẬT PHỤ ĐỀ TIẾNG VIỆT CỦA VIDEO</strong></span></p>
+<p>* <strong>Nếu xem video trên máy tính, tại blog hoặc Youtube:</strong></p>
+<p>Nhìn vào góc dưới bên phải màn hình video, bạn sẽ thấy có 4 nút bấm nhỏ. Phím CC là nút đầu tiên, ấn vào đây sẽ kích hoạt được phụ đề. Nếu phụ đề hiện ra là tiếng Anh thì  các bạn bấm nút hình bánh xe răng cưa ở bên cạnh nút CC, chọn Subtitles/ CC -&gt; Vietnamese (tiếng Việt). Ngoài ra, nhớ chọn Quality 720p HD (cũng bằng cách bấm vào nút bánh xe) để xem video rõ nét và đẹp nhất nhé  <img alt=":-)" class="wp-smiley" src="/wp-includes/images/smilies/1.gif"/></p>
+<p>* <strong>Nếu xem trên điện thoại di động:</strong></p>
+<p>– Xem tại blog: gõ lên màn hình để hiện ra thanh điều chỉnh bật, tua tiến lùi. Nhìn vào góc dưới bên phải, có nút thu nhỏ màn hình (hai mũi tên quay vào nhau) và một nút nhỏ giống khung gõ thoại. Ấn vào nút này và chọn Vietnamese là xem được phụ đề.</p>
+<p>– Xem tại Youtube: nhìn lên góc trên bên phải của video, ấn vào nút có ba dấu chấm xếp thành hàng dọc, chọn nút ở chính giữa (nằm giữa “quality” và “report”). Khi nút này “On” thì chọn Vietnamese. Để chọn HD thì ấn vào nút Quality -&gt; 720p</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

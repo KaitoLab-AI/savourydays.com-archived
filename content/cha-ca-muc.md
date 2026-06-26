@@ -1,0 +1,56 @@
+---
+title: "Chả cá mực"
+date: "2012-09-21"
+slug: "cha-ca-muc"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/09/ChaCaMuc1.jpg"
+description: "cách làm chả cá thơm ngon dai giòn (có hình ảnh minh họa các bước chi tiết)"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Mấy bạn đồng nghiệp của mình thích món này ghê lắm, lần nào mang theo để ăn trưa mọi người cũng xuýt xoa đầu tiên là vì mùi thơm của nó, sau là thán phục bạn Trang thiệt là giỏi &amp; siêng vì tự làm được cả <em>fish cake</em> :P Nhưng mà thật ra món này thì có gì đâu, đúng hơn là mình thường làm nó khi mình rất lười, cực cực lười, và cần đồ có thể nhét ngăn đá dùng dần – để trong tuần khỏi phải nấu :D Chả cá lần này có thêm cả mực xay rất sơ qua, cho nên ăn vào thấy cả miếng mực giòn giòn, quyện với chả cá dai dai, thơm thơm, ăn với cơm (mát trời như thế này là hợp nhất), hoặc có thể làm nhạt một chút để chấm nước mắm tỏi hoặc mắm tôm chanh với bún (ngon lắm lắm ^.^) <strong> </strong></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8009174828/" title="Fish cake by LinhTrang9185, on Flickr"><img alt="Fish cake" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8440/8009174828_021179e111_z.jpg" width="428"/></a></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu </strong></span></p>
+<ul>
+<li><em>500 gram fillet cá (lọc sạch xương và da) (*)</em></li>
+<li><em>250 gram mực làm sạch</em></li>
+<li><em><em>1/2 củ hành tây</em></em></li>
+<li><em>2-3 củ hành khô (shallot)  </em></li>
+<li><em>3-4 tép tỏi</em></li>
+<li><em>1 mớ thì là</em></li>
+<li><em>Bột năng (bột đao) (tapioca starch)</em></li>
+<li><em>Nước mắm hoặc bột gia vị (mình dùng bột canh Hải Châu), muối, tiêu</em></li>
+</ul>
+<p><em>(*) Ghi chú: Mình dùng cá basa (catfish) vì bên này cá khá là đắt, chỉ có cá basa là rẻ, mà ăn cũng ngon, nhưng nếu có điều kiện thì dùng cá thác lác vẫn là ngon và dai nhất. Thì là nếu không có thì là tươi thì các bạn có thể mua thì là khô (dried dill), ở siêu thị tại Hà Lan và Bỉ mình thấy có bán rất nhiều, hoặc nếu không thì chợ châu Á cũng có. </em></p>
+<p><span id="more-3190"></span><span style="color: #800000;"><strong>Cách làm</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>1. Chuẩn bị nguyên liệu:</p>
+<p>– Mực làm sạch, thái hạt lựu.</p>
+<p>– Hành, tỏi bóc vỏ, băm nhuyễn. Thì là rửa sạch, băm nhỏ.</p>
+<p style="text-align: center;"><em>hoặc là có thể cho tất cả hành tỏi vào cối xay như thế này :)</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8009161283/" title="IMG_6962 by LinhTrang9185, on Flickr"><img alt="IMG_6962" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8458/8009161283_50666dc189.jpg" width="500"/></a></p>
+<p>2. Cá lọc bỏ xương da, rửa sạch, xay nhuyễn hoặc giã nhuyễn. <em>Lưu ý là thấm sạch nước cho cá thật khô trước khi xay. </em>Hồi xưa mình chưa có máy xay thì băm bằng tay. Nhưng băm thì mất khá nhiều thời gian do muốn chả cá được dai thì cá phải băm thật nhuyễn. Hoặc có thể cho vào cối giã cũng được. Trong khi xay cá các bạn cũng có thể cho thì là, chút bột nêm hoặc muối, tiêu vào xay cùng, các thứ gia vị sẽ được trộn đều hơn.</p>
+<p>(*) <em>Để chả được dai, khi xay cá và mực cần rất lạnh. Nếu là cá đông lạnh, chỉ nên để cá tan một phần đá. Khi cá còn cứng và còn vụn đá bám bên ngoài nhưng đủ mềm để xay mà không sợ hỏng máy là có thể xay được. Nếu là cá tươi thì có thể để ngăn đá cho cá cứng lại và hơi có dăm đá rồi mới xay. Hoặc xay cùng ít đá dăm để giữ cá lạnh.</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8009161683/" title="IMG_6960 by LinhTrang9185, on Flickr"><img alt="IMG_6960" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8461/8009161683_b75438b38f.jpg" width="500"/></a></p>
+<p>3. Cá sau khi đã xay nhuyễn thì trộn với mực, hành, tỏi, nước mắm hoặc bột gia vị, hạt tiêu, thêm 1-2 thìa canh bột năng nữa. Quết cho thật nhuyễn. Viên thành các viên tròn, dẹt.</p>
+<p>Riêng về định lượng gia vị, mình dùng 2 thìa canh nước mắm, 1 thìa cafe bột canh Hải Châu, tiêu tùy ý muốn. Việc nêm nếm có thể thay đổi tùy thuộc vào khẩu vị của gia đình và loại gia vị bạn dùng. Sau khi trộn xong các bạn có thể ngắt 1 viên nhỏ cho vào lò vi sóng quay chín để nếm thử hoặc rán trước để nếm. Ngoài ra, mình thấy nêm nhạt hơn bình thường một chút, khi ăn pha thêm nước mắm chấm cũng rất ngon.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p style="text-align: center;"><em>nguyên liệu trước khi trộn (mình dùng thì là khô)</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8009164947/" title="IMG_6963 by LinhTrang9185, on Flickr"><img alt="IMG_6963" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8033/8009164947_9febb37541.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>và sau khi đã được quết nhuyễn</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8009161997/" title="IMG_6964 by LinhTrang9185, on Flickr"><img alt="IMG_6964" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8307/8009161997_2b5d7d9025.jpg" width="500"/></a></p>
+<p>4. Rán chả ở lửa vừa đến khi chả chín vàng. Nếu để dành thì các bạn có thể rán sơ qua một lượt, sau đó cho vào hộp hoặc túi nilon thực phẩm để đông lạnh. Khi ăn thì rã đông rồi rán lại. Dùng nóng.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8009162471/" title="IMG_6982 by LinhTrang9185, on Flickr"><img alt="IMG_6982" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8041/8009162471_63e64be0b9.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Cận cảnh thành phẩm </em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8009174930/" title="Fish cake by LinhTrang9185, on Flickr"><img alt="Fish cake" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8303/8009174930_54d2d3d5f3.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>và một gợi ý nếu không thích ăn cơm :)</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8009169213/" title="Congee with Fishcake (Vietnamese Style) by LinhTrang9185, on Flickr"><img alt="Congee with Fishcake (Vietnamese Style)" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8295/8009169213_a38302c817_z.jpg" width="423"/></a></p>
+<p>——-</p>
+<p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ email: <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi hành động cố tình vi phạm sẽ chịu xử lí theo quy định của pháp luật.</span></strong></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

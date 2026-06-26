@@ -1,0 +1,74 @@
+---
+title: "[Chia sẻ] Cơ hội dùng thử miễn phí và nhận quà tặng của FoodPanda Việt Nam"
+date: "2015-05-06"
+slug: "chia-se-co-hoi-dung-thu-mien-phi-va-nhan-qua-tang-cua-foodpanda-viet-nam"
+categories: ["Chia sẻ thông tin"]
+tags: []
+image: "https://farm6.staticflickr.com/5323/17200827560_d2462d6c96_c.jpg"
+description: ""
+---
+
+<p>Cả nhà mến,</p>
+<p>Có lẽ FoodPanda (<a href="https://www.foodpanda.vn/" target="_blank">https://www.foodpanda.vn/</a>) là một cái tên không mấy xa lạ với nhiều bạn đọc của Savoury Days. Không chỉ ở Việt Nam mà tại nhiều quốc gia trên thế giới, FoodPanda giúp cho việc chọn món, gọi đồ ăn về nhà trở nên dễ dàng và giản tiện hơn rất nhiều. Bản thân mình là người theo trường phái “homemade food” nhưng thi thoảng công việc bận, mệt hay lười, hay đơn giản là tự nhiên nhớ và thèm hương vị của một món ăn nào đó mà không thể ngay lập tức nấu được, thì cũng nhờ tới sự trợ giúp của FoodPanda. Không phải mò mẫm trên mạng nhiều vì bản thân FoodPanda đã có cả một danh mục các nhà hàng nổi tiếng với đủ các trường phái ẩm thực khác nhau rồi, việc lựa chọn nhanh hơn mà đặt hàng cũng tiện lợi hơn nữa :)</p>
+<p>Trong tháng 5 này, để tri ân các khách hàng tại Việt Nam và với mong muốn nhận được thêm nhiều phản hồi, nhận xét để nâng cao chất lượng dịch vụ, <a href="https://www.foodpanda.vn" target="_blank">FoodPanda Việt Nam</a> tổ chức một sự kiện nhỏ dành cho các bạn <em>food blogger</em> tại Việt Nam. Mỗi người tham gia sẽ đều có cơ hội dùng thử dịch vụ của FoodPanda miễn phí, và những người may mắn sẽ được nhận các phần quà có giá trị nữa.</p>
+<p>Vì biết có rất nhiều bạn bè của Savoury Days là người yêu thích ẩm thực và có trang blog riêng để chia sẻ các trải nghiệm của bản thân về bếp núc và ăn uống, nên FoodPanda có liên hệ với mình để thông qua Savoury Days giới thiệu về cuộc thi này tới các bạn. Hi vọng thông tin này sẽ đến được với nhiều bạn bè cùng sở thích và quan tâm hơn :) Nội dung cụ thể về cuộc thi như sau nha:</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/17200827560" title="vietvechungtoi_2 by Trang Linh, on Flickr"><img alt="vietvechungtoi_2" class="aligncenter" height="800" loading="lazy" src="https://farm6.staticflickr.com/5323/17200827560_d2462d6c96_c.jpg" width="534"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ol>
+<li><strong> Đề tài: </strong></li>
+</ol>
+<p>Cùng trải nghiệm và chia sẻ cảm nhận của bạn về dịch vụ FoodPanda tại Việt Nam.</p>
+<ol start="2">
+<li><strong> Cách thức tham dự:</strong></li>
+</ol>
+<p>Nhận Voucher của FoodPanda, đặt món ăn với các voucher này, chụp ảnh và chia sẻ lại trải nghiệm của bạn tại blog cá nhân (bài viết tối thiểu 500 từ).</p>
+<ol start="3">
+<li><strong> Thời gian </strong></li>
+</ol>
+<p>– Đăng kí, trải nghiệm dịch vụ &amp; chia sẻ tại blog của bạn: Từ 4/5 đến 18/5/2015</p>
+<p>– Food Panda tổng kết &amp; đánh giá các bài dự thi: Từ 19/5 đến 22/5/2015</p>
+<p>– Thông báo kết quả &amp; trao giải: Ngày 26/5/2015</p>
+<ol start="4">
+<li><strong> Cơ cấu giải thưởng</strong> (do FoodPanda đánh giá và bình chọn)</li>
+</ol>
+<p>* <strong><em>Giải nhất</em></strong>: 01 Samsung Galaxy mini dành cho phần chia sẻ và đóng góp thiết thực nhất</p>
+<p>* <strong><em>Giải nhì</em></strong>: 01 cặp vé xem phim tại rạp trong hệ thống Megastar tại Hà Nội hoặc TP Hồ Chí Minh (Nếu người đạt giải không ở tại hai thành phố này, giải thưởng sẽ được thay bằng hiện vật khác với giá trị tương đương).</p>
+<p>* <strong><em>Giải đồng hạng</em></strong>: 10 phần quà, mỗi phần gồm 1 cuốn lịch Food Panda và 1 cuốn sách Nhật ký học làm bánh – tập 2, dành cho 10 bài chia sẻ hay và thú vị do FoodPanda bình chọn.</p>
+<ol start="5">
+<li><strong> Cách thức tham dự:</strong></li>
+</ol>
+<p>* Gửi email cho đại diện của FoodPanda tại địa chỉ <a href="mailto:p.le@foodpanda.com">p.le@foodpanda.com</a></p>
+<p>* Tiêu đề email ghi rõ: <strong><em>Tham dự cuộc thi “Viết về chúng tôi – Food Panda”</em></strong></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>* Trong email các bạn vui lòng cung cấp các thông tin sau:</p>
+<ul>
+<li>Họ tên</li>
+<li>Nơi cư trú</li>
+<li>Địa chỉ mail thường dùng</li>
+<li>Địa chỉ blog</li>
+</ul>
+<p>Food Panda sẽ liên hệ với bạn và cung cấp Voucher code để bạn tiến hành trải nghiệm dịch vụ.</p>
+<ol start="6">
+<li><strong>Yêu cầu về bài viết chia sẻ:</strong></li>
+</ol>
+<p>– Là sản phẩm của người dự thi, xuất hiện lần đầu tiên tại trang blog của người dự thi. Không được sao chép hoặc đăng tải lại tại các trang mạng khác.</p>
+<p>Các thông tin chính về cuộc thi là như vậy. Bản thân mình không ở Việt Nam nên cuộc thi lần này không tham gia được (rất là tiếc í), hi vọng là sẽ có nhiều bạn bè của SD ở VN trong một vài tuần tới có những trải nghiệm thật thú vị với FoodPanda nhé :)</p>
+<p>———————</p>
+<p>* <em><span style="color: #ff0000;">Linh Trang và Savoury Days chỉ đóng vai trò chia sẻ thông tin, giới thiệu cuộc thi tới bạn đọc của Savoury Days, không có trách nhiệm với bất kì vấn đề nào liên quan đến cuộc thi, người tham dự, các sản phẩm dự thi, quá trình đánh giá bài thi và bình chọn kết quả, trong suốt quá trình thi cũng như sau khi công bố kết quả. Mọi thắc mắc và các vấn đề liên quan tới cuộc thi, mời các bạn liên hệ với đại diện của FoodPanda theo địa chỉ: <a href="mailto:p.le@foodpanda.com" style="color: #ff0000;">p.le@foodpanda.com</a> (Ms. Lê Phương).    </span></em></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

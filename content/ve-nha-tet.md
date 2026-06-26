@@ -1,0 +1,34 @@
+---
+title: "Về “nhà” ăn Tết"
+date: "2014-02-04"
+slug: "ve-nha-tet"
+categories: ["Chuyện nhà"]
+tags: ["chuyện nhà"]
+image: "http://farm4.staticflickr.com/3817/12301433893_78b03b1def_z.jpg"
+description: ""
+---
+
+<p>Tết chính thức bắt đầu, có lẽ là từ khi máy bay đáp xuống bãi đỗ nhỏ ngoài rìa Berlin. Nhìn ra ngoài trời chỉ thấy một khoảng không màu tuyết trắng xóa và làn khói mờ  bay lên từ một vài mái nhà nâu đen trốn sau rặng cây trụi lá. Cảm giác đầu tiên khi bước ra ngoài trời là lạnh buốt. So với nơi này thì nhiệt độ 5 – 7 độ C của nước Bỉ rõ ràng là vẫn còn ấm áp hơn nhiều lắm. Nhưng cái cảm giác giá buốt ấy nhanh chóng bị xua đi bởi sự háo hức vì một thời khắc quan trọng đang đến, và vì năm nay mình được ăn Tết ở “nhà”, hay nói đúng hơn là ăn Tết với “nhà”.</p>
+<p>Tuy “bạn gái” mãi đến chiều ngày 30 Tết mới sang, nhưng vì đã kịp gửi gắm “bạn trai” cả một cái shopping list dài dằng dặc, và hơn nữa là chợ Đồng Xuân ở Berlin quá tuyệt, chẳng thiếu gì, cho nên bữa cơm cúng Tất niên của hai bạn chắc cũng tạm có thể coi là tươm tất với bánh chưng, giò chả, nộm, rau xào, hoa quả,.. và một con gà “chạy bộ” thơm mềm, vàng óng. À, có thêm cả bánh bao thịt và nộm bò khô do “thổ dân” Antwerp đóng góp nữa :)</p>
+<p>Với cả “bạn trai” và “bạn gái” thì Tết năm nay đặc biệt hơn những năm khác rất nhiều. Măc dù đây không phải là cái Tết đầu tiên mà hai bạn trải qua cùng nhau, nhưng là năm đầu tiên mà hai bạn cùng ăn Tết dưới một mái nhà, cùng chuẩn bị mâm cơm mời ông bà tổ tiên, và ngày đầu năm mới có thể cùng nhau chúc Tết ông bà, bố mẹ cùng các cô bác của hai bên gia đình. Đây cũng là cái Tết đánh dấu sự thu ngắn khoảng cách giữa hai bạn. Sau 7 năm ở trong tình trạng bạn trai ở một châu (lục), bạn gái ở một châu (lục), cuối cùng thì hai bạn cũng “được” sống ở hai nước ở gần nhau, ở cùng một múi giờ và bất kì khi nào muốn, đều có thể xách va li ra sân bay được.</p>
+<p>Có bạn trai nên Tết của bạn gái cũng khác hơn. Làm việc gì cũng có thêm trợ thủ đắc lực. Đứng nấu cơm thì có người giúp nhặt rau, rửa bát, hay bóp vai khi mỏi. Đi mua đồ có người xách túi hộ nhân tiện bình phẩm kiêm xúi giục mua thêm, mua thêm nữa (vì với bạn trai, bạn gái lúc nào cũng ở trong tình trạng thiếu đồ :P). Đi ngoài đường trời lạnh có một bàn tay nắm lấy tay mình, rất ấm. Rồi thì có người cùng đi chúc Tết bạn bè nhân dịp đầu năm mới, cùng đi xem phim, thăm lại những địa điểm, thử lại những món ăn mà cả hai đứa đều thích. Lại có cái cảm giác chuẩn bị bữa ăn rồi ngồi đợi một người đi làm về để cùng dùng bữa tối.</p>
+<p>Cũng hình như vì có bạn trai nên thấy thời gian trôi vèo vèo như tên lửa. Thoắt một cái đã hết Tết, đến lúc bạn gái phải lên máy bay trở về với giấy tờ, bài vở. Bạn trai cũng tiếp tục với những con số tính toán, bài giảng và nghiên cứu của mình. Tự hứa sẽ cố gắng “ngoan” hơn, làm việc chăm chỉ để các bác giáo hài lòng (và sẽ không cằn nhằn khi mình trốn việc đi thăm bạn ý). Hẹn sau một vài tuần tới…</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p style="text-align: center;"><em>{Ảnh minh họa không liên quan lắm đến bài viết}</em></p>
+<p style="text-align: center;"><em>Trong nỗ lực giải quyết hết mớ “xôi thịt” của mấy ngày Tết, cơm mồng 4 Tết của bạn trai và bạn gái có: bánh chưng rán, canh rau ngót nấu nước dùng gà, gỏi gà xé phay, xôi xéo rưới mỡ gà “trứ danh” (mà bạn trai “nghiện” ngay sau lần thử đầu tiên), tráng miệng với bánh Su kem và bánh da lợn :) </em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12301433893/" title="2014-02-03 by LinhTrang9185, on Flickr"><img alt="2014-02-03" class="aligncenter" height="640" loading="lazy" src="http://farm4.staticflickr.com/3817/12301433893_78b03b1def_z.jpg" width="640"/></a></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

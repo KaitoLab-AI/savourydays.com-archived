@@ -1,0 +1,90 @@
+---
+title: "Sữa chua – các vấn đề thường gặp và cách giải quyết"
+date: "2014-06-23"
+slug: "sua-chua-cac-van-de-thuong-gap-va-cach-giai-quyet"
+categories: ["Tráng miệng", "Đồ uống"]
+tags: ["chia sẻ kinh nghiệm", "sữa chua"]
+image: "/wp-content/uploads/2014/06/yogurtmistakes01-e1403531033410.jpg"
+description: "Savoury Days xin giới thiệu với các bạn cách khắc phục sữa chua nhớt, sữa chua lỏng, sữa chua tách nước, hay sữa chua không đông để có sữa chua tự làm như ý"
+---
+
+<p>Tiếp tục về chủ đề sữa chua nhé :)! Chủ đề chính của bài này là các vấn đề thường gặp khi làm sữa chua tại nhà và các cách khắc phục. Các bạn có thể xem tổng hợp về loạt bài “<strong>Cách làm sữa chua tại nhà</strong>” với các công thức sữa chua như sữa chua uống, sữa chua dẻo, sữa chua hoa quả hay sữa chua Hy Lạp tại đường dẫn: <a href="/tu-lam-sua-chua-tai-nha-nhung-viec-nen-va-khong-nen-lam/" target="_blank">Tổng hợp về loạt bài “Cách làm sữa chua tại nhà: Các công thức và cách khắc phục các vấn đề thường gặp”</a></p>
+<p>Sữa chua với mình vẫn là một cô nàng khá đỏng đảnh và hay hờn dỗi. Hay dỗi cũng không sao, mình có thể nhẹ nhàng và kiên nhẫn với “nàng”. Nhưng điều phức tạp là nàng có thể hờn dỗi vì nhiều lí do khác nhau. Tại trời mưa, tại trời nắng, hay tại trời chẳng mưa chẳng nắng,… tất cả đều dẫn đến cùng một hiện tượng là “dỗi”. Cho nên việc tìm hiểu nguyên nhân tại sao nàng dỗi, hay tại sao sữa chua không được ngon lành như ý muốn là một vấn đề khá phức tạp. Cũng vì lí do này mà việc giải quyết dứt điểm các vấn đề thường gặp với sữa chua khá là khó. Cùng một hiện tượng có thể do các nguyên nhân khác nhau hoặc do nhiều nguyên nhân cùng lúc gây ra. Nên tốt hơn việc làm hỏng rồi đi tìm nguyên nhân, có lẽ là xây dựng một quy trình chuẩn và cố gắng tuân thủ đầy đủ các lưu ý (như mình viết trong bài đầu tiên về sữa chua) để đảm bảo sữa chua ngon lành và không “dỗi” nữa :P</p>
+<p>Nhìn chung, nếu sữa chua làm ra có vấn đề, bạn có thể tự tìm hiểu nguyên nhân theo những gạch đầu dòng dưới đây nhé</p>
+<ul>
+<li><strong><em>Nguyên liệu: hàm lượng Protein trong sữa có thấp quá không, men có tươi mới không</em></strong></li>
+<li><strong><em>Dụng cụ có được khử trùng sạch sẽ và khô ráo không</em></strong></li>
+<li><strong><em>Men có được để hết lạnh trước khi dùng không</em></strong></li>
+<li><strong><em>Nhiệt độ của sữa khi trộn men và nhiệt độ ủ sữa có quá cao không (sẽ dễ làm chết men)</em></strong></li>
+<li><strong><em>Khi trộn men có quấy đảo quá mạnh tay không</em></strong></li>
+<li><strong><em>Nhiệt độ ủ có duy trì được ở khoảng 40 – 44 độ C không</em></strong></li>
+</ul>
+<p>Ngoài ra, nếu tất cả các yếu tố liên quan đến kĩ thuật được đảm bảo, mà sữa vẫn chưa ngon như mong muốn thì bạn có thể thử thay loại sữa và loại men xem sao. Vì đôi khi, chất lượng sữa và men cũng có thể gây ảnh hưởng đến sữa chua thành phẩm.</p>
+<p>Trên đây là <em>checklist</em> nói chung để tìm nguyên nhân sữa chua thất bại. Tiếp theo mình sẽ nói cụ thể hơn với một số vấn đề thường gặp với sữa chua nhé.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>1. <span style="text-decoration: underline;"><strong>Sữa chua bị nhớt</strong></span></p>
+<p><img alt="OLYMPUS DIGITAL CAMERA" class="aligncenter size-full wp-image-5169" height="450" loading="lazy" sizes="(max-width: 600px) 100vw, 600px" src="/wp-content/uploads/2014/06/yogurtmistakes01-e1403531033410.jpg" width="600"/></p>
+<p>Khi mới làm sữa chua, mình rất hay gặp hiện tượng sữa bị nhớt. Thậm chí đôi khi nhìn bên ngoài thấy sữa rất đặc, có thể dốc ngược mà không hề hấn gì. Nhưng khi xúc vào trong thì cảm giác như sữa dính lằng nhằng với nhau, giống như lòng trắng trứng vậy. Khi múc lên, miếng sữa cũng không tách rời ra được mà có một phần kéo theo (như phô-mai nướng trên Pizza ấy). Sữa chua bị nhớt cũng khác với sữa chua dẻo mềm, sữa chua dẻo mềm có thể hơi dính nhưng khi dùng thìa xúc vẫn tạo ra được miếng gọn gàng.</p>
+<p>Việc tìm nguyên nhân sữa bị nhớt làm cho mình rất đau đầu. Ngay cả bây giờ mình cũng không biết chắc chắn 100% tại sao sữa bị nhớt, nhưng từ kinh nghiệm rút ra sau mỗi lần bị nhớt và hỏi thêm cả chuyên gia về sữa thì đây là những lỗi có thể dẫn đến việc sữa bị nhớt</p>
+<p>* <strong>Men chưa hết lạnh và không được trộn vào sữa đúng cách</strong>.</p>
+<p><em>Sữa chua dùng làm men cần được để hết lạnh hoàn toàn và chuyển về trạng thái lỏng</em> chứ không cứng đặc như khi còn trong tủ lạnh. Việc này sẽ giúp cho khâu trộn sữa chua men với phần sữa còn lại dễ dàng hơn, và giúp cho vi khuẩn men không bị “sốc” nhiệt khi chuyển từ môi trường lạnh đến môi trường ấm.</p>
+<p>Nếu sữa chưa hết lạnh hoàn toàn thì khi trộn sẽ dễ có các “vụn” sữa chua không tan hết. Đặc biệt nếu dùng nhiều sữa chua làm men cái thì việc này càng dễ gặp phải hơn. Ngoài ra, nếu sữa chua không lỏng hoàn toàn, khi trộn sẽ có thể phải quấy mạnh tay, cũng làm ảnh hưởng tới hoạt động của men.</p>
+<p>* <strong>Ủ quá lâu ở nhiệt độ không ổn định (thấp hơn so với mức cần thiết)</strong></p>
+<p>Men hoạt động tốt nhất ở khoảng 40 – 44 độ C. Nên nếu giữ được nhiệt độ của sữa trong khoảng này thì sau khoảng 4h là sữa đã có thể đông chắc lại rồi. Như mình ủ bằng lò nướng thì cách 1,5 – 2h đồng hồ lại phải chỉnh nhiệt một lần. Tuy có hơi “phiền toái” vì phải canh lò, nhưng mình chưa bao giờ thành công với phương pháp ủ qua đêm mà không ngó ngàng gì đến sữa. Nếu bỏ mặc sữa qua đêm thì thường là sữa bị nhớt hoặc lỏng hoàn toàn.</p>
+<p>Nguyên nhân mình đoán có thể do dụng cụ ủ (lò nướng) của mình không được kín, và nhiệt độ bên này khá thấp. Nhiệt độ phòng ban ngày khoảng 20 độ C, đêm có thể thấp hơn, tầm 18 độ C. Theo một người bạn chuyên nghiên cứu về sữa chua thì nhiệt độ ủ quá thấp cũng làm cho hoạt động của men bất ổn định, gây ra hiện tượng nhớt. Vì vậy nên tuy theo dõi nhiệt độ có hơi “mất công” nhưng với mình thì đây là cách an toàn. Và thật ra thì vì sữa chua có thể bảo quản trong tủ lạnh hai tuần. Nên mình thường dành ra một buổi trong hai ngày cuối tuần đê làm một mẻ sữa chua cho cả tuần, cũng không quá mất công.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Nhân nói về cách ủ sữa chua, trong hai bài trước có khá nhiều bạn chia sẻ các cách hay để ủ sữa chua, mình xin trích lại để mọi người cùng tham khảo nhé:</p>
+<blockquote><p>– <strong>Cách 1</strong> (của cô sondamtranho@…..com): <em>M</em><span class="Apple-style-span" style="color: #222222;"><em>ua 1 thùng xốp nhỏ , xoi 1 lỗ nhỏ trên nắp thùng vừa đủ chui lọt qua sợi dây điện , gắn vào 1 bóng đèn 25 watt và 1 phích cắm , xếp sữa chua vào thùng xốp ,  xếp 2 , 3 tầng vẫn được nhưng phải chừa khoảng trống ở giữa thùng để thòng bóng đèn xuống. Cắm điện, bóng đèn sẽ giữ ấm cho sữa. Sau 3 hoặc 4 giờ sữa đông đặc rất ngon</em>.</span></p>
+<p><span class="Apple-style-span" style="color: #3d3d3d;">– <strong>Cách 2</strong> (của bạn Do Tam): <em>Dùng 1 cái nồi kim loại có lót 1 cái vĩ inox (hay dùng để lót nồi), đổ 1 lượng nước ấm vừa đủ ngập khoản 2/3 cốc sữa vào nồi,sắp các cốc sữa không đậy nắp vào,lấy khăn ăn bằng giấy đậy lên toàn bộ các cốc sữa xong đậy nắp nồi lại.(khi tôi đậy nắp cốc sữa rồi ủ thì hay bị nước đọng trên nắp nhiểu xuống mặt sữa nên phải đậy bằng khăn ăn).</em><br/>
+<em> Cứ để yên cái nồi này trên bếp ga(thường thì nhà ai cũng có bếp ga đôi nên có nấu nướng gì trong thời gian này thì dùng bếp còn lại),lâu lâu canh chừng sờ vào nồi thấy bớt ấm thì bật bếp nhỏ lửa vài giây rồi tắt ngay đủ để nồi ấm lên là được. Khoảng 4 giờ thì sữa đã đông,chỉ cần làm ấm lên 1 lần nữa rồi giải phóng nồi khỏi bếp ga xong cứ để vậy thêm khoảng 4 giờ nữa là sữa đã chua.</em></span></p>
+<p>&lt;ghi chú của Trang: Nếu làm theo cách này, các bạn lưu ý không bật bếp quá lâu làm phần đáy nồi bị quá nóng, có thể làm chết men hoặc gây tách nước ở đáy hũ sữa chua nhé&gt;</p></blockquote>
+<p>* <strong>Sữa nhiễm khuẩn trong quá trình lên men:</strong> Mặc dù dụng cụ đã được khử trùng nhưng nếu môi trường ủ không sạch, thì sau khoảng 6 – 10h ủ, sữa vẫn có thể nhiễm khuẩn từ môi trường ủ và bị nhớt.</p>
+<p>* <strong>Do loại men và hàm lượng Protein trong sữa</strong>: Nên dùng sữa có Protein cao một chút (hoặc thêm sữa bột), sẽ hạn chế được hiện tượng nhớt hơn.</p>
+<p>(*) <em><strong>Tin vui:</strong></em> sữa chua bị nhớt có thể “biến hóa” thành sữa chua Hy Lạp nên đừng đổ đi nhé (cách làm bài sau sẽ có).</p>
+<p>2. <span style="text-decoration: underline;"><strong>Sữa chua có vị bột hoặc nhám</strong></span></p>
+<p>* Nếu có sử dụng sữa bột, <strong>cần đảm bảo sữa bột được quấy tan hoàn toàn</strong> trong hỗn hợp sữa lỏng</p>
+<p>* Trong quá trình ủ, <strong>sữa bị lay động nhiều hoặc lay động mạnh</strong> (đôi khi có những nguyên nhân mà người làm có thể không để ý như ủ trong lò và bật đèn để ủ, lò hoạt động gây rung nhẹ bên trong, cũng ảnh hưởng tới độ mịn của sữa).</p>
+<p>* <strong>Trộn men cái với sữa không đều</strong></p>
+<p>3. <span style="text-decoration: underline;"><strong>Sữa bị tách nước</strong></span>: đôi khi trên bề mặt sữa chua có thể có một lớp nước màu vàng nhạt. Lớp nước này (tiếng Anh gọi là whey) là hoàn toàn bình thường, và cũng có chứa nhiều chất dinh dưỡng, có thể uống được nên không nhất thiết phải đổ đi. Lớp nước này có thể xuất hiện do các nguyên nhân sau:</p>
+<p>* <strong>Nhiệt độ ủ hơi cao quá</strong></p>
+<p>* <strong>Có sự xê dịch, lay động, quấy đảo sữa trong quá trình ủ (</strong>thường nước đi kèm với sữa chua bị vữa)</p>
+<p>Ngoài ra, hiện tượng (2) và (3) còn có thể do một nguyên nhân được giải thích từ chuyên gia là do <strong>trong sữa tươi có hàm lượng kháng sinh hơi cao</strong> . Kháng sinh này ức chế men trong sữa, hạn chế hoạt động của men. Nên sản phẩm sữa chua làm từ sữa tươi loại này sẽ kém mịn mượt, có thời gian lên men dài hơn và dễ tách nước.</p>
+
+
+<p>Kiểm tra điều này có lẽ là hơi khó nên lại quay về <em>checklist </em>ở đầu bài là dùng loại sữa nào mà bạn tin cậy và khi làm cho mùi vị sữa chua thơm ngon như ý muốn, có lẽ là cách giải quyết yên tâm nhất.</p>
+<p><img alt="yog fail jan 2012" class="aligncenter size-full wp-image-5170" height="405" loading="lazy" sizes="(max-width: 540px) 100vw, 540px" src="/wp-content/uploads/2014/06/yog-fail-jan-2012-e1403531157753.jpg" width="540"/></p>
+<p>4. <span style="text-decoration: underline;"><strong>Sữa không đủ chua:</strong></span> Nếu sữa đông đặc mịn nhưng không đủ chua thì  các bạn có thể tăng thời gian ủ. Thông thường với công thức như mình đưa trong bài trước thì mình ủ trong khoảng 4 – 6h nếu muốn ăn ngọt nhiều và 6 – 7h nếu muốn vị chua rõ hơn. Còn nếu sữa không chua và không đông thì xem mục (6)</p>
+<p>5. <span style="text-decoration: underline;"><strong>Sữa không đủ ngọt</strong></span>: tăng sữa đặc hoặc cho thêm đường, nhưng mình ủng hộ việc tăng sữa đặc hơn vì nó sẽ giúp tăng cả Protein trong sữa, giúp sữa chua có độ đông đặc mịn tốt hơn.</p>
+<p>6. <span style="text-decoration: underline;"><strong>Sữa không đông</strong></span> <strong><span style="text-decoration: underline;">(và không chua)</span></strong></p>
+<p>* Do chất lượng men: Men cũ, ít vi khuẩn men hoặc vi khuẩn men hoạt động yếu.</p>
+<p>* Do chất lượng sữa: Sữa có dư lượng kháng sinh cao làm ảnh hưởng đến men (xem giải thích cuối mục (3) ).</p>
+<p>* Do nhiệt độ ủ hoặc nhiệt độ sữa quá cao làm chết men</p>
+<p>7. <span style="text-decoration: underline;"><strong>Sữa lỏng nhưng chua nhiều, có thể bị nhớt</strong></span></p>
+<p>* Protein trong sữa thấp</p>
+<p>* Nhiệt độ ủ không ổn định, ủ quá lâu</p>
+<p>—————</p>
+<p>Hết phần 3 – Trong bài tiếp theo mình sẽ viết về cách làm sữa chua Hy Lạp &amp; sữa chua dẻo nhé.</p>
+<p><em>Chân thành cảm ơn bạn Quỳnh Anh (email: <span class="Apple-style-span" style="color: #555555;">quynhanh146xx@….com</span> ) đã rất nhiệt tình cung cấp thêm thông tin về quy trình, các chú ý khi làm sữa chua</em></p>
+<p><em>Hình ảnh trong bài là hình ảnh sưu tầm, được tìm thấy bằng từ khóa “yogurt troubleshooting” qua Google image. </em></p>
+<hr/>
+<p>Các bạn có thể xem tổng hợp về loạt bài “Cách làm sữa chua tại nhà” tại đường dẫn sau</p>
+<ul>
+<li><a href="/tu-lam-sua-chua-tai-nha-nhung-viec-nen-va-khong-nen-lam/" target="_blank">Tổng hợp về loạt bài “Cách làm sữa chua tại nhà: Các công thức và cách khắc phục các vấn đề thường gặp”</a></li>
+</ul>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

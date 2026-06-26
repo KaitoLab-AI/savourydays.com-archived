@@ -1,0 +1,86 @@
+---
+title: "2 cách làm khô gà xé (mềm dai và giòn dẻo) [VIDEO]"
+date: "2016-11-19"
+slug: "2-cach-lam-kho-ga-xe-mem-dai-va-gion-deo-video"
+categories: []
+tags: []
+image: "/wp-content/uploads/2016/11/cách-làm-khô-gà-xé-cay-banner.jpg"
+description: "Học cách làm khô gà xé cay ngon, hai kiểu: mềm dai và giòn dẻo với Savoury Days. Công thức kèm video minh hoạ và hướng dẫn chi tiết để tránh thất bại"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Thịt gà lườn là món không được ưa chuộng lắm ở nhà mình. Nếu như có luộc cả con gà thì phần lườn thường sau đó sẽ được cho vào nồi cháo, nấu miến hoặc làm nộm gỏi với mục đích dùng các thứ nguyên liệu khác để “đánh lạc hướng” sự khô, bở, bã của lườn gà. Nhưng mà kể cả có làm mấy món này thì cũng chỉ tiêu thụ được một phần thịt thôi. Ngày Tết trong nhà lúc nào cũng có vài ba con gà béo múp, phần lườn dày thịt có làm chục đĩa nộm cũng chưa hết được. Nhiều khi chỉ nghĩ cách làm sao giải quyết hết thịt gà trong tủ lạnh cũng là vấn đề nan giải.</p>
+<p>Nhưng năm tới thì yên tâm không phải lo chuyện này nữa rồi. Nhà có bao nhiêu thịt lườn gà sẽ được mang làm khô gà xé cay hết ^.^ Thịt lườn gà làm món này như kiểu được biến hoá thành một loại thịt mới. Hoàn toàn không còn vị khô bã nữa mà mềm ngọt, hơi dai dai, lại có hương vị rất hấp dẫn nhờ hành, tỏi, sả, ớt, ngũ vị hương. Kiểu mùi vị cũng như thịt bò khô nhưng thanh hơn. Còn cách làm thì nhanh và đơn giản hơn thịt bò khô nhiều. Dùng để nhậu lai rai cực ngon mà dùng kèm cơm hay xôi trắng cũng rất hợp.</p>
+<p>Trong bài này mình xin giới thiệu với các bạn hai kiểu làm khô gà xé là kiểu <strong>mềm, dai, khô, tơi </strong>(giống kiểu ruốc thịt) và <strong>giòn, dẻo, hơi ướt</strong>. Mỗi thứ đều có kiểu ngon riêng nên hơi khó nói kiểu nào ngon hơn, nên các bạn có thể làm thử rồi chọn theo khẩu vị nhé. Mình thì hay dùng kiểu mềm dai để ăn với cơm hay ăn vã, còn kiểu ướt dẻo thì trộn nộm đu đủ (giống kiểu nộm đu đủ khô bò :) ).</p>
+<p><img alt="cach-lam-kho-ga-xe-cay" class="aligncenter size-full wp-image-7256" height="2262" loading="lazy" sizes="(max-width: 3400px) 100vw, 3400px" src="/wp-content/uploads/2016/11/cách-làm-khô-gà-xé-cay.jpg" width="3400"/></p>
+<h2>CÁCH LÀM KHÔ GÀ XÉ CAY</h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu </strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><strong>Gia vị luộc cùng thịt gà </strong></p>
+<ul>
+<li><em>450 g thịt lườn gà đã bỏ xương </em></li>
+<li><em>5 lát gừng to </em></li>
+<li><em>3 củ hành khô/ hành hương (shallots)</em></li>
+<li><em>2 lá chanh (không bắt buộc) (kaffir lime leaves) </em></li>
+</ul>
+<p><strong>Gia vị ướp gà</strong></p>
+<ul>
+<li><em>10 g tỏi (khoảng 1/2 củ tỏi to của nước ngoài hoặc 1 củ tỏi nhỏ của Việt Nam)</em></li>
+<li><em>20 g sả (khoảng 3 cây) </em></li>
+<li><em>5 g hành khô (1 – 2 củ) </em></li>
+<li><em>1 thìa canh đường nâu (12 – 14 gram)</em></li>
+<li><em>1 thìa canh nước mắm (15 ml) </em></li>
+<li><em>1/2 thìa canh bột ớt </em></li>
+<li><em>1/8 thìa cafe ngũ vị hương </em></li>
+<li><em>2 – 3 thìa canh dầu ăn (30 – 40 ml) – dùng cho loại gà giòn dẻo </em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Ghi chú</strong></span></p>
+<ul>
+<li>Định lượng gia vị ướp: tỏi, sả, hành khô, đường, mắm, ớt… có thể thay đổi theo khẩu vị của bạn và độ mặn nhạt của loại nước mắm bạn dùng. <strong>Nên pha riêng nước ướp rồi nếm thử và điều chỉnh theo khẩu vị</strong> trước khi trộn vào thịt</li>
+<li>Định lượng trên đủ cho 450 g thịt gà. Trong video mình làm cả 2 cách nên chia đôi nguyên liệu, do vậy mọi thứ đều chỉ bằng 1 nửa so với lượng ghi trong công thức.</li>
+<li>Có thể dùng nhiều tỏi và sả nhưng <strong>nên dùng vừa phải ngũ vị hương, </strong>nếu không thịt sẽ dễ bị hắc</li>
+<li>Có thể dùng đường trắng thay cho đường nâu nhưng đường nâu cho mùi vị và màu sắc đẹp, thơm ngon hơn</li>
+<li>Mình dùng bột ớt Hàn Quốc (loại để làm kim chi), bột ớt này cho món ăn màu đỏ rất đẹp</li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm </strong></span></p>
+<p>Trước khi quay video cách làm dưới đây thì mình có thử một số cách chế biến và pha gia vị khác nhau, rút ra được một số “bài học xương máu”, mình ghi lại ở dưới đây để các bạn cân nhắc, tránh lặp lại sai lầm giống mình nhé.</p>
+<ol>
+<li>Thịt gà không giống thịt bò nên <strong>đừng dùng cách làm + gia vị ướp bò khô để làm món khô gà. </strong>Thịt gà về cơ bản có hương vị thanh và nhẹ nhàng, nên <span style="color: #ff0000;">không cần chế biến quá nhiều (dễ làm gà mất chất) và gia vị ướp cũng nên đơn giản</span>, đừng dùng quá nhiều thứ linh tinh sẽ dễ bị loạn và làm hỏng hương vị riêng của thịt gà.</li>
+<li><strong>KHÔNG rán gà trước khi xào</strong>. Việc rán gà này sẽ làm gà mất hết chất và trở nên cực kì bã.</li>
+<li>Với cách làm ở dưới đây thì luộc hay hấp gà không tạo ra sự khác biệt nhiều. Tuy nhiên mình chọn luộc gà vì đơn giản hơn và có thể dùng được nước luộc gà để xào thịt.</li>
+</ol>
+<p>Video hướng dẫn cách làm khô gà đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo <a href="https://youtu.be/ZMY7AZjTSuQ" target="_blank"><strong>link này</strong></a> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="/demo-flan-creme-caramel-kem-caramel/" target="_blank">cách làm bánh flan này.</a> </strong></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/ZMY7AZjTSuQ" width="560"></iframe></div>
+<p> </p>
+<p><strong>TÓM TẮT CÁC BƯỚC</strong></p>
+<p>1. Luộc gà:</p>
+<p>– Cho lườn gà vào nồi cùng gừng, hành, lá chanh và chút muối. Đổ nước lạnh ngập thịt gà. Đun lửa to.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>– Khi nước sôi mạnh thì hạ lửa vừa và hớt sạch bọt trong nồi. Luộc thịt ở lửa vừa khoảng 5 – 10 phút tuỳ độ dày của miếng thịt. Tắt bếp đậy vung thêm 10 – 15 phút rồi vớt thịt ra để nguội, giữ nước dùng (để xào thịt và nấu canh :) ).</p>
+<p>– Lưu ý:</p>
+<ul>
+<li>Thịt lườn gà chín nhanh, không nên luộc quá kĩ, lườn gà sẽ dễ bị khô và bở</li>
+<li>Nên cho gà vào cùng nước lạnh thay vì đun sôi nước rồi mới cho thịt gà vì cách làm sau dễ làm cho phần ngoài thịt bị khô</li>
+</ul>
+<p>2. Trong lúc đợi gà nguội, chuẩn bị các nguyên liệu ướp gà. Bóc vỏ và băm nhuyễn hành, tỏi, sả.</p>
+<p>3. Khi thịt đã nguội thì xé thành sợi vừa phải, không quá to hay nhỏ.</p>
+<p>4. Xào thịt: ở bước này có 2 cách làm để cho ra 2 loại sản phẩm <strong>khô gà mềm tơi dai</strong> và <strong>khô gà giòn dẻo. </strong>Gia vị của 2 món giống hệt nhau, chỉ khác trong thao tác chế biến.</p>
+<p>* <strong>Cách 1</strong>: <strong>Khô gà mềm, tơi, dai </strong></p>
+<p>– Cho vào chảo chống dính khoảng 80 – 100 ml nước luộc gà cùng các nguyên liệu ướp gà gồm hành, tỏi, sả bằm, nước mắm, đường, ớt, ngũ vị hương. Trộn đều rồi cho thịt gà vào trộn cùng tới khi ngấm gia vị.</p>
+<p>– Nếm lại thịt và điều chỉnh vị mặn ngọt theo khẩu vị. Lưu ý là sau khi xào khô thịt sẽ đậm vị hơn. Do vậy ở bước này nên nêm nhạt một chút.</p>
+<p>– Xào thịt trên lửa vừa, đảo liên tục tới khi nước bay hơi hết và thịt khô như ý muốn. Khi nước gần cạn hết có thể nêm nếm lại một lần nữa.</p>
+<p>– Thịt sau khi xào xong sẽ khô ráo và mềm ngọt, hơi dai, gia vị đậm đà vừa ăn. Bảo quản thịt trong hộp kín, để tủ lạnh, nên dùng trong 1 tuần.</p>
+<p>* <strong>Cách 2: Khô gà giòn dẻo, ướt </strong></p>
+<p>– Đun nóng 2 thìa canh dầu ăn trên lửa vừa, cho hành, tỏi, sả vào phi thơm rồi bắc chảo ra khỏi bếp.</p>
+<p>– Cho vào chảo 80 – 100 ml nước luộc gà cùng các gia vị ướp thịt gà gồm mắm, đường, ớt, ngũ vị hương, trộn đều. Cho thịt gà vào trộn cùng tới khi ngấm gia vị.</p>
+<p>– Nếm lại thịt và điều chỉnh vị mặn ngọt theo khẩu vị. Lưu ý là sau khi xào khô thịt sẽ đậm vị hơn. Do vậy ở bước này nên nêm nhạt một chút.</p>
+<p>– Bắc chảo lên bếp, xào thịt trên lửa to tới khi nước bay hơi hết và thịt khô ráo. Đảo tới khi cạnh ngoài thịt hơi xém giòn thì bắc ra khỏi bếp. Đổ thịt lên đĩa có lót giấy thấm dầu. Đợi thịt nguội thì cho vào hộp sạch, để tủ lạnh dùng trong 1 tuần.</p>
+
+
+<p>– Về cơ bản cách làm này không khác cách 1 nhiều. Nhưng việc sử dụng dầu ăn sẽ giúp cho thịt được “rán áp chảo” (sau khi nước bay hơi hết) và do đó có phần ngoài giòn trong khi bên trong thịt thì mềm dẻo.</p>
+<p>Chúc các bạn thành công! :)</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

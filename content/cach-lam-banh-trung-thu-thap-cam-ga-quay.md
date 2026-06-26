@@ -1,0 +1,79 @@
+---
+title: "Cách làm BÁNH TRUNG THU THẬP CẨM GÀ QUAY"
+date: "2021-09-08"
+slug: "cach-lam-banh-trung-thu-thap-cam-ga-quay"
+categories: []
+tags: []
+image: ""
+description: "Cách làm bánh trung thu thập cẩm gà quay với phần nhân mặn dẻo bùi thơm phức, vỏ bánh mềm vừa ăn, công thức có video hướng dẫn chi tiết."
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #ff0000;"><strong>GÓC NHẮC NHẸ: Chương trình HỖ TRỢ HỌC PHÍ CÁC LỚP LÀM BÁNH ONLINE mùa dịch với mức cực sâu (lên tới 30%) CHỈ CÒN VÀI NGÀY NỮA thôi ạ.</strong></span></p>
+<p><span style="font-weight: 400; color: #000000;">Đây cũng là cơ hội cuối cùng để bạn được học từ A – Z những loại bánh Trung thu hot nhất với mức học phí cực tốt nên mọi người nhanh chân nhanh tay lên nha </span></p>
+<p><span style="color: #000000;"><span style="font-weight: 400;"> Bạn xem chi tiết chương trình học tại đây:</span> <span style="color: #0000ff;"><a href="https://bit.ly/chuongtrinhhocSD" style="color: #0000ff;"><span style="font-weight: 400;">https://bit.ly/chuongtrinhhocSD</span></a></span></span></p>
+<p><span style="color: #000000;"><span style="font-weight: 400;"> Để đăng ký khóa học, cả nhà điền vào form này:</span><span style="color: #0000ff;"><a href="https://bit.ly/dangkykhoahocSD" style="color: #0000ff;"> <span style="font-weight: 400;">https://bit.ly/dangkykhoahocSD</span></a></span><span style="font-weight: 400;"> nhé</span></span></p>
+<hr/>
+<p><span style="font-weight: 400; color: #000000;">Cả nhà đã chuẩn bị Trung thu tới đâu rồi ạ? Sau nhân Thập cẩm – Xá xíu rất được mọi người ủng hộ, tụi mình lại có ngay một công thức nhân mặn ngon không kém, là Thập cẩm – Gà nướng mật ong đây ạ 😁</span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="font-weight: 400; color: #000000;">Bạn nào cũng ngại vị ngọt của bánh Trung thu thì nhất định nên thử nhân này nha, nhân mặn tự làm dễ ăn hơn rất nhiều đấy. Thịt gà nướng có thể làm một mẻ lớn, vừa làm bánh Trung thu, làm nhân bánh mì, hay ăn kèm cơm đều rất ngon ;)</span></p>
+<p><span style="font-weight: 400; color: #000000;">Trung thu năm nay ai ở nhà nấy, mâm cỗ trông trăng tại gia với những chiếc bánh Trung thu nhà làm ít ngọt có lẽ là cách ý nghĩa, vui và..tiết kiệm nhất để đón chị Hằng xuống chơi, nhỉ? ^^</span></p>
+<h2><span style="color: #800000;">Cách làm BÁNH TRUNG THU THẬP CẨM GÀ QUAY </span></h2>
+<p><span style="color: #000000;"><b>Nguyên liệu </b></span></p>
+<p><span style="color: #000000;"><b>A. Thịt gà nướng mật ong</b></span></p>
+<ul>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">400 gram thịt ức gà</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">1 tsp bột tỏi</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">1 tsp bột hành</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">1/2 tsp bột gừng</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">1.5 tsp bột ngũ vị hương</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">2 tsp đường</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">3 tsp mật ong</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">2 tsp rượu Mai Quế Lộ</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">1.5 tbsp xì dầu</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">2 tbsp dầu hào</span></i></span></li>
+</ul>
+<p><span style="color: #000000;"><b>B. Sốt mật ong</b></span></p>
+<ul>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">1 tsp bột tỏi</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">1 tsp bột hành</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">1/2 tsp bột gừng</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">1.5 tsp bột ngũ vị hương</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">2 tsp đường</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">4 tsp mật ong</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">2 tsp rượu Mai Quế Lộ</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">1 tbsp xì dầu</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">1 tbsp dầu hào</span></i></span></li>
+</ul>
+<p><span style="color: #000000;"><i><span style="font-weight: 400;">* Cần pha riêng phần sốt này để xào thịt và trộn nhân (thay vì dùng sẵn nước ướp thịt) vì tùy từng miếng thịt khác nhau sẽ làm thay đổi vị và lượng sốt ướp còn lại sau khi ướp qua ngày → Cần pha riêng sốt khác để đảm bảo hương vị.</span></i></span></p>
+<h3><span style="color: #800000;"><b><i>C. Nhân thập cẩm gà nướng mật ong</i></b></span><span style="color: #000000;"> <i><span style="font-weight: 400;">(cho khoảng 8 bánh 150 gram)</span></i></span></h3>
+<ul>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">60 gram hạt điều</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">30 gram hạt bí</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">30 gram hạt dưa</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">20 gram vừng</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">120 gram mứt sen</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">30 gram mứt trần bì</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">50 gram mỡ đường</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">30 gram lạp xưởng</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">240 gram thịt gà nướng (đã sơ chế)</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">2 gram lá chanh (6-8 lá vừa)</span></i></span></li>
+</ul>
+<p><span style="color: #000000;"><b>* Phần kết dính:</b></span></p>
+<ul>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">30 gram sốt mật ong</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">90 gram nước</span></i></span></li>
+<li><span style="color: #000000;"><i><span style="font-weight: 400;">42-48 gram bột bánh dẻo</span></i></span></li>
+</ul>
+<p><strong>Cách làm </strong></p>
+<p><span style="font-weight: 400; color: #000000;">– Trong video đã hướng dẫn rất cụ thể về cách xử lý thịt, nên tụi mình không gõ lại cách làm ở đây, các bạn xem trong video nha: </span></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/J0VDz7yLKUQ" width="560"></iframe></div>
+<p><span style="font-weight: 400; color: #000000;">– Với riêng phần trộn nhân thập cẩm, các bạn xem cách làm và các lưu ý tại đây:</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #0000ff;"><a href="/banh-trung-thu-nhan-thap-cam-nhan-sua-dua/" style="color: #0000ff;"><span style="font-weight: 400;">/banh-trung-thu-nhan-thap-cam-nhan-sua-dua/</span></a></span></p>
+<p>– Cách làm vỏ bánh nướng có ở đây nhé: <a href="/banh-trung-thu-cach-lam-banh-nuong/">/banh-trung-thu-cach-lam-banh-nuong/</a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

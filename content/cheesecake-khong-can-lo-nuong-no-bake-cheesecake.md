@@ -1,0 +1,59 @@
+---
+title: "Cheesecake không cần lò nướng – No-bake cheesecake"
+date: "2012-05-01"
+slug: "cheesecake-khong-can-lo-nuong-no-bake-cheesecake"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/05/NoBakeCheeseCake.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Mùa hè đến rùi, bên mình mấy ngày hôm nay cũng có ánh nắng, nhiệt độ ấm áp hơn. Buổi trưa nhìn ra ngoài đường thấy mọi người mặc cả quần cộc áo cộc rồi ấy ^^ Hè đến rồi nên bạn Trang cũng chính thức khởi động “dự án” các món tráng miệng lạnh cho mùa hè, mong sẽ được cả nhà nhiệt tình ủng hộ (bằng cách làm thử và phản hồi nhé ;) ).</p>
+<p>Đầu tiên chắc là nên liệt kê một số món từ năm ngoái đã được rất nhiều bạn thích, cụ thể là</p>
+<p>1.<a href="/?p=293"> Sữa chua hoa quả</a> (có thể làm dạng verrines, gồm các lớp sữa chua xen kẽ với các lớp hoa quả như mứt dâu, chuối xay, mứt xoài..)</p>
+<p>2. <a href="/?p=491">Kem Caramel kiểu Nhật Bản – Purin</a> (món này gần giống với bánh Flan hay Caramel, nhưng không cần hấp hay nướng gì cả, rất dẻo và mát, lại thơm mùi cafe ;) )</p>
+<p>3. <a href="/?p=251">Chè bobo chacha</a> :P</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>4. <a href="/?p=439">Mousse chocolate và mousse dâu tây</a></p>
+<p>5. <a href="/?p=412">Mousse xoài chanh leo &amp; sữa chua mật ong </a></p>
+<p>6. <a href="/?p=161">Lassi xoài chanh leo </a></p>
+<p>7. Một số loại kem hoa quả, không dùng máy: <a href="/?p=275">Sorbet sữa chua dâu tây</a> &amp; <a href="/?p=171">Sorbet xoài chanh leo </a></p>
+<p>Đây là một vài món tiêu biểu của mùa hè năm ngoái, còn năm nay thì món ăn mở hàng là no bake cheesecake, hay là cheesecake không cần lò nướng. Cá nhân mình thì thích món này lắm lắm lắm lắm lắm luôn :P Tại vì làm siêu nhanh và siêu đơn giản, chắc mất tầm 10-15 phút gì đấy. Ăn cũng ngon nữa, vẫn có vị ngậy béo và chua dịu của cream cheese (và mát lạnh), nhưng không có cảm giác bứ như ăn cheesecake loại nướng.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7130838531/" title="No bake cheesecake with Strawberries  by LinhTrang9185, on Flickr"><img alt="No bake cheesecake with Strawberries " class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7116/7130838531_4ca6e4ffa5_z.jpg" width="431"/></a></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong>Phần đế bánh </strong></p>
+<ul>
+<li><em>60gram bánh quy </em></li>
+<li><em>40gram bơ nhạt </em></li>
+<li><em>10gram đường</em></li>
+<li><em>1gram bột quế (không bắt buộc, nhưng nên cho vào, vì thơm lắm :) )</em></li>
+</ul>
+<p><em><span id="more-2433"></span><strong>Phần kem</strong></em></p>
+<ul>
+<li><em>135gram cream cheese</em></li>
+<li><em>20gram đường</em></li>
+<li><em>2/3 thìa cafe vanilla</em></li>
+<li><em>120gram kem tươi (whipping cream) – nên dùng loại có thành phần béo cao, từ 35-40% – để lạnh</em></li>
+<li><em>Dâu tây để trang trí (không bắt buộc, có thể thay bằng các loại mứt quả hoặc hoa quả tươi khác)</em></li>
+</ul>
+<p><strong><em>* Ghi chú:</em></strong></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><em>Công thức này làm được 4 bánh nhỏ, dùng khuôn tart cỡ đường kính đáy 8cm, đường kính miệng 10cm, cao khoảng 2cm. Các bạn có thể dùng ring mousse, nhưng cheesecake là loại bánh khá béo nên đừng làm lớp kem dày quá nhé, ăn sẽ dễ bị ngấy. </em></p>
+<p><em>Ngoài ra, làm cheesecake kiểu này tốt nhất là dùng khuôn đế rời, hoặc ring mousse cũng OK. Nếu các bạn dùng khuôn đế liền, nên dùng nilon bọc thực phẩm lót khuôn để khi lấy bánh ra được dễ dàng.</em></p>
+<p><strong><span style="color: #800000;">Cách làm</span></strong></p>
+<p>1. Chuẩn bị khuôn (hình 1). Bánh quy nghiền vụn (mình dùng food processor – là một dạng máy xay). Nghiền thật vụn nhé, về sau đế bánh sẽ kết dính tốt hơn. Các bạn có thể dùng các loại bánh quy bơ thông thường, hoặc Oreo cũng ngon (hình 2-3).</p>
+<p>2. Bơ cho vào lò vi sóng quay khoảng 15-20 giây cho tan chảy (hoặc chưng cách thủy cho bơ chảy) (hình 4). Trộn bơ với bánh quy nghiền vụn (hình 5).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6984753780/" title="2012-04-29 by LinhTrang9185, on Flickr"><img alt="2012-04-29" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8164/6984753780_f7638a6a25.jpg" width="500"/></a></p>
+<p>3. Chia hỗn hợp bánh quy trộn bơ ở (2) thành 4 phần, ấn vào các khuôn làm đế bánh (hình 6). *<strong>Lưu ý: cố gắng nén thật chặt.</strong> Để các khuôn vào tủ lạnh cho phần đế cứng lại. Nếu dùng khuôn đế liền thì nhớ lót nilon vào khuôn trước khi làm đế bánh (lót sao cho khi lấy bánh ra chỉ cần kéo nilon lên là có thể rút bánh ra khỏi khuôn được).</p>
+<p>4. Đánh bông kem tươi với đường, đến khi kem tươi bông đứng và tạo chóp, có thể úp ngược tô mà kem không bị rơi hay dịch chuyển (hình 7-8). Cách đánh bông kem tươi &amp; một số mẹo đánh bông kem tươi tại <strong><a href="/?p=1206">ĐÂY</a></strong></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6984753856/" title="2012-04-291 by LinhTrang9185, on Flickr"><img alt="2012-04-291" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7066/6984753856_6708991008.jpg" width="500"/></a></p>
+<p>5. Trong một âu khác dùng phới lồng hoặc thìa gỗ đánh cream cheese với vanilla đến khi cream cheese mềm nhuyễn (hình 9). Chia kem tươi đã đánh bông thành 2-3 phần, cho từng phần vào âu cream cheese, nhẹ nhàng trộn đều (tốt nhất là trộn theo kiểu Fold, tránh để kem tươi bị tách nước) (hình 10-11). Hỗn hợp kem cuối cùng sẽ khá đặc, đặc hơn kem tươi đánh bông để trang trí bánh :)</p>
+<p>6. Chia phần kem vào các khuôn (hình 12). Để lạnh tối thiểu 6-8 tiếng cho hỗn hợp đông lại. Giữ lạnh đến khi ăn. Trang trí bằng hoa quả tươi, hoặc ăn kèm mứt hoa quả (mình cắt lát dâu tây và xếp lên mặt bánh).</p>
+<p><em>* Nếu muốn bánh đông nhanh và chắc hơn thì các bạn có thể dùng 1 lá Gelatin (2 gram, có thể thay bằng Gelatin bột), ngâm với 1 thìa canh nước lạnh khoảng 15 phút cho nở (nếu là Gelatin bột thì ngâm với 2 thìa cafe nước). Chắt bớt nước trong bát (nếu là Gelatin lá), để lại khoảng 1 thìa cafe, rồi cho vào lò vi sóng quay khoảng 10-15 giây và quấy đều cho Gelatin tan hết. Trộn Gelatin này với hỗn hợp kem ở bước 5.</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7128638493/" title="IMG_3966-1 by LinhTrang9185, on Flickr"><img alt="IMG_3966-1" class="aligncenter" height="500" loading="lazy" src="http://farm8.staticflickr.com/7178/7128638493_a005f3b6b0.jpg" width="499"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

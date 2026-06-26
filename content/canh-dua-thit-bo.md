@@ -1,0 +1,49 @@
+---
+title: "Canh dưa thịt bò"
+date: "2011-10-26"
+slug: "canh-dua-thit-bo"
+categories: []
+tags: []
+image: "/wp-content/uploads/2011/10/canh-dua-bo1.jpg"
+description: "Cách nấu canh dưa thịt bò"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Canh dưa thịt bò là một trong những món canh cực kì khoái khẩu của mình. Nhât là trong cái tiết trời ẩm ương ở đây (nhiệt độ buổi sáng và tối khoảng 1-5 độ, mưa gió) mà bữa cơm có 1 bát cơm trắng với bát canh dưa chua thì cảm thấy đời không còn gì hạnh phúc &amp; sung sướng hơn ý ^^ Dưa có thể nấu canh với sườn hoặc với thịt bò, kiểu gì cũng ngon, mình thì hay nấu với thịt bò gân tại vì thích cái vị giòn sần sật của gân bò, thích cả mùi thơm rất đặc trưng của thịt bò với dưa xào nữa. Nấu canh này mùa đông thì chỉ có một vấn đề duy nhất là phải tự kiềm chế, không có thì bao nhiêu cũng hết, rồi lại rơi vào bi kịch “lăn nhanh hơn đi” :P</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6282558353/" title="Beef &amp; Pickled mustard green Soup by LinhTrang9185, on Flickr"><img alt="Beef &amp; Pickled mustard green Soup" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6110/6282558353_8c4efe19fa_z.jpg" width="474"/></a></p>
+<p><strong>Nguyên liệu (làm được 1 bát canh to cho 4 người)</strong></p>
+<ul>
+<li><em>200gram thịt bò gân</em></li>
+<li><em>200gram dưa cải muối chua</em></li>
+<li><em>1 củ hành khô</em></li>
+<li><em>1 tép tỏi</em></li>
+<li><em>1 quả cà chua to</em></li>
+<li><em>200ml nước dùng xương (hoặc nước sôi bình thường cũng được, nhưng nước ninh xương thì ngon hơn)</em></li>
+<li><em>Nước mắm hoặc bột gia vị, đường, hạt tiêu </em></li>
+<li><em>Dầu ăn</em></li>
+<li><em>Hành lá &amp; rau sống ăn kèm (không bắt buộc)</em></li>
+</ul>
+<p><em>* <strong>Cách làm dưa muối các bạn có thể tham khảo ở <a href="/?p=1042">ĐÂY</a>, hoặc nếu bạn nào ở nước ngoài và ngại làm thì mình thấy trong chợ châu Á cũng hay có bán dưa muối sẵn đóng thành bịch – tên tiếng Anh là <span style="text-decoration: underline;">Pickled mustard greens</span> nhé. </strong><br/>
+</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6282558487/" title="Beef &amp; Pickled mustard green Soup by LinhTrang9185, on Flickr"><img alt="Beef &amp; Pickled mustard green Soup" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6054/6282558487_4e4871d1cf_z.jpg" width="451"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span id="more-1064"></span></p>
+<p><strong>Cách làm</strong></p>
+<p>1. Thịt bò thái lát mỏng. Ướp với 1 thìa café bột gia vị và một chút hạt tiêu. Để khoảng 15-20 phút.</p>
+<p>Trong lúc đợi thịt bò ướp thì chuẩn bị các nguyên liệu khác:</p>
+<ul>
+<li>Cà chua rửa sạch, bổ múi cau.</li>
+<li>Dưa vắt kiệt nước. Nếu dưa chua quá thì có thể rửa sơ cho bớt chua.</li>
+<li>Hành khô bóc vỏ, băm nhỏ. Tỏi bóc vỏ băm nhỏ,</li>
+</ul>
+<p>2. Bắc nồi lên bếp. Cho 1 thìa dầu ăn vào nồi. Đợi dầu sôi thì cho ½ số hành tỏi vào phi thơm. Đổ thịt bò vào xào lửa to trong khoảng 2-3 phút, đổ nước dùng xương vào, vặn lửa to đun sôi, hớt bọt nếu có. Hạ lửa nhỏ ninh cho gân bò mềm.</p>
+<p>3. Trong lúc đợi ninh gân bò thì bắc chảo lên bếp. Cho ½ thìa dầu ăn vào chảo, phi thơm chỗ hành tỏi còn lại. Cho cà chua vào chảo xào trong 2-3 phút cho cà chua tương đối mềm. Tiếp theo cho dưa vào xào cùng cà chua trong khoảng 3-5 phút. Nêm khoảng 1 thìa đường để làm dịu bớt vị mặn của dưa. <em>Lưu ý là kể cả nếu thấy dưa hơi mặn thì cả nhà cũng đừng cho quá nhiều đường nhé vì sau này có thêm nước dùng thì dưa sẽ nhạt hơn và bát canh sẽ thành vừa</em>.</p>
+<p>4. Cho dưa &amp; cà chua vào nồi. Nấu thêm khoảng 5 – 10 phút. Nêm lại gia vị cho vừa ăn.</p>
+<p>5. Múc canh ra bát, dùng nóng. Có thể ăn kèm rau sống hoặc phần cọng hành trắng tước sợi.</p>
+<p>Chúc các bạn ngon miệng ;)</p>
+<div align="center" id="google-ads-body-post-end">
+
+
+</div><!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

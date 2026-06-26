@@ -1,0 +1,80 @@
+---
+title: "Demo: Doughnut (Donut) (công thức chiên/rán)"
+date: "2014-02-23"
+slug: "demo-doughnut-donut-cong-thuc-chien-ran"
+categories: []
+tags: []
+image: "/wp-content/uploads/2014/02/Doughnut.jpg"
+description: "cách làm doughnut, công thức doughnut, donut"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Vốn dĩ Doughnut không phải là món bánh mà mình thích. Với mình nó giống như bông hoa có sắc nhưng không hương, trông thì bắt mắt đấy nhưng khi ăn vào chỉ thấy toàn đường với bột. Nhưng Doughnut <em>home-made </em>thì rất khác. Vì tự làm nên cắn vào đã cảm thấy vị tươi mới, mềm xốp của bột mì, thơm ngậy của bơ. Doughnut rán mới lấy ra khỏi chảo còn được “khuyến mại” một lớp vỏ mỏng giòn tan ở bên ngoài nữa. Bánh nóng hổi, chỉ cần  lăn qua tí đường bột thôi cũng đã thấy ngon lắm rồi. Nếu muốn cầu kì hơn nữa thì có thể chuẩn bị thêm các loại sauce khác nhau để chấm bánh, topping hay  thêm các loại nhân…</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12720084395/" title="IMG_4474-1 by LinhTrang9185, on Flickr"><img alt="IMG_4474-1" class="aligncenter" height="640" loading="lazy" src="http://farm4.staticflickr.com/3782/12720084395_b70893a8f5_z.jpg" width="561"/></a></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<ul>
+<li><em>400gr bột mì đa dụng</em></li>
+<li><em>6 gr men instant</em></li>
+<li><em>65 gr bơ nhạt đun chảy để nguội</em></li>
+<li><em>45 gr đường</em></li>
+<li><em>2 gr muối</em></li>
+<li><em>180 ml sữa tươi không đường</em></li>
+<li><em>1 trứng gà (60gr cả vỏ, 50gr không tính vỏ )</em></li>
+<li><em>20 gr sữa bột (không bắt buộc) </em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>Bột làm Doughnut thực tế là một dạng bột bánh mì, nên các thao tác về trộn bột, nhồi bột, ủ bột đều giống với cách làm bánh  mì ngọt. Công thức này cho phần bột khá dễ nhồi, không bị dính tay nhiều, nhồi tay khoảng 15 – 20 phút là bột có thể ổn rồi. Nhưng nếu bạn hoàn toàn chưa có kinh nghiệm làm bánh mì thì nên đọc qua các bài viết sau:</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ol>
+<li>Phân biệt các loại bột làm bánh, cách sử dụng, thay thế các loại bột : <a href="/?p=1997">Phần 1</a> – <a href="/?p=2022">Phần 2</a></li>
+<li><a href="/?p=2068">Các chất gây nở (men nở, bột nở, muối nở..) – Phân loại, cách thay thế &amp; các lưu ý khi sử dụng</a></li>
+<li><a href="/?p=2138">Phân loại bánh mỳ – Hai phương pháp trộn bột bánh mỳ cơ bản và vài dòng chia sẻ</a></li>
+<li><strong>Làm bánh mỳ – Quy trình cơ bản và các lưu ý</strong>
+<ul>
+<li><a href="/?p=2277">Phần 1: Các bước làm bánh mỳ cơ bản &amp; Các chú ý về nguyên liệu</a></li>
+<li><a href="/?p=2293">Phần 2: Cách nhào/ nhồi bột </a></li>
+<li><a href="/?p=2332">Phần 3: Cách ủ bột, tạo hình, nướng bánh và bảo quản</a></li>
+</ul>
+</li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>Lưu ý:</strong></span> Men nở khác với bột nở và muối nở. Không thay thế được men nở trong công thức này. Lý do tại sao xem trong bài viết số (2) ở trên.</p>
+<p>1. Hâm nóng 1/2 số sữa tươi, sao cho sữa ở nhiệt độ khoảng 35 – 40 độ C (<strong>không được nóng hơn, sẽ làm chết men hoặc yếu hoạt động của men</strong>). Cho 5 gram đường và toàn bộ số men vào sữa, dùng đũa gỗ khuấy đều. Sau khoảng 5-10 phút sẽ thấy men nở tạo mảng, hơi giống với gạch cua. Nếu men không nở thì có hai khả năng, hoặc là men có vấn đề, hoặc là sữa quá nóng làm chết men, nên bỏ đi và chuẩn bị lại từ đầu.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/10722866194/" title="IMG_3221 by LinhTrang9185, on Flickr"><img alt="IMG_3221" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2872/10722866194_6d9b1051e1.jpg" width="500"/></a></p>
+<p>(*) Nếu dùng men instant, không nhất thiết phải kích hoạt men như trên, nhưng làm vẫn tốt hơn vì sẽ kiểm tra được men còn tốt hay không.</p>
+<p>2. Rây bột, đường, muối &amp; sữa bột (nếu có) vào âu. Trộn đều. Cho các nguyên liệu còn lại gồm bơ, trứng, phần sữa có men và 1/2 lượng sữa còn lại vào âu. Dùng thìa gỗ trộn đều đến khi hỗn hợp quyện thành  một khối. Đậy một chiếc khăn ẩm lên mặt âu,  để bột nghỉ khoảng 8-10 phút. <strong>Việc để bột nghỉ này sẽ giúp bột bớt dính và nhào dễ hơn trong trường hợp nhồi bột bằng tay.</strong> Nếu nhồi bột bằng máy thì có thể bỏ qua bước này.</p>
+<p>3. Đổ bột ra bàn đã phủ một lớp bột áo mỏng, nếu bột quá ướt và dính (có thể do bột mì hút nước kém) thì trong quá trình nhồi bột các bạn có thể sử dụng thêm một ít bột áo (bột mỳ khô) để rắc phủ mặt bàn và xoa vào tay, để nhồi bột dễ hơn. Tuy nhiên, <strong>cố gắng dùng càng ít bột áo càng tốt</strong>.</p>
+<p>Nếu nhồi bằng tay thì thường sẽ mất khoảng 15 – 20 phút. Khối bột sau khi nhồi xong sẽ dẻo và có độ đàn hồi tốt, ấn thử ngón tay lên mặt khối bột sẽ thấy phồng trở lại.</p>
+<p>4. Cho bột vào âu có quét một lớp dầu ăn mỏng. Lật khối bột cho dầu ăn bao đều bên ngoài khối bột (giúp<em> cho bột không bị khô trong quá trình ủ.</em> Dùng nilon bọc kín âu (hoặc dùng khăn ẩm đậy lên âu), ủ bột ở nhiệt độ 30 – 38 độ C đến khi bột nở gấp đôi.</p>
+<p>(*) <em>Nếu mùa đông trời lạnh, có thể bật lò nướng khoảng 50 độ C trong 5 phút rồi tắt lò, và ủ bánh trong lò. Hoặc ủ trong nơi kín như lò vi sóng, đặt thêm cốc nước sôi để giữ ẩm cho bánh. Nhiệt độ ấm áp sẽ giúp bột nở nhanh hơn. Nhưng không ủ ở nơi có nhiệt độ quá cao (trên 50 độ C, sẽ làm chết men).</em></p>
+<p>Để thử xem bột đã ủ đạt hay không, các bạn ấn một hoặc hai ngón tay vào bột, sâu khoảng 1 – 2cm. Sau khi rút tay lên, nếu vết lõm giữ nguyên tức là bột đã ủ đạt.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>5. Sau khi bột đã ủ đủ, dùng mu bàn tay ép hoặc đấm nhẹ cho xẹp bọt khí trong khối bột. Lấy bột ra khỏi âu, nhồi lại sơ qua trong khoảng 1-2 phút. Phủ một ít bột mì khô lên mặt bàn và cây cán bột, cán khối bột thành miếng dày khoảng 0.7 – 1 cm. Đậy nilon hoặc khăn ẩm lên mặt bột, để bột nghỉ khoảng 5 – 7 phút (giúp cho bánh không bị co sau khi cắt).</p>
+<p>Cắt bột thành hình miếng bánh Doughnut tròn. Nếu có khuôn cắt Doughnut thì rất tốt, nếu không, các bạn có thể dùng bất kì dụng cụ gì có dạng hình tròn như miệng cốc, miệng chai, vỏ nắp chai… Mình dùng 1 ring kim loại làm mousse đường kính 5 cm và khuôn cắt bánh quy  hình hoa :) .</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12720540144/" title="2014-02-21 by LinhTrang9185, on Flickr"><img alt="2014-02-21" class="aligncenter" height="400" loading="lazy" src="http://farm4.staticflickr.com/3718/12720540144_9c04ef509a.jpg" width="500"/></a></p>
+<p><strong>Lưu ý</strong>: <em>Tùy theo độ lớn của bánh mà các bạn cán bột có độ dày phù hợp. Với bánh dùng khuôn cắt đường kính khoảng 5- 6cm thì bột dày độ 0,7 – 0,8 cm là vừa. Khuôn cắt to hơn thì cán bột dày hơn một chút.</em></p>
+<p>Chuẩn bị khay có lót giấy nến, chuyển các miếng bánh đã cắt lên khay. Phần nhân tròn cắt ra cũng giữ lại làm <em>mini doughnut ball</em>. Phần bột thừa ra sau khi cắt có thể nhồi lại và cắt tiếp, nhưng không nên lặp lại nhiều lần vì sẽ làm bột đàn hồi kém hơn, khó tạo hình.</p>
+<p>7. Ủ lần 2: Bọc cả khay bột rồi ủ ở nhiệt độ phòng, nếu trời nóng. Hoặc bật lò khoảng 50 độ C trong khoảng 5 phút rồi tắt lò, cho khay bột vào lò, để thêm một cốc nước sôi (để giữ ẩm), ủ bánh ở nhiệt độ 35-40 độ C đến khi bánh nở thêm khoảng 80%.</p>
+<p>(*) <strong>Lưu ý</strong>: dù ủ trong môi trường nào cũng phải có biện pháp che đậy, hoặc giữ ẩm cho mặt bánh (đặt thêm cốc nước sôi).</p>
+<p>8. Chiên bánh: Chuẩn bị nồi nhỏ, đổ nhiều dầu. Đun dầu nóng đến khoảng 150 – 170 độ C rồi thả bánh vào chiên vàng một mặt, lật lại chiên vàng nốt mặt còn lại. Gắp bánh ra đĩa có lót giấy thấm để hút bớt dầu mỡ thừa.</p>
+<p>(*) <strong>Ghi chú</strong>:</p>
+<p>1. Nhiệt độ rán bánh là ở khoảng vừa (<em>medium heat</em>). Nhiệt quá cao sẽ làm cho vỏ bánh vàng và cháy nhanh, nhiệt thấp sẽ làm cho bánh nở chậm hoặc nở kém. Nếu không có nhiệt kế loại để chuyên đo nhiệt độ cao, các bạn có thể tùy vào tình trạng bánh mà điều chỉnh nhiệt cho phù hợp, làm sao khi thả bánh vào thì bánh nở phồng và vàng mặt trong khoảng 30 – 40 giây (bánh nhỏ), 40 – 60 giây (bánh to hơn). Mình để ở mức 3 – 4/6 (bếp điện). Không nên rán nhiều bánh cùng lúc, nhiệt có thể sẽ giảm nhiều so với yêu cầu.</p>
+<p>2. Bánh sau khi ủ lần 2 sẽ rất mềm và nhẹ (vì có chứa nhiều không khí bên trong), khi lấy ra để rán cần nhẹ tay, tránh để xẹp bánh, bánh sẽ nở kém hơn.</p>
+<p>Bánh ngon nhất là dùng nóng ngay sau khi rán xong (và đã hút bớt dầu mỡ thừa). Có thể lăn qua đường bột, hoặc chấm với một số loại sốt như chocolate sauce (làm theo công thức chocolate ganache), sốt bơ lạc (peanut butter sauce), hoặc Glaze… VD đây là ct glaze mật ong chanh của mình</p>
+<ul>
+<li><em>45 gram đường bột (đường icing)</em></li>
+<li>15 ml nước cốt chanh vàng</li>
+<li>vỏ 1 quả chanh vàng bào rất vụn</li>
+<li>10 gram mật ong</li>
+</ul>
+<p>Trộn đều tất cả các nguyên liệu rồi đổ hoặc quết lên mặt bánh. Glaze này có vị chua dịu và thơm của vỏ chanh, giúp bánh có vị chua ngọt và không ngấy. Nếu muốn tạo thành một lớp đường trắng rõ trên mặt bánh như ngoài hàng thì cần tăng thêm lượng đường icing (sẽ đẹp hơn và cũng sẽ ngọt hơn rất nhiều).</p>
+<p>Bánh có thể ăn trong khoảng 8 tiếng sau khi rán (bảo quản trong túi/ hộp kín). Không để qua đêm sang ngày hôm sau.</p>
+<p>(*) <em><strong>Công thức này chỉ dùng để rán, doughnut nướng sẽ được giới thiệu trong một bài khác</strong></em></p>
+
+
+<p><a href="http://www.flickr.com/photos/55490207@N05/12720085445/" title="IMG_4460-1 by LinhTrang9185, on Flickr"><img alt="IMG_4460-1" class="aligncenter" height="334" loading="lazy" src="http://farm4.staticflickr.com/3681/12720085445_6d65def208.jpg" width="500"/></a></p>
+<p> </p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

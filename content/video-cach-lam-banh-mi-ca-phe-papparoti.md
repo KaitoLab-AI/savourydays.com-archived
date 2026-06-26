@@ -1,0 +1,31 @@
+---
+title: "[VIDEO] Cách làm bánh mì cà phê Papparoti"
+date: "2015-11-14"
+slug: "video-cach-lam-banh-mi-ca-phe-papparoti"
+categories: ["Bánh mỳ"]
+tags: []
+image: ""
+description: "Video hướng dẫn cách làm món bánh mì cà phê Papparoti từ A - Z"
+---
+
+<p>Video món bánh Papparoti này mình quay trong tuần vừa rồi, dự định sau khi sửa xong sẽ đăng lên vào cuối tuần để có một kết thúc “hoành tráng” cho “tuần lễ bánh mì”, với các video hướng dẫn cách làm những món bánh dùng men nở được ưa chuộng nhất của SD, bao gồm Hokkaido bread, bánh bao và món bánh mì này).</p>
+<p>Tuy nhiên trong khi viết bài giới thiệu tối hôm qua thì nghe tin về thảm kịch tại Pháp, bỗng nhiên không cảm thấy có hứng thú nói nhiều về chuyện ăn uống nữa. Nhưng video đã quay và đăng tại YouTube rồi nên mình viết vài dòng để nhắn các bạn biết là video đã được bổ sung trong bài <a href="/papparoti-mexican-buns-coffee-buns-rotiboy/" target="_blank"><strong>“cách làm bánh mì Papparoti”</strong> </a>tại blog nhé.</p>
+<p>Có một ghi chú nhỏ là công thức Papparoti cũng có xuất hiện trong sách Nhật ký học làm bánh – tập 2. Tuy nhiên trong sách thì mình sử dụng công thức bánh mì bơ mềm dùng Tangzhong. Công thức này chưa có tại blog nên trong video  mình sử dụng cách làm vỏ bánh milk bun dùng buttermilk đã được đăng tại blog. Mỗi công thức có một kiểu hương vị và “kiểu ngon” khác nhau nên bạn nào có sách thì có thể lựa chọn 1 trong 2 công thức này nha.</p>
+<p>Chúc cả nhà cuối tuần an nhiên.</p>
+<p> </p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

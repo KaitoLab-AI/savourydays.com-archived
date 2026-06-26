@@ -1,0 +1,66 @@
+---
+title: "Cách làm SANDWICH HOA QUẢ KEM TƯƠI và MOJITO không cồn"
+date: "2022-03-18"
+slug: "cach-lam-sandwich-hoa-qua-kem-tuoi-va-mojito-khong-con"
+categories: []
+tags: []
+image: "/wp-content/uploads/2022/03/bannerr.jpg"
+description: "Cách làm sandwich hoa quả kem tươi và mojito không cồn siêu đơn giản, hoàn hảo cho 1 buổi picnic mùa xuân đẹp trời"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400; color: #000000;">Cuối tuần mọi người có kế hoạch gì chưa ạ? Thời tiết đang đẹp đúng chuẩn mùa xuân, gió hiu hiu thổi, nắng nhẹ nhàng, không nóng cũng không lạnh, trời này mà không picnic thì tiếc lắmm!!! Vì thế nên tụi mình đã có ngay “thực đơn” picnic siêu đơn giản, mát lành, tươi mới và hình thức thì cực kỳ mùa xuân cho cả nhà đây ạ 😁</span></p>
+<p><span style="font-weight: 400; color: #000000;">Sandwich hoa quả – kem tươi với các loại quả mọng nước, ngọt thơm, kem tươi béo ngậy, xốp mềm tan trong miệng, cắn một miếng mà như cả mùa xuân ở trong miệng ấy, cảm giác dễ thương cực kỳ 😁</span></p>
+<p><span style="font-weight: 400; color: #000000;">Mojito mát lạnh, the mát kiểu rất sảng khoái của chanh và lá bạc hà tươi, thơm thơm mùi hoa quả, và đặc biệt là không có cồn, các bạn bé cũng “bon chen” thoải mái nha.</span></p>
+<p><span style="font-weight: 400; color: #000000;">Có bánh có nước, thêm một chút đồ ăn mặn và miếng khăn trải, chai cồn sát khuẩn là có ngay một buổi picnic rất vui rồi. Nhưng nhớ là hãy tìm một nơi thoáng mát, vắng người, giữ khoảng cách và đeo khẩu trang khi cần tiếp xúc với người khác nha ^^</span></p>
+<h2><span style="color: #993300;">Cách làm SANDWICH HOA QUẢ KEM TƯƠI và MOJITO không cồn</span></h2>
+<p><strong><span style="color: #000000;">A. Sandwich hoa quả</span></strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="color: #993300;"><strong>Nguyên liệu (cho 3 bánh):</strong></span></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">6 miếng bánh mì gối</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Hoa quả tùy thích</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">400 gram kem tươi</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">80 gram đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">¼ thìa cà phê tinh chất vani (không bắt buộc)</span></em></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;"><strong><span style="color: #993300;">Lưu ý:</span></strong> Bạn hãy chọn loại hoa quả không chứa quá nhiều nước hoặc có tép (như cam, quýt, dâu tây, kiwi, xoài, chuối,..) Không dùng các loại quả dễ bị chảy nước như dưa hấu, tránh việc nước từ hoa quả sẽ làm ảnh hưởng tới kem nha.</span></p>
+<p> </p>
+<p><strong><span style="color: #993300;">Cách làm:</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Kem tươi để rất lạnh, đánh với đường và vani ở tốc độ cao tới khi kem bông cứng, nhấc que đánh lên có chóp nhọn. </span></p>
+<p><span style="color: #000000;"><span style="font-weight: 400;">Các lưu ý khi đánh bông kem tươi bạn xem tại đây: </span><a href="/cach-lam-kem-tuoi-danh-bong-va-cach-chua-kem-tuoi-tach-nuoc/" style="color: #000000;"><span style="font-weight: 400;">/cach-lam-kem-tuoi-danh-bong-va-cach-chua-kem-tuoi-tach-nuoc/</span></a></span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Cho kem vào túi bóp kem, để nghỉ trong tủ lạnh tối thiểu 30 phút cho kem mát lạnh trở lại.</span></p>
+<p><span style="font-weight: 400; color: #000000;">3. Rửa sạch và lau khô các loại hoa quả, có thể cắt hoặc để nguyên miếng</span></p>
+<p><img alt="" class="alignnone wp-image-9061" height="335" loading="lazy" sizes="(max-width: 503px) 100vw, 503px" src="/wp-content/uploads/2022/03/IMG_8969-300x200.jpg" width="503"/></p>
+<p><span style="font-weight: 400; color: #000000;">4. Bơm 1 lớp kem lên mặt bánh sandwich, đặt hoa quả lên và bơm thêm 1 lớp kem nữa phủ kín hoa quả, dùng dao chà láng lại cho kem mịn đều, đặt miếng sandwich thứ 2 lên trên và bọc chặt bánh bằng nilong bọc thực phẩm, để bánh nghỉ trong tủ lạnh khoảng 1 tiếng cho bánh định hình tốt.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><img alt="" class="alignnone wp-image-9062" height="501" loading="lazy" sizes="(max-width: 501px) 100vw, 501px" src="/wp-content/uploads/2022/03/collage-1-300x300.jpg" width="501"/></p>
+<p><span style="font-weight: 400; color: #000000;">5. Bỏ nilong bọc thực phẩm ra, dùng dao rất sắc cắt viền bánh bằng cách đưa dao qua lại giống như đang cưa gỗ, không ấn dao xuống sẽ làm bánh bị nát, cắt đôi bánh theo chiều đẹp (dọc đường hoa quả đã xếp)</span></p>
+<p><img alt="" class="alignnone wp-image-9063" height="499" loading="lazy" sizes="(max-width: 499px) 100vw, 499px" src="/wp-content/uploads/2022/03/collage2-300x300.jpg" width="499"/></p>
+<p><span style="font-weight: 400; color: #000000;">6. Bọc kín bánh, bảo quản trong ngăn mát tủ lạnh từ 1-2 ngày.</span></p>
+<p><span style="font-weight: 400; color: #000000;"><span style="color: #993300;"><strong>Lưu ý:</strong></span> Nếu bạn muốn mang đi picnic, nên để trong thùng đá để giữ kem tươi không bị chảy nhé.</span></p>
+<p><img alt="" class="alignnone wp-image-9067" height="328" loading="lazy" sizes="(max-width: 490px) 100vw, 490px" src="/wp-content/uploads/2022/03/7-1-300x201.jpg" width="490"/></p>
+<p><strong><span style="color: #000000;">B. Mojito hoa quả không cồn</span></strong></p>
+<p><span style="color: #993300;"><strong>Nguyên liệu:</strong></span></p>
+<ul>
+<li><em><span style="color: #000000;"><span style="font-weight: 400;">Nước có ga không đường (như </span><span style="font-weight: 400;">Schweppes) </span><span style="font-weight: 400;">hoặc nước có ga vị chanh (7Up, Sprite)</span></span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Sinh tố hoa quả (dâu tây, việt quất, chanh leo,..). </span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Lá bạc hà</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Chanh xanh cắt miếng nhỏ, bỏ hạt</span></em></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;"><strong><span style="color: #993300;">Lưu ý:</span></strong> Sinh tố hoa quả bán sẵn tại các cửa hàng bán đồ làm bánh rất nhiều, hay được dùng để pha đồ uống, các bạn có thể mua của Golden Farm hoặc Berrino đều được nhé. Nếu dùng hoa quả tươi, bạn xay nhuyễn rồi sên với đường cho hoa quả hơi sệt lại nha.</span></p>
+<p> </p>
+<p><span style="color: #993300;"><strong>Cách làm: </strong></span></p>
+<p><span style="font-weight: 400; color: #000000;">1. Cho lá bạc hà và chanh vào cốc, dùng chày dầm cho tinh dầu bạc hà và chanh tiết ra (chanh và bạc hà mềm ra và hơi nát). </span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Thêm sinh tố hoa quả và đá lạnh. Đổ thêm nước có ga lên, trang trí bằng hoa quả và lá bạc hà</span></p>
+<p><img alt="" class="alignnone wp-image-9065" height="335" loading="lazy" sizes="(max-width: 503px) 100vw, 503px" src="/wp-content/uploads/2022/03/banner-300x200.jpg" width="503"/></p>
+<p><span style="color: #993300;"><strong>Lưu ý:</strong></span></p>
+
+
+<p><span style="font-weight: 400; color: #000000;">– Các bạn hãy cho đá vào cốc trước khi đổ nước có ga lên thì nước sẽ phân tầng đẹp nhé.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nếu muốn làm mojito phiên bản có cồn, thêm rượu Rum trắng theo truyền thống, hoặc các loại rượu mà bạn thích nhé, mình thấy rượu dừa Malibu hoặc rượu Soju của Hàn cũng rất hợp để pha mojito.</span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

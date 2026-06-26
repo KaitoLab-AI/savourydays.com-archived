@@ -1,0 +1,62 @@
+---
+title: "Đi học làm bánh ở Le Cordon Bleu (P2)"
+date: "2015-06-09"
+slug: "di-hoc-lam-banh-o-le-cordon-bleu-p2"
+categories: ["Chuyện linh tinh"]
+tags: ["chuyện linh tinh"]
+image: "/wp-content/uploads/2015/06/LeCordonBleuPhan2.jpg"
+description: "học làm bánh, le cordon bleu"
+---
+
+<p>Ngày thứ hai ở Le Cordon Bleu là một ngày mệt mỏi.</p>
+<p>Vì làm quá nhiều và ăn quá quá nhiều.</p>
+<p>Theo lịch thì hôm nay có 7 loại bánh mì khác nhau nên thầy bắt đầu lớp từ rất sớm. Các thầy ở đây quả thực là siêu. Vừa chỉ đạo trợ lý chuẩn bị các thứ, vừa làm (7 loại bánh khác nhau một lúc), vừa giảng, vừa giải thích một mớ câu hỏi (nhiều khi ngớ ngẩn) của học viên. Mà vẫn làm chuẩn, làm đúng, không nhầm tí tẹo nào.</p>
+<p>Hôm nay biết được thêm rất nhiều công thức mới, lạ và cực hay. Thực sự là giờ mình chỉ mong kết thúc khóa học nhanh để bay về nhà và thử lại trong bếp nhà mình thôi. Vì bếp ở nhà khác với bếp ở Le Cordon Bleu nhiều lắm lắm. Ở nhà không có dụng cụ đo nhiệt, máy đánh trứng hay lò nướng xịn như ở trường. Nên chắc chắn sẽ phải thử không chỉ một lần. Nhưng cũng vì thế nên mình lại thấy phấn khích hơn. Kiểu như là có một thử thách trước mắt, là làm sao mang được công thức xịn của Le Cordon Bleu về bếp nhà mình, làm sao làm lại được bánh ngon y hệt như bánh thầy dạy làm ở trên lớp, và làm sao qua blog, giúp được các bạn khác cũng làm được bánh ngon như thế. Nếu làm được hẳn là sẽ rất rất rất vui! Sẽ không dễ nhưng cũng vì không dễ mà càng thấy có hứng thú hơn. ^^</p>
+<p>Đi học hôm nay cũng thấy rất may mắn vì mình đã biết khá nhiều về bánh mì, cũng đã tự tay làm kha khá bánh, nên giờ đi học thấy dường như kiến thức được củng cố vững chắc hơn nhiều nữa. Những chỗ nào chưa hiểu hoặc còn lơ mơ thì được gia cố lại, còn những gì đã biết rồi thì được nâng lên một tầm cao hơn :) Không chỉ kiến thức mà cả kĩ năng nữa. Được tận mắt xem thầy biểu diễn và giải thích vẫn thích hơn đọc sách và xem clip trên YouTube nhiều.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Và đến cuối buổi, vẫn y hệt như hôm qua, suýt quên bánh của mình vì nhiều quá không nhớ hết được…. haizzz….</p>
+<p>Một số hình ảnh từ buổi học hôm nay</p>
+<p style="text-align: center;"><em>Bột bánh mì vị cà chua và húng quế (basil), thơm lắm </em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/18453361148" title="IMG_2836 by Trang Linh, on Flickr"><img alt="IMG_2836" class="aligncenter" height="333" loading="lazy" src="https://c1.staticflickr.com/9/8880/18453361148_549abeb796.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Bột sau khi tạo hình xong </em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/18018460944" title="IMG_2852 by Trang Linh, on Flickr"><img alt="IMG_2852" class="aligncenter" height="640" loading="lazy" src="https://c1.staticflickr.com/1/286/18018460944_65b03b14a6_z.jpg" width="427"/></a></p>
+<p style="text-align: center;"><em>đã ủ xong lần 2, quét mặt bánh để chuẩn bị cho vào lò </em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/18453446450" title="IMG_2865 by Trang Linh, on Flickr"><img alt="IMG_2865" class="aligncenter" height="427" loading="lazy" src="https://c1.staticflickr.com/1/458/18453446450_d86cc927be_z.jpg" width="640"/></a></p>
+<p style="text-align: center;"><em>bột bánh mì spinach, món này ngon cực kì, mình siêu thích vị của nó, bản thân bánh đã ngon mà lại còn có nhiều rau nên rất tốt cho sức khỏe nữa</em></p>
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/18641152245" title="IMG_2867 by Trang Linh, on Flickr"><img alt="IMG_2867" height="333" loading="lazy" src="https://c1.staticflickr.com/1/547/18641152245_0cd0abaa1d.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p style="text-align: center;"><em>tạo hình Baguette Milk Bread kiểu thứ nhất </em></p>
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/18643418171" title="IMG_2880 by Trang Linh, on Flickr"><img alt="IMG_2880" class="aligncenter" height="640" loading="lazy" src="https://c1.staticflickr.com/1/393/18643418171_ab33884c4b_z.jpg" width="427"/></a></p>
+<p style="text-align: center;"><em>tạo hình Baguette Milk Bread kiểu thứ hai </em></p>
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/18018499904" title="IMG_2881 by Trang Linh, on Flickr"><img alt="IMG_2881" height="427" loading="lazy" src="https://c1.staticflickr.com/1/557/18018499904_6ed471a2d9_z.jpg" width="640"/></a></p>
+<p style="text-align: center;"><em>Baguette Milk Bread sau khi nướng xong </em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/18643434051" title="IMG_2887 by Trang Linh, on Flickr"><img alt="IMG_2887" class="aligncenter" height="334" loading="lazy" src="https://c1.staticflickr.com/1/527/18643434051_d5907c40e1.jpg" width="500"/></a></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/18643441561" title="IMG_2888 by Trang Linh, on Flickr"><img alt="IMG_2888" class="aligncenter" height="333" loading="lazy" src="https://c1.staticflickr.com/9/8897/18643441561_3b80c373a2.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Baguette truyền thống của Pháp – làm với Poolish ủ 24h – với lớp vỏ ngoài giòn rụm màu vàng rám nâu đặc trưng và đường cắt mở rộng, đẹp không thể chê vào đâu được</em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/18643392501" title="IMG_2862 by Trang Linh, on Flickr"><img alt="IMG_2862" height="428" loading="lazy" src="https://c1.staticflickr.com/1/390/18643392501_999e0171f2_z.jpg" width="640"/></a></p>
+<p style="text-align: center;"><em>cắt thử để xem bên trong </em></p>
+<p style="text-align: center;"><em>lúc thấy ruột bánh, cả lớp ồ lên, đặc mà vẫn đủ rỗng, lỗ khí to nhỏ không đều nhau, không quá khít, mùi rất thơm và đậm đà, nuốt miếng bánh xuống rồi mà vị ngọt vẫn còn vương lại trên đầu lưỡi và ở cuống họng</em></p>
+<p style="text-align: center;"><em>THẾ MÀ </em></p>
+<p style="text-align: center;"><em>thầy vẫn chê, bảo tại cái lò ở đây chưa đủ chuyên nghiệp để làm bánh mì nên ruột bánh nó mới như vầy!!!</em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/18643409491" title="IMG_2879 by Trang Linh, on Flickr"><img alt="IMG_2879" height="375" loading="lazy" src="https://c1.staticflickr.com/9/8853/18643409491_bcb8d7b64d.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>MỘT PHẦN bánh để mang về :((</em></p>
+
+
+<p><a href="https://www.flickr.com/photos/55490207@N05/18020556193" title="IMG_2890 by Trang Linh, on Flickr"><img alt="IMG_2890" class="aligncenter" height="640" loading="lazy" src="https://c1.staticflickr.com/1/498/18020556193_936070cc85_z.jpg" width="433"/></a></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

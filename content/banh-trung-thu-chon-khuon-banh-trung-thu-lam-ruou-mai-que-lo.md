@@ -1,0 +1,104 @@
+---
+title: "{Bánh trung thu} Chọn khuôn bánh trung thu & Làm rượu Mai Quế Lộ"
+date: "2014-07-31"
+slug: "banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo"
+categories: []
+tags: []
+image: "/wp-content/uploads/2014/07/KhuonBanhTrungThu.jpg"
+description: "chọn khuôn bánh, rượu mai quế lộ"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><strong>LỰA CHỌN KHUÔN BÁNH TRUNG THU </strong></p>
+<p>Thật ra thì mình định sẽ viết vài dòng về việc chọn và sử dụng khuôn đi kèm với các khâu làm vỏ và đóng bánh. Nhưng vừa rồi có mấy bạn hỏi để mua sớm, mới để ý thấy một loạt cửa hàng bán đồ làm bánh online đã có đủ các loại khuôn và nguyên liệu làm bánh trung thu rồi. Mua tầm này tuy hơi sớm một chút, nhưng chắc sẽ có nhiều sự lựa chọn hơn, lại không lo bị đội giá.</p>
+<p>Mình không có nhiều kinh nghiệm với việc chọn mua khuôn. Vì ở xa nên khuôn mình dùng đều do người nhà ở Việt Nam mua hộ rồi gửi qua bên này. Nên tất cả các khuôn đều rất bình thường thôi, nhưng cho đến giờ thì mình chưa thấy có gì để phàn nàn về các khuôn này cả. Mình nghĩ, cũng như nấu ăn hay làm bánh, một bộ nồi xịn hay con dao tốt không giúp cho bạn trở thành siêu đầu bếp, thì khuôn bánh trung thu cũng vậy. Không nhất thiết cứ phải mua khuôn thật xịn, thật đắt mới có thể làm được bánh đẹp. Người sử dụng mới là yếu tố quan trọng nhất :)</p>
+<p>Khuôn trung thu có nhiều loại khác nhau khác nhau, nhưng có thể chia thành các nhóm chính gồm:</p>
+<ul>
+<li>Khuôn gỗ</li>
+<li>Khuôn nhựa lò xo</li>
+<li>Khuôn nhựa không lò xo</li>
+<li>Khuôn làm bánh rau câu</li>
+</ul>
+<p>Trong số các loại này thì khuôn gỗ là khuôn cổ truyền nhất, khuôn nhựa thì mới phổ biến trong những năm gần đây thôi. Mình chưa có khuôn gỗ, nên không biết cảm giác khi dùng khuôn gỗ thế nào. Có lẽ là khi đóng bánh sẽ rất thích vì cảm giác chắc tay. Nhưng khuôn gỗ theo mình tìm hiểu thì phần lớn giá thành đều khá cao. Ngoài ra khuôn gỗ cũng khá nặng và mọi khâu vệ sinh cọ rửa, bảo quản đều mất nhiều thời gian (nhất là giữ cho khuôn có thể để lâu mà không bị mốc). Một điểm hạn chế nữa là mỗi khuôn gỗ chỉ có một mẫu hoa văn thôi (trong khi nếu là khuôn nhựa lò xo thì một khuôn có thể thay nhiều loại hoa văn khác nhau).</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Các khuôn mà mình đang dùng hiện tại đều là khuôn nhựa, gồm một vài bộ khuôn nhựa lò xo và mấy chiếc khuôn nhựa Singapore với các kích thước khác nhau. Cá nhân mình thấy cả hai đều rất ổn. Mỗi bộ khuôn lò xo đều có 4 mẫu hoa văn khác nhau để thay thế, tuy hoa văn không phải là rất đẹp nhưng khi đóng lên bánh thì không đến nỗi nào, và đều sắc nét. Khuôn lò xo nhỏ và nhẹ nên cất giữ cũng không tốn chỗ, lại không lo bị mốc như khuôn gỗ. Cọ rửa cũng không quá khó khăn.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14789814214/" title="IMG_8221 by LinhTrang9185, on Flickr"><img alt="IMG_8221" class="aligncenter" height="360" loading="lazy" src="https://farm3.staticflickr.com/2937/14789814214_2ab71e9615.jpg" width="500"/></a></p>
+<p>Khuôn nhựa Singapore thì hoa văn đẹp hơn, đặc biệt để làm bánh dẻo thì rất tuyệt. Nhưng so với khuôn lò xo thì khuôn nhựa Singapore đắt hơn kha khá. Và lấy bánh từ loại khuôn này ra cũng hơi khó hơn một chút. Bên cạnh khuôn nhựa của Singapore thì mình còn thấy cả các loại khuôn nhựa (có lẽ) của Việt Nam và Trung Quốc nữa. Mình chưa dùng loại này nhưng thấy một số người bạn dùng có vẻ cũng ổn.</p>
+<p>Ngoài các loại khuôn trên đây, còn có loại khuôn dành riêng để đổ bánh trung thu rau câu (bằng nhựa hoặc silicon) nữa. Khuôn rau câu và khuôn làm bánh trung thu cổ truyền là hai loại khác nhau, không dùng lẫn mục đích được.</p>
+<p>Vậy khi đi mua thì nên chọn khuôn như thế nào? Tuy chưa bao giờ được thực sự chọn khuôn nhưng mình nghĩ nếu mình đi mua thì sẽ dựa theo các tiêu chí sau đây:</p>
+<p>1. <em><strong>Loại khuôn và chất liệu khuôn</strong></em>: Tùy vào sở thích và khả năng “chăm sóc” khuôn mà bạn có thể chọn loại khuôn phù hợp với điều kiện của mình (và cả hầu bao nữa).</p>
+<p>2. <em><strong>Kích thước khuôn</strong></em>: Có nhiều loại khuôn bánh khác nhau để làm các loại bánh 50, 75, 100, 125, 150 gram và to hơn nữa. Mình thích những thứ nhỏ xinh nên bỏ phiếu cho các loại bánh cỡ 75 gram (50gram thì hơi quá nhỏ). Bánh 75 gram rất vừa phải, ăn khoảng 2-3 miếng là hết một cái, nhưng cũng vì thế mà không lo ngấy hay ngán. Ngoài ra, nếu có thể làm nhiều loại bánh với nhiều loại nhân khác nhau, bỏ vào một hộp để mang đi biếu hay tặng có lẽ cũng rất đặc biệt. Khuyết điểm lớn nhất của bánh cỡ nhỏ có lẽ là khó giữ được hoa văn nét sau khi nướng thôi.</p>
+<p>Bánh cỡ 100 và 125gram thì to hơn một chút, nếu để biếu tặng có lẽ mình sẽ chọn kích thước này, không quá nhỏ, đủ lịch sự và cũng không quá to, dễ gây cảm giác ngán. Bánh từ 150gram trở lên thì với mình là hơi to quá. Nhưng cũng có lẽ là sở thích cá nhân thôi.</p>
+<p>Khi đi mua khuôn, <em>các bạn nhớ hỏi người bán hàng trọng lượng bánh làm với từng loại khuôn và ghi nhớ nhé</em>. Như khuôn của mình gửi từ nhà sang, không ghi chú gì nên ban đầu tìm cách xác định trọng lượng bánh hơi mệt một chút. Mặc dù một số loại khuôn có thể thử bằng cách ấn một miếng bột vào khuôn cho đầy rồi cân thử để biết trọng lượng bánh. Nhưng cách này không hoàn toàn chính xác, nên nếu hỏi người bán ngay từ đầu về kích cỡ bánh làm với từng loại khuôn, mình nghĩ sẽ tốt hơn.</p>
+<p>3. <em><strong>Hoa văn trên mặt bánh</strong></em>: có rất nhiều loại hoa văn khác nhau, tùy sở thích mà các bạn có thể lựa chọn. Các khuôn có đường rãnh khắc sâu có lẽ sẽ cho mặt bánh sắc nét hơn. Và với mình thì mình thích các loại hoa văn có nhiều đường nét hơn là các loại hình đơn giản. Mặc dù khi quét trứng để nướng bánh có màu nâu vàng đẹp thì hơi mất thời gian hơn một chút, nhưng sau khi nướng nhìn mặt bánh có đường nét rõ ràng, sắc sảo vẫn thích hơn.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>4. C<em><strong>hất lượng khuôn:</strong></em> Ngoài những điều trên thì khi đi mua mọi người nhớ dành thời gian kiểm tra chất lượng khuôn nhé. Ví dụ khuôn có nguyên vẹn, có bị nứt vỡ, lò xo có bị kẹt hay rít không, các đường nét trên mặt khuôn có rõ rang không…</p>
+<p>Trên đây là một vài chia sẻ nhỏ của mình với khuôn trung thu. Hi vọng sẽ giúp ích được phần nào cho các bạn trong việc chọn khuôn và chúc cả nhà sẽ đều chọn mua được những chiếc khuôn ưng ý và hợp túi tiền :).</p>
+<p>(*) Ghi chú bổ sung năm 2015:</p>
+<p><span style="color: #ff0000;"><em>Bài viết này được viết năm 2014 – là năm đầu tiên mình tự làm bánh trung thu. Sau một năm thì số khuôn của mình đã tăng lên kha khá, với đủ tất cả các loại trên đây, kể cả khuôn gỗ, đủ các kích thước. Mình rút ra được thêm một số kinh nghiệm nữa là:</em> </span></p>
+<p>– Khuôn Singapore chống dính rất tốt, hoa văn cũng đẹp và rất dễ đóng bánh, đắt một chút nhưng “xắt ra miếng”.</p>
+<p>– Bạn nào chưa quen làm bánh trung thu thì có thể mua một bộ khuôn Singapore loại 50 gram, bánh nhỏ xinh vừa ăn, đóng khuôn dễ, khả năng mất nét khi đóng khuôn rất thấp, nướng cũng ít bị phù vỏ hoặc chảy sệ bánh.</p>
+<p>– Khuôn gỗ chỉ (ngắm thì) đẹp thôi còn vệ sinh, bảo quản (để tránh mốc) rất mệt, chưa kể là nặng và không rẻ tí nào. Ngoài ra, cũng không có cơ sở nào để nói là khuôn gỗ thì nét hơn khuôn lò xo cả. Thực tế nếu muốn khoe bánh đẹp, nên chọn loại khuôn lò xo có nhiều họa tiết, tự khắc mặt bánh sẽ đẹp (với điều kiện trộn vỏ bánh phải tốt).</p>
+<p>– Khuôn bánh trung thu có thể dùng nhiều năm, chỉ nên chọn một vài loại mà bạn thích nhất, mua nhiều không để làm gì vì không dùng hết được (như hiện tại mình chỉ dùng 2 – 3 loại thường xuyên trong hai rổ khuôn mà mình có).</p>
+<p>————</p>
+<p>Tiếp tục các công việc chuẩn bị làm bánh cho mùa Trung thu năm nay: “Món” của ngày hôm nay tuy không phải là nguyên liệu chính, nhưng là một loại “gia vị” rất tốt để giúp cho hương vị bánh trung thu thêm đậm đà. Đấy là rượu Mai Quế Lộ (MQL). Một chút rượu MQL sẽ giúp cho chiếc bánh nhân thập cẩm cổ truyền dậy mùi hơn và thơm theo kiểu… quyến rũ hơn. Và không chỉ cho bánh trung thu, rượu MQL cũng có thể dùng trong rất nhiều món ăn khác, đặc biệt là các món kho, om, hầm kiểu Trung Hoa. Thật sự là từ khi có chai MQL trong bếp thì mình thấy ưng ý với các món kho om của mình hơn nhiều.</p>
+<p><strong>CÁCH LÀM RƯỢU MAI QUẾ LỘ</strong></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<ul>
+<li><em>1 lít rượu</em></li>
+<li><em>6 – 7 cái hoa hồi (star anise)</em></li>
+<li><em>2 thanh quế dài khoảng 5 cm (cinnamon)</em></li>
+<li><em>8-10 cọng đinh hương (clove)</em></li>
+<li><em>1.5 thìa cafe (teaspoon) tiểu hồi (cumin)</em></li>
+<li><em>1.5 thìa cafe tiêu hạt (peppercorn) </em></li>
+<li><em>2 thảo quả (dry cauguo)</em></li>
+<li><em>1.5 thìa cafe hạt mùi (coriander seed)</em></li>
+<li><em>2 miếng trần bì (vỏ quýt khô)</em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>– Về rượu, các bạn có thể chọn Vodka hay một loại rượu gạo để nấu ăn như Michiu của Trung Hoa. Mình cũng thấy có người dùng rượu gạo của Hàn Quốc. Mình dùng Michiu (mua trong cửa hàng châu Á ở Bỉ).</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14605509209/" title="IMG_8216 by LinhTrang9185, on Flickr"><img alt="IMG_8216" class="aligncenter" height="500" loading="lazy" src="https://farm4.staticflickr.com/3856/14605509209_f7454f2522.jpg" width="333"/></a></p>
+
+
+<p>– Các loại gia vị trong công thức nếu có đầy đủ được thì rất tốt. Nếu không thì cố gắng kiếm được nhiều thứ nhất trong khả năng có thể. Tối thiểu nên có quế, hồi và thảo quả. Tại Việt Nam mình nghĩ tìm các loại gia vị này không khó. Còn ở nước ngoài thì các bạn thử tìm trong chợ châu Á xem sao nhé. Một số thứ như <em>clove, cumin</em>,… mình thấy trong cả siêu thị Âu cũng có bán.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/14605462540/" title="ingredients by LinhTrang9185, on Flickr"><img alt="ingredients" class="aligncenter" height="333" loading="lazy" src="https://farm4.staticflickr.com/3888/14605462540_b056c2fffa.jpg" width="500"/></a></p>
+<p>– Ngoài các nguyên liệu trên, cần một túi vải nhỏ để đựng các loại gia vị và một hũ đựng rượu. Mình không có cả hai nên cho thẳng các loại gia vị vào chai rượu Michiu. Chất lượng thì không ảnh hưởng gì nhưng mỗi lần lấy ra đều phải dùng rây để lọc lại những loại gia vị nhỏ như hạt mùi, hạt tiêu… cũng hơi phiền toái. Nên nếu các bạn tìm được túi để đựng gia vị là tốt nhất.</p>
+<p>– Cách làm rượu MQL như sau: Cho các gia vị lên chảo, rang ở lửa vừa đến khi gia vị bốc mùi thơm thì bắc ra khỏi bếp. Để nguội. Cho tất cả vào túi vải nhỏ. Bỏ vào rượu. Để chai hoặc hũ rượu ở nơi tối và thoáng mát (có thể dùng vải tối màu bọc hũ rượu lại), tránh ánh nắng. Sau khoảng 2 – 3 tuần là có thể dùng được. Rượu sẽ bớt nồng và rất thơm kiểu mùi ngũ vị hương.</p>
+<p>Cũng như trứng muối, chuẩn bị rượu MQL từ bây giờ thì đến tầm gần trung thu dùng là ổn :)</p>
+<p>————————————————————–</p>
+<p><strong>BÀI VIẾT CÙNG CHỦ ĐỀ TRUNG THU</strong></p>
+<p><strong>A. Kiến thức chung</strong></p>
+<ol>
+<li><a href="/tong-hop-cach-lam-banh-nuong-banh-deo-trung-thu-a-z/">Tổng hợp cách làm bánh nướng, bánh dẻo trung thu</a></li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+<li><a href="/trung-muoi/" target="_blank">Cách làm trứng muối</a></li>
+<li><a href="/banh-trung-thu-cach-xu-li-trung-muoi-cho-nhan-banh-trung-thu/" target="_blank">Cách xử lí trứng muối để làm nhân bánh</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" target="_blank">Cách chọn khuôn bánh trung thu</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" target="_blank">Cách làm rượu Mai Quế Lộ</a></li>
+<li><a href="/tu-lam-mau-thuc-pham-tu-rau-cu-qua-tu-nhien/" target="_blank">Tự làm màu thực phẩm từ rau củ quả tự nhiên</a></li>
+</ol>
+<p><strong>B. Cách làm bánh nướng trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-nau-nuoc-duong-cho-banh-nuong/" target="_blank">Cách nấu nước đường bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-lam-banh-nuong/" target="_blank">Cách làm bánh nướng trung thu (</a>trộn bột, bọc nhân, đóng bánh và nướng)</li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-dau-xanh-tra-xanh-la-dua/" target="_blank">Cách làm nhân đậu xanh – trà xanh – lá dứa</a></li>
+<li><a href="/banh-trung-thu-nhan-thap-cam-nhan-sua-dua/" target="_blank">Cách làm nhân thập cẩm – sữa dừa</a></li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-sen-nhuyen/" target="_blank">Cách làm nhân sen nhuyễn</a></li>
+<li><a href="/banh-trung-thu-tra-xanh-nhan-dau-do/" target="_blank">Bánh trà xanh nhân đậu đỏ</a></li>
+<li><a href="/banh-trung-thu-banh-nuong-hoa-cuc-vi-chanh-leo-nghe-tay-va-chanh-vang/" target="_blank">Bánh hoa cúc vàng (vị nghệ tây, chanh vàng, chanh leo)</a></li>
+<li><a href="/red-velvet-rose-mooncake-banh-nuong-nhan-chocolate-rum-nho/" target="_blank">Bánh nướng hoa hồng đỏ (màu đỏ củ dền, nhân café, chocolate, rum nho)</a></li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+</ol>
+<p><strong>C. Cách làm bánh dẻo trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-lam-banh-deo/" target="_blank">Cách làm bánh dẻo kiểu Việt Nam ít ngọt</a></li>
+<li><a href="/banh-trung-thu-chia-se-kinh-nghiem-lam-banh-deo/" target="_blank">Giải đáp các thắc mắc/ vấn đề thường gặp khi làm bánh dẻo</a></li>
+</ol>
+<p> </p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

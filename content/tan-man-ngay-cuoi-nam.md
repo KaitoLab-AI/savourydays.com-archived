@@ -1,0 +1,36 @@
+---
+title: "Tản mạn ngày cuối năm"
+date: "2013-02-08"
+slug: "tan-man-ngay-cuoi-nam"
+categories: ["Chuyện hàng ngày", "Về tôi"]
+tags: ["chia sẻ", "Tết Nguyên Đán", "về tôi"]
+image: "/wp-content/uploads/2013/02/chao-nam-moi.jpg"
+description: "Du học sinh ăn Tết, Savoury Days"
+---
+
+<p>28 Tết!</p>
+<p>Ở bên này vẫn là ngày đi làm, nhưng có đứa tự cho mình nghỉ, lý do báo cáo thầy là “ngọc thể bất an”, nhưng lý do thực sự thì là nghỉ vì….sắp đến Tết rồi :D</p>
+<p>Lâu lắm rồi mới có ngày đi ngủ mà không đặt đồng hồ báo thức. Thành ra 9h sáng mới uể oải mở mắt dậy. Nhìn ra ngoài trời thấy tuyết đang rơi và gió khá mạnh, đường vẫn đông, xe cộ vẫn hối hả như mọi ngày. Nhưng cảm giác của mình thì khác, thấy dường như thế giới ở xung quanh rất xa, còn trong mình và quanh mình là tập hợp của rất nhiều cảm xúc, vui, buồn, nhớ, mong, háo hức… lẫn lộn.</p>
+<p>Và trong mớ lẫn lộn ấy, bỗng nhiên có cảm giác thật mơ hồ, thấy hình như đang nằm trên giường nhà mình và mới tỉnh dậy sau một chuyến bay dài, thấy bố đang chuẩn bị mang xe máy đi rửa, mẹ lau lại chồng bát đĩa đẹp mà cả năm chỉ được lấy ra dùng vào những dịp rất đặc biệt như Tết nhất hay cúng giỗ, em gái loay hoay dọn lại bàn học, tủ sách, … thấy những cành đào được buộc sau yên xe máy chạy khắp phố phường, thấy những quầy hàng phủ kín phong bao lì xì đỏ, thấy những ông đồ già và trẻ cặm cụi bên nghiên mực quanh Quốc Tử Giám, và thấy nhiều điều khác nữa.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6735226231/" title="IMG_9585-1 by LinhTrang9185, on Flickr"><img alt="IMG_9585-1" class="aligncenter" height="346" loading="lazy" src="http://farm8.staticflickr.com/7012/6735226231_41aa4a16a0.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Chợt nhận ra rằng dù đây không phải là cái Tết đầu tiên xa nhà, và cũng đã quen với việc đón những ngày quan trọng một mình, không có gia đình bên cạnh, thì trong mình vẫn có một “phần” Việt Nam rất lớn. Và dù cho có ở nơi đâu đi chăng nữa, làm gì đi chăng nữa thì phần Việt Nam ấy vẫn luôn ở bên trong mình, nhắc mình nhớ, giúp cho mình có tất cả những cảm xúc đặc biệt trong những dịp quan trọng với người Việt Nam như những ngày giáp Tết này.</p>
+<p>Nhưng rất vui (và may mắn) là năm nay mình không phải đón Tết một mình. Từ tối qua du học sinh ở Antwerp đã bắt đầu tụ tập để chuẩn bị Tết: bánh chưng, giò xào, canh măng, nem rán, gà luộc… đủ cả :) Ở đây có chợ châu Á nhưng chủ yếu phục vụ cho TQ và Thái, nên các thứ nguyên liệu để nấu những món ăn truyền thống của Việt Nam không có nhiều. Nhưng chẳng sao, miễn là có một tấm lòng và một trái tim luôn hướng về quê hương, thì khó khăn đến đâu cũng có thể giải quyết được hết. Rất nhiều chiếc bánh chưng (với đủ hình dạng và kích thước khác nhau :P) đã được “sản xuất” với lá chuối, giấy bạc và dây thừng. Giò được đóng trong chai nước khoáng mua từ siêu thị. Cành đào được làm nên từ củi khô nhặt trong rừng với “hoa” bằng giấy màu, hồ dán và bút vẽ… Và Tết, dù ở xa quê hương hơn 10 ngàn cây số, vẫn rất tươm tất và đầy đủ :)</p>
+<p>Chỉ còn hơn 20 giờ nữa thôi, Tết đang đến rất gần rồi. Mong rằng tất cả các anh chị em, bạn bè gần xa sẽ có một cái Tết yên vui và đầm ấm bên gia đình, người thân và bạn bè của mình. Và cầu chúc một năm mới với nhiều hạnh phúc, thành công và may mắn sẽ đến với tất cả mọi người :x</p>
+<p>Chúc Mừng Năm Mới!!!</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6735222119/" title="IMG_9549-1 by LinhTrang9185, on Flickr"><img alt="IMG_9549-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7030/6735222119_7bd1536147_z.jpg" width="355"/></a></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

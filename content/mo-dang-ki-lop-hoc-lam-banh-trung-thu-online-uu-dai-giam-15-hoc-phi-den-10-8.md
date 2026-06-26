@@ -1,0 +1,223 @@
+---
+title: "Mở đăng kí LỚP HỌC LÀM BÁNH TRUNG THU ONLINE"
+date: "2019-08-04"
+slug: "mo-dang-ki-lop-hoc-lam-banh-trung-thu-online-uu-dai-giam-15-hoc-phi-den-10-8"
+categories: ["Bếp nhà mình"]
+tags: []
+image: ""
+description: "Lớp học trung thu online với Linh Trang Savoury days: Học bất kì lúc nào với chi phí thấp, có giáo viên hỗ trợ tới khi làm bánh thành công"
+---
+
+<div class="" data-block="true" data-editor="aod03" data-offset-key="ghs-0-0">
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="clrg1-0-0">
+<div class="_1mf _1mj" data-offset-key="clrg1-0-0"><span data-offset-key="clrg1-0-0" style="color: #000000;">Chào các bạn,</span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="5tno0-0-0">
+<div class="_1mf _1mj" data-offset-key="5tno0-0-0"><span data-offset-key="5tno0-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="bppkl-0-0">
+<div class="_1mf _1mj" data-offset-key="bppkl-0-0"><span data-offset-key="bppkl-0-0" style="color: #000000;">Linh Trang và SD team rất vui khi cuối cùng cũng tới ngày chính thức ra mắt khoá học online thứ hai, về chủ đề bánh trung thu. Khoá học đầu tiên với các món tráng miệng không cần lò (tiramisu, mousse, cheesecake…) tới giờ có thể nói đã thành công mỹ mãn với rất nhiều phản hồi tích cực và trả bài thành công của các học viên, không chỉ làm bánh cho gia đình mà cả để kinh doanh. Nên tụi mình rất mong, khoá học này sẽ còn thành công hơn nữa, giúp thêm nhiều học viên, dù là chưa biết gì về bánh nhưng sau khi học xong cũng có thể làm ra những chiếc bánh ngon, đẹp để mời gia đình bạn bè và cả để tăng thu nhập nữa ;)</span></div>
+<div class="_1mf _1mj" data-offset-key="bppkl-0-0"></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="bppkl-0-0"></div>
+<div class="_1mf _1mj" data-offset-key="bppkl-0-0"><div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/k5MNLrUK86Q" width="560"></iframe></div></div>
+</div>
+<div class="_1mf _1mj" data-offset-key="sjk8-0-0"><span data-offset-key="sjk8-0-0" style="color: #000000;"> </span></div>
+<div class="" data-block="true" data-editor="aod03" data-offset-key="ghs-0-0">
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="vd31-0-0">
+<div class="_1mf _1mj" data-offset-key="vd31-0-0"><span style="color: #000000;">Nếu không xem được video, các bạn có thể xem trực tiếp tại Youtube nhé</span>: <a href="https://youtu.be/k5MNLrUK86Q">https://youtu.be/k5MNLrUK86Q </a></div>
+<div class="_1mf _1mj" data-offset-key="vd31-0-0"></div>
+<div class="_1mf _1mj" data-offset-key="vd31-0-0"><span data-offset-key="vd31-0-0" style="color: #000000;">Một số thông tin quan trọng về khoá học như sau:</span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="fhue4-0-0">
+<div class="_1mf _1mj" data-offset-key="fhue4-0-0"><span data-offset-key="fhue4-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="5a53i-0-0">
+<div class="_1mf _1mj" data-offset-key="5a53i-0-0"><span data-offset-key="5a53i-0-0" style="color: #000000;"><strong>1. Hình thức học</strong>:</span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="5ghq2-0-0">
+<div class="_1mf _1mj" data-offset-key="5ghq2-0-0"><span data-offset-key="5ghq2-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="7v8k7-0-0">
+<div class="_1mf _1mj" data-offset-key="7v8k7-0-0"><span data-offset-key="7v8k7-0-0" style="color: #000000;">– Học qua video bài giảng đã được quay và biên tập. Có khoảng 30 video trong 6 bài học lớn. Video được quay bằng thiết bị hiện đại, biên tập cẩn thận nên rất rõ nét và chi tiết.</span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="4919l-0-0">
+<div class="_1mf _1mj" data-offset-key="4919l-0-0"><span data-offset-key="4919l-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="3fchg-0-0">
+<div class="_1mf _1mj" data-offset-key="3fchg-0-0"><span data-offset-key="3fchg-0-0" style="color: #000000;">– Video được đăng trong lớp học (là nhóm FB), bạn có thể xem/ học bất kì lúc nào, xem đi xem lại thoải mái.</span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="6kf2k-0-0">
+<div class="_1mf _1mj" data-offset-key="6kf2k-0-0"><span data-offset-key="6kf2k-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="fgsms-0-0">
+<div class="_1mf _1mj" data-offset-key="fgsms-0-0"><span data-offset-key="fgsms-0-0" style="color: #000000;">– Trong quá trình học có bất kì vấn đề gì bạn có thể hỏi ngay trong nhóm lớp học, có thể quay video, chụp hình lại sản phẩm để Linh Trang hỗ trợ/ nhận xét. Linh Trang sẽ hỗ trợ tới khi bạn có thể làm bánh thành công, chuẩn, ngon nhé. Ngoài ra, nếu cần thiết, Linh Trang sẽ tổ chức 1 vài buổi livestream giải đáp thắc mắc cho học viên của lớp. </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="7gdq6-0-0">
+<div class="_1mf _1mj" data-offset-key="7gdq6-0-0"><span data-offset-key="7gdq6-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="5lf0c-0-0">
+<div class="_1mf _1mj" data-offset-key="5lf0c-0-0"><strong><span data-offset-key="5lf0c-0-0" style="color: #000000;">2. Nội dung học:</span></strong></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="7n8nr-0-0">
+<div class="_1mf _1mj" data-offset-key="7n8nr-0-0"><span data-offset-key="7n8nr-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="ecn0o-0-0">
+<div class="_1mf _1mj" data-offset-key="ecn0o-0-0"><strong><span data-offset-key="ecn0o-0-0" style="color: #000000;">* BÀI 1 – TỔNG QUAN </span></strong></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="eihcr-0-0">
+<div class="_1mf _1mj" data-offset-key="eihcr-0-0"><span data-offset-key="eihcr-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="5au9p-0-0">
+<div class="_1mf _1mj" data-offset-key="5au9p-0-0"><span data-offset-key="5au9p-0-0" style="color: #000000;">– Giới thiệu về khoá học, cấu trúc chương trình, mục tiêu đầu ra,</span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="4hv6u-0-0">
+<div class="_1mf _1mj" data-offset-key="4hv6u-0-0"><span data-offset-key="4hv6u-0-0" style="color: #000000;">– Cung cấp kiến thức cơ bản về dụng cụ, nguyên liệu cần có để làm bánh trung thu: đặc điểm, công dụng, địa chỉ mua sắm và các lưu ý khi chọn mua (cho các bạn ở Việt Nam và nước ngoài). Lưu ý khi dùng, bảo quản, và các nguyên liệu hay dụng cụ thay thế (nếu có).</span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="3emlg-0-0">
+<div class="_1mf _1mj" data-offset-key="3emlg-0-0"><span data-offset-key="3emlg-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="41hif-0-0">
+<div class="_1mf _1mj" data-offset-key="41hif-0-0"><strong><span data-offset-key="41hif-0-0" style="color: #000000;">* BÀI 2 – NẤU NƯỚC ĐƯỜNG BÁNH NƯỚNG </span></strong></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="212d8-0-0">
+<div class="_1mf _1mj" data-offset-key="212d8-0-0"><span data-offset-key="212d8-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="9k6ph-0-0">
+<div class="_1mf _1mj" data-offset-key="9k6ph-0-0"><span data-offset-key="9k6ph-0-0" style="color: #000000;">– Cách nấu nước đường bánh nướng và 2 cách nhận biết nước đường đạt chuẩn.</span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="bp7er-0-0">
+<div class="_1mf _1mj" data-offset-key="bp7er-0-0"><span data-offset-key="bp7er-0-0" style="color: #000000;">– Các lưu ý quan trọng và thất bại thường gặp khi nấu nước đường. Cách thay thế khi không kịp nấu nước đường.</span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="27m6p-0-0">
+<div class="_1mf _1mj" data-offset-key="27m6p-0-0"><span data-offset-key="27m6p-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="4bmoq-0-0">
+<div class="_1mf _1mj" data-offset-key="4bmoq-0-0"><strong><span data-offset-key="4bmoq-0-0" style="color: #000000;">* BÀI 3 – BÁNH NƯỚNG TRỨNG MUỐI ĐẬU XANH &amp; VỎ BÁNH KIỂU MỀM </span></strong></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="cpgqn-0-0">
+<div class="_1mf _1mj" data-offset-key="cpgqn-0-0"><span data-offset-key="cpgqn-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="dcq9m-0-0">
+<div class="_1mf _1mj" data-offset-key="dcq9m-0-0"><span data-offset-key="dcq9m-0-0" style="color: #000000;">– Cách sên nhân nhuyễn (ví dụ: nhân đậu xanh): Hướng dẫn chi tiết thao tác từ khi chuẩn bị đậu tới khi sên xong. Các lưu ý quan trọng để làm nhân nhuyễn, dẻo, mềm, mịn. Bí quyết kiểm tra để đảm bảo nhân đạt, không bị khô hay tươm dầu, không bị ướt.</span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="8murm-0-0">
+<div class="_1mf _1mj" data-offset-key="8murm-0-0"><span data-offset-key="8murm-0-0" style="color: #000000;">– Cách làm, bảo quản, nướng trứng muối cho đẹp. Cách bọc nhân trứng muối</span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="5e1l2-0-0">
+<div class="_1mf _1mj" data-offset-key="5e1l2-0-0"><span data-offset-key="5e1l2-0-0" style="color: #000000;">– Cách làm vỏ bánh KIỂU MỀM. Hướng dẫn chi tiết thao tác từ trộn bột vỏ bánh, cách bảo quản bột, cán vỏ bánh, bọc nhân bánh, cách đóng bánh cho sắc nét, nướng bánh, quét trứng mặt bánh.</span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="dj68f-0-0">
+<div class="_1mf _1mj" data-offset-key="dj68f-0-0"><span data-offset-key="dj68f-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="21gt1-0-0">
+<div class="_1mf _1mj" data-offset-key="21gt1-0-0"><strong><span data-offset-key="21gt1-0-0" style="color: #000000;">* BÀI 4: BÁNH NƯỚNG NHÂN THẬP CẨM 2 KIỂU TRUYỀN THỐNG – HIỆN ĐẠI &amp; VỎ BÁNH KIỂU CỨNG GIÒN BÙI </span></strong></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="d7c4a-0-0">
+<div class="_1mf _1mj" data-offset-key="d7c4a-0-0"><span data-offset-key="d7c4a-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="90j68-0-0">
+<div class="_1mf _1mj" data-offset-key="90j68-0-0"><span data-offset-key="90j68-0-0" style="color: #000000;">– Cách làm nhân thập cẩm kiểu truyền thống và nhân thập cẩm hiện đại (mứt quả hạt)</span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="5scid-0-0">
+<div class="_1mf _1mj" data-offset-key="5scid-0-0"><span data-offset-key="5scid-0-0" style="color: #000000;">– Cách làm vỏ bánh KIỂU CỨNG GIÒN BÙI.</span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="42hb8-0-0">
+<div class="_1mf _1mj" data-offset-key="42hb8-0-0"><span data-offset-key="42hb8-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="9r5lj-0-0">
+<div class="_1mf _1mj" data-offset-key="9r5lj-0-0"><strong><span data-offset-key="9r5lj-0-0" style="color: #000000;">* BÀI 5: BÁNH NƯỚNG VỎ CHOCOLATE – NHÂN MỨT DỨA HẠT ĐIỀU &amp; NHÂN SỮA DỪA </span></strong></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="8csm3-0-0">
+<div class="_1mf _1mj" data-offset-key="8csm3-0-0"><span data-offset-key="8csm3-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="1pbbf-0-0">
+<div class="_1mf _1mj" data-offset-key="1pbbf-0-0"><span data-offset-key="1pbbf-0-0" style="color: #000000;">– Cách làm 2 loại nhân mứt dứa hạt điều chua chua ngòn ngọt bùi bùi và dừa sữa (cực ngon)</span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="eatbk-0-0">
+<div class="_1mf _1mj" data-offset-key="eatbk-0-0"><span data-offset-key="eatbk-0-0" style="color: #000000;">– Cách làm vỏ bánh chocolate, các lưu ý quan trọng khi trộn vỏ bánh, đóng bánh và nướng bánh</span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="d105i-0-0">
+<div class="_1mf _1mj" data-offset-key="d105i-0-0"><span data-offset-key="d105i-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="dte2g-0-0">
+<div class="_1mf _1mj" data-offset-key="dte2g-0-0"><strong><span data-offset-key="dte2g-0-0" style="color: #000000;">* BÀI 6: TỔNG KẾT &amp; NÂNG CAO </span></strong></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="5m8de-0-0">
+<div class="_1mf _1mj" data-offset-key="5m8de-0-0"><span data-offset-key="5m8de-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="19keq-0-0">
+<div class="_1mf _1mj" data-offset-key="19keq-0-0"><span data-offset-key="19keq-0-0" style="color: #000000;">– Cách biến tấu các loại nhân vị hoa quả, chocolate, cafe, trà xanh, lá dứa… từ nhân nhuyễn cơ bản. Công thức cách làm nhân mè đen, đậu đỏ, tiramisu, chanh dây, khoai môn. </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="59sje-0-0">
+<div class="_1mf _1mj" data-offset-key="59sje-0-0"><span data-offset-key="59sje-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="3rigs-0-0">
+<div class="_1mf _1mj" data-offset-key="3rigs-0-0"><span data-offset-key="3rigs-0-0" style="color: #000000;">– Phân tích nguyên tắc cơ bản khi làm bánh trung thu, từ đó học viên có thể tự điều chỉnh độ cứng, mềm của vỏ bánh, biến tấu sang nhiều loại nhân bánh khác theo sở thích</span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="2jjp1-0-0">
+<div class="_1mf _1mj" data-offset-key="2jjp1-0-0"><span data-offset-key="2jjp1-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="5hipf-0-0">
+<div class="_1mf _1mj" data-offset-key="5hipf-0-0"><span data-offset-key="5hipf-0-0" style="color: #000000;">– Các lưu ý về cách sử dụng lò nướng, điều chỉnh nhiệt độ nướng để học viên có thể kiểm soát nhiệt độ của lò gia đình mình</span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="bu7cd-0-0">
+<div class="_1mf _1mj" data-offset-key="bu7cd-0-0"><span data-offset-key="bu7cd-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="dog40-0-0">
+<div class="_1mf _1mj" data-offset-key="dog40-0-0"><span data-offset-key="dog40-0-0" style="color: #000000;">– QUAN TRỌNG NHẤT: Tổng hợp các VẤN ĐỀ &amp; THẤT BẠI thường gặp khi làm bánh trung thu, phân tích nguyên nhân và cách khắc phục. </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="ano8t-0-0">
+<div class="_1mf _1mj" data-offset-key="ano8t-0-0"><span data-offset-key="ano8t-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="fakob-0-0">
+<div class="_1mf _1mj" data-offset-key="fakob-0-0"><span data-offset-key="fakob-0-0" style="color: #000000;"><strong>3. Học phí:</strong> </span><span data-offset-key="b7d4-0-0" style="color: #000000;"> 975.000đ (42 USD hoac 38 EUR với học viên ở nước ngoài). </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="b7d4-0-0"></div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="4tnbl-0-0">
+<div class="_1mf _1mj" data-offset-key="4tnbl-0-0"><span data-offset-key="4tnbl-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="6up9l-0-0">
+<div class="_1mf _1mj" data-offset-key="6up9l-0-0"><strong><span data-offset-key="6up9l-0-0" style="color: #000000;">4. Cách đăng kí </span></strong></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="9s1sa-0-0">
+<div class="_1mf _1mj" data-offset-key="9s1sa-0-0"><span data-offset-key="9s1sa-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="93ka4-0-0">
+<div class="_1mf _1mj" data-offset-key="93ka4-0-0"><span data-offset-key="93ka4-0-0" style="color: #000000;">– Mời các bạn đăng kí và chuyển khoản học phí theo hướng dẫn trong mẫu đơn này: <a href="https://forms.gle/Jb5yhsNBVBT336iY7">https://forms.gle/Jb5yhsNBVBT336iY7</a></span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="dqg3s-0-0">
+<div class="_1mf _1mj" data-offset-key="dqg3s-0-0"><span data-offset-key="dqg3s-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="f5pa5-0-0">
+<div class="_1mf _1mj" data-offset-key="f5pa5-0-0"><span data-offset-key="f5pa5-0-0" style="color: #000000;">– Sau khi chuyển khoản xong, các bạn chụp lại biên lai chuyển tiền và gửi tới hoclambanhonline.sd@gmail.com nhé </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="asdt0-0-0">
+<div class="_1mf _1mj" data-offset-key="asdt0-0-0"><span data-offset-key="asdt0-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="bevns-0-0">
+<div class="_1mf _1mj" data-offset-key="bevns-0-0"><span data-offset-key="bevns-0-0" style="color: #000000;">– Chỉ khi nhận được mail xác nhận từ mail: hoclambanhonline.sd@gmail.com việc đăng kí của bạn mới hoàn tất. </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="clio1-0-0">
+<div class="_1mf _1mj" data-offset-key="clio1-0-0"><span data-offset-key="clio1-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="9m98m-0-0">
+<div class="_1mf _1mj" data-offset-key="9m98m-0-0"><span data-offset-key="9m98m-0-0" style="color: #000000;">– Có bất kì câu hỏi hay thắc mắc gì, bạn có thể inbox page hoặc gọi số hotline của SD là: 086 86 68 370 </span></div>
+</div>
+<div class="" data-block="true" data-editor="ddlnr" data-offset-key="4mrfu-0-0">
+<div class="_1mf _1mj" data-offset-key="4mrfu-0-0"><span data-offset-key="4mrfu-0-0" style="color: #000000;">Cảm ơn các bạn :)</span></div>
+</div>
+</div>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

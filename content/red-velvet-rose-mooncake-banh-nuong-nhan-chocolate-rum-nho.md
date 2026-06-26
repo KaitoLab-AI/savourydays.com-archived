@@ -1,0 +1,118 @@
+---
+title: "Red Velvet Rose Mooncake – Bánh nướng nhân chocolate rum nho"
+date: "2015-08-19"
+slug: "red-velvet-rose-mooncake-banh-nuong-nhan-chocolate-rum-nho"
+categories: []
+tags: []
+image: "/wp-content/uploads/2015/08/RedvelvetRoseCake.jpg"
+description: "bánh trung thu màu hồng đỏ, màu tự nhiên, màu củ dền"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Màu đỏ từ củ dền (beet root) là một thứ màu rất kì diệu. Tùy theo cách xử lí và lượng màu sử dụng mà sản phẩm có thể mang rất nhiều sắc màu đỏ hồng khác nhau, từ hồng nhạt cho tới hồng tía, và như trong chiếc bánh mới này của mình là gần như đỏ Bọc-đô (Bordeaux).</p>
+<p>Mình thích màu đỏ này  lắm, cảm giác nó vừa quyến rũ, vừa sang trọng, vừa kiêu kì … thế nào ấy :) Nên làm ra được vỏ bánh nướng màu này thì thấy sướng kinh khủng :”&gt; Phần nhân bánh mình dùng đậu đỏ, trộn với bột cacao để tạo vị chocolate, thêm ít cafe với kha khá nho khô ngâm Rum. Vị bánh hơi giống kiểu Tiramisu với hương cafe, chocolate và nồng nàn của rượu, lại có cả nhân nho mềm dẻo chua chua ngòn ngọt nữa nên rất dễ ăn.</p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20663935981/in/datetaken/" title="IMG_3678-1"><img alt="IMG_3678-1" height="353" loading="lazy" src="https://farm1.staticflickr.com/640/20663935981_ab3a74c52f_z.jpg" width="640"/></a><span style="color: #800000;"><strong>Số lượng</strong></span>: 11 bánh cỡ 50 gram</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong>A. Phần nhân chocolate rum nho</strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em>75 gram nho khô (hoặc thay bằng cranberry, mơ, mận khô tùy thích, nếu là quả to thì cắt nhỏ)</em></li>
+<li><em>20 – 30 ml rượu Rum (có thể thay bằng một loại rượu mạnh khác tùy thích)</em></li>
+<li><em>100 gram đậu đỏ khô (hoặc đậu xanh đã cà vỏ)</em></li>
+<li><em>200 – 300 ml nước sôi</em></li>
+<li><em>40 gram đường</em></li>
+<li><em>20 ml cafe đậm đặc – nóng</em></li>
+<li><em>8 – 10 gram bột cacao</em></li>
+<li><em>35 gram dầu ăn (nên dùng dầu dừa/ coconut oil hoặc dầu đậu phộng/ peanut oil)</em></li>
+</ul>
+<p><span style="color: #000000;"><strong>B. Phần vỏ bánh</strong> </span></p>
+<ul>
+<li><em>120 gram bột mì</em></li>
+<li><em>80 gram nước đường bánh nướng </em></li>
+<li><em>5 gram dầu ăn </em></li>
+<li><em>10 gram lòng đỏ trứng </em></li>
+<li><em>5 gram bơ đậu phộng loại mịn </em></li>
+<li><em>8 ml nước ép từ củ dền (beet root) </em></li>
+<li><em>1 gram bột màu củ dền (không bắt buộc)</em></li>
+</ul>
+<p>  (*) <strong>Ghi chú:</strong></p>
+<p>– Mình dùng 60 gram bột làm bánh ngọt/ bột mì số 8 và 60 gram bột làm bánh mì/ bột mì số 11, các bạn có thể dùng hoàn toàn bột mì đa dụng nếu không có sẵn hai loại bột này</p>
+<p>– Nước đường bánh nướng: dùng loại nấu từ đường trắng hay vàng/ nâu đều được nhưng nấu từ đường trắng thì màu vỏ bánh sẽ tươi hơn.</p>
+<p>– Tách riêng lòng đỏ và lòng trắng trứng, đánh lòng đỏ tan nhẹ, múc lấy 10 gram. Phần còn lại cho vào bát, dùng vỏ trứng múc thêm 10 gram lòng trắng trứng hòa tan cùng lòng đỏ, để riêng để quét mặt bánh.</p>
+<p>– Nước củ dền được làm theo cách trong bài về <a href="/tu-lam-mau-thuc-pham-tu-rau-cu-qua-tu-nhien/" target="_blank">cách làm màu tự nhiên</a>. Tuy nhiên mình đun cạn hơn một chút, từ 250 ml nước ép ban đầu đun còn khoảng 20 – 30 ml nước củ dền.</p>
+<p>– Ngoài nước ép mình còn dùng thêm bột từ xác củ dền sấy khô (cách làm cũng trong bài về cách làm màu tự nhiên), tuy nhiên phần này không bắt buộc.</p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><strong>A. Nhân chocolate rum nho:</strong></p>
+<p>– Trộn nho khô với rượu Rum, ngâm trong khoảng 8h đến khi nho ngấm rượu và nở mềm.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>– Nhân chocolate về cơ bản được sên giống với <a href="/video-cach-sen-nhan-dau-xanh-banh-trung-thu/" target="_blank">cách sên nhân đậu xanh trong video nà</a>y. Các bạn có thể dùng đậu xanh hoặc đậu đỏ tùy thích (mình dùng đậu đỏ). Tóm tắt các bước làm như sau:</p>
+<p>+ Rửa sạch đậu, ngâm với 150 ml nước nóng. Nếu là đậu đỏ nên ngâm qua đêm để đậu mềm.</p>
+<p>+ Cho thêm nước và đường, nấu hoặc ninh trong nồi áp suất tới khi đậu mềm nhừ. Xay với nhiều nước để đậu thật nhuyễn, lọc qua rây. Nếu là đậu đỏ, cần bỏ xác vỏ đậu.</p>
+<p>+ Cho đậu xay vào chảo. Hòa tan bột cacao trong cafe nóng. Cho hỗn hợp này vào hòa tan cùng đậu.</p>
+<p>+ Bắt đầu sên ở lửa vừa. Chia dầu ăn làm 2 – 3 phần, cho từng phần vào chảo, quấy cho hòa quyện rồi cho phần tiếp theo.</p>
+<p>+ Sau khi cho hết dầu ăn, nhân vẫn còn lỏng. Lúc này đổ phần nho ngâm rượu vào, tiếp tục sên đến khi nhân quyện thành một khối khô, mềm, dẻo, bóng.</p>
+<p>*<strong> Ghi chú:</strong></p>
+<p>– Lượng cafe và bột cacao có thể thay đổi, tùy theo khẩu vị của bạn và loại cacao/ cafe mà bạn dùng. Cafe có thể cho tùy thích, cacao thì không nên cho quá nhiều vì nhân sẽ dễ có cảm giác bột bột.</p>
+<p>– Khi sên xong, nho có thể sẽ không bám vào nhân mà rời ra, việc này là bình thường, chúng ta sẽ cho nho vào nhân khi viên nhân bánh thành các viên tròn nhỏ.</p>
+<p>– Sau khi sên xong, thi thoảng đảo nhân để phần mặt ngoài không bị khô. Khi nhân còn hơi ấm thì viên thành các viên nhân nhỏ. Một công thức làm được 330 gram nhân. Mình chia thành 11 phần bằng nhau, mỗi phần 30 gram để làm bánh cỡ 50 gram.</p>
+<p><em>Nhân bánh chocolate rum nho</em></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20630982586/in/datetaken/" title="IMG_3683-1"><img alt="IMG_3683-1" class="aligncenter" height="640" loading="lazy" src="https://farm6.staticflickr.com/5800/20630982586_34a82563d9_z.jpg" width="454"/></a></p>
+<p><span style="color: #800000;"><strong>B. Phần vỏ bánh</strong> </span></p>
+<p>Vỏ bánh được làm theo cách trong công thức vỏ bánh nướng cơ bản. Các phần trộn bột, để bột nghỉ, bọc nhân và đóng bánh đều giống như vỏ bánh nướng cơ bản. Vỏ bánh sau khi trộn nên hơi ướt một chút, sau thời gian nghỉ sẽ thành vừa khô, đóng bánh rõ nét hơn. Lưu ý là không trộn bột vỏ bánh quá nhiều, làm cho bột dai, khi đóng bánh dễ bị mất nét.</p>
+<p>Một công thức làm được 220 gram vỏ bánh, mình chia thành 11 phần nhân, mỗi phần 20 gram.</p>
+
+
+<p><strong>C. Nướng và quết mặt bánh:</strong></p>
+<p>– Hỗn hợp quết mặt bánh gồm 10 gram lòng đỏ, 10 gram lòng trắng (xem lưu ý trong phần Nguyên liệu), 3 – 5 ml nước củ dền (tùy bạn muốn màu bánh đậm hay nhạt), đánh tan, lọc qua rây.</p>
+<p>– Mình nướng bánh 3 lần, giữa các lần nướng có xịt nước và quét mặt bánh. Nướng bánh lần 1 ở nhiệt độ 170 độ C (lò của mình có 5 nấc đặt khay, mình đặt ở nấc thứ 2 từ dưới lên) trong 7 – 8 phút. Lần 2 và 3 nướng ở nhiệt độ 170 độ C trong khoảng 5 phút. <strong>Nếu bánh to hơn </strong>thì thời gian nướng sẽ tăng thêm một chút, nhiệt độ không đổi. Các bạn có thể xem thêm cách quét mặt bánh trong video ở link cuối bài.</p>
+<p>* <span style="text-decoration: underline;"><strong>Lưu ý</strong></span>: <span style="color: #ff0000;">với bánh có màu từ củ dền, trong thành phần vỏ bánh không được dùng muối nở (baking soda) hay nước tro tàu vì các nguyên liệu này có thể làm nhạt hoặc mất màu đỏ của vỏ bánh.</span></p>
+<p>Sau khi nướng xong, nếu vỏ bánh quá mềm, có thể bật lò ở 110 độ C rồi cho bánh vào lò sấy thêm 5 – 7 phút. Bảo quản bánh ở nơi thoáng mát, nếu để trong hộp hay túi kín, cần có túi hút ẩm. Nên dùng trong 3 ngày.</p>
+<p>Tóm tắt quá trình làm vỏ bánh và đóng bánh qua ảnh :)</p>
+<p><em>Nước ép củ dền </em></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20663929611/in/datetaken/" title="IMG_9774"><img alt="IMG_9774" height="427" loading="lazy" src="https://farm6.staticflickr.com/5755/20663929611_4084868b3b_z.jpg" width="640"/></a></p>
+<p><em>bột sau khi trộn xong </em></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20469222098/in/datetaken/" title="IMG_9778"><img alt="IMG_9778" height="427" loading="lazy" src="https://farm1.staticflickr.com/605/20469222098_34c45ab5f6_z.jpg" width="640"/></a> <em>sau khi để nghỉ và chia thành nhiều phần nhỏ </em> <a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20663907211/in/datetaken/" title="IMG_9779"><img alt="IMG_9779" height="427" loading="lazy" src="https://farm1.staticflickr.com/752/20663907211_70749c5b58_z.jpg" width="640"/></a> <em>cán mỏng, bọc nhân</em> <a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20469199090/in/datetaken/" title="IMG_9786"><img alt="IMG_9786" height="427" loading="lazy" src="https://farm6.staticflickr.com/5631/20469199090_da95b845f1_z.jpg" width="640"/></a><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20469196420/in/datetaken/" title="IMG_9788"><img alt="IMG_9788" height="427" loading="lazy" src="https://farm6.staticflickr.com/5633/20469196420_c369446000_z.jpg" width="640"/></a><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20469193930/in/datetaken/" title="IMG_9790"><img alt="IMG_9790" height="427" loading="lazy" src="https://farm6.staticflickr.com/5647/20469193930_f2ea4e5c3b_z.jpg" width="640"/></a></p>
+<p><em>cho vào khuôn, dùng lòng bàn tay ép cho bánh dàn đầy khuôn </em><br/>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20469206110/in/datetaken/" title="IMG_9780"><img alt="IMG_9780" height="427" loading="lazy" src="https://farm6.staticflickr.com/5678/20469206110_38d5e8e117_z.jpg" width="640"/></a> <a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20630938916/in/datetaken/" title="IMG_9793"><img alt="IMG_9793" height="427" loading="lazy" src="https://farm1.staticflickr.com/590/20630938916_12388bec01_z.jpg" width="640"/></a> <a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20657213415/in/datetaken/" title="IMG_9783"><img alt="IMG_9783" height="427" loading="lazy" src="https://farm6.staticflickr.com/5741/20657213415_9d70cb3835_z.jpg" width="640"/></a> <em>mở nắp khuôn và đẩy bánh lên </em></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20034648644/in/datetaken/" title="IMG_9784"><img alt="IMG_9784" height="427" loading="lazy" src="https://farm1.staticflickr.com/642/20034648644_09c5681309_z.jpg" width="640"/></a><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20657198985/in/datetaken/" title="IMG_9794"><img alt="IMG_9794" height="427" loading="lazy" src="https://farm1.staticflickr.com/683/20657198985_5043b288c2_z.jpg" width="640"/></a><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20657196395/in/datetaken/" title="IMG_9796"><img alt="IMG_9796" height="427" loading="lazy" src="https://farm1.staticflickr.com/697/20657196395_edc6f77192_z.jpg" width="640"/></a></p>
+<p><em>ta sẽ có một bông hồng tuyệt đẹp :)</em><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20469184630/in/datetaken/" title="IMG_9798"><img alt="IMG_9798" height="422" loading="lazy" src="https://farm6.staticflickr.com/5780/20469184630_261c00b80c_z.jpg" width="640"/></a> <em>pha hỗn hợp quét mặt bánh </em></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20469190988/in/datetaken/" title="IMG_9800"><img alt="IMG_9800" height="427" loading="lazy" src="https://farm1.staticflickr.com/628/20469190988_9f653c0ae4_z.jpg" width="640"/></a></p>
+<p><em>sau lần nướng và xịt nước thứ nhất (do ánh đèn trong bếp nên màu bánh hơi tái một chút)</em><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20663877781/in/datetaken/" title="IMG_9801"><img alt="IMG_9801" height="427" loading="lazy" src="https://farm1.staticflickr.com/666/20663877781_a915c12fbe_z.jpg" width="640"/></a> <em>sau lần quét trứng thứ nhất</em><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20647995592/in/datetaken/" title="IMG_9802"><img alt="IMG_9802" height="427" loading="lazy" src="https://farm6.staticflickr.com/5797/20647995592_5dbf0e74fe_z.jpg" width="640"/></a></p>
+<p style="text-align: left;"><em>sau một ngày :)</em></p>
+<p style="text-align: left;"><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20036295153/in/datetaken/" title="IMG_3685"><img alt="IMG_3685" height="412" loading="lazy" src="https://farm1.staticflickr.com/684/20036295153_17fd572cae_z.jpg" width="640"/></a>  ——–</p>
+<p style="text-align: left;"><strong>BÀI VIẾT CÙNG CHỦ ĐỀ TRUNG THU</strong></p>
+<p style="text-align: left;"><strong>A. Kiến thức chung</strong></p>
+<ol>
+<li>Tổng hợp cách làm bánh nướng, bánh dẻo trung thu</li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+<li><a href="/trung-muoi/" target="_blank">Cách làm trứng muối</a></li>
+<li><a href="/banh-trung-thu-cach-xu-li-trung-muoi-cho-nhan-banh-trung-thu/" target="_blank">Cách xử lí trứng muối để làm nhân bánh</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" target="_blank">Cách chọn khuôn bánh trung thu</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" target="_blank">Cách làm rượu Mai Quế Lộ</a></li>
+<li><a href="/tu-lam-mau-thuc-pham-tu-rau-cu-qua-tu-nhien/" target="_blank">Tự làm màu thực phẩm từ rau củ quả tự nhiên</a></li>
+</ol>
+<p> </p>
+<p><strong>B. Cách làm bánh nướng trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-nau-nuoc-duong-cho-banh-nuong/" target="_blank">Cách nấu nước đường bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-lam-banh-nuong/" target="_blank">Cách làm bánh nướng trung thu (</a>trộn bột, bọc nhân, đóng bánh và nướng)</li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-dau-xanh-tra-xanh-la-dua/" target="_blank">Cách làm nhân đậu xanh – trà xanh – lá dứa</a></li>
+<li><a href="/banh-trung-thu-nhan-thap-cam-nhan-sua-dua/" target="_blank">Cách làm nhân thập cẩm – sữa dừa</a></li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-sen-nhuyen/" target="_blank">Cách làm nhân sen nhuyễn</a></li>
+<li><a href="/banh-trung-thu-tra-xanh-nhan-dau-do/" target="_blank">Bánh trà xanh nhân đậu đỏ</a></li>
+<li><a href="/banh-trung-thu-banh-nuong-hoa-cuc-vi-chanh-leo-nghe-tay-va-chanh-vang/" target="_blank">Bánh hoa cúc vàng (vị nghệ tây, chanh vàng, chanh leo)</a></li>
+<li><a href="/red-velvet-rose-mooncake-banh-nuong-nhan-chocolate-rum-nho/" target="_blank">Bánh nướng hoa hồng đỏ (màu đỏ củ dền, nhân café, chocolate, rum nho)</a></li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+</ol>
+<p><strong>C. Cách làm bánh dẻo trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-lam-banh-deo/" target="_blank">Cách làm bánh dẻo kiểu Việt Nam ít ngọt</a></li>
+<li><a href="/banh-trung-thu-chia-se-kinh-nghiem-lam-banh-deo/" target="_blank">Giải đáp các thắc mắc/ vấn đề thường gặp khi làm bánh dẻo</a></li>
+</ol>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

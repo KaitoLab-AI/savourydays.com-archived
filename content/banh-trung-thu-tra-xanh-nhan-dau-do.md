@@ -1,0 +1,97 @@
+---
+title: "Bánh trung thu trà xanh nhân đậu đỏ"
+date: "2015-08-04"
+slug: "banh-trung-thu-tra-xanh-nhan-dau-do"
+categories: []
+tags: []
+image: "/wp-content/uploads/2015/08/BanhNuongTraXanh.jpg"
+description: "bánh trung thu trà xanh , nhân đậu đỏ bánh trung thu"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Tuần này mình đi vắng nên việc trả lời phản hồi và đăng bài tại blog sẽ hơi chậm một chút cả nhà nhé.</p>
+<p>Bánh trong hình mình mới làm cuối tuần vừa rồi, cũng chỉ là một mẻ bánh bình thường thôi, nhưng không ngờ là sau khi đăng hình lên Facebook đã nhận được rất nhiều lời hỏi thăm cách làm, loại khuôn, đặc biệt là cách giữ màu vỏ bánh của các bạn nên mình tranh thủ viết vài dòng chia sẻ, hi vọng sẽ có ích cho cả nhà :)</p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20281519802/in/datetaken/" title="IMG_9670-1"><img alt="IMG_9670-1" height="427" loading="lazy" src="https://farm1.staticflickr.com/353/20281519802_d0e918b3af_z.jpg" width="640"/></a></p>
+<p>Bánh trong hình của mình dùng khuôn lò xo loại 100 gram, mình mua từ năm ngoái nên cũng không nhớ địa chỉ chính xác là mua ở đâu. Nhưng khuôn này của mình cũng chỉ là khuôn lò xo loại có 4 – 6 mặt đi kèm, bán đại trà chứ không có gì đặc biệt đâu. Giờ đang là thời điểm các loại khuôn bánh, hộp đựng bánh trung thu được nhập về bán nhiều, có rất nhiều lựa chọn nên mình nghĩ các bạn có thể xem tham khảo một số nơi, sẽ tìm được nhiều mẫu ưng ý. Nếu nhất định thích mẫu khuôn như bánh của mình thì khi nào về nhà mình sẽ chụp lại ảnh cho các bạn xem sau nhé.</p>
+<p>Khuôn là 100 gram nhưng bánh mình chỉ làm 90 gram nên hơi thấp một chút. Có điều mình thích các thứ nho nhỏ xinh xinh nên cỡ này lại thấy vừa. Trong 90 gram này thì có 30 gram là vỏ bánh, 60 gram là nhân đậu đỏ và trứng muối.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20289884965/in/datetaken/" title="IMG_2780-002"><img alt="IMG_2780-002" height="428" loading="lazy" src="https://farm1.staticflickr.com/294/20289884965_a6fffc5e7a_z.jpg" width="640"/></a></p>
+<p>Về vỏ bánh, mình dùng <a href="/banh-trung-thu-cach-lam-banh-nuong/" target="_blank"><strong>công thức vỏ bánh nướng</strong></a> đã giới thiệu tại blog. Nước đường nấu hoàn toàn từ đường trắng và đã được 2 tuần từ khi nấu. Mình thay 4 gram bột mì bằng 4 gram bột trà xanh. Rây bột trà xanh với bột mì và trộn đều. Các nguyên liệu khác không có gì thay đổi.</p>
+<p>Với vỏ bánh trà xanh thì màu bánh mình thấy phụ thuộc vào màu trà và lượng bột trà rất nhiều. Mình có thử khá nhiều mẻ bánh và thấy là chỉ cần thay đổi lượng bột trà một chút thôi thì màu của vỏ bánh cũng có thể khác đi rồi. Thường thì mình dùng khoảng 4 – 4.5 gram cho một công thức bánh. Bột trà ít sẽ cho vỏ bánh màu vàng cỏ úa, tăng dần lên thì màu xanh cũng đậm hơn, nếu cho rất nhiều thì vỏ bánh có thể có màu xanh lá rất đậm.</p>
+<p>Màu xanh này còn phụ thuộc cả vào màu của bột trà nữa. Mình dùng bột trà của Nhật, 2 loại khác nhau cũng thấy cho màu sắc khác nhau, nhưng đều là tông xanh kiểu xanh non hơi vàng. Mình nghĩ đây là màu tự nhiên của bột trà, khác với loại bột trà có màu xanh đậm rực lên, hơi giống màu của phẩm nhuộm (kiểu xanh lè ấy). Thường thì màu bánh sau nướng sẽ đậm hơn màu bột sau khi trộn xong.</p>
+<p>Cách trộn bột và bọc nhân giống như mình đã giới thiệu tại blog. Lưu ý là chỉ trộn bột vừa đủ, không nhồi quá lâu sẽ làm bột dai, khó cán và dễ mất vân khi đóng khuôn và nướng. Khi vừa trộn xong bột nên hơi ẩm và ướt một chút, để 40 – 50 phút bột sẽ khô hơn và vừa đủ để cán và đóng khuôn. Bột ướt và mềm cũng sẽ cho hoa văn sắc nét hơn.</p>
+<p style="text-align: center;"><em>trộn các loại nguyên liệu với nhau </em></p>
+<p style="text-align: center;"><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20289881765/in/datetaken/" title="IMG_9645"><img alt="IMG_9645" height="427" loading="lazy" src="https://farm1.staticflickr.com/486/20289881765_c75324e662_z.jpg" width="640"/></a><em>nguyên liệu đã hòa quyện </em></p>
+<p style="text-align: center;"><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19668907063/in/datetaken/" title="IMG_9646"><img alt="IMG_9646" height="428" loading="lazy" src="https://farm1.staticflickr.com/330/19668907063_ff81eeac87_z.jpg" width="640"/></a> <em>chỉ trộn thêm chút xíu nữa để nguyên liệu thành khối rồi bọc kín và để nghỉ khoảng 40 phút</em></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20281520222/in/datetaken/" title="IMG_9648-001"><img alt="IMG_9648-001" height="428" loading="lazy" src="https://farm1.staticflickr.com/551/20281520222_b3134455c7_z.jpg" width="640"/></a><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20281520452/in/datetaken/" title="IMG_9647"><img alt="IMG_9647" height="428" loading="lazy" src="https://farm1.staticflickr.com/395/20281520452_b84b80ed6b_z.jpg" width="640"/></a></p>
+<p>Bánh trà xanh mình nướng ở nhiệt độ 165 – 170 độ C, khay nướng đặt thấp hơn rãnh giữa 1 nấc (lò có 5 rãnh). Thời gian thì tùy kích thước bánh nhưng với bánh 90 gram thì mình nướng 8 – 9 phút mỗi lần, tổng cộng 3 lần nướng với 2 lần quét mặt bánh. Mình quét mặt bánh bằng 1 quả trứng đánh tan nhẹ với 1/2 thìa cafe nước. Trứng giúp cho mặt bánh bóng hơn. Chỉ cần quét một lớp rất mỏng, không quét quá dày và cần đợi cho mặt bánh khô mới quét để tránh bánh bị rạn mặt.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Với bánh trà xanh, nhiệt độ nên để ở mức thấp, dưới 170 độ C vì nhiệt cao hơn thì vỏ bánh có thể sẽ chuyển vàng úa. Lò nhỏ nhiệt có thể nhiệt sẽ tác động lên bánh nhanh hơn nên khi làm các bạn cần tự theo dõi để tự điều chỉnh mức nhiệt linh hoạt theo đặc điểm của lò nhà mình nhé.</p>
+<p>Về nhân bánh thì mình sên nhân đậu đỏ, cách làm hơi giống với nhân đậu xanh, cụ thể như sau:</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu (làm được khoảng 550 gram nhân đậu)<br/>
+</strong></span></p>
+<ul>
+<li><em>200 gram đậu đỏ</em></li>
+<li><em>65 gram đường</em></li>
+<li><em>80 gram dầu ăn (mình dùng dầu dừa)</em></li>
+<li><em>10 gram bột bắp hoặc bột mì</em></li>
+<li><em>35 gram mạch nha</em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Đậu đỏ nhặt bỏ các hạt lép, hỏng. Rửa sạch, ngâm nước ấm nóng qua đêm cho mềm.</p>
+<p>2. Đổ nước ngâm đậu đi. Cho đậu vào nồi cùng 3 – 4 bát con nước. Đun sôi rồi hạ lửa vừa-nhỏ ninh cho đậu mềm nhừ. Mình dùng nồi áp suất để ninh đậu cho nhanh. Cũng có thể cho thêm khoảng 1/4 thìa cafe (teaspoon) muối nở (baking soda) để đậu nhanh mềm hơn.</p>
+<p>3. Xay nhuyễn đậu. Nên xay với nhiều nước, hỗn hợp lỏng như nước thì đậu sẽ mịn hơn nhiều. Xay xong lọc qua rây để loại bỏ xác vỏ đậu.</p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20289884135/in/datetaken/" title="IMG_9576"><img alt="IMG_9576" height="427" loading="lazy" src="https://farm1.staticflickr.com/267/20289884135_82512f5018_z.jpg" width="640"/></a><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20263624366/in/datetaken/" title="IMG_9579"><img alt="IMG_9579" height="427" loading="lazy" src="https://farm1.staticflickr.com/367/20263624366_6e1520d5c2_z.jpg" width="640"/></a></p>
+<p>4. Cho đường và 1/3 lượng dầu ăn vào trộn cùng đậu.<br/>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20289883385/in/datetaken/" title="IMG_9581"><img alt="IMG_9581" height="427" loading="lazy" src="https://farm1.staticflickr.com/462/20289883385_12edcde701_z.jpg" width="640"/></a></p>
+<p>Cho vào chảo, sên lửa vừa. Sau khoảng 3 – 4 phút thì cho tiếp 1/3 lượng dầu ăn vào, quấy đều. Sau 2 phút nữa thì cho nốt phần dầu ăn còn lại, trộn đều. Đậu lúc này vẫn còn khá loãng.</p>
+<p>Tiếp tục sên thêm khoảng 5 phút ở lửa vừa. Hòa tan bột ngô hoặc bột mì với 2 – 3 thìa canh nước, đổ vào chảo. Cho thêm mạch nha vào, quấy đều. Nếu không có mạch nha, các bạn có thể tăng đường lên khoảng 80 gram.<a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20103258699/in/datetaken/" title="IMG_9582"><img alt="IMG_9582" height="428" loading="lazy" src="https://farm1.staticflickr.com/381/20103258699_6939152f49_z.jpg" width="640"/></a> <em>mạch nha rất dính nhưng cho vào chảo nóng sẽ từ từ tan chảy</em></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20103258399/in/datetaken/" title="IMG_9583"><img alt="IMG_9583" height="427" loading="lazy" src="https://farm1.staticflickr.com/436/20103258399_0b4ea9c7c7_z.jpg" width="640"/></a><br/>
+Từ sau thời điểm này thì không cho thêm gì nữa và sên ở lửa nhỏ đến khi nhân thành một khối dẻo mịn.</p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/20101869390/in/datetaken/" title="IMG_9587"><img alt="IMG_9587" height="427" loading="lazy" src="https://farm1.staticflickr.com/494/20101869390_629ae4959b_z.jpg" width="640"/></a></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/55490207@N05/19668907553/in/datetaken/" title="IMG_9588"><img alt="IMG_9588" height="427" loading="lazy" src="https://farm1.staticflickr.com/282/19668907553_ffc6134e31_z.jpg" width="640"/></a></p>
+<p>Thử xem nhân đạt chưa bằng cách khi nhân còn nóng, vê một viên nhỏ, nếu viên nhân có thể đứng thẳng, không sệ thì khi nướng cũng sẽ ổn, không bị chảy làm vỏ bánh biến dạng. Cách sên này gần giống với <a href="/banh-trung-thu-cach-lam-nhan-sen-nhuyen/" target="_blank"><strong>cách sên nhân sen nhuyễn</strong></a> mà mình đã quay video từ năm ngoái, các bạn có thể xem thêm trong link</p>
+
+
+<p>Để nhân được mịn dẻo, không khô thì kinh nghiệm của mình chỉ có một vài gạch đầu dòng là:</p>
+<ul>
+<li>Xay với thật nhiều nước để đậu được mịn</li>
+<li>Cho đủ dầu vì dầu sẽ giúp nhân dẻo và không bị khô, nhưng không nên cho quá nhiều vì nhân nhiều dầu sẽ làm lớp vỏ bánh nhanh mềm, nhanh nhờn dầu. Cho 200 gram đậu (chưa nấu) thì mình thấy khoảng 70 – 85 gram dầu ăn là vừa phải, ít hơn nhân rất khô.</li>
+<li>Cho dầu và đường, bột vào khi nhân còn ướt. Sên ở lửa nhỏ để dầu và đường thật quyện vào với đậu. Sẽ hơi mất thời gian nhưng nhân sẽ trong và mịn màng hơn.</li>
+</ul>
+<p>——–</p>
+<p><strong>BÀI VIẾT CÙNG CHỦ ĐỀ TRUNG THU</strong></p>
+<p><strong>A. Kiến thức chung</strong></p>
+<ol>
+<li><a href="/tong-hop-cach-lam-banh-nuong-banh-deo-trung-thu-a-z/">Tổng hợp cách làm bánh nướng, bánh dẻo trung thu</a></li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+<li><a href="/trung-muoi/" target="_blank">Cách làm trứng muối</a></li>
+<li><a href="/banh-trung-thu-cach-xu-li-trung-muoi-cho-nhan-banh-trung-thu/" target="_blank">Cách xử lí trứng muối để làm nhân bánh</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" target="_blank">Cách chọn khuôn bánh trung thu</a></li>
+<li><a href="/banh-trung-thu-chon-khuon-banh-trung-thu-lam-ruou-mai-que-lo/" target="_blank">Cách làm rượu Mai Quế Lộ</a></li>
+<li><a href="/tu-lam-mau-thuc-pham-tu-rau-cu-qua-tu-nhien/" target="_blank">Tự làm màu thực phẩm từ rau củ quả tự nhiên</a></li>
+</ol>
+<p><strong>B. Cách làm bánh nướng trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-nau-nuoc-duong-cho-banh-nuong/" target="_blank">Cách nấu nước đường bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-lam-banh-nuong/" target="_blank">Cách làm bánh nướng trung thu (</a>trộn bột, bọc nhân, đóng bánh và nướng)</li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-dau-xanh-tra-xanh-la-dua/" target="_blank">Cách làm nhân đậu xanh – trà xanh – lá dứa</a></li>
+<li><a href="/banh-trung-thu-nhan-thap-cam-nhan-sua-dua/" target="_blank">Cách làm nhân thập cẩm – sữa dừa</a></li>
+<li><a href="/banh-trung-thu-cach-lam-nhan-sen-nhuyen/" target="_blank">Cách làm nhân sen nhuyễn</a></li>
+<li><a href="/banh-trung-thu-tra-xanh-nhan-dau-do/" target="_blank">Bánh trà xanh nhân đậu đỏ</a></li>
+<li><a href="/banh-trung-thu-banh-nuong-hoa-cuc-vi-chanh-leo-nghe-tay-va-chanh-vang/" target="_blank">Bánh hoa cúc vàng (vị nghệ tây, chanh vàng, chanh leo)</a></li>
+<li><a href="/red-velvet-rose-mooncake-banh-nuong-nhan-chocolate-rum-nho/" target="_blank">Bánh nướng hoa hồng đỏ (màu đỏ củ dền, nhân café, chocolate, rum nho)</a></li>
+<li><a href="/banh-trung-thu-giai-dap-thac-mac-cac-bai-thuong-gap-cach-khac-phuc/" target="_blank">Giải đáp các vấn đề/ thất bại thường gặp khi làm bánh nướng trung thu</a></li>
+<li><a href="/banh-trung-thu-cach-chua-vo-banh-bi-uot-mem-nhao-tach-nhan-hay-kho-cung/" target="_blank">Cách chữa vỏ bánh nướng bị mềm nhão, ướt, tách nhân hay khô cứng</a></li>
+</ol>
+<p><strong>C. Cách làm bánh dẻo trung thu</strong></p>
+<ol>
+<li><a href="/banh-trung-thu-cach-lam-banh-deo/" target="_blank">Cách làm bánh dẻo kiểu Việt Nam ít ngọt</a></li>
+<li><a href="/banh-trung-thu-chia-se-kinh-nghiem-lam-banh-deo/" target="_blank">Giải đáp các thắc mắc/ vấn đề thường gặp khi làm bánh dẻo</a></li>
+</ol>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

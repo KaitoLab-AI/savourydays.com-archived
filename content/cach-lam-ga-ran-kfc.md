@@ -1,0 +1,52 @@
+---
+title: "Cách làm Gà rán KFC"
+date: "2019-10-19"
+slug: "cach-lam-ga-ran-kfc"
+categories: []
+tags: []
+image: "/wp-content/uploads/2019/10/cách-làm-gà-rán-kfc-banner.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p> </p>
+<p><span style="font-weight: 400; color: #000000;">Công thức của món Gà chiên KFC này là công sức thử nghiệm trong nhiều tuần (chứ không phải nhiều ngày nha ;) ) của đội SD tụi mình đấy ah. </span></p>
+<p><span style="font-weight: 400; color: #000000;">Lý do là nếu bạn Google thử, sẽ thấy cả tá công thức gà chiên giòn hay gà KFC khác nhau luôn, với rất nhiều các sự kết hợp mùi vị, và cả bí quyết làm sao để cho lớp bột giòn thật là giòn, trong khi thịt thì mềm và ngọt đậm đà. Nhưng cũng chính vì có quá nhiều tài liệu tham khảo như vậy, mà thời gian thử nghiệm món này của tụi mình </span><span style="color: #000000;">cũng lâu hơn mức trung bình. </span></p>
+<p><span style="color: #000000;">Mấy chị em thử hết từ bột mì tới bột ngô, khoai, bột năng, cho thêm cả muối nở, bột nở… vậy mà sản phẩm vẫn chưa hoàn toàn ưng ý bởi lớp vỏ tuy giòn nhưng vẫn cứng và “nặng” chứ không được thật giòn xốp. Nhưng có công mài sắt có ngày nên kim, sau khi thử chán chê và tìm hiểu mê mải rất nhiều các bí quyết trên mạng, tụi mình cuối cùng đã phát hiện được “chân ái”, chính là nước soda đóng lon. Việc dùng nước soda rất lạnh trộn với bột áo, để làm phần bột ướt bao thịt, trước khi bao thêm một lớp bột khô giúp cho lớp vỏ của thịt gà gần như giòn giống hệt gà KFC ở ngoài hàng luôn. Còn về gia vị thì tuỳ thích thôi, tụi mình dùng bột gừng, bột tỏi với Italian mixed herbs – một số loại lá thơm khác nhau của Ý trộn với nhau, và thấy rất ổn. Bạn có thể thử rồi điều chỉnh lại theo khẩu vị của gia đình nhé. </span></p>
+<p> </p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<h2><span style="color: #000000;">Cách làm GÀ RÁN KFC </span></h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu:</strong></span></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">500gr thịt đùi gà</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 quả trứng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">110ml nước soda</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">200ml sữa tươi không đường </span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">220gr bột mì đa dụng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">5gr hỗn hợp lá thơm kiểu Ý – Italian seasoning/ Italian mixed herb (ở VN có thể mua trong Vinmart)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">5gr ớt bột</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">2gr bột gừng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">5gr bột tỏi</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">5gr tiêu</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">10gr muối</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm:</strong></span></p>
+<p>Nếu không xem được video ở dưới bạn có thể xem trực tiếp tại <strong><a href="https://youtu.be/ONcprxxkSic">link này</a> nhé. </strong></p>
+<p><span style="color: #000000;"><div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/eitZbcytek0" width="560"></iframe></div></span></p>
+<p> </p>
+<p><span style="font-weight: 400; color: #000000;">1. Thịt gà rửa sạch, để ráo, thái thành những miếng rộng khoảng 5-6 cm (khi chiên nở to là vừa). Ngâm thịt gà với sữa tươi và 4gr muối trong 15 – 20 phút. Vớt ra để trên rổ cho ráo sữa rồi xóc đều gà với 50gr bột mì.</span></p>
+<p><span style="color: #000000;">2. Chuẩn bị các lớp áo bột:</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Trộn đều 170gr bột mì còn lại với 6gr muối, 5gr mixed herb, 5gr ớt bột, 5gr tiêu. Chia làm 2 phần: 40gr và 130gr.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Áo bột ướt: trộn đều 40gr hỗn hợp bột mì, 1 quả trứng, 110ml soda cho tới khi các nguyên liệu hòa quyện.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Áo bột khô: 130gr hỗn hợp bột mì còn lại.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #000000;">3. Cho dầu ăn ngập chảo sâu lòng, đặt lên bếp đun lửa to tới khi sôi (có thể nhúng đũa vào chút bột ướt rồi thả vào chảo dầu để thử độ sôi). Vặn bếp xuống lửa vừa. Lần lượt lăn thịt gà qua áo bột ướt, bột khô rồi thả vào chảo. </span></p>
+<p><span style="font-weight: 400; color: #000000;">Lưu ý: tại bước cuối dùng tay hoặc thìa bóp/nhấn chặt cho bột khô bám vào miếng gà. Việc này sẽ giúp lúc chiên bột không bị rơi khỏi thịt. Nếu thích ăn vỏ dày thì bóp cho bột bám càng nhiều càng tốt.</span></p>
+<p><span style="color: #000000;">4. Chiên một mặt trong khoảng 10 – 15 phút rồi mới lật mặt còn lại chiên trong 10 – 15 phút tiếp theo. Không lật liên tục tránh cho việc bột chưa đủ độ cứng và bám vào gà sẽ dễ bị rơi ra.</span></p>
+<p><span style="color: #000000;">5. Khi gà đã có màu vàng nâu vừa phải thì vớt ra rá cho ráo dầu, có thể chiên 2 lần để vỏ được giòn hơn. Hạn chế việc dùng giấy thấm dầu vì gà bị hấp hơi nước sẽ làm mặt úp xuống bị mềm. Dùng nóng với tương cà chua hoặc tương ớt tùy thích.</span></p>
+<p><span style="font-weight: 400; color: #000000;"><strong>*Yêu cầu thành phẩm</strong>: Thịt gà bên trong chín mềm và mọng nước. Lớp vỏ chiên nở to, giòn tan, khi ăn không có cảm giác bị cứng hoặc nặng mùi bột.</span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

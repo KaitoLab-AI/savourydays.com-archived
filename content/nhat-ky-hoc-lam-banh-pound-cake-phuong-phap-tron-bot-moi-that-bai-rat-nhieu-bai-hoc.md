@@ -1,0 +1,77 @@
+---
+title: "Nhật ký học làm bánh: Pound cake – Phương pháp trộn bột mới – Thất bại & rất nhiều bài học"
+date: "2011-10-05"
+slug: "nhat-ky-hoc-lam-banh-pound-cake-phuong-phap-tron-bot-moi-that-bai-rat-nhieu-bai-hoc"
+categories: ["Kinh nghiệm nấu nướng", "Làm bánh"]
+tags: ["baking", "làm bánh"]
+image: "/wp-content/uploads/2011/10/NKHLB-poundCake.jpg"
+description: ""
+---
+
+<p><em>Xem thêm về cake (tổng quan – các chú ý cơ bản khi làm cake) tại <strong><a href="/?p=729">ĐÂY</a></strong></em></p>
+<p>Thật ra là mình đã rất phân vân xem có nên làm Pound Cake không, tại vì cứ nhìn thấy cái công thức 1 bơ: 1 bột: 1 đường: 1 trứng và chả có tí sữa nào là thấy oải rồi. Mặc dù ở bài trước mình có hứa là sẽ làm cả hai loại Pound Cake và Butter Cake để xem khác nhau thế nào, nhưng thật sự là làm y nguyên công thức Pound Cake thì mình… không đủ can đảm :P Khi đi tham khảo một số blog và diễn đàn mình cũng thấy đa phần chị em phản hồi là Pound Cake khá là nặng và khô, cho nên thường khi làm hoặc là sẽ <strong>thêm một ít chất lỏng như là sữa, các loại syrup hoa quả</strong>, hoặc<strong> làm cùng với các loại mứt hoa quả</strong> để làm cho bánh đỡ bứ và ngán. Nhìn chung là cũng có kha khá cách sáng tạo với công thức cơ bản của Pound Cake.. Nhưng sau một hồi nghiên cứu thì mình vẫn quyết định làm Pound Cake cơ bản để so sánh với Butter Cake và thêm syrup chanh leo để giúp bánh bớt khô :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6215466556/" title="Passion fruit pound cake by LinhTrang9185, on Flickr"><img alt="Passion fruit pound cake" class="aligncenter dung" height="640" loading="lazy" src="http://farm7.static.flickr.com/6019/6215466556_13d4f4cb73_z.jpg" width="427"/></a></p>
+<p>Lần này làm pound cake mình cũng không dùng <strong><a href="/?p=729">creaming method</a></strong> nữa, mà chuyển sang thử phương pháp trộn bột mới tên là <strong>two-stage method</strong>. (Theo cuốn Professional baking thì với các loại bánh có sử dụng chất béo như bơ, magarine thì creaming method và two stage method là 2 phương pháp trộn bột cơ bản nhất).</p>
+<p>Các bước chính của two-stage method là:</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><em>nguyên liệu đã được cân đong và để ở nhiệt độ phòng nhé</em></p>
+<ol>
+<li>Trong một cái âu, dùng que đánh trứng cầm tay (whisk) đánh đều trứng, sữa và vanilla.</li>
+<li>Trong một cái âu khác rây bột, bột nở, đường, muối. Dùng whisk hoặc máy đánh trứng để ở tốc độ thấp nhất, đánh trong khoảng 30s.</li>
+<li>Cho toàn bộ số bơ &amp; ½ số trứng sữa vào âu bột. Đánh ở tốc độ chậm đến khi các nguyên liệu hòa quyện vào nhau. Đẩy lên tốc độ vừa (hoặc tốc độ cao với máy đánh trứng cầm tay). Đánh thêm 3-5 phút.</li>
+<li>Chia số trứng sữa còn lại làm 2 phần, lần lượt cho vào âu và đánh đều 30s sau mỗi lần thêm chất lỏng.</li>
+<li>Đổ bột vào khuôn &amp; mang đi nướng ngay</li>
+</ol>
+<p><strong>                     Lưu ý ở bước 3 &amp; 4 vét thành âu thường xuyên để hỗn hợp được đều.</strong></p>
+<p>Về cơ bản thì two-stage method nhanh hơn creaming method. Nhưng mình cảm thấy với một người mới chập chững học làm bánh và chưa có cảm giác tốt trong việc sử dụng và đặc biệt là trộn bột thế nào cho đủ thì creaming method an toàn hơn (điều này ít ra là đúng với mình).</p>
+<p><span id="more-881"></span></p>
+<p>Lý do thứ nhất là theo tất cả các tài liệu thì bột nở sau khi gặp nước sẽ phải rất hạn chế trong việc trộn, nếu trộn quá nhiều sẽ dẫn đến hậu quả là làm cho bánh chai cứng và nở kém. Với creaming method thì kiểm soát việc này rất dễ do bột được cho vào cuối cùng và xen kẽ với sữa nên chỉ cần đánh một tí tẹo cho hỗn hợp hòa quyện là được. Còn với phương pháp mới này thì quả thật mình đánh bột với trứng mà cảm thấy khá run vì không biết thế nào là đủ và liệu có quá tay không.</p>
+<p>Lý do thứ hai là nếu cho nhiều chất lỏng vào cùng lúc thì sẽ dễ gây ra hiện tượng bột bị lợn cợn (mà mọi người hay gọi là ốc trâu hay óc trâu gì đó :D). Thật ra đây là hiện tượng bình thường trong khi làm bánh (lý do tại sao mình sẽ nói rõ hơn ở phần sau). Một trong những cách khắc phục đơn giản nhất là cho thêm bột và đánh đều. Nhưng với two-stage method, vì bột đã được đánh hết với bơ trong bước đầu tiên rồi, nên khi cho trứng và sữa vào ở bước sau cần phải cẩn thận hơn một chút để tránh gây ra hiện tượng ốc trâu như trên.</p>
+<p>Cuối cùng là theo sách nói thì creaming method cho bánh nở tốt hơn two stage method, mặc dù ưu điểm của two stage method là làm cho mùi vị của bơ quyện trong bánh tốt hơn (tài liệu tiếng Anh hay mô tả cái này là bơ dễ melt-in-the-mouth hơn :)).</p>
+<p><em>Cho nên túm lại là mình vẫn thích dùng creaming method hơn. Nhưng đây chỉ là ý kiến cá nhân của mình thôi, còn cả nhà thấy hợp với phương pháp nào hơn thì cứ sử dụng nha ;)</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6215467836/" title="Passion fruit pound cake by LinhTrang9185, on Flickr"><img alt="Passion fruit pound cake" class="aligncenter dung" height="640" loading="lazy" src="http://farm7.static.flickr.com/6093/6215467836_c1f629401c_z.jpg" width="444"/></a></p>
+<p>Lý thuyết thì là như vậy – nhìn chung là cũng không khó lắm, nhưng đến lúc thực hành thì… mình đúng là không có duyên với món Pound Cake này. Cụ thể là trước khi ra được cái bánh như trong hình ở trên mình đã làm hỏng…… nhiều lắm không nhớ chính xác là bao nhiêu nữa :-( :-( :-( Túm lại là thất bại toàn diện &amp; đau đớn :'( (từ khi mình bắt đầu “sự nghiệp bếp núc” đến giờ hình như là chưa có khi nào mà mình phá hoại ở mức độ cao như thế này :-|). Mà rõ ràng pound cake là loại bánh rất dễ thành công, vậy mà chẳng hiểu sao mình làm lại bị hỏng liên tục như thế, cho nên cũng cảm thấy hơi bị chán :-&lt;</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Nhưng mà bỏ cuộc sớm thế thì còn chán hơn :P cho nên cứ mỗi lần hỏng là mình lại chạy lên mạng để tìm nguyên nhân, và tự … đoán bệnh cho bánh :D Lần đầu tiên làm hỏng mình nghĩ là do nguyên liệu vẫn còn lạnh, lúc trộn bột bị ốc trâu nên bánh nướng lên bị rỗ mặt. Lần thứ hai mình nghĩ là do trộn bột chưa quen, quá tay nên bánh nở kém. Lần thứ ba thì nghĩ là do để nhiệt độ không đúng. … Lần thứ 4, 5.. vẫn hỏng. Mà ngẫm nghĩ lại thì thấy là mấy mẻ đều hỏng cùng một kiểu như nhau. Đến khi tất cả các nguyên nhân bên ngoài đều được loại trừ thì mình bắt đầu nghĩ đến khả năng nguyên liệu có vấn đề, và sực nhớ ra một điều là so với các mẻ bánh trước thì lần này mình dùng cake flour. Và mình quay lại xem cái vỏ gói bột cake flour của mình <em>– đoạn này cần phải giải thích thêm là ở đây mọi thứ đều được ghi bằng tiếng Hà Lan, Pháp và Đức nhưng không có tiếng Anh cho nên mình hầu như không bao giờ xem nội dung nhãn, trừ ngày hết hạn</em> :D Mặc dù không hiểu hướng dẫn trên gói cake flour của mình nói gì, nhưng nhìn hình thì mình có thể đoán ra là người ta hướng dẫn trộn bột với bơ &amp; trứng rồi mang đi nướng. Tức là nhiều khả năng là bột đã có sẵn muối và bột nở rồi (có nghĩa là không cần phải cho thêm bột nở nữa)…..</p>
+<p>(và <em>Google translate đã xác nhận là đúng như thế)</em></p>
+<p>:-| :-| :-|</p>
+<p>Hik</p>
+<p>………….</p>
+<p>Ôi giời ơi! Giàng ơi!!!! Thế là từ một ý định ban đầu (rất tốt đẹp) là dùng cake flour để bánh nhẹ &amp; xốp hơn cuối cùng đã thành ra là bao nhiêu trứng + bơ + bột + đường + sữa bay thẳng từ tủ lạnh qua lò nướng vào sọt rác. Đúng là nhiệt tình + ngu dốt = phá hoại mà :’( :'( :'(</p>
+<p>Thôi thì tự an ủi là coi như học phí vậy</p>
+<p>(nhưng dù sao thì học phí này cũng hơi bị đắt ý)</p>
+<p>Sau khi “bí mật” được “bật mí” thì mọi sự còn lại suôn sẻ – như mọi khi vẫn thường như thế :D Công thức cụ thể mình sẽ chia sẻ riêng trong bài sau để đỡ bị lẫn nhé. So với Butter Cake thì Pound Cake đúng là “nặng” hơn, nhưng nhờ có syrup chanh leo nên bánh đỡ khô bứ, lại có thêm vị chua dịu và mùi thơm của chanh leo, nói chung là không tệ :) (<em>và nếu không có vụ nhầm bột kia thì bánh này làm khá dễ cả nhà ạ</em> :”&gt;)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6214952077/" title="Passion fruit pound cake by LinhTrang9185, on Flickr"><img alt="Passion fruit pound cake" class="aligncenter dung" height="640" loading="lazy" src="http://farm7.static.flickr.com/6108/6214952077_d50e5d0c93_z.jpg" width="427"/></a></p>
+<p> </p>
+<p>Lần này tuy là phá hoại quá nhiều trứng sữa, nhưng bù lại nhờ việc liên tục nướng hỏng mà mình tích lũy được thêm kha khá kinh nghiệm trong việc làm Butter Cake, Pound Cake và một số loại bánh khác có sử dụng bơ (để phân biệt với bánh sử dụng lòng trắng trứng thay vì dùng bơ và bột nở). Mình ghi lại tại đây luôn nhé, hi vọng là sẽ có ích cho mọi người ;)</p>
+<p>1. <strong>Tất cả các nguyên liệu luôn phải ở NHIỆT ĐỘ PHÒNG</strong>. Một số hậu quả của việc nguyên liệu (bơ, trứng, sữa) ở nhiệt độ nóng lạnh khác nhau là bột bị ốc trâu hoặc bánh nở kém.</p>
+<p>2. Trong khi trộn bột, hiện tượng bột bị lợn cợn (ốc trâu) đôi khi có thể xảy ra. Các nguyên nhân chính là</p>
+<ul>
+<li>Các nguyên liệu không ở cùng một nhiệt độ (bơ hoặc trứng vẫn còn lạnh)</li>
+<li>Lượng chất lỏng (trứng, sữa) nhiều hơn bột quá nhiều</li>
+</ul>
+<p>Về cơ bản thì việc bột bị ốc trâu sẽ không ảnh hưởng nhiều lắm đến chất lượng của bánh. Cách khắc phục là để nguyên liệu thật nguội rồi mới mang đi làm bánh. Hoặc ngâm âu trộn bột vào chậu nước ấm rồi đánh đến khi mịn mượt. Thứ hai là khi cho chất lỏng thì nên cho từ từ từng chút một, đánh đều sau mỗi lần cho chất lỏng rồi mới cho tiếp. Cách thứ ba là nếu trong quá trình trộn mà bị ốc trâu thì cho thêm bột rồi đánh tiếp đến khi hỗn hợp mịn trở lại. <em>Đây là lý do tại sao trong phương pháp creaming method bao giờ cũng cho từng quả trứng vào rồi đánh đều, và luôn trộn bột &amp; sữa xen kẽ thành nhiều phần nhỏ, bắt đầu bằng bột và kết thúc cũng bằng bột. </em></p>
+
+
+<p>3. <strong>Việc cân đo chính xác nguyên liệu rất quan trọng</strong>. Có những thứ cho quá nhiều sẽ gây ra “hậu quả đặc biệt nghiêm trọng” – như bột nở trong trường hợp của mình :D Như mình nói ở trên là vì không biết bột đã có sẵn bột nở rồi, nên mình cho thêm bột nở theo như công thức – hậu quả là bánh nở rất nhanh, tiếp theo từ sau khoảng 1/2 – 2/3 thời gian nướng thì bánh xẹp và rỗ mặt nghiêm trọng. Lúc lấy ra thì bánh èo uột như bánh đa nhúng nước ý. Túm lại là khi làm bánh nên tuân thủ công thức &amp; đong đếm các thứ cẩn thận. Tối thiểu là nên có một cái cân có thể đong được theo gram, tốt hơn nữa là đầu tư thêm một bộ thìa đong tablespoon – teaspoon theo tiêu chuẩn, chứ đừng đong kiểu “thìa canh – thìa cafe” nhé.</p>
+<p>4. <strong>Hiểu lò nướng của mình để điều chỉnh nhiệt độ cho đúng</strong>. Đôi khi mình nướng bánh vẫn bị sống do để nhiệt độ hơi thấp quá mức. Thường thì với butter cake và pound cake nhiệt độ nướng sẽ nằm trong khoảng 170-180 độ C. Không nên để quá cao vì sẽ dễ làm cho bánh bị nứt mặt &amp; cháy phần ngoài. Thời gian nướng thì tùy kích cỡ khuôn. Cupcake sẽ mất khoảng 20-30 phút. Khuôn to thì thời gian nướng lâu hơn.</p>
+<p>Quá trình chín của bánh về cơ bản là gồm 4 giai đoạn. Ở giai đoạn thứ nhất bột sẽ nở dần và có một số bọt khí xuất hiện trên mặt. Giai đoạn thứ hai bánh tiếp tục nở và bắt đầu hình thành crust (hik, xin lỗi cả nhà vì chỗ này mình không biết dịch sang tiếng Việt là gì cho đúng). Giai đoạn thứ 3 bánh chuyển vàng. Và cuối cùng là bánh sẽ vàng nâu hẳn, hơi co lại, tách khỏi thành khuôn. Bánh chín sẽ có lớp trên mặt hơi giòn và phần bột ở đáy bánh khô. Xiên que tăm vào giữa bánh rút lên sẽ thấy sạch. Và nếu ấn thử đầu ngón tay lên mặt bánh thì sẽ thấy là bánh lún xuống nhưng phồng trở lại ngay, còn nếu tạo ra vết lõm thì nhiều khả năng là bánh chưa thật chín.</p>
+<p>Trong quá trình nướng, sau độ 1/2 thời gian nướng đôi khi các bạn sẽ có thể thấy mặt bánh vàng quá mức do thanh nhiệt trên của lò quá nóng. Để mặt bánh không bị cháy thì các bạn có thể lấy một miếng giấy bạc, xát một lớp bơ mỏng lên giấy rồi đặt lên khuôn để che mặt bánh lại.</p>
+<p>Về Pound Cake và Two stage method chắc là mình đã viết hết thông tin mà mình biết ở trên rùi. Công thức pound cake chanh leo trong ảnh mình sẽ viết trong bài sau nhé. Cá nhân mình thì thấy là tuy pound cake không được kiểu mềm xốp và bông nhẹ như mây, nhưng cũng không quá tệ. Pound cake có lẽ hợp nhất là để ăn sáng hoặc ăn nhẹ, vài lát bánh với một cốc sữa nóng nữa thì chắc là đủ no cả buổi rùi :)</p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

@@ -1,0 +1,96 @@
+---
+title: "BÁNH ĐA CUA"
+date: "2019-02-25"
+slug: "banh-da-cua-hai-phong"
+categories: []
+tags: []
+image: "/wp-content/uploads/2019/02/Cách-nấu-bánh-đa-cua-hải-phòng-banner.jpg"
+description: "Cách nấu bánh đa cua Hải Phòng đúng điệu với nước dùng thơm ngọt, tôm, gạch cua, chả cá dai giòn, chả lá lốt thơm ngậy, rau cần..."
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400; color: #000000;">Chắc trên đời này sẽ không ai mong mỏi mùa đông nhiều bằng cửa hàng lẩu nướng và “hội những người thích (nấu) ăn” :D Còn nhớ mấy lần trước nghe tin gió mùa, cả đội Savoury Days lại rục rịch bàn chuyện trời lạnh thì ăn gì cho ngon, quyết định xong xuôi là gió mùa cũng đi mất :( Mùa Đông năm nay cũng thật là buồn vì chẳng có mấy ngày lạnh. Hi vọng lần gió mùa này chưa phải là lần cuối. Trời đừng quá rét, chỉ cần hơi lành  lạnh để ăn-gì-cũng-thấy-ngon như thế này là được rồi :)</span></p>
+<p><span style="font-weight: 400; color: #000000;">Trong số các món ăn mà SD team đặc biệt chuẩn bị cho mùa đông năm nay, <a href="/cach-lam-xiao-long-bao/"><strong>Xiao long bao</strong></a> đã làm vào đợt gió mùa trước rồi, còn  bánh đa cua là món làm trong đợt lạnh tiếp theo. Nhưng vì sau đó là Tết nên mãi tới hôm nay mình mới giới thiệu được lại với cả nhà. </span></p>
+<p><span style="font-weight: 400; color: #000000;">Không giống như nhiều món bún phở chỉ cần sơ chế nguyên liệu rồi cho vào hầm nước dùng thôi là coi như xong, bánh đa cua công nhận là nhiều loại “topping” thật ấy. Bởi vậy nên tụi mình giới thiệu vào đầu tuần để “lấy cảm hứng” thôi, còn nấu chắc nên dành cho cuối tuần hay một ngày nghỉ thư thả nào đó.  Nhưng nói đi cũng phải nói lại, bánh đa cua công nhận là…ngon thật đấy. Mình chưa được ăn thử bản gốc Hải Phòng chính hiệu, nhưng bánh đa cua hiệu SD team này có vị ngọt thanh của cua, mùi thơm của chả lá lốt, vị giòn dai của chả cá, ngậy béo của gạch cua, nói chung là hoàn toàn hài lòng về sự “đền đáp” cho mấy tiếng đứng bếp này :”&gt;</span></p>
+<p><span style="font-weight: 400; color: #000000;">Đợi mãi mới lạnh để nấu bánh đa cua, cũng là đợi thời cơ để than thở một chút về “mơ ước” mà mãi vẫn chưa thực hiện được, đó là thực hiện một “food tour” ở Hải Phòng. Không biết duyên nợ thế nào mà từ hồi dừa dầm nổi lên đến giờ, trên FB mình rất hay xuất hiện clip các món ngon ở Hải Phòng, từ bánh đa cua, bánh mì cay, các loại ốc đến các món lạ như bánh đúc nộm, cháo cay, nghe nói có hẳn một khu chợ đầy đủ các món ăn vặt siêu ngon nữa. Ngày trước rủ mãi mà không ai đủ tâm huyết với chuyện ăn uống để cùng mình đi Hải Phòng một ngày chỉ để ăn, giờ có SD team hay là “Hội những người phát cuồng vì đồ ăn”, hi vọng food tour Hải Phòng sẽ sớm được thực hiện. Các bạn Hải Phòng lên giúp tụi mình danh sách các món ngon để tụi mình chuẩn bị dạ dày và hầu bao nhé ;) </span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8158" height="684" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/banhdacua_final-1024x684.jpg" width="1024"/></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<h2>Cách nấu BÁNH ĐA CUA HẢI PHÒNG</h2>
+<p> </p>
+<p><span style="color: #000000;"><strong><span style="color: #800000;">Nguyên liệu</span></strong>:</span></p>
+<ul>
+<li><em><span style="color: #000000;">400 gr bánh đa đỏ</span></em></li>
+<li><em><span style="color: #000000;">400 gr cua đồng xay</span></em></li>
+<li><em><span style="color: #000000;">300 gr sườn thăn</span></em></li>
+<li><em><span style="color: #000000;">150 gr thịt lợn xay</span></em></li>
+<li><em><span style="color: #000000;">100 gr chả cá</span></em></li>
+<li><em><span style="color: #000000;">50 gr mỡ phần</span></em></li>
+<li><em><span style="color: #000000;">20 gr tôm khô</span></em></li>
+<li><em><span style="color: #000000;">300 gr rau muống</span></em></li>
+<li><em><span style="color: #000000;">100 gr cà chua</span></em></li>
+<li><em><span style="color: #000000;">300 gr rau sống</span></em></li>
+<li><em><span style="color: #000000;">2 gr mộc nhĩ</span></em></li>
+<li><em><span style="color: #000000;">10 cái lá lốt</span></em></li>
+<li><em><span style="color: #000000;">50 gr hành khô</span></em></li>
+<li><em><span style="color: #000000;">20 gr hành lá</span></em></li>
+<li><em><span style="color: #000000;">20 gr mùi tàu</span></em></li>
+<li><em><span style="color: #000000;">3 quả chanh</span></em></li>
+<li><em><span style="color: #000000;">4 ½ thìa café hạt nêm</span></em></li>
+<li><em><span style="color: #000000;">40 ml nước mắm</span></em></li>
+<li><em><span style="color: #000000;">2 gr tiêu xay</span></em></li>
+<li><em><span style="color: #000000;">1 thìa café sa tế</span></em></li>
+<li><em><span style="color: #000000;">30 gr đường</span></em></li>
+<li><em><span style="color: #000000;">30 ml xì dầu</span></em></li>
+<li><em><span style="color: #000000;">50 ml nước lọc</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span>:</p>
+<p><span style="color: #000000;">1. Sườn rửa sạch, cho vào nồi nước đun sôi khoảng 2 – 3 phút để cho ra các bọt bẩn. Đổ sườn ra rửa sạch. Cho sườn vào nồi và đổ nước ngập gấp 3 lần sườn, ninh lửa nhỏ trong 30 – 40 phút. Có thể thả thêm vài củ hành khô (nướng xém vàng, bóc vỏ) cho thơm.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8160" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/banhdacua1-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">2. Lọc cua:</span></p>
+<p><span style="color: #000000;">– Hòa cua xay với nửa bát to nước. Dùng tay khuấy và bóp nhẹ cho thịt cua hòa đều trong nước. Đặt rây lên nồi,nhẹ nhàng đổ bát cua qua rây, phần vỏ cứng sẽ được giữ lại. Dùng tay bóp phần vỏ này cho kiệt nước rồi đổ trở lại bát. Lặp lại thao tác bóp và lọc cua với nước như trên 1 – 2 lần nữa để lấy được sạch thịt cua. Ta được phần nước lọc cua trong nồi riêng.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8161" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/banhdacua2-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">3. Chuẩn bị các nguyên liệu khác</span></p>
+<p><span style="color: #000000;">– Mỡ phần rửa sạch, để ráo, thái nhỏ hạt lựu.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #000000;">– Tôm khô ngâm cùng nước ấm cho nở mềm. Vớt ra rửa với nước sạch.</span></p>
+<p><span style="color: #000000;">– Mộc nhĩ ngâm cùng nước ấm trong 10 – 15 phút cho nở mềm. Vớt ra rửa sạch, cắt bỏ chân, thái chỉ.</span></p>
+<p><span style="color: #000000;">– Lá lốt rửa sạch từng lá, giữ lại lá to để gói, lá nhỏ hoặc rách thì thái nhỏ để cho vào trộn cùng thịt.</span></p>
+<p><span style="color: #000000;">– Cà chua rửa sạch, bổ múi cau. Hành khô bóc vỏ, thái mỏng. Hành lá, mùi tàu nhặt và rửa sạch, thái nhỏ.</span></p>
+<p><span style="color: #000000;">– Rau muống, rau sống nhặt và rửa sạch. Ngâm rau sống trong nước muối khoảng 15 – 20 phút, vớt ra để ráo.</span></p>
+<p><span style="color: #000000;">– Nếu dùng bánh đa khô thì các bạn ngâm qua với nước khoảng 5 phút cho bánh nở mềm, vớt ra để ráo. Với bánh đa tươi thì chỉ cần rửa qua với nước là được.</span></p>
+<p><span style="color: #000000;">4. Làm phần nước lọc cua:</span></p>
+<p><span style="color: #000000;">Đổ từ từ nước lọc cua vào nồi, gạn bỏ phần cặn dưới đáy bát. Cho chút muối vào nồi, đun lửa vừa. Dùng đũa khuấy để thịt cua không bị xát đáy nồi, khi nước bắt đầu có vẩn đục của thịt cua nổi lên thì ngừng không khuấy nữa nếu không cua sẽ khó đóng bánh.</span></p>
+<p><span style="color: #000000;">Khi cua đã đóng thành tảng và nổi hoàn toàn trên mặt nước, dùng muôi vớt phần gạch cua này ra bát riêng. Nước dùng cua để lại.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8162" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/banhdacua4-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">5. Làm chả lá lốt:</span></p>
+<p><span style="color: #000000;">– Trộn đều thịt xay, mộc nhĩ, lá lốt thái nhỏ, hạt tiêu cùng ½ thìa café hạt nêm và 5 gr hành khô. Để 5 phút cho ngấm gia vị.</span></p>
+<p><span style="color: #000000;">– Trải lá lốt ra mặt phẳng (mặt lá xanh bóng úp xuống dưới). Lấy 1 thìa thịt xay vừa đủ đặt ngang lên mặt lá, cuộn tròn miếng chả, dùng cuống lá hoặc tăm nhọn găm lại để giúp chả cố định, không bị bung ra lúc rán.</span></p>
+<p><span style="color: #000000;">– Làm nóng dầu ăn trong chảo, lăn tròn các miếng chả trên chảo để lá lốt hơi se lại, bám vào thịt. Rán trên lửa vừa tới khi chả xém đều. Gắp ra đĩa.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8163" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/banhdacua5-1024x683.jpg" width="1024"/></p>
+
+
+<p><span style="color: #000000;">6. Đun sôi một bát to nước trong nồi, thả rau muống vào luộc. Cho vào vài hạt muối để giúp rau không bị thâm. Luộc 3 – 5 phút, khi rau vừa chín tới thì vớt ra thả vào bát nước lạnh, ngâm trong 10 – 15 phút để rau được giòn.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8164" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/banhdacua6-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">7. Làm nóng chảo, cho mỡ phần vào áp chảo trên lửa vừa (lưu ý không đậy vung). Khi mỡ đã tóp lại, xém vàng thì vớt ra bát để riêng, cho toàn bộ chỗ hành khô còn lại vào chảo phi vàng. Chỉ phi hành tới khi hơi hanh vàng thì vớt ra vì hành đọng mỡ sôi sẽ tự cháy giòn thêm.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8165" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/banhdacua7-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">8. Chắt bớt mỡ nước ra, chỉ để lại khoảng 15 ml trong chảo, cho gạch cua vào đảo đều, cho tiếp tóp mỡ và ¼ chỗ hành phi vào đảo cùng. Khi gạch chín thì vớt ra bát, phần gạch cua chưng này sẽ giúp tạo thêm màu và mùi thơm cho bánh đa.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8166" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/banhdacua8-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">9. Vẫn sử dụng chảo chưng gạch cua, cho thêm 15 ml mỡ nước, đợi mỡ nóng thì cho cà chua vào xào tới khi chín mềm nhưng vẫn giữ được hình múi cau (có thể đậy vung để cà chua không bị cháy và mau chín), nêm 10 ml nước mắm. Vớt cà chua ra bát để riêng.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8167" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/banhdacua9-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">10. Làm nóng chút dầu ăn trong chảo, cho chả cá vào rán trên lửa vừa tới khi vàng đều 2 mặt thì gắp ra đĩa, cắt thành miếng nhỏ vừa ăn dày khoảng 1 cm.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8168" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/banhdacua10-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">11. Chế nước dùng:</span></p>
+<p><span style="color: #000000;">– Vớt sườn ra khỏi nồi (có thể dùng sườn ăn kèm với bánh đa), đổ nước lọc cua vào nồi nước ninh xương. Đun sôi trở lại, cho tôm đã ngâm vào trụng tới khi tôm mềm thì vớt ra. Cho tiếp cà chua, đun sôi, nêm 2 thìa cafe hạt nêm (có thể nêm mặn một chút để ăn cùng bánh đa sẽ vừa).</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8169" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/banhdacua11-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">12. Cho bánh đa vào trụng sơ qua trong nồi nước sôi riêng khoảng 2 phút cho chín tới (không trụng vào nồi nước dùng vì sẽ làm đục và đặc nước). Vớt bánh đa ra và chia đều vào các bát. Xếp lên trên các loại “topping” ăn kèm bao gồm: chả lá lốt, chả cá, rau muống, tôm, gạch cua chưng, hành phi, hành mùi.</span></p>
+<p><span style="color: #000000;">Để làm bánh đa nước: chan đều nước dùng vào bát. Dùng nóng kèm rau sống.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8170" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/banhdacua12-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">13. Đối với bánh đa trộn:</span></p>
+<p><span style="color: #000000;">– Hòa tan 30 ml nước mắm, 30 ml xì dầu, 30 gr đường, 50 ml nước lọc, nước cốt của nửa quả chanh (khoảng 25 ml) để làm nước trộn bánh đa.</span></p>
+<p><span style="color: #000000;">– Rưới 2 – 3 thìa cafe nước trộn vào bát, trộn đều. Nếu thích ăn cay có thể thêm chút sa tế. Ăn cùng 1 bát nhỏ nước dùng.</span></p>
+<p><span style="color: #000000;">*Yêu cầu thành phẩm: Bánh đa mềm dai vừa phải không bị nát. Nước dùng đậm đà vị cua, thơm mùi gạch cua và hành mùi, xen lẫn mùi thơm của chả lá lốt và các loại đồ ăn kèm.CÁC</span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,59 @@
+---
+title: "Gà nướng mật ong"
+date: "2012-11-20"
+slug: "ga-nuong-mat-ong"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/11/GaNuongMatOng1.jpg"
+description: "Cách làm và bí quyết để làm gà nướng mật ong da giòn rụm, thơm mềm"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Mời cả nhà món gà nướng trong giờ nghỉ giải lao đợi phần cuối của Macaron nhé :)</p>
+<p>Gà ở bên này nhiều và rất rẻ, đặc biệt là thịt gà đùi. Chỉ mỗi tội là gà công nghiệp nên thịt không được thơm và ngọt như gà đi bộ nhà mình, nhất là phần da gà. Luộc lên một tí thôi là da đi đằng da, thịt đi đằng thịt rồi. Cho nên mình ưng gà nướng kiểu này lắm, vì nó làm cho phần da rất chi là ngon, giòn giòn, dai dai, ngọt và thơm nữa. À, và ít mỡ nên không sợ béo :D</p>
+<p>Bí quyết thì chẳng có gì cao siêu, chỉ là giữ cho da gà khô ráo khi ướp, và trong khi nướng thì dùng muối/ nước chanh/ dấm và mật ong. Acid trong những thứ này sẽ giúp cho da giòn và ngon hơn. Phần gia vị ướp thịt gà thì các bạn có thể thay đổi tùy ý thích và khẩu vị của gia đình. Mình có hai cách ướp hay dùng nhất, cả hai cách đều ngon như nhau và lúc nào cũng được bạn bè &amp; gia đình hưởng ứng nhiệt tình. Mình giới thiệu cả hai ở đây để bạn nào cần thì tham khảo nhé.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8195729359/" title="IMG_7895-1 by LinhTrang9185, on Flickr"><img alt="IMG_7895-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8201/8195729359_79afa14bb3_z.jpg" width="444"/></a></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu </strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em>2 đùi gà to gồm cả phần đùi trong (khoảng 500-600gram) </em></li>
+</ul>
+<p>Gia vị ướp:</p>
+<p>Kiểu 1</p>
+<ul>
+<li><em>2 thìa café bột gia vị (mình dùng bột gia vị Hải Châu)</em></li>
+<li><em>1/3 thìa café ngũ vị hương</em></li>
+<li><em>1/2 thìa café bột tỏi</em></li>
+<li><em>1/3 thìa café bột hành</em></li>
+<li><em>1/3 thìa café tiêu xay</em></li>
+<li><em>1 thìa café tương cà (Ketchup)</em></li>
+<li><em>1 thìa café mật ong </em></li>
+</ul>
+<p>Kiểu 2</p>
+<ul>
+<li><em>1.5 thìa café bột gia vị </em></li>
+<li><em>1 thìa canh dầu hào (oyster sauce)</em></li>
+<li><em>1 thìa café đường</em></li>
+<li><em>1/3 thìa café ngũ vị hương</em></li>
+<li><em>1/2 thìa café bột tỏi</em></li>
+<li><em>1/3 thìa café bột hành</em></li>
+<li><em>1/3 thìa café tiêu xay </em></li>
+</ul>
+<p>Gia vị quét lên da gà:<em> 1.5 thìa cafe mật ong + 1 thìa cafe nước + vài hạt muối (hoặc 1/2 thìa cafe nước cốt chanh). </em></p>
+<p>(*) <strong>Ghi chú:</strong> Nếu không có bột hành và bột tỏi, các bạn có thể thay bằng tỏi tươi và hành khô, bóc vỏ bằm nhuyễn. Dùng khoảng 3 củ hành khô và 4-5 tép tỏi cho 2 đùi gà. Định lượng các loại gia vị có thể thay đổi tùy theo khẩu vị của gia đình</p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Đùi gà rửa sạch. Thấm thật khô. Dùng dao sắc khía vài đường ở mặt dưới của đùi gà (không phải mặt có da gà) để gia vị ngấm nhanh hơn khi ướp.</p>
+<p>2. Trộn đều các loại gia vị ướp. Quét gia vị lên mặt dưới của thịt gà, mặt da phía trên giữ cho khô. Đậy kín, cho vào tủ lạnh để qua đêm hoặc nửa ngày cho gia vị thật ngấm.</p>
+<p>3. Khi nướng úp phần mặt dưới của đùi gà xuống, quay phần da gà lên trên (lúc này da gà vẫn khô ráo và chưa có gia vị gì). Nướng 210 độ C ở rãnh thấp nhất của lò. Sau khoảng 15-20 phút, các bạn xiên thử tăm vào thịt gà thấy không có nước màu đỏ chảy ra (hoặc nước hơi hồng đào cũng không sao) thì quét hỗn hợp mật ong lên da gà. Đưa khay lên rãnh thừ 2 từ trên xuống. Nướng thêm 5-10 phút.</p>
+<p>Nướng theo cách này thì trong thời gian đầu tiên, do thịt gà gần với lửa dưới của lò hơn nên sẽ thịt chín đều trong khi da gà được làm khô. Mật ong quét lên da trong những phút nướng cuối sẽ giúp da giòn. Không nên quét mật ong ngay từ đầu vì da gà sẽ cháy rất nhanh. Nếu các bạn dùng nồi nướng hay lò thủy tinh thì cũng điều chỉnh nhiệt độ và chế độ lửa cho phù hợp nhé. Thịt nướng xong sẽ chín mềm vừa phải, da rất giòn thơm mà không bị quá cháy.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Nếu không có lò nướng, các bạn có thể ướp bình thường rồi rán hoặc áp chảo :)</p>
+<p>————–</p>
+<p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng dưới bất kì hình thức nào, vui lòng liên hệ với Linh Trang theo địa chỉ mail </span>savourydaysvn@gmail.com. <span style="color: #ff0000;">Mọi trường hợp cố tình vi phạm sẽ chịu sự xử lí theo pháp luật.</span><br/>
+</strong></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

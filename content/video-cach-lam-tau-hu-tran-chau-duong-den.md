@@ -1,0 +1,74 @@
+---
+title: "[VIDEO] Cách làm TÀU HŨ TRÂN CHÂU ĐƯỜNG ĐEN"
+date: "2020-03-06"
+slug: "video-cach-lam-tau-hu-tran-chau-duong-den"
+categories: []
+tags: []
+image: "/wp-content/uploads/2020/03/cách-làm-tàu-hũ-trân-châu-đường-đen-banner.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #ff0000;"><strong>NHẮN: Mừng ngày 8/3 và khai giảng khoá học làm bánh mới (lớp “BÁNH GATO KEM”), tụi mình đang có chương trình ưu đãi giảm 20% học phí cho tất cả các khoá học. Chi tiết các bạn xem tại đây (/lop-hoc-lam-banh/)  hoặc inbox FB Savoury days nha. </strong></span></p>
+<p>———–</p>
+<p><span style="font-weight: 400; color: #000000;">Quà 8-3 của SD tặng các chị em và cả các anh em đây ạ ;) </span></p>
+<p><span style="font-weight: 400; color: #000000;">Đợt mình đi Sing, ăn mấy sản phẩm tàu hủ/ tào phớ, sữa đậu bên đó, cứ gọi là thích mê cái sự vừa thơm, vừa béo, vừa ngọt mát dễ ăn của các bạn ấy. Tào phớ với sữa đậu ở VN cũng nhiều, nhưng mua ngoài hàng thì không điều chỉnh được vị theo ý mình, lại đắt hơn tự làm nhiều nữa. Sữa đậu tự vắt nên béo và thơm, lúc thành pudding như món này thì núng nính núng nính, hợp với vị dẻo dai của trân châu đường đen cực kì. Combo thần thánh luôn ý! Cách làm hơi mất thời gian tí thôi chứ hoàn toàn không khó. Còn nếu bạn nào đã có chỗ mua sẵn sữa đậu ngon thì cứ dùng sữa đậu mua sẵn đó cũng được, về chỉ làm pudding thôi, nhanh và dễ hơn một cái chớp mắt ;) </span></p>
+<p><span style="font-weight: 400; color: #000000;">Trân châu, đường đen có rất sẵn ở các hàng bán nguyên liệu làm bánh, bốc điện thoại gọi là có ship đến cửa. À, với món này để làm cho “xịn” y như ngoài hàng thì cả nhà nên dùng loại cốc có đáy lõm xuống như cốc tụi mình dùng trong video nhé, sẽ có chỗ đổ trân châu lên trên ;) Cốc tụi mình mua ở Abby, các nguyên liệu trân châu, đường đen.. ở <a href="https://abby.vn"><strong>Abby</strong></a> cũng có luôn (<a href="https://abby.vn"><strong>Abby</strong></a> có ship toàn quốc và cửa hàng ở HN, TPHCM nhé). </span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<h2><span style="font-weight: 400; color: #000000;">CÁCH LÀM TÀU HŨ TRÂN CHÂU ĐƯỜNG ĐEN </span></h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">200 gram đậu tương/ đậu nành </span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1.2 lít nước</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">220 ml sữa tươi</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">60 ml whipping cream</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">15 – 18 gram gelatin</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Khoảng 150 gram trân châu đen (số lượng trân châu tùy sở thích)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Khoảng 70 gram đường nâu Hàn Quốc (độ ngọt tùy khẩu vị)</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">Lưu ý:</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">– Càng nhiều gelatin tàu hũ sẽ càng cứng hơn, tùy thuộc vào sở thích mà bạn điều chỉnh nhé. Nếu muốn mang đi xa, cần để ngoài lâu mà không bị chảy thì dùng 18 gram gelatin, vì dù dùng 18 gram thì tàu hũ đảm bảo vẫn “núng nính” mà mềm nhé.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nếu không có kem tươi, các bạn có thể thay bằng nước cốt dừa</span></p>
+<p><strong><span style="color: #000000;">Cách làm</span></strong></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/MfLaQtHXA0o" width="560"></iframe></div>
+<p><strong><span style="color: #000000;">A. Tàu hũ </span></strong></p>
+<ol>
+<li><span style="font-weight: 400; color: #000000;"> Cho đậu tương vào chậu có thành cao, đổ nhiều nước, thấy hạt nào nổi lên thì bỏ đi. Đổ đậu ra rổ, nhặt bỏ các hạt sâu, lép. Rửa sạch đất cát.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Cho đậu vào âu. Dùng nước sạch, đổ nước ngập gấp 3 lần đậu, ngâm đậu từ 8 – 10 tiếng cho đến khi hạt đậu nở gấp 2 – 2.5 lần. Nếu dùng nước ấm, thời gian ngâm sẽ ngắn hơn, không ngâm đậu quá lâu sẽ làm đậu bị chua. Sau khi ngâm xong, đổ đậu ra rổ và rửa lại một lần nữa.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Xay đậu với 1.2 lít nước. Đặt một miếng vải lọc lên trên rây, đổ phần đậu đã xay và vắt lấy nước. Bạn có thể xay đậu với khoảng 700ml, sau khi lọc đậu xong thì đổ nốt 500ml nước vào.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Lọc lại đậu qua rây một lần nữa (phòng trường hợp trong quá trình lọc bạn có để rơi bã đậu vào). Cho nước đậu vào nồi, đun sôi ở lửa vừa – to, hớt sạch bọt.</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">Lưu ý:</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Vừa đun vừa khuấy đều để đậu không bị cháy, khê ở đáy nồi. </span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nước đậu khi sôi sẽ bị bùng, trào nên các bạn để ý để không phải dọn bếp nhé.</span></p>
+<ol start="5">
+<li><span style="font-weight: 400; color: #000000;"> Sau khi nước sôi, hạ nhỏ lửa và đun liu riu thêm 15 phút (vì trong đậu nành có một số chất mà nếu không được nấu kĩ sẽ gây ra đầy bụng, khó tiêu). </span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">Lưu ý:</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400; color: #000000;">– Trong quá trình đun không đậu vung sẽ làm nước đậu bị trào</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Thỉnh thoảng khuấy đều để đậu không bị cháy.</span></p>
+<ol start="9">
+<li><span style="font-weight: 400; color: #000000;"> Sau khi nấu xong, chắt lấy 400ml sữa đậu. Trộn 400 ml sữa đậu với sữa tươi và kem tươi.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Ngâm gelatin trong nước lạnh đến khi nở mềm.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Trong lúc ngâm gelatin thì đun hỗn hợp kem sữa ở bước (6) trên lửa vừa đến khi hỗn hợp kem sữa gần sôi (có bọt khí sôi lăn tăn ở mép nồi nhưng hỗn hợp chưa sôi). Vắt kiệt nước gelatin, cho vào nồi kem sữa và khuấy nhanh tay cho gelatin tan hết. Bắc nồi ra khỏi bếp.</span></li>
+<li><span style="font-weight: 400; color: #000000;">Nếu các bạn dùng cốc nhựa giống trong video, để hỗn hợp kem sữa nguội bớt rồi đổ vào cốc. Hớt bọt để mặt pudding được mịn.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Để pudding trong ngăn mát tủ lạnh ít nhất 8 tiếng đến khi pudding đông hoàn toàn.</span></li>
+</ol>
+<p><strong><span style="color: #000000;">B. Cách nấu trân châu đường đen.</span></strong></p>
+<ol>
+<li><span style="font-weight: 400; color: #000000;"> Với 150 gram trân châu, các bạn đun sôi 1.5 lít nước. Sau khi nước sôi thì cho trân châu vào, khuấy đều ở lửa to đến khi trân châu nổi lên trên bề mặt nước thì hạ nhỏ lửa, đun thêm 20 phút nữa. Trong lúc đun thỉnh khoảng khuấy đều để trân châu không bị cháy. </span></li>
+<li><span style="font-weight: 400; color: #000000;"> Sau khi đun liu riu 20 phút, bắc nồi xuống, đậy vung và ủ trân châu thêm 10 phút. Sau đó đổ trân châu qua lây để lọc bỏ phần nước, không cần rửa lại trân châu.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Đổ trân châu ra bát, cho đường đen vào và trộn đều, để trân châu nguội hẳn ở nhiệt độ phòng.</span></li>
+</ol>
+<p><strong><span style="color: #000000;">C. Hoàn thiện</span></strong></p>
+<ol>
+<li><span style="font-weight: 400; color: #000000;"> Sau khi pudding đã đông, nhúng cốc pudding vào âu nước sôi trong khoảng 2 – 3 giây đến khi thấy phần thành cốc long ra.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Úp ngược cốc ra đĩa, đổ phần trân châu đã nguội lên và thưởng thức.</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">Tàu hũ cần được bảo quản ở ngăn mát tủ lạnh, càng nhiều gelatin thì càng để được lâu ở nhiệt độ phòng. Nên ăn trong vòng 2 ngày.</span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

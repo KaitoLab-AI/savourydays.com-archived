@@ -1,0 +1,82 @@
+---
+title: "[VIDEO] Cách làm SU KEM VỎ XÙ vị Yến mạch Hạnh Nhân & Kem trà Earl grey"
+date: "2020-01-04"
+slug: "video-cach-lam-su-kem-vo-xu-vi-yen-mach-hanh-nhan-kem-tra-earl-grey"
+categories: []
+tags: []
+image: "/wp-content/uploads/2020/01/cách-làm-su-kem-vỏ-giòn-yến-mạch-hạnh-nhân.jpg"
+description: "Nếu bạn là fan của món bánh su kem thơm mềm ngọt ngào thì nhất định đừng bỏ qua cách làm su kem vỏ xù vị yến mạch hạnh nhân này nhé, bạn sẽ rất bất ngờ đấy"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #000000;">[<span style="color: #ff0000;">NHẮN NHẮN] Đợt ưu đãi GIẢM HỌC PHÍ TẤT CẢ CÁC LỚP HỌC LÀM BÁNH ONLINE chỉ kéo dài thêm chưa đến một tuần nữa, tới ngày 11/1 là hết hạn rồi. Nên bạn nào quan tâm thì nhanh chân đăng kí nha. Chắc sẽ không còn đợt nào giảm nhiều như đợt này nữa đâu. Thông tin chi tiết về các lớp học và học phí mời các bạn xem ở đây nhé: </span><span style="color: #0000ff;"><strong><a href="/lop-hoc-lam-banh/" style="color: #0000ff;">/lop-hoc-lam-banh/</a></strong></span></span></p>
+<p><span style="color: #000000;">————</span></p>
+<p><span style="color: #000000;">Đã hết bận rộn với các lớp bánh quy Tết, giờ tụi mình lại có thời gian để thử công thức mới rùi đây ^^. Bấy lâu nay bận việc ở trường đại học và cả việc ở “trường SD” (mấy lớp làm bánh đó ;) ), nên danh sách những món muốn thử cứ ngày một dài ra, thời gian làm lại chẳng có. Thành ra cứ khi nào có thời gian “rảnh tay”  như đợt này chẳng hạn, là phải tận dụng triệt để :)</span></p>
+<p><span style="color: #000000;">Su kem vỏ giòn (craquelin choux) mình đã giới thiệu công thức tại blog và cả sách Nhật ký học làm bánh từ lâu rồi. Bạn nào là độc giả lâu năm của SD chắc hẳn còn nhớ. Nhưng món su này thì khá là khác đấy, khác từ vỏ tới nhân luôn. Trước tiên là phần vỏ của món bánh này, được làm theo kiểu crumble với bột hạnh nhân và yến mạch, thay vì kiểu vỏ bánh quy như craquelin, nên nó giòn và xốp nhẹ, chứ không nhiều bột, cho nên ăn rất thú vị và không hề ngán. Ngoài ra, bột vỏ bánh su này cũng lỏng hơn su truyền thống một chút, nhiều nước giúp bánh nở to và phồng căng, sau khi phun kem vào sẽ cực kì hút mắt. Cuối cùng là nhân kem vị trà bá tước, ngậy béo mà vẫn thanh mát, rất hài hoà và hợp vị với phần vỏ bánh. Túm lại là một món bánh vừa hợp với trà chiều, vừa hợp làm tráng miệng sau các bữa tiệc. </span></p>
+<p><span style="color: #000000;">Hihi, quảng cáo vậy chắc khá đủ rồi nhỉ. Giờ mình vào phần cách làm nhé. Tuy video có hướng dẫn đầy đủ các bước, nhưng làm món bánh này có <strong>khá nhiều lưu ý, các bạn đọc trong phần công thức ở phía dưới nhé. </strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="281" src="https://www.youtube.com/embed/autQX5cRql0?feature=oembed" width="500"></iframe></p>
+<h2><span style="color: #000000;">CÁCH LÀM SU KEM VỎ XÙ VỊ YẾN MẠCH HẠNH NHÂN &amp; KEM TRÀ EARL GREY  </span></h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong><span style="color: #000000;">A. Phần topping hạnh nhân yến mạch</span></strong></p>
+<ul>
+<li><em><span style="color: #000000;">20 gram bột mì đa dụng</span></em></li>
+<li><em><span style="color: #000000;">25 gram bột hạnh nhân</span></em></li>
+<li><em><span style="color: #000000;">20 gram đường bột</span></em></li>
+<li><em><span style="color: #000000;">10 gram yến mạch</span></em></li>
+<li><em><span style="color: #000000;">20 gram bơ động vật không muối (để lạnh)</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">B. Bột bánh su kem</span></strong></p>
+<ul>
+<li><em><span style="color: #000000;">120 ml nước nóng</span></em></li>
+<li><em><span style="color: #000000;">65 gram bơ động vật không muối</span></em></li>
+<li><em><span style="color: #000000;">½ thìa cafe đường</span></em></li>
+<li><em><span style="color: #000000;">1 nhúm muối</span></em></li>
+<li><em><span style="color: #000000;">64 gram bột mì đa dụng</span></em></li>
+<li><em><span style="color: #000000;">130 gram trứng gà</span></em></li>
+</ul>
+<p><span style="color: #000000;"><span style="color: #ff0000;">Lưu ý: Lượng trứng này tương đương với 2,5 – 3 quả trứng tùy vào kích thước trứng. Các bạn có thể đập 2 quả trứng và cân trọng lượng, nếu thiếu thì đánh tan 1 quả trứng nữa và cân từ từ đến khi đủ</span>.</span></p>
+<p><strong><span style="color: #000000;">C. Kem trà bá tước</span></strong></p>
+<ul>
+<li><em><span style="color: #000000;">200 ml sữa tươi không đường</span></em></li>
+<li><em><span style="color: #000000;">4 gram lá trà bá tước xay nhỏ</span></em></li>
+<li><em><span style="color: #000000;">2 lòng đỏ trứng</span></em></li>
+<li><em><span style="color: #000000;">40 gram đường bột</span></em></li>
+<li><em><span style="color: #000000;">15 gram tinh bột ngô</span></em></li>
+<li><span style="color: #000000;"> </span><em><span style="color: #000000;">150 gram kem tươi (whipping cream)</span></em></li>
+<li><em><span style="color: #000000;">10 – 15 gram đường bột</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong> Cách làm</strong></span></p>
+<p><strong><span style="color: #000000;">A. Phần bột vỏ giòn hạnh nhân yến mạch</span></strong></p>
+<p><span style="color: #000000;">1. Cho vào âu bột mì, bột hạnh nhân, đường bột đã rây mịn và yến mạch. Trộn đều tất cả các nguyên liệu khô.</span></p>
+<p><span style="color: #000000;"> 2. B</span><span style="color: #000000;">ơ để lạnh, cắt thành từng khối nhỏ, cho bơ vào bát bột và bóp cho bơ vụn ra, hòa quyện với bột theo dạng vụn nhỏ. <strong>Lưu ý: Bước này chỉ thao tác bằng đầu ngón tay và làm nhanh tay tránh làm bơ bị chảy. Cho phần bột này vào tủ lạnh đến khi cần dùng.</strong></span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><strong><span style="color: #000000;">B. Cách trộn bột bánh su kem</span></strong></p>
+<p><span style="color: #000000;">1. Làm nóng lò ở 220 độ C, hai lửa.</span></p>
+<p><span style="color: #000000;"> 2. </span><span style="color: #000000;">Cho nước nóng và bơ vào nồi, đun lửa to đến khi sôi thì hạ nhỏ lửa. Cho toàn bộ số bột mì vào, nhanh tay khuấy đến khi bột quyện thành bột khối và không dính nồi. Bắc nồi khỏi bếp.</span></p>
+<p><strong><span style="color: #000000;">Lưu ý: Khi nước sôi cần lập tức cho bột vào, không để nước sôi quá lâu sẽ làm bay nhiều hơi nước, bột bị đặc.</span></strong></p>
+<p><span style="color: #000000;">– Chỉ khuấy đến khi bột quyện thành 1 khối thì bắc nồi khỏi bếp, không khuấy quá lâu trên bếp sẽ làm bơ bị chảy ngược ra ngoài.</span></p>
+<p><span style="color: #000000;">3. Tiếp tục khuấy thêm 2 – 3 phút cho bột nguội bớt. Chia trứng thành 3 phần, cho lần lượt từng phần, khuấy nhanh tay đến khi bột và trứng hòa quyện rồi mới cho phần tiếp theo. Ở phần trứng cuối cùng nên cho từ từ đến khi bột đủ đặc thì dừng lại, tùy vào độ hút nước của từng loại bột mà có thể không cần dùng hết lượng trứng. Bột chuẩn là khi nhấc que đánh lên bột sẽ rơi xuống từng mảng (cụ thể xem tại video)</span></p>
+<p><span style="color: #000000;">Lưu ý: Khi mới cho trứng vào bột sẽ tách ra thành từng mảng nhỏ, tuy nhiên cần tiếp tục khuấy đến khi bột và trứng hoàn toàn hòa quyện, bột mịn mượt.</span></p>
+<p><span style="color: #000000;">4. Cho bột vào túi bắt kem, cắt đầu túi khoảng 1cm và bóp bột thành hình tròn có đường kính khoảng 3 – 4 cm. Sau khi bóp xong bột sẽ hơi chảy ra nên các bạn bóp bột bé hơn mong muốn một chút thì bột chảy ra là vừa. Nên bóp bột nhỏ và cao thì bánh nở vồng cao sẽ đẹp hơn.</span></p>
+<p><span style="color: #000000;">5. Rắc phần bột vỏ giòn hạnh nhân yến mạch đều khắp mặt bánh.</span></p>
+<p><span style="color: #000000;"> 6. </span><span style="color: #000000;">Nướng bánh ở 220 độ C trong 12 – 15 phút, khi mặt bánh bắt đầu vàng thì hạ xuống 180 – 190 độ và nướng thêm 15 – 17 phút đến khi mặt bánh khô ráo hoàn toàn.</span></p>
+<p><span style="color: #000000;"><strong>* Lưu ý</strong>:</span></p>
+<p><span style="color: #ff0000;"><em>Nướng trong nhiệt độ cao ở những phút đầu tiên sẽ giúp phần chất lỏng sôi và tạo ra nhiều hơi nước, giúp bánh nở cao hết cỡ. Sau đó thì hạ nhiệt độ để vỏ bánh cứng lại, hơi nước thoát ra hết, bánh khô ráo và không bị xẹp sau khi mang ra khỏi lò. Trong quá trình nướng nếu phần vỏ giòn của bạn bị xém quá mà bánh chưa đủ khô ráo thì trong những phút cuối, các bạn có thể mở cửa lò thật nhanh tay và để một tờ giấy bạc che mặt bánh, giúp mặt bánh không bị cháy. Tuy nhiên việc mở cửa lò chỉ được phép thực hiện trong những phút cuối, khi bánh đã khá cứng cáp, và phải làm thật nhanh tay.</em></span></p>
+<p><span style="color: #000000;">7. Sau khi nướng xong, để bánh nguội hoàn toàn.</span></p>
+<p><strong><span style="color: #000000;">C. Nhân kem trà bá tước</span></strong></p>
+<p><span style="color: #000000;">1. Đun sôi sữa ở lửa vừa, trong quá trình đun chú ý khuấy đều tay tránh sữa bị cháy. Khi sữa sôi thì tắt bếp, cho toàn bộ lá trà vào và đậy vung nồi, ủ trà trong khoảng 15 phút, đến khi sữa chỉ còn ấm, sờ tay vào không phải rụt tay lại vì nóng.</span></p>
+
+
+<p><span style="color: #000000;">2. Đánh lòng đỏ trứng với đường đến khi lòng đỏ bông mịn và chuyển màu vàng nhạt.</span></p>
+<p><span style="color: #000000;">3. Rây bột ngô vào âu trứng, khuấy đến khi mịn mượt. Từ từ cho phần trà sữa (chỉ còn ấm) vào, vừa đổ vừa khuấy đến khi hòa quyện.</span></p>
+<p><span style="color: #000000;">4. Lọc lại hỗn hợp qua rây vào nồi để loại bỏ các phần bột bị lợn cợn và những lá trà quá to.</span></p>
+<p><span style="color: #000000;">5. Bắc nồi lên bếp, khuấy liên tục trên lửa nhỏ đến khi hỗn hợp đặc lại, nếm thử không còn mùi trứng hay vị bột sống thì đổ kem ra âu. Dùng màng bọc thực phẩm bọc kín âu, dính sát màng bọc vào mặt kem để kem không bị đóng thành màng sau khi nguội. Làm lạnh phần kem trà sữa này trong tủ lạnh (trong khoảng 45 – 60 phút).</span></p>
+<p><span style="color: #000000;">7. Rây đường bột vào âu kem tươi, đánh ở tốc độ thấp và tăng dần lên tốc độ cao, đánh đến khi kem bông cứng thì dừng lại.</span></p>
+<p><span style="color: #000000;">8. Dùng phới lồng khuấy nhanh tay cho phần kem trà sữa (đã làm lạnh) cho kem mịn mượt trở lại. Đổ phần kem trà vào kem tươi đã đánh bông, trộn nhẹ nhàng bằng kĩ thuật fold đến khi hòa quyện thì dừng lại.</span></p>
+<p><span style="color: #000000;">9. Bơm kem vào bánh su đã nguội. Phần vỏ giòn sẽ chỉ giòn trong ngày. Có thể bảo quản bánh trong ngăn mát tủ lạnh từ 2 – 3 ngày.</span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

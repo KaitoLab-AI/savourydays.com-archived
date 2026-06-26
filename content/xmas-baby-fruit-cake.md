@@ -1,0 +1,56 @@
+---
+title: "Baby fruit cake – Bánh bông lan hoa quả"
+date: "2012-12-16"
+slug: "xmas-baby-fruit-cake"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/12/FruitCake.jpg"
+description: "fruit cake, bánh bông lan, giáng sinh, bánh bơ, bánh cake"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
+<p>——————————————</p>
+<p>Những chiếc bánh bông lan thơm phức mùi rượu với rất nhiều quả khô và các loại hạt là hình ảnh quen thuộc trên bàn tiệc Giáng sinh. Thông thường để có bánh ngon vào đúng đêm Noel, các bà nội trợ cần phải chuẩn bị trước ít nhất 3 tuần đến 1 tháng. Bởi một trong những công đoạn quan trọng nhất làm nên hương vị thơm ngon của bánh là tẩm rượu lên khắp bên ngoài bánh, để một vài ngày cho bánh có thời gian ngấm rượu, rồi lại tẩm và để vài ngày nữa… Sau một vài lần được “uống rượu” như vậy, chiếc bánh sẽ trở nên mềm ẩm và có hương vị hoàn hảo :)</p>
+<p>Kể chuyện một tí thôi chứ còn những thông tin trên không liên quan gì đến bánh trong bài mấy :”&gt; Vì năm nay mình bận nhiều việc, và nói thật là cũng không hảo lắm với một chiếc bánh có rất nhiều rượu mạnh, nên mình chỉ làm White fruit cake và làm với kích thước mini để tiện mang tặng và ăn dần thôi. White fruit cake đã có một công thức rất ngon (đã được kiểm nghiệm và chứng nhận bởi nhiều chị em  :) ) ở <a href="/fruit-cake-cong-thuc-pound-cake-banh-bong-lan-co-ban-highly-recommend/"><strong>ĐÂY</strong></a>. Công thức lần này thì mình dùng cốt bánh yellow butter cake với cranberrry, nho khô và anh đào. Bánh mềm xốp và ẩm, thơm mùi bơ với rượu Rum, các loại quả khô đều có vị chua nên làm cho hương vị của bánh cân bằng hơn rất nhiều.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8275326290/" title="IMG_8131-1 by LinhTrang9185, on Flickr"><img alt="IMG_8131-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8491/8275326290_812ba9d448_z.jpg" width="414"/></a></p>
+<p><strong><span style="color: #800000;">Nguyên liệu</span> (cho 12 bánh nhỏ hoặc 1 ổ bánh cỡ vừa)</strong></p>
+<ul>
+<li><em>120 gram bơ nhạt (unsalted butter) – <strong>để mềm ở nhiệt độ phòng (nhưng không để bơ chảy)</strong></em></li>
+<li><em>100gram đường (nên dùng loại hạt mịn)</em></li>
+<li><em>1gram muối</em></li>
+<li><em>2 quả trứng (50-55gram/ quả không tính vỏ) – <strong>nhiệt độ phòng </strong></em></li>
+<li><em>1.5 thìa cafe vanilla dạng lỏng (có thể thay bằng vanilla bột)</em></li>
+<li><em>180gram bột mỳ đa dụng (all purpose flour) – <strong>rây mịn </strong></em></li>
+<li><em>1.5 thìa cafe (7-8gram) bột nở (baking powder)</em></li>
+<li><em>120ml sữa tươi không đường </em></li>
+<li><em>120gram quả khô các loại hoặc hạt khô </em></li>
+<li><em>2 thìa canh (30ml) rượu Rum hoặc Brandy</em></li>
+</ul>
+<p><b><span style="color: #800000;">Dụng cụ</span> </b></p>
+<ul>
+<li><em>cân &amp; rây bột </em></li>
+<li><em>12 khuôn loaf mini hoặc 12 khuôn cupcake (có lót cup giấy) hoặc 1 khuôn loaf cỡ vừa </em></li>
+<li><i>máy đánh trứng </i></li>
+<li><i>âu và phới trộn bột </i></li>
+<li><em>lò nướng  </em></li>
+</ul>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8275327096/" title="IMG_8126-1 by LinhTrang9185, on Flickr"><img alt="IMG_8126-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8353/8275327096_acf4bf7c8e_z.jpg" width="425"/></a><span id="more-3482"></span> <span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>X<em>em thêm về Pound Cake (bánh bơ) và phương pháp đánh bột + các lưu ý dành cho Pound Cake tại <strong><a href="/?p=729">ĐÂY</a></strong></em></p>
+<p>1. Quả khô rửa với nước ấm cho sạch lớp đường bên ngoài. Nếu quả to thì cắt nhỏ cỡ hạt lựu. Ngâm quả khô với rượu, để qua đêm cho ngấm.</p>
+<p>2. Vặn lò ở nhiệt độ 165 độ C – hai lửa. Đặt cup giấy vào các khuôn hoặc chống dính khuôn bằng cách dùng bơ lạnh quét một lớp mỏng lên thành và lòng khuôn, rắc một lớp bột mỏng rồi úp ngược khuôn cho bột thừa rời ra hết.</p>
+<p>3. Cho bơ và muối vào âu. Để máy ở tốc độ thấp, đánh khoảng 30-45 giây đến khi bơ mềm. Cho đường vào âu, từ từ tăng dần tốc độ máy, đánh đến khi bơ bông mềm, mượt, nhuyễn, chuyển sang màu vàng nhạt hoặc trắng. *<strong>Lưu ý:</strong> <em>Thi thoảng các bạn nên dừng máy, vét thành âu để đánh được đều. Đường nên cho vào từng chút một, bơ sẽ bông nhanh hơn.</em></p>
+<p>4. Cho lần lượt từng quả trứng vào, đánh đều sau mỗi lần thêm trứng. Cho vanilla vào, đánh đều. Trong quá trình trộn lưu ý vét thành âu.</p>
+<p>5. Trong một cái âu khác trộn đều bột mỳ và bột nở.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>6. Đặt máy ở tốc độ thấp (hoặc có thể trộn tay bằng spatula hay phới trộn bột), trộn bột và sữa với hỗn hợp bơ trứng đường như sau: Rây ¼ chỗ bột vào âu bơ, trộn đều. Tiếp theo cho 1/3 chỗ sữa vào, trộn đều. Làm lần lượt như vậy đến khi hết 3/4 lượng bột và toàn bộ sữa. Với ¼ chỗ bột cuối cùng, cho quả khô và hạt vào đảo đều sao cho bột bao kín bên ngoài hạt rồi đổ vào âu, trộn cùng các nguyên liệu còn lại. <strong>Lưu ý không trộn quá nhiều sẽ làm bánh bị chai, cứng, nở kém.</strong></p>
+<p>7. Chia bột vào các khuôn. Đổ bột đầy tối đa 2/3 khuôn</p>
+<p>8. Nướng bánh ở nhiệt độ 165 độ C trong vòng 25-30 phút đến khi bánh chín vàng mặt, và khi cắm que tăm vào giữa bánh, rút lên thấy tăm sạch. <em>Nhiệt độ và thời gian nướng có thể thay đổi theo kích thước khuôn và kích thước lò.</em></p>
+<p>Bánh chín lấy ra rack, để nguội, bảo quản trong túi/ hộp kín, để ở nơi thoáng mát, dùng trong 2-3 ngày. <em>Phần rượu ngâm quả còn dư các bạn có thể quét lên mặt bánh nếu thích.</em></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

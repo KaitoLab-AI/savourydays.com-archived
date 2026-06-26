@@ -1,0 +1,81 @@
+---
+title: "Bánh núm dừa – Bánh dừa tấm – Coconut Macaroons"
+date: "2011-12-10"
+slug: "banh-num-dua-banh-dua-tam-coconut-macaroons"
+categories: []
+tags: []
+image: "/wp-content/uploads/2011/12/BanhDuaTam.jpg"
+description: "Cách làm bánh núm dừa"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Có hai công thức cho món bánh núm dừa này, một công thức kiểu Việt Nam và một công thức kiểu Tây :P Kiểu Việt Nam là công thức chỉ gồm lòng trắng trứng đánh với đường đến bông cứng rồi trộn với dừa sấy, sau đấy nặn thành viên tròn và mang đi nướng. Kiểu Tây thì công thức thường có thêm chút bột và không cần phải đánh trứng đến bông cứng, cho nên ai không có máy đánh trứng cũng có thể làm được bánh này mà không lo mỏi tay vì phải đánh trứng đến bông. Cả hai công thức đều cho bánh dừa thơm phức, vỏ ngoài vàng ruộm và bên trong trắng phau, nhìn thích mắt cực kì :) Có một chút khác biệt là công thức kiểu Việt Nam cho bánh nhẹ hơn một chút, công thức kiểu nước ngoài thì giòn, dẻo nhưng cũng cứng hơn. Cho nên nếu muốn có bánh hình tròn thì mình nghĩ chắc dùng công thức kiểu Việt Nam sẽ tốt hơn, còn công thức kiểu Tây có bột nặn dẹt một chút chắc sẽ ngon hơn vì bánh rất giòn.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6485567631/" title="Coconut Macaroons by LinhTrang9185, on Flickr"><img alt="Coconut Macaroons" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7020/6485567631_d18670631a_z.jpg" width="427"/></a></p>
+<p>Cuối cùng là về chuyện cái tên, tiếng Anh là Coconut Macaroons rất thống nhất, nhưng tiếng Việt thì có ít nhất hai cái tên như trên phần tựa đề kia, mình cũng chẳng biết tên đúng là gì nên cứ tạm để cả hai tên như thế. Bánh này làm nhanh và đơn giản và giúp tận dụng lòng trắng trứng thừa khi làm…nhiều thứ như Flan, làm Choux hay Tiramisu. Bánh đẹp và ngon nên làm quà tặng cũng rất tuyệt nữa ;)</p>
+<p>Mình giới thiệu cả hai công thức, tùy cả nhà chọn lựa nhé.</p>
+<p><span id="more-1436"></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><strong>Công thức bánh núm dừa/ bánh dừa tấm </strong></p>
+<p><strong>Nguyên liệu </strong></p>
+<ul>
+<li><em> 2 lòng trắng trứng lớn (khoảng 60 – 70 gram) </em></li>
+<li><em>35 – 40 gram đường tuỳ khẩu vị </em></li>
+<li><em>80 – 110 gram vụn dừa sấy </em></li>
+<li><em>1/4 thìa cafe/ teaspoon (1gram) cream of tartar – hoặc thay bằng 1/4 teaspoon nước cốt chanh, hoặc 1/4 teaspoon dấm </em></li>
+<li><em>1 nhúm muối</em></li>
+</ul>
+<p>* <strong>Lưu ý: Lòng trắng trứng ở nhiệt độ phòng và <span style="text-decoration: underline;">không được</span> lẫn lòng đỏ </strong></p>
+<p><strong>Cách làm</strong></p>
+<p>(*) Ghi chú: Tháng 1/2016 mình đã quay lại video cách làm món bánh này và có thêm một số lưu ý khi làm bánh, để giúp bánh giòn tan từ trong ra ngoài hoặc giòn bên ngoài và mềm dẻo bên trong mà không bị khô hay cứng. Các bạn có thể xem các ghi chú này trong <a href="/cach-lam-banh-num-dua-gion-tan-nhan-so-co-la-mut-qua/" target="_blank"><strong>bài viết ở đây.</strong></a></p>
+<p>Video được đăng tại <strong><a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days</a></strong>. Nếu không xem được video tại blog thì các bạn có thể xem trực tiếp ở <strong><a href="https://youtu.be/fg2y50m3A4w" target="_blank">link này</a></strong>.</p>
+<p>Video có phụ đề tiếng Việt và Anh, các bạn bật CC và chỉnh Language/ Ngôn ngữ trong phần Setting/ Cài đặt (hinhf bánh xe ở góc dưới bên phải video) để chọn phụ đề nhé. Và khi xem các bạn nhớ chọn chế độ 720p (HD) để xem video được rõ nét nhất nha.</p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/fg2y50m3A4w" width="560"></iframe></div>
+<p> </p>
+<p>Tóm tắt các bước:</p>
+<p>1. Vặn lò 160 độ C (320 độ F) (làm nóng lò trước khi nướng 10-15 phút). Chuẩn bị khay nướng có lót giấy nến hoặc tấm nướng bánh.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>2. Cho lòng trắng trứng và muối vào âu. Để máy đánh trứng ở tốc độ thấp, đánh khoảng 60 giây đến khi nổi bọt. Cho cream of tartar vào, tăng dần tốc độ lên. Đánh đến khi lòng trắng bông nhẹ, các bọt khí nhỏ li ti giống bọt xà phòng giặt thì từ từ cho đường vào, đánh đến bông cứng, bóng &amp; dẻo.</p>
+<p><strong>Ghi chú:</strong></p>
+<p><em>– Âu và que đánh trứng phải sạch và khô, <strong>không được</strong> dính chất béo (bơ, dầu ăn, lòng đỏ)</em></p>
+<p><em>– Ảnh trên là hình minh họa lòng trắng trứng đánh đến bông cứng. Khi các bạn nhấc que đánh lên sẽ thấy lòng trắng dính ở đầu que, không rung rinh lay chuyển gì cả. </em></p>
+<p>3. Chia dừa làm 2-3 phần, lần lượt cho vào âu, dùng kỹ thuật fold trộn đều. Cụ thể là xắn que trộn xuống và hất từ dưới lên, không quấy vì sẽ dễ làm vỡ bọt khí trong lòng trắng trứng.</p>
+<p><em>Lượng dừa có thể thay đổi tùy theo loại dừa sử dụng. Ví dụ dừa dạng nạo nhỏ sẽ khác với dừa bào sợi, độ hút ẩm có thể cũng khác nhau. </em></p>
+<p>4. Nặn thành các viên tròn nhỏ, đường kính khoảng 2-3cm (cỡ viên bánh trôi). Với định lượng như ở trên mình làm được 16 viên bánh.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6485555301/" title="IMG_0209 by LinhTrang9185, on Flickr"><img alt="IMG_0209" class="aligncenter" height="334" loading="lazy" src="http://farm8.staticflickr.com/7166/6485555301_c25dc786cb.jpg" width="500"/></a></p>
+<p>5. Nướng bánh ở nhiệt độ 160 độ C trong 15 – 20 phút, đến khi bánh chín vàng đều. Tuỳ theo việc bạn muốn bánh giòn tan hay mềm bên trong mà tiếp tục nướng hoặc lấy bánh ra ngoài, chỉ dẫn cụ thể trong video ở trên.</p>
+<p>Để bánh nguội, bảo quản trong túi hoặc hộp kín.</p>
+<p>———————————–</p>
+<p><strong>Công thức Coconut Macaroons </strong></p>
+<p><strong>Nguyên liệu </strong></p>
+<ul>
+<li><em> 2 lòng trắng trứng lớn (khoảng 60 – 70 gram) </em></li>
+<li><em>35 – 40 gram đường</em></li>
+<li><em>100 – 110 gram vụn dừa sấy </em></li>
+<li><em>30 gram bột mỳ đa dụng (all-purpose flour/ plain flour) </em></li>
+<li><em>1 nhúm muối</em></li>
+</ul>
+<p>* <strong>Lưu ý: Lòng trắng trứng ở nhiệt độ phòng và không được lẫn lòng đỏ </strong></p>
+<p><strong>Cách làm</strong></p>
+
+
+<p>1. Vặn lò 165 độ C (325 độ F) (làm nóng lò trước khi nướng 10-15 phút). Chuẩn bị khay nướng có lót giấy nến hoặc tấm nướng bánh.</p>
+<p>2. Cho lòng trắng trứng, đường và muối vào âu. Chuẩn bị phới lồng cầm tay (whisk) để đánh trứng.</p>
+<p><strong>Lưu ý: <em>Âu và que đánh trứng phải sạch và khô, không được dính chất béo (bơ, dầu ăn, lòng đỏ</em></strong></p>
+<p>3. Đun sôi khoảng 1/2 bát con nước trong một nồi nhỏ (sao cho có thể đặt âu đánh trứng lên mà đáy nồi không chạm nước). Sau khi nước sôi thì hạ lửa nhỏ đủ để nước trong nồi sôi lăn tăn.</p>
+<p>Đặt âu đựng lòng trắng trứng lên trên nồi nước. Dùng phới lồng cầm tay đánh trứng, đường và muối đến khi hỗn hợp đặc lại và mịn mượt giống như kem.<br/>
+<a href="http://www.flickr.com/photos/55490207@N05/6485555405/" title="IMG_0210 by LinhTrang9185, on Flickr"><img alt="IMG_0210" class="aligncenter" height="334" loading="lazy" src="http://farm8.staticflickr.com/7028/6485555405_109d4b8b8b.jpg" width="500"/></a></p>
+<p><strong>Ghi chú:</strong></p>
+<p><em>– Nếu âu đánh trứng làm bằng chất liệu dẫn nhiệt tốt (kim loại chẳng hạn) thì các bạn lưu ý tránh để nhiệt độ quá cao làm cho trứng chín nhé. </em></p>
+<p>4. Rây bột &amp; cho dừa vào âu. Trộn đều.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6485555565/" title="IMG_0213 by LinhTrang9185, on Flickr"><img alt="IMG_0213" class="aligncenter" height="334" loading="lazy" src="http://farm8.staticflickr.com/7161/6485555565_2e331b6f6b.jpg" width="500"/></a></p>
+<p><em>Lượng dừa có thể thay đổi tùy theo loại dừa sử dụng. Ví dụ dừa dạng nạo nhỏ sẽ khác với dừa bào sợi, độ hút ẩm có thể cũng khác nhau. </em></p>
+<p>5. Nặn thành các viên tròn nhỏ, đường kính khoảng 2-3cm (cỡ viên bánh trôi). Với định lượng như ở trên mình làm được 16 viên bánh.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6485555877/" title="IMG_0216 by LinhTrang9185, on Flickr"><img alt="IMG_0216" class="aligncenter" height="334" loading="lazy" src="http://farm8.staticflickr.com/7155/6485555877_5d5c34f929.jpg" width="500"/></a></p>
+<p>6. Nướng bánh ở nhiệt độ 165 độ C trong 15-20 phút, đến khi bánh chín vàng đều.</p>
+<p>Để bánh nguội, bảo quản trong túi hoặc hộp kín.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6485567485/" title="Coconut Macaroons by LinhTrang9185, on Flickr"><img alt="Coconut Macaroons" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7006/6485567485_9fb6ddb9e6_z.jpg" width="427"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

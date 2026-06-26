@@ -1,0 +1,88 @@
+---
+title: "Bánh quy trang trí đường – P2: Cách làm royal icing siêu tốc (không trứng) và cách trang trí bánh quy"
+date: "2014-12-20"
+slug: "banh-quy-trang-tri-duong-p2-cach-lam-royal-icing-sieu-toc-khong-trung-va-cach-trang-tri-banh-quy"
+categories: []
+tags: []
+image: "/wp-content/uploads/2014/12/BanhQuyDuongPhan2.jpg"
+description: "trang trí bánh quy, royal icing, bánh quy đường"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><em>Royal icing </em>là tên gọi của loại kem đường (icing) thường dùng để trang trí bánh quy. Nếu bạn nào đã làm nhà bánh gừng với công thức của mình thì chắc không còn lạ gì với loại đường này nữa. <em>Royal icing </em>truyền thống thường làm với lòng trắng trứng đánh bông, sau đó trộn với đường bột (đường icing), sẽ tạo thành hỗn hợp mịn dẻo và có thể dùng để “vẽ” lên bánh quy tùy thích :)</p>
+<p>Tuy đẹp và tiện dụng nhưng việc sử dụng lòng trắng trứng sống để làm <em>royal icing </em>gây ra sự lo ngại về mức độ an toàn của đường cho khá nhiều người (trong đó có mình). Mặc dù có thể diệt khuẩn lòng trắng trứng nhưng bánh quy thường để lâu, lại để ở nhiệt độ phòng nên dùng lòng trắng trứng chưa được nấu chín kĩ mình cũng thấy hơi ngại một chút (không giống như kem bơ Thụy Sỹ, thường ăn trong thời gian ngắn và bảo quản trong tủ lạnh nên khả năng nhiễm khuẩn thấp hơn rất nhiều). Các bạn ở nước ngoài thì có thể mua <em>meringue powder</em> thay cho lòng trắng trứng. Nhưng ở Việt Nam thứ bột này chắc là hơi khó tìm. Vì lí do này nên mình muốn giới thiệu công thức <em>Express royal icing </em>(kem đường siêu tốc), hi vọng sẽ giúp các bạn có cùng mối lo ngại về lòng trắng trứng trong <em>royal icing</em> có thêm một sự lựa chọn  để làm những chiếc bánh quy thật đẹp cho dịp Giáng sinh :)</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/16062828282/" title="IMG_9497 by LinhTrang9185, on Flickr"><img alt="IMG_9497" class="aligncenter" height="640" loading="lazy" src="https://farm8.staticflickr.com/7531/16062828282_933ccb4c56_z.jpg" width="511"/></a></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong>A. Sy-rô đường (Sugar syrup)</strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em>100 gr đường</em></li>
+<li><em>65 ml nước</em></li>
+</ul>
+<p><strong>B. Kem đường trang trí (Express Royal icing)</strong></p>
+<ul>
+<li><em>200 gr đường bột (icing sugar)</em></li>
+<li><em>45 gr sy-rô đường (từ phần A)</em></li>
+<li><em>15 ml nước đun sôi để nguội</em></li>
+<li><em>1/2 thìa cafe (tsp, khoảng 3ml) va-ni dạng trong suốt (VD có thể dùng loại <a href="http://www.amazon.com/Wilton-Clear-Imitation-Vanilla-Bottle/dp/B0000VM8Y0/ref=sr_1_1?ie=UTF8&amp;qid=1419088186&amp;sr=8-1&amp;keywords=clear+vanilla+imitation">clear vanilla imitation</a> này) (không bắt buộc)</em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><strong>A. Sugar syrup</strong>: Cho đường và nước vào nồi. Quấy cho đường tan bớt. Đun ở lửa vừa. Khi nước sôi và đường tan hết thì bắc khỏi bếp. Đổ vào lọ sạch, để nguội. Phần syrup này có thể làm nhiều và cho vào lọ đậy kín, để tủ lạnh dùng dần trong 2 – 3 ngày.</p>
+<p><strong>B. Express royal icing</strong>:</p>
+<p>– Cho đường bột và sugar syrup vào âu cùng 5 ml nước (khoảng 1 tsp). Quấy đều. Đường bắt đầu chuyển thành dạng lỏng.</p>
+<p>(*) Lưu ý: nên dùng đường bột mua sẵn, không nên tự xay đường vì đường bột ngoài việc phải rất mịn ra thì trong thành phần còn có thêm 1 lượng bột ngô. Ngoài đường bột ra thì không dùng được loại đường nào khác để thay thế trong công thức này.</p>
+<p>– Tiếp tục cho thêm 2 – 3 ml nước (khoảng 1/2 tsp) vào âu, trộn đều.</p>
+<p>Nguyên tắc là <em><strong>càng cho nhiều nước thì icing sẽ càng lỏng</strong></em>. Với lượng 15 ml nước như ở trên, mình trộn ra sản phẩm khá chuẩn. Tuy nhiên, <em><strong>tùy vào thời tiết và đặc biệt là độ ẩm mà icing có thể đặc loãng khác nhau.</strong></em> Nếu làm trong thời tiết nóng, độ ẩm cao, có thể sẽ không cần dùng hết 15 ml nước. Ngược lại, nếu làm trong điều kiện khí hậu rất khô thì sẽ cần nhiều nước hơn. Vì vậy nên người làm cần tự điều chỉnh linh hoạt lượng nước để có icing có độ đặc như ý muốn.</p>
+<p>Có rất nhiều cách và kiểu trang trí khác nhau sử dụng royal icing. Tùy vào mục đích sử dụng mà icing sẽ cần đặc hay loãng khác nhau. Để trang trí bánh quy thì nhìn chung có hai loại icing phổ biến, tương đương với hai mức độ đặc khác nhau. Hai loại đó là <strong>Border icing </strong>và <strong>Flood icing (</strong>tạm dịch là icing để vẽ và icing để phủ).</p>
+<p>Hai loại này thực ra đều là <em>royal icing</em> và làm từ một công thức, chỉ có độ đặc loãng là khác nhau. <strong>Border icing </strong>hay Icing để vẽ khá đặc và chảy chậm, khi dùng để vẽ thì các đường vẽ có thể giữ nguyên hình dạng mà không chảy loang ra. Còn <strong>Flooding icing </strong>hay Icing để phủ thì lỏng hơn, và thường dùng để phủ một khoảng lớn. Nếu lấy ví dụ như bánh ở đầu bài thì phần màu xanh là mình vẽ bằng <strong>flood icing </strong>còn hình bông tuyết màu trắng ở phía trên được vẽ bằng <strong>border icing</strong>.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Cần có hai loại như trên vì <strong>flood icing </strong>sẽ giúp cho việc phủ các mảng màu lớn được nhanh và quan trọng nhất là phẳng đẹp mịn màng hơn. Nếu dùng <strong>border icing </strong>để vẽ những mảng này thì kết quả có thể sẽ lồi lõm, kém phẳng mịn do <strong>border icing </strong>đặc nên để đường chảy dàn đều và  hòa tan vào nhau đều khó hơn.</p>
+<p>– Cách để kiểm tra mức độ đạt của <strong>icing</strong> – phương pháp dễ nhất mà mình biết – là các bạn múc một ít đường rồi để cho đường tự chảy xuống âu như thả sợi ruy băng xuống. Phần đường này đầu tiên sẽ nổi lên trên bề mặt đường trong âu (như hình dưới), sau đó từ từ tan vào trong hỗn hợp.</p>
+<p>Các bạn có thể tính thời gian từ khi đường bắt đầu chạm mặt hỗn hợp icing trong âu cho đến khi hòa tan hoàn toàn không còn dấu vết (mình thường đếm 1, 2, 3… :) ). Nếu thời gian này nằm trong khoảng 13 – 15 giây (tức là đếm từ 1 đến 15 mà đường hòa quyện hết trong hỗn hợp) thì đường đó đạt để làm <strong>border icing</strong>. Nếu thời gian này nằm trong khoảng từ 3 – 5 giây thì đường đó đạt để làm <strong>flood icing</strong>. Không nên làm loãng hơn vì icing sẽ chảy tràn khi trang trí.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/16063528625/" title="IMG_7587 by LinhTrang9185, on Flickr"><img alt="IMG_7587" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7582/16063528625_df8a61f323.jpg" width="500"/></a></p>
+<p>– Nói thì dài vậy nhưng thực ra khi làm thì rất nhanh. Như công thức trên thì mình trộn ra được <strong>border icing</strong>. Từ <strong>border icing</strong> này, chỉ cần thêm nước từ từ (nên thêm ít một, mỗi lần khoảng 1/2 thìa cafe – tương đương 3 ml, vì đường loãng khá nhanh), rồi trộn đều và thử, khi đường đạt thì dừng lại.</p>
+<p>– Sau khi đã có hỗn hợp đường. Các bạn có thể trộn thêm hương liệu tùy thích (lưu ý là dùng hương liệu có màu trong nhé, như<em> clear vanilla imitation</em> là một ví dụ, vì <em>pure vanilla extract</em> thường có màu nâu). Và tất nhiên, có thể pha màu theo ý muốn. Loại màu mà mình thấy mọi người thường dùng là của hãng American color, nhưng mình không có loại này nên dùng màu Gel của Wilton, thấy cũng ổn. Có một lưu ý là đường theo công thức này càng trộn nhiều sẽ càng lỏng hơn, nên các bạn có thể làm đường đặc một chút, rồi trộn màu, để đường loãng ra là vừa.</p>
+<p>– Nếu chẳng may cho nước quá tay làm đường bị loãng thì chỉ cần cho thêm đường bột rồi quấy đều là được, tuy nhiên không nên để cho trường hợp này xảy ra nhé.</p>
+<p>– Lượng đường cần chuẩn bị sẽ tùy thuộc vào lượng bánh quy bạn có và mức độ trang trí mà bạn muốn làm. Nhưng nhìn chung thì trang trí bánh quy không tốn nhiều đường, như mình phủ toàn bộ bánh (khuôn cắt của mình đường kính khoảng 7.5 cm) rồi còn vẽ vời rất nhiều mà dùng chưa hết 300 gr đường (1.5 công thức). Vì đường để ở ngoài không khí sẽ khô lại nhanh, nên mình trộn thành 2 mẻ lớn. Mỗi mẻ chia làm 3 – 4 phần, cho vào bát riêng và pha màu trong bát này. Kết quả là có số icing như trong hình :)</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/16063527485/" title="IMG_7612 by LinhTrang9185, on Flickr"><img alt="IMG_7612" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7502/16063527485_5f2e9d569f.jpg" width="500"/></a></p>
+<p>* <strong>Lưu ý:</strong> icing để hở ngoài không khí sẽ khô cứng lại rất nhanh, nên cần để trong túi kín và chỉ cắt đầu túi khi bắt đầu trang trí. Chuẩn bị icing vào ngày trang trí bánh sẽ tốt hơn là chuẩn bị trước vì bảo quản khó hơn và icing có thể sẽ mất độ bóng.</p>
+<p><strong>C. Cách trang trí bánh</strong></p>
+<p>Royal icing là một loại đường trang trí rất phổ biến nên có rất rất nhiều tài liệu hướng dẫn cách sử dụng cũng như mẫu trang trí bánh quy dùng royal icing (các bạn có thể Google “royal icing cookies” là sẽ có hàng trăm mẫu bánh quy khác nhau để tham khảo). Vì vậy nên ở đây mình chỉ ghi vắn tắt một vài dòng kinh nghiệm khi trang trí bánh với royal icing để các bạn nắm được những điểm chính nhất thôi nhé.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15877758857/" title="IMG_7592 by LinhTrang9185, on Flickr"><img alt="IMG_7592" class="aligncenter" height="333" loading="lazy" src="https://farm9.staticflickr.com/8651/15877758857_35627dda9a.jpg" width="500"/></a></p>
+<p>– Trước khi trang trí bánh sẽ cần chuẩn bị các dụng cụ sau:</p>
+<ul>
+<ul>
+<li>Đường đã pha sẵn đựng trong túi bắt kem. Có thể chuẩn bị thêm đui (vd như đui Wilton #1, 2 là đui đầu tròn nhỏ để vẽ đường viền). Nếu dùng đui thì chuẩn bị thêm túi bắt kem, cắt đầu túi và lồng đui vào túi này, sau đó cắt đầu túi đựng icing rồi lồng vào trong. Cách làm này rất sạch sẽ và có thể thay đui tùy thích với cùng một loại icing. Nếu không có đui cũng không sao (mình có đui nhưng không dùng – vì lười rửa :”&gt;).</li>
+</ul>
+</ul>
+<p style="text-align: center;"><em>Lồng đui vào túi </em></p>
+
+
+<p style="text-align: center;"><a href="https://www.flickr.com/photos/55490207@N05/16061585151/" title="IMG_7593 by LinhTrang9185, on Flickr"><img alt="IMG_7593" class="aligncenter" height="333" loading="lazy" src="https://farm9.staticflickr.com/8621/16061585151_9cdb27a5ec.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>rồi cho túi đựng icing vào bên trong</em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15876240280/" title="IMG_7594 by LinhTrang9185, on Flickr"><img alt="IMG_7594" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7491/15876240280_3d72387b0f.jpg" width="500"/></a></p>
+<ul>
+<li>Khay hoặc giá/ rack để hong khô bánh (sẽ cần hong bánh quy khoảng 6 – 8 tiếng để icing khô hẳn).</li>
+<li>Giấy lót để đặt bánh quy lên khi trang trí, tránh cho icing dây lung tung bẩn bàn ghế (mình dùng giấy nến).</li>
+<li>Cốc có lót khăn hoặc giấy ẩm để cắm túi đựng icing vào (mục đích giữ cho đầu túi không bị khô).</li>
+<li>Khăn ẩm để lau đầu túi đựng icing sau mỗi lần dùng xong.</li>
+<li>Tăm tre hoặc vật có đầu nhọn tương tự.</li>
+</ul>
+<p>– Khi trang trí bánh, nhìn chung nên vẽ phần đường riềm trước, để khoảng 20 – 30 giây cho phần riềm này se lại rồi mới dùng <strong>flood icing </strong>để phủ phần bên trong. Cách này giúp cho phần phủ được gọn gàng vì chỉ nằm trong phần viền, không tràn ra ngoài và không tràn sang các phần khác.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/16061584341/" title="IMG_7617 by LinhTrang9185, on Flickr"><img alt="IMG_7617" class="aligncenter" height="334" loading="lazy" src="https://farm8.staticflickr.com/7569/16061584341_9142f4532c.jpg" width="500"/></a></p>
+<p>– Khi phủ <strong>flood icing</strong>, một số tài liệu dùng thìa đổ, nhưng mình cho vào túi bắt kem và cắt đầu túi to một chút rồi vẽ. Với mình thì cách dùng túi này gọn gàng hơn dùng thìa, và cho lớp phủ cũng đều hơn.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15877448819/" title="IMG_7618 by LinhTrang9185, on Flickr"><img alt="IMG_7618" class="aligncenter" height="333" loading="lazy" src="https://farm9.staticflickr.com/8617/15877448819_acdddf063c.jpg" width="500"/></a></p>
+<p>Sau khi phủ xong, các bạn có thể dùng tăm nhọn để dàn icing cho đều (lấp kín những vết hở) và xử lí bọt khí nếu có.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15876077938/" title="IMG_7619 by LinhTrang9185, on Flickr"><img alt="IMG_7619" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7489/15876077938_df177a345a.jpg" width="500"/></a></p>
+<p>– Nếu muốn vẽ họa tiết chìm, thì cần thao tác nhanh để đường có thời gian hòa tan vào nhau. VD như găng tay trong hình dưới, để phần chấm trắng tròn hoàn toàn chìm trong phần màu đỏ, thì ngay sau khi hoàn thành phần màu đỏ, mình dùng icing màu trắng để vẽ chấm luôn (chấm trắng này sau đó sẽ tự hòa tan vào phần màu đỏ). Cả hai loại icing trắng và đỏ này đều là <strong>flood icing</strong>.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15876076678/" title="IMG_9494 by LinhTrang9185, on Flickr"><img alt="IMG_9494" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7518/15876076678_198078049c.jpg" width="500"/></a></p>
+<p>– Nếu muốn vẽ họa tiết nổi thì các bạn cần để cho phần nền khô ráo rồi mới vẽ. Với công thức này, trong điều kiện không khí khô như ở Bỉ (nơi mình sống), thì sau khoảng 30 phút là có thể tiếp tục vẽ được rồi. Nhưng nếu thời tiết nóng ẩm thì thời gian có thể sẽ lâu hơn (đôi khi có thể lên đến vài giờ). Để vẽ kiểu này thì phần nền là <strong>flood icing </strong>còn phần hoạ tiết vẽ bằng <strong>border icing</strong>.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/16061583551/" title="IMG_7621 by LinhTrang9185, on Flickr"><img alt="IMG_7621" class="aligncenter" height="334" loading="lazy" src="https://farm8.staticflickr.com/7492/16061583551_48d1e47829.jpg" width="500"/></a></p>
+<p>– Cuối cùng, sau khi đã hoàn thành xong, các tác phẩm bánh quy có đường này cần được hong khô trong khoảng 6 – 8 tiếng tùy thời tiết, để đường cứng lại hẳn mới có thể dùng. Bánh cần được bảo quản ở nơi khô ráo và mát. Tốt nhất là trong hộp hay túi kín có kèm theo túi hút ẩm loại dùng cho thực phẩm (nếu đem đi biếu tặng thì nên hút chân không).</p>
+<p>Chúc các bạn có những chiếc bánh quy xinh xắn như ý muốn và một mùa lễ hội vui vẻ, ấm áp!! :)</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/16063526165/" title="IMG_9491-1 by LinhTrang9185, on Flickr"><img alt="IMG_9491-1" class="aligncenter" height="334" loading="lazy" src="https://farm9.staticflickr.com/8595/16063526165_d8ba4ee095.jpg" width="500"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

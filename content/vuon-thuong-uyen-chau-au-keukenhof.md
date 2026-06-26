@@ -1,0 +1,81 @@
+---
+title: "Vườn thượng uyển Châu Âu – Keukenhof"
+date: "2011-11-16"
+slug: "vuon-thuong-uyen-chau-au-keukenhof"
+categories: ["Du lịch", "Photography"]
+tags: ["châu Âu", "du lịch", "Hà Lan", "hoa tulip", "Keukenhof", "nhiếp ảnh", "photography"]
+image: "/wp-content/uploads/2011/11/Keukenhof.jpg"
+description: ""
+---
+
+<p>Mấy hôm nay cảm thấy tâm trạng không được thoải mái lắm – chẳng hiểu tại sao – chẳng có lí do gì – tự nhiên cảm thấy không vui vậy thôi :-&lt; Tâm trạng không thoải mái nên làm gì cũng thấy không trôi chảy. Thiệt là chán và thiệt là bực mình!!! Chẳng có hứng nấu nướng, và lại càng không có hứng làm việc, nên cuối cùng thì mình quyết định ngồi lôi album ảnh cũ ra tổng kết và dọn dẹp (<em>có cái màn dọn dẹp này là vì nhiều khi mình chụp nhiều hình của cùng một món ăn lắm – để lấy ra được cái đẹp nhất ý mà – chụp xong rồi có khi bận quá chỉ kịp sửa cái ưng ý nhất, mớ còn lại để đấy rồi quên khuấy luôn, cho nên thi thoảng vẫn phải đi dọn lại thư mục ảnh, không có thì chẳng mấy chốc mà máy tính thành thùng rác</em> :-S)</p>
+<p>Quay lại chuyện chính là đi dọn ảnh &amp; tổng kết ảnh cũ (<em>khổ thế, ngay cả lúc chán mà vẫn mắc bệnh dài dòng</em> :-&lt;) Trong lúc dọn ảnh mình tình cờ thấy lại album mang tên Keukenhof 2011 – chụp từ hồi tháng 4, thế là mở ra xem, và….thấy đời tươi tỉnh hơn một chút :D Bớt chán được một tí nên lại có cảm hứng “kể lể” một tí về khu vườn này với cả nhà ;)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5635231991/" title="Colorful Keukenhof by LinhTrang9185, on Flickr"><img alt="Colorful Keukenhof" class="aligncenter" height="303" loading="lazy" src="http://farm6.static.flickr.com/5144/5635231991_f2759c78bf.jpg" width="500"/></a></p>
+<p>Keukenhof là tên của một công viên tại Hà Lan, cách thủ đô Amsterdam khoảng 40-50 phút đi bus (<em>mình đi lâu rồi nên cũng không nhớ chính xác lắm, hình như là tầm đấy thì phải</em> :”&gt;). Keukenhof còn được gọi là “vườn châu Âu” (<em>the Garden of Europe</em>) và trong suốt 50 năm trở lại đây nó là vườn hoa lớn nhất thế giới với diện tích 32 hec-ta và khoảng 7 triệu hạt giống hoa được gieo trồng hàng năm. Vườn mở cửa quanh năm nhưng thời điểm chính dành cho việc triển lãm hoa là từ khoảng giữa tháng 3 đến giữa tháng 5 hàng năm. Khách đến thì đông vô kể (<em>“xui xẻo” mà đi vào ngày đông khách thì đừng hi vọng chụp hình mà không có bóng người ở đằng sau</em> :D) Sơ sơ một vài thông tin về Keukenhof là như vậy, bạn nào muốn biết thêm thì có thể vào xem thêm tại Wikipedia hoặc website của khu vườn này ở địa chỉ <a href="http://www.keukenhof.nl/">www.keukenhof.nl/</a>  nhé.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5640188836/" title="IMG_0261 by LinhTrang9185, on Flickr"><img alt="IMG_0261" class="aligncenter" height="354" loading="lazy" src="http://farm6.static.flickr.com/5265/5640188836_5cb93734b7.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Mình thì biết đến Keukenhof từ trước khi sang Hà Lan học, hình như là một năm trước đấy, qua ảnh của một người bạn. Cảm giác lúc ấy là “chao ôi sao mà đẹp thế”, và sao mà… ghen tị thế :P Và ngồi ao ước giá mà mình có thể được một lần đến nơi ấy, để được tận  mắt chiêm ngưỡng khung cảnh tuyệt vời ấy và được chụp ảnh giữa hàng trăm bông hoa đủ màu sắc nữa chứ :P :P</p>
+<p>Thế xong rồi (may mắn làm sao) là ước mơ cũng trở thành hiện thực. Mình nhớ có ba thứ mà mình mong đợi nhiều nhất khi sang Hà Lan học là thảm lá vàng của mùa thu, tuyết trắng mùa đông và khi mùa xuân đến là Keukenhof. Mong chờ đến mức mà cứ thi thoảng lại ngồi xem đi xem lại mấy bức hình chụp Keukenhof của các anh chị học ở Hà Lan mấy năm trước đó, rồi thì lên kế hoạch trước bao nhiêu lâu để được đến thăm “vườn thượng uyển châu Âu”.</p>
+<p>Nhưng mà… lần đến thăm Keukenhof đầu tiên của mình lại chả được như mong đợi gì cả <em>(tóm lại thì đời vẫn chỉ là mơ một nửa thôi</em>). Năm ấy lạnh và hoa nở muộn, khi mình đi thì tuy vườn đã mở cửa được một vài tuần, nhưng rất nhiều hoa vẫn chưa nở, thành ra cuối cùng chủ yếu là ngắm hoa trong nhà kính. Chưa kể là trời cũng lạnh nữa, cho nên đi ra ngoài chụp ảnh một lúc là lại muốn chạy vào nhà cho ấm. Kết luận là chả hay tí nào :-&lt;</p>
+<p>Và thế là có một sự thất vọng to nhớn mang tên Keukenhof ra đời :-|</p>
+<p>:-&lt;</p>
+<p>:-&lt;</p>
+<p>Năm vừa rồi, lại đến mùa Keukenhof, nhưng rút kinh nghiệm đau thương của năm đầu tiên, mình nghiên cứu thời tiết cẩn thận hơn. Và bởi vì muốn chụp ảnh nữa nên mình chọn đi vào ngày thường để tránh đám đông và những thứ phiền toái kèm theo khác :D May mắn làm sao là năm vừa rồi châu Âu đón một mùa Xuân tràn ngập nắng ấm. Cuối tháng Ba mà đã thấy chồi non mọc trên cành và hoa dại nở trắng li ti trên bãi cỏ xanh. Thời tiết thuận lợi nên hoa trong vườn có vẻ nở đều và theo đúng kế hoạch hơn. Ngày mà mình chọn đi cũng là một ngày nắng rất đẹp, trời xanh trong vắt chẳng có một gợn mây nào :)</p>
+<p>Và mình đã thấy một Keukenhof rất khác….</p>
+<p><span id="more-1231"></span></p>
+<p>Một Keukenhof rực rỡ sắc màu của hàng nghìn loài hoa khác nhau, đẹp như trong tranh vậy</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5637584372/" title="Keukenhof by LinhTrang9185, on Flickr"><img alt="Keukenhof" class="aligncenter" height="362" loading="lazy" src="http://farm6.static.flickr.com/5185/5637584372_b4a03ce93f.jpg" width="500"/></a></p>
+<p>Một Keukenhof thơ mộng và bình yên, khiến người ta đến nơi rồi chỉ ước giá mà thời gian có thể trôi chậm lại, để được ở đây thật lâu, để được mãi tận hưởng không khí thoáng đãng trong lành và thuần khiết này</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5637582150/" title="Keukenhof by LinhTrang9185, on Flickr"><img alt="Keukenhof" class="aligncenter" height="320" loading="lazy" src="http://farm6.static.flickr.com/5306/5637582150_648559499d.jpg" width="500"/></a></p>
+<p>Khu vườn không quá rộng, hoàn toàn có thể đi hết trong một ngày, nhưng để chụp ảnh thì chắc cả tuần có lẽ cũng không đủ. Bởi vì ở bất kì góc nào bạn cũng có thể nhìn thấy những góc chụp hết sức tuyệt vời. Và với những ai muốn thử sức với Macro và close-up thì đây quả là một “kho model” vô giá (<em>Hoa đẹp đến mức mà kể cả photographer vườn như mình còn muốn chụp nữa là – giải thích thêm một tí là hồi đi Keukenhof thì mình thậm chí còn chưa phân biệt được sự khác nhau giữa DSLR và PnS :D</em>).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5635947622/" title="Keukenhof by LinhTrang9185, on Flickr"><img alt="Keukenhof" class="aligncenter" height="500" loading="lazy" src="http://farm6.static.flickr.com/5182/5635947622_e385c6c86a.jpg" width="333"/></a></p>
+<p>Một trong những nơi ấn tượng nhất với mình là khu nhà kính trưng bày niềm tự hào của Hà Lan – hoa Tulip. Khi ở nhà thì chỉ biết Tulip có hình giống cái chén nhỏ, và cũng nhỏ như cái chén thôi. Đi thăm khu nhà kính này xong mới biết là hóa ra Tulip có đến hàng trăm loài khác nhau. Có những loài bông hoa khi nở xòe hết cỡ có lẽ phải bằng hai bàn tay ghép lại. Màu sắc thì đủ cả, từ những màu quen thuộc như đỏ, vàng, hồng, trắng… đến những màu lạ hơn như tím, hoặc trắng pha hồng, đỏ pha trắng, và cả những màu “độc” như xanh, đen nữa. Nhìn chung là có khá nhiều loại<em> <strong>tulip – mà – chả – giống – tulip </strong></em>tẹo nào, như hoa trong bức hình dưới chẳng hạn.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6347998145/" title="IMG_0407 by LinhTrang9185, on Flickr"><img alt="IMG_0407" class="aligncenter" height="333" loading="lazy" src="http://farm7.static.flickr.com/6218/6347998145_2779702f87.jpg" width="500"/></a></p>
+<p>Ở Keukenhof du khách cũng có cơ hội được ngắm nhìn các cánh đồng hoa tulip từ trên cao (cụ thể là từ trên tầng 2 của một cái cối xay gió). Và đây có lẽ cũng là vị trí thuận lợi để chụp ảnh, vì sẽ thấy rất nhiều dải màu sắc như thế này</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6348746706/" title="IMG_0666 by LinhTrang9185, on Flickr"><img alt="IMG_0666" class="aligncenter" height="333" loading="lazy" src="http://farm7.static.flickr.com/6101/6348746706_c742d0b85a.jpg" width="500"/></a></p>
+<p>Những cánh đồng này ở xung quanh vườn, cho nên nếu có thời gian thì sau khi đi thăm vườn, bạn có thể thuê một chiếc xe đạp và đạp men theo đường đất để thăm các cánh đồng tulip này – cũng là một trải nghiệm thú vị (và lãng mạn nữa ;) )</p>
+<p>Lần đi Keukenhof vừa rồi cũng là lần đầu tiên mình chụp với máy ảnh mới của mình (máy DSLR – có thân máy và ống kính rời) cho nên ảnh chưa được thật sự “nuột” lắm, chắc mang tính minh họa là chính thôi :) Nhưng vẫn cảm thấy rất vui vì đã “bù đắp” được sự thất vọng mang tên Keukenhof của năm trước đó :D và cũng có được ít ảnh hoa lá để lưu lại chống chán cho những ngày tự nhiên bị dở hơi như hôm nay :P</p>
+<p>Và đây là một vài bức ảnh khác :)</p>
+<p style="text-align: center;"><em>Đây là lợi thế của việc đi ngày thường, đi vào dịp lễ thì đừng hi vọng khung cảnh “trống vắng” như này.</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5640696486/" title="IMG_0719 by LinhTrang9185, on Flickr"><img alt="IMG_0719" class="aligncenter" height="272" loading="lazy" src="http://farm6.static.flickr.com/5262/5640696486_21181daa22.jpg" width="500"/></a></p>
+<p style="text-align: center;"> <em>Tulip ở khắp nơi </em></p>
+
+
+<p><a href="http://www.flickr.com/photos/55490207@N05/5636999365/" title="Keukenhof by LinhTrang9185, on Flickr"><img alt="Keukenhof" class="aligncenter" height="333" loading="lazy" src="http://farm6.static.flickr.com/5102/5636999365_b3d37da76a.jpg" width="500"/></a></p>
+<p> </p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5690839303/" title="IMG_0692 by LinhTrang9185, on Flickr"><img alt="IMG_0692" class="aligncenter" height="333" loading="lazy" src="http://farm6.static.flickr.com/5150/5690839303_61310e5881.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Tiếp đến là thủy tiên – khi nhìn thấy ngôi nhà này, liên tưởng đầu tiên của mình là đến “ngôi nhà nhỏ trên thảo nguyên</em>” :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5638466064/" title="IMG_0331 by LinhTrang9185, on Flickr"><img alt="IMG_0331" class="aligncenter" height="346" loading="lazy" src="http://farm6.static.flickr.com/5302/5638466064_b5b38f1c93.jpg" width="500"/></a></p>
+<p style="text-align: center;">V<em>à cứ mỗi lần xem cái ảnh này thì sao mà thấy nhớ chợ hoa</em> Tết thế…</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5637882643/" title="IMG_0508 by LinhTrang9185, on Flickr"><img alt="IMG_0508" class="aligncenter" height="500" loading="lazy" src="http://farm6.static.flickr.com/5268/5637882643_4221744eb5.jpg" width="372"/></a></p>
+<p style="text-align: center;"><em>Có cả hoa anh đào Nhật Bản nữa </em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5637892907/" title="IMG_0418 by LinhTrang9185, on Flickr"><img alt="IMG_0418" class="aligncenter" height="500" loading="lazy" src="http://farm6.static.flickr.com/5264/5637892907_925c00d8d8.jpg" width="314"/></a></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6348745826/" title="IMG_0738 by LinhTrang9185, on Flickr"><img alt="IMG_0738" class="aligncenter" height="294" loading="lazy" src="http://farm7.static.flickr.com/6101/6348745826_c0f5b2b062.jpg" width="500"/></a></p>
+<p style="text-align: center;">V<em>à một số hoa mang tên: “chẳng – biết – là – hoa – gì” :</em>P</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5691408660/" title="IMG_0619 by LinhTrang9185, on Flickr"><img alt="IMG_0619" class="aligncenter" height="500" loading="lazy" src="http://farm6.static.flickr.com/5190/5691408660_52f28b75cb.jpg" width="330"/></a></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6348747376/" title="IMG_0600 by LinhTrang9185, on Flickr"><img alt="IMG_0600" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6119/6348747376_bf8c67e7af.jpg" width="324"/></a></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6348747658/" title="IMG_0590 by LinhTrang9185, on Flickr"><img alt="IMG_0590" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6217/6348747658_ccff538cfa.jpg" width="331"/></a></p>
+<p style="text-align: center;"><em><a href="http://www.flickr.com/photos/55490207@N05/6348747862/" title="IMG_0578 by LinhTrang9185, on Flickr"><img alt="IMG_0578" height="500" loading="lazy" src="http://farm7.static.flickr.com/6224/6348747862_f3ac839446.jpg" width="320"/></a></em></p>
+<p style="text-align: center;"><em>Hoa này xinh, thích ơi là thích, nhưng mà mùi thì…tốt nhất là không nên lại gần</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5691418066/" title="IMG_0410 by LinhTrang9185, on Flickr"><img alt="IMG_0410" class="aligncenter" height="500" loading="lazy" src="http://farm6.static.flickr.com/5227/5691418066_79ec6bae08.jpg" width="353"/></a></p>
+<p style="text-align: center;"><em>Và như mọi khi, (nhất định phải) có một cái ảnh chụp trộm :D</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6348745366/" title="IMG_0749 by LinhTrang9185, on Flickr"><img alt="IMG_0749" class="aligncenter" height="345" loading="lazy" src="http://farm7.static.flickr.com/6092/6348745366_6e992a1280.jpg" width="500"/></a></p>
+<p> </p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

@@ -1,0 +1,72 @@
+---
+title: "BÁNH PHOMAI TƯƠI ĐÀI LOAN – CHEESE CASTELLA (KỶ NIỆM 10 NĂM THÀNH LẬP SD)"
+date: "2021-05-24"
+slug: "banh-phomai-tuoi-dai-loan-cheese-castella-ky-niem-10-nam-thanh-lap-sd"
+categories: []
+tags: []
+image: "/wp-content/uploads/2021/05/IMG_0070.jpg"
+description: "Castella phomai là công thức HOÀN TOÀN MỚI của SD, mình mới thử nghiệm ra gần đây thôi và cực kỳ cực kỳ cực kỳ ưng ý. Về độ núng nính rung rinh, mềm tan trong miệng thì không hề thua kém Japanese Cotton Cheesecake, nhưng JCC thì sẽ ngậy béo kiểu thanh nhẹ hơn, trong khi castella Đài Loan vị phomai lại đậm đà hơn, túm lại là cả 2 bánh đều siêu siêu ngon"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400; color: #000000;">2019 với làn sóng “castella Đài Loan” đã đổ bộ rồi đây ạ 😁😁</span></p>
+<p><span style="font-weight: 400; color: #000000;">Mình nhớ là mọi chuyện bắt đầu từ khi mấy clip quay trong tiệm bánh Đài Loan nổi lên. Những chiếc bánh bông lan siêu to, rung rinh núng nính theo từng đường dao sắc lẹm của thợ bánh khi ấy đã làm điên đảo cộng đồng homebaker Việt năm ấy. </span></p>
+<p><span style="font-weight: 400; color: #000000;">Castella phomai là công thức HOÀN TOÀN MỚI của SD, mình mới thử nghiệm ra gần đây thôi và cực kỳ cực kỳ cực kỳ ưng ý. Về độ núng nính rung rinh, mềm tan trong miệng thì không hề thua kém Japanese Cotton Cheesecake, nhưng JCC thì sẽ ngậy béo kiểu thanh nhẹ hơn, trong khi castella Đài Loan vị phomai lại đậm đà hơn, túm lại là cả 2 bánh đều siêu siêu ngon, nhất định KHÔNG THỂ BỎ QUA nhé! </span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8776" height="686" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2021/05/2019-Poster-banh-pho-mai-tuoi-1024x686.jpg" width="1024"/></p>
+<h2><span style="color: #000000;">CÁCH LÀM BÁNH PHOMAI TƯƠI ĐÀI LOAN – CHEESE CASTELLA</span></h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu (cho khuôn vuông đường kính 16cm)</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">4 quả trứng gà (60 gram/quả cả vỏ)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram bột làm bánh ngọt (bột mì số 8 – cake flour)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">10 gram bột phomai </span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">65 gram phomai kem (cream cheese), để mềm ở nhiệt độ phòng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">2 lát phomai cheddar (loại phomai dùng để kẹp sandwich)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">48 gram sữa tươi không đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">48 gram dầu ăn</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram đường (dùng để đánh bông lòng trắng)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 nhúm muối nhỏ</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">⅛ thìa cafe cream of tartar</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">* Lưu ý: </span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">– Nếu không có bột làm bánh ngọt, có thể thay bằng 48 gram bột mì đa dụng và 7 gram bột ngô, tuy nhiên dùng toàn bộ bột làm bánh ngọt sẽ ngon hơn.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Mình dùng bột phomai Wakodo Nhật Bản, các bạn có thể mua tại shopee hoặc Tiki. Nếu không mua được thì thay thế bằng bột ngô nhưng nếu có sẽ thơm mùi phomai hơn rất nhiều. </span></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><span style="font-weight: 400; color: #000000;">1. Chuẩn bị:</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Làm nóng lò nướng: Với lò châu Âu (giữ nhiệt tốt) ở 140 độ C, 2 lửa. Với lò gia đình Trung Quốc (Ukoeo, Sanaky,v.v..) làm nóng ở 160 độ C, 2 lửa.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Lót giấy nến chống dính vào cả đáy khuôn và thành khuôn. Nếu khuôn của bạn là loại khuôn gia công, ở phần mấu nối các góc của khuôn thường sẽ bị hở, do vậy cần dùng giấy bạc bọc kĩ 2 lớp ở ngoài khuôn để khi nướng cách thủy nước không lọt vào trong.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Đun 1 ấm nước sôi để nướng cách thủy. </span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Tách riêng lòng đỏ và lòng trắng trứng. Lòng trắng sau này sẽ cần đánh bông nên lòng trắng và âu đựng phải sạch, kHÔNG được dính lòng đỏ hay chất béo nào khác. </span><span style="color: #000000;">Rây mịn bột.</span></p>
+<p><span style="font-weight: 400; color: #000000;">3. Cream cheese để mềm, dùng phới dẹt miết cho cream cheese nhuyễn mượt. Cho sữa tươi, phomai lát, phomai bột vào âu cream cheese, đặt âu lên 1 nồi nước sôi lăn tăn, cách thủy trên lửa nhỏ – vừa. Dùng phới lồng khuấy đều đến khi phomai tan hết, hỗn hợp mịn mượt hoàn toàn thì nhấc âu xuống.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400; color: #000000;">Lưu ý: </span></p>
+<p><span style="font-weight: 400; color: #000000;">– Ở bước này cần làm cho phomai tan, hỗn hợp phải mịn mượt hoàn toàn, KHÔNG được để vón cục. Khi phomai đã tan gần hết thì nên dùng phới lồng, khuấy nhanh tay để phomai hòa quyện tốt hơn. Ở Việt Nam, nếu dùng cream cheese Anchor (độ béo cao, cứng, khó tan) thì bạn có thể đặt âu phomai lên nồi nước nóng, miết 1 lúc cho phomai mềm ra rồi mới cho kem sữa và để cách thủy.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nếu trong lúc đợi phomai bị đông lại thì cách thủy cho phomai chảy ra, hỗn hợp mịn mượt rồi mới dùng.</span></p>
+<p><span style="font-weight: 400; color: #000000;">4. Làm nóng dầu ăn đến 70 – 75 độ C. Các bạn có thể cách thủy trên nồi nước sôi, hoặc quay trong lò vi sóng, hoặc đun dầu ăn bằng nồi. Chính xác nhất là đo bằng nhiệt kế, nếu không có nhiệt kế có thể đun dầu ăn bằng nồi, sau đó quan sát khi thấy có những vệt dài và bọt khí li ti bắt đầu xuất hiện dưới đáy nồi thì nhấc xuống. </span></p>
+<p><span style="font-weight: 400; color: #000000;">Làm nóng dầu ăn là bước rất quan trọng ảnh hưởng tới độ mềm mịn và kết cấu của bánh, KHÔNG làm dầu ăn nóng quá 80 độ C. </span></p>
+<p><span style="font-weight: 400; color: #000000;">5. Lập tức đổ toàn bộ bột vào dầu ăn, khuấy đều bằng phới lồng tới khi bột hòa quyện, chảy thành dòng mịn mượt.</span></p>
+<p><span style="font-weight: 400; color: #000000;">6. Cho toàn bộ phần phomai ở bước (4) vào âu bột, trộn tới khi hòa quyện thì dừng lại.</span></p>
+<p><span style="color: #000000;"><b>7. Cho ngay toàn bộ lòng đỏ trứng</b><span style="font-weight: 400;"> và chiết xuất vani vào, khuấy tới khi hỗn hợp mịn mượt thì dừng lại.</span></span></p>
+<p><span style="font-weight: 400; color: #000000;">* Lưu ý: </span></p>
+<p><span style="font-weight: 400; color: #000000;">– Sau khi cho bột vào có thể sẽ thấy hỗn hợp hơi lổn nhổn, đây là hiện tượng bình thường, sau khi trộn với lòng đỏ hỗn hợp sẽ mượt trở lại.</span></p>
+<p><span style="color: #000000;">8. Cho một nhúm muối nhỏ vào âu lòng trắng, đánh ở tốc độ vừa tới khi có nhiều bọt khí to nổi lên thì cho cream of tartar vào. Tiếp tục đánh tới khi bọt khí nhỏ dần như bọt xà phòng thì cho dần dần đường vào, sau khi cho hết đường thì tăng tốc độ máy lên cao nhất. Đánh tới khi lòng trắng bông gần cứng, kéo que đánh trứng lên thấy có chóp kéo theo nhưng hơi ngoặt xuống thì dừng lại.</span></p>
+<p><span style="color: #000000;">9. Lấy ⅓ chỗ lòng trắng đánh bông cho vào hỗn hợp lòng đỏ, trộn nhẹ nhàng bằng phới lồng đến khi lòng trắng hòa quyện, hỗn hợp lòng đỏ lỏng ra bớt. </span></p>
+<p><span style="font-weight: 400;">10. Chia chỗ lòng trắng còn lại thành 2 phần, trộn lần lượt vào hỗn hợp bột bằng kĩ thuật fold đến khi vừa hòa quyện thì dừng lại. Lưu ý vét sát đáy âu tránh việc bột đọng ở dưới, khi nướng phần bột này sẽ chìm xuống làm bánh bị bết. Cụ thể về các thao tác đánh trứng, trộn bột các bạn có thể xem tại đây: </span><span style="font-weight: 400;"><a href="/video-cach-danh-trung-bang-tay-cach-tron-bot-theo-kieu-fold/" style="color: #000000;">/video-cach-danh-trung-bang-tay-cach-tron-bot-theo-kieu-fold/</a></span></p>
+<p><span style="color: #000000;">Đổ bột vào 2 khuôn oval, thả nhẹ khuôn xuống mặt bàn khoảng 2 – 3 lần cho bọt khí to vỡ bớt.</span></p>
+<p><span style="color: #000000;">11. Nướng bánh:</span></p>
+
+
+<p><span style="font-weight: 400; color: #000000;">– Đặt rack nướng sao cho bánh nằm giữa lò, với bánh cao thế này nên nướng ở rack cuối cùng hoặc gần cuối cùng.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Cho khay nướng vào lò, đặt khuôn bánh vào khay sau đó đổ nước sôi sao cho nước ngập ít nhất ¼ khuôn. </span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nướng 145 – 155 độ C trong 90 – 100 phút, tới khi mặt bánh chuyển vàng nâu, ấn nhẹ vào mặt bánh thấy bánh phồng trở lại. Quan sát mặt bánh, nếu thấy mặt bánh chưa khô, màu vàng chưa sậm màu thì tăng nhiệt lên 165 độ C và nướng thêm 5 – 10 phút đến khi mặt bánh vàng nâu và khô ráo. </span></p>
+<p><span style="font-weight: 400; color: #000000;">Lưu ý: Điều quan trọng nhất khi nướng là sự kiên nhẫn. Cần nướng bánh trong thời gian đủ lâu để bánh nở từ từ và bên trong khô ráo hoàn toàn (nướng cách thủy và trong bánh có nhiều chất béo nên đừng lo bánh bị khô nhé). Tốt nhất là phần mặt bánh khi nướng xong nên khô, vàng sậm một chút, nếu không sau này phần mặt sẽ hút ẩm và bị dính.</span></p>
+<p><span style="color: #000000;">12. Sau khi lấy bánh ra khỏi lò, úp ngược bánh ra đĩa, bóc bỏ phần giấy lót. Sau đó lại úp ngược bánh lên rack để giữ mặt bánh mịn đẹp. Để bánh nguội hoàn toàn. Bánh khi nóng nếu gõ nhẹ vào bánh sẽ hơi rung rinh kiểu jiggly, nhưng khi nguội thì bánh sẽ cứng lại.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8778" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2021/05/IMG_9805-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">13. Để cắt bánh đẹp, cần để bánh NGUỘI HOÀN TOÀN (cắt khi bánh chưa nguội, hơi ẩm chưa thoát ra hết sẽ làm bánh bị bết), sau đó dùng dao sắc, lưỡi mỏng, đưa qua đưa lại nhẹ nhàng như cưa gỗ, kHÔNG ấn mạnh.</span></p>
+<p><span style="font-weight: 400; color: #000000;">Bánh ngon hơn (rấtttt) nhiều lần sau khi bọc kín và để trong tủ lạnh ít nhất 5 giờ.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8777" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2021/05/IMG_0095-1024x683.jpg" width="1024"/></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,67 @@
+---
+title: "Bars chanh leo"
+date: "2013-03-29"
+slug: "bars-chanh-leo"
+categories: []
+tags: []
+image: "/wp-content/uploads/2013/03/BarsChanhLeo1.jpg"
+description: "lemon bars, bars chanh leo, bánh chanh leo, bánh đơn giản"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
+<p>——————————————</p>
+<p>Trước khi vào bếp thì có một tin vui mình muốn nhắn với cả nhà là khoản tiền thu được từ việc bán đấu giá đồ làm bánh trong buổi gặp mặt Chủ nhật vừa rồi đã được chuyển thành công đến chương trình<a href="http://trandangtuan.com/2013/01/17/thong-ke-ung-ho-theo-ngay-tu-1-1-2013/"> Cơm có thịt</a>. Mình chụp lại màn hình thông báo từ blog của chú Trần Đăng Tuấn, để cả nhà cùng biết. Khoản tiền tuy không lớn nhưng là tấm lòng của tất cả mọi người, hi vọng sẽ góp được một phần nhỏ cho bữa cơm của các em bé :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8598946003/" title="Screen shot 2013-03-29 at 14.27.50.png by LinhTrang9185, on Flickr"><img alt="Screen shot 2013-03-29 at 14.27.50.png" class="aligncenter" height="288" loading="lazy" src="http://farm9.staticflickr.com/8374/8598946003_c04092768c.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Thế là mình về nhà cũng được nửa tháng rồi. Lần này về hoàn toàn không phải là về chơi hay về để nghỉ ngơi nên thời gian vừa rồi mình khá là bận rộn, bếp núc chụp ảnh hoàn toàn không có thời gian (và cũng không có cả đồ nghề nữa). Nên bếp tháng này có vẻ hơi “nguội” một tí. Nhưng cảm ơn các anh chị em và các bạn nhiều vì mặc dù không có món mới nào để mời cả nhà nhưng mọi người vẫn ghé chơi thường xuyên và giữ cho bếp được ấm :) :x Thời gian tới đây chắc mình vẫn bận nhưng chắc sẽ có thêm một ít thời gian, trong “kho” còn một vài món cũ, nấu từ trước khi về nước, hi vọng sẽ thu xếp được thời gian để giới thiệu hết với cả nhà (để khi quay lại Antwerp còn nấu món mới nữa :) ).</p>
+<p>Bars chanh leo là một loại bánh rất ngon với lớp đế bột mì giòn, thơm ngậy vị bơ và một lớp mứt bơ/ custard dẻo dẻo, chua chua trên mặt. Món này mình biến tấu từ công thức lemon bars (tạm dịch: bánh chanh) vì mình thích cả mùi thơm lẫn vị chua dịu của chanh leo hơn là chanh thường. Bánh này làm vào những ngày mát trời (như Hà Nội ngày hôm nay) rồi nhâm nhi với trà thì hợp lắm. Cách làm rất dễ, hầu như không thể hỏng được (trừ phi là bỏ quên bánh trong lò làm bánh bị cháy thôi). Bánh được khuyên là dùng ngay sau khi nướng, khi phần đế bánh còn hơi giòn, nhưng mình để trong hộp kín, cất tủ lạnh 3 ngày ăn thấy vẫn thích. Lớp đế đúng là không còn giòn nữa, nhưng lại có kiểu ngon khác của đế bánh mềm, và mùi vị thì hầu như không bị ảnh hưởng gì.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8598945875/" title="IMG_9888-2 by LinhTrang9185, on Flickr"><img alt="IMG_9888-2" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8088/8598945875_2b45e90b97_z.jpg" width="511"/></a></p>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khuôn vuông 20 x 20cm</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong>A. Đế bánh</strong></p>
+<ul>
+<li><em>100gram bơ nhạt (nên dùng bơ động vật) – để mềm ở nhiệt độ phòng (nhưng bơ không được chảy)</em></li>
+<li><em>25gram đường xay hoặc đường icing/ đường bột </em></li>
+<li><em>120gram bột mì đa dụng (all purpose flour)</em></li>
+<li><em>một nhúm rất nhỏ muối </em></li>
+</ul>
+<p><strong>B. Mứt bơ chanh leo (Passion fruit curd)</strong></p>
+<ul>
+<li><em>2 trứng gà (60gram/ quả cả vỏ hoặc 50gram/quả không tính vỏ)</em></li>
+<li><em>130gram <em>đường xay hoặc đường icing/ đường bột </em></em></li>
+<li><em>25gram bột mì đa dụng</em></li>
+<li><em>60ml nước cốt chanh leo (4 quả)</em></li>
+<li><em>Vỏ 1 quả chanh vàng bào rất vụn (không bắt buộc) </em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><strong>A. Đế bánh</strong></p>
+<p>1. Làm nóng lò ở nhiệt độ 175 độ C (2 lửa). Chuẩn bị khuôn vuông 20 x 20cm. Cắt hai miếng giấy nến hoặc giấy trắng để lót khuôn. Chiều rộng của mỗi miếng giấy khoảng 20cm, chiều dài 30-40cm. Lót hai miếng giấy vuông góc với nhau, sao cho mép giấy chườm lên so với thành khuôn, để sau khi nướng xong có thể cầm mép giấy nhấc bánh lên dễ dàng. Để lót giấy cho dễ, có thể quét một lớp mỏng bơ vào thành khuôn hoặc dùng xịt chống dính trước khi lót giấy.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>2. Cho bơ và đường vào âu. Để máy ở tốc độ thấp – vừa, đánh cho hòa quyện, không cần đánh bông. Lưu ý: bơ nếu lạnh thì phải được để mềm ở nhiệt độ phòng, nhưng không được để bơ bị chảy.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8598946289/" title="2013-03-01 by LinhTrang9185, on Flickr"><img alt="2013-03-01" class="aligncenter" height="400" loading="lazy" src="http://farm9.staticflickr.com/8371/8598946289_fed340aafe.jpg" width="500"/></a></p>
+<p>3. Cho bột mì &amp; muối vào âu bơ, đánh bằng máy ở tốc độ thấp trong khoảng 1-2 phút, bột mì sẽ quyện với bơ thành nhiều vụn nhỏ (hình 2). Dùng tay nắm &amp; nhào thật nhanh đến khi bơ và bột mì hòa quyện, không còn thấy bột mì khô trắng nữa (hình 3).</p>
+<p>4. Dàn &amp; ấn bột vào khuôn (hình 4). Cho khuôn vào lò, nướng trong khoảng 20 phút, đến khi mặt bánh tương đối cứng và chuyển màu hơi vàng nâu.</p>
+<p>* <em><strong>Ghi chú</strong></em>: <em>Nếu trời quá nóng và bơ bị chảy nhão, dính tay thì các bạn có thể cho cả khuôn bánh sau khi đã dàn bột vào tủ lạnh khoảng 20-30 phút rồi mới nướng. Trong trường hợp này, lò sẽ được làm nóng trước khi nướng 10-15 phút. </em></p>
+<p><strong>B. Mứt bơ chanh leo</strong></p>
+<p>Trong lúc đợi làm đế bánh thì làm phần mứt bơ chanh.</p>
+<p>1. Lọc lấy 60ml nước cốt chanh leo, bỏ hạt (60ml của mình lọc từ 4 quả chanh leo, có pha thêm nước lã để lọc cho hết).</p>
+<p>2. Cho trứng và đường vào âu. Đánh đến khi đường tan, trứng chuyển màu vàng nhạt.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8600046254/" title="2013-03-011 by LinhTrang9185, on Flickr"><img alt="2013-03-011" class="aligncenter" height="400" loading="lazy" src="http://farm9.staticflickr.com/8102/8600046254_58f8d631a2.jpg" width="500"/></a></p>
+<p>3. Cho nước cốt chanh leo vào âu. Trộn đều. Cuối rây bột mì &amp; vỏ chanh (nếu có, lưu ý: <em>bào rất rất vụn để tránh bị đắng</em>). Trộn đều.</p>
+<p>4. Sau khi nướng xong đế thì lập tức đổ phần hỗn hợp mứt chanh leo lên trên. Cho vào lò nướng thêm khoảng 15-20 phút đến khi mặt mứt chuyển vàng, mặt trên của bánh se lại và khi lắc thấy mứt có thể hơi rung rinh.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8600046160/" title="2013-03-012 by LinhTrang9185, on Flickr"><img alt="2013-03-012" class="aligncenter" height="500" loading="lazy" src="http://farm9.staticflickr.com/8237/8600046160_398e558c8f.jpg" width="400"/></a></p>
+<p>5. Lấy bánh ra khỏi lò, để nguội trong khuôn rồi lấy bánh ra khỏi khuôn. Cắt thành miếng nhỏ. Trước khi ăn rắc thêm đường bột lên mặt bánh (chỉ rắc ngay trước khi dùng).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8600045832/" title="IMG_9897-1 by LinhTrang9185, on Flickr"><img alt="IMG_9897-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8105/8600045832_653f0893d7_z.jpg" width="444"/></a></p>
+
+
+<p>* <span style="text-decoration: underline;"><strong>Ghi chú:</strong></span></p>
+<p><em>– Lượng đường trong phần mứt chanh có thể thay đổi tùy theo vị chua của chanh.</em></p>
+<p><em>– Có thể dùng chanh thường thay cho chanh leo, nhưng nên dùng chanh vàng (lemon) vì chanh xanh (lime) sẽ dễ gây vị đắng.</em></p>
+<p><em>– Mặt của mứt bơ chanh có thể sẽ hơi bị rỗ do bọt khí. Khi đổ phần mứt chanh vào khuôn, các bạn có thể lọc qua rây để phần mứt được mịn màng hơn.</em></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

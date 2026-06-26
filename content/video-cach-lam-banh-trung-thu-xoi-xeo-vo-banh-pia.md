@@ -1,0 +1,95 @@
+---
+title: "[VIDEO] Cách làm BÁNH TRUNG THU XÔI XÉO (VỎ BÁNH PÍA)"
+date: "2020-09-16"
+slug: "video-cach-lam-banh-trung-thu-xoi-xeo-vo-banh-pia"
+categories: []
+tags: []
+image: "/wp-content/uploads/2020/09/CÁCH-LÀM-bánh-trung-thu-xôi-xéo-banner-610x350.jpg"
+description: "Cách làm bánh trung thu xôi xéo với phần vỏ ngàn lớp và nhân đậu xanh mỡ hành ruốc, rất thơm ngon, dễ ăn và độc đáo. Cách làm có video hướng dẫn"
+---
+
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #000000;"><span style="color: #ff0000;"><strong>NHẮN: Đang có ƯU ĐÃI GIẢM 20% cho TẤT CẢ CÁC LỚP HỌC ONLINE của SD, đến cuối tuần này ạ. Sau đợt ưu đãi này tụi mình sẽ tạm dừng tuyển sinh nên nếu quan tâm, bạn đăng kí sớm nhé. Thông tin về các lớp học có ở đây</strong></span>: <a href="/lop-hoc-lam-banh/">/lop-hoc-lam-banh/ </a></span></p>
+<p><span style="color: #000000;"><strong>Đăng kí học tại đây ạ: </strong><a href="https://forms.gle/7b2YsFsgNnabCHG58">https://forms.gle/7b2YsFsgNnabCHG58</a> </span></p>
+<p><span style="color: #000000;">———</span></p>
+<p><span style="font-weight: 400; color: #000000;">Bánh trung thu xôi xéo – ban đầu nghe thì thấy cực kì “không phù hợp”, kiểu cứ “sai sai thế nào ý”, nhưng vì nhiều người khen quá nên mình cũng tò mò. Thực ra mình không lăn tăn về phần nhân, do đậu xanh với mỡ hành và ruốc chắc chắn là rất rất hợp nhau (vì xôi xéo là món xôi quốc dân, mùi vị rất ngon mà :) ). Nhưng mình băn khoăn ở phần vỏ, mình không chắc là vỏ bánh trung thu truyền thống có hợp với nhân đậu xanh mỡ hành này không.  Mặc dù lớp vỏ bánh trung thu cũng mỏng thôi nhưng mình cứ có cảm giác nó lệch nhau thế nào… </span></p>
+<p><span style="color: #000000;">Nhưng mình thấy ý tưởng bánh này khá ngộ nghĩnh nên mình vẫn muốn thử. Và ngồi cân nhắc một hồi, mình chợt nhớ ra bánh pía hoặc bánh trung thu Đài Loan. “Vỏ bánh ngàn lớp chắc là có thể hợp với nhân bánh kiểu này”, mình cảm giác vậy, vì không quá ngọt, lại có nhiều lớp mỏng, ăn với nhân kiểu này có khi lại hay. Vậy là mình thử. Và cả team đều thấy “<em>Ơ sao lại có cái bánh hay thế!!</em>!” hihihi… Mà nó hay thật cả nhà ạ, vỏ bánh vừa mềm ngon, không ngọt, không có mùi thơm đặc trưng của nước đường như bánh trung thu truyền thống nên khi ăn cùng với nhân xôi xéo mùi vị không “uýnh nhau”, mà trái lại, rất là hợp ấy. Nhân thì thơm mùi hành phi, mằn mằn ngòn ngọt vừa phải rất dễ ăn. Chỉ mỗi tội là dùng bánh này tráng miệng chắc có hơi kì quặc (nhưng ăn điểm tâm hay làm món khai vị chắc là hợp lắm đấy :D)  </span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="color: #000000;"><span style="color: #000000;">Về công thức dưới đây thì phần nhân là giống nhân đậu xanh bánh trung thu, phần vỏ là vỏ bánh trung thu kiểu Đài Loan, khá dễ làm, nếu không thích nhân xôi xéo thì các bạn thay bằng nhân khác cũng được nha. </span></span></p>
+<h2><span style="color: #800000;">Cách làm BÁNH TRUNG THU XÔI XÉO (VỎ BÁNH PÍA) </span></h2>
+<p><strong><span style="color: #000000;">Nguyên liệu (cho 9 bánh cỡ vừa)</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;"><strong>A. Nhân đậu xanh “xôi xéo”</strong></span></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">200 gram đậu xanh đã xát vỏ</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">30 gram đường</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">5 – 7 gram muối</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">20 gram mạch nha</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 gram dầu ăn </span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">20 gram mỡ phi hành</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">5 – 7 gram bột bánh dẻo</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Hành phi (để trộn cùng nhân)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Ruốc</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Lưu ý:</strong></span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nhân đậu xanh mình cho ít đường hơn bình thường khá nhiều, điều này sẽ ảnh hưởng tới độ ẩm và độ dẻo của nhân, vì thế mình dùng thêm mạch nha để nhân không bị quá ngọt nhưng vẫn ẩm và dẻo. Nếu không có mạch nha, các bạn có thể thay bằng 30 gram đường nhé.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Lượng muối trong công thức cần cân chính xác, không phải là “một nhúm” hay “1 thìa” nhé, bánh dù mặn hay nhạt quá cũng đều kém ngon đi nhiều. Mình dùng 7 gram muối, nếu ăn vã nhân sẽ thấy hơi mặn nhưng ăn cùng vỏ bánh là vừa, các bạn nên cho trước 5 gram muối, nếu lúc nếm thử thấy nhạt thì cho thêm. Tuy nhiên nhân khi đặc lại sẽ mặn hơn, nên lúc nhân loãng bạn nếm thấy hơi nhạt một chút là được.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Mình dùng mỡ heo để phi hành, sau đó cho 1 phần mỡ phi hành vào để giúp nhân thơm mùi hành hơn và đúng kiểu xôi xéo hơn, nếu sợ nồng các bạn có thể thay một phần hoặc thay hoàn toàn bằng dầu ăn nhé.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Lượng hành phi trộn cùng nhân là tùy sở thích, các bạn trộn từ từ tới khi thấy đủ là được.</span></p>
+<p><strong><span style="color: #000000;">B. Vỏ bánh</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">Để bánh có thể tách lớp được, chúng ta sẽ cần 2 phần bột riêng:</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><strong><span style="color: #000000;">* Bột vỏ</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">210 gram bột mì đa dụng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">40 gram đường bột</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">30 gram dầu ăn</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">30 gram trứng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">70 gram nước </span></em></li>
+</ul>
+<p><span style="font-weight: 400; color: #000000;"><strong>* Bột ruột</strong>:</span></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">110 gram bột mì đa dụng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram dầu ăn</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">Cách làm</span></strong></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/mwAYN0RGRLA" width="560"></iframe></div>
+<p><strong><span style="color: #000000;">A. Nhân bánh</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Hành khô thái lát mỏng. Đun nóng dầu ăn (hoặc mỡ lợn), phi hành trên lửa nhỏ tới khi hành hơi hanh vàng thì vớt ra rây, hành sẽ còn vàng thêm sau khi vớt ra nên bạn chỉ phi tới khi hơi hanh vàng thôi nhé. Để hành ráo dầu, giữ lại phần mỡ phi hành.</span></p>
+<p><span style="font-weight: 400; color: #000000;">* Thao tác sên nhân đậu xanh giống với cách sên nhân kiểu truyền thống, video hướng dẫn chi tiết và các lưu ý quan trọng để sên nhân thành công các bạn đọc tại bài viết này nhé, bên dưới mình chỉ ghi lại tóm tắt cách làm:</span></p>
+<p><span style="color: #000000;"><a href="/banh-trung-thu-cach-lam-nhan-dau-xanh-tra-xanh-la-dua/" style="color: #000000;"><span style="font-weight: 400;">/banh-trung-thu-cach-lam-nhan-dau-xanh-tra-xanh-la-dua/</span></a></span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Đậu xanh ngâm trong nước nóng trong khoảng 1 giờ, sau đó vo lại cho sạch bụi bẩn. Hầm nhừ đậu xanh với nhiều nước. Xay nhuyễn đậu xanh, lọc mịn qua rây rồi cho vào chảo. Lúc này đậu xanh vẫn còn loãng.</span></p>
+<p><span style="font-weight: 400; color: #000000;">3. Bật bếp ở mức trung bình. Cho đường, muối vào chảo, khuấy đều cho tan. Cho phần mỡ phi hành vào chảo, khuấy đều tới khi mỡ hòa quyện hết thì cho ½ số dầu ăn vào chảo, tiếp tục đảo tới khi hòa quyện hết thì cho nốt phần dầu còn lại.</span></p>
+<p><span style="font-weight: 400; color: #000000;">4. Tiếp tục sên tới khi nhân đặc hơn, khi khuấy thấy tạo ra vân trên mặt nhân thì cho mạch nha vào khuấy đều cho mạch nha hòa quyện, lúc này các bạn có thể nếm thử xem có cần thêm muối không. Hạ lửa nhỏ hơn và sên tới khi nhân rất đặc, róc khỏi chảo thì hạ lửa xuống mức nhỏ nhất và sên tới khi nhân đạt, có thể vo thành viên dẻo, đứng, không dính tay.</span></p>
+<p><span style="font-weight: 400; color: #000000;">5. Tắt bếp, cho bột bánh dẻo vào và đảo đều cho bột bánh dẻo hòa quyện. Khi nhân nguội bớt các bạn có thể dùng tay để nhào cho nhân dẻo hơn. Dùng nilon bọc thực phẩm bọc sát mặt nhân rồi để nhân nguội hoàn toàn.</span></p>
+<p><span style="font-weight: 400; color: #000000;">6. Khi nhân đã nguội, cho hành phi vào, dùng tay nhào đều cho hành phi quyện đều vào trong nhân. Bọc kín tới khi dùng.</span></p>
+<p><span style="font-weight: 400; color: #000000;">7. Với phần ruốc cho vào nhân, mình trộn với một chút dầu phi hành cho thơm, bạn cho từng thìa cafe dầu vào, trộn đều nếu thấy ruốc đã bóng, có mùi thơm thì dừng lại.</span></p>
+<p><span style="font-weight: 400; color: #000000;">8. Chia nhân: Với bánh 125 gram, mình dùng 70 gram nhân và 55 gram vỏ là thấy vừa ăn. Nếu thích ăn vỏ mỏng hay dày hơn các bạn có thể thay đổi tỉ lệ. Với phần nhân, mình dùng 65 gram nhân đậu xanh và khoảng 5  gram ruốc. </span></p>
+<p><span style="font-weight: 400; color: #000000;">Nhân đậu xanh sau khi chia thành các phần 65 gram thì vo tròn, ấn lõm phần giữa, cho ruốc vào trong rồi gói lại, vì ruốc khô nên gói nhân rất dễ dàng. </span></p>
+
+
+<p><strong>B. <span style="color: #000000;">Vỏ bánh</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">1. Bột vỏ bánh: Cho các nguyện liệu vào nhào đều tới khi hòa quyện, ko còn bột khô, bột lúc này gần như không dính tay. Bọc kín và để bột nghỉ 30 phút. Sau khi để bột nghỉ đủ, gập bột 1 vài lần để mặt bột mịn. Bột sau khi nghỉ xong sẽ cần mịn, không dính tay, dẻo dai. </span></p>
+<p><span style="font-weight: 400; color: #000000;">2. Bột ruột: Trộn đều dầu ăn với bột, bột sau khi trộn xong cũng không dính tay. Bọc kín và để bột nghỉ 30 phút.</span></p>
+<p><span style="font-weight: 400; color: #000000;">* Cán bột: Cụ thể về thao tác cán bột, các bạn xem tại video nhé, ở dưới mình sẽ ghi tóm tắt cách làm.</span></p>
+<p><span style="font-weight: 400; color: #000000;">3. Chia bột vỏ thành các phần 40 gram, bột ruột thành các phần 15 gram. Rắc bột mì khô ra bàn và xoa đều lên cây cán bột để chống dính.</span></p>
+<p><span style="font-weight: 400; color: #000000;">4. Cán bột vỏ thành hình oval dài khoảng 10 cm, ấn dẹp phần bột ruột thành 1 hình oval khác nhỏ hơn bột vỏ, đặt bột ruột lên, dùng tay ấn cho bột ruột dính vào bột vỏ.</span></p>
+<p><span style="color: #000000;"><b>Lưu ý: </b></span></p>
+<p><span style="color: #000000;"><b>– Bột ruột khi ấn vào sẽ thấy bột hơi bở chứ không dẻo dai, vì thế các bạn nên dùng tay để ấn dẹp chứ không dùng cây cán nhé.</b></span></p>
+<p><span style="color: #000000;"><b>– Bột ruột phải NHỎ HƠN BỘT VỎ, khi cán hay cuộn phần bột ruột này không được lộ ra ngoài.</b></span></p>
+<p><span style="font-weight: 400; color: #000000;">5. Cuộn phần bột theo chiều dọc. Úp phần mép cuộn xuống dưới mặt bàn, tiếp tục cán theo chiều dọc cho tới khi bột dài khoảng 20 cm. Gập thành 3. Làm lần lượt tới hết.</span></p>
+<p><span style="font-weight: 400; color: #000000;">6. Cán phần bột vừa gập thành hình tròn. Khi cán thấy bột có dấu hiệu bị co lại, đây là chuyện rất bình thường. Để cán bột được dễ hơn, nên cán sơ 1 miếng bột, để bột nghỉ, trong thời gian đó đi cán sơ 2 miếng bột khác, sau khi cán xong miếng bột thứ 3 thì quay về cán miếng bột đầu tiên, như vậy bột sẽ đỡ bị co hơn. Phần cây cán bột đi qua luôn là mặt mịn hơn, vì thế bạn chọn mặt đẹp hơn (không có vết gập) để quay lên trên, sau khi cán thì lấy mặt đó làm mặt ngoài bánh.</span></p>
+<p><span style="color: #000000;"><b>Lưu ý quan trọng trong cả quá trình cán bột: Bột vỏ không được rách (làm cho bột ruột bị lộ ra ngoài), nếu không bánh sẽ khó tách lớp. Để làm được điều này, cần cán bột đúng kĩ thuật, nhẹ nhàng đẩy bột ra xa, KHÔNG ẤN/NGHIẾN bột xuống.</b></span></p>
+<p><span style="font-weight: 400; color: #000000;">6. Cán bột đủ rộng để bao hết được nhân. Gói nhân vào bột. Phần mép bột không dính với nhau là chuyện rất bình thường. Bạn có thể dùng một chút nước để dính các phần mép bột sau đó nhanh tay đặt bánh lên khay nướng cho mép bột không bung ra.</span></p>
+<p><span style="font-weight: 400; color: #000000;">7. Nướng bánh</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Làm nóng lò nướng ở 200 độ C trước 20 phút.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nướng bánh ở 200 độ C trong khoảng 15 – 18 phút tới khi vỏ bánh chuyển đục và hơi rám.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Sau khi nướng xong lần 1, để bánh nguội hoàn toàn. Trong thời gian ấy đi chuẩn bị hỗn hợp quét trứng: Đánh tan 1 lòng đỏ + ½ lòng trắng + ½ thìa cafe dầu ăn, lọc lại hỗn hợp qua rây. </span></p>
+<p><span style="font-weight: 400; color: #000000;">– Khi bánh đã nguội, quét 1 lớp trứng rất mỏng lên mặt bánh. Lưu ý, lúc này bánh đã bắt đầu tách các lớp mỏng và dễ vỡ, vì vậy cần quét nhẹ tay.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Nướng bánh lần 2 ở 200 độ (lò đã được làm nóng trước 20 phút) trong khoảng 7 – 8 phút tới khi bánh vàng. Bánh mới nướng xong vỏ bánh sẽ cứng, dễ vỡ khi cắt, ăn cũng cảm thấy bị bột và không ngon. Bánh sau khi để qua 1 ngày vỏ sẽ mềm, tách lớp rõ ràng và cũng ngon hơn nhiều.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Vì nhân bánh không ngọt nên chỉ để được ở nhiệt độ phòng khoảng 2 ngày, bạn nên bọc kín và để vào tủ lạnh, có thể bảo quản trong khoảng 1 tuần nhé.</span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

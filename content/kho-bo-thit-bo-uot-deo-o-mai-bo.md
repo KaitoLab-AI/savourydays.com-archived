@@ -1,0 +1,33 @@
+---
+title: "Khô bò/ Thịt bò ướt dẻo & Ô mai bò"
+date: "2013-01-19"
+slug: "kho-bo-thit-bo-uot-deo-o-mai-bo"
+categories: []
+tags: []
+image: "/wp-content/uploads/2013/01/ThitBoKho.jpg"
+description: "thịt bò khô, thịt bò ướt, khô bò, món ăn ngày Tết, món nhậu"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
+<p>——————————————</p>
+<p>Cả nhà ơi, mấy hôm vừa rồi mình bận một số việc riêng nên để bếp “nguội” mất mấy ngày, hôm nay mới quay lại nhen lửa được, nhớ bếp ghê :”&gt; Nhưng trước khi vào món chính thì mình xin cảm ơn cả nhà rất nhiều vì đã quan tâm đến sách “Quà tặng ngọt ngào” nha :x Hiện tại sách vẫn đang trong quá trình hoàn thiện nên chưa có lịch phát hành cụ thể. Bao giờ có ngày phát hành chính thức và các thông tin liên quan đến việc đặt mua sách (và quà tặng ;) ) mình nhất định sẽ thông báo ngay. À, còn nữa, sách bằng tiếng Việt, in ấn và phát hành tại Việt Nam và dự kiến sẽ có mặt tại các nhà sách trên Toàn quốc nên các bạn ở Việt Nam yên tâm là kiểu gì cũng sẽ mua được nhé.</p>
+<p>Giờ quay lại chuyện của bếp nhỉ. Sắp đến Tết Nguyên Đán rồi, như đã hứa từ đầu tháng, mình sẽ chuẩn bị một số món ăn ngày Tết để tăng thêm không khí đón Xuân cho Savoury Days và có thêm nguồn tham khảo công thức cho chị em. Thực đơn các món ăn cho Tết Nguyên Đán thì ngày mai mình sẽ đăng tại blog. Còn hôm nay để “mở hàng” thì có một món mà mình nghĩ rất rất nhiều người Việt Nam yêu thích, là <strong>khô bò (dạng dẻo và ướt)</strong><strong> và ô mai bò (món bên tay phải)</strong>.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8394425175/" title="IMG_9233-1 by LinhTrang9185, on Flickr"><img alt="IMG_9233-1" class="aligncenter" height="335" loading="lazy" src="http://farm9.staticflickr.com/8496/8394425175_d59749ea55.jpg" width="500"/></a></p>
+<p>Công thức thịt bò khô (khô bò) đã được đăng tại Savoury Days từ khá lâu rồi, ở <a href="/thit-bo-kho-thit-bo-uot/"><strong>ĐÂY.</strong></a> Và cho đến giờ mình vẫn trung thành với công thức này vì cách ướp thịt kiểu này cho ra mùi vị rất rất giống với bò khô bán ngoài hàng, loại mà mình thích ăn. Lần thử này mình cũng làm theo công thức như vậy, chỉ thay đổi cách làm một chút để có thịt bò ướt và ô mai bò thôi.</p>
+<p>Cụ thể là mình ướp nguyên cả miếng sườn bò (các bạn có thể chọn loại thịt bò khác tùy thích) và để nguyên cả miếng để kho như bước (4). Sau khi kho xong thì mình để nguội rồi thái thành từng lát mỏng và dùng tay để xé cho thịt hơi tơi ra (<em>không dần thịt như trong công thức gốc</em>).</p>
+<p>Tiếp theo, cho thịt vào nồi đảo cùng với nước thịt bò còn lại trong nồi (tiết ra từ quá trình kho).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8395518536/" title="IMG_9196 by LinhTrang9185, on Flickr"><img alt="IMG_9196" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8468/8395518536_9ee12fea5a.jpg" width="500"/></a></p>
+<p>Các bạn để lửa nhỏ, đảo đều tay và liên tục đến khi nước cạn, thịt hơi se thì dừng lại (<em>không đảo lâu hơn vì có thể sẽ bị cháy và các bạn nên dùng nồi chống dính nhé</em>).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8395528848/" title="IMG_9199 by LinhTrang9185, on Flickr"><img alt="IMG_9199" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8043/8395528848_6c84330bea.jpg" width="500"/></a></p>
+<p>Thịt lúc này sẽ rất mềm, thơm ngon nhưng hơi ướt một chút. Bước tiếp theo, nếu có lò sấy thì các bạn có thể sấy như trong công thức gốc. Còn mình phơi ở nhiệt độ phòng vì hiện tại ở đây khí hậu cực kì hanh khô. Để thịt khoảng 30-45 phút là thịt bắt đầu khô, se lại. Thịt lúc này chỉ hơi dính thôi và rất dẻo, rất ngon :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8395543618/" title="IMG_9202 by LinhTrang9185, on Flickr"><img alt="IMG_9202" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8510/8395543618_0baccdc8ac.jpg" width="500"/></a></p>
+<p>Nếu là thịt bò ướt thì đến công đoạn như trên là xong. Còn để làm ô mai bò thì cần thêm một bước nữa là <strong>lăn từng miếng thịt bò qua thính gạo</strong>. Thính gạo này các bạn có thể mua sẵn hoặc tự làm bằng cách rang gạo rồi xay mịn (công thức Google có rất nhiều). Các bạn ở nước ngoài có thể tìm trong chợ châu Á sản phẩm tên là “Ground rice” nhé. Thịt bò sau khi đã được bao thính gạo rồi sẽ càng thơm hơn (nói chung là ngon lắm lắm) có thể cho vào lọ để ăn dần. Chỉ cần lưu ý bảo quản ở nơi khô ráo thoáng mát là được :)</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,115 @@
+---
+title: "[VIDEO] 2 cách làm kim chi ngon – kiểu truyền thống & kim chi chay"
+date: "2017-01-20"
+slug: "video-2-cach-lam-kim-chi-han-quoc-truyen-thong-kim-chi-chay"
+categories: []
+tags: []
+image: "/wp-content/uploads/2017/01/cách-làm-kim-chi-ngon-banner.jpg"
+description: "Học cách làm kim chi ngon với Savoury Days, hai kiểu: truyền thống và chay (đơn giản, nhanh gọn). Công thức chi tiết kèm video với các mẹo thành công"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Về nhà được dăm hôm, chẳng cảm thấy không khí Tết mấy, chỉ thấy phố xá lúc nào cũng đông nghịt người, xe cộ như mắc cửi, đường tắc khắp mọi nơi. Nhưng sáng nay ra đường, thấy đào, thấy quất, thấy những túi đồ ông Công ông Táo buộc bên cạnh hay trên giỏ xe bỗng có cảm giác xốn xang rất lạ: Tết quả thực đang đến rất gần rồi!</p>
+<p>Tết là dịp của rượu, thịt, các món nhiều dầu mỡ ngấy, nên đồ ghém và các loại dưa chua là một phần không thể thiếu để giúp cho cái dạ dày khỏi bị lệch lạc :P Những năm gần đây, dựa theo các phần hỏi đáp và thống kê của SD thì <strong>kim chi</strong> dường như là món ngày càng được nhiều gia đình ưa chuộng hơn. Mà cũng phải thôi, với vị mặn, chua, cay và hơi ngòn ngọt, cùng những thứ gia vị rất chi là kích thích bao tử như hành, tỏi, gừng… kim chi là món đồ ăn kèm vừa dễ đi cùng các món khác, vừa có thể hỗ trợ tiêu hoá và sức khoẻ nữa.</p>
+<p><a href="/cach-lam-kim-chi/" target="_blank"><strong>Cách làm kim chi</strong> </a>mình đã đăng ở SD từ rất lâu rồi. Cách làm này mình học theo một blogger người Hàn Quốc – <strong><a href="http://www.beyondkimchee.com" target="_blank">Beyond Kimchee</a>. </strong>Blog của chị cũng là nơi mình hay tham khảo nhất khi học nấu các món Hàn vì cảm giác là khẩu vị và cách nấu của chị rất hợp với mình, hướng dẫn cũng cực kì chi tiết và tinh tế nữa.</p>
+<p>Vì ngày càng phổ biến hơn nên mình cũng thấy có rất nhiều cách làm kim chi khác nhau được chia sẻ trên mạng, hầu như công thức nào cũng khẳng định là được học lại từ người Hàn Quốc, tuy là các công thức thì đều khác nhau về nguyên liệu hay tỉ lệ. Thật ra điều này cũng đúng thôi vì một món ăn có thể có nhiều phiên bản khác nhau tuỳ khẩu vị của từng vùng miền hay thậm chí của từng gia đình. Chẳng nói đâu xa, như bún chả, bún nem hay phở tại Hà Nội bán trong các cửa hàng khác nhau cũng đã có cách nấu và hương vị hơi khác rồi.</p>
+<p>Mình thì vẫn trung thành với công thức cũ, nhưng sau khi đã làm rất nhiều mẻ khác nhau, với các loại đồ lên men khác nhau, không chỉ kim chi cải thảo mà cả cải bắp, dưa chuột, rồi dưa muối, cà muối Việt Nam thì mình có rút ra một số kinh nghiệm. Và từ đó sửa lại cho công thức đơn giản, dễ dàng, dễ tìm nguyên liệu hơn, cũng như khả năng thành công (kim chi chắc chắn chua) cao hơn.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Trong video của ngày hôm nay mình xin giới thiệu với các bạn cách làm 2 loại kim chi: <strong>kim chi truyền thống</strong> theo cách cũ và <strong>kim chi chay</strong> theo kiểu đơn giản, nhanh, gọn, lẹ. So với cách làm kim chi đã đăng tại SD thì cách làm và nguyên liệu trong video mới này có thay đổi đôi chút theo hướng giản tiện hơn nhưng về cơ bản thì vẫn giữ phương thức cũ. Bởi vậy nên phần các bước mình sẽ tóm tắt ngắn gọn thôi và bổ sung một số các kinh nghiệm mới của mình sau rất nhiều mẻ kim chi nhé.</p>
+<p style="text-align: center;"><em>Kim chi chay – giòn, ngon, chua, mặn,  ngọt không kém chút nào so với kim chi truyền thống</em></p>
+<p><img alt="Cách làm kim chi chay" class="aligncenter wp-image-7289 size-large" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2017/01/Cách-làm-kim-chi-chay-1024x683.jpg" width="1024"/></p>
+<h2><strong>CÁCH LÀM KIM CHI</strong></h2>
+<p><strong>A. Kim chi kiểu truyền thống</strong></p>
+<ul>
+<li><em>1 kg cải thảo </em></li>
+<li><em>nước &amp;  muối ăn theo tỉ lệ 50 g muối: 1 lít nước </em></li>
+<li><em>10 – 15 g tôm khô hoặc cá cơm khô</em></li>
+<li><em>15 g bột nếp (sticky rice flour) </em></li>
+<li><em>3 -4 cây hành xanh  </em></li>
+<li><em>100 g cà rốt </em></li>
+<li><em>200 g củ cải trắng </em></li>
+<li><em>30 g táo hoặc lê </em></li>
+<li><em>30 g hành tây </em></li>
+<li><em>10 g tỏi </em></li>
+<li><em>10 g gừng </em></li>
+<li><em>3 – 4 thìa canh (40 – 60 ml) nước mắm </em></li>
+<li><em>1 – 2 thìa canh (14 – 28 g) đường </em></li>
+<li><em>2 – 3 thìa canh ớt bột Hàn Quốc</em></li>
+<li><em>0.5 – 1 thìa canh (10 – 15 ml) dấm (không bắt buộc)</em></li>
+</ul>
+<p><strong>B. Kim chi chay (nhanh &amp; đơn giản hơn kiểu truyền thống)</strong></p>
+<ul>
+<li><em>1 kg cải thảo </em></li>
+<li><em>nước &amp;  muối ăn theo tỉ lệ 50 g muối: 1 lít nước </em></li>
+<li><em>3 -4 cây hành xanh  </em></li>
+<li><em>100 g cà rốt </em></li>
+<li><em>200 g củ cải trắng </em></li>
+<li><em>30 g táo hoặc lê </em></li>
+<li><em>30 g hành tây </em></li>
+<li><em>10 g tỏi </em></li>
+<li><em>10 g gừng </em></li>
+<li><em>1 – 1.5 thìa canh tương ớt Gochujang</em></li>
+<li><em>1 – 2 thìa canh mật ong/ corn syrup hoặc đường </em></li>
+<li><em>1 – 1.5 thìa canh bột ớt nếu muốn cay hơn </em></li>
+<li><em>1 thìa canh dấm </em></li>
+<li><em>1 – 2 thìa cafe muối ăn </em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Ghi chú</strong></span>:</p>
+<ul>
+<li>1 thìa canh/ thìa ăn phở = 15 ml hoặc khoảng 12 – 15 g nguyên liệu dạng bột</li>
+<li>1 thìa cafe = 5 ml hoặc 4 – 5 g nguyên liệu dạng bột</li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>I. Lưu ý chung về nguyên liệu</p>
+<ul>
+<li>Muối ăn là muối tinh dạng hạt nhỏ, nếu dùng muối biển hạt to để ngâm cải thì có thể tham khảo tỉ lệ muối: nước trong <a href="/cach-lam-kim-chi/" target="_blank"><strong>cách làm kim chi</strong> </a>cũ</li>
+<li>Định lượng rau dưa, gia vị ở trên đủ cho khoảng 1 kg cải. Nếu làm nhiều hơn, bạn chỉ cần nhân lên theo tỉ lệ cải</li>
+<li>Cà rốt, củ cải trắng, hành xanh… không bắt buộc nhưng mình thấy có thì ngon hơn. Hành xanh có thể thay bằng hẹ</li>
+</ul>
+<p>II. Giải thích thêm về hai loại kim chi và <span style="color: #ff0000;">MỘT VÀI KINH NGHIỆM ĐỂ LÀM KIM CHI THÀNH CÔNG</span></p>
+<p>– Ngay cả người Hàn Quốc cũng có nhiều cách làm kim chi khác nhau với các loại nguyên liệu sử dụng khác nhau. Về cơ bản thì thường gồm các bước là</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<ul>
+<li>Ngâm cải với muối hoặc nước muối tới khi cải dẻo giòn, rửa sạch</li>
+<li>Chuẩn bị các loại rau muối cùng</li>
+<li>Chuẩn bị hỗn hợp gia vị: thường gồm cháo bột nếp, hành, tỏi, gừng, táo hoặc lê, nước mắm, đường, ớt</li>
+<li>Trộn nhân với rau cải</li>
+</ul>
+<p>– Với bước đầu tiên, mình chọn cách ngâm nước muối thay vì rắc muối trực tiếp lên bẹ lá rồi để cho héo vì thấy ngâm nước muối giúp cải giòn hơn. Đặc biệt là khi làm theo kiểu nhanh gọn, cắt cải thành miếng nhỏ thay vì để nguyên cả bẹ lá thì <strong>ngâm nước muối ấm </strong>là bí quyết giúp cải luôn luôn giòn nhưng vẫn dẻo, không bị dai hay nhũn. Ngoài ra, ngâm nước muối cũng <strong>giúp kích thích quá trình lên men của kim chi</strong>, giúp kim chi nhanh chua hơn.</p>
+<p>– Kim chi truyền thống thường để nguyên cả 1/4 hoặc 1/2 cái cải thảo nhưng bạn có thể cắt thành miếng như trong cách làm kim chi chay. Kim chi sau khi cắt miếng thì thời gian ngâm muối sẽ ngắn hơn và tốc độ chua cũng nhanh hơn, khi làm đơn giản hơn nhưng để không được lâu như kim chi truyền thống. <strong>Mùi vị của kim chi cắt nhỏ không khác gì với kim chi để nguyên cả bẹ lá (không hề kém giòn hơn) </strong>nhé.</p>
+<p>– Trong phần hỗn hợp gia vị cho kim chi. Nếu không có sẵn bột nếp, bạn có thể dùng cơm nguội hoặc cơm nếp nấu với nước ninh tôm/ cá cho mềm rồi xay nhuyễn. <strong>Tinh bột gạo giúp kim chi lên men nhanh hơn, tuy nhiên không phải là nguyên liệu bắt buộc cần phải có. </strong></p>
+<p>– Ngoài táo, lê, mình thấy người Hàn có khi dùng cả hồng chín để làm kim chi. Hồng có vị ngọt tự nhiên nên không cần cho thêm đường (khi  nào tới mùa hồng nhất định mình sẽ thử cách này).</p>
+<p>– Gừng, hành, tỏi là các loại làm nên hương vị của kim chi, <strong>nhất định nên có nhưng chỉ làm với lượng vừa phải</strong> vì nếu cho quá nhiều sẽ dễ bị hắc, khó ăn.</p>
+<p>– Nếu không có ớt Hàn Quốc bạn có thể thay bằng ớt loại khác. Khi còn ở Đức đôi khi mình dùng bột ớt cayenne để có vị cay và bột ớt paprika để có màu đỏ đẹp (ớt paprika không cay).</p>
+<p>– Dấm không phải là nguyên liệu thường có khi làm kim chi nhưng nếu cho thêm vào thì kim chi chua nhanh hơn và dễ hơn.</p>
+<p>– Để <strong>tăng khả năng thành công &amp; đảm bảo kim chi sẽ lên men và chua, </strong>bạn có thể dùng <strong>0.5 – 1 thìa canh tương ớt Gochujang </strong>cho 1 kg cải thảo (Gochujang cay rồi nên sẽ cần giảm bớt ớt bột trong công thức). Cách làm này hơi ăn gian và không đúng chuẩn nhưng <strong>rất hiệu quả </strong>bởi Gochujang là sản phẩm đã lên  men sẵn, nên sẽ giúp kích thích việc lên men của kim chi, giúp kim chi dễ chua và chua nhanh kể cả khi bạn làm hơi thiếu mặn. Vị của Gochujang cũng không làm ảnh hưởng tới hương vị của kim chi.</p>
+<p>– Nếu bạn không ăn chay và muốn làm kim chi nhanh thì có thể dùng cách làm kim chi chay nhưng phần gia vị thì thay muối bằng nước mắm. Với kim chi, mình nghĩ có một chút vị mắm và vị từ tôm/ cá sẽ thơm ngon hơn.</p>
+<p>(*) Video cách làm kim chi đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo <a href="https://youtu.be/CG4jQLKUUKI" target="_blank"><strong>link này</strong></a> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="/demo-flan-creme-caramel-kem-caramel/" target="_blank">cách làm bánh flan này.</a> </strong></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/CG4jQLKUUKI" width="560"></iframe></div>
+<p> </p>
+<p><strong>TÓM TẮT CÁC BƯỚC</strong></p>
+<p>1. Bổ cải thảo làm 2 hoặc 4 phần theo chiều dọc. Nếu làm kim chi chay hoặc kim chi theo kiểu nhanh gọn thì cắt ngang thành miếng có độ rộng khoảng 3 cm. Rửa sạch, để ráo nước.</p>
+<p>2. Pha nước muối theo tỉ lệ 50 g muối ăn : 1 lít nước. Cho cải vào ngâm. Dùng vật nặng như bát đĩa chèn cho cải ngập hoàn toàn trong nước. Ngâm 8 – 12 giờ tới khi cọng cải mềm dẻo, có thể bẻ gập mà không gãy.</p>
+<p>Nếu làm kim chi chay/ đơn giản thì đun nước tới khi nước ấm khoảng 40 – 50 độ C (nóng hơn nước tắm một chút) rồi ngâm cải trong 4 – 8 giờ tới khi có thể bẻ phần cọng trắng gập xuống mà không gãy (khi ngâm cũng cần chèn cho cải chìm trong nước).</p>
+
+
+<p>3. Vắt thật kiệt nước, để cải khô ráo bớt. Trong khi đợi thì làm phần nhân kim chi.</p>
+<p>4. Rửa sạch tôm, cá khô rồi ninh với 200 ml nước trong khoảng 30 – 40 phút. Lọc lấy nước dùng (ta có khoảng 150 ml nước dùng), để nguội rồi quấy bột nếp vào cho tan. Đun trên lửa vừa, quấy liên tục tới khi bột nếp chín và hỗn hợp chuyển thành cháo loãng. Để nguội.</p>
+<p><em>Nếu làm kim chi chay thì bỏ qua bước này. </em></p>
+<p>5. Rửa, gọt vỏ các loại rau gồm hành lá, cà rốt, củ cải. Bào sợi hoặc thái sợi cà rốt, củ cải. Thái vát phần đầu hành trắng. Cắt hành xanh thành khúc dài 3 – 4 cm.</p>
+<p>6. Cho táo, hành tây, gừng, tỏi cùng cháo bột nếp đã nguội vào máy xay, xay nhuyễn (hoặc có thể băm nhỏ các loại gia vị). Nêm nước mắm, đường, ớt, dấm, trộn thật đều.</p>
+<p><em>Nếu làm kim chi chay thì xay hoặc băm nhỏ táo, hành tây, gừng, tỏi rồi nêm các loại gia vị gồm Gochujang, mật ong hoặc đường, muối, ớt… trộn đều. </em></p>
+<p>7. Cho hành lá, cà rốt, củ cải vào trộn với hỗn hợp gia vị. Lấy một miếng cải thảo ăn kèm với rau vừa trộn.<strong> Để kim chi chua thì ở bước này vị của rau nên  mặn hơn bình thường. Ngoài ra, vị ngọt, cay cần vừa phả</strong>i.</p>
+<p>8. Phết phần nhân vừa trộn vào giữa các bẹ lá. Hoặc cho kim chi đã cắt miếng vào trộn thật đều. Cuộn kim chi lại, để vào hộp đậy kín.</p>
+<p>Ở thời tiết khoảng 20 độ C, kim chi sẽ mất 24 – 36 giờ để chua. Sau khi kim chi đã chua, bạn có thể để vào ngăn mát tủ lạnh dùng dần. Nhiệt độ càng cao kim chi sẽ chua càng nhanh và ngược lại. Kim chi cắt miếng sẽ chua nhanh hơn là kim chi làm theo cách để nguyên cả bẹ lá dài.</p>
+<p>Bên cạnh ăn sống thì kim chi là nguyên liệu để làm rất nhiều món ngon như</p>
+<ul>
+<li><strong><a href="/kim-chi-cu-cai-canh-suon-bo-nau-kim-chi/" target="_blank">Canh kim chi thịt bò </a></strong></li>
+<li><strong><a href="/com-rang-kim-chi/" target="_blank">Cơm rang kim chi </a></strong></li>
+<li><strong><a href="/kim-chi-toan-tap/" target="_blank">Canh kim chi hải sản</a></strong></li>
+</ul>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

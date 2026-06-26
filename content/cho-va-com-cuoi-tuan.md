@@ -1,0 +1,62 @@
+---
+title: "Chợ (và cơm) cuối tuần"
+date: "2013-08-04"
+slug: "cho-va-com-cuoi-tuan"
+categories: ["Chuyện hàng ngày", "Du lịch"]
+tags: ["chuyện hàng ngày", "du lịch"]
+image: "/wp-content/uploads/2013/08/ChoCuoiTuan.jpg"
+description: ""
+---
+
+<p>Tuần nào cũng thế, thứ 7 được khởi đầu bằng một sự háo hức. Bởi vì thứ 7 là “ngày đi chợ”.</p>
+<p>Chợ mở ở quảng trường to trước cửa một rạp hát ở trung tâm, tên chính thức là Volgenmarkt, còn tên không chính thức (do anh chị em Việt Nam tự đặt để dễ nhớ) là chợ phố Meir (Meir là phố mua sắm lớn nhất ở đây và ở rất gần chợ).</p>
+<p>Không giống như chợ Chủ nhật, có thập cẩm đủ thứ từ quần áo, giày dép, mũ nón cho đến chim muông, cây cảnh. Chợ thứ 7 chỉ tập trung vào đồ ăn và hoa. Nhiều nhất – chắc đến hơn nửa chợ – là các hàng rau quả. Tại vì đang là mùa rau quả mà, không “tranh thủ”, chớp mắt một cái đến mùa đông, thì sẽ chẳng lấy đâu ra rau xanh mướt mát, đào mận chín căng mọng, dâu thơm lừng nữa.</p>
+<p>Năm nay thời tiết hơi bất thường nên không được mùa dâu. Nhưng mà, dâu vẫn to và thơm lắm, chỉ hơi chua một tẹo thôi (cơ mà chua thì ta làm mứt, làm bánh, chẳng sao hết).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9435506182/" title="IMG_1536 by LinhTrang9185, on Flickr"><img alt="IMG_1536" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2889/9435506182_c5d17880b3.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Rasberries và Red currents, quả này thì đúng là siêu chua của chua, nhưng để trang trí bánh thì tuyệt.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9432729585/" title="IMG_1545 by LinhTrang9185, on Flickr"><img alt="IMG_1545" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7390/9432729585_9c58c7f329.jpg" width="500"/></a></p>
+<p>Cam với các loại táo khác nhau</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9432729457/" title="IMG_1542 by LinhTrang9185, on Flickr"><img alt="IMG_1542" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2873/9432729457_0a1ed37682.jpg" width="500"/></a></p>
+<p>A-ti-sô, hầm với sườn non hay móng giò, vừa ngon vừa mát</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9435505968/" title="IMG_1538 by LinhTrang9185, on Flickr"><img alt="IMG_1538" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3813/9435505968_034315e175.jpg" width="500"/></a></p>
+<p>Dưa vàng với dứa</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9432730263/" title="IMG_1535 by LinhTrang9185, on Flickr"><img alt="IMG_1535" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2866/9432730263_82d6c06f31.jpg" width="500"/></a></p>
+<p>Và anh đào đang vào chính vụ, vừa to vừa giòn mà rẻ, mua nửa kg ở hàng này, chạy qua hàng khác lại không cầm lòng được, thêm nửa kg nữa :”&gt;</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9432730425/" title="IMG_1534 by LinhTrang9185, on Flickr"><img alt="IMG_1534" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2858/9432730425_bd347261c7.jpg" width="500"/></a> Salad olive đủ loại</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9432730593/" title="IMG_1532 by LinhTrang9185, on Flickr"><img alt="IMG_1532" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3712/9432730593_0fdb25f7b4.jpg" width="500"/></a></p>
+<p>Và các loại bột gia vị – quầy hàng mà mình luôn rất thích</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9435505780/" title="IMG_1539 by LinhTrang9185, on Flickr"><img alt="IMG_1539" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7321/9435505780_16b8ab2f81.jpg" width="500"/></a></p>
+<p>Mơ với Nectarine – thích cái rổ đựng thế</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9432730771/" title="IMG_1530 by LinhTrang9185, on Flickr"><img alt="IMG_1530" class="aligncenter" height="333" loading="lazy" src="http://farm6.staticflickr.com/5349/9432730771_e7df30a61c.jpg" width="500"/></a></p>
+<p>Hàng hoa quen sau nửa tháng nghỉ hè, tuần này lại mở cửa</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9435507264/" title="IMG_1528 by LinhTrang9185, on Flickr"><img alt="IMG_1528" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7349/9435507264_a0715a183f.jpg" width="500"/></a></p>
+<p>Hướng dương rực rỡ vàng óng cả một góc</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9435507484/" title="IMG_1527 by LinhTrang9185, on Flickr"><img alt="IMG_1527" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7429/9435507484_72e57a1a53.jpg" width="500"/></a></p>
+<p>Đứng ngắm mãi cuối cùng cũng chọn một bó lan tường</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9435507668/" title="IMG_1525 by LinhTrang9185, on Flickr"><img alt="IMG_1525" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3782/9435507668_676951bbeb.jpg" width="500"/></a></p>
+<p>Tuần này đi chợ “nhẹ nhàng” hơn mọi khi, không có cả một danh sách các thứ đồ cần mua dài dằng dặc vì tuần tới sẽ đi vắng đến hơn một nửa tuần. Trong giỏ chỉ có một quả bí ngô loại hình bầu dài (butternut squash) để nấu chè với ít hoa quả. Và hơn chục trứng để làm trứng muối, lâu lắm rồi không muối, tự nhiên lại thấy thèm cái vị bùi bùi, mằn mặn ấy.</p>
+<p>Cơm thứ 7 cũng siêu nhanh gọn, gom từ những thứ còn thừa lại từ buổi liên hoan tối thứ 6: Một ít mỳ trứng đã luộc chín, một túi cải thìa (bok choi) và 2 xiên thịt gà nướng kiểu Nhật (Teriyaki). Đun nóng tí dầu ăn, trong lúc đợi dầu nóng thì bóc hành tỏi. Rồi phi cho thơm thật thơm, cho mỳ với rau vào, thêm ít xì dầu với dầu hào. Đảo đến khi sợi mì hơi săn và rau vừa chín tới thì gạt mì sang một bên, đánh tan quả trứng, đổ vào bên còn lại của chảo. Đợi trứng chín thì xắn thành nhiều miếng nhỏ rồi đảo đều với mì. Cuối cùng là một ít tương ớt và tí tẹo chanh – ăn cùng thịt gà. Chỉ mất 10 phút thôi và ngon ơi là ngon ý ;;)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9432821267/" title="IMG_1598 by LinhTrang9185, on Flickr"><img alt="IMG_1598" class="aligncenter" height="333" loading="lazy" src="http://farm3.staticflickr.com/2814/9432821267_3fff86b7bf.jpg" width="500"/></a></p>
+<p>À quên mất, vẫn còn một món nữa: ốc bươu xào sả mắm – tự sáng tác ra từ việc quá thèm ốc và mắm tôm :”&gt;</p>
+
+
+<p><a href="http://www.flickr.com/photos/55490207@N05/9435597846/" title="IMG_1500-1 by LinhTrang9185, on Flickr"><img alt="IMG_1500-1" class="aligncenter" height="333" loading="lazy" src="http://farm6.staticflickr.com/5529/9435597846_0234514ac1.jpg" width="500"/></a></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

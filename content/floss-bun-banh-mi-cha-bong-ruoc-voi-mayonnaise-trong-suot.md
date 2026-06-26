@@ -1,0 +1,51 @@
+---
+title: "Floss bun – Bánh mì chà bông (ruốc) với Mayonnaise “trong suốt”"
+date: "2014-12-10"
+slug: "floss-bun-banh-mi-cha-bong-ruoc-voi-mayonnaise-trong-suot"
+categories: []
+tags: []
+image: "/wp-content/uploads/2014/12/Flossbun1.jpg"
+description: "bánh mì ruốc, floss bun"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Món bánh mì này là “bạn thân” của mình thời cuối cấp 3. Nhớ hồi đó đi học thêm khá nhiều, phần lớn là tầm chiều tối, ngay sau giờ học chính. Hôm nào được bố đưa đi học thì sẽ rẽ qua mấy quán sữa dê ở phố Giảng Võ, ăn sữa chua với bánh gateau cuộn. Còn nếu bố bận phải tự đi, hoặc không có nhiều thời gian rẽ vào quán thì trước khi đi học mẹ sẽ dúi cho một vài cái bánh mì ngọt kẹp pa-tê hay ruốc, với hộp sữa để có sức “chiến đấu” ca 3.</p>
+<p>Cửa hàng bánh mì “ruột” của mình hồi đó nhỏ thôi, có vẻ là mô hình cửa hàng gia đình, thương hiệu cũng không có gì nổi bật, nhưng bánh mì ngọt ở đó thì tuyệt ngon. Lúc nào cũng rất mềm, thơm phức, đặc biệt là hay có thêm một thứ sốt trong trong, mềm mềm, mằn mặn, ngòn ngọt, ăn rất thích. Nhiều khi phần bánh chỉ là phụ thôi, sốt mới là lí do chính để mua bánh. Giờ đi học, xa hàng bánh ruột, không còn chỗ nào để mua nữa nên lại lọ mọ chui vào bếp “tự cung tự cấp” :)</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15988762221/" title="IMG_9258 by LinhTrang9185, on Flickr"><img alt="IMG_9258" class="aligncenter" height="640" loading="lazy" src="https://farm8.staticflickr.com/7508/15988762221_0f6daf0f14_z.jpg" width="436"/></a></p>
+<p>Phần vỏ bánh mình dùng công thức bánh mì sữa Hokkaido, còn phần sốt thì mình dùng công thức <em>transparent mayonnaise </em>hay <em>clear mayonnaise</em>. Công thức này rất phổ biến ở các food blog của các bạn châu Á, đặc biệt là Singapore, Hồng Kông hay Đài Loan. Khác với mayonnaise truyền thống, loại mayonnaise trong suốt này có mùi vị rất nhẹ nhàng, không quá gắt, không quá béo, hơi ngòn ngọt, mằn mặn. Cách làm thì siêu dễ, gần như không thể hỏng, và ưu điểm lớn nhất so với mayonnaise truyền thống là an toàn và tốt cho sức khỏe hơn do không sử dụng trứng sống, không dùng dầu ăn mà chỉ có rất ít bơ thôi.</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><strong>A. Phần bánh mì</strong></p>
+<p><a href="/banh-mi-sua-hokkaido-hokkaido-milky-bread/">1/2 công thức bánh mì Hokkaido </a>(hoặc các bạn có thể dùng <a href="/banh-mi-sua-hokkaido-dung-tangzhong-water-roux/">công thức Hokkaido bread sử dụng Tangzhong</a>, công thức <a href="/banh-mi-bo-mem-crescent-roll-sung-trau-hay-cua-beo/">bánh mì bơ mềm <em>butter roll</em></a> hay <a href="/banh-mi-ngot-mem-nhan-kem-sua-trung-milk-buns-custard-filling/">bánh mì sữa <em>milk bun</em></a> tùy thích)</p>
+<p><strong>B. Phần sốt</strong></p>
+<ul>
+<li>20 gram bột ngô (<em>corn starch</em>)</li>
+<li>240 ml nước</li>
+<li>45 gram đường</li>
+<li>1/2 thìa cafe (teaspoon, khoảng 2 gr) muối</li>
+<li>30 gram bơ nhạt (<em>unsalted butter – </em>bơ không muối, nếu bơ có muối thì bỏ phần muối ở trên)</li>
+</ul>
+<p><strong>C.</strong> <strong>Ruốc (chà bông), pa-tê, xúc xích</strong>… ăn kèm</p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>A. Chuẩn bị phần bột bánh. Sau khi ủ lần 1, chia bột thành các phần bằng nhau, để bột nghỉ 3 – 5 phút.</p>
+<ul>
+<li>Để làm bánh tròn, các bạn có thể chia bột thành các phần nặng khoảng 20 – 25 gram/ phần.</li>
+<li>Để làm bánh dài thì chia khoảng 40 gram/ phần bột.</li>
+</ul>
+<p>Vê bột thành viên tròn (tham khảo cách tạo hình tại <a href="/hamburger-kieu-viet-nam-cach-tao-hinh-banh-mi-tron-cach-ve-tron-bot-banh/">bài viết này</a>) hoặc cán rồi cuộn lại thành dạng ổ. Có thể thêm nhân bánh tùy thích như nhân pa-tê, xúc xích hay kem trứng (custard).</p>
+<p>Ủ và nướng bánh theo hướng dẫn trong công thức.</p>
+<p style="text-align: center;"><em>Mình làm cả hai loại bánh tròn và dài – bánh dài có nhân ruốc &amp; pate. </em></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15964975056/" title="Floss bun by LinhTrang9185, on Flickr"><img alt="Floss bun" class="aligncenter" height="427" loading="lazy" src="https://farm9.staticflickr.com/8585/15964975056_79ffb72d95_z.jpg" width="640"/></a></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><strong>B. Phần sốt</strong></p>
+<p>1. Hòa tan 20 gram bột ngô với 60 ml nước (lấy từ phần 240 ml nước trong công thức).</p>
+<p>2. Cho các nguyên liệu còn lại gồm 180 ml nước, đường, muối, và bơ vào nồi. Bật lửa to, quấy đều.</p>
+<p>3. Khi hỗn hợp bắt đầu sôi thì cho phần nước hòa tan bột ngô vào, quấy đều. Hạ lửa vừa, đun thêm 2 – 3 phút (quấy đều tay và liên tục trong khi đun), đến khi hỗn hợp chuyển trong và hơi sệt, nếm thử không thấy có vị bột chín thì bắc khỏi bếp, để nguội.</p>
+<p>* <span style="text-decoration: underline;"><strong>Ghi chú:</strong></span> lượng nguyên liệu có thể thay đổi tùy khẩu vị. Ở bước (2), khi các nguyên liệu vừa tan hết, các bạn có thể nếm thử và thêm đường hoặc muối tùy thích. Nếu muốn hỗn hợp đặc hơn thì thêm bột ngô, lỏng hơn thì thêm nước…</p>
+<p><strong>C. Hoàn thiện</strong>: Khi bánh và sốt đã nguội thì trét sốt lên trên bánh, phủ ruốc. Dùng trong 1 – 2 ngày.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15988762031/" title="IMG_9261 by LinhTrang9185, on Flickr"><img alt="IMG_9261" class="aligncenter" height="334" loading="lazy" src="https://farm8.staticflickr.com/7576/15988762031_e5ddb4ae56.jpg" width="500"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

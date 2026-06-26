@@ -1,0 +1,75 @@
+---
+title: "BÁNH MÌ HOA CÚC BƠ TỎI NƯỚNG GIÒN ^.^"
+date: "2020-03-27"
+slug: "banh-mi-hoa-cuc-bo-toi-nuong-gi"
+categories: []
+tags: []
+image: "/wp-content/uploads/2020/03/Banh-mi-hoa-cuc-bo-toi-nuong-gion-1.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="95m8-0-0">
+<div class="_1mf _1mj" data-offset-key="95m8-0-0"></div>
+</div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="fa6o9-0-0">
+<div class="_1mf _1mj" data-offset-key="fa6o9-0-0"><span style="color: #000000;">Đỉnh cao của sự “rù quyến” của đồ ăn, biết là rất béo nhưng ăn không ngừng được chính là đây :D :D :D</span></div>
+</div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="8bdul-0-0">
+<div class="_1mf _1mj" data-offset-key="8bdul-0-0"><span data-offset-key="8bdul-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="eq10u-0-0">
+<div class="_1mf _1mj" data-offset-key="eq10u-0-0"><span data-offset-key="eq10u-0-0" style="color: #000000;">Mình thật ra không có ý định làm món này, vì trong tủ còn cái bánh mì hoa cúc (vị cafe nên màu hơi nâu) và bát sốt bơ tỏi từ mẻ bánh lần trước, nên xử lí cho hết thôi. Siêu phẩm bánh mì kết hợp với sốt bơ tỏi siêu cấp đệ nhất thiên hạ, ra cái gì thì ai cũng biết rùi đấy ;))) </span></div>
+</div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="4vio4-0-0">
+<div class="_1mf _1mj" data-offset-key="4vio4-0-0"><span data-offset-key="4vio4-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="3bmas-0-0">
+<div class="_1mf _1mj" data-offset-key="3bmas-0-0"><span data-offset-key="3bmas-0-0" style="color: #000000;">Bạn nào thích Croissant (bánh sừng bò), mê cái sự giòn tan thơm bơ của các lớp bột vỏ bên ngoài, thì nhất định nên thử món này nhé. Mặc dù làm nó có hơi vất vả vì phải tự làm bánh mì hoa cúc, rồi lại tự làm sốt bơ tỏi và nướng, nhưng đáng đồng tiền bát gạo lắm lắm đấy!!!</span></div>
+<div class="_1mf _1mj" data-offset-key="3bmas-0-0"></div>
+</div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="4lamf-0-0">
+<div class="_1mf _1mj" data-offset-key="4lamf-0-0"><span data-offset-key="4lamf-0-0" style="color: #000000;"><img alt="" class="aligncenter size-large wp-image-8514" height="1024" loading="lazy" sizes="(max-width: 683px) 100vw, 683px" src="/wp-content/uploads/2020/03/banh-mi-hoa-cuc-bo-toi-nuong-gion-2-1-683x1024.jpg" width="683"/></span></div>
+</div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="6rup-0-0">
+<div class="_1mf _1mj" data-offset-key="6rup-0-0"><span data-offset-key="6rup-0-0" style="color: #000000;">Thật ra sốt bơ tỏi ngon sẵn thì quệt vào cái gì cũng ngon. Có điều khi kết hợp với bánh mì hoa cúc, nó ở một đẳng cấp hoàn toàn khác í. Tại vì bánh mì hoa cúc vốn đã mềm nhẹ và xốp rồi. Khi nướng giòn lên không chỉ thơm mà còn rất nhẹ, giòn kiểu giòn rụm tan trong miệng (đúng như kiểu của bột ngàn lớp ấy), chứ không giòn hơi cứng như khi dùng các loại bánh mì baguette chẳng hạn. Cả nhà nhìn trong hình đầu tiên sẽ thấy các lớp bột xốp như thế nào. Ngoài Croissant ra, mình cũng không biết so sánh với món nào chuẩn hơn nữa. Mà hơn cả Croissant ý vì thơm nức nở mùi bơ tỏi. Túm lại là ngon cực kì, ngon lắm lắm (mỗi tội hơi béo tí nên ăn cần kiềm chế thôi :D). </span></div>
+</div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="4aduk-0-0">
+<div class="_1mf _1mj" data-offset-key="4aduk-0-0"><span data-offset-key="4aduk-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="jra1-0-0">
+<div class="_1mf _1mj" data-offset-key="jra1-0-0"><span data-offset-key="jra1-0-0" style="color: #000000;">* Bánh mì hoa cúc đã có cách làm tại đây: <a href="/cach-lam-banh-mi-hoa-cuc-harrys-don-gian-nhoi-bot-de-video/">/cach-lam-banh-mi-hoa-cuc-harrys-don-gian-nhoi-bot-de-video/</a></span></div>
+</div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="537v9-0-0"><span style="color: #000000;"> </span></div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="85fs6-0-0">
+<div class="_1mf _1mj" data-offset-key="85fs6-0-0"><span data-offset-key="85fs6-0-0" style="color: #000000;">* Nếu bạn nào không muốn làm bánh mì hoa cúc thì dùng công thức vỏ bánh mì Papparoti cũng rất ngon, ở đây: <a href="/papparoti-mexican-buns-coffee-buns-rotiboy/">/papparoti-mexican-buns-coffee-buns-rotiboy/</a></span></div>
+</div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="c8nq2-0-0"><span style="color: #000000;"> </span></div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="8nodu-0-0">
+<div class="_1mf _1mj" data-offset-key="8nodu-0-0"><span data-offset-key="8nodu-0-0" style="color: #000000;">* Sốt bơ tỏi các bạn có thể tham khảo trong bài viết này: <a href="/cach-lam-banh-mi-bo-toi-pho-mai-han-quoc/">/cach-lam-banh-mi-bo-toi-pho-mai-han-quoc/ </a></span></div>
+</div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="dcn9c-0-0">
+<div class="_1mf _1mj" data-offset-key="dcn9c-0-0"><span data-offset-key="dcn9c-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="36hve-0-0">
+<div class="_1mf _1mj" data-offset-key="36hve-0-0"><span data-offset-key="36hve-0-0" style="color: #000000;">* Cách làm rất đơn giản thôi: </span></div>
+</div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="5hl6q-0-0">
+<div class="_1mf _1mj" data-offset-key="5hl6q-0-0"><span data-offset-key="5hl6q-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="dg65r-0-0">
+<div class="_1mf _1mj" data-offset-key="dg65r-0-0"><span data-offset-key="dg65r-0-0" style="color: #000000;">1. Làm nóng lò ở khoảng 170 – 180 độ C. Cắt bánh mì thành lát dày độ 1 – 1.5 cm. Làm nóng sốt bơ tỏi để sốt mềm nhuyễn. Dùng con dao hay cái thìa trét sốt lên hai mặt miếng bánh. Sau đó dùng kéo cắt thành các miếng nhỏ vừa ăn. </span></div>
+</div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="efd0t-0-0">
+<div class="_1mf _1mj" data-offset-key="efd0t-0-0"><span data-offset-key="efd0t-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="1bhbf-0-0">
+<div class="_1mf _1mj" data-offset-key="1bhbf-0-0"><span data-offset-key="1bhbf-0-0" style="color: #000000;">2. Cho vào lò nướng ở tầm 170 – 175 độ C, sau 7 – 10 phút đảo bánh để bánh chín giòn đều rồi nướng tiếp đến khi bánh giòn như ý. Nếu dùng nồi chiên không dầu thì bạn có thể nướng ở mức nhiệt cao hơn chút, và sẽ nhanh hơn do trong nồi chiên, bánh sẽ được nướng ở tất cả các mặt cùng lúc. </span></div>
+</div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="3o6a5-0-0">
+<div class="_1mf _1mj" data-offset-key="3o6a5-0-0"><span data-offset-key="3o6a5-0-0" style="color: #000000;"> </span></div>
+</div>
+<div class="" data-block="true" data-editor="c0ttq" data-offset-key="d15bk-0-0">
+<div class="_1mf _1mj" data-offset-key="d15bk-0-0"><span data-offset-key="d15bk-0-0" style="color: #000000;">Bạn có thể theo dõi thời gian để căn bánh giòn hay mềm theo sở thích. Càng nướng lâu bánh càng giòn, có thể đến mức giòn từ trong ra ngoài. Nhưng nếu muốn nướng lâu, nên hạ nhiệt độ thấp khoảng 150 – 160 độ C để bên ngoài bánh không bị cháy nhanh. Và măm thôi! :)</span></div>
+</div>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

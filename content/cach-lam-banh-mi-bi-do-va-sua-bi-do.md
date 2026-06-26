@@ -1,0 +1,101 @@
+---
+title: "Cách làm bánh mì bí đỏ và sữa bí đỏ"
+date: "2016-10-13"
+slug: "cach-lam-banh-mi-bi-do-va-sua-bi-do"
+categories: []
+tags: []
+image: "/wp-content/uploads/2016/10/cách-làm-bánh-mì-bí-đỏ-sữa-bí-đỏ-banner.jpg"
+description: "Học cách làm bánh mì bí đỏ và sữa bí đỏ tuyệt ngon qua video hướng dẫn của Savoury Days. Bánh mì mềm, thơm, nhân pho-mát mằn mặn beo béo với sữa..."
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Tháng Mười về, thu tới, cũng là thời điểm mà các sắc độ vàng lên ngôi. Hàng cây ở góc đường mới hôm nào còn đầy lá xanh biếc, giờ đã được nhuộm bởi đủ sắc vàng đỏ. Trên bãi cỏ trong vườn, dưới chân cây táo dại là một lũ quả be bé xinh xinh má hồng rám nắng đang đợi người tới nhặt. Và đi chợ, qua quầy rau nào cũng thấy có một góc rực lên màu vàng rơm của những quả bí đỏ, bí ngô mới được thu hoạch từ những cánh đồng, chờ người tới “đón”.</p>
+<p>Bí đỏ có thể mua quanh năm, nhưng có lẽ tầm này là nhiều và ngon nhất. Bí mùa này không chỉ để nấu ăn mà còn phục vụ mục đích trang trí: khắc đèn lồng cho Halloween hay để bày trong nhà, đặt ngoài vườn, “lai rai” dùng dần tới tận dịp Giáng sinh. Cho nên mùa này đi chợ ngang qua quầy bí thường mất nhiều thời gian hơn, không hẳn vì bận chọn lựa mà chủ yếu là vì mất thời gian… ngắm. Mùa này ở quầy bí ngoài chợ, “chẳng biết từ đâu ra” mà có rất nhiều loại bí hay ho: bí ngô “khủng lồ”, tròn xoe và to bự, nếu dùng để đẽo một cỗ xe chắc sẽ đặt vừa cả một “nàng công chúa 3 tuổi”, bí đỏ Nhật quả nhỏ, tròn vỏ vàng đỏ sậm mình hay tận dụng làm bát đựng súp, bí đỏ sáp <em>butternut squash </em>da láng mượt, quả nào quả nấy chắc nịch, bí ngô ngọt to hơn nắm tay một chút, có thể cho vào lò vi sóng quay 2 phút là thành món chè ngọt thơm, và bí đủ hình thù để bày trang trí…</p>
+<p>Cả năm chỉ có một mùa bí, không mua thì thật không đành lòng. Nhất là khi giá thì quá rẻ và giá trị dinh dưỡng của bí thì khỏi phải nhờ tới Google cũng nghĩ ra cả rổ. Thế cho nên ngoài mấy món quen thuộc từ những mùa trước, lại phải đi lọ mọ tìm hiểu thêm một số món mới, cả mặn cả ngọt để “ăn nhanh kẻo hết mùa” :P</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/30263969586/" title=" rose cake 3 by LinhTrang9185, on Flickr"><img alt="cách làm bánh mì bí đỏ sữa bí đỏ" class="aligncenter" height="1000" loading="lazy" src=" https://c3.staticflickr.com/6/5637/30263969586_35479b2da0_c.jpg " width="667"/></a></p>
+<p>Món bánh mì bí đỏ này khá dễ làm, cực mềm và cực ngon. Nhưng thứ mình thích nhất là có thể nghịch với nó một chút để cho ra sản phẩm “đặc biệt” hơn thông thường một tí – là những trái bí bánh mì xinh xinh như trong hình. Dùng một quả bí đỏ sáp <em>butternut squash </em>tầm 1 kg, làm ra một mẻ bánh mì, phần còn lại để làm sữa bí đỏ, vậy là có bữa sáng ngon lành và siêu đủ chất. Mình nghĩ các em bé chắc là sẽ rất thích món này vì hình thù đáng yêu và mùi vị cũng ngon nữa (còn các bà mẹ thì hẳn sẽ rất ưng ở khoản trong bánh mì có “giấu” một loại rau cực kì bổ dưỡng, có nhiều vitamin và chất xơ, rất tốt cho trẻ nhỏ :)  ).</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<h2>CÁCH LÀM BÁNH  MÌ BÍ ĐỎ &amp; SỮA BÍ ĐỎ</h2>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: Khay nướng và tấm lót silicon hoặc giấy nến lót khay.</p>
+<p><span style="color: #800000;"><strong>Số lượng</strong></span>: 15 bánh nhỏ</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<ul>
+<li><em>1 kg bí đỏ (khoảng 2 lb. pumpkin, mình hay dùng butternut squash) </em></li>
+<li><em>120 ml (1/2 cup) sữa tươi không đường – hơi ấm </em></li>
+<li><em>42 g (3 tbsp) bơ nhạt – đun chảy (dùng bơ động vật sẽ ngon hơn, nếu bơ có muối thì bỏ muối trong công thức) </em></li>
+<li><em>1 quả trứng (60 g tính cả vỏ) </em></li>
+<li><em>50 g (1/4 cup) đường vàng (light brown sugar) </em></li>
+<li><em>3 g (1/2 tsp) muối </em></li>
+<li><em>6 g (2 tsp) men instant </em></li>
+<li><em>325 ~ 350 g (khoảng 2.5 cup) bột mì đa dụng </em></li>
+<li><em>khoảng 1 lít sữa tưoi và 100 – 200 g sữa đặc có đường để làm sữa bí đỏ </em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Ghi chú:</strong></span></p>
+<p>1. Nếu dùng bí đỏ xay đóng hộp (pumpkin puree) thì cần khoảng 130 g (1/2 cup) cho 1 công thức bánh mì.</p>
+<p>2. Chọn mua đúng loại men <em>instant (</em>là một dạng men khô nhưng không cần kích hoạt men trước khi dùng)</p>
+<p>3. Có thể thay 50 g đường vàng bằng 40 g đường trắng. Bánh mì này không ngọt nhiều, nếu bạn muốn ăn ngọt thì có thể tăng đường.</p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<div>
+<p>Video hướng dẫn cách làm bánh mì bí đỏ &amp; sữa bí đỏ đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo <a href="https://youtu.be/WlVWZbOUXIs" target="_blank"><strong>link này</strong></a> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="/demo-flan-creme-caramel-kem-caramel/" target="_blank">cách làm bánh flan này.</a> </strong></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/WlVWZbOUXIs" width="560"></iframe></div>
+</div>
+<p> </p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><strong>TÓM TẮT CÁC BƯỚC</strong></p>
+<p>1. Gọt vỏ bí, bỏ hạt, rửa sạch rồi cắt miếng nhỏ. Cho bí vào khay lót giấy bạc. Bọc kín khay bằng một tờ giấy bạc khác. Nướng bí ở 230 độ C/ 446 độ F trong khoảng 30 – 4o phút tới khi bí chín mềm, có thể dễ dàng nghiền nát bằng dĩa (nĩa). Lấy bí ra âu, xay hoặc nghiền thật nhuyễn.</p>
+<ul>
+<li>Thời gian nướng bí sẽ thay đổi tùy vào loại và độ chín của quả bí</li>
+<li>Thay vì nướng, bạn có thể hấp bí nhưng nướng sẽ cho bí ngon hơn</li>
+</ul>
+<p>2. Cho vào âu trộn sữa tươi, bơ đun chảy, 130 g (1/2 cup) bí đỏ vừa nghiền. Đánh tan nhẹ 1 quả trứng, đong lấy 25 gram (1/2 quả), cho phần trứng này vào âu, trộn đều với sữa, bơ và bí. Giữ phần trứng còn lại để quét mặt bánh trước khi nướng.</p>
+<p>3. Cho đường và muối vào âu quấy đều.</p>
+<p>4. Cho men vào âu, trộn đều. Lưu ý: nhiệt độ của hỗn hợp trong âu không được cao hơn 40 độ C, nếu không men có thể bị chết.</p>
+<p>5. Cho bột vào âu trộn đều bằng thìa hay phới tới khi nguyên liệu hoà quyện rồi nhồi nhẹ nhàng bằng tay. Khi ta có một khối bột đồng nhất thì dùng khăn ẩm đậy kín âu, để nghỉ khoảng 10 – 15 phút.</p>
+<p>6. Nhồi tới khi bột chuyển thành một khối mịn, dẻo, đàn hồi tốt, có cảm giác hơi dính khi chạm vào nhưng bột không dính hẳn vào tay, có thể kéo dãn bột thành màng mỏng mà không bị rách.</p>
+<p>* <span style="text-decoration: underline;"><strong>Lưu ý:</strong></span></p>
+<p>– Lượng bột có thể thay đổi tuỳ theo độ hút nước của từng loại bột. Cho một công thức này, lượng bột cần sử dụng có thể dao động trong khoảng 300 – 350 g (130 g tương đương 1 cup). Nếu nhồi bằng tay thì bột khá dính khoảng 5 phút đầu, sau đó sẽ hết dính. Nếu bột quá ướt thì dùng thêm bột khô. Nếu khối bột cứng, khó nhồi, khó mịn thì thêm từng thìa nhỏ sữa rồi nhồi đều. Bột cần mềm, dẻo và dễ nhồi (bột khô sẽ làm bánh khô và cứng, không để được lâu).</p>
+<p>– Bạn có thể dùng máy để nhồi thay vì nhồi tay.</p>
+<p>7. Dùng một ít dầu ăn quét lên thành âu dùng để ủ bột. Cho khối bột vào âu, lật bột cho dầu ăn bao quanh bột thành một lớp mỏng (giúp bột không bị khô trong khi ủ). Đậy âu bằng khăn ẩm. Ủ bột ở nhiệt độ phòng tới khi bột nở gấp đôi. Thời gian ủ khoảng 45 – 70 phút tuỳ nhiệt độ ủ, bột sẽ nở nhanh hơn ở nơi nóng ẩm.</p>
+<p>8. Sau khi ủ, lấy bột ra khỏi âu, nhồi lại 2 – 3 phút cho bột mịn. Dùng cân chia bột thành 15 phần bằng nhau, mỗi phần khoảng 40 – 45 gram.</p>
+<p>9. Vê các phần bột thành các viên tròn. Chuẩn bị khay nướng có lót tấm nướng silicon hoặc giấy nến.</p>
+<p>10. Tạo hình bí đỏ: ở bước này, chúng ta có 2 cách tạo hình như sau:</p>
+<p>– Cách 1: dùng kéo cắt bột:</p>
+
+
+<ul>
+<li>Đặt các viên bột lên khay, chừa khoảng cách giữa các viên bột khoảng 3 – 4 cm.</li>
+<li>Xoa bột khô vào lòng bàn tay để chống dính, ép nhẹ cho viên bột dẹt hơn</li>
+<li>Nhúng đầu lưỡi kéo vào dầu ăn. Dùng kéo cắt viên bột để tạo ra các “cánh”, giống như một bông hoa.</li>
+<li>Lưu ý nhúng đủ dầu ăn khi cắt vì dầu ăn sẽ giúp các vết cắt tách rời, không dính vào nhau khi bột nở (trong lúc ủ và nướng)</li>
+</ul>
+<p>– Cách 2: dùng chỉ buộc:</p>
+<ul>
+<li>Sau khi vê tròn bột, dùng một sợi chỉ dài, buộc quanh bột để chia thành 8 múi.</li>
+<li>Sau khi buộc chỉ xong, viên bột sẽ khá giống với quả măng cụt (:D)</li>
+<li>không nên buộc quá chặt vì bột sẽ tiếp tục nở khá to trong khi ủ lần 2 và nướng</li>
+</ul>
+<p>* <strong>Ưu và nhược điểm của mỗi cách làm:</strong></p>
+<p>– Cách thứ nhất làm rất nhanh và gọn gàng, quả bí khá đẹp, nhưng không giống thật bằng cách 2. Ngoài ra, nếu làm cách 1 thì không cho nhân vào quả bí được.</p>
+<p>– Cách thứ hai cho quả bí đẹp và giống thật hơn. Làm cách này cũng có thể thêm nhân vào trong quả bí. Nhưng mất nhiều thời gian hơn ở đoạn buộc và cắt dây sau khi nướng bánh xong (cắt dây mất khá nhiều thời gian).</p>
+<p>– Trong video mình dùng nhân pho-mát, bạn có thể thay  bằng <a href="/banh-su-kem-choux-a-la-creme-demo-mot-so-luu-y-khi-lam-choux/" target="_blank"><strong>nhân kem trứng custard</strong></a>, đậu đỏ… tuỳ thích. Lưu ý dùng lượng nhân vừa phải (nhân = khoảng 1/3 trọng lượng vỏ) vì cho quá nhiều nhân sẽ dễ làm bánh bị bục khi nướng.</p>
+<p>11. Dùng hộp hay khay lớn đậy khay bánh. Ủ lần 2 tới khi bột nở khoảng 75%. Lưu ý che đậy cẩn thận, tránh để mặt bánh bị khô.</p>
+<p>12. Làm nóng lò ở 180 độ C/ 356 độ F khoảng 15 – 20 phút trước khi nướng (nên làm nóng lò khi bột nở được khoảng 70%).</p>
+<p>13. Dùng phần trứng còn thừa lại (25 g), pha với 5 ml (1 thìa cafe) nước, quấy đều rồi lọc qua rây. Dùng chổi nhẹ nhàng quét một lớp mỏng trứng lên bánh. Việc quét trứng sẽ giúp mặt bánh bóng và nâu vàng đẹp.</p>
+<p>Sau khi quét trứng xong, nhúng đũa hay vật tương tự vào dầu ăn rồi cắm vào giữa bánh, tạo một lỗ trống để đặt cuống bánh.</p>
+<p>14. Nướng bánh ở 175 – 180 độ C (347 – 356 độ F) trong 20 – 22 phút, tới khi bánh vàng nâu bóng. Nếu làm bánh với kích thước khác thì thời gian sẽ thay đổi tuỳ vào độ to nhỏ của viên bột. Không nướng quá lâu, bánh dễ bị khô.</p>
+<p>Sau khi nướng khoảng 17 phút, nên xoay lại khay nướng để bánh chín vàng đều.</p>
+<p>15. Lấy bánh ra khỏi lò. Khi bánh còn nóng thì quét kem tươi hoặc bơ chảy lên mặt bánh (quét ít một để kem hay bơ từ từ ngấm). Kem tươi hoặc bơ giúp bánh bóng và thơm hơn.</p>
+<p>Nếu dùng dây buộc bí thì để bánh nguội rồi cắt dây.</p>
+<p>16. Dùng hạt hồ đào, bẻ đôi rồi cắm vào bí để làm cuống. Ngoài ra, có thể dùng quế thanh làm cuống, bánh sẽ rất thơm ;)</p>
+<p>Nên dùng bánh trong ngày. Nếu không dùng hết thì cho vào túi nilon đậy kín, dùng trong 2 ngày.</p>
+<p><strong>CÁCH LÀM SỮA BÍ ĐỎ</strong></p>
+<p>Nếu dùng công thức trên, sau khi làm bánh xong, ta sẽ còn thừa kha khá bí đỏ xay. Phần bí này các bạn có thể dùng làm sữa bí đỏ, rất ngon và dễ, như sau:</p>
+<p>– Cho bí đỏ và sữa tươi vào cối xay theo tỉ lệ 1 phần bí: 2 phần sữa. Ví dụ 100 g bí thì dùng 200 ml sữa.</p>
+<p>– Dùng máy xay sinh tố đánh đều, hoặc trộn tay với phới lồng cũng không sao. Nếu thấy sữa hơi đặc quá thì thêm sữa tươi.</p>
+<p>– Để có vị ngọt, bạn có thể dùng bất kì chất tạo ngọt nào bạn thích như đường, sữa đặc có đường, mật ong, maple syrup… Nếu muốn tăng vị ngọt và béo ngậy thì nên dùng sữa đặc có đường.</p>
+<p>– Thay cho sữa tươi, bạn có thể dùng các loại sữa khác như sữa hạnh nhân, sữa gạo hoặc sữa dừa… nếu đang ăn kiêng.</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

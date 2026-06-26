@@ -1,0 +1,42 @@
+---
+title: "Mỳ Ý & ngao sốt bơ chanh"
+date: "2011-05-04"
+slug: "my-y-ngao-sot-bo-chanh"
+categories: []
+tags: []
+image: "/wp-content/uploads/2011/05/My-Y-ngao-610x350.jpg"
+description: "Cách làm Mỳ Ý sốt ngao bơ chanh - công thức đơn giản nhưng chuẩn vị Ý, kèm theo các lưu ý để thành công"
+---
+
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Sợi mỳ dẻo quyện với nước sốt đậm đà vị ngọt của ngao và chua nhẹ của cà chua, rất thơm mùi vị đặc trưng của basil (húng tây) nữa. Và thích nhất là cảm giác vừa ăn mỳ vừa mút từng con ngao ngấm sốt í ;;) Khâu chế biến thì cực kì đơn giản và nhanh gọn, độ 15-20 phút là có một đĩa mỳ rất ngon và lạ miệng cho cả nhà rồi ;)</p>
+<div style="clear: both;"><a href="http://www.flickr.com/photos/62073972@N06/5685215140/" title="03 by cookingmania, on Flickr"><br/>
+<img alt="03" class="aligncenter" height="349" loading="lazy" src="http://farm6.static.flickr.com/5144/5685215140_24c3e0061d.jpg" width="500"/></a></div>
+<div style="clear: both;"></div>
+<div style="clear: both;"><span style="color: #800000;"><strong>Nguyên liệu</strong></span></div>
+<ul>
+<li style="clear: both;"><em>Mỳ Ý cho 2 người ăn<br/>
+</em></li>
+<li style="clear: both;"><em>1 kg ngao nguyên vỏ, rửa sạch hết đất cát trên ngao. Có thể ngâm ngao vào nước lạnh pha muối &amp; một quả ớt cay dầm nát để ngao nhả bớt đất cát.</em></li>
+<li style="clear: both;"><em>150 g cà chua bi thái hạt lựu</em></li>
+<li style="clear: both;"><em>3 tép tỏi băm nhuyễn</em></li>
+<li style="clear: both;"><em>1 thìa canh (tablespoon/ 15 ml)</em><em> nước cốt chanh</em></li>
+<li style="clear: both;"><em>30 g bơ nhạt</em></li>
+<li style="clear: both;"><em>Muối, tiêu</em></li>
+<li style="clear: both;"><em>1 nắm húng tây (basil) – thái nhỏ (chừa lại vài lá để trang trí)</em></li>
+</ul>
+<p><strong><span style="color: #800000;">Cách làm</span>:</strong></p>
+<p>1. Đun nước sôi, luộc mỳ Ý với chút muối và dầu ăn theo thời gian như chỉ dẫn trên bao. Mỳ luộc chín đổ ra rổ, để ráo nước. Không xả nước lạnh (sẽ làm mì bị sượng và cứng).</p>
+<p>2. Trong lúc đợi mỳ chín thì làm sốt ngao như sau:</p>
+<p>– Làm nóng nồi hoặc chảo có nắp đậy, để lửa nhỏ cho bơ vào chảo đun chảy. Đợi bơ vừa chảy hết thì cho tỏi vào phi thơm.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>– Đợi tỏi có mùi thơm thì cho cà chua vào, xào sơ khoảng 1 phút.</p>
+<p>– Cho ngao vào, đảo qua rồi đậy nắp vung cho ngao chín (để lửa vừa -&gt; to)</p>
+<p>– Ngay khi ngao mở nắp cho nước cốt chanh, húng tây, muối &amp; tiêu vào chảo. Xóc đều cho ngao ngấm sốt.</p>
+<p>Vậy là xong sốt ngao.</p>
+<p>– Công đoạn cuối cùng là gắp mỳ ra đĩa. Đổ sốt ngao lên trên. Trang trí thêm vài lá húng tây &amp; măm thôi.</p>
+<p>Bon appetit! :)</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,156 @@
+---
+title: "Một số lưu ý trong làm bánh – Những thất bại phổ biến & Nguyên nhân"
+date: "2011-10-15"
+slug: "mot-so-luu-y-trong-lam-banh-nhung-that-bai-pho-bien-nguyen-nhan"
+categories: ["Kinh nghiệm nấu nướng", "Làm bánh"]
+tags: ["baking", "làm bánh", "mẹo nấu ăn"]
+image: ""
+description: ""
+---
+
+<p>Đợt vừa rồi mình gặp khá nhiều vấn đề với chuyện baking, đầu tiên là vụ dùng nhầm bột mà không biết là nhầm, sau đấy là lò nướng của mình dở chứng. Vứt đi không biết bao nhiêu trứng với bơ, đường, bột vào sọt rác :( Nhưng được cái là nhờ hỏng nhiều nên lại chịu khó đi tìm hiểu nguyên nhân &amp; đọc sách + tài liệu tham khảo trên mạng hơn. Có một số thứ khá hay nên mình dịch và tổng hợp lại vì nghĩ là chắc về sau sẽ có lúc còn cần dùng đến. Nhân tiện up lên blog luôn, hi vọng là sẽ có ích với các bạn cũng đang học làm bánh như mình ;)</p>
+<p>Các kinh nghiệm dưới này phần lớn là mình đọc được từ sách &amp; trên mạng, nguồn tham khảo được ghi ở cuối bài, một số chỗ có thêm kinh nhiệm của bản thân mình trong quá trình thực hành nữa. Nếu có chỗ nào chưa đúng hoặc cần bổ sung thì các bạn bảo mình với nhé. Many thanks :)</p>
+<p> </p>
+<p><span style="text-decoration: underline;"><strong>I. Các lưu ý cơ bản khi làm bánh</strong></span></p>
+<p><strong>1. Nguyên liệu</strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>– Sử dụng <em>nguyên liệu tươi mới và tốt nhất có thể.</em> Không sử dụng nguyên liệu gần hết hoặc đã hết hạn. Các loại bột nở, men nở nếu để lâu có thể cũng sẽ kém tác dụng. Với các loại bánh dùng nhiều bơ như pound cake, butter cake, … sử dụng bơ ngon sẽ giúp bánh ngon hơn. Với trứng, hãy <em>cố gắng dùng trứng tươi nhất có thể</em> (đặc biệt là khi làm các loại bánh dùng lòng trắng trứng đánh bông như sponge cake, chinffon,.. trứng kém tươi thì đánh sẽ kém bông, gây ảnh hưởng đến độ nở &amp; chất lượng của bánh).</p>
+<p>– <em>Cân đong các loại nguyên liệu chính xá</em>c. Sử dụng cân và bộ thìa đong tiêu chuẩn (theo tablespoon, teaspoon..). Không dùng đơn vị là thìa café hay thìa canh, và không đong kiểu áng chừng nhé.</p>
+<p>– Nhiệt độ của các nguyên liệu: Phần lớn các nguyên liệu (trứng, sữa, bơ) nên được để ở nhiệt độ phòng để giúp cho bánh đạt chất lượng tốt nhất (tức là nếu bảo quản trong tủ lạnh thì trước khi làm bánh nên để ra ngoài cho hết lạnh). Trường hợp ngoại lệ là kem tươi đánh bông, kem tươi để lạnh hoặc rất lạnh sẽ bông nhanh hơn là kem nguội. Ngoài ra còn 2 chú ý nữa là:</p>
+<p>+ Trứng nếu cần tách lòng đỏ và trắng thì nên tách khi còn lạnh sẽ dễ hơn</p>
+<p>+ Bơ để giúp nguội nhanh có thể cắt miếng nhỏ hoặc cán dẹt</p>
+<p>– <em>Luôn rây bột, bột nở và đường</em> để tránh bị vón cục.</p>
+<p><strong>2. Trộn bột</strong></p>
+<p>– Tuân thủ theo đúng quy trình trộn bột – không mix lung tung :D</p>
+<p>– Với <a href="/?p=729">creaming method</a> (cho pound cake, butter cake…), đánh bơ và đường đến khi bông xốp &amp; bơ chuyển sang màu trắng ngà. Thời gian đánh là bao lâu thì rất khó xác định vì còn tùy công suất máy và lượng bơ. Nhưng mình thấy màu của bơ là một căn cứ rất tốt để xác định xem bơ đánh đã đạt hay chưa, nếu đánh đúng thì bơ sẽ chuyển sang màu gần như trắng.</p>
+<p>– Với <em>các loại bánh có sử dụng bột n</em>ở, cần lưu ý là sau khi trộn bột nở với chất lỏng thì <em>cố gắng trộn ít nhất có thể</em>. Chẳng hạn với <a href="/?p=532">muffin method</a> để làm muffin, pancake, waffle,.. hầu hết các tài liệu đều hướng dẫn là <em>chỉ trộn rất nhanh và vừa đủ để không còn bột khô trong bát.</em> Tuyệt đối không trộn đến khi hỗn hợp bột mịn mượt vì điều này sẽ làm cho bánh bị chai cứng, nở kém và có nhiều ống rỗng bên trong.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>– Nếu <em>sử dụng các loại quả khô</em> thì nên <em>rửa bớt lớp đường bên ngoài và xóc đều với một lớp bột khô,</em> rồi trộn vào hỗn hợp bột cuối cùng. Việc bao bột cho quả khô sẽ giúp các loại quả và hạt này không bị chìm xuống dưới đáy khi nướng bánh.</p>
+<p>– Trong quá trình trộn nên <em>thường xuyên vét thành âu</em> để bột được trộn đều.</p>
+<p>– Sau khi đổ bột vào khuôn thì <em>dùng spatula hoặc thìa gỗ dàn đều mặt</em>. Với các loại bánh “nặng” như pound cake có thể <em>gõ khuôn xuống bàn vài cái</em> để các bọt khí to vỡ bớt, giúp bánh mịn hơn.</p>
+<p>– Với các loại bánh có sử dụng lòng trắng trứng đánh bông hoặc kem tươi đánh bông, trộn bột đúng <strong><a href="/?p=910">kỹ thuật fold</a></strong> để giữ được độ bông xốp của nguyên liệu.</p>
+<p>– <em>Bột trộn xong nên mang đi nướng luôn,</em> để lâu dễ làm ảnh hưởng đến độ nở của bánh.</p>
+<p><strong>3. Nướng bánh</strong></p>
+<p>– Hiểu lò nướng của mình. Lò nướng tại gia đôi khi hay có vấn đề về nhiệt độ, chẳng hạn như nhiệt độ trong lò cao hơn hoặc thấp hơn nhiệt độ điều chỉnh bên ngoài (tốt nhất là nên có một cái nhiệt kế cho lò nướng). Hoặc lửa trên nóng hơn lửa dưới. Nắm được “bệnh” của lò thì nướng đỡ vất vả hơn.</p>
+<p>– Bật lò &amp; chỉnh nhiệt độ cần thiết <em>trước khi nướng khoảng 10-15 phút.</em></p>
+<p>– <em>Chống dính khuôn cẩn thận</em> (trừ những loại bánh yêu cầu không chống dính khuôn như chinffon). Ở bên này mình dùng loại spray chống dính khuôn, chỉ cần xịt đều vào lòng khuôn là xong, rất tiện. Có một cách khác là dùng bơ hoặc dầu ăn phết đều lên lòng và thành khuôn. Tiếp theo phủ bột kín đều rồi úp ngược khuôn cho bột thừa rơi ra ngoài.</p>
+<p>– <em>Khay nướng và khuôn thường được đặt ở chính giữa lò</em> (trừ trường hợp có ghi chú khác trong công thức hoặc lò có vấn đề về nhiệt độ :D). Các khuôn nướng <em>không được chạm vào nhau</em> vì sẽ làm ảnh hưởng đến việc truyền nhiệt &amp; độ nóng của khuôn. Khuôn nướng cũng <em>không được chạm vào thành lò</em>. Ngoài ra khuôn màu sáng và khuôn màu tối cũng hấp thụ nhiệt khác nhau (<em>khuôn tối màu hấp thụ nhanh hơn)</em> – nên lưu ý điều này. Với các khuôn tối màu, nên hạ nhiệt độ khoảng 25 độ F so với khuôn sáng màu. Mình thấy một số tài liệu khuyên là sử dụng khuôn sáng màu thì tốt hơn.</p>
+<p>– Thời gian nướng sẽ khác nhau tùy thuộc vào kích cỡ khuôn</p>
+<p>– <em>Chỉ nướng trên 1 khay trong lò</em> (không nướng nhiều khay 1 lúc)</p>
+<p>– Kiểm tra bánh chín khi bánh còn đang ở trong lò. Bánh chín là khi thành bánh hơi co lại &amp; tách khỏi thành khuôn (trừ sponge &amp; chinffon). Ngoài ra, khi cắm một que tăm vào chính giữa bánh rút lên thấy sạch &amp; khô.</p>
+<p>– Nếu trong công thức không có chỉ dẫn đặc biệt thì bánh thường được để trong khuôn từ 5-10 phút rồi mới lấy ra để lên rack cho nguội hẳn. Bánh khi còn nóng thì thường dễ vỡ/ gẫy cho nên cần nhẹ tay &amp; cẩn thận khi lấy bánh ra khỏi khuôn.</p>
+<p>– Nếu muốn trang trí bánh với kem, đường, … thì bánh cần phải để nguội hẳn rồi mới trang trí.</p>
+
+
+<p> </p>
+<p><span style="text-decoration: underline;"><strong>II.Thất bại thường gặp và nguyên nhân  </strong></span></p>
+<p><strong>1. Dấu hiệu thất bại ở bên ngoài bánh</strong></p>
+<p><em><strong>* Bánh bị cháy mặt – Phần thành bánh quá sẫm màu và cứng:</strong></em></p>
+<ul>
+<li>Nhiệt độ lò quá cao</li>
+<li>Lửa trên quá lớn – với bánh bị cháy mặt (có thể khắc phục bằng cách đậy 1 tờ giấy bạc lên mặt bánh sau khoảng 1/3 – 1/2thời gian nướng)</li>
+</ul>
+<p><em><strong><span id="more-977"></span>* Bánh xẹp trong quá trình nướn</strong></em>g</p>
+<ul>
+<li>Di chuyển bánh trong khi nướng</li>
+<li>Nhiệt độ lò nướng quá thấp hoặc quá cao</li>
+<li>Trộn bột quá nhiều</li>
+<li>Quá nhiều bột nở (bánh sẽ nở rất nhanh &amp; sau khoảng ½ thời gian nướng thì xẹp rất nhanh)</li>
+</ul>
+<p><em><strong>* Bánh xẹp sau khi lấy ra khỏi lò</strong></em></p>
+<ul>
+<li>Bánh nướng chưa đủ thời gian</li>
+<li>Mở lò quá sớm</li>
+<li>Nhiệt độ trong lò quá cao</li>
+</ul>
+<p><em><strong>* Mặt bánh nhô cao hoặc nứt</strong></em></p>
+<ul>
+<li>Nhiệt độ lò nướng quá cao làm bên ngoài bánh chín mà bên trong chưa chín hẳn &amp; tiếp tục nở gây ra hiện tượng trên.</li>
+<li>Bánh không được đặt ở đúng vị trí (chính giữa lò – nếu nhiệt độ trong lò ổn định)</li>
+</ul>
+<p><em><strong>* Bánh nở không đều</strong></em></p>
+<ul>
+<li>Bột chưa được trộn đều trong hỗn hợp</li>
+<li>Nhiệt độ lò nướng không ổn định</li>
+<li>Nhiệt độ lò quá cao</li>
+</ul>
+<p><em><strong>* Bánh dính chặt vào khuôn</strong></em></p>
+<ul>
+<li>Chống dính khuôn chưa tốt</li>
+<li>Quá nhiều đường hoặc trong bánh có sử dụng các loại syrup hay mật ong</li>
+</ul>
+<p><em><strong>* Bột bánh tràn ra khỏi khuôn</strong></em></p>
+<ul>
+<li>Khuôn không đúng cỡ</li>
+<li>Bột đổ quá nhiều trong khuôn – thường chỉ nên đổ tối đa 2/3 khuôn</li>
+</ul>
+<p><em><strong>* Bánh xẹp quá nhiều ở quanh thành bánh</strong></em></p>
+<ul>
+<li>Chống dính khuôn quá tay</li>
+<li>Các khuôn ở quá gần nhau trong lò nướng</li>
+<li>Quá ít bột trong khuôn</li>
+<li>Trộn bột quá nhiều</li>
+<li>Quá ít chất lỏng</li>
+<li>Bánh nướng quá lâu</li>
+</ul>
+<p><strong>2. Dấu hiệu thất bại ở bên trong bánh</strong></p>
+<p><em><strong>* Bánh đặc và nặng</strong></em></p>
+<ul>
+<li>Quá nhiều chất lỏng</li>
+<li>Trộn bột chưa đúng cách, trộn quá nhiều (với công thức bánh có dùng bột nở), hoặc trộn mạnh tay làm vỡ bọt khí trong trứng đánh bông (với các loại bánh dùng trứng hoặc lòng trắng trứng đánh bông).</li>
+<li>Trứng đường đánh chưa đủ bông (với các loại bánh dựa vào các bọt khí trong trứng đánh bông để giúp bánh nở như sponge cake, chinffon..).</li>
+<li>Nhiệt độ lò nướng quá thấp</li>
+</ul>
+<p><em><strong>* Hạt hoặc quả khô trôi xuống đáy bánh</strong></em></p>
+<ul>
+<li>Các hạt hoặc quả này quá to và nặng</li>
+<li>Hỗn hợp bột quá lỏng/ nhão hoặc được trộn quá kĩ nên không thể giữ được các hạt này</li>
+<li>Đường hoặc syrup bao ngoài hạt chưa được rửa bớt. Ngoài ra hạt nên được phủ một lớp bột khô trước khi trộn với hỗn hợp bột bánh.</li>
+<li>Nhiệt độ lò quá thấp.</li>
+</ul>
+<p><em><strong>* Bánh quá khô</strong></em></p>
+<ul>
+<li>Quá nhiều bột hoặc bột nở (baking powder), muối nở (baking soda)</li>
+<li>Quá ít chất béo hoặc đường</li>
+<li>Bánh nướng quá lâu hoặc nhiệt độ lò nướng quá cao</li>
+</ul>
+<p><em><strong>* Ruột bánh ướt</strong></em></p>
+<ul>
+<li>Bánh bị di chuyển trong quá trình nướng</li>
+<li>Bánh nướng chưa đủ thời gian hoặc nhiệt độ lò nướng quá thấp</li>
+<li>Bột nở có vấn đề</li>
+</ul>
+<p><em><strong>* Ruột bánh có nhiều ống rỗng</strong></em></p>
+<ul>
+<li>Trộn bột quá nhiều</li>
+<li>Nhiệt độ lò nướng quá cao</li>
+</ul>
+<p><em><strong>* Mặt bánh có 1 số chấm trắng (với sponge cake)</strong></em></p>
+<ul>
+<li>Đường chưa tan hết. Khi trộn đường với bột bánh nên cho rất từ từ &amp; ít một, trộn cho đường tan rồi mới cho thêm.</li>
+</ul>
+<p>Ngoài các vấn dề thường gặp ở trên thì khi trộn bột làm butter cake hoặc pound cake đôi khi hay xảy ra hiện tượng bột bị lợn cợn (mọi người thường gọi là ốc trâu). Nguyên nhân của hiện tượng này là do nhiệt độ của các nguyên liệu không đồng đều, nóng lạnh khác nhau, hoặc do trứng hay các loại chất lỏng được cho vào quá nhanh và quá nhiều. Cách khắc phục là cho chất lỏng (trứng, sữa.. ) chậm &amp; từ từ, từng chút một. Cách thứ hai là thêm 1-2 thìa bột vào đánh tiếp cho bột mịn trở lại. Hoặc cũng có thể ngâm âu bột vào tô nước ấm rồi đánh đến khi hỗn hợp mịn.</p>
+<p>Hik, chắc là hết rồi đấy, nếu phát hiện thêm cái gì hay ho thì mình sẽ bổ sung sau nhé.</p>
+<p><em>Nguồn tham khảo:</em></p>
+<p>1. Professional Baking (Wayne Gissle)</p>
+<p>2. The best recipe – Cook’s Illustrated</p>
+<p>3. <a href="http://www.chefrick.com">http://www.chefrick.com</a></p>
+<p>4. <a href="http://www.joyofbaking.com">http://www.joyofbaking.com</a></p>
+<p>5. <a href="http://www.great-recipes.com">http://www.great-recipes.com</a></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

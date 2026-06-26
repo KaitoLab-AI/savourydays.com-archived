@@ -1,0 +1,80 @@
+---
+title: "Món ăn sinh viên: Cánh gà rán ngũ vị & Một số cách ướp cánh gà để chiên/ rán"
+date: "2011-11-08"
+slug: "mon-an-sinh-vien-canh-ga-ran-ngu-vi-mot-so-cach-uop-canh-ga-de-chien-ran"
+categories: []
+tags: []
+image: "/wp-content/uploads/2011/11/CanhGaRan1.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Cánh gà chiên hay rán là món dễ làm và dễ ăn. Mình xếp nó vào mục “Món ăn sinh viên” vì nó là món đơn giản, nhưng mình nghĩ món ăn này hoàn toàn có thể là một món ngon trong bữa cơm gia đình hàng ngày được. Làm cánh gà rán có nhiều cách nhưng ở trong bài này mình không tập trung vào khâu rán, cụ thể hơn là mình sử dụng cách đơn giản nhất là rán ngập dầu đến khi cánh gà chín, vì với các bạn sinh viên thì mình nghĩ dùng cách này là hợp lí, nhanh và dễ ;) Vì cách làm đơn giản rồi nên phần còn lại chỉ là ướp cánh gà với gia vị gì thôi. Công thức mà mình giới thiệu chính trong bài này là cách ướp của mẹ mình, rất thơm &amp; ngon, mình làm mời bạn bè ai cũng khen. Và nó dễ nữa. Ngoài cách ướp này ra ở cuối bài mình giới thiệu thêm một vài cách ướp đơn giản khác để các bạn có thể lựa chọn và đổi món nhé (vì thay đổi cách ướp là sẽ có một món mới rùi ;) ).<br/>
+<a href="http://www.flickr.com/photos/55490207@N05/6325419705/" title="Deep fried chicken wings by LinhTrang9185, on Flickr"><img alt="Deep fried chicken wings" class="aligncenter" height="640" loading="lazy" src="http://farm7.static.flickr.com/6099/6325419705_1e7f4535e7_z.jpg" width="434"/></a></p>
+<p><strong>Nguyên liệu</strong></p>
+<ul>
+<li><em>500gram cánh gà</em></li>
+<li><em>1 teaspoons (5 gram) bột gia vị (mình dùng bột canh Hải Châu)</em></li>
+<li><em>1 tablespoon dầu hào (oyster sauce)</em></li>
+<li><em>2/3 tablespoon đường</em></li>
+<li><em>1/3 teaspoon bột tỏi (hoặc thay bằng 2 tép tỏi bằm nhuyễn)</em></li>
+<li><em>1/3 teaspoon bột hành (hoặc thay bằng 1 củ hành khô bằm nhuyễn)</em></li>
+<li><em>¼ teaspoon bột ngũ vị hương (five spice powder)</em></li>
+<li><em>Dầu ăn</em></li>
+</ul>
+<p>* <strong><em>Ở trên mình sử dụng đơn vị chuẩn là tablespoon và teaspoon, cách quy đổi là 1 tablespoon = 15gram, 1 teaspoon = 5gram. Nhưng nếu các bạn không có gì để cân đong thì có thể pha riêng phần gia vị ướp trong một cái bát, nếm cho vừa mặn ngọt rồi cho vào ướp cánh gà nhé. Với 400gram cánh gà thì pha hỗn hợp gia vị ướp bằng khoảng 1/4-1/3 bát con (để ăn cơm) là vừa. ngoài ra thì tất nhiên là mặn ngọt có thể thay đổi tùy khẩu vị nha :)</em></strong></p>
+<p><span id="more-1159"></span></p>
+<p><strong>Cách làm</strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>1. Cánh gà cắt ở phần khớp thành các miếng nhỏ. Rửa sạch rồi lấy giấy làm bếp thấm khô. Ướp cánh gà với các gia vị trong phần nguyên liệu. Cách dễ nhất là dùng túi zip-lock (loại túi có khóa kéo hay có mép dính được lại với nhau), cho cánh gà và gia vị vào rồi xóc cho đều. Nếu không thì cho tất cả vào bát to rồi dùng đũa, thìa hoặc tay :D đảo cho gia vị &amp; cánh gà được trộn đều với nhau. Bọc nilon kín rồi để tủ lạnh tối thiểu 90 phút, lâu hơn thì càng tốt.</p>
+<p>2. Dùng chảo hoặc nồi nhỏ (để tiết kiệm dầu). Cho dầu ăn vào sao cho đủ ngập cánh gà. Để lửa vừa. Đợi dầu sôi thì bỏ cánh gà vào rán đến khi chín vàng. Cánh gà chín gắp ra đĩa có lót giấy thấm dầu.</p>
+<p><em>Ghi chú một (1): nếu nhà có lò vi sóng và bát có nắp dùng cho lò vi sóng thì các bạn có thể cho cánh gà vào quay trong lò vi sóng cho chín sơ rồi rán thì sẽ nhanh hơn.</em></p>
+<p><em>Ghi chú hai (2): nếu ướp cánh gà với tỏi và hành bằm thì khi rán cố gắng gạt hành &amp; tỏi ra ngoài để tránh hành tỏi bằm cháy đen bám vào cánh gà, vừa không đẹp, vừa không tốt. </em></p>
+<p>Cánh gà rán thì chỉ thế thôi, xong rùi (dễ nhỉ ;) ) Phần tiếp theo thì mình dành để giới thiệu một vài cách ướp cánh gà khác mà mình biết và hay dùng (định lượng này cho 400gram cánh gà nhé). Cả nhà tham khảo nhé :)</p>
+<p><strong>Cách 1: Cánh gà chiên xì dầu</strong></p>
+<ul>
+<li><em>1 tablespoon xì dầu (nước tương/ soy sauce/ soya sauce)</em></li>
+<li><em>0.5 tablespoon xì dầu ngọt (sweet soy sauce/ Kejap manis) hoặc thay bằng đường</em></li>
+<li><em>1 mẩu gừng băm nhỏ hoặc ¼ teaspoon bột gừng</em></li>
+<li><em>2 tép tỏi băm nhỏ hoặc ¼ teaspoon bột tỏi</em></li>
+<li><em>1 teaspoon rượu gạo (không bắt buộc)</em></li>
+<li><em>Vài giọt dầu vừng (không bắt buộc)</em></li>
+</ul>
+<p><strong>Cách 2: Cánh gà chiên mật ong</strong></p>
+<ul>
+<li><em>2 teaspoons bột gia vị</em></li>
+<li><em>2 teaspoons dầu hào</em></li>
+<li><em>1 teaspoons đường</em></li>
+<li><em>1 củ hành khô bằm nhỏ</em></li>
+<li><em>mật ong</em></li>
+</ul>
+<p><strong>Cách 3: Cánh gà chiên Coke</strong></p>
+<ul>
+<li><em>1 tablespoon xì dầu</em></li>
+<li><em>1 mẩu gừng bằm nhỏ</em></li>
+<li><em>2 tép tỏi bằm nhỏ</em></li>
+<li><em>0.5 tablespoons dầu hào</em></li>
+<li><em>200ml Coca cola (loại có đường)</em></li>
+</ul>
+<p>Thịt gà ướp với tất cả các loại gia vị trên, trừ Coke. Rán sơ thịt gà (dùng chảo không dính đáy phẳng, cho rất ít dầu ăn, gần như là rán áp chảo). Rán cho cánh gà chín vàng mặt ngoài rồi đổ Coke vào, để lửa vừa, đun đến khi Coke cạn thành nước sốt sệt &amp; bóng quyện vào thịt gà (tham khảo thêm về món ăn này tại <a href="/ga-nuong-cherry-coke/">ĐÂY</a>)</p>
+<p><strong>Cách 4: Cánh gà chiên nước mắm &amp; Cánh gà rang me </strong></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<ul>
+<li><em>1 teaspoon bột gia vị</em></li>
+<li><em>1 củ hành khô bằm nhỏ</em></li>
+<li><em>2 tép tỏi bằm nhỏ</em></li>
+<li><em>¼ teaspoon bột ngũ vị hương</em></li>
+<li><em>Nước mắm &amp; đường vừa ăn (khoảng 2-3 thìa nước mắm, 1-2 thìa đường) </em></li>
+<li><em>1/3 bát nước (bát con ăn cơm)</em></li>
+</ul>
+<p><em>* Lượng mắm, đường và nước có thể thay đổi tùy khẩu vị<br/>
+</em></p>
+<p>Ướp thịt gà với bột gia vị ngũ vị hương, để khoảng 30-60phút. Rán cánh gà ngập dầu đến chín.</p>
+<p>Bắc một cái chảo sạch lên bếp, để lửa vừa, đun nóng một thìa dầu ăn trong chảo, phi thơm hành tỏi, cho thịt gà vào chảo, cho nước, nước mắm &amp; đường, đun lửa vừa – to đến khi mắm đường cạn lại và quyện với cánh gà.</p>
+<p>Món này có thể biến tấu thành cánh gà rang me là pha thêm nước cốt me với mắm &amp; đường để có thêm vị chua, cũng rất ngon.</p>
+<p>Đây là mấy cách ướp thịt gà quen thuộc mà mình biết :) Hi vọng là các bạn sẽ thích. Đợt tới có thời gian mình sẽ giới thiệu thêm mấy công thức cho cánh gà nướng và cánh gà chiên giòn nhé ;)</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,53 @@
+---
+title: "Cách làm BÚN MĂNG VỊT"
+date: "2019-02-28"
+slug: "cach-lam-bun-mang-vit"
+categories: []
+tags: []
+image: "/wp-content/uploads/2019/02/cách-làm-bún-măng-vịt-banner.jpg"
+description: "Cách làm BÚN MĂNG VỊT: Đây là một món bún mà cả gia đình mình đều rất thích, với nước dùng chua thanh nhẹ, măng giòn và thịt vịt mềm ngậy béo. Khó nhất với"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #000000;">Đây là một món bún mà gia đình mình đều rất thích. Thịt vịt mềm, so với ngan thì mỡ màng hơn, ăn với nước dùng chua nhẹ và măng giòn, lúc nào cũng thấy ngon miệng hết. Quan trọng nhất khi làm món này, mình nghĩ là cách chế biến thịt vịt: làm sao để thịt vịt không bị hoi, nước luộc vịt được thơm, không bị đầy váng mỡ. Cách làm dưới đây là do một thành viên trong SD team giới thiệu, cả team sau khi nếm thử bún đều đồng ý nó là cách chuẩn 10/10. Hơi cầu kì một chút vì cần áp chảo vịt trước khi nấu nước dùng, nhưng vịt cực kì ngon: thịt vịt chín đều, săn chắc, phần da giòn giòn, không còn tí mỡ nào dưới da, và nước luộc thì khá là trong, thơm lừng mùi gừng hành nướng. Nếu chưa làm theo cách này bao giờ thì bạn thử xem nhé, có khi chỉ thử một lần thôi là đủ nhớ mãi ấy ;)</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8196" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunmangvit_final-1024x683.jpg" width="1024"/></p>
+<h2>CÁCH LÀM BÚN MĂNG VỊT</h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu:</strong></span></p>
+<ul>
+<li><em><span style="color: #000000;">1,2 kg vịt (1 con nhỏ)</span></em></li>
+<li><em><span style="color: #000000;">500 gr măng tươi</span></em></li>
+<li><em><span style="color: #000000;">1 kg bún tươi</span></em></li>
+<li><em><span style="color: #000000;">80 gr gừng</span></em></li>
+<li><em><span style="color: #000000;">40 gr hành khô</span></em></li>
+<li><em><span style="color: #000000;">30 gr hành lá</span></em></li>
+<li><em><span style="color: #000000;">30 gr húng quế</span></em></li>
+<li><em><span style="color: #000000;">20 gr mùi tàu</span></em></li>
+<li><em><span style="color: #000000;">100 ml rượu trắng</span></em></li>
+<li><em><span style="color: #000000;">50 gr muối hạt</span></em></li>
+<li><em><span style="color: #000000;">30 gr gia vị</span></em></li>
+<li><em><span style="color: #000000;">30 ml nước mắm</span></em></li>
+<li><em><span style="color: #000000;">15 ml dầu ăn</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm:</strong></span></p>
+<p><span style="color: #000000;">1. Sơ chế nguyên liệu:</span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="color: #000000;">– Vịt mua về rửa lại thật sạch, lấy muối hạt chà xát khắp mình vịt, sau đó dùng gừng đập dập và rượu trắng xoa lại 1 lần nước cả trong ngoài con vịt, rửa lại cho sach, để ráo nước. Chặt riêng cổ, cánh chân để hầm nước dùng, phần còn lại chặt thành 4 miếng</span></p>
+<p><span style="color: #000000;">– Măng tươi ngâm với nước muối loãng trong 15 phút, rửa sạch, thái mỏng.</span></p>
+<p><span style="color: #000000;">– Gừng rửa sạch, cạo sơ</span></p>
+<p><span style="color: #000000;">– Hành khô để riêng 2 củ to, còn lại bóc vỏ, thái mỏng</span></p>
+<p><span style="color: #000000;">– Hành lá, rau húng , mùi tàu nhặt bỏ rễ, cọng già, rửa sạch, cắt riêng phần đầu hành trắng, còn lại thái nhỏ.</span></p>
+<p><span style="color: #000000;">2. Hành củ và gừng nướng trên bếp hoặc chảo đến khi có mùi thơm thơm, hơi xém, cạo bỏ bớt phần cháy, đập dập. Bắc 1 nồi nước to lên bếp, cho hành gừng nướng vào nồi cùng với 2 thìa canh (loại dùng ăn phở) gia vị, đun sôi.</span></p>
+<p><span style="color: #000000;">3. Bắc 1 chảo to lên bếp, cho vào 1 thìa dầu ăn, đun nóng. Đặt từng miếng thịt vịt vào áp chảo trên lửa vừa, úp mặt da xuống trước cho phần mỡ trong da được chảy ra hết, áp chảo khoảng 3’ mỗi mặt đến khi phần da co lại, hơi vàng, thịt săn.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8198" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunmangvit3-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">4. Gắp thịt vào nồi nước đang sôi, hạ lửa xuống mức thấp nhất, đậy kín vung đun 10’, hớt sạch bọt. Tắt bếp, để thịt trong nồi thêm 10’ nữa, vớt thịt ra, để nguội, sau đó lọc xương, thái thịt thành những miếng vừa ăn</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8199" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunmangvit4-1024x683.jpg" width="1024"/></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #000000;">5. Dùng lại chảo vừa rán vịt, nếu có nhiều mỡ vịt tiết ra thì chắt bỏ bớt, để lại khoảng 2 thìa canh mỡ, chờ chảo nóng cho hành khô thái mỏng vào phi đến khi hành thơm. Cho măng vào xào 5’ đến khi măng bắt đầu mềm, nêm vào chảo măng 2 thìa cafe gia vị, 1 thìa cafe nước mắm, xào thêm 2’ cho ngấm. Trút hết măng vào nồi nước luộc cùng với cổ cánh vịt, đun nhỏ lửa khoảng 1 tiếng hoặc đến khi măng thật mềm.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8200" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunmangvit5-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">6. Bún trần qua nước sôi, cho 1 lượng vừa phải vào bát, xếp thịt vịt, hành trần, rau thơm hành thái nhỏ lên trên, chan đầy nước dùng và măng, ăn nóng kèm ớt tươi hoặc tương ớt.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8201" height="682" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bunmangvit6-1024x682.jpg" width="1024"/></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,104 @@
+---
+title: "Cách làm BÁNH THUYỀN HẠT"
+date: "2021-12-01"
+slug: "cach-lam-banh-thuyen-hat"
+categories: []
+tags: []
+image: ""
+description: "cách làm bánh thuyền hạt đang rất hot dành cho mùa lễ hội năm nay. Công thức kèm video hướng dẫn chi tiết với các"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400; color: #000000;">Chào mùa lễ hội bằng một món bánh siêu đẹp, siêu ngon, siêu hot suốt mấy hôm nay 😁</span></p>
+<p><span style="font-weight: 400; color: #000000;">Đây là món mà mình nghĩ là cực kỳ hợp để mời khách, biếu tặng hay kinh doanh mùa lễ Lết. Phần vỏ bánh rất nhẹ và xốp, nhân bánh gồm 1 phần sốt caramel thơm mùi bơ sữa, ngọt ngào, ngậy béo (gần giống vị kẹo Alpenliebe), kèm với các loại hạt giòn giòn bùi bùi nữa. Ngon thật!!! Hình thức thì siêu xinh, nhiều màu sắc, kiểu nhìn là đã thấy vui rùi ấy. Cách làm thì dễ và nhanh lắm 😉</span></p>
+<p><span style="font-weight: 400; color: #000000;">Lần này mình làm 3 vị sốt: Caramel mặn – hạnh nhân; Caramel cafe sữa dừa (siêuuuu ngon siêu quyến rũ); Vị kem sữa cơ bản. Mỗi loại sốt ngon 1 kiểu nhưng đều rất hợp các các loại hạt và quả. </span></p>
+<p><span style="font-weight: 400; color: #000000;">Phần đế bánh thì mình mua sẵn, các cửa hàng bán đồ làm bánh hiện đều đang có rất nhiều. Phần đế này nếu thích các bạn có thể tự làm đế bánh tart, link công thức mình sẽ để ở dưới. Nhưng đế bánh mua sẵn hợp với nhân hơn rất nhiều vì ít ngọt, nhẹ và giòn xốp. Dùng đế bánh tart nhiều bơ sữa e là sẽ bị ngọt và ngậy quá.</span></p>
+<p><span style="font-weight: 400; color: #000000;">👉 Cách làm đế bánh tart: <a href="/video-cach-lam-tart-trung-hong-kong/">/video-cach-lam-tart-trung-hong-kong/</a></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<h2>CÁCH LÀM BÁNH THUYỀN HẠT</h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu (cho khoảng 9 bánh)</strong></span></p>
+<p><strong><span style="color: #000000;">A. Caramel – Hạnh nhân</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">30 gram đường vàng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram nước (đủ ngập mặt đường)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">35 gram kem tươi</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">5 gram bơ động vật, không muối</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">15 gram siro ngô (corn syrup)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">½ thìa cafe nước cốt chanh</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">1 nhúm muối</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">90 gram hạnh nhân lát, rang chín</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">B. Caramel cafe dừa – hạt quả</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">30 gram đường vàng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">50 gram nước (đủ ngập mặt đường)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">35 gram nước cốt dừa</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">5 gram bơ động vật, không muối</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">15 gram siro ngô (corn syrup)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">½ thìa cafe bột cafe đen hòa tan</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">* Nhân:</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">130 gram hạt tổng hợp, rang chín</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">20 gram quả khô</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">Dừa sấy không đường</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">C. Kem sữa – hạt quả</span></strong></p>
+<ul>
+<li><em><span style="font-weight: 400; color: #000000;">30 gram đường vàng</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">35 gram kem tươi</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">5 gram bơ động vật, không muối</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">15 gram siro ngô (corn syrup)</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">½ thìa cafe nước cốt chanh</span></em></li>
+<li><em><span style="font-weight: 400; color: #000000;">130 gram hạt tổng hợp, rang chín</span></em></li>
+<li><span style="font-weight: 400; color: #000000;">20 gram quả khô</span></li>
+</ul>
+<p><strong><span style="color: #000000;">* Lưu ý về nguyên liệu:</span></strong></p>
+<p><span style="font-weight: 400; color: #000000;">– Dùng bơ động vật, không muối. Không nên dùng các loại bơ thực vật như bơ Tường An, Meizan.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Dùng đường vàng sốt sẽ thơm hơn đường trắng.</span></p>
+<p><span style="font-weight: 400; color: #000000;">– Lưu ý về hạt và quả khô:</span></p>
+<p><span style="font-weight: 400; color: #000000;">+ Có thể dùng bất kì loại hạt nào bạn thích. Ưu tiên các loại hạt to như hạnh nhân, óc chó, hạt điều để hạt giữa được độ giòn, không bị ngấm sốt quá nhiều.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400; color: #000000;">+ Lượng hạt và quả khô có thể thay đổi tùy sở thích. Càng nhiều hạt bánh càng giòn và ít ngọt, chỉ cần đảm bảo hạt được bao đều bởi một lớp sốt để hạt kết dính với nhau.</span></p>
+<p><span style="font-weight: 400; color: #000000;">+ Hạt nên rang/nướng chín trước khi dùng. Có thể rang trên lửa nhỏ nhất hoặc nướng ở 160 độ C trong 6 – 8 phút tới khi hạt chín thơm.</span></p>
+<p><span style="font-weight: 400; color: #000000;">+ Quả khô ngâm mềm trước khi dùng. Có thể ngâm với nước ấm trong 30 – 40 phút hoặc ngâm với rượu qua đêm trước khi làm.</span></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/Y7Mr0_n7p60" width="560"></iframe></div>
+<p><strong><span style="color: #000000;">A. Caramel mặn – hạnh nhân</span></strong></p>
+<ol>
+<li><span style="font-weight: 400; color: #000000;"> Cho đường, nước vào nồi. Đun ở lửa vừa tới khi hỗn hợp sôi thì lắc nhẹ nồi, hạ xuống lửa vừa – nhỏ và đun tới khi đường chuyển màu vàng cánh gián.</span></li>
+</ol>
+<p><span style="font-weight: 400; color: #000000;">LƯU Ý: </span></p>
+<p><span style="font-weight: 400; color: #000000;">– Trong suốt quá trình đun, KHÔNG được khuấy, nếu không sẽ gây ra tình trạng lại đường. </span></p>
+<p><span style="font-weight: 400; color: #000000;">– Không nên đun trên lửa quá nhỏ hay từ đầu, nhiệt không đủ cũng sẽ dễ gây lại đường.</span></p>
+<p><span style="color: #000000;"><span style="font-weight: 400;">– </span><span style="font-weight: 400;">Nên chọn loại nồi tốt, dày một chút để tránh làm sốt bị lại đường. Nếu bạn đun kiểu gì cũng thấy bị lại đường thì hãy thử đổi cái nồi khác xem sao nhé.</span></span></p>
+<ol start="2">
+<li><span style="font-weight: 400; color: #000000;"> Cho bơ, kem tươi và corn syrups vào nồi, khuấy đều cho kem và bơ tan hoàn toàn. Tiếp tục khuấy và đun trên lửa nhỏ, thường xuyên dùng nhiệt kế kiểm tra. Đun tới khi hỗn hợp đạt khoảng 110 – 120 độ C thì tắt bếp. Quá trình đun sẽ mất khoảng 1.5 – 2 phút.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Bắc nồi khỏi bếp, cho nước cốt chanh và 1 nhúm muối vào nồi khuấy đều. Nếm thử nếu cần thêm vị mặn thì thêm muối.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Cho toàn bộ hạnh nhân lát vào, trộn đều. Để hỗn hợp nguội bớt.</span></li>
+</ol>
+<p><strong><span style="color: #000000;">B. Caramel cafe sữa dừa</span></strong></p>
+<ol>
+<li><span style="font-weight: 400; color: #000000;">Các bước đun đường thao tác tương tự như sốt caramel mặn.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Sau khi cho nước cốt dừa, kem tươi, corn syrups vào, cho thêm ½ thìa cafe bột cafe đen hòa tan, khuấy đều. Đun tới khi hỗn hợp đạt khoảng 110 – 120 độ C thì tắt bếp. Quá trình đun sẽ mất khoảng 1.5 – 2 phút.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Bắp nồi khỏi bếp. Cho toàn bột hạt và quả vào, trộn đều. Để hỗn hợp nguội bớt.</span></li>
+</ol>
+<p><strong><span style="color: #000000;">C. Kem sữa</span></strong></p>
+<ol>
+<li><span style="font-weight: 400; color: #000000;"> Cho toàn bộ nguyên liệu vào nồi, khuấy đều.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Đun trên lửa vừa tới khi hỗn hợp đạt 110 – 120 độ C thì tắt bếp.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Cho toàn bột hạt và quả vào, trộn đều. Để hỗn hợp nguội bớt.</span></li>
+</ol>
+<p><strong><span style="color: #000000;"> Hoàn thiện</span></strong></p>
+<ol>
+<li><span style="font-weight: 400; color: #000000;"> Khi hỗn hợp nhân đã nguội và trở nên dẻo. Dùng bao tay ni long lấy nhân và dàn đều trên bánh. Việc để nhân nguội bớt rồi dùng tay lấy nhân thì dễ và sạch sẽ hơn khá nhiều so với việc đổ nhân lỏng.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Nướng bánh ở 155 – 160 độ C trong khoảng 20 phút.</span></li>
+<li><span style="font-weight: 400; color: #000000;"> Sau khi nướng xong, ngay khi bánh còn nóng, gắn thêm dừa sấy khô vào bánh cafe dừa. Với bánh sốt kem sữa thì có thể gắn thêm 1 vài quả khô có màu đỏ đẹp như cranberry, dâu sấy.. lên trên mặt để trang trí (quả không lăn qua sốt nên có màu đẹp). </span></li>
+<li><span style="font-weight: 400; color: #000000;"> Để bánh giòn hơn, sau khi nướng xong, hạ nhiệt độ lò xuống khoảng 90 – 100 độ C. Sấy bánh trong khoảng 25 – 30 phút cho bánh khô giòn. </span></li>
+<li><span style="font-weight: 400; color: #000000;"> Để bánh trong hộp/túi kín, dùng trong khoảng 2 – 3 tuần.</span></li>
+</ol>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

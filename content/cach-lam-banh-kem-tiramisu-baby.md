@@ -1,0 +1,88 @@
+---
+title: "Cách làm bánh kem Tiramisu “baby”"
+date: "2016-08-10"
+slug: "cach-lam-banh-kem-tiramisu-baby"
+categories: []
+tags: []
+image: "/wp-content/uploads/2016/08/Cách-làm-bánh-tiramisu-banner.jpg"
+description: "Cách làm bánh Tiramisu kiểu baby gồm 2 tầng bánh gato mềm xốp với kem mascarpone trắng mịn, thơm ngậy ngọt ngào. Công thức kèm video hướng dẫn chi tiết"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Mình rất thích mùi cà phê nhưng không uống được cà phê – chuyện này hình như kể trên blog vài lần rùi nhỉ – cho nên mỗi khi lên cơn nghiện cà phê thì thường là đi làm bánh :D Và bánh thường nghĩ tới nhất là Tiramisu, vì nhanh và dễ, độ ngon thì khỏi nói rồi.</p>
+<p>Lần này cơn nghiện có nặng đô hơn mọi khi một chút, không chỉ thèm cà phê mà còn là thèm cà phê cùng với vị chocolate thật đậm. Cũng không phải là vô cớ. Hồi xưa lúc còn ở Bỉ, cạnh trường nơi mình làm việc có một quán cafe sinh viên, giá hạt dẻ nhưng đồ uống ngon tuyệt. Quán này cũng là nơi đầu tiên dạy cho mình biết thế nào là <em>hot chocolate</em> (sô-cô-la nóng) đúng kiểu Bỉ: chocolate ngon bẻ nhỏ, đổ sữa đun nóng vào, đợi cho chocolate chảy ra rồi quấy lên. Uống kiểu này xong thì mọi thể loại chocolate milk với Milo coi như không tồn tại trên đời. Thực đơn của quán có nhiều loại <em>hot chocolate </em>với nhiều vị khác nhau như quế, vani, hạt dẻ.. nhưng thứ mình thích nhất là Espresso chocolate. Không có nhiều Espresso, chỉ vừa đủ để tạo hương cà phê thơm thật thơm với một chút vị đắng thôi, nhưng cũng đủ để thoả mãn cơn nghiền.</p>
+<p>Rời nước Bỉ, món Espresso chocolate cũng không có trong thực đơn hàng tuần nữa. Nên làm món bánh này cũng là một kiểu “tưởng nhớ” món doping thần kì đã cứu rỗi linh hồn mình khỏi những cơn buồn ngủ trong rất nhiều buổi chiều đông, mưa, gió, rét, lạnh xa xưa :P Món bánh ngày hôm nay gồm 2 tầng bánh đậm vị chocolate, được tẩm đẫm syrup cà phê và rượu Rum, xen giữa là hai lớp kem Mascarpone mềm thơm và béo ngậy, với bột cacao đắng rắc trên mặt. Cách làm về cơ bản giống với <a href="/cach-lam-banh-kem-dau-tay-kem-video/" target="_blank"><strong>bánh ga-tô kem dâu tây</strong></a> mà mình đã giới thiệu cách đây vài tháng. Trước hết làm một bạt bánh cuộn. Sau đó cắt ra thành nhiều miếng bánh rồi ghép lại với nhau thành một ổ bánh kem nhiều tầng.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/28858773986/" title=" Cách làm bánh Tiramisu by LinhTrang9185, on Flickr"><img alt=" cách làm bánh Tiramisu" class="aligncenter" height="427" loading="lazy" src=" https://c3.staticflickr.com/8/7645/28858773986_b02a50dbf3_z.jpg " width="640"/></a></p>
+<p>So với làm một bánh lớn trong khuôn to rồi xẻ thành nhiều lớp thì làm kiểu bạt bánh cuộn này đơn giản và dễ thành công hơn nhiều. Vì bạt bánh thấp (mỏng) nên khả năng bánh bị xẹp do nhiệt lò thấp hơn so với khi làm một ổ bánh lớn. Nói cách khác, chỉ cần biết cách trộn bột là gần như sẽ làm bánh thành công. Từ ổ bánh to này, mình tiếp tục cắt ra thành nhiều miếng nhỏ. Bánh be bé xinh xinh và vừa miệng, mình nghĩ hợp nhất có lẽ là khi nhà đông người, hoặc có tiệc mời nhiều khách. Làm bánh kiểu này vừa nhanh, vừa rủi ro thấp mà vẫn đảm bảo được yếu tố ngon miệng, ấn tượng và đẹp mắt.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<h3>CÁCH LÀM BÁNH TIRAMISU “BABY”</h3>
+<p><span style="color: #800000;"><strong>Dụng cụ:</strong></span></p>
+<ul>
+<li>1 khay chữ nhật kích thước 25 x 38 cm (10 x 15 inches). Khay nhỏ hơn sẽ cho phần bạt bánh dày hơn. Nếu làm khay 20 x 30 cm và muốn bạt bánh mỏng như trong hình thì giảm công thức đi 1/4 (còn 3 trứng, các nguyên liệu còn lại giảm theo tỉ lệ 3/4, bao gồm cả phần kem Mascarpone)</li>
+<li>giấy nến lót khuôn</li>
+</ul>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong>A. Phần bánh</strong></p>
+<ul>
+<li><em>4 lòng đỏ trứng gà (18 – 20 g/ lòng đỏ)</em></li>
+<li><em>25 g (1.5 tbsp) đường</em></li>
+<li><em>60 ml (1/4 cup) sữa tươi không đường – nhiệt độ phòng</em></li>
+<li><em>25 g (2 tbsp) dầu ăn</em></li>
+<li><em>50 g (1/3 cup + 1 tbsp) bột mì đa dụng (có thể dùng bột làm bánh ngọt/ cake flour với lượng tương đương)</em></li>
+<li><em>15 g (2 tbsp) tinh bột ngô (corn starch)</em></li>
+<li><em>15 g (2 tbsp) bột ca cao nguyên chất không đường (không dùng bột pha nước uống như Milo)</em></li>
+<li><em>2 g bột cà phê tan (không bắt buộc)</em></li>
+<li><em>4 lòng trắng trứng (30 – 33 g/ lòng trắng) – nhiệt độ phòng</em></li>
+<li><em>một chút xíu muối</em></li>
+<li><em>1/4 thìa cafe (1 g) cream of tartar (hoặc nước cốt chanh/ dấm lượng tương đương)</em></li>
+<li><em>60 g (5 tbsp) đường</em></li>
+</ul>
+<p><strong>B. Phần kem Mascarpone</strong></p>
+<ul>
+<li><em>200 g (7 oz.) pho-mát Mascarpone – để mềm ở nhiệt độ phòng</em></li>
+<li><em>10 ml (2 tsp) rượu Rum</em></li>
+<li><em>5 ml (1 tsp) chiết xuất va-ni</em></li>
+<li><em>25 g (1.5 tbsp) đường</em></li>
+<li><em>120 ml (1/2 cup) kem tươi lạnh 30 – 35% béo</em></li>
+</ul>
+<p><strong>C. Phần syrup rượu cà phê</strong></p>
+<ul>
+<li><em>2 g bột cà phê hoà tan</em></li>
+<li><em>45 ml (3 tbsp) nước nóng</em></li>
+<li><em>10 ml (2 tsp) rượu Rum</em></li>
+</ul>
+<p>(*)<strong> Ghi chú:</strong></p>
+<p>– Nếu thay Mascarpone bằng cream cheese, bánh không hỏng nhưng sẽ không còn vị Tiramisu nữa và phần kem sẽ có một chút vị chua mặn từ cream cheese (ai không quen sẽ thấy vị hơi kì cục)</p>
+<p>– Có thể thay Rum bằng Brandy, Baileys, Marsala. Thiếu Rum không làm hỏng bánh nhưng sẽ bị mất vị Tiramisu vì vị rượu là một phần đặc trưng của Tiramisu.</p>
+<p>– Trong phần nguyên liệu (C) có thể thay 2 g bột cà phê với 45 ml nước nóng bằng 45 ml cà phê phin, độ đặc loãng tuỳ sở thích của bạn (muốn bánh đậm vị cà phê hay không).</p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Video các bước làm bánh đã được đăng tại <strong><a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days</a></strong>. Nếu không xem được video tại blog, các bạn có thể xem trực tiếp trong <strong><a href="https://youtu.be/0xaHpeX4f8I" target="_blank">link này</a> </strong>nhé. Video có chế độ bản đẹp HD. Các bạn có thể xem hướng dẫn cách chỉnh chế độ HD ở cuối bài viết <strong><a href="/demo-flan-creme-caramel-kem-caramel/" target="_blank">cách làm bánh flan này.</a> </strong>Ở dưới video là danh sách nguyên liệu và tóm tắt các bước làm bánh nha.</p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/0xaHpeX4f8I" width="560"></iframe></div>
+<p><strong>A. Phần bạt bánh</strong></p>
+<p>1. Bôi một lớp bơ mỏng lên lòng khuôn, lót giấy nến vào khuôn. Làm nóng lò nướng ở 170 độ C/ 338 độ F, hai lửa.</p>
+<p>2. Cho lòng đỏ trứng và 25 g đường vào âu, đánh bằng phới lồng tới khi hoà quyện, đường tan.</p>
+<p>3. Cho sữa và dầu ăn vào trộn cùng lòng đỏ và đường.</p>
+<p>4. Cho bột mì, bột ngô, bột cacao và bột cà phê (nếu thích bánh có vị cà phê) vào bát, trộn đều. Rây hỗn hợp bột này vào âu, trộn cùng lòng đỏ, sữa, dầu ăn… tới khi ta có một hỗn hợp mịn mượt. Để sang một bên.</p>
+<p>5. Đánh lòng trắng trứng với chút muối và cream of tartar (hoặc dấm/ nước cốt chanh) ở tốc độ thấp tới khi bông mịn như bọt xà phòng. Từ từ cho 60 g đường vào, đổ thành từng phần nhỏ, đánh ở tốc độ thấp khoảng 30 giây mới cho thêm đường. Sau khi đã cho hết đường, tăng tốc độ cao đánh tới khi trứng bông mềm (nhấc máy lên thấy có chóp kéo theo nhưng oặt xuống). Hạ tốc độ vừa, đánh tiếp tới khi trứng bông cứng (nhấc máy lên thấy có chóp kéo theo, đầu chóp có thể hơi cong một chút nhưng không bị oặt xuống). Trứng bóng, dẻo, mịn.</p>
+<ul>
+<li><strong>Lưu ý</strong>: <em>để trứng bông tốt thì lòng trắng trứng, âu đựng và que đánh không được dính các chất béo như lòng đỏ, dầu, mỡ, bơ…</em></li>
+</ul>
+<p>6. Cho 1/3 lượng lòng trắng vào âu đựng lòng đỏ, trộn nhẹ nhàng với phới lồng tới khi hoà quyện. Cho tiếp 1 phần lòng trắng, trộn với phới dẹt tới khi hoà quyện. Tiếp tục trộn tới khi hết lòng trắng. Lưu ý trộn nhẹ tay và đúng kĩ thuật fold, không quấy đảo mạnh tay và làm vỡ bọt khí trong lòng trắng trứng, khi nướng bánh sẽ nở kém và thiếu độ mềm xốp. Sau khi trộn xong, bột rất bông, mịn, không có bọt khí to.</p>
+<p>Nếu đánh lòng trắng quá bông, khi trộn sẽ có hiện tượng lòng trắng tạo thành từng cục và khó hoà quyện với hỗn hợp lòng đỏ. Để khắc phục, có thể trộn bằng phới lồng trước để làm lòng trắng bớt cứng, rồi tiếp tục trộn với phới dẹt như trong <a href="/cach-lam-banh-kem-dau-tay-kem-video/" target="_blank">video cách làm bánh kem dâu tây</a>.</p>
+<p>7. Đổ bột vào khay, nướng ở 165 ~ 170 độ C trong 25 – 30 phút, tới khi mặt bánh khô ráo, ấn nhẹ lên thấy đàn hồi tốt. Lấy bánh ra khỏi lò, gỡ khỏi khuôn, bóc bỏ giấy nến lót đáy bánh, để nguội.</p>
+<p><strong>B. Phần kem Mascarpone</strong>.</p>
+<p>1. Đánh kem Mascarpone (đã hết lạnh và mềm) với rượu, vani và đường trong 1 – 2 phút (tốc độ thấp) tới khi Mascarpone mịn nhuyễn.</p>
+<p>2. Cho kem tươi vào đánh cùng Mascarpone tới khi kem đặc và bông cứng. Để kem vào ngăn mát tủ lạnh tới khi dùng.</p>
+<p><strong>C. Phần syrup rượu cà phê: </strong>Hoà tan cà phê trong nước nóng, trộn với Rum, giữ ấm.</p>
+<p><strong>D. Ghép bánh</strong></p>
+
+
+<p>1. Cắt bạt bánh đã nguội thành 2 phần bằng nhau, hoặc 3 phần nếu muốn làm bánh cao.</p>
+<p>2. Đặt 1 bạt bánh lên giấy nến trên một mặt phẳng cứng (như thớt thái đồ ăn chẳng hạn). Dùng chổi tẩm bạt bánh với syrup rượu cà phê. Phủ 1/2 lượng kem Mascarpone lên. Đặt bạt bánh thứ 2 lên trên, lặp lại bước tẩm syrup và phủ kem. Để bánh vào ngăn mát tủ lạnh khoảng 2 giờ cho kem đặc hẳn.</p>
+<p>3. Dùng dao lữoi răng cưa hoặc dao sắc cắt bỏ phần rìa bánh, rồi cắt bánh thành nhiều miếng nhỏ. Sau mỗi nhát cắt, nên lau sạch dao. Bảo quản bánh trong ngăn mát tủ lạnh, dùng trong 2 ngày. Rắc bột cacao lên bánh ngay trước khi ăn. Trang trí bánh tuỳ thích.</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

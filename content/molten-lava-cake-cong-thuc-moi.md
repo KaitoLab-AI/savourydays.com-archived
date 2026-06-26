@@ -1,0 +1,84 @@
+---
+title: "Molten Lava Cake (công thức mới)"
+date: "2014-02-08"
+slug: "molten-lava-cake-cong-thuc-moi"
+categories: []
+tags: []
+image: "/wp-content/uploads/2014/02/MoltenLava.jpg"
+description: "cách làm bánh sô-cô-la núi lửa (molten lava cake) tuyệt ngon với phần nhân sô-cô-la lỏng ngọt ngào và ấm nóng, công thức kèm video hướng dẫn chi tiết"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><em>Chiếc bánh chocolate thơm lừng mềm mại nằm trên đĩa, mới nhìn qua thì tưởng chẳng hề khác những chiếc chocolate muffin hay cupcake thông thường. Nhưng bất ngờ sẽ đến ngay khi thực khách xắn miếng bánh đầu tiên: một dòng chocolate nâu bóng ngọt ngào trào ra từ nhân bánh, giống như nham thạch nóng bỏng ẩn sâu trong lòng núi lâu ngày vậy….</em></p>
+<p>….hihi…. với mình thì chỉ tưởng tượng ra thế kia cũng đã thấy thích rồi, nên nếu như cần một món tráng miệng để ghi điểm trong mắt khách mời, thì Molten Lava Cake hoàn toàn không phải là một sự lựa chọn tồi, nhỉ? :)</p>
+<p>Năm ngoái mình có giới thiệu <a href="/chocolate-souffle-va-lava-cake/">Chocolate Souffle Lava Cake</a>, mặc dù ăn rất ngon nhưng vì là Souffle nên phải ăn ngay sau khi lấy ra khỏi lò nướng, không thể để lâu và bánh cũng không úp ngược để lấy ra đĩa (cho đẹp :P) được. Nên năm nay mình thử nghiệm một công thức khác để khắc phục những điểm này.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/24835084042/" title="molten lava cake by LinhTrang9185, on Flickr"><img alt="molten lava cake" class="aligncenter" height="427" loading="lazy" src=" https://farm2.staticflickr.com/1463/24835084042_5a25aef097_z.jpg " width="640"/></a></p>
+<p>Công thức mới này có hai phần: Vỏ bánh I<a href="/incredibly-easy-chocolate-cake/">ncredibly Easy chocolate cake</a> và nhân Chocolate Ganache. Việc dùng Ganache giúp cho phần nhân bánh không chỉ ngon hơn mà còn lỏng hơn, dễ “phun trào” hơn so với cách làm chỉ dùng chocolate cake và nướng trong thời gian ngắn để ruột bánh còn ẩm. Ngoài ra, cả hai phần vỏ và nhân đều rất dễ làm, nên bạn nào chưa thạo làm bánh lắm cũng có thể mạnh dạn “thử tay nghề” được :) Bánh cũng có thể làm trước và “để dành” đến cuối bữa ăn mới lấy ra làm đồ tráng miệng.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>(*) <strong><em>Tháng 2/2016 mình làm lại món bánh này và quay video clip để các bạn dễ hình dung quy trình làm bánh. Trong video mình vẫn dùng công thức dưới đây, chỉ điều chỉnh lại nguyên liệu một chút để giúp cho công thức đơn giản hơn. Để tránh nhầm lẫn, ở phần dưới này mình đăng công thức mới nhất, sau khi đã chỉnh sửa nhé.</em></strong></p>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>: 12 khuôn Cupcake, mình dùng loại <a href="http://www.amazon.com/Wilton-Heart-Silicone-Baking-Count/dp/B000NBNHKQ/ref=sr_1_3?ie=UTF8&amp;qid=1455176746&amp;sr=8-3&amp;keywords=wilton+heart+silicone+cupcake" target="_blank">khuôn trái tim này của Wilton</a></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong>A. Chocolate Ganache</strong></p>
+<ul>
+<li><em>45 gr (3 Tbsp) bơ nhạt</em></li>
+<li><em>60 gr (1/4 C) kem tươi (30 – 40% béo)</em></li>
+<li><em>25 gr (3-1/2 Tbsp) bột ca cao nguyên chất</em></li>
+<li><em>35 gr (2-1/2 Tbsp) đường – xay mịn</em></li>
+<li><em>2 ml (1/4 tsp) vani chiết xuất (hoặc 10ml/ 2tsp rượu Rum/Brandy/Baileys… tùy thích)</em></li>
+</ul>
+<p><strong>B. Incredibly easy chocolate cake</strong></p>
+<ul>
+<li><em>160 gr (1-1/4 cup) bột mì đa dụng (all purpose flour)</em></li>
+<li><em>60 gr (1/2 C) bột cacao nguyên chất không đường</em></li>
+<li><em>160 gr (3/4 C) đường – xay mịn</em></li>
+<li><em>8 gr (2 tsp) bột nở (baking powder)</em></li>
+<li><em>1 trứng gà (50 gr/quả không tính vỏ) – nhiệt độ phòng </em></li>
+<li><em>100 gr (1/2 cup minus 1 Tbsp) sữa chua không đường – nhiệt độ phòng </em></li>
+<li><em>150 ml (2/3 C minus 2 tsp) sữa tươi không đường – nhiệt độ phòng </em></li>
+<li><em>75 gr (5-1/2 Tbsp) bơ nhạt – đun chảy, để nguội </em></li>
+<li><em>5 ml (1tsp) vanilla chiết xuất </em></li>
+</ul>
+<p>(*) <strong>Ghi chú: </strong></p>
+<ol>
+<li>Sử dụng bột cacao loại ngon sẽ cho bánh có mùi vị đậm đà, không dùng được các loại bột sữa cacao như Milo.</li>
+<li>Dùng bơ động vật sẽ ngon hơn bơ thực vật (magarine), đặc biệt là phần Ganache.</li>
+<li>Trong công thức này không thay thế tương đương được bột ca cao bằng chocolate.</li>
+</ol>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>Mời các bạn xem cách làm chi tiết trong video đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank"><strong>kênh YouTube của Savoury Days</strong></a> (các bạn nhớ đăng kí/ subscribe kênh để nhận được thông báo ngay khi video mới vừa đăng nhé). Các bạn có thể xem cụ thể trong video dưới hoặc trực tiếp tại <a href="https://youtu.be/Ac8-Gi9KodI" target="_blank"><strong>link này</strong></a>.</p>
+<p>Video có phụ đề tiếng Anh và tiếng Việt, các bạn có thể bấm nút CC và chọn Ngôn ngữ/ Language trong Setting để chọn phụ đề. Ngoài ra, nhớ chọn HD để xem video rõ nét và đẹp nhất nhé :)</p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/Ac8-Gi9KodI" width="560"></iframe></div>
+<p> </p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>TÓM TẮT CÁC BƯỚC LÀM BÁNH</p>
+<p><strong>A. Nhân Chocolate Ganache</strong></p>
+<p><span style="color: #ff0000;"><em>Chuẩn bị Ganache trước khi làm bánh tối thiểu 12 tiếng để Ganache có thời gian đông lại.</em></span></p>
+<p>1. Đun kem tươi và bơ đến hơi ấm nóng (<strong>không đun sôi), </strong>vừa đun vừa quấy đều, đến khi bơ vừa chảy hết, hỗn hợp hòa quyện thì dừng lại.</p>
+<p>2. Rây bột cacao và đường vào phần bơ sữa đun chảy, quấy đều đến khi ca cao và đường tan hết, hỗn hợp hòa quyện. Cho vani và rượu (nếu có) vào, quấy đều. Để nguội bớt.</p>
+<p>3. Chia Ganache thành 12 viên nhỏ, mỗi viên khoảng  13 – 14 gr. Mình dùng khuôn cakepop để chia ganache, các bạn có thể dùng khay làm đá hoặc khuôn cupcake nhỏ. Nếu không có khuôn thì để hỗn hợp nguội tới khi đặc sệt hơn thì dùng thìa chia ganache thành các viên tròn nhỏ. Đặt các viên Ganache này lên trên đĩa có lót giấy nến hoặc giấy bạc để chống dính. Cho vào ngăn đá tủ lạnh, để 10 – 12h cho Ganache đông cứng hẳn.</p>
+<p>*<em> Ganache ban đầu sẽ khá lỏng nhưng sẽ đặc dần lại. Nếu muốn Ganache đặc nhanh để dễ tạo hình thành viên tròn, các bạn có thể để Ganache vào ngăn mát tủ lạnh, nhưng nên theo dõi để tránh bị quá lâu, Ganache sẽ cứng hẳn lại.</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/12385396535/" title="IMG_4636 by LinhTrang9185, on Flickr"><img alt="IMG_4636" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7402/12385396535_0f1742d887.jpg" width="500"/></a></p>
+<p>(*) Để chia Ganache, có thể cho Ganache vào túi, hoặc dùng hai chiếc thìa, một chiếc múc Ganache, một chiếc gạt Ganache rơi xuống, giống như thao tác khi làm bánh Choux trong hình minh hoạ ở dưới. Hoặc có thể dùng thìa múc kem có cần gạt thì sẽ tiện hơn.</p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/6322324898/" title="Choux pastry - Method 4 by LinhTrang9185, on Flickr"><img alt="Choux pastry - Method 4" class="aligncenter" height="313" loading="lazy" src="http://farm7.staticflickr.com/6216/6322324898_4c190d37c8.jpg" width="500"/></a></p>
+<p style="text-align: center;"><em>Hình minh họa từ deliciousmagazine.co.uk </em></p>
+<p>Sau khi chia hết 12 viên Ganache, có thể dùng đầu ngón tay, nhúng qua dầu ăn rồi nắn lại cho các viên Ganache này được tròn trịa.</p>
+<p><strong>B. Chocolate cake</strong></p>
+<p>1. Chống dính khuôn bằng xịt chống dính hoặc quét một lớp bơ mỏng khắp lòng khuôn, rắc một lớp bột mỏng lên rồi úp ngược khuôn, gõ nhẹ cho bột thừa rơi ra ngoài. Làm nóng lò trước khi nướng từ 10-15 phút, nhiệt độ 190 độ C (hai lửa).</p>
+<p>2. Rây bột mì, bột cacao, đường, bột nở vào âu trộn. Trộn đều.</p>
+
+
+<p>3. Trong một âu khác, trộn đều bơ, trứng gà, sữa chua, sữa tươi và vanilla.</p>
+<p>4. Nhẹ nhàng đổ hỗn hợp ướt ở (3) vào hỗn hợp khô ở (2). Dùng thìa hoặc phới trộn nhanh tay đến khi hai hỗn hợp vừa đủ hòa quyện thì dừng lại. Lưu ý vét cả thành và đáy âu. Quá trình này sẽ mất khoảng 15-25 giây. <em>Chỉ trộn đến khi hỗn hợp vừa đủ ướt, bột có thể sẽ hơi lổn nhổn. Nhưng không trộn quá lâu đến khi bột mịn mượt, sẽ làm bánh nở kém, chai cứng và có nhiều ống khí rỗng bên trong. <a href="/nhat-ky-lam-banh-phan-2-muffins/">Xem thêm lưu ý trong bài về Muffin method</a>.</em></p>
+<p>5. Chia bột vào các khuôn như sau: Đổ bột bánh đầy khoảng 1/4 – 1/3 khuôn, sau đó đặt một viên Ganache vào chính giữa rồi phủ thêm một phần bột lên trên. Cần đổ bột làm sao để Ganache nằm hoàn toàn bên trong bột. Bột cao tối đa 4/5 khuôn để chừa chỗ cho bánh nở khi nướng.</p>
+<p>6. Đem bánh đi <strong>nướng ngay</strong> ở nhiệt độ 190 độ C (hai lửa) trong 10 phút. Khi viền ngoài bánh khá khô và hơi cứng nhưng phần giữa bánh vẫn còn mềm, ấn nhẹ ngón tay lên có cảm giác hơi phập phồng thì lấy bánh ra ngoài.</p>
+<p>(*) <strong><span style="text-decoration: underline; color: #ff0000;">Lưu ý</span>: </strong></p>
+<p>1. Nhiệt độ và thời gian nướng phù hợp là điều kiện quan trọng để giữ được phần ganache lỏng bên trong bánh. Với món bánh này, nướng thiếu thời gian một chút sẽ tốt hơn là nướng quá lâu. Do bánh nướng quá thời gian sẽ dễ bị khô và phần Ganache sẽ ngấm vào bánh, khi cắt bánh sẽ không đủ chất lỏng để trào ra.</p>
+<p><em>Nhiệt độ và thời gian nướng có thể thay đổi tùy theo lò. Nếu khi nướng có hiện tượng mặt bánh nứt nhiều và bánh nở rất nhanh trong lò thì cần hạ nhiệt độ. Nếu bên trong bánh quá khô, không còn lỏng thì nên giảm thời gian nướng và có thể tăng nhiệt độ. </em><em>Xem thêm về cách nướng bánh và chỉnh nhiệt độ/ thời gian nướng tại bài viết</em>: <strong>Cách chỉnh lò nướng</strong>: <a href="/lo-nuong-kinh-nghiem-nuong-banh/">Phần 1</a> – <a href="/kinh-nghiem-nuong-banh-phan-2/">Phần 2</a></p>
+<p>2. Ganache nhiều sẽ giúp bánh có lượng chất lỏng trào ra nhiều hơn. Nhưng không nên làm Ganache quá to so với phần vỏ bánh vì Ganache sẽ trào lên trong khi nướng nhiều hơn.</p>
+<p>Bánh ngon nhất là ăn ngay sau khi nướng, khi bánh còn nóng ấm. Có thể để bánh trong hộp kín ở nơi thoáng mát, nhiệt độ dưới 20 độ C (nếu dùng trong ngày hôm sau) hoặc bảo quản trong ngăn mát tủ lạnh từ 1 – 2 ngày. Khi dùng cho bánh vào lò vi sóng quay khoảng 15 – 30 giây (tùy công suất lò) cho bánh ấm nóng và phần Ganache lỏng trở lại.</p>
+<p>Bánh ngon hơn nếu dùng kèm kem tươi đánh bông (whipped cream), kem lạnh (ice cream) hoặc hoa quả ..</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

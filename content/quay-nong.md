@@ -1,0 +1,80 @@
+---
+title: "Quẩy nóng – Cách làm có & không dùng bột khai"
+date: "2013-10-12"
+slug: "quay-nong"
+categories: []
+tags: []
+image: "/wp-content/uploads/2013/10/QuayNong.jpg"
+description: "cách làm quẩy"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p style="text-align: left;">Cả tuần vừa rồi trời mưa gió, lạnh ơi là lạnh, có ngày nhiệt độ chỉ khoảng 4-5 độ C. Có đứa nghỉ ốm ở nhà, chẳng có việc gì làm nên lại… bày ra ăn :”&gt; Trời lạnh, các món rán và nướng được “ưu tiên. Và quẩy đứng đầu danh sách.</p>
+<p style="text-align: left;">Chuẩn bị sẵn nước chấm chua ngọt, rán xong cái nào “xử” ngay cái ấy, quẩy giòn thơm phức còn nóng hôi hổi, thấy sung sướng ghê gớm :D</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/10227378433/" title="IMG_3195 by LinhTrang9185, on Flickr"><img alt="IMG_3195" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7392/10227378433_43417cd531.jpg" width="500"/></a></p>
+<p>Nhưng mà ăn quẩy thì nhanh ngấy cho nên chẳng bao giờ “xử” hết ngay một mẻ, thể nào cũng còn thừa, để dành ăn cháo buổi sáng. Đang vào mùa Mussels (vẹm) béo núc ních, lại rẻ nên thay cho nồi cháo sườn, ta có món cháo vẹm (giả cháo trai) với rất nhiều quẩy, hành răm thơm thơm và thật nhiều tiêu, ớt ^.^</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/10227296036/" title="IMG_2741-1 by LinhTrang9185, on Flickr"><img alt="IMG_2741-1" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8552/10227296036_84050e2810.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Cách làm quẩy khá đơn giản, nhưng làm ra được chiếc quẩy giòn nở phồng đẹp không dễ tí nào. Có lẽ quan trọng nhất là cần làm nhiều cho quen tay. Nếu làm một (vài) lần đầu mà thấy quẩy không nở hoặc nở kiểu chỗ phồng chỗ lép (mặc dù làm y xì như công thức) là chuyện bình thường. Mình có thử khá nhiều cách làm khác nhau và cuối cùng vẫn thích <a href="http://khaitam.wordpress.com/2009/10/10/quẩy-nong-va-chao-sườn/">công thức của chị Khai Tâm</a> nhất, mặc dù mất thời gian đợi hơi lâu nhưng các công đoạn về cơ bản hầu như chẳng phải làm gì, cực kì nhẹ nhàng. Quẩy làm ra rất giống với quẩy ở nhà, thơm và giòn. Công thức cần dùng bột khai, mình có ghi chú thêm ở cuối phần nguyên liệu nhé.</p>
+<p><span style="color: #800000;"><strong>Thời gian (cả chuẩn bị bột và rán)</strong></span>: 5-5.5 tiếng</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong> </span>(làm được 36-40 cái, dài khoảng 10-12cm)</p>
+<ul>
+<li><em>500gram bột mì đa dụng</em></li>
+<li><em>5gram muối</em></li>
+<li><em>10gram đường</em></li>
+<li><em>250-300ml nước</em></li>
+<li><em>5gram bột khai</em></li>
+<li><em>5gram muối nở (baking soda)</em></li>
+</ul>
+<p>(*) <span style="color: #800000;"><strong>Ghi chú về nguyên liệu</strong></span>:</p>
+<p>– <b>Bột khai là thứ bắt buộc phải dùng </b>nếu muốn có quẩy giòn và rỗng ruột. Mình có thử một số công thức không dùng bột khai, nhưng không có công thức nào làm mình ưng ý và cho ra quẩy đúng kiểu cứng giòn, xốp nhẹ như quẩy rán ở nhà. Bột khai cũng là một chất giúp nở trong làm bánh, tuy không được sử dụng phổ biến như bột nở hay muối nở nhưng không độc hại cho sức khỏe.</p>
+<p><em><strong>Câu hỏi quan trọng là: Mua bột khai ở đâu?</strong></em></p>
+<p>Các bạn ở Việt Nam thì dễ rồi, có thể ra chợ hỏi các quầy hàng bán đồ khô. Nếu ở Hà Nội có thể tìm ở phố Hàng Buồm nhé.</p>
+<p>Các bạn ở nước ngoài thì có thể tìm mua tại Amazon hoặc Ebay, tên sản phẩm là baking ammonium/ Ammonium Carbonate/ Bakers’ ammonia… VD đây là kết quả tìm kiếm với từ khóa: “Baking ammonia”</p>
+<p><a href="http://www.amazon.com/gp/search/ref=a9_asi_1?rh=i%3Aaps%2Ck%3Abaking+ammonia&amp;keywords=baking+ammonia&amp;ie=UTF8&amp;qid=1381591255">http://www.amazon.com/gp/search/ref=a9_asi_1?rh=i%3Aaps%2Ck%3Abaking+ammonia&amp;keywords=baking+ammonia&amp;ie=UTF8&amp;qid=1381591255</a></p>
+<p>Các bạn ở Đức có thể tìm mua Hartshorn/ Hirschhornsalz trong siêu thị.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>(Còn các bạn ở Antwerp thì có thể alo bạn Trang để lấy nhé ;) )</p>
+<p>– <b>Nếu không có hoặc không muốn dùng bột khai</b>, có thể thay 5gram bột khai trong công thức bằng 5gram baking powder (bột nở) + 5gram baking soda (muối nở).  Tức là <strong>tổng cộng sẽ dùng 10gram baking soda + 5gram baking powder</strong>, đồng thời giảm 2gram muối trong công thức. Làm theo cách này, quẩy sẽ vẫn nở nhưng ruột khá đặc và mềm, giống kiểu bánh đùi gà mà các hàng rong ở nhà hay bán. Ăn vã thì hơi khó nhưng ăn với cháo hay phở vẫn ngon lành.</p>
+<p style="text-align: center;"><em>Quẩy nở to hơn (bên trái) là có dùng bột khai – quẩy bên phải (nhỏ – ruột đặc hơn) không dùng bột khai</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/10227286825/" title="IMG_3246 by LinhTrang9185, on Flickr"><img alt="IMG_3246" class="aligncenter" height="317" loading="lazy" src="http://farm4.staticflickr.com/3797/10227286825_b632d4969d.jpg" width="500"/></a><b></b></p>
+<p><span style="color: #800000;"><b>Cách làm </b></span></p>
+<p>1. Cho bột mì, đường, muối vào âu, trộn đều.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/10227395293/" title="IMG_3182 by LinhTrang9185, on Flickr"><img alt="IMG_3182" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8268/10227395293_e8835c8528.jpg" width="500"/></a></p>
+<p>2. Lấy 50ml nước từ lượng nước trong công thức, cho bột khai vào hòa tan. Lấy thêm 50ml nước nữa, cho muối nở vào, hòa tan. Nếu dùng bột nở &amp; muối nở cũng làm tương tự.</p>
+<p>3. Cho phần nước đã hòa tan bột khai và muối nở vào âu đựng bột mì. Trộn đều. Cho nốt phần nước còn lại, nhào trộn đều.</p>
+<p><b>Lưu ý</b>: <em>Lượng nước trong công thức thay đổi tùy theo loại bột. Bột làm quẩy rất khô ráo, hoàn toàn không dính tay, rất dễ nhào nặn. Với bột mì đa dụng có hàm lượng protein 10-11% thì lượng nước bằng khoảng 60% lượng bột là vừa đủ. Nếu dùng bột có hàm lượng Protein thấp hơn, nên giảm nước. Tốt nhất là cho nước ít hơn mức cần thiết (lượng nước bằng khoảng 50% bột), nếu cảm thấy bột quá khô thì cho thêm.</em></p>
+<p>Trộn cho các nguyên liệu hòa quyện, mất khoảng 1-2 phút. Dùng khăn ẩm đậy lên miệng âu. Để bột nghỉ 20 phút (lần nghỉ thứ 1).</p>
+<p style="text-align: center;"><em>Bột ở lần đầu tiên sẽ trông xù xì thế này </em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/10227382073/" title="IMG_3183 by LinhTrang9185, on Flickr"><img alt="IMG_3183" class="aligncenter" height="333" loading="lazy" src="http://farm8.staticflickr.com/7290/10227382073_140f3167d4.jpg" width="500"/></a></p>
+<p>2. Nhồi bột lần thứ 2, trong 1-2 phút cho mặt bột mịn hơn. Dùng khăn ẩm đậy âu, tiếp tục để bột nghỉ 20 phút (lần nghỉ thứ 2).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/10227293716/" title="IMG_3186 by LinhTrang9185, on Flickr"><img alt="IMG_3186" class="aligncenter" height="333" loading="lazy" src="http://farm4.staticflickr.com/3726/10227293716_c62a9a2ebb.jpg" width="500"/></a></p>
+
+
+<p>3. Nhồi bột trong 1-2 phút, mặt bột lúc này sẽ mịn hơn nữa. Dùng khăn ẩm đậy âu, để bột nghỉ thêm 20 phút (lần nghỉ thứ 3).</p>
+<p>4. Nhồi lại bột sơ qua, dàn bột thành miếng dày khoảng 1-1.5cm. Dùng khăn ẩm che mặt bột, để bột nghỉ 3-4 tiếng.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/10227293286/" title="IMG_3187 by LinhTrang9185, on Flickr"><img alt="IMG_3187" class="aligncenter" height="333" loading="lazy" src="http://farm6.staticflickr.com/5453/10227293286_29ab54573b.jpg" width="500"/></a></p>
+<p>* <b>Lưu ý</b>:</p>
+<p><em>– Làm quẩy theo công thức này không cần nhồi bột nhiều. Việc <strong>nhồi bột quá kĩ có thể làm cho quẩy nở kém.</strong></em></p>
+<p>– <em><strong>Không được rút ngắn</strong> các lần để bột nghỉ và thời gian đợi ủ bột, đặc biệt ở lần cuối cùng. Bột cần được ủ trong khoảng 2.5 – 4h đồng hồ. Ủ ít hơn hoặc lâu hơn đều có thể làm cho quẩy nở kém hoặc không nở được.</em></p>
+<p>– <em>Luôn có khăn ẩm hoặc nilon che bột, tránh để bột bị khô.</em></p>
+<p>5. Sau khi bột đã ủ hết thời gian cần thiết, nhẹ nhàng cán bột thành miếng hình chữ nhật. Nếu muốn làm quẩy giòn, nên cán bột thật mỏng, khoảng 2-3mm. Nếu muốn làm quẩy mềm hơn để ăn cháo hay phở, cán bột dày 7-8mm.</p>
+<p>6. Chuẩn bị dao cắt bột, 1 chiếc xiên tre và 1 cốc nước. Cắt bột thành các dải rộng khoảng 1- 1.5cm, dài 7-8cm. Dùng xiên tre nhúng vào nước, ép lên giữa miếng bột. Đặt miếng thứ hai lên, dùng xiên tre ép nhẹ. Hai miếng bột sẽ tự dính vào nhau. <i>Nếu làm một mình thì nên cắt hết quẩy rồi mới rán</i>.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/10227377793/" title="Quay nong by LinhTrang9185, on Flickr"><img alt="Quay nong" class="aligncenter" height="400" loading="lazy" src="http://farm4.staticflickr.com/3757/10227377793_94ee5b793d.jpg" width="500"/></a></p>
+<p>7. Chuẩn bị chảo/ nồi để rán quẩy. Chảo/ nồi nên có độ lớn gấp đôi chiều dài miếng bột sau khi cắt. Đổ dầu ăn ngập 3-4cm. <strong><i>Rán quẩy cần nhiều dầu. Tối thiểu, dầu phải đủ cao để có thể dìm quẩy xuống ngập trong dầu.</i></strong></p>
+<p>8. Đun dầu sôi rồi hạ nhiệt độ ở mức vừa. Kéo nhẹ hai đầu quẩy cho quẩy dài ra gấp rưỡi đến gấp đôi. Thả vào chảo dầu, rán đến khi chín vàng. Quẩy rán chín hoàn toàn sẽ hết mùi bột khai, nở đều, vàng đẹp, giòn xốp.</p>
+<p>(*) <b><span style="color: #ff0000;">Lưu ý</span>: </b>Để quẩy nở đẹp, nở đều và chín vàng, không còn mùi bột khai thì <strong>nhiệt độ dầu ăn và kỹ thuật rán là hai yếu tố rất quan trọng:</strong><br/>
+<b></b></p>
+<p>– <strong>Dầu ăn để rán quẩy cần phải đủ nóng</strong>  để “kích” cho bột khai và muối nở hoạt động, giúp quẩy nở. Dầu ăn đủ nóng thì thả quẩy vào, quẩy sẽ lập tức nở và nổi lên.</p>
+<p>– <strong>Tuy nhiên, dầu ăn không được quá nóng</strong>, sẽ làm cho bên ngoài quẩy chín vàng nhanh, bên trong chưa chín hết, làm cho quẩy còn mùi bột khai. Việc chỉnh nhiệt độ sao cho phù hợp là tùy vào bếp và lượng dầu ăn, độ lớn của chảo… Cả nhà nên làm thử với 1-2 chiếc quẩy đầu tiên để điều chỉnh cho hợp lí nhé.</p>
+<p>– Để quẩy nở phồng và nở đều, khi rán nên dùng đũa lật/ trở quẩy liên tục, có thể dìm nhẹ, cho đến khi quẩy nở hết thì tiếp tục rán đến khi quẩy chín vàng. Cả nhà có thể xem thêm cách rán quẩy trong hai clip sau:</p>
+<p>Clip 1:</p>
+<p><iframe allowfullscreen="" frameborder="0" height="375" src="https://www.youtube.com/embed/hYLoxmoYivU?feature=oembed" width="500"></iframe></p>
+<p>Clip 2 (<em><strong>xem từ 4:35</strong></em>)</p>
+<p>http://www.youtube.com/watch?v=z2x84br_VYU.</p>
+<p>– Muốn quẩy giòn hơn nữa, có thể rán hai lần.</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

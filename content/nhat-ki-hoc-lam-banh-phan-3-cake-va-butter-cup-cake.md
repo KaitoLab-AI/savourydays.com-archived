@@ -1,0 +1,66 @@
+---
+title: "Nhật kí học làm bánh – Phần 3: Cake và Butter (Cup)Cake"
+date: "2011-09-18"
+slug: "nhat-ki-hoc-lam-banh-phan-3-cake-va-butter-cup-cake"
+categories: ["Kinh nghiệm nấu nướng", "Làm bánh"]
+tags: ["baking", "làm bánh"]
+image: "/wp-content/uploads/2011/09/butter-cupcake.jpg"
+description: ""
+---
+
+<p><strong><em>Xem phần 1 về Mousse, phần 2 về Muffin tại </em><a href="/?page_id=607">ĐÂY</a><em>.</em></strong></p>
+<p>(Lại) tiếp tục kể lể chuyện bánh trái ná ;)</p>
+<p>Tình hình là cả tháng trước mình “di chuyển” (hội thảo – đi chơi – hội thảo) cho nên chẳng đụng được vào cái lò nướng mấy, thành ra ngứa ngáy chân tay ghê ấy.</p>
+<p>(<em>mở ngoặc giải thích 1 tí cho bạn nào thắc mắc tại sao mình đi vắng mà bài vẫn up đều trên blog. Vì có một số món mình nấu từ trước nhưng sửa ảnh không kịp, nên tranh thủ trên đường đi, cụ thể là trên tàu &amp; máy bay không có việc gì làm thì sửa, đến nơi thì up thôi :)</em> )</p>
+<p>Vì cả tháng trước chả làm được gì nên tháng này mình quyết tâm “bù đắp” :D Muffin thì cũng làm kha khá rùi, nhìn chung là ổn, và đến giờ thì mình cũng quen hơn với việc cân đong đo đếm, nhào trộn, cũng như là… chỉnh nhiệt độ lò nướng :P cho nên có vẻ đã đến lúc chuyển sang làm cake được rồi. Và nói thật là mình thấy khá là háo hức với món mới này, tại vì cake thì vừa có nhiều loại đa dạng để thực hành, lại vừa có nhiều cách “hóa trang” bằng các thể loại kem bơ, kem tươi, đường… tha hồ mà thực hành chụp choẹt. Cho nên tóm lại là làm cake thôi :)</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p style="text-align: center;"><a href="http://savourydays.files.wordpress.com/2011/09/butter-cake-sl-1687571-l.jpg"><img alt="" class="aligncenter size-full wp-image-730" height="300" loading="lazy" src="http://savourydays.files.wordpress.com/2011/09/butter-cake-sl-1687571-l.jpg" title="butter-cake-sl-1687571-l" width="300"/></a><em>Ảnh minh họa: Vanilla butter cake (Nguồn: myrecipes.com)</em></p>
+<p>Đến đây chắc có bạn sẽ thắc mắc tại sao mình cứ “cake” thế nọ thế kia, sao không dịch sang tiếng Việt cho đơn giản. Không phải là mình sính ngoại đâu, mà bởi vì mình không biết phải dịch sang tiếng Việt thế nào cho đúng. Vì sau khi đọc sách dạy làm bánh bằng tiếng Anh, và đọc các food blog &amp; tài liệu dạy làm bánh tiếng Việt thì mình cảm thấy việc gọi tên các loại bánh trong tiếng Việt hiện tại hơi… bừa bãi. Cake theo mình hiểu thì là từ chỉ chung cho các loại bánh ngọt kiểu Âu (và để phân biệt với các loại bánh khác như bread, pie, tart…). Mô tả sơ qua đặc điểm chung là có kết cấu bông, xốp, mềm, và thành phần thì có nhiều ngọt và chất béo hơn so với các loại còn lại (chỗ này có gì thiếu thì nhờ cả nhà bổ sung nhé).</p>
+<p>Nếu mình không nhầm thì mọi người (đặc biệt là các bạn nào không biết nhiều lắm về các loại bánh – như mình trước đây :D) hay dùng từ <strong><em>bánh bông lan</em></strong> hay là <strong><em>bánh ga-tô</em></strong> để gọi cake. Nhưng điều này là không hoàn toàn chính xác, vì bản thân cake có rất nhiều loại. Chẳng hạn một số loại quen thuộc (và gần như cơ bản) là butter cake, sponge cake, angel food cake, chiffon cake… Và các loại này đều là khác nhau, cho nên không thể dùng một cái tên bông lan để gọi chung được. Vì thế nên mình nghĩ giữ nguyên tiếng Anh để gọi và phân biệt các loại bánh có lẽ sẽ chuẩn xác hơn.</p>
+<p>Loại cake đầu tiên mà mình lựa chọn để tập làm là butter cake. Lý do là sau khi nghiên cứu kha khá tài liệu tham khảo + kinh nghiệm trên các forum &amp; blog dạy làm bánh thì mình thấy loại bánh này gần như là loại cơ bản &amp; khá dễ nên dùng để bắt đầu. Và cùng với butter cake thì mình cũng tập phương pháp trộn bột thứ hai (sau muffin-method để làm muffin) là creaming-method.</p>
+<p style="text-align: center;"><a href="http://savourydays.files.wordpress.com/2011/09/gooey-butter-cake.jpg"><img alt="" class="aligncenter size-full wp-image-731" height="298" loading="lazy" src="http://savourydays.files.wordpress.com/2011/09/gooey-butter-cake.jpg" title="gooey butter cake" width="267"/></a><em>Ảnh minh họa: Gooey butter cake (Nguồn: vintagecookbooks.blogspot.com) </em></p>
+<p>Ở đây có lẽ là mình sẽ giải thích thêm một tí việc tự học làm bánh của mình. Theo mình đoán thì mọi người khi tự học làm bánh sẽ đi tìm các công thức &amp; thực hành theo công thức đó. Nhưng mình không khoái kiểu này lắm. Vì mình cảm thấy nó hơi máy móc. Có lẽ là do ảnh hưởng của “bệnh nghề nghiệp” (mình làm nghiên cứu) mà mình thích những thứ có căn bản (hay là đi từ gốc) và rõ ràng.</p>
+<p><span id="more-729"></span></p>
+<p>Mình có một quyển sách tên là “Professional Baking” (tác giả Wayne Gisslen) và mình dùng nó làm tài liệu tham khảo chính. Tất nhiên là mình không có ý định học để thành pờ-rồ trong lĩnh vực baking :D, nhưng quyển sách này mình rất thích vì nó có vẻ có đầy đủ tất cả mọi thứ liên quan đến bánh trái, từ những thứ cực kì cơ bản như phân biệt các loại bột, các loại sản phẩm từ sữa.. cho đến phân biệt các loại bánh khác nhau và các phương pháp trộn bột cơ bản cho từng loại bánh, cũng như các lưu ý kèm theo. Mình nghĩ là với một người mới bắt đầu như mình thì việc có một tài liệu chính thống để học theo vẫn tốt hơn là đi nhặt nhạnh kiến thức đây đó. Tuy nhiên, với làm bánh thì kinh nghiệm cũng rất quan trọng, và đây là cái mà sách không thể nói hết được. Cho nên ngoài đọc sách ra thì mình cũng tham khảo thêm kinh nghiệm của các cao thủ làm bánh khác chẳng hạn như <a href="http://kiwisite.net/">chị Kiwi</a>, <a href="http://khaitam.wordpress.com/">chị Khai Tâm</a>, <a href="http://my.opera.com/baohannv/blog/">chị Nguyetva</a>, <a href="http://my.opera.com/trungbong/blog/">chị HuaBin</a>… và trên nhiều forum cũng như các food blog khác nữa. Nguồn tham khảo trên mạng thì phải nói là rất rất nhiều và đa dạng, nên việc đọc sách cũng có một ưu điểm nữa là giúp cho mình khỏi bị loạn trước số lượng tài liệu tham khảo “khổng lồ” từ Internet :) Và một điểm cuối cùng, (cái này là mình hi vọng vậy thôi, còn có đạt được hay không thì phải đợi lúc nướng bánh mới biết được), đấy là việc học có bài bản có lẽ sẽ giúp giảm bớt các sai sót và thất bại hơn chăng :D</p>
+<p style="text-align: center;"><a href="http://savourydays.files.wordpress.com/2011/09/butter-cupcake-cream-muffin-sweet-yummy-favim-com-57079.jpg"><img alt="" class="aligncenter size-full wp-image-732" height="332" loading="lazy" src="http://savourydays.files.wordpress.com/2011/09/butter-cupcake-cream-muffin-sweet-yummy-favim-com-57079.jpg" title="butter-cupcake-cream-muffin-sweet-yummy-Favim.com-57079" width="500"/></a><em>Ảnh minh họa lấy từ Internet: Butter cupcake</em></p>
+<p>Quay về butter cake và creaming method. Ở trong bài này mình sẽ nói về cách làm trước, còn về butter cake và công thức cho butter cake thì mình sẽ viết ở bài sau nhé.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Creaming-method có vẻ là một trong những cách trộn bột thông dụng nhất để làm cake, và nó cũng được dùng để làm rất nhiều loại cake khác nhau (ngoài butter cake). Các bước cơ bản của phương pháp này là :</p>
+<ol start="1">
+<li>Dùng máy đánh bơ và đường ở <strong>tốc độ vừa</strong> đến khi bơ mượt và chuyển màu trắng ngà.</li>
+<li>Cho lần từng quả trứng vào đánh tan.</li>
+<li>Trong 1 cái âu khác, trộn đều bột, bột nở, muối (và các gia vị khô nếu có).</li>
+<li>Chia hỗn hợp bột thành 4 phần. Chia hỗn hợp chất lỏng (VD: sữa, nước hoa quả xay, vv) thành 3 phần.</li>
+<li>Lần lượt rây ¼ chỗ bột vào tô bơ đường trứng, dùng spatula hoặc phới trộn, trộn đều. Tiếp theo cho 1/3 chỗ chất lỏng vào trộn đều. Lần lượt trộn tiếp bột, chất lỏng xen kẽ nhau như đến hết. <strong>Không trộn quá nhiều</strong>.</li>
+<li>Cho bột vào khuôn. Mang đi nướng đến khi bánh chín (thử bằng cách dùng một que tăm xiên vào giữa bánh, nếu rút lên thấy que sạch là bánh đã chín).</li>
+</ol>
+<p>Cách làm thì không khó, nhưng cũng như mousse và muffin, với các loại cake nói chung và butter cake nói riêng cũng có một số điểm cần lưu ý khi làm. Cụ thể là:</p>
+<ol start="1">
+<li>Các nguyên liệu (bơ, trứng, sữa) phải <strong>ở nhiệt độ phòng</strong> (khoảng 16 – 24 độ C). Lạnh quá và nóng quá đều làm ảnh hưởng đến độ nở của bánh sau này.</li>
+<li>Ở bước (1) chỉ <strong>đánh bơ đường ở tốc độ vừa phải</strong>. Sách giải thích là đánh ở tốc độ quá cao sẽ làm ảnh hưởng đến độ nở của bánh khi nướng. Và nên đánh đường và bơ kĩ một chút.</li>
+<li><strong>Chất lỏng (gồm cả trứng) nếu có sử dụng thì nên cho vào từng chút một</strong>. Ở bước (5) việc cho lần lượt bột – chất lỏng – bột…, bắt đầu bằng bột và kết thúc cũng bằng bột là để giúp cho bột &amp; chất lỏng hòa quyện tốt hơn trong hỗn hợp bột bánh.</li>
+<li><strong>Việc trộn bột ở bước (5) không nên làm quá kĩ</strong> vì với các loại cake nói chung có dùng bột nở (baking powder), trộn quá nhiều sẽ dễ làm chai bánh &amp; không nở được.</li>
+<li><strong>Bột sau khi trộn xong thì mang nướng ngay</strong>, để lâu sẽ làm ảnh hưởng đến độ nở của bánh.</li>
+</ol>
+<p>Lưu ý cuối cùng, không hẳn chỉ cho butter cake hay cake mà có lẽ là dành cho chung tất cả các loại bánh, đấy là “<strong>nguyên liệu nào thì bánh nấy</strong>”. Hãy cố gắng dùng các loại nguyên liệu tốt nhất có thể. Và nguyên liệu thì nên tươi &amp; mới, đừng dùng những thứ đã quá hạn hoặc gần hết hạn, rồi chẳng may hỏng thì vừa mất công làm, vừa bực mình, mà giả sử không hỏng thì ăn những thứ như vậy mình nghĩ chắc cũng không tốt cho sức khỏe nữa.</p>
+<p>Cuối cùng, một tí tẹo chú ý về lò nướng và khuôn bánh. Trước hết là lò nướng, vì mình đọc trên các blog thấy thi thoảng lại có bạn hỏi dùng lò vi sóng để nướng bánh có được không, cho nên mình viết lại luôn ở đây. Câu trả lời là “<strong>không được</strong>”, trừ phi lò vi sóng nhà bạn có đủ thanh nhiệt ở cả trên và dưới (mọi người hay gọi là lửa trên &amp; dưới), có nút điều chỉnh nhiệt độ từ 0 đến khoảng 250-300 độ C &amp; có nút đặt giờ (mà có đầy đủ mấy thứ này thì chắc không gọi là lò vi sóng nữa rồi :D).</p>
+<p>Về khuôn thì làm butter cake thì không cần khuôn đặc biệt lắm, khuôn tròn hoặc chữ nhật, to nhỏ tùy cả nhà, chống dính được thì tốt mà không thì khi làm mình tự chống dính cũng không sao. Cách chống dính thông thường cho khuôn là dùng bơ hoặc dầu thực vật, bôi đều lên thành &amp; đáy khuôn. Tiếp theo rắc đều bột lên rồi úp ngược khuôn xuống cho bột thừa rơi hết ra ngoài.</p>
+<p>Mình thì có một cái khuôn tròn đế rời đường kính 20cm. Nhưng mình tạm thời chưa dùng đến nó mà dùng khuôn muffin và để cho ra sản phẩm là butter cupcake :) Vì mình ở một mình nên làm cupcake thì tiện hơn cho mình trong việc mang bánh sau khi nướng đi “ép” hàng xóm ăn hộ :D Và bên cạnh khuôn thì mình cũng mua thêm một bộ đui bắt bông &amp; màu thực phẩm của Wilton để trang trí bánh kem nữa (Đã đặt rùi, và đang tập làm kem bơ để đợi “hàng” về một cái là sẽ có cái để nghịch ngay :D).</p>
+<p>Bài khá dài rồi nên mình tạm dừng ở đây. Phần tiếp theo mình sẽ viết vài dòng giới thiệu về butter cake, cupcake và về việc làm butter cake của mình, cũng như công thức nhé.</p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

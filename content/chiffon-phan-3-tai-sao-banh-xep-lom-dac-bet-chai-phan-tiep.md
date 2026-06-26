@@ -1,0 +1,80 @@
+---
+title: "Chiffon – Phần 3: Tại sao bánh xẹp, lõm, đặc, bết, chai..? (tiếp theo)"
+date: "2012-07-31"
+slug: "chiffon-phan-3-tai-sao-banh-xep-lom-dac-bet-chai-phan-tiep"
+categories: ["Bánh bông lan", "Gateaux/ Foam Cake", "Làm bánh"]
+tags: ["chia sẻ kinh nghiệm", "chiffon", "làm bánh", "nhật kí làm bánh"]
+image: "/wp-content/uploads/2012/07/IMG_7323P.jpg"
+description: "Chiffon xẹp lõm, tự học làm bánh, chiffon đơn giản, đánh bông trứng, savoury days, nhật kí làm bánh"
+---
+
+<p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi.</strong></span></p>
+<p><span style="color: #ff0000;">* <strong>Toàn bộ nội dung bài viết và hình ảnh thuộc bản quyền của Savoury Days (trừ các hình ảnh &amp; nội dung có ghi nguồn trích dẫn). <span style="text-decoration: underline;">Không sao chép, đăng tải hoặc sử dụng lại dưới bất kì hình thức nào</span> nếu không có sự đồng ý của tác giả.</strong></span></p>
+<p>———————————</p>
+<p><em>Xem các phần trước tại: <a href="/chiffon-phan-1/"><strong>Phần 1</strong></a> – <a href="/chiffon-phan-2-phuong-phap-tron-bot-danh-cho-chiffon-chiffon-method/"><strong>Phần 2</strong></a> – <a href="/chiffon-phan-3-that-bai/"><strong>Phần 3 (1)</strong></a> </em></p>
+<p><span style="color: #800000;"><strong>2. Các thất bại thường gặp với Chiffon – Nguyên nhân và cách khắc phục (tiếp)</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p style="text-align: center;"><span style="color: #800000;"><strong><span style="text-decoration: underline;">Thất bại số 1:</span> Bánh xẹp, lõm đáy, thắt eo</strong></span></p>
+<p>Như trong phần trước mình đã giải thích, một trong những nguyên nhân chính của hiện tượng bánh xẹp, lõm, đặc, bết… là do <em><strong>nhiệt độ nướng không phù hợp</strong></em>. Bên cạnh nguyên nhân này, tỉ lệ các nguyên liệu trong công thức, cụ thể hơn là <em><strong>tỉ lệ giữa lượng bột với lượng chất lỏng + chất béo không hợp lí</strong></em> cũng góp phần gây ra tình trạng bánh rơi vào trạng thái (1) hoặc (2) hoặc cả (2) như đã phân tích trong phần trước. Cụ thể là nếu như có quá nhiều chất lỏng so với lượng bột, thì lượng chất lỏng này sẽ được hấp thụ chậm hơn, hoặc có thể không được hấp thụ hoàn toàn, đọng lại bên trong bánh và gây ra hiện tượng xẹp, lõm, đặc ẩm.</p>
+<p style="text-align: center;"><em>Hình minh hoạ: Chiffon trong lò nướng</em></p>
+<p><a href="/wp-content/uploads/2012/07/IMG_7323P.jpg"><img alt="" class="aligncenter" height="326" loading="lazy" src="/wp-content/uploads/2012/07/IMG_7323P-1024x680.jpg" title="IMG_7323P" width="491"/></a></p>
+<p><span style="text-decoration: underline;"><strong><span style="color: #800000; text-decoration: underline;">Vậy thì làm thế nào để khắc phục tình trạng này của Chiffon?</span></strong></span></p>
+<p>Mặc dù nói nguyên nhân chính là do nhiệt độ nhưng cách giải quyết thật ra không chỉ đơn giản là chỉnh lại nhiệt độ cho thích hợp, bởi vì việc truyền nhiệt vào trong khuôn để làm chín bánh không chỉ phụ thuộc vào duy nhất một yếu tố “nhiệt độ”, mà còn chịu ảnh hưởng bởi các yếu tố chính sau đây:</p>
+<p>A. <strong><span style="text-decoration: underline;"><span style="color: #0000ff; text-decoration: underline;">Lò nướng:</span></span> Dung tích/ kích thước lò nướng, chế độ lửa &amp; vị trí đặt khay nướng</strong></p>
+<p>Quy định thông thường của việc nướng bánh là <strong>Làm nóng lò từ 15-20 phút trước khi nướng. Nướng ở chế độ hai lửa (trên và dưới). Đặt khay nướng sao cho khuôn ở chính giữa lò (<em>có nghĩa là nếu khuôn to thì phải hạ khay nướng xuống thấp hơn, sao cho khuôn ở chính giữa của lò</em>). </strong></p>
+<p>Tuy nhiên, trên thực tế, đặc biệt là khi nướng bánh tại nhà, nguyên tắc này thường là không giữ được tuyệt đối vì một số lí do như:</p>
+<p>– Rất nhiều lò nướng có nhiệt độ <em><strong>không chính xác</strong> </em>và <em><strong>không ổn định. </strong></em></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><em><strong>Không chính xác</strong></em> ở chỗ nhiệt độ trong lò có thể cao hơn nhiệt độ điều chỉnh bên ngoài. Ví dụ: Vặn nhiệt độ 150 độ C nhưng nhiệt độ thực tế bên trong lò có thể lên đến 180 độ C. Theo kinh nghiệm cuả mình thì rất nhiều lò gia đình gặp phải vấn đề này, cho nên có một chiếc nhiệt kế lò là rất cần thiết.</p>
+<p><em><strong>Không ổn định</strong></em> ở chỗ nhiệt độ có thể không bằng nhau giữa lửa trên và dưới, lửa trên nóng hơn lửa dưới hoặc ngược lại, hoặc một góc lò nóng hơn các góc còn lại. Để khắc phục vấn đề này các bạn có thể thay đổi vị trí đặt khay (cho trường hợp lửa trên và dưới không bằng nhau), hoặc sau khi nướng khoảng 2/3 thời gian thì quay khay nướng để khắc phục việc nhiệt độ không đều (<em>tuy nhiên, lưu ý là với Chiffon, không được mở cửa lò trong ít nhất 1/2 thời gian nướng đầu tiên, vì bánh sẽ dễ bị xẹp, nói chung cố gắng hạn chế càng ít mở cửa lò càng tốt).</em></p>
+<p><span id="more-3007"></span>– Với các lò có dung tích nhỏ (khoảng 32 – 35 lít trở xuống), vì lò nhỏ nên phần thành và mặt bánh sẽ tiếp xúc với nhiệt nhanh hơn, nhất là nếu khuôn cỡ lớn, trong khi nhiệt truyền vào bên trong lại chậm, gây ra tình trạng mặt bánh và thành bánh chín nhanh và có thể bị cháy trong khi bên trong chưa kịp chín, dẫn đến hiện tượng bánh bị xẹp, lõm, co lại… như đã nói trong phần trước.</p>
+<p><strong>B. <span style="text-decoration: underline;"><span style="color: #0000ff; text-decoration: underline;">Đặc điểm của khuôn</span></span>: Loại khuôn, kích thước và màu sắc</strong></p>
+<p>– Thông thường, với các loại bánh ít bột mà ẩm nhiều như Chiffon, <strong>nướng bằng khuôn lõi giữa là tốt nhấ</strong>t vì nhiệt sẽ được truyền vào giữa nhanh hơn, giảm khả năng bánh chưa chín ở trung tâm hơn =&gt; hạn chế khả năng xẹp hơn. Ngược lại, các khuôn thông thường như khuôn tròn, vuông… không lõi giữa sẽ làm tăng khả năng bánh bị xẹp hơn, nhất là khi công thức có tỉ lệ bột: ẩm không hợp lí.</p>
+<p>– Bên cạnh đặc điểm khuôn, <strong>kích thước khuôn</strong> đôi khi cũng là vấn đề, đặc biệt là với khuôn thường (không lõi giữa). Vì khuôn càng to thì việc truyền nhiệt vào bên trong càng chậm, khả năng bánh chưa chín càng cao.</p>
+<p>– <strong>Màu sắc của khuôn</strong> cũng có thể ảnh hưởng đến quá trình chín của bánh. Khuôn sẫm màu truyền nhiệt nhanh và tốt hơn khuôn sáng màu, cho nên thường khi dùng khuôn sẫm màu thì nhiệt độ nướng cần phải hạ thấp hơn nhiệt độ quy định khoảng 5-10 độ C,  tùy kích thước lò và kích thước khuôn.</p>
+<p>Trên đây là hai nhân tố khác có tác động trực tiếp đến việc truyền nhiệt vào bánh, và do vậy, tác động gián tiếp đến chất lượng bánh. Đôi khi, các nhân tố này có thể kết hợp cùng lúc, làm cho tình trạng bánh trở nên “thê thảm” hơn. Chẳng hạn như khi lò nướng là lò nhỏ (30-32Lít), khuôn sử dụng là khuôn tròn sẫm màu đường kính 23 cm (tức là khá to so với dung tích lò), thì việc lò nhỏ và khuôn to, lại truyền nhiệt nhanh hơn bình thường sẽ làm cho phần mặt và thành bánh chín rất nhanh, có thể sẽ bị cháy trong khi phần ruột chín chậm hơn rất nhiều do nhiệt truyền vào giữa chậm, làm hỏng bánh.</p>
+<p style="text-align: center;"><em>Hình minh họa: Chiffon làm khuôn lõi giữa, vẫn có nhiều cách trang trí rất đẹp, chẳng hạn như thế này :)</em></p>
+<p><a href="/wp-content/uploads/2012/07/2348326975_11cac8e2cd.jpg"><img alt="" class="aligncenter size-full wp-image-3021" height="333" loading="lazy" sizes="(max-width: 500px) 100vw, 500px" src="/wp-content/uploads/2012/07/2348326975_11cac8e2cd.jpg" title="2348326975_11cac8e2cd" width="500"/></a></p>
+<p><span style="color: #800000;"><strong>Tóm lại, nếu bánh sau khi nướng bị xẹp nhiều, lõm trên lõm dưới, thắt eo, bết… thì lần tiếp theo nên làm thế nào?</strong></span></p>
+<p>Câu trả lời là “<strong><span style="color: #800000;">không có câu trả lời nào cả</span></strong>“.</p>
+<p>Thật sự là như thế. Mình nhớ trong lời mở đầu của một quyển sách của Peter Reinhardt – một bậc thầy về làm bánh người Mỹ – có một đoạn rằng: “T<em>ôi chỉ có thể đưa cho các bạn lời hướng dẫn, chứ tôi không thể ở bên cạnh các bạn trong bếp, cho nên lời khuyên của tôi với mọi người là hãy luyện tập, luyện tập, luyện tập và tự rút ra kinh  nghiệm. Bởi vì không ai có thể hiểu bếp và lò nướng nhà mình nhiều bằng chính bạn</em>.” Với Chiffon và tất cả các loại bánh khác cũng vậy. Những gì mình biết thì mình đã đều viết ra hết rồi, còn tìm ra nguyên nhân và khắc phục thì mỗi bếp và mỗi trường hợp lại có một vấn đề khác nhau, cho nên mình không thể đưa ra cách khắc phục tổng quát được. Tuy nhiên, để tiện cho các bạn giải quyết tình huống của riêng mình thì mình sẽ viết một vài gợi ý về cách xử lí cho các tình huống hay gặp nhé.</p>
+<p>1. <strong>Nhiệt kế là thứ bắt buộc phải có trong khi làm bánh</strong>. Giá tiền của 1 chiếc nhiệt kế lò, theo mình biết thì dao động trong khoảng 100-200k VND, tức là không đắt hơn nhiều so với tiền mua một chiếc khuôn bánh, mà lại có thể hạn chế được việc bị hỏng rất nhiều bánh, cho nên mua nhiệt kế là đầu tư vốn ít mà lời thì vô cùng, mình nghĩ thế :)</p>
+<p>2. Với Chiffon, <strong>tốt nhất là nên dùng khuôn lõi giữa</strong>. Còn nếu bắt buộc cần dùng khuôn thường (vì mục đích trang trí bánh chẳng hạn), thì hãy cố gắng chọn khuôn và công thức sao cho khuôn không quá lớn so với lò. Mà nói chung vì Chiffon là loại bánh có kết cấu yếu, nên với các công thức có lương nguyên liệu nhiều, ví dụ như từ 8 trứng trở lên thì dùng khuôn lõi giữa tốt hơn.</p>
+
+
+<p>Một lưu ý nữa là <strong>khuôn phải có kích cỡ hợp với tỉ lệ nguyên liệu</strong>. Thông thường trong các công thức sẽ có thêm cả ghi chú các bạn dùng khuôn với kích thước nào. Khuôn nhỏ hơn so với lượng nguyên liệu sẽ làm cho bánh nở quá cao, có thể vượt khuôn, ảnh hưởng không chỉ đến hình thức mà còn cả chất lượng do bánh có thể sẽ không chín đều ở tất cả các điểm bên trong. Nếu khuôn quá to so với lượng nguyên liệu, bánh sẽ khó nở cao và phần giữa dễ bị bết do nhiệt truyền vào chậm.</p>
+<p>3. Khi nướng bánh hãy <strong>lưu ý đến vị trí đặt khuôn, cách chỉnh nhiệt độ và thời gian nướng</strong>. Vị trí đặt khuôn thì mình có nói ở trên rồi, làm sao cho khuôn ở chính giữa lò nướng. Hoặc <strong>với các lò nhỏ có thể đặt khay ở thấp hơn</strong>, để tránh việc mặt trên quá gần với lửa trên, dễ gây cháy mặt bánh.</p>
+<p>Thông thường bánh được nướng ở chế độ hai lửa. Nhưng với các lò nhỏ hoặc nhiệt trên cao hơn nhiệt dưới thì các bạn <strong>có thể chỉ dùng lửa dưới trong khoảng 2/3-3/4 thời gian đầu</strong>. Nhiệt trong lò sẽ đủ làm cho bánh nở mà không gây cháy mặt bánh. Đến thời gian gần cuối mới bật 2 lửa để mặt bánh được thật vàng. Hoặc có thể dùng biện pháp che, đậy nào đó để hạn chế nhiệt trên hơn.</p>
+<p>Ngoài ra, nhiệt độ nướng phù hợp cũng là yếu tố quan trọng. Thông thường với Chiffon<strong> không nên nướng ở nhiệt độ quá cao</strong> (trên 170 độ C), nhất là với các lò nhỏ sẽ rất dễ làm bánh bị cháy bên ngoài và sống bên trong. Và nhiệt độ nướng cũng có thể thay đổi tùy theo kích thước và loại lò, loại khuôn. Cho nên việc <strong>hiểu lò nướng nhà mình </strong>để có thể điều chỉnh nhiệt độ thích hợp là rất rất cần thiết.</p>
+<p>4. Cuối cùng, một công thức có tỉ lệ bột : chất lỏng hợp lí sẽ giúp tăng khả năng thành công của bánh hơn. Riêng phần này mình sẽ nói thêm ở trong Phần 4 nhé.</p>
+<p style="text-align: center;"><em>Hình minh hoạ: Chiffon lá dứa</em></p>
+<p><a href="/wp-content/uploads/2012/07/5522357869_e1db8c77e8.jpg"><img alt="" class="aligncenter" height="333" loading="lazy" src="/wp-content/uploads/2012/07/5522357869_e1db8c77e8.jpg" title="5522357869_e1db8c77e8" width="500"/></a></p>
+<p style="text-align: center;"><span style="color: #800000;"><strong><span style="text-decoration: underline;">Thất bại số 2</span>: Bánh chai, bết, đặc, không nở được </strong></span></p>
+<p>Hiện tượng này thường xảy ra do lỗi kĩ thuật trong quá trình làm bánh. Chiffon chủ yếu dựa vào bọt khí trong trứng đánh bông để nở hay nói cách khác là “chất lượng” của các bọt khí này sẽ ảnh hưởng đến độ nở và bông xốp của Chiffon.</p>
+<p>Bọt khí trong bột bánh Chiffon sinh ra nhờ đánh bông lòng trắng trứng. Nên lỗi hay nguyên nhân đầu tiên làm cho bánh không nở được có thể là <strong>do đánh trứng chưa đủ, bọt khí ít hoặc yếu nên dễ bị vỡ trong khi trộn bột</strong>. Cách đánh bông lòng trắng trứng thì các bạn có thể tham khảo thêm tại <a href="/danh-bong-trung-phan-2/">ĐÂY</a>. Tuy nhiên lưu ý là lòng trắng trứng đánh bông có rất nhiều “mốc” như bông mềm, bông cứng và rất cứng, cho nên tùy theo công thức mà mình sẽ quyết định mức độ bông cần thiết của trứng.</p>
+<p>Một lỗi thường gặp khác là trong quá trình trộn lòng trắng trứng đã đánh bông với các nguyên liệu còn lại, người làm <strong>trộn sai kĩ thuật hoặc trộn quá lâu, quá kĩ cũng có thể làm vỡ nhiều bọt kh</strong>í, dẫn đến việc bánh nở kém hoặc không nở được. Kĩ thuật trộn mình có nói trong bài về Chiffon Method tại <a href="/chiffon-phan-2-phuong-phap-tron-bot-danh-cho-chiffon-chiffon-method/">ĐÂY</a>. Các bạn có thể tham khảo thêm nhé. Nhìn chung thì sau khi trộn xong mà hỗn hợp cuối cùng không bị xẹp quá nhiều, vẫn còn đầy âu thì có thể yên tâm là mình đã làm đúng, không vỡ bọt khí nhiều rùi ;)</p>
+<p>Phù… cuối cùng cũng đã xong phần 3 :D :D Trên đây là toàn bộ những gì  mình biết về nguyên nhân gây ra một số trường hợp thất bại hay gặp ở Chiffon và các loại Foam Cake nói chung. Hi vọng là những thông tin này sẽ ít nhiều có ích cho các bạn. Cuối cùng, có một lời nhắn nhủ là vì mình biết gì thì cũng đã đều nói hết rồi, nên <span style="color: #ff0000;"><strong>rất mong các bạn sẽ đọc kĩ bài viết và các phản hồi trong bài viết này, bài viết về làm <a href="/demo-genoise-cot-banh-bong-lan-ga-to-co-ban/">Sponge Cake</a>, <a href="/nhat-ky-hoc-lam-banh-phan-5-gateau-hong-kong-cong-thuc/">Gateau Hồng Kông </a>và <a href="/japanese-cotton-sponge-cake-hay-la-ga-to-nhat-ban-mem-nhu-bong-nhe-nhu-may/">Gateau Nhật Bản</a>, trước khi đặt câu hỏi giúp mình nhé</strong></span>. Đặc biệt là trong gần 400 comment tại bài viết về Gateau Nhật Bản, các bạn khác và mình đã rất rất nhiều lần đề cập đến cách giải quyết cho nhiều trường hợp cụ thể liên quan đến bánh xẹp, lõm.</p>
+<p>Còn nếu đã đọc rồi nhưng vẫn không tìm được câu trả lời, thì khi đặt câu hỏi với tình huống bánh xẹp, các bạn ghi giúp mình cụ thể các thông tin sau:</p>
+<p style="padding-left: 30px;">1. Tình trạng bánh sau khi ra lò (xẹp, lõm… như thế nào), tốt nhất là có ảnh</p>
+<p style="padding-left: 30px;">2. Dung tích lò, loại và kích thước khuôn, vị trí đặt khay bánh, chế độ lửa, nhiệt độ và thời gian nướng</p>
+<p style="padding-left: 30px;">3. Nếu có thể có công thức kèm theo thì càng tốt</p>
+<p>Thông tin càng cụ thể thì mình “đoán mò” bệnh càng dễ :D NHƯNG – giao hẹn trước là nếu câu hỏi tương tự đã được trả lời trong các comment trước rồi thì mình sẽ không trả lời lại đâu đấy nhé. Cảm ơn cả nhà :)</p>
+<p>Hết phần 3 (<em>Bài viết sử dụng hình ảnh minh hoạ tìm được qua Google image với từ khóa “Chiffon cake”)</em></p>
+<p><span style="color: #800000;"><strong>Phần 4: Công thức Chiffon cơ bản dành cho mọi loại khuôn.</strong></span></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

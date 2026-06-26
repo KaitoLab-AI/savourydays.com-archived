@@ -1,0 +1,94 @@
+---
+title: "Cách làm bánh tôm Hồ Tây"
+date: "2017-02-25"
+slug: "cach-lam-banh-tom-ho-tay"
+categories: []
+tags: []
+image: "/wp-content/uploads/2017/02/cach-lam-banh-tom-ho-tay-banner.jpg"
+description: "học cách làm bánh tôm Hồ Tây với Savoury Days. Bánh tôm giòn rụm và thơm ngon, không bị sũng dầu hay ngấy. Công thức kèm hình ảnh chi tiết các bước"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Trời Hà Nội hôm nay lạnh quá. Tự nhiên lại thấy thèm ơi là thèm miếng bánh tôm thơm phức, giòn rụm, chấm nước mắm chua chua ngòn ngọt kèm thêm rất nhiều rau sống, rau thơm để giải bớt cái háo trong ngày gió mùa này …</p>
+<p>Bánh tôm Hồ Tây đã từng là món ăn ưa thích của cả gia đình mình. Những chiếc bánh nhỏ xinh chiên vàng xuộm, giòn tan, thêm mấy con tôm đỏ au nho nhỏ ở giữa bánh, chấm trong nước mắm chua ngọt, dùng kèm đu đủ, cà rốt xắt lát giòn giòn cùng các loại rau xà-lách, rau thơm. Thơm ngon, đủ chất lại dễ ăn và mát ruột. Ăn xong bánh tôm, đi ra cửa hàng kem ở bên ngoài mua thêm một cây kem ốc quế nữa là hoàn tất một bữa ăn thịnh soạn.</p>
+<p>Nhưng đó là chuyện của rất nhiều năm về trước rồi. Càng về sau này chất lượng bánh càng giảm sút, tôm nhỏ hơn, khoai ít hơn, bánh cũng không được giòn, nhanh ỉu và rất nhiều dầu mỡ. Ăn tới cái thứ 3 đã bắt đầu thấy ngán. Nhiều lúc cứ nghĩ nếu người ta có thể làm được bánh ngon như xưa thì dù có bán với giá thành cao hơn  một chút chắc vẫn sẽ có rất nhiều người ăn, vậy mà… quả thật là đáng tiếc.</p>
+<p>Bánh tôm nhà mình làm thì không hoàn toàn giống với bánh tôm Hồ Tây cổ truyền lắm. Vì là nhà làm nên bao giờ cũng được biến tấu theo hướng “xôi thịt” hơn: ít bột, thêm rất nhiều khoai, tôm thì to gấp 2-3 lần (riêng vụ tôm là không cố tình vì khi còn ở châu Âu thì mình chỉ mua được tôm đông lạnh loại to thôi). Nhưng cả hai vợ chồng mình đều ưng phiên bản “xôi thịt” này hơn bánh truyền thống :D Bên cạnh việc tôm to hơn, thịt ngọt mà lại ít phải ăn vỏ thì chiếc bánh có nhiều khoai, với mình, cũng ngon hơn nhiều. Bởi vì khoai làm cho bánh vừa thơm, vừa giòn, vừa bùi, màu sắc rất đẹp mà lại không ngấm nhiều dầu, không hề ngấy. Nhiều khi mình thậm chí còn làm nhiều khoai với bột hơn, để có vài chiếc bánh khoai ăn riêng, chẳng cần con tôm nào, chấm nước mắm rồi ăn với rau sống vẫn ngon đáo để.</p>
+<p><img class="aligncenter wp-image-7315 size-large" height="1024" loading="lazy" sizes="(max-width: 683px) 100vw, 683px" src="/wp-content/uploads/2017/02/cách-làm-bánh-tôm-hồ-tây-683x1024.jpg" width="683"/></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<h2>CÁCH LÀM BÁNH TÔM HỒ TÂY</h2>
+<p><strong><span style="color: #800000;">Nguyên liệu (4 người ăn)</span></strong></p>
+<p><strong>A. Phần bánh</strong></p>
+<ul>
+<li><em>Khoai lang (sweet potato) 450 gram </em></li>
+<li><em>Tôm 500 gram</em></li>
+<li><em>Bột mì (all purpose flour) 100 gram</em></li>
+<li><em>Bột gạo tẻ (rice flour) 100 gram</em></li>
+<li><em>Bột năng (tapioca flour) 100 gram</em></li>
+<li><em>Nước 260 – 300 ml</em></li>
+<li><em>Bột tỏi ¼ thìa cafe (teaspoon) / 1 gram </em></li>
+<li><em>Bột hành ¼ thìa cafe (teaspoon) / 1 gram  </em></li>
+<li><em>Bột nở (baking powder) 1/2 thìa cafe (teaspoon) / 2 gram </em></li>
+<li><em>Bột nghệ (turmeric powder) ¼ thìa cafe (teaspoon) / 1 gram </em></li>
+<li><em>Dầu ăn 500 ml</em></li>
+</ul>
+<p><strong>B. Nước chấm và rau ăn kèm</strong></p>
+<ul>
+<li><em>Rau sống 300 gram</em></li>
+<li><em>Đu đủ xanh hoặc su hào 120 gram</em></li>
+<li><em>Cà rốt 120 gram</em></li>
+<li><em>Đường 50 gram</em></li>
+<li><em>Nước cốt chanh hoặc dấm 30 ml  </em></li>
+<li><em>Nước mắm 30 ml</em></li>
+<li><em>Muối 20 gram</em></li>
+</ul>
+<p><strong>Ghi chú:</strong></p>
+<ol>
+<li>Bột gạo tẻ và bột năng có thể mua ở chợ châu Á, nếu bạn sống ở nước ngoài.</li>
+<li>Bột hành và bột tỏi giúp bánh thơm hơn nhưng có thể bỏ qua nếu bạn không tìm mua được. Nên có bột nghệ vì giúp bánh có màu đẹp và hương vị cũng thơm hơn.</li>
+<li>Bột nở (baking powder) có thể mua ở các cửa hàng bán nguyên liệu làm bánh. <strong>Bột nở KHÔNG phải là phụ gia độc hại, là loại nguyên liệu rất an toàn và được sử dụng phổ biển trong làm bánh. </strong></li>
+<li>Khoai gọt vỏ rửa sơ rồi bào sợi nhỏ. Ngâm khoai trong nước muối pha theo tỉ lệ 700 ml nước : 10 gram muối (với lượng khoai trong công thức sẽ cần khoảng 1.2 – 1.5 lít nước).</li>
+</ol>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Khoai gọt vỏ, rửa sơ rồi bào sợi nhỏ. Ngâm khoai trong nước muối khoảng 1.5 – 2 giờ mới dùng. Trong khi đợi ngâm khoai thì chuẩn bị các nguyên liệu khác.</p>
+<p><img class="aligncenter wp-image-7316 size-medium" height="200" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="/wp-content/uploads/2017/02/BanhtomHoTay1-600x400.jpg" width="300"/></p>
+<p>2. Tôm để nguyên vỏ, cắt bớt râu dài và ngạnh cứng, có thể bỏ đầu nếu dùng tôm to. Rửa tôm sạch, xóc cho ráo nước rồi ướp tôm với khoảng 1 thìa café muối hoặc bột nêm và ¼ thìa café (1 gram) bột tỏi nếu có.</p>
+<p><img class="aligncenter wp-image-7317 size-medium" height="200" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="/wp-content/uploads/2017/02/BanhtomHoTay2-300x200.jpg" width="300"/></p>
+<p>Trong bánh tôm Hồ Tây truyền thống, tôm thường dùng là loại nhỏ – vừa. Các bạn có thể dùng tôm loại to giống mình nhưng nên chọn các con có vỏ mềm. Không lột vỏ tôm vì khi rán lớp vỏ này sẽ giúp giữ cho tôm vừa chín tới, không bị cháy hay khô.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>3. Pha nước chấm như sau:</p>
+<p>– Pha 25 g (khoảng 1.5 thìa canh/ tbsp.) đường với 15 – 18 ml (khoảng 1 thìa canh) nước cốt chanh và 175 ml (11 – 12 thìa canh) nước thành một bát nước chanh ngon, vị chua ngọt vừa ăn (có thể thay chanh bằng dấm).</p>
+<p>– Từ từ thêm 15 – 20 ml nước mắm, quấy đều, tới khi nước chấm có vị mặn vừa ăn thì dừng lại.</p>
+<p>* Ghi chú:</p>
+<ul>
+<li>Định lượng mắm, chanh, đường có thể thay đổi theo từng loại gia vị bạn dùng và khẩu vị riêng của gia đình.</li>
+<li>Nước chấm nên pha trước 1 – 2 giờ. Tới khi ăn hâm nóng lại nước chấm sẽ có vị ngon hơn. Để nước chấm không bị đắng (do để lâu và đun nóng lại) thì dùng chanh vàng hoặc dấm sẽ an toàn hơn chanh xanh.</li>
+<li>Có thể thêm tỏi băm, ớt thái lát theo sở thích.</li>
+</ul>
+<p>4. Nhặt rửa các loại rau sống ăn kèm (xà lách, các loại rau thơm).</p>
+<p>Đu đủ và cà rốt gọt vỏ, thái thành miếng mỏng. Đu đủ bóp qua với 1 thìa café (4 – 5 gram) muối vài phút cho bớt nhựa rồi xả lại với nước sạch, xóc thật ráo nước. Tiếp theo, trộn đu đủ và cà rốt với 20 gram đường, xóc đều, để 30 phút rồi trộn thêm 10 ml (2 thìa café) nước cốt chanh và ½ thìa café (2 – 3 gram) muối. Trộn đều và nêm nếm sao cho đu đủ và cà rốt có vị chua, mặn, ngọt vừa ăn. Việc trộn đường trước sẽ giúp cho rau giòn.</p>
+<p>Cách trộn đu đủ, cà rốt và pha nước chấm các bạn có thể tham khảo trong bài <a href="/video-cach-lam-banh-ran-man-bi-quyet-de-banh-ran-khong-no/"><strong>cách làm bánh rán mặn</strong></a> hoặc <a href="/video-cach-lam-bun-cha/"><strong>cách làm bún chả.</strong></a></p>
+<p>5. Trước khi rán bánh 30 phút, chuẩn bị hỗn hợp bột như sau:</p>
+<ul>
+<li>Cho vào âu 100 g bột mì, 100 g bột gạo, 100 g bột năng, ½ thìa café (2 – 3 g) muối, ¼ thìa café (1 g) bột tỏi, ¼ thìa café (1 g) bột hành, ½ thìa café (2 g) bột nở (baking powder), 1/8 thìa café bột nghệ.</li>
+<li>Trộn đều rồi cho khoảng 260 – 300 ml nước vào bát trộn cùng bột. Nên cho nước từ từ, khi nào bột thành hỗn hợp rất sệt thì dừng lại, không nhất thiết phải dùng hết 300 ml nước. Để ủ bột khoảng 30 phút.</li>
+</ul>
+<p><img class="aligncenter wp-image-7318 size-medium" height="200" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="/wp-content/uploads/2017/02/BanhtomHoTay5-300x200.jpg" width="300"/></p>
+<p>6. Sau khi ủ bột 30 phút, đổ khoai ra rổ, xóc cho thật ráo nước rồi cho vào âu bột trộn thật đều.</p>
+<p><img class="aligncenter wp-image-7319 size-medium" height="200" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="/wp-content/uploads/2017/02/BanhtomHoTay6-300x200.jpg" width="300"/></p>
+<p>Làm nóng dầu ăn trên lửa vừa. Nên dùng chảo sâu lòng hoặc nồi nhỏ để tiết kiệm dầu ăn (ta cần rán bánh ngập dầu).</p>
+<p>7. Dùng muôi lớn, xếp một phần bột và khoai lên muôi. Đặt 1 – 2 con tôm vào giữa bánh. Nhẹ nhàng dùng thìa hoặc đũa gạt bánh xuống chảo dầu sao cho còn giữ được nguyên hình dạng của cả chiếc bánh.</p>
+<p><img class="aligncenter wp-image-7320 size-medium" height="200" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="/wp-content/uploads/2017/02/BanhtomHoTay7-300x200.jpg" width="300"/></p>
+<p><img class="aligncenter wp-image-7321 size-medium" height="199" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="/wp-content/uploads/2017/02/BanhtomHoTay8-300x199.jpg" width="300"/>8. Chiên bánh ngập dầu tới khi bánh chín vàng thơm thì gắp ra, để lên đĩa có lót giấy thấm dầu. Có thể chiên nhiều bánh trong một mẻ để tiết kiệm thời gian.</p>
+
+
+<p><img class="aligncenter wp-image-7322 size-medium" height="200" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="/wp-content/uploads/2017/02/BanhtomHoTay9-300x200.jpg" width="300"/></p>
+<p>9. Ghi chú:</p>
+<p>– Nếu muốn bánh giòn rụm từ trong ra ngoài thì nên làm bánh nhỏ với lượng khoai vừa phải. Rán ở nhiệt độ vừa, khoảng 170 – 190 độ C.</p>
+<p>– Nếu muốn bánh giòn bên ngoài nhưng mềm bên trong thì rán ở nhiệt độ cao, khoảng 190 – 200 độ C (để khi bên ngoài bánh chín vàng và giòn nhanh hơn).</p>
+<p>– Có thể chiên bánh thành 2 lần: trong lần đầu vớt bánh ra khi bánh vừa chín tới, trước khi ăn thì chiên lại để bánh chín vàng giòn.</p>
+<p>Dùng bánh nóng với nước chấm và các loại rau sống.</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

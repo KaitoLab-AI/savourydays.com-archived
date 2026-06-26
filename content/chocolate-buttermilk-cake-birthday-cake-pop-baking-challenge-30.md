@@ -1,0 +1,94 @@
+---
+title: "Chocolate buttermilk cake & Birthday cake “pop” (Baking challenge 30)"
+date: "2012-03-24"
+slug: "chocolate-buttermilk-cake-birthday-cake-pop-baking-challenge-30"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/03/BirthdayCakePop.jpg"
+description: ""
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Lần đầu tiên mình làm host cho Baking Challenge của Hội bánh Hà Nội, vui nhưng mà cũng run lắm. Tại vì các chị host những Challenge trước đều là cao thủ bánh trái cả, mình thì chỉ là tập sự thôi. Nhưng cũng may là chủ đề lần này không khó lắm, là thứ mà mình đã từng làm rồi: <strong><a href="/?p=1729">Cake pops, hay là những chiếc bánh nhỏ xinh ẩn trong hình dáng của một chiếc kẹo mút</a></strong> :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6866103290/" title="IMG_2630-1 by LinhTrang9185, on Flickr"><img alt="IMG_2630-1" class="aligncenter" height="640" loading="lazy" src="http://farm7.staticflickr.com/6044/6866103290_af6129f512_z.jpg" width="439"/></a></p>
+<p>Đề bài được làm từ đầu tháng, gồm hai phần chính là cốt bánh Chocolate buttermilk cake và phần tạo hình Cake pops. Thật ra cốt bánh của Cake pops không cố định, có thể dùng nhiều loại bánh khác nhau như <strong><a href="/?p=1072">Pound Cake</a></strong>, <strong><a href="/?p=736">Butter Cake</a></strong>, <strong><a href="/?p=1729">Red velvet cake</a></strong>… Nhưng mình chọn Chocolate buttermilk cake vì cảm thấy mùi vị của Chocolate rất rất hợp khi đi với Cream cheese – là thứ giúp “kết dính” và giúp bánh dễ nặn thành hình khi làm Cake pop, không chỉ hợp ở vị ngọt pha chút đắng của chocolate với vị béo ngậy của pho mát mà còn hợp cả ở mùi thơm của Cocoa nữa. Ngoài ra thì đây cũng là cốt bánh Chocolate mà mình ưng ý nhất cho đến giờ, bánh mềm, ẩm và xốp, ngọt vừa, cách làm lại đơn giản, theo phương pháp <strong><a href="/?p=729">Creaming method</a></strong>. Chỉ có một nguyên liệu hơi “lạ” là buttermilk thì lại có thể thay thế bằng sữa tươi pha với chút dấm hoặc nước cốt chanh. Túm lại là mọi thứ đều ổn :)</p>
+<p>Phần tạo hình Cake pop thì đề bài lần này ra “mở”, để chị em có thể thoải mái sáng tạo, tự nhào nặn ra những chiếc bánh kẹo mút với hình dáng và cách trang trí riêng của mình. Tuy là vậy nhưng mình cũng giới thiệu hai loại Cakepop mà mình đã làm là Cupcake pop và Birthday cake pop. Loại thứ hai, Birthday cake pop thì có hơi ăn gian một tí là mình không dùng que, chỉ tạo hình bánh thôi (cho nên chữ “pop” phải giấu trong ngoặc :P)</p>
+<p>Đề gửi từ đầu tháng, chờ mãi cuối cùng cũng đến ngày mọi người nộp bài. Link sản phẩm ở <strong><a href="http://www.webtretho.com/forum/f215/baking-challenge-phan-7-lam-banh-don-giang-sinh-va-nam-moi-2012-a-1021650/index92.html">ĐÂY</a></strong>, mỗi bài một vẻ, bài nào cũng cực kỳ sáng tạo và đầy tâm huyết ^.^ Có một số vấn đề phát sinh trong quá trình làm Cake pop, mình sẽ tổng kết và bổ sung sớm. Trước mắt là post công thức đã nhé (kèm cả phần tạo hình hai loại Cake pop).</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p style="text-align: center;">————————–</p>
+<p><strong><span style="text-decoration: underline;">I. Phần cốt bánh: Chocolate buttermilk cake </span></strong></p>
+<p><strong>Nguyên liệu (khuôn tròn 20cm)</strong></p>
+<ul>
+<li><em>120gram bột mỳ đa dụng/ bột mỳ thường (all-purpose flour)</em></li>
+<li><em>30gram bột ngô (corn starch)</em></li>
+<li><em>3gram bột nở (baking powder)</em></li>
+<li><em>3gram muối nở (baking soda)</em></li>
+<li><em>20gram bột cacao nguyên chất không đường </em></li>
+<li><em>95gram bơ nhạt – dể mềm ở nhiệt độ phòng (19-23 độ C)</em></li>
+<li><em>1gram muối</em></li>
+<li><em>115gram đường </em></li>
+<li><em>2 quả trứng (50gram/ quả không tính vỏ) – nhiệt độ phòng</em></li>
+<li><em>1teaspoon vanilla extract</em></li>
+<li><em>150ml buttermilk (mình dùng 150ml sữa tươi không đường pha với 1¾ teaspoon dấm gạo, để 15 phút rồi dùng, các bạn có thể thay dấm bằng nước cốt chanh)</em></li>
+</ul>
+<p><strong><span id="more-2102"></span></strong></p>
+<p><strong>Cách làm</strong></p>
+<p>1. Vặn lò 170 độ C (hoặc 160 độ C nếu dùng khuôn sẫm màu). Chống dính khuôn bằng cách phết một lớp bơ mỏng lên thành và đáy khuôn, rắc một lớp bột mỏng phủ đều lên thành &amp; đáy khuôn, úp ngược khuôn &amp; gõ nhẹ cho bột thừa rơi ra ngoài. Các bạn dùng khuôn đáy liền có thể thay việc chống dính đáy khuôn bằng cách lót một tấm giấy nướng bánh hoặc giấy A4 trắng để khi nướng xong lấy bánh ra được dễ dàng hơn.</p>
+<p>2. Rây bột mỳ, bột ngô, bột nở, muối nở và bột cacao vào âu hoặc bát to. Dùng phới lồng cầm tay trộn đều. Cho trứng và vanilla vào 1 cái bát khác, dùng thìa hoặc nĩa đánh nhẹ cho tan. Nếu dùng sữa tươi và dấm/chanh thay buttermilk thì cho dấm/chanh vào sữa và quấy đều, để sang một bên.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6866118390/" title="2012-02-08 by LinhTrang9185, on Flickr"><img alt="2012-02-08" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7227/6866118390_cf85f478f1.jpg" width="500"/></a></p>
+<p>3. Cho bơ &amp; muối vào âu, để máy ở tốc độ chậm, đánh khoảng 45-60 giây cho bơ mềm. Tăng tốc độ máy lên vừa – cao, từ từ cho đường vào (mất khoảng 30-45 giây để cho hết đường). Đánh đến khi bơ bông xốp, chuyển sang màu trắng ngà (hình 2). Thi thoảng dừng máy và vét thành âu để bơ được đánh đều.</p>
+<p>4. Chia trứng thành 2-3 phần. Để máy ở tốc độ vừa, từ từ cho từng phần trứng vào, đánh đều sau mỗi lần thêm trứng. Vét thành và đáy âu (hình 3-4).</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>5. Chia hỗn hợp bột làm 4 phần, buttermilk  thành 3 phần. Cho 1/4 số bột cùng 1/3 chỗ sữa vào âu bơ trứng đường, đánh nhuyễn ở tốc độ thấp. Tiếp tục cho 1/4 chỗ bột và 1/3 chỗ sữa vào âu, đánh đều. Tiếp tục với 1/4 bột &amp; 1/3 sữa. Kết thúc bằng ¼ bột còn lại cuối cùng. <em>Đánh đều sau mỗi lần thêm bột &amp; sữa. Chỉ nên trộn vừa phải, đủ hòa quyện, không nên trộn quá kỹ, nếu dùng máy thì đánh ở tốc độ thấp nhất, mình trộn tay. </em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6866104198/" title="2012-03-03 by LinhTrang9185, on Flickr"><img alt="2012-03-03" class="aligncenter" height="400" loading="lazy" src="http://farm7.staticflickr.com/6225/6866104198_76ff708470.jpg" width="500"/></a></p>
+<p>6. Đổ hỗn hợp bột vào khuôn, dùng thìa hoặc spatula dàn mặt bột cho phẳng. Đặt khay nướng sao cho khuôn nằm chính giữa lò nướng (<em>thường là khay đặt thấp hơn nấc chính giữa 1 nấc</em>). Nướng ở nhiệt độ quy định trong 35-40 phút. Kiểm tra bánh chín bằng cách xiên tăm hoặc que thử vào chính giữa bánh, rút lên thấy tăm sạch là bánh đã chín. Ngoài ra, khi ấn nhẹ lên mặt bánh thì sẽ lập tức phồng trở lại.</p>
+<p><strong>Ghi chú: </strong>Bánh có thể sẽ nứt mặt một chút, nhưng đằng nào lát nữa chúng ta cũng sẽ làm nó vụn ra nên đây không phải là vấn đề :D. Nếu sau khi nướng khoảng 25-30 phút các bạn cảm thấy mặt bánh quá khô thì có thể dùng một tờ giấy bạc che mặt bánh rồi nướng đến khi bánh chín hoàn toàn.</p>
+<p>9. Bánh chín để nguội trong khuôn khoảng 5 phút rồi lấy bánh ra, để nguội hoàn toàn trên rack.</p>
+<p><strong><span style="text-decoration: underline;">II. Cake pop</span></strong></p>
+<p><strong>Nguyên liệu</strong></p>
+<ul>
+<li><em>200gram cốt bánh </em></li>
+<li><em>100-110gram cream cheese</em></li>
+<li><em>Candy melts hoặc Chocolate (có thể chọn Chocolate trắng/ đen/ sữa tùy thích)</em></li>
+<li><em>Kẹo đường trang trí </em></li>
+<li><em>Que cắm bánh (không bắt buộc) </em></li>
+</ul>
+<p>* <strong>Ghi chú:</strong></p>
+<p><em>Công thức bánh ở trên cho khoảng 500gram cốt bánh, nhưng trong CT Cake pop này mình để lượng bánh là 200gram để dễ quy đổi tỉ lệ. Các bạn làm nhiều bánh hơn thì chỉ cần tăng các thành phần còn lại lên là được. Với một công thức Cake pop này có thể làm được 10-15 cái cake pop có trọng lượng khoảng 20-40gram. </em></p>
+<p><strong>Cách làm</strong></p>
+<p>1. Cốt bánh (đã nguội) cắt ra thành 4 – 6 miếng. Cầm hai miếng bánh xát vào nhau cho cốt bánh vụn ra, hoặc các bạn cũng có thể dùng food processor, dùng thìa/ nĩa để nghiền, làm sao để cuối cùng có một âu vụn bánh tơi, và không còn các miếng vụn bánh quá to là được. <em>Nếu phần vỏ mặt bánh hơi cứng thì có thể gọt bỏ phần này đi. </em></p>
+<p>2. Cream cheese dùng nĩa đánh cho mềm bớt. Cho cream cheese vào trộn cùng vụn bánh. Hỗn hợp cuối cùng sẽ dẻo và mềm, khá giống đất nặn.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6866104490/" title="2012-03-031 by LinhTrang9185, on Flickr"><img alt="2012-03-031" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7274/6866104490_94c74d9855.jpg" width="500"/></a></p>
+<p>3. Chuẩn bị đĩa hoặc khay có lót giấy nến. Rửa tay thật sạch rồi nặn bánh thành hình tùy thích. Nếu muốn cắm bánh trên que thì mỗi viên bánh không nên nặng quá 25gram. Đặt viên bánh đã nặn lên khay lót giấy nến. Bọc kín rồi để ngăn đá khoảng 10-15 phút cho bánh cứng lại (nhưng không để quá lâu đến mức bánh bị đông đá).</p>
+<p>4. Candy melts cho vào lò vi sóng quay chảy theo hướng dẫn trên vỏ bao. Chocolate bẻ miếng nhỏ, cho vào bát chưng cách thủy hoặc quay lò vi sóng cho chảy ra (lưu ý, nếu quay lò vi sóng thì khoảng 20-30 giây lấy chocolate ra quấy một lần, tránh để chocolate bị cháy).</p>
+
+
+<p>5. Nhúng que vào candy melts hoặc chocolate rồi cắm vào bánh (giúp giữ bánh chắc hơn). Tiếp theo nhúng cả viên bánh vào candy melts hoặc chocolate. Khi nhấc que lên có thể gõ nhẹ vào que cho các phần kẹo thừa chảy bớt xuống. Nếu dùng kẹo đường trang trí thì rắc ngay tại bước này. Để bánh ở nơi khô &amp; thoáng mát hoặc ngăn mát tủ lạnh đến khi phần vỏ đông cứng lại.</p>
+<p>Với phần nhúng bánh này, có một vài lưu ý là:</p>
+<p>+ Khi nhúng thì giữ thẳng que và nhúng thẳng bánh xuống, tốt nhất là dùng cốc hoặc bát sâu lòng để nhúng được bánh ngập trong kẹo. Không nên làm động tác quấy vì sẽ dễ làm cho các vụn bánh rơi ra, hòa với kẹo, làm hỗn hợp kẹo bị lổn nhổn.</p>
+<p>+ Các bạn sống ở nơi có nhiệt độ, độ ẩm cao thì có thể các viên bánh sẽ mềm nhanh, dễ làm bánh bị vỡ khi nhúng vào kẹo. Tốt nhất là giữ bánh trong tủ lạnh đến khi nhúng mới lấy ra.</p>
+<p>Đây là các bước cơ bản để làm Cake pop. Riêng phần tạo hình thì Challenge lần này muốn để chị em tự do sáng tạo nên không có quy định mẫu cụ thể. Đơn giản nhất là hình tròn, nhúng candy melts hoặc chocolate rồi trang trí bằng kẹo đươngg hoặc vẽ các hình xinh xinh bằng đường icing.. Các bạn cũng có thể tham khảo các ý tưởng Cake pop trên mạng. Một “tài liệu tham khảo” rất tuyệt vời là <a href="http://www.bakerella.com">www.bakerella.com</a> , có rất nhiều mẫu hay và đẹp, kèm theo hướng dẫn cụ thể.</p>
+<p>Ở trong phần dưới đây thì mình xin giới thiệu hai cách làm Cake pop của mình, một là Cupcake pop và hai là Mini birthday cake pop để chị em nào cần thì tiện tham khảo nhé.</p>
+<p align="center"><strong><span style="text-decoration: underline;">Cupcake pop</span></strong></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6866118210/" title="IMG_1883-1 by LinhTrang9185, on Flickr"><img alt="IMG_1883-1" class="aligncenter" height="640" loading="lazy" src="http://farm7.staticflickr.com/6059/6866118210_f5b810272e_z.jpg" width="439"/></a><br/>
+1. Để làm hình Cupcake thì đầu tiên mình nặn thành hình trụ nhỏ, sau đấy từ khoảng giữa của hình trụ mình dùng tay nắn và ép bột ở trên hơi phình ra, tạo cái mũ của Cupcake (trông nó sẽ khá là giống cây nấm). Nặn xong bọc kín, cho bánh vào ngăn đá để 15 phút.</p>
+<p><em>(hình minh hoạ là hình cũ của mình, dùng cốt red velvet nên bánh có màu đỏ)</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6866118564/" title="2012-02-082 by LinhTrang9185, on Flickr"><img alt="2012-02-082" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7200/6866118564_c8ef0be62f.jpg" width="500"/></a></p>
+<p>2. Sô-cô-la sữa bẻ thành miếng nhỏ, cho vào lò vi sóng quay chảy</p>
+<p>3. Nhúng phần thân của từng viên bánh vào sô cô la đã đun chảy. Khi nhấc lên xoay viên bánh và gõ nhẹ vào que cho phần sô cô la thừa rơi hết. Nếu dùng que thì nhúng que vào chocolate rồi cắm que vào thân bánh, úp ngược bánh xuống như trong hình. Để lại vào ngăn đá 10-15 phút.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6866118780/" title="2012-02-083 by LinhTrang9185, on Flickr"><img alt="2012-02-083" class="aligncenter" height="400" loading="lazy" src="http://farm7.staticflickr.com/6093/6866118780_8c399a0341.jpg" width="500"/></a></p>
+<p>4. Sau khi sô-cô-la ở phần thân Cupcake đã khô hẳn thì làm nốt phần “mũ” theo cách tương tự. Mình dùng Candy melts màu hồng để làm phần này. Kẹo đường trang trí được rắc lên ngay sau khi nhúng vào Candy melts vì kẹo đông khá nhanh.</p>
+<p> </p>
+<p align="center"><strong><span style="text-decoration: underline;">Birthday cake pop</span></strong></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6866104010/" title="IMG_2609-1 by LinhTrang9185, on Flickr"><img alt="IMG_2609-1" class="aligncenter" height="640" loading="lazy" src="http://farm7.staticflickr.com/6049/6866104010_952be4bdc9_z.jpg" width="449"/></a></p>
+<p>1. Mỗi chiếc bánh sẽ gồm hai viên bánh tương đương với 2 “tầng bánh”. Viên  lớn cho tầng đế nặng khoảng 20gram, viên nhỏ cho tầng trên khoảng 5gr. Cả hai phần đều có hình trụ tròn. Khi nặn thì các bạn dùng ngón tay vuốt mép đáy trên &amp; dưới của hình trụ cho “sắc nét”, khi nhúng kẹo sẽ đẹp hơn. Bánh nặn xong bọc kín, cho vào ngăn đá 15 phút.</p>
+<p>2. Dùng xiên tre hoặc que tăm nhọn, cắm vào viên bánh nhỏ (tầng trên), nhúng vào candy melt hoặc chocolate rồi đặt lên nĩa cho khô. Nếu trang trí bằng kẹo đường thì rắc ngay sau khi nhúng kẹo. Làm hết một lượt cho tất cả các viên bánh nhỏ. Để khô.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6866104640/" title="2012-03-032 by LinhTrang9185, on Flickr"><img alt="2012-03-032" class="aligncenter" height="361" loading="lazy" src="http://farm8.staticflickr.com/7096/6866104640_ba183c1331.jpg" width="500"/></a></p>
+<p>3. Sau khi “tầng trên” của bánh khô thì làm tương tự với tầng dưới. Sau khi nhúng viên bánh to vào kẹo thì đặt viên bánh nhỏ lên trên để tạo thành chiếc bánh có 2 tầng. Vì viên bánh nhỏ đã khô nên có thể cầm bằng tay và đặt lên viên bánh lớn rất dễ dàng. Đặt cả cái lên nĩa hoặc giấy nến (<em>nếu dùng que thì cắm que khi nhúng viên lớn vào kẹo).</em> Để khô rồi trang trí tùy thích. Mình vẽ thêm hoạ tiết bằng đường icing.</p>
+<p>Birthday cake pop kiểu này cũng có thể cắm que, nhưng có lẽ nên làm nhỏ hơn một chút thì cắm que sẽ dễ và chắc chắn hơn. Ngoài ra vì tầng đáy dẹt nên sẽ hơi dễ vỡ, tốt nhất là các bạn nhúng que vào kẹo, cắm vào bánh, cho vào tủ lạnh để thật cứng rồi mới lấy ra nhúng tiếp và lắp phần trên.</p>
+<p>Chúc các bạn sẽ có những chiếc cake pops thật ngon và đẹp <strong>:)</strong><strong></strong></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

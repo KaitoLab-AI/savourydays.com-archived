@@ -1,0 +1,88 @@
+---
+title: "Cách làm MOUSSE SỮA CHUA – ỔI HỒNG (không cần lò)"
+date: "2022-04-06"
+slug: "cach-lam-mousse-sua-chua-oi-hong-khong-can-lo"
+categories: []
+tags: []
+image: "/wp-content/uploads/2022/04/IMG_0138-3-scaled.jpg"
+description: "Món bánh tráng miệng không dùng lò, thanh mát vị sữa chua, thơm mùi ổi hồng, cách tạo hình cực xinh"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400;">Một món ăn siêu dễ thương, mát lạnh, thanh mát dễ ăn và cực kỳ dễ làm để chào hè đây ạ 😁Ổi và sữa chua là hương vị quả rất quen thuộc với người Việt (mọi người chắc ai cũng có tuổi thơ dữ dội với gói kẹo Oishi ổi và sữa chua 😄) mà SD lại chưa có bánh nào vị ổi cả, như thế làm sao mà đượcccc???</span></p>
+<p><span style="font-weight: 400;">Mousse sữa chua mát lạnh, chua chua thanh thanh, xốp tan trong miệng, thạch ổi hồng thơm mát đặc trưng, thêm đế bánh Oreo giòn giòn, ăn đến đâu là mát mẻ dễ chịu đến đó, cực phù hợp làm tráng miệng cho những bữa cơm nhiều đạm 😁</span></p>
+<p><span style="font-weight: 400;">Cách làm cực dễ, bạn nào không có lò cũng bon chen thoải mái nha ;)</span></p>
+<h2><span style="color: #800000;">Cách làm MOUSSE SỮA CHUA – ỔI HỒNG (không cần lò)</span></h2>
+<p><strong>A. Thạch ổi hồng (khuôn vuông 16cm)</strong></p>
+<ul>
+<li><em><span style="font-weight: 400;">150 gram sinh tố ổi hồng</span></em></li>
+<li><em><span style="font-weight: 400;">200 gram nước</span></em></li>
+<li><em><span style="font-weight: 400;">15 – 25 gram đường (không bắt buộc, có thể điều chỉnh theo khẩu vị)</span></em></li>
+<li><em><span style="font-weight: 400;">15 gram gelatin dạng lá</span></em></li>
+</ul>
+<p><strong>B. Đế bánh quy</strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em><span style="font-weight: 400;">12 cái bánh Oreo, bỏ phần kem trắng ở giữa</span></em></li>
+<li><em><span style="font-weight: 400;">40 gram bơ động vật không muối, đun chảy </span></em></li>
+</ul>
+<p><strong>C. Mousse sữa chua</strong></p>
+<ul>
+<li><em><span style="font-weight: 400;">9 gram gelatin dạng lá</span></em></li>
+<li><em><span style="font-weight: 400;">300 gram sữa chua ko đường, để NGUỘI hoàn toàn ở nhiệt độ phòng</span></em></li>
+<li><em><span style="font-weight: 400;">55 gram đường xay</span></em></li>
+<li><em><span style="font-weight: 400;">210 gram kem tươi (whipping cream)</span></em></li>
+</ul>
+<p><strong>D. Thạch dừa</strong></p>
+<ul>
+<li><em><span style="font-weight: 400;">350 gram nước dừa</span></em></li>
+<li><em><span style="font-weight: 400;">20 gram đường kính (không bắt buộc)</span></em></li>
+<li><em><span style="font-weight: 400;">12 gram gelatin dạng lá</span></em></li>
+</ul>
+<p><strong>Lưu ý về nguyên liệu:</strong></p>
+<p><span style="font-weight: 400;">– Nên dùng gelatin dạng lá hương vị sẽ thơm ngon hơn, dễ xử lý hơn gelatin dạng bột.</span></p>
+<p><span style="font-weight: 400;">– Sinh tố ổi hồng mình dùng loại bán sẵn (hay dùng trong pha chế), của Berino hay Golden Farm đều được. Các bạn có thể dùng bất kì loại sinh tố hoa quả nào (xoài, kiwi, chanh leo,..) với lượng tương đương để biến tấu hương vị.</span></p>
+<p><strong>Cách làm</strong></p>
+<p><strong>A. Thạch ổi hồng</strong></p>
+<p>1. Gelatin ngâm nước lạnh tới khi gelatin nở mềm.</p>
+<p><span style="font-weight: 400;">2. Cho nước, sinh tố ổi, đường vào nồi. Khuấy đều trên lửa vừa tới khi hỗn hợp gần sôi, cho lá gelatin đã vắt kiệt nước vào, khuấy đều cho gelatin tan hoàn toàn. </span></p>
+<p><span style="font-weight: 400;">3. Ở bước này nếu muốn màu thạch đậm hơn có thể dùng thêm màu thực phẩm hồng.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400;">4. Đổ thạch vào khuôn (mình dùng khuôn vuông 18cm để thạch có độ dày vừa phải). Hớt bọt. Để thạch nguội rồi cho vào tủ lạnh tối thiểu 3 giờ tới khi thạch đông hoàn toàn.</span></p>
+<p><span style="font-weight: 400;">5. Sau khi thạch đông, dùng khuôn cắt bánh quy cắt thành các hình tùy thích. Một phần thành cắt dạng khối nhỏ để trộn cùng mousse sữa chua.</span></p>
+<p><span style="font-weight: 400;">6. Giữ lạnh các phần thạch tới khi dùng.</span></p>
+<p> </p>
+<p><strong>B. Đế bánh quy</strong></p>
+<p><span style="font-weight: 400;">1. Bánh quy đập/xay vụn. Cho bơ nhạt đun chảy vào, trộn thật đều.</span></p>
+<p><span style="font-weight: 400;">2. Lót giấy nến xuống đáy khuôn, cho bánh quy vào. Dùng thìa dàn đều rồi nén chặt để bánh quy kết dính tốt.</span></p>
+<p><span style="font-weight: 400;">3. Để khuôn vào tủ lạnh tối thiểu 30 phút cho đế bánh cứng lại.</span></p>
+<p> </p>
+<p><strong>C. Mousse sữa chua</strong></p>
+<p><span style="font-weight: 400;">1. Sữa chua cần ĐỂ NGUỘI hoàn toàn ở nhiệt độ phòng trước khi dùng.</span></p>
+<p><span style="font-weight: 400;">2. Ngâm gelatin vào nước lạnh khoảng 10 phút đến khi gelatin nở mềm. Chắt hết nước trong bát chỉ để lại khoảng 15ml. Mang bát gelatin đi quay lò vi sóng hoặc đun cách thuỷ khoảng 15-20 giây đến khi gelatin tan chảy hoàn toàn. </span></p>
+<p><span style="font-weight: 400;"><strong>Lưu ý:</strong> Nếu làm chảy gelatin bằng lò vi sóng, chỉ quay ở mức nhiệt thấp, 10 giây lấy ra để khuấy đều và kiểm tra một lần, tránh việc gelatin bị cháy, vón cục ở đáy bát vì nhiệt cao hoặc thời gian lâu.</span></p>
+<p><span style="font-weight: 400;">3. Sữa chua để nguội ở nhiệt độ phòng, trộn đều với đường xay. Từ từ đổ gelatin vào, vừa đổ vừa khuấy đều. Lưu ý: Sữa chua cần để nguội hoànn toàn, nếu không khi đổ gelatin vào sẽ làm gelatin vón cục hoặc đông lại rất nhanh.</span></p>
+<p><span style="font-weight: 400;">4. Đánh kem tươi đến khi bông mềm (gần cứng). Chia sữa chua thành 2 – 3 phần, lần lượt trộn với kem tươi bằng kỹ thuật fold.</span></p>
+
+
+<p><span style="font-weight: 400;">5. Đổ ½ lượng mousse vào khuôn, xếp thạch ổi cắt khối nhỏ vào, đổ nốt phần mousse còn lại vào, dàn đều khắp khuôn.</span></p>
+<p><span style="font-weight: 400;">6. Để mousse vào tủ lạnh 4 – 6 giờ cho mousse đông lại.</span></p>
+<p> </p>
+<p><strong>D. Thạch dừa</strong></p>
+<p><span style="font-weight: 400;">1. Ngâm gelatin vào nước lạnh khoảng 10 phút đến khi gelatin nở mềm.</span></p>
+<p><span style="font-weight: 400;">2. Đun nước dừa và đường tới khi gần sôi. Vắt kiệt nước gelatin và cho vào nồi, khuấy nhanh tay tới khi gelatin tan hoàn toàn.</span></p>
+<p><span style="font-weight: 400;">3. Pha thêm màu hồng tùy thích, để phần thạch này NGUỘI hoàn toàn ở nhiệt độ phòng.</span></p>
+<p> </p>
+<p><strong>E. Hoàn thiện</strong></p>
+<p><span style="font-weight: 400;">1. Khi mousse đã đông, thạch dừa đã nguội hoàn toàn. Dùng thìa đổ nhẹ nhàng phần thạch lên mặt mousse. Lưu ý không đổ mạnh, tránh làm hỏng lớp mousse phía dưới.</span></p>
+<p><span style="font-weight: 400;">2. Đổ tới khi lớp thạch dày khoảng 5mm thì dừng lại, cho bánh vào tủ lạnh khoảng 20 – 30 phút cho phần thạch này se mặt.</span></p>
+<p><span style="font-weight: 400;">3. Sau khi lớp thạch đầu tiên đã đông, xếp thạch lên và nhẹ nhàng đổ phần thạch còn lại vào. Việc đổ thạch dừa thành 2 lên sẽ giúp phần thạch ổi như đang “lơ lửng” giữa lớp thạch trong.</span></p>
+<p><strong>4. Để bánh vào tủ lạnh tối thiểu 6 giờ (tốt nhất là qua đêm) cho bánh đông hoàn toàn.</strong></p>
+<p><span style="font-weight: 400;"><strong>* Cách lấy bánh:</strong> Dùng khăn nóng áp quanh thành khuôn, hoặc dùng máy sấy tóc sấy rất nhanh quanh thành khuôn cho bánh hơi chảy ra một chút. Lưu ý nếu dùng máy sấy chỉ sấy mỗi mặt khoảng 1 – 2 giây, tránh làm bánh chảy quá.</span></p>
+<p><img alt="" class="alignnone wp-image-9092" height="372" loading="lazy" sizes="(max-width: 554px) 100vw, 554px" src="/wp-content/uploads/2022/04/IMG_0293-300x201.jpg" width="554"/></p>
+<p> </p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

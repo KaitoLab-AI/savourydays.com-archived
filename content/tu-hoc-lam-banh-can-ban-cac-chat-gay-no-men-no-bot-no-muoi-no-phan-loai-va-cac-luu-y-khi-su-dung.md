@@ -1,0 +1,106 @@
+---
+title: "Tự học làm bánh căn bản – Các chất gây nở (men nở, bột nở, muối nở…) – Phân loại và Các lưu ý khi sử dụng"
+date: "2012-03-27"
+slug: "tu-hoc-lam-banh-can-ban-cac-chat-gay-no-men-no-bot-no-muoi-no-phan-loai-va-cac-luu-y-khi-su-dung"
+categories: ["Kinh nghiệm nấu nướng", "Làm bánh"]
+tags: ["baking powder", "baking soda", "bột nở", "bột nổi", "chia sẻ", "làm bánh căn bản", "men nở", "muối nở", "yeast"]
+image: "/wp-content/uploads/2012/03/00061809.jpg"
+description: "men no, men lam banh, kinh nghiem lam banh, ki thuat lam banh, tu hoc lam banh"
+---
+
+<p><em>Xem các phần khác của “Tự học làm bánh căn bản”</em> tại <strong><a href="/?page_id=607">ĐÂY </a></strong></p>
+<p>“Các chất gây nở”.. nghe hơi buồn cười nhỉ.</p>
+<p>Nhưng mà mình cũng không biết phải dịch thế nào cho chuẩn hơn :( Bạn nào giúp mình với.</p>
+<p>Nói về các chất giúp nở, có lẽ nên chia thành hai nhóm cơ bản, liên quan đến hai loại bánh chính là bánh  mỳ (bread) và bánh ngọt (cake) (thật ra chia như thế này không hoàn toàn chính xác, nhưng ở mức độ căn bản thì mình nghĩ chia theo cách này sẽ dễ hiểu nhất).</p>
+<p>Với bánh mỳ (bao gồm cả các loại bánh mỳ ngọt, croissant…), thứ được sử dụng để giúp bánh nở là men nở (yeast). Còn với bánh ngọt thì hai loại chất giúp nở thường dùng là bột nở (baking powder) và muối nở (baking soda/ bicarb). Tuy nhiên, cần phải nói thêm là không phải loại bánh ngọt nào cũng cần dùng bột nở hay muối nở, vì có riêng một dòng bánh (Foam Cake) dựa vào bọt khí trong trứng hay lòng trắng trứng đánh bông để nở mà không cần đến sự hỗ trợ của bột nở.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Các thông tin như lịch sử hình thành và sử dụng, thành phần cấu tạo,.. của từng loại chất gây nở, mình xin phép bỏ qua, bạn nào muốn tìm hiểu thêm thì có thể sử dụng Google để tìm kiếm, thông tin có rất nhiều. Trong phạm vi của bài này mình tập trung vào việc phân loại và phân biệt những chất gây nở này, công dụng của từng loại và cách sử dụng nhé.</p>
+<p>(*) <strong>Lưu ý:</strong> <span style="color: #ff0000;">Men nở, bột nở và muối nở là ba loại khác nhau, đặc biệt men nở khác hoàn toàn với bột nở/ muối nở, không thể dùng thay thế được nên khi làm các bạn lưu ý không nhầm lẫn các nguyên liệu này với nhau (men dùng để làm đa số các loại bánh mì, bột nở và muối nở thì dùng để làm bánh ngọt). </span></p>
+<p><strong>1. <span style="text-decoration: underline;">Men nở (Yeast)</span></strong></p>
+<p>Ở trong <strong><a href="/?p=1997">bài về bột mỳ</a></strong> lần trước, mình có giải thích sơ qua về Gluten, sự hình thành Gluten trong bột bánh khi nhào trộn và cơ chế nở cũng như hình thành nên một chiếc bánh (mỳ) từ bột. Mặc dù Gluten là yếu tố quan trọng, đóng vai trò chính trong việc hình thành cấu trúc cho bánh, nhưng chỉ riêng Gluten thì chưa đủ. Đúng hơn thì Gluten chỉ là điều kiện cần. Gluten giúp tạo ra các “lỗ” và “khe” trong bột bánh, và trong các lỗ này đều có hơi khí. Khi nướng, các hơi khí này nở phồng to, đồng thời Gluten gặp nhiệt cao sẽ cứng lại, tạo ra chiếc bánh nở phồng xốp.</p>
+<p>Vậy hơi khí trong các lỗ này ở đâu ra? Với các loại bánh có sử dụng men nở (bánh mỳ, Danish pastry, …) thì câu trả lời nằm ở <strong>men (yeast)</strong>. Men là một loại vi sinh vật có khả năng tiết ra một số loại enzymes giúp thúc đẩy quá trình lên men trong bột bánh mỳ. Cụ thể là giúp chuyển hóa một số chất trong bánh để tạo ra rượu và khí các-bon (<em>cái này có giải thích về mặt hóa học, nhưng nói thật là hồi đi học mình dốt nhất là môn Hóa nên chỉ giải thích được đến đây thôi :P</em>). Rượu sẽ bay hơi hết trong quá trình ủ bột và nướng, còn khí các-bon thì được giữ lại nhờ Gluten, và tiếp theo thế nào thì như ở trên đã giải thích.</p>
+<p>Bởi vì men là một loại vi sinh vật sống, cho nên “hắn” <strong>có phản ứng lại với nhiệt độ</strong>, cụ thể là:</p>
+<ul>
+<li><strong>0-14 độ C:</strong> Men hầu như không hoạt động (0-1 độ C là nhiệt độ bảo quản men)</li>
+<li><strong>15-20 độ C:</strong> rét quá nên hoạt động rất yếu, chậm</li>
+<li><strong>20 – 37 độ C</strong>: nhiệt độ lý tưởng, hoạt động hăng say nhất</li>
+<li><strong>38-59 độ C</strong>: nóng quá nên phản ứng cũng chậm</li>
+<li><strong>60 độ C trở lên</strong>: men “hy sinh”</li>
+</ul>
+<p>Vì men hoạt động tùy theo nhiệt độ như vậy nên khi nhào và ủ bột bánh mỳ, nhiệt độ phù hợp sẽ giúp bột bánh nở nhanh &amp; tốt, ngược lại nhiệt độ không phù hợp sẽ cản trở men hoạt động, thậm chí gây chết men, làm bánh không nở được. Cái này mình sẽ nói cụ thể hơn trong bài về bánh mì.</p>
+<p>Trong làm bánh thì có <strong>3 loại men thường gặp</strong> là:</p>
+<ol>
+<li><strong>Men tươi (Fresh yeast/ Compressed yeast)</strong>: ẩm, đóng thành khối, bảo quản trong tủ lạnh. Thợ làm bánh chuyên nghiệp thường dùng men này, sách bảo thế, còn mình hóng hớt được thì dùng men tươi bánh ngon hơn, nhưng bảo quản rất mệt, lại còn phải dùng trong thời hạn ngắn nữa, trong khi một khối men tươi thì thường là khá nhiều, tầm từ 300-500gram.</li>
+<li><strong>Men khô (Active dry yeast)</strong>: dạng hạt thô, to, màu nâu, khi dùng men này <strong>nhất thiết </strong>phải kích hoạt men trước khi sử dụng, bằng cách trộn men với nước ấm (32 – 38 độ C). <em>Lượng chất lỏng này được lấy từ một phần chất lỏng <em>(nước, sữa…)  </em>có trong công thức.</em></li>
+<li><strong>Men instant (Instant yeast/ rapid rise/ quick rise yeast)</strong>: cũng là men khô, hạt mịn, màu nâu. Men instant không cần phải kích hoạt, có thể trộn thẳng với bột. Men instant giúp tạo ra nhiều khí gas hơn men khô, cho nên với cùng một lượng bột thì lượng men instant cần thiết sẽ ít hơn là men khô.</li>
+</ol>
+<p style="text-align: center;"><em>Men tươi và men khô </em></p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2012/03/00061809.jpg"><img alt="" class="aligncenter size-full wp-image-2130" height="498" loading="lazy" sizes="(max-width: 500px) 100vw, 500px" src="/wp-content/uploads/2012/03/00061809.jpg" title="00061809" width="500"/></a></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><strong>Tỉ lệ quy đổi giữa các loại me</strong>n, để dùng thay thế là (tỉ lệ tham khảo từ sách <em>Professional Baking)</em></p>
+<ul>
+<li>Nhân lượng <strong>men tươi</strong> với 0.5 để có lượng<strong> men khô</strong> tương đương. VD công thức yêu cầu 10gram men tươi, thì nếu thay bằng men khô, lượng men cần dùng sẽ là 10 x 0.5 = 5gram</li>
+<li>Nhân lượng <strong>men tươi</strong> với 0.35 để có lượng <strong>men instant</strong> tương đương. VD công thức yêu cầu 10gram men tươi, thì nếu thay bằng men instant. lượng men cần dùng sẽ là 10 x 0.35 = 3.5gram</li>
+<li>Nếu theo hai công thức trên, thì tỉ lệ quy đổi <strong>men khô: men instant</strong> là: 1 gram men khô = 0.7 gram men instant</li>
+</ul>
+<p><strong>Một số lưu ý chung với men nở</strong> là:</p>
+<ul>
+<li>Nhiệt độ phù hợp (như đã “trình bày” phía trên)</li>
+<li>Không dùng các loại men đã hết hạn (vì nhiều khả năng là men đã chết rồi).</li>
+<li>Men thích chơi với đường và thích oánh nhau với muối (và oánh nhau thì thường hay thua). Cho nên khi kích hoạt men, một chút đường sẽ giúp men hoạt động hăng hơn, nhưng nếu để men gặp muối, không cần cho vào nước, gặp nhau ngoài trời thôi, thì chiến tranh cũng có thể xảy ra, cho nên khi trộn bột bánh mỳ có muối thì nên trộn một thứ trước rồi cho thứ kia vào sau.</li>
+</ul>
+<p>Còn một vài lưu ý khác liên quan đến sử dụng men trong khi làm bánh mỳ, mình sẽ viết ở bài về làm bánh mỳ sau nhé.</p>
+<p><span id="more-2068"></span></p>
+<p><span style="text-decoration: underline;"><strong>2. Bột nở/bột nổi (baking powder ) và Muối nở (baking soda/ bicarb)</strong></span></p>
+<p>Nếu như men là loại vi sinh vật giúp tạo ra khí gas để các loại bánh mỳ nở được, thì bột nở và muối nở là hai loại chất hóa học có thể giúp sinh ra khí Các-bon, giúp các loại bánh ngọt nở xốp. Vậy hai loại này có những đặc điểm gì, chúng giống và khác nhau như thế nào, có thể dùng thay thế được không?</p>
+<p><a href="/wp-content/uploads/2012/03/baking-soda-baking-powder.jpg"><img alt="" class="aligncenter size-full wp-image-2132" height="376" loading="lazy" sizes="(max-width: 453px) 100vw, 453px" src="/wp-content/uploads/2012/03/baking-soda-baking-powder.jpg" title="baking-soda-baking-powder" width="453"/></a></p>
+<p><em><strong>2.1. Muối nở (Baking soda)</strong></em></p>
+<p>Muối nở (baking soda hay bicarbonate) khi tiếp xúc với các chất có tính acid sẽ giúp tạo ra CO2. Các chất có tính acid thường dùng trong làm bánh là: <em>mật ong, molasses (mật mía), maple syrup, đường nâu, nước ép hoa quả, buttermilk, kem chua, sữa chua, cocoa, chocolate</em>. Cho nên trong các công thức có sử dụng những nguyên liệu này, baking soda thường sẽ được sử dụng để giúp trung hòa lượng acid. Khí CO2 sinh ra từ phản ứng giữa Bicarb với các chất có tính acid sẽ bốc hơi và thoát khỏi bột bánh khá nhanh. Cho nên với các loại bánh có sử dụng baking soda, sau khi trộn bột xong (tức là sau khi baking soda tiếp xúc với nước, sữa..) cần phải được đem nướng càng nhanh càng tốt, nếu không các hơi khí này sẽ thoát ra ngoài =&gt; bánh nở kém hoặc không nở được.</p>
+<p>Ngoài sử dụng trong làm bánh, baking soda còn có rất nhiều công dụng khác, chẳng hạn như:</p>
+<ul>
+<li>Khi hầm các loại đậu đỗ, các loại thịt nhiều gân, cần ninh lâu thì một chút baking soda sẽ giúp các loại đồ ăn này mềm nhanh hơn, giảm thời gian ninh, hầm.</li>
+<li>Baking soda cũng được sử dụng trung hòa acid, chữa đau dạ dày</li>
+<li>Giúp tẩy rửa các vết bẩn trên các loại đồ dùng trong nhà tắm hay nhà bếp</li>
+</ul>
+<p><em><strong>2.2. Bột nở (Baking powder)</strong></em></p>
+<p>Về thành phần, baking powder gồm baking soda và một lượng acid nhất định để tương tác với baking soda, thêm một chút tinh bột nữa. Vì đã có acid nên baking powder có thể sử dụng linh hoạt hơn baking soda (ví dụ: trong các công thức mà thành phần nguyên liệu không có các chất nào có chứa acid như kể trên thì dùng baking powder chứ không dùng baking soda).</p>
+<p>Một vài lưu ý khi sử dụng baking powder và baking soda là:</p>
+<ol>
+<li><strong>Tuân thủ đúng lượng ghi trong công thức</strong>, bột nở nếu cho quá nhiều sẽ sinh ra nhiều hơi khí trong bánh =&gt; bánh khi nướng sẽ nở rất nhanh trong khi chưa kịp ổn định kết cấu =&gt; sau khoảng 1/2 – 2/3 thời gian nướng bánh sẽ xẹp lép. Ngoài ra, cho nhiều bột nở, muối nở còn có thể làm cho bánh có vị mặn hoặc đắng.</li>
+<li>Khi sử dụng các loại bột này, lưu ý là phải <strong>rây hoặc trộn đều</strong>. Vì chẳng hạn nếu bột tập trung nhiều ở một chỗ =&gt; hơi khí nhiều =&gt; gây lỗ to trong bánh, và có thể tạo vị mặn nữa.</li>
+<li>Như đã nói ở trên, nếu chỉ dùng baking soda thì sau khi trộn bột cần mang bánh đi nướng càng nhanh càng tốt, nếu không các hơi khí sẽ dễ bị thoát ra làm bánh nở kém. Còn với baking powder thì các loại baking powder hiện nay đa phần là double acting, cần nhiệt kích hoạt để sinh ra hơi khí và giúp bánh nở, cho nên có thể để bột bánh sau khi trộn vài chục phút rồi mang đi nướng mà không sợ bị mất hơi khí.</li>
+<li>Bảo quản cả hai loại chất gây nở này ở nơi thoáng mát, khô ráo và bọc kín, tránh để tiếp xúc với không khí, đặc biệt là nếu sống ở nơi có độ ẩm cao.<strong> Cách thử xem các loại chất gây nở còn tác dụng không là:</strong></li>
+</ol>
+<ul>
+<li>Baking powder: Pha baking powder với nước nóng (tỉ lệ: 5gram baking powder: 120ml nước), nếu baking powder còn tốt thì hỗn hợp sẽ sủi bọt ngay lập tức</li>
+<li>Baking soda: Pha baking soda với dấm (tỉ lệ: 1-2gram baking soda: 10ml dấm), baking soda còn tốt thì sẽ sủi bọt ngay lập tức</li>
+</ul>
+<p style="text-align: center;"><em>Thử bột nở</em></p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2012/03/6328496144_64c5488af1.jpg"><img alt="" class="aligncenter" height="266" loading="lazy" src="/wp-content/uploads/2012/03/6328496144_64c5488af1.jpg" title="6328496144_64c5488af1" width="400"/></a></p>
+
+
+<p>Về việc <strong>sử dụng thay thế</strong> giữa baking powder và baking soda: Có thể thay baking soda bằng baking powder theo tỉ lệ 1 baking soda = 3 baking powder, nhưng ngược lại, <strong>không thể thay baking powder  bằng baking soda</strong>, lý do là baking soda cần các loại chất có acid, nếu không sẽ hầu như không tạo ra được CO2 giúp bánh nở. Có cách trộn baking soda với cream of tartar để thay thế baking powder nhưng mình nghĩ dùng baking powder mua sẵn chắc tốt và bớt phức tạp hơn :)</p>
+<p><span style="text-decoration: underline;"><strong>3. Không khí</strong></span></p>
+<p>Không phải bánh nào cũng nở dựa vào các chất kể trên. Như mình đã nói ở đầu bài, có riêng một dòng bánh ngọt (Foam Cake) nở chủ yếu dựa vào bọt khí trong trứng đánh bông. Và cũng không chỉ các loại Foam Cake mà kể cả High Fat Cake cũng có thể nở nhờ các bọt khí có trong trứng và bơ. Cụ thể là</p>
+<p><strong>– Với High Fat Cake (các loại bánh có nhiều bơ, chất béo)</strong>: khi trộn bột theo<a href="/?p=729"> phương pháp Creaming</a>, việc đánh bông bơ với đường sẽ giúp tạo ra các lỗ khí và giữ lại không khí trong bơ, cho nên với các loại bánh này, việc đánh bơ bông xốp là rất quan trọng để giúp cho bánh nở tơi xốp. Tuy nhiên do đặc trưng của loại bánh này là nhiều bơ, nhiều bột, hỗn hợp bột bánh thường nặng nên một chút chất nở sẽ được sử dụng để hỗ trợ thêm.</p>
+<p>– <strong>Với Foam Cake (bánh ít bột, nở chủ yếu dựa vào bọt khí trong trứng đánh bông như Sponge Cake, Chiffon, Angel food cake, … và một số loại bánh khác như Soufflé..</strong> ) thì trứng (nguyên quả hoặc tách riêng lòng đỏ, trắng) sẽ được đánh bông, thường là với đường, để tạo ra các bọt khí. Với các loại bánh này thì cho thêm bột nở hay muối nở đôi khi có thể sẽ cho tác dụng ngược (giống trường hợp cho quá nhiều bột nở như trong chú ý ở phần 2).</p>
+<p><span style="text-decoration: underline;"><strong>4. Bột khai (ammonium carbonate/ baking ammonia)</strong></span></p>
+<p>Thường được sử dụng làm quẩy, giúp quẩy nở xốp và giòn. Tên gọi xuất phát từ … mùi của bột. Bột khai thường chỉ được sử dụng trong các món chiên do nhiệt độ cao của dầu mỡ có thể giúp khử bớt mùi của loại bột này. Phụ nữ mang thai và trẻ nhỏ được khuyến cáo là không nên ăn các sản phẩm có chứa bột khai.</p>
+<p><em>Thông tin trong bài viết được tham khảo từ sách Professional Baking. Hình ảnh từ Internet. </em></p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

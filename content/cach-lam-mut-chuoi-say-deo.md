@@ -1,0 +1,43 @@
+---
+title: "Cách làm mứt chuối sấy dẻo"
+date: "2018-01-24"
+slug: "cach-lam-mut-chuoi-say-deo"
+categories: []
+tags: []
+image: "/wp-content/uploads/2018/01/cach-lam-chuoi-say-deo-banner.jpg"
+description: "Cách làm chuối sấy dẻo, thơm, ngọt rất nhanh và dễ dành cho ngày Tết. Công thức kèm theo hình minh hoạ."
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<h1></h1>
+<p><em>Món ăn này được giới thiệu trong bộ sưu tập các <strong>món ăn Tết Nguyên Đán</strong>, đăng tại ứng dụng Kitchen Rock – ứng dụng điện thoại di động do Savoury Days phát triển để chia sẻ các món ăn ngon dành cho gia đình. Các bạn có thể xem video giới thiệu và tải ứng dụng từ <a href="/ung-dung-kitchen-rock-da-chinh-thuc-co-mat-tai-apple-store-va-ch-play/"><strong>bài viết này</strong></a>. </em></p>
+<p>——————–</p>
+<p>Ngày Tết gia đình nào cũng có vài nải chuối trong nhà. Ăn chuối tươi mãi chẳng hết, mang đi làm đủ loại bánh thấy vẫn còn nhiều, cho tất cả vào lò làm mứt chuối sấy dẻo là tiện nhất, vừa để được lâu mà lại còn ngon nữa chứ.</p>
+<p>Cách làm món chuối sấy dẻo này dễ vô cùng, chỉ hơi lâu và tốn điện một chút do phải sấy trong vài tiếng. Nhưng trong một lúc có thể sấy nhiều khay. Nên nếu có chủ ý làm chuối sấy ăn Tết thì bạn có thể chuẩn bị sẵn vài nải, đợi chuối chín là làm vài mẻ cùng lúc, vừa tiện mà lại tiết kiệm nữa.</p>
+<p><img alt="" class="aligncenter wp-image-7469 size-large" height="681" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/01/Chuoisayfinal-1024x681.jpg" width="1024"/></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<h2>CÁCH LÀM MỨT CHUỐI SẤY DẺO</h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<ul>
+<li><em>2 nải Chuối chín</em></li>
+<li><em>1 quả chanh</em></li>
+<li><em>200 ml nước lọc sạch</em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Lưu ý về nguyên liệu</p>
+<p>– Để làm chuối sấy dẻo, cần dùng chuối tây. Để chuối chín trứng cuốc, có đốm đen trên vỏ nhưng chưa mềm, sấy lên sẽ rất ngon và ngọt.</p>
+<p>– Chuối mình dùng trong ảnh là chuối ngự, quả to cỡ ngón tay người lớn. Sau k hi sấy xong chuối teo lại còn khoảng 1/4 – 1/3 kích thước ban đầu.</p>
+<p>– Định lượng 4 phần ăn trong công thức chỉ để tham khảo. Để làm món này, bạn có thể dùng bao nhiêu chuối tuỳ thích.</p>
+<p>2. Bật lò nướng ở nhiệt độ 100-110 độ C trước khoảng 15’. Chuẩn bị khay nướng lót giấy bạc và đặt một chiếc rack (khay có rãnh hở) lên trên. Giấy sẽ hứng nước và mật chảy ra từ chuối, giữ cho lò sạch.</p>
+<p>3. Vắt chanh vào bát nước lọc. Bóc vỏ chuối, nhúng qua bát nước chanh rồi đặt chuối lên rack. Nước chanh giúp cho chuối không bị đen và khiến cho chuối sau khi sấy có vị ngọt thơm đậm đà hơn.</p>
+<p><img alt="" class="aligncenter wp-image-7470 size-large" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/01/02B-1024x683.jpg" width="1024"/></p>
+<p>4. Cho chuối vào lò, sấy ở 100 – 110 độ C. Bạn có thể sấy 2-3 khay chuối cùng một lúc. Có thể mở hé cửa lò hoặc kẹp một chiếc đũa vào cửa lò để hơi nước thoát ra nhanh hơn. Thỉnh thoảng lấy đũa lật mặt chuối lại sấy cho đều.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Chuối sẽ dần dần se mặt và nước sẽ được rút dần ra khỏi thịt chuối trong quá trình sấy. Chuối sẽ chuyển màu sậm hơn, thơm hơn và bé hơn kích cỡ ban đầu một chút. Nếu thích làm mứt chuối dẹt, bạn có thể lấy chuối ra và ép nhẹ sau khi sấy khoảng 2 giờ, rồi lại cho chuối vào sấy tiếp.</p>
+<p><img alt="" class="aligncenter wp-image-7471 size-large" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2018/01/03-1024x683.jpg" width="1024"/><br/>
+5. Sấy trong vòng 3 – 5 tiếng hoặc cho tới khi bạn nếm thử thấy chuối vừa đủ độ ướt dẻo gần như mong muốn thì tắt lò. Lưu ý: chuối khi nguội sẽ cứng hơn chuối vừa sấy xong một chút, bởi vậy chỉ nên sấy tới khi chuối gần dẻo như ý thích, để khi nguội chuối cứng hơn là vừa. Để chuối nguội hẳn rồi cho vào túi hoặc lọ kín, để ngăn mát tủ lạnh. Trước khi ăn lấy ra để ở nhiệt độ phòng cho chuối hết lạnh, chuối sẽ mềm dẻo trở lại. Chuối sấy có thể bảo quản trong ngăn mát tủ lạnh khoảng 3 tuần.</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

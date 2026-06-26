@@ -1,0 +1,46 @@
+---
+title: "Cá kho tộ"
+date: "2012-10-08"
+slug: "ca-kho"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/10/CaKhoTo.jpg"
+description: "cách làm món cá kho tộ thơm ngon, đơn giản, nhanh và dễ nhất"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Đi chợ chỉ với dự định mua ốc, cuối cùng lại thấy mấy gói cá basa đông lạnh, tần ngần một lúc rồi tặc lưỡi cho vào giỏ vì cũng phải đến cả nửa năm rồi trong nhà chẳng có nồi cá kho nào.</p>
+<p>Cá kho là món mình rất thích, nhưng cực kì ít làm, vì mỗi lần làm là một lần nhớ nhà ghê gớm, bởi vì ở nhà mẹ mình kho cá rất rất ngon. Mình làm ở bên này dù có dùng đúng loại gia vị như thế, làm theo đúng cách như thế nhưng cũng chẳng bao giờ cho ra được món cá ngon như cá mẹ kho được. Cho nên cứ làm cá kho là lại nhớ mẹ, nhớ nhà. Một lí do khác nữa là cá để kho ở bên này không có nhiều loại, lại thường là đông lạnh nên thịt hầu như chẳng thấy vị ngọt đâu, chỉ thấy bã và bở, cho nên nhiều khi vừa ăn vừa an ủi là thôi thì có vị cá kho là thích rồi.</p>
+<p>Nhưng mà thôi, đầu tuần cũng nên nói chuyện theo cách tích cực một tí, nhỉ? :) Cá kho tộ là món mình nghĩ có lẽ rất hợp với lúc trời chuyển mùa, mưa và lạnh như mấy ngày này. Có nồi cá kho ăn với cơm trắng cứ gọi là tốn cơm. Mà không chỉ có cá, nước kho cá cũng tuyệt, mằn mặn, ngòn ngọt và cay xé lưỡi, hơi giống kiểu kho quẹt,  trộn cơm ngon hay chấm rau luộc thì… chẹp chẹp ;;)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8067204785/" title="IMG_7540-1 by LinhTrang9185, on Flickr"><img alt="IMG_7540-1" class="aligncenter" height="333" loading="lazy" src="http://farm9.staticflickr.com/8453/8067204785_517d6b301e.jpg" width="500"/></a></p>
+<p><span style="color: #993300;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em>500 gram cá basa </em></li>
+<li><em>200 gram thịt ba chỉ, thái miếng vừa ăn (không bắt buộc)</em></li>
+<li><em>3-4 củ hành hương (hoặc có thể thay bằng hành tím) – bóc vỏ, bằm nhuyễn </em></li>
+<li><em>2-3 tép tỏi – bóc vỏ bằm nhuyễn </em></li>
+<li><em>2-3 quả ớt (hoặc nhiều hơn, tùy khả năng ăn cay)</em></li>
+<li><em>3-4 thìa canh nước hàng (nước màu, xem cách làm tại <a href="/mon-an-sinh-vien-thit-kho-mot-so-cach-uop-thit-khuyen-mai-cach-chung-nuoc-mau/" target="_blank"><strong>đây</strong></a>)</em></li>
+<li><em>Nước mắm </em></li>
+<li><em>Muối, Đường, tiêu </em></li>
+</ul>
+<p><span style="color: #993300;"><strong>Cách làm </strong></span></p>
+<p>1. Cá ba sa làm sạch, chặt khúc. Có thể rửa qua với chút rượu pha gừng đập dập cho bớt tanh. Rửa sạch, thấm thật khô rồi dùng khoảng 1 thìa cafe muối để ướp khoảng 20 phút, sẽ giúp cá bớt tanh và rắn hơn khi kho.</p>
+<p>2. Đun nóng khoảng 3 – 4 thìa canh dầu ăn trong chảo. Cho một nửa số hành tỏi vào phi vàng rồi vớt ra, để dành lại dùng sau. Chiên cá ở lửa gần to tới khi mặt ngoài cá vàng rộm. Bước này chỉ cần chiên nhanh để mặt cá se lại và vàng, không cần chín.</p>
+<p>3. Xếp cá vào nồi. Các bạn nên chọn nồi đủ to để làm sao có thể xếp cá thành 1 lớp, thịt xen kẽ hoặc thành 1 lớp, kho sẽ ngon hơn. <em>Không nên xếp chồng nhiều lớp cá lên nhau. </em></p>
+<p>Ướp cá với nước hàng, khoảng 2-3 thìa canh nước mắm (<em>lượng nước mắm có thể thay đổi, tùy theo khẩu vị của gia đình, tốt nhất là nên ướp nhạt, sau có thể cho thêm mắm, chữa dễ hơn là ướp mặn ngay từ đầu</em>), phần hành, tỏi tươi còn lại. Để 30 phút cho ngấm. Nếu các bạn có thịt thì ướp cùng cá. Thường thịt ba chỉ sẽ giúp món cá có vị béo ngậy hơn, nhưng không phải lúc nào mình cũng cho vào vì cá basa vốn dĩ cũng rất nhiều mỡ rồi.</p>
+<p>4. Vặn lửa to đun sôi rồi thêm nước nóng cho xâp xấp cá (không đổ nước lạnh sẽ làm cá bị tanh). Đập dập ớt cho vào nồi. Nêm nếm lại mặn ngọt cho vừa ăn. Hạ lửa nhỏ, để hé vung, kho đến khi gần cạn nước. <em>Trong quá trình kho hạn chế lật cá, đặc biệt nếu là cá đông lạnh vì sẽ khiến miếng cá dễ bị vỡ. </em></p>
+<p>Cá kho càng lâu sẽ càng chắc thịt và có màu đẹp. Đặc biệt với cá đông lanh thì càng nên kho lâu. Trong quá trình kho các bạn có thể thêm <strong>nước sôi</strong> nếu cảm thấy nước trong nồi quá cạn. Thường thì mình kho khá lâu, khoảng hơn 1 tiếng, ở mức 2/6 của bếp điện. Trong khoảng thời gian cuối mình mở vung và vặn lửa to để nước bay hơi từ từ, đến lúc nước cạn lại còn hơi sền sệt. Phần nước này trộn cơm hay làm nước chấm rau luộc đều rất rất ngon.</p>
+<p>* Để cá thơm hơn, khi bắc khỏi bếp các bạn cho vào nồi phần hành tỏi phi ở bước (2) và rắc tiêu lên mặt cá (tiêu rắc cuối cùng, sau khi cá đã kho xong sẽ thơm hơn).</p>
+<p>——-</p>
+<p><span style="color: #ff0000;"><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ email: <span style="color: #000000;">savourydaysvn@gmail.com</span>. Mọi hành động cố tình vi phạm sẽ chịu xử lí theo quy định của pháp luật.<br/>
+</span></strong></p>
+<p> </p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

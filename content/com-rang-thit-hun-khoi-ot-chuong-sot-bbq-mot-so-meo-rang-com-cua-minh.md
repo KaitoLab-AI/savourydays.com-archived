@@ -1,0 +1,78 @@
+---
+title: "Cơm rang thịt hun khói, ớt chuông & sốt BBQ – Một số mẹo rang cơm của mình"
+date: "2011-05-23"
+slug: "com-rang-thit-hun-khoi-ot-chuong-sot-bbq-mot-so-meo-rang-com-cua-minh"
+categories: []
+tags: []
+image: "/wp-content/uploads/2011/05/Com-rang-thit-hun-khoi.jpg"
+description: "Cách rang cơm ngon với thịt hun khói và sốt BBQ lạ miệng. Công thức có hình minh hoạ các bước và bí quyết để rang cơm ngon - Savoury Days"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Cơm rang là món tiết kiệm số một. Điều này ít ra là rất đúng với mình. Thường thì khi rang cơm là khi trong tủ lạnh còn nhiều thứ linh tinh và mục đích của việc rang là để dọn tủ. Lần này thì là do trong tủ còn một hộp thịt ba chỉ hun khói, ngô ngọt còn thừa lại từ vụ làm salad trứng lần trước, với ít ớt chuông. Túm lại là đủ rau, đủ thịt cho nên làm món đã lâu ngày không làm :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5750294084/" title="Fried rice with bacon, paprika &amp; BBQ sauce by LinhTrang9185, on Flickr"><img alt="Fried rice with bacon, paprika &amp; BBQ sauce" class="aligncenter" height="700" loading="lazy" src="http://farm3.static.flickr.com/2176/5750294084_16a8b47fb0.jpg" width="528"/></a></p>
+<p>Cơm rang lần này được “đổi mới” thêm một chút ở chỗ là mình thử ướp sốt BBQ với thịt hun khói trước khi rang. Kết quả phát hiện ra là mùi vị của BBQ rất hợp với thịt hun khói và ớt chuông nhé. Mình cũng không dùng tí dầu ăn nào để rang cơm, chỉ dùng mỡ tiết ra từ thịt ba chỉ. Nhưng cũng nhờ thế mà lúc ăn cảm thấy hạt cơm có vị thơm ngậy rất hay, và không bị quá ngấy.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5749747815/" title="Fried rice with bacon, paprika &amp; BBQ sauce by LinhTrang9185, on Flickr"><img alt="Fried rice with bacon, paprika &amp; BBQ sauce" class="aligncenter" height="7300" loading="lazy" src="http://farm3.static.flickr.com/2586/5749747815_03cb15aa7f.jpg" width="554"/></a></p>
+<p> </p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<h2><strong>CÁCH LÀM CƠM RANG</strong></h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<ul>
+<li style="text-align: left;"><em>100g thịt ba chỉ hun khói</em></li>
+<li style="text-align: left;"><em>1/3 quả ớt chuông đỏ</em></li>
+<li style="text-align: left;"><em>1/3 quả ớt chuông xanh</em></li>
+<li style="text-align: left;"><em>2 thìa canh (tablespoons) ngô ngọt đóng hộp</em></li>
+<li style="text-align: left;"><em>1/3 củ hành tây</em></li>
+<li style="text-align: left;"><em>1 quả trứng</em></li>
+<li style="text-align: left;"><em>1 bát cơm nguội</em></li>
+<li><em>Xì dầu (nước tương), dầu hào</em></li>
+</ul>
+<p><em><strong>Sốt BBQ:</strong></em></p>
+<ul>
+<li style="text-align: left;"><em>2 <em>thìa canh</em> Ketchup</em></li>
+<li style="text-align: left;"><em>2 thìa cafe (teaspoon) Worcertershire sauce</em></li>
+<li style="text-align: left;"><em>1 <em>thìa canh</em> mật ong</em></li>
+<li style="text-align: left;"><em>¼ <em>thìa cafe</em> mù tạt vàng</em></li>
+<li style="text-align: left;"><em>1/8 <em>thìa cafe</em> bột hành</em></li>
+<li style="text-align: left;"><em>1/8 <em>thìa cafe</em> bột tỏi</em></li>
+</ul>
+<p style="text-align: left;">Quậy đều tất cả các nguyên liệu làm sốt BBQ, cho vào lò vi sóng khoảng 1 phút (sốt sẽ có vị chua ngọt và hơi cay của mù tạt, không có vị mặn vì thịt hun khói đã mặn rồi)</p>
+<p><strong>Cách làm:</strong></p>
+<p>1. Trộn thịt hun khói với sốt BBQ. Để sang một bên</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5749748009/" title="fried rice Ingre 1 by LinhTrang9185, on Flickr"><img alt="fried rice Ingre 1" class="aligncenter" height="236" loading="lazy" src="http://farm3.static.flickr.com/2553/5749748009_220d63c5f5.jpg" width="500"/></a></p>
+<p>2. Ớt chuông xanh đỏ thái hạt lựu. Hành tây thái hạt lựu. Mang ½ số hành tây đi băm nhỏ để rang với cơm.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5749748087/" title="fried rice Ingre 2 by LinhTrang9185, on Flickr"><img alt="fried rice Ingre 2" class="aligncenter" height="333" loading="lazy" src="http://farm3.static.flickr.com/2664/5749748087_a56f3347a1.jpg" width="500"/></a></p>
+<p>3. Cho thịt hun khói vào chảo, rang sơ ở nhiệt độ cao trong khoảng 1-2 phút. Tiếp theo cho hành tây vào đảo cùng thịt (thịt hun khói sẽ tự tiết ra mỡ cho nên không cần cho dầu ăn).</p>
+<p>4. Đợi thịt hun khói tương đối săn lại thì cho ớt chuông, ngô ngọt vào trộn đều thêm khoảng 1 phút (mình thích ăn ớt chuông lúc nó còn giòn nên đoạn này chỉ trộn đều rồi bắc ra luôn, các bạn có thể để lâu hơn, tùy thích nhé). Múc hỗn hợp thịt, ớt &amp; hành ra bát để riêng, để lại mỡ tiết ra từ thịt để rang cơm.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5749748195/" title="fried rice Ingre 3 by LinhTrang9185, on Flickr"><img alt="fried rice Ingre 3" class="aligncenter" height="333" loading="lazy" src="http://farm6.static.flickr.com/5148/5749748195_6f3d790d53.jpg" width="500"/></a></p>
+<p>5. Phi thơm hành tây băm nhỏ trong chảo vừa dùng xào thịt. Để lửa to, cho cơm vào chảo, dùng đũa đánh cho hạt cơm tơi đều. Rang đến khi hạt cơm săn tương đối (khoảng 3-4 phút)</p>
+<p>6. Nhắc chảo ra khỏi bếp. Đánh tan trứng. Đổ trứng vào chảo + xì dầu, dầu hào, trộn đều với cơm. Bắc lại chảo lên bếp và rang ở lửa to cho hạt cơm săn lại.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5749748331/" title="fried rice Ingre 4 by LinhTrang9185, on Flickr"><img alt="fried rice Ingre 4" class="aligncenter" height="333" loading="lazy" src="http://farm6.static.flickr.com/5108/5749748331_1e3f0513d2.jpg" width="500"/></a></p>
+<p>7. Cho hỗn hợp thịt &amp; ớt vào trộn đều với cơm.</p>
+<p style="text-align: left;"><a href="http://www.flickr.com/photos/55490207@N05/5749748409/" title="fried rice Ingre 5 by LinhTrang9185, on Flickr"><img alt="fried rice Ingre 5" class="aligncenter" height="167" loading="lazy" src="http://farm3.static.flickr.com/2494/5749748409_ee13e908a7.jpg" width="500"/></a></p>
+<p style="text-align: left;">8. Múc cơm ra bát, đĩa &amp; măm măm lúc cơm còn đang nóng nhé :)</p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/55490207@N05/5749747727/" title="Fried rice with bacon, paprika &amp; BBQ sauce by LinhTrang9185, on Flickr"><img alt="Fried rice with bacon, paprika &amp; BBQ sauce" class="aligncenter" height="700" loading="lazy" src="http://farm6.static.flickr.com/5109/5749747727_6d5b09bb6f.jpg" width="522"/></a>—————————————————————————————</p>
+<p style="text-align: center;"><strong><span style="text-decoration: underline;">Cuối cùng là một số mẹo rang cơm ngon của mình :)</span></strong></p>
+<p>Thế nào là cơm rang ngon? Câu này rất khó trả lời vì nó còn phụ thuộc vào khẩu vị của từng người (cũng giống như hỏi “thế nào là một cô gái đẹp” vậy :D) Với mình, một bát cơm rang ngon sẽ nói chung cần có các điều tối thiểu dưới đây:</p>
+<p>(1) Cơm tơi và rời hạt. Nói chung mình không thích cơm rang mà các hạt cơm bị vón cục lại với nhau, nhìn rất là không đẹp mắt.</p>
+<p>(2) Cơm không có quá nhiều mỡ. Mỡ nhiều rất ngấy và nhanh ngán.</p>
+<p>(3) Nếu có dùng trứng trong khi rang cơm: mình biết có cách rang là người nấu ăn tráng trứng và sau đó xắn ra thành nhiều mảnh nhỏ rồi trộn với cơm. Tuy nhiên mình không thích cách này lắm. Nếu có dùng trứng thì mình thích trứng trộn đều với cơm, bao đều lấy hạt cơm (và có thể giúp tạo màu vàng đẹp cho hạt cơm), không bị tạo thành gợn hay vụn trứng.</p>
+<p>(4) Cơm thơm mùi hành phi và trứng, vị đậm đà vừa phải :D</p>
+<p><em><strong>Đây là cách mình thường làm để đạt được các một nhỏ, hai nhỏ.. ở trên:</strong></em></p>
+
+
+<p>Để có điều (1), tốt nhất là dùng cơm nguội và khô để rang cơm.</p>
+<p>Làm thế nào để có cơm khô và nguội? Câu trả lời là nấu cơm trước, cho ít nước hơn bình thường mvà để nguội hoặc nhét tủ lạnh ;)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5749748509/" title="fried rice Ingre 6 by LinhTrang9185, on Flickr"><img alt="fried rice Ingre 6" class="aligncenter" height="500" loading="lazy" src="http://farm3.static.flickr.com/2092/5749748509_f0302f68de.jpg" width="400"/></a></p>
+<p>Với điều (2), khi rang cố gắng hạn chế cho mỡ đến mức tối đa. Thường thì khi rang một bát con cơm, mình chỉ cho 1 thìa nhỏ dầu ăn, vừa đủ để dầu bao ngoài cơm. Ngoài ra nếu cho vừa đủ dầu ăn thì sẽ  giúp rang cơm giòn hạt dễ hơn. <em>Tuy nhiên, điều kiện cần cho cái này là 1 cái chảo chống dính tốt ;)</em></p>
+<p>Điều (3) và điều (4). Thường thì mình hay phi hành và rang cơm với dầu ăn hoặc mỡ trước cho cơm săn lại. Tiếp theo bắc chảo ra khỏi  bếp, đánh tan trứng và trộn trứng, gia vị (xì dầu, nước mắm) với cơm rồi mới rang tiếp. Làm cách này mình thấy nói chung là ổn. Hạt cơm săn, tơi và ngấm đều các thứ gia vị và trứng. Ngoài ra một tí dầu hào cũng làm cho cơm rang có mùi vị ngon hơn (với mình). Ngoài ra, có một cách khác sẽ làm cho hạt cơm có màu vàng rất đẹp mắt là dùng cơm nguội khô, tơi bóp đều với lòng đỏ trứng rồi mới mang đi rang, yên tâm là cơm không hề bị dính do trứng, ngược lại còn rất tơi và rời hạt nhé.</p>
+<p>Cuối cùng, cơm rang thì nên ăn lúc còn nóng sẽ ngon hơn.</p>
+<p>Đây là một số kinh  nghiệm của bản thân mình. Hi vọng là sẽ học hỏi thêm được những mẹo khác giúp cơm rang ngon từ các chị/bạn/ em nữa :)</p>
+<p>Chúc cả nhà luôn thành công với món cơm rang.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/5749747609/" title="Fried rice with bacon, paprika &amp; BBQ sauce by LinhTrang9185, on Flickr"><img alt="Fried rice with bacon, paprika &amp; BBQ sauce" class="aligncenter" height="700" loading="lazy" src="http://farm6.static.flickr.com/5147/5749747609_7a54b08456.jpg" width="500"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

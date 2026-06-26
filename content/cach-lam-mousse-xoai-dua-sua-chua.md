@@ -1,0 +1,69 @@
+---
+title: "Cách làm MOUSSE XOÀI – DỪA – SỮA CHUA"
+date: "2022-06-05"
+slug: "cach-lam-mousse-xoai-dua-sua-chua"
+categories: []
+tags: []
+image: "/wp-content/uploads/2022/05/IMG_6428-scaled.jpg"
+description: "Xoài chín với mùi thơm đặc trưng và vị ngọt nhiệt đới, kết hợp nước cốt dừa ngậy béo, sữa chua thanh mát và lớp topping yến mạch giòn tan, chắc chắn sẽ làm hài lòng bất kì ai ở bất kì độ tuổi nào, cực phù hợp cho những buổi tụ tập gia đình, bạn bè."
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400;">Món bánh dành riêng cho mùa hè năm nay!!!!!! Một tổ hợp kiểu nhiệt đới kinh điển gồm xoài – dừa – sữa chua, kết hợp với bạt bánh socola mềm xốp, trong tạo hình khiến bất kì “tâm hồn biển cả” nào cũng phải xao xuyến, thì đã đủ làm ngôi sao mở màn cho mùa hè rực rỡ chưa ạ? 😁</span></p>
+<p><span style="font-weight: 400;">Xoài chín với mùi thơm đặc trưng và vị ngọt nhiệt đới, kết hợp nước cốt dừa ngậy béo, sữa chua thanh mát và lớp topping yến mạch giòn tan, chắc chắn sẽ làm hài lòng bất kì ai ở bất kì độ tuổi nào, cực phù hợp cho những buổi tụ tập gia đình, bạn bè. Lưu ngay lại để sẵn sàng làm mọi người “lác mắt” vì chiếc bánh quá ư xịn xò của bạn nhé 😉</span></p>
+<h2><span style="color: #800000;"><strong>Cách làm MOUSSE XOÀI – DỪA – SỮA CHUA</strong></span></h2>
+<p><strong>Nguyên liệu (cho bánh tròn đường kính 16cm)</strong></p>
+<p><strong>A. Mousse xoài dừa</strong></p>
+<ul>
+<li><em><span style="font-weight: 400;">13 gram gelatin dạng lá</span></em></li>
+<li><em><span style="font-weight: 400;">280 gram thịt xoài chín</span></em></li>
+<li><em><span style="font-weight: 400;">80 gram nước cốt dừa</span></em></li>
+<li><em><span style="font-weight: 400;">40 gram sữa đặc</span></em></li>
+<li><em><span style="font-weight: 400;">50 gram sữa chua không đường</span></em></li>
+<li><em><span style="font-weight: 400;">250 gram kem tươi </span></em></li>
+<li><em><span style="font-weight: 400;">25 gram đường xay</span></em></li>
+<li><em><span style="font-weight: 400;">Xoài tươi cắt miếng và dừa non để cho vào giữa bánh (không bắt buộc)</span></em></li>
+</ul>
+<p><strong>B. Bạt bánh socola</strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="font-weight: 400;">Bạn có thể chọn bất kì công thức bạt bánh socola nào tùy thích. Mình dùng công thức bạt gato cơ bản bất bại 4 trứng nướng trong khay 22x30cm</span></p>
+<p><span style="font-weight: 400;">Công thức kèm các lưu ý quan trọng mình đã ghi rất cụ thể tại đây, chỉ thay 10 gram bột mì bằng 10 gram bột cacao nguyên chất, cụ thể bạn xem tại bài viết giúp mình nhé:</span></p>
+<p><span style="font-weight: 400;">/gateau-co-ban-bat-bai-no-fail-sponge-cake/</span></p>
+<p><strong>C. Topping yến mạch giòn (không bắt buộc)</strong></p>
+<ul>
+<li><em><span style="font-weight: 400;">70 gram bột mì</span></em></li>
+<li><em><span style="font-weight: 400;">30 gram yến mạch cán dẹt</span></em></li>
+<li><em><span style="font-weight: 400;">25 gram đường vàng</span></em></li>
+<li><em><span style="font-weight: 400;">¼ thìa cafe muối tinh</span></em></li>
+<li><em><span style="font-weight: 400;">50 gram bơ nhạt đun chảy</span></em></li>
+<li><em><span style="font-weight: 400;">½ thìa cafe nước cốt chanh</span></em></li>
+</ul>
+<p><strong>Cách làm</strong></p>
+<p><strong>A. Mousse xoài dừa</strong></p>
+<p><span style="font-weight: 400;">1. Xay nhuyễn thịt xoài với nước cốt dừa, sữa đặc.</span></p>
+<p><span style="font-weight: 400;">2. Ngâm gelatin trong nước lạnh tới khi gelatin nở mềm</span></p>
+<p><span style="font-weight: 400;">3. Đun hỗn hợp xoài trên lửa nhỏ nhất tới khi ấm nóng thì cho gelatin (đã ngâm mềm và vắt kiệt nước) vào, khuấy nhanh tay cho gelatin tan hoàn toàn.</span></p>
+<p><span style="font-weight: 400;">4. Bắc nồi khỏi bếp, cho sữa chua vào khuấy đều, để hỗn hợp này nguội hoàn toàn.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400;">5. Đánh kem tươi với đường tới khi kem bông mềm, gần cứng. Cách đánh kem tươi xem thêm tại bài viết này: </span><a href="/cach-lam-kem-tuoi-danh-bong-va-cach-chua-kem-tuoi-tach-nuoc/"><span style="font-weight: 400;">/cach-lam-kem-tuoi-danh-bong-va-cach-chua-kem-tuoi-tach-nuoc/</span></a></p>
+<p><span style="font-weight: 400;">6. Chia hỗn hợp xoài thành 3 phần, trộn với kem tươi theo kĩ thuật fold.</span></p>
+<p><span style="font-weight: 400;">7. Hoàn thiện bánh:</span></p>
+<p><span style="font-weight: 400;">– Chuẩn bị khuôn đế rời, lót giấy nếu vào đáy khuôn và mica quay thành khuôn.</span></p>
+<p><span style="font-weight: 400;">– Cắt 2 lớp bạt bánh, 1 lớp vừa với khuôn để làm đế, 1 lớp nhỏ hơn để xếp vào giữa bánh (không bị lộ lớp bạt bánh thứ 2 này ra ngoài).</span></p>
+<p><span style="font-weight: 400;">– Xếp bạt bánh vào đáy khuôn, xếp xoài cắt miếng quanh thành khuôn. </span></p>
+<p><span style="font-weight: 400;">– Cho ½ lượng kem mousse vào, rắc thêm xoài tươi, dừa non tùy sở thích. Xếp lớp bạt bánh thứ 2 và đổ nốt phần kem còn lại, dàn phẳng mặt kem.</span></p>
+<p><span style="font-weight: 400;">– Để bánh vào tủ lạnh tối thiểu 6 giờ tới khi bánh đông hoàn toàn.</span></p>
+<p><span style="font-weight: 400;">B. Topping yến mạch giòn</span></p>
+<p><span style="font-weight: 400;"> Trộn đều nguyên liệu khô gồm bột mì, yến mạch, đường, muối.</span></p>
+<p><span style="font-weight: 400;"> Cho bơ chảy, nước cốt chanh vào trộn đều.</span></p>
+<p><span style="font-weight: 400;"> Dàn đều hỗn hợp ra khay nướng, nướng ở 150 độ C (lò đã làm nóng trước 20 phút) trong 25 – 27 phút tới khi vàng đều.</span></p>
+<p><span style="font-weight: 400;"> Bảo quản topping trong hộp kín, rắc lên bánh ngay trước khi dùng để tranh topping bị ỉu.</span></p>
+<p><img alt="" class="alignnone wp-image-9146" height="527" loading="lazy" sizes="(max-width: 527px) 100vw, 527px" src="/wp-content/uploads/2022/05/IMG_6458-300x300.jpg" width="527"/></p>
+<p> </p>
+
+
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,72 @@
+---
+title: "Cách làm BÁNH TRÁNG CUỐN SỐT BƠ (bonus Bánh tráng trộn)"
+date: "2022-02-23"
+slug: "cach-lam-banh-trang-cuon-sot-bo-bonus-banh-trang-tron"
+categories: []
+tags: []
+image: "/wp-content/uploads/2022/02/1-1-scaled.jpg"
+description: "Món ăn vặt \"quốc dân\" của Việt Nam. Bánh tráng cuốn dai dai, mằn mặn, ngọt ngọt, sốt bơ vàng ươm béo ngậy, cách làm cực kỳ đơn giản"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400;">Món ăn đường phố “quốc dân” cuối cùng cũng xuất hiện tại SD rồi đây ạ 😁 Bánh tráng dai dai, nhân xoài giòn giòn chua ngọt, thêm rau răm, hành phi, khô bò, trứng cút, mỡ hành, đặc biệt là phần sốt bơ béo béo nữa, có ai mà không thích khôngggg!!!!</span></p>
+<p><span style="font-weight: 400;">🥭 Nguyên liệu nhìn thì thấy phức tạp chứ toàn những đồ quen thuộc, dễ mua, cách làm món này cũng đơn giản lắm lắm. Đặc biệt làm tại nhà còn có thể gia giảm tùy theo sở thích nữa. Mình hay trữ sẵn nguyên liệu, khi nào thèm thì lôi ra làm 15 – 20 phút là xong rùi 😁</span></p>
+<h2><span style="color: #993300;"><strong>Cách làm BÁNH TRÁNG CUỐN SỐT BƠ (bonus Bánh tráng trộn)</strong></span></h2>
+<p><strong><span style="color: #993300;">🥭Nguyên liệu:</span></strong></p>
+<p><span style="font-weight: 400;">🌼 Phần bánh tráng cuốn:</span></p>
+<ul>
+<li><em><span style="font-weight: 400;">Bánh tráng </span></em></li>
+<li><em><span style="font-weight: 400;">Tép khô</span></em></li>
+<li><em><span style="font-weight: 400;">Khô gà/ khô bò/ khô mực</span></em></li>
+<li><em><span style="font-weight: 400;">Xoài chua</span></em></li>
+<li><em><span style="font-weight: 400;">Trứng gà/ trứng cút luộc</span></em></li>
+<li><em><span style="font-weight: 400;">Mỡ hành (đun sôi dầu ăn rồi đổ vào hành lá thái nhỏ)</span></em></li>
+<li><em><span style="font-weight: 400;">Rau răm</span></em></li>
+</ul>
+<p><span style="font-weight: 400;">🌼 Phần sốt bơ:</span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em><span style="font-weight: 400;">1 lòng đỏ trứng gà</span></em></li>
+<li><em><span style="font-weight: 400;">½ thìa cà phê đường </span></em></li>
+<li><em><span style="font-weight: 400;">50 – 65 gram dầu ăn</span></em></li>
+<li><em><span style="font-weight: 400;">¼ thìa cà phê muối</span></em></li>
+<li><em><span style="font-weight: 400;">15 gram bơ động vật không muối, để rất mềm nhưng chưa bị chảy nước</span></em></li>
+</ul>
+<p><span style="font-weight: 400;">🌼 Phần sốt sa tế quét bánh: </span></p>
+<ul>
+<li><em><span style="font-weight: 400;">1 thìa canh sa tế </span></em></li>
+<li><em><span style="font-weight: 400;">1 thìa canh đường </span></em></li>
+<li><em><span style="font-weight: 400;">1 thìa cà phê nước tương</span></em></li>
+<li><em><span style="font-weight: 400;">2 trái quất/ tắc</span></em></li>
+<li><em><span style="font-weight: 400;">Cho tất cả nguyên liệu vào bát, khuấy đều tới khi đường tan.</span></em></li>
+</ul>
+<p><span style="font-weight: 400;">🌼 Phần sốt me chấm bánh: (không bắt buộc)</span></p>
+<ul>
+<li><em><span style="font-weight: 400;">100 gram nước cốt me (50 gram me + 150 gram nước sôi, bóp đều rồi lọc lấy nước) </span></em></li>
+<li><em><span style="font-weight: 400;">50 gram đường</span></em></li>
+<li><em><span style="font-weight: 400;">1 thìa canh tương ớt</span></em></li>
+<li><em><span style="font-weight: 400;">½ thìa cà phê sa tế</span></em></li>
+<li><em><span style="font-weight: 400;">Hành khô, tỏi băm nhỏ</span></em></li>
+<li><em><span style="font-weight: 400;">Lạc rang giã vụn</span></em></li>
+</ul>
+<p><span style="font-weight: 400;">🥭 Cách làm:</span></p>
+<p><span style="font-weight: 400;">🌼 <strong>Phần sốt bơ:</strong></span></p>
+<p><span style="font-weight: 400;">1. Cho lòng đỏ trứng vào bát, dùng phới lồng đánh lòng đỏ với đường tới khi lòng đỏ bông đặc và chuyển màu vàng nhạt, cho từng thìa nhỏ dầu ăn vào, đánh đều tới khi dầu hòa quyện hết thì cho thìa tiếp theo, tới khi sốt đặc lại, dẻo mềm, chuyển màu vàng đẹp. </span></p>
+<p><span style="font-weight: 400;">Nếu sốt bị đặc quá (do đánh quá kĩ), thêm từng thìa nhỏ nước vào đánh cho sốt lỏng ra bớt.</span></p>
+<p><span style="font-weight: 400;">2. Thêm muối, và bơ để mềm vào đánh tới khi hòa quyện, để sốt qua tối thiểu 3 giờ rồi mới dùng để sốt ngon hơn.</span></p>
+<p><img alt="" class="alignnone wp-image-9017" height="384" loading="lazy" sizes="(max-width: 384px) 100vw, 384px" src="/wp-content/uploads/2022/02/collage-1-300x300.jpg" width="384"/></p>
+<p><span style="font-weight: 400;">🌼 <strong>Phần sốt me chấm bánh:</strong></span></p>
+<p><span style="font-weight: 400;">1. Phi thơm hành khô, tỏi tới khi vàng nhạt, vớt ra bát.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400;">2. Dùng dầu phi hành tỏi ban nãy, cho nước cốt me, đường, tương ớt, sa tế vào, đun ở lửa vừa tới khi hỗn hợp sệt lại.</span></p>
+<p><span style="font-weight: 400;">3. Cho ra bát, thêm hành tỏi phi, lạc rang lên trên.</span></p>
+<p><span style="font-weight: 400;">🌼 <strong>Hoàn thiện</strong>:</span></p>
+<p><span style="font-weight: 400;">1. Xịt nước lên 2 mặt bánh tráng, quét lên mặt 1 lớp sốt sa tế, thêm các nguyên liệu và sốt bơ, cuốn chặt tay.</span></p>
+<p><span style="font-weight: 400;">2. Cắt thành miếng nhỏ vừa ăn, thêm sốt bơ và tương ớt lên trên.</span></p>
+<p><span style="font-weight: 400;">✅ Cùng với các nguyên liệu của bánh tráng cuốn, mình có cắt nhỏ bánh tráng thành dạng sợi, thêm sốt sa tế và sốt me để làm bánh tráng trộn.</span></p>
+<p><img alt="" class="alignnone wp-image-9018" height="385" loading="lazy" sizes="(max-width: 385px) 100vw, 385px" src="/wp-content/uploads/2022/02/3-vuong-300x300.jpg" width="385"/></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

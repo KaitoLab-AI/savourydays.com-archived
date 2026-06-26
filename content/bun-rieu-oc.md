@@ -1,0 +1,58 @@
+---
+title: "Bún riêu ốc"
+date: "2013-12-06"
+slug: "bun-rieu-oc"
+categories: []
+tags: []
+image: "/wp-content/uploads/2013/12/BunRieuOc1.jpg"
+description: "cách làm cua, cách nấu bún riêu, bún riêu cua, bún ốc"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Đi ăn chực bún riêu, đến lúc về còn được dúi thêm cho mấy gói cua xay sẵn. Mừng không từ nào tả xiết. Tại từ lúc đi học đến giờ, hơn 4 năm rồi, mỗi năm mình chỉ được nếm vị cua 1 hay 2 lần gì đó khi về thăm nhà. Mùa hè thi thoảng thấy bạn bè đăng ảnh nấu canh riêu cua hay canh cua mùng tơi mà thèm rớt nước miếng. Thế cho nên có mấy gói cua này thì quý lắm. Nghĩ mãi cuối cùng quyết định mang gói thứ nhất đi nấu bún riêu ốc. Trời lạnh lắm rồi, ăn bún riêu ốc nóng hổi thì còn gì bằng :)</p>
+<p>Cua đã xay sẵn nên công việc cũng nhẹ nhàng hơn, chỉ cần lọc sạch, ốc đông lạnh đã được sơ chế nên làm cũng nhanh. Khi chưa nấu thì cứ nghĩ làm bún riêu sẽ mất nhiều thời gian lắm. Làm rồi mới thấy chẳng thấm tháp gì nếu so với phở, bún thang, mì vằn thắn hay bánh trái của mình. Mà thành phẩm thì “siêu” hài lòng: Thịt cua mềm, ốc giòn sần sật, đậu phụ béo ngậy,… nước dùng chua nhẹ với mùi thơm của dấm bỗng (hàng nhái) và mắm tôm (hàng thật). Người có oải đến mấy vì công việc nhưng buổi tối về làm bát bún, vừa ăn vừa xem phim, thấy đời lại tươi đẹp như chưa từng có những lúc dở hơi xì-trét :P</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/11236960005/" title="IMG_4090-2 by LinhTrang9185, on Flickr"><img alt="IMG_4090-2" class="aligncenter" height="640" loading="lazy" src="http://farm4.staticflickr.com/3790/11236960005_26ae5e03dc_z.jpg" width="449"/></a></p>
+<p>Mình không có nhiều kinh nghiệm về làm cua. Nhưng đi tìm thử thì thấy có <a href="http://www.webtretho.com/forum/f216/caich-laim-cua-doing-vai-naiu-canh-cua-doing-ngon-112696/">topic này tại webtretho </a>có rất nhiều kinh nghiệm hay. Bạn nào chưa quen thì có thể đọc thêm để tham khảo nhé. Thật ra bún riêu ốc không phải là món lạ, cũng không khó nấu nên phần công thức mình sẽ viết vắn tắt thôi, có lẽ là chủ yếu dành cho thanh niên xa mẹ như mình. Các bạn thử tìm trong chợ châu Á, đôi khi mình thấy có cua xay xẵn đông lạnh hoặc cua đồng nguyên con xuất khẩu từ VN sang. Tuy là đông lạnh nhưng nấu lên vẫn ngon lắm, đủ để cải thiện cơn thèm và cơn nhớ :)</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em>200 – 300gr thịt cua xay + gạch cua</em></li>
+<li><em>3 củ hành khô – bóc vỏ, thái lát mỏng</em></li>
+<li><em>400gr cà chua – bổ múi cau</em></li>
+<li><em>Bột nghệ</em></li>
+<li><em>400 – 500ml nước dùng (cách làm ở dưới)</em></li>
+<li><em>Dấm bỗng hoặc me, tai chua, sấu (hoặc Red wine vinegar)</em></li>
+<li><em><em>300gr thịt ốc </em></em></li>
+<li><em>300gr đậu phụ </em></li>
+<li><em>Mắm tôm (không bắt buộc)</em></li>
+<li><em>Nước mắm hoặc bột gia vị</em></li>
+<li><em>Bún</em></li>
+<li><em>Rau sống ăn kèm (rau muống chẻ, xà lách, bắp chuối bào mỏng)</em></li>
+<li><em>Hành xanh thái khoanh, chẻ phần đầu hành trắng</em></li>
+<li><em>Tía tô thái chỉ </em></li>
+<li><em>Ớt chưng</em></li>
+</ul>
+<p><a href="http://www.flickr.com/photos/55490207@N05/11236052364/" title="IMG_4114-1 by LinhTrang9185, on Flickr"><img alt="IMG_4114-1" class="aligncenter" height="640" loading="lazy" src="http://farm6.staticflickr.com/5504/11236052364_4afa27b85e_z.jpg" width="455"/></a></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Chuẩn bị cua</p>
+<p>– Cua của mình đã xay rồi nên mình không có phần chọn và xay cua. Nhưng trong link webtretho mà mình đưa ở đầu bài có rất nhiều kinh nghiệm hay về chọn và làm cua, các bạn tham khảo thêm ở link nhé. Mình sẽ bắt đầu từ bước lọc cua. Vì cua xay gồm cả phần thịt cua và phần vỏ cứng nên cần phải lọc kĩ để loại bỏ các vỏ cứng này, nếu không khi ăn sẽ có sạn.</p>
+<p>– Cho cua xay vào âu. Cho 1 bát nước (không cho quá nhiều vì sau này còn cần cho thêm). Hòa cho cua tan trong nước rồi lọc qua rây/ rá. Phần thịt cua nhẹ sẽ trôi qua rây theo nước. Phần vỏ cua sạn đọng lại trong rây (hình 1-2). Dùng tay bóp kỹ phần cua đọng lại trong rây để thịt cua được lọc hết. Hòa phần cua đọng lại này với 1 bát con nước, lọc thêm 1 lần nữa rồi bỏ phần vỏ cua đi.</p>
+<p>– Phần nước lẫn thịt cua vừa lọc xong nên lọc lại thêm 2 – 3 lần để hết hẳn sạn.</p>
+<p>Có nhiều cách lọc cua khác nhau. Có người không lọc qua rây mà chỉ quấy cho thịt cua hòa vào trong nước rồi chắt lấy phần nước lẫn thịt này. Các bạn có thể tùy chọn hoặc kết hợp cả hai cách (chắt lấy nước cùng thịt cua trước rồi lọc sau…)</p>
+<p style="text-align: left;"><a href="http://www.flickr.com/photos/55490207@N05/11236041425/" title="2013-11-29 by LinhTrang9185, on Flickr"><img alt="2013-11-29" class="aligncenter" height="400" loading="lazy" src="http://farm4.staticflickr.com/3672/11236041425_aef8b8b496.jpg" width="500"/></a></p>
+<p style="text-align: left;">2. Cho phần nước  có thịt cua vào nồi. Pha thêm một thìa muối. Để lửa vừa. Quấy đều và nhẹ nhàng để thịt cua không bị lắng xuống đáy  nồi (sẽ bị cháy). Khi nước trong nồi bắt đầu nóng, có hơi bốc lên thì ngừng quấy. Tiếp tục nấu ở lửa vừa, thịt cua sẽ chín và đóng lại thành từng miếng trong nồi (hình 4). Dùng thìa hớt phần thịt cua này ra, cho vào bát rồi chắt bớt nước đi. Thịt sẽ dính lại thành tảng to. <em>* Có thể để thịt cua lại trong nồi nhưng mình nghĩ vớt ra sẽ tốt hơn nhiều. Sau này khi cho thêm các nguyên liệu khác như cà chua và nêm nếm sẽ cần quấy nhiều, nếu để thịt cua lại trong nồi, thịt cua sẽ dễ bị vỡ, không đóng thành miếng đẹp được. </em></p>
+<p>3. Đun nóng 1 thìa canh dầu ăn trong chảo, đợi dầu nóng già thì cho hành khô vào phi thơm. Cho 3/4 số cà chua vào chảo, thêm 1 thìa café bột gia vị hoặc muối &amp; 1/2 thìa cafe bột nghệ. Cho gạch cua vào (hình 7), để lửa to xào nhanh tay khoảng 2-3 phút, sao cho cà chua chín mà vẫn giữ được gần nguyên miếng.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/11236138843/" title="2013-11-291 by LinhTrang9185, on Flickr"><img alt="2013-11-291" class="aligncenter" height="400" loading="lazy" src="http://farm8.staticflickr.com/7350/11236138843_0881893a3e.jpg" width="500"/></a></p>
+<p>4. Đổ phần cà chua vào nồi nước cua. Cho thêm nước dùng. Đun sôi rồi hớt bọt nếu có. Nêm thêm muối hoặc gia vị cho vừa mặn. Nếu thiếu chua có thể dùng sấu/ mẻ/ me chua. Nhưng ngon và đúng vị nhất là dùng dấm bỗng – hoặc ở nước ngoài có thể dùng red wine vinegar để thay thế (mùi vị không khác dấm bỗng là bao :) ).</p>
+<p>Về phần nước dùng, các bạn có thể dùng nước trắng đun sôi, nhưng nồi nước sẽ ngọt hơn rất nhiều nếu có nước ninh xương. Mình dùng nước ninh từ 300gr đầu và vỏ tôm (nhân tiện làm tôm chua phải bỏ đầu, vứt đi thì phí nên để vào ngăn đá, hóa ra cũng có ích thật :P). Nếu không có sẵn đầu và vỏ tôm thì có thể dùng tôm khô. Hoặc có thể ninh xương gà hay xương ống heo. Nhưng vị tôm có lẽ sẽ hợp hơn.</p>
+<p>Đến đây là xong phần nước dùng cho bún riêu rồi. Tiêu chuẩn của một nồi nước dùng ngon là nước có vị ngọt đậm đà và tự nhiên (không phải ngọt nhờ bột nêm hay mì chính nhé), có mùi chua nhẹ dịu dàng, nước trong có ánh vàng đỏ từ cà chua và nghệ.</p>
+<p>Giờ chỉ còn chuẩn bị thêm các nguyên liệu khác như luộc bún (nếu dùng bún khô), nhặt và rửa rau, thái hành, tía tô, chẻ rau muống, bào mỏng búp chuối (nếu có)…. và rán đậu nữa.</p>
+<p>Chuẩn bị ốc theo cách làm trong <a href="/bun-oc-ha-noi/">công thức bún ốc tại đây</a>. Nếu dùng ốc đông lạnh thì cách xử lý ốc y hệt như trong bài. Nếu dùng ốc tươi, nên giữ lại phần nước luộc ốc để làm nước dùng.</p>
+<p>Khi ăn sắp bún ra bát, xếp ruột ốc lên trên, xếp đậu, xắn một ít thịt cua, cho thêm hành xanh, tía tô thái sợi. Cho 1/4 cà chua còn lại vào nồi nước, bật lửa to cho nước sôi sùng sục rồi chan bún. Dùng rất nóng với ớt chưng và rau sống.</p>
+<p>* Nếu không có ốc thì ăn bún riêu không cũng rất ngon. Hoặc có thể nấu theo cách này làm canh riêu chua để ăn cùng cơm với cà muối :)</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,123 @@
+---
+title: "“Opera” Yule log – Bánh khúc cây Giáng sinh vị chocolate, hạnh nhân và cà phê"
+date: "2014-12-14"
+slug: "opera-yule-log-banh-khuc-cay-giang-sinh-vi-chocolate-hanh-nhan-va-ca-phe"
+categories: []
+tags: []
+image: "/wp-content/uploads/2014/12/OperaYuleLog.jpg"
+description: "yule log, bánh khúc cây giáng sinh"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><i>…. ngày xửa ngày xưa… </i></p>
+<p>“Truyền thuyết” kể lại rằng, trong những ngày cuối năm, khi trời bắt đầu trở nên rét buốt và ngày cũng thu ngắn lại, thì cũng là lúc người dân phương Bắc sử dụng những khúc củi khô (<em>yule log)</em> dự trữ từ cuối thu, không chỉ để sưởi ấm cho cả căn nhà qua mùa đông rét mướt, mà còn tạo ra ánh lửa xua đuổi quỷ dữ và soi đường cho những người làm ăn xa trở về nhà. Hơi ấm và ánh lửa từ <em>yule log</em> cũng mang theo hi vọng về một năm mới mùa màng bội thu, nhiều hạnh phúc, sức khỏe và may mắn.</p>
+<p>Ngày nay tuy không nhiều gia đình còn lò sưởi đốt than củi nữa, nhưng <em>yule log</em> vẫn hiện diện như một phần không thể thiếu trong mỗi dịp Giáng sinh – không phải nằm trong kho hay tại lò sưởi, mà trên bàn ăn của mỗi gia đình – là một món tráng miệng hoàn hảo sau bữa ăn Giáng sinh đầm ấm.</p>
+<p>………………….</p>
+<p>Vì câu chuyện trên mà tuy Giáng sinh thường là dịp mà mình bận bài vở nhất, và cũng chẳng bao giờ có bữa ăn Xmas “chính thức” cả, nhưng Yule log thì năm nào mình cũng làm. Cảm giác có một khúc cây trong nhà, hình như cũng ấm áp và có không khí hơn. Vả lại, cả năm thật ra cũng chỉ có dịp này để làm Yule log thôi, nên bận mấy thì bận cũng vẫn muốn vào bếp và chuẩn bị một <em>yule log</em> cho bếp củi của nhà mình.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><a href="/banh-khuc-cay-giang-sinh/">Yule log truyền thống</a> thường chỉ là một nhánh cành cây, nhưng năm nay vì có một sự kiện rất quan trọng và có ý nghĩa với mình, đấy là sự ra đời của “Nhật kí học làm bánh”, nên mình “đốn” khúc cây to hơn một chút ^.^. Về phần mùi vị của bánh thì mình lấy cảm hứng từ bánh gateau <em>Opera</em>, sử dụng bạt gateau hạnh nhân, mousse cà phê chocolate và kem chocolate phủ ngoài. Bánh thơm và đậm đà nhưng không quá “nặng” do tất cả các phần kem và mousse đều dùng kem tươi là chủ yếu và dùng rất ít bơ. Hi vọng khúc cây này sẽ giúp giữ cho bếp sang năm mới tiếp tục đỏ lửa và luôn ấm áp :)</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/16019888955/" title="IMG_9391-1 by LinhTrang9185, on Flickr"><img alt="IMG_9391-1" class="aligncenter" height="640" loading="lazy" src="https://farm9.staticflickr.com/8635/16019888955_b1bc037d6d_z.jpg" width="471"/></a></p>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span>:</p>
+<ul>
+<li>1 khuôn tròn đường kính 20 cm</li>
+<li>1 khuôn tròn đế rời đường kính 18 cm (hoặc ring mousse đường kính tương tự)</li>
+</ul>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong>A. Bạt bánh gateau hạnh nhân</strong></p>
+<ul>
+<li><em>25 gram bột hạnh nhân – rây mịn </em></li>
+<li><em>95 gram bột mì đa dụng – rây mịn </em></li>
+<li><em>20 gr dầu ăn</em></li>
+<li><em>20 gr sữa tươi không đường</em></li>
+<li><em>½ teaspoon (3 ml) vanilla chiết xuất </em></li>
+<li><em>5 trứng gà (60 gr quả/ cả vỏ) </em></li>
+<li><em>100 gr đường – rây mịn </em></li>
+</ul>
+<p><strong>B. Mousse cà phê Chocolate</strong></p>
+<ul>
+<li><em>3 lá Gelatin (6 gram) </em></li>
+<li><em>2 lòng đỏ trứng gà (18 – 20 gr/ lòng đỏ)</em></li>
+<li><em>50 gr đường</em></li>
+<li><em>10 gr bột mì đa dụng </em></li>
+<li><em>230 ml sữa tươi không đường </em></li>
+<li><em>25 gr bột ca cao nguyên chất </em></li>
+<li><em>3 gr café tan (mình dùng Espresso của Nescafe)</em></li>
+<li><em>30 gr bơ nhạt (unsalted butter)</em></li>
+<li><em>½ teaspoon (3ml) vanilla</em></li>
+</ul>
+<ul>
+<li><em>200gr kem tươi (hàm lượng béo tối thiểu 35%)</em></li>
+<li><em>25 gr đường</em></li>
+</ul>
+<p><strong>C. Syrup cà phê</strong></p>
+<ul>
+<li><em>25 ml nước nóng </em></li>
+<li><em>1 – 2 gr café tan </em></li>
+<li><em>5 gr đường</em></li>
+</ul>
+<p><strong>D. Kem chocolate</strong></p>
+<ul>
+<li><em>150 gr kem tươi (tối thiểu 35% béo)</em></li>
+<li><em>13 gr bột cacao</em></li>
+<li><em>30 gr đường hạt mịn</em></li>
+<li><em>¼ teaspoon vanilla chiết xuất </em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. <strong>Chuẩn bị bạt bánh</strong> Gateau hạnh nhân.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>– Dùng khuôn tròn 20 cm. Lót giấy ở đáy khuôn, không cần chống dính thành khuôn.</p>
+<p>– Làm bánh theo <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/">phương pháp làm Gateau cơ bản bất bại</a> (bột hạnh nhân được rây và trộn đều cùng bột mì). Làm nóng lò 15 phút trước khi nướng ở 160 độ C. Nướng bánh ở 155 – 160 độ C (hai lửa) trong 45 – 55 phút, đến khi bánh chín vàng thơm, ấn thử tay lên mặt bánh thấy vết lõm tự phồng trở lại.</p>
+<p>– Lấy bánh ra, để nguội trên rack.</p>
+<p>Trong khi đợi bánh nguội thì chuẩn bị phần Mousse</p>
+<p>2. Ngâm Gelatin trong nước lạnh cho Gelatin nở mềm (nếu dùng Gelatin bột thì ngâm trong khoảng 35 – 45 ml nước).</p>
+<p>3. Cho lòng đỏ trứng và đường vào âu. Dùng phới lồng đánh nhẹ nhàng đến khi trứng đường hòa quyện và hơi chuyển màu vàng nhạt. Rây bột mì vào trộn đều cùng trứng đường.</p>
+<p>4. Đun sữa tươi đến khi sữa hơi ấm. Từ từ đổ sữa vào âu đựng trứng đường, quấy đều.</p>
+<p>5. Rây bột ca cao vào âu đựng trứng đường sữa. Cho bột cafe tan, trộn đều.</p>
+<p>* <span style="text-decoration: underline;">Ghi chú</span>: nếu dùng cafe dạng nước thay cho cafe tan thì bớt đi một lượng sữa tương ứng với lượng cafe sử dụng.</p>
+<p>6. Lọc hỗn hợp qua rây, cho vào nồi. Đun lửa vừa – to. Vừa đun vừa quấy đều tay và liên tục, đến khi hỗn hợp sánh lại và hơi sệt thì cho bơ và vanilla vào. Quấy đều đến khi bơ tan hết. Bắc khỏi bếp.</p>
+<p>7. Khi hỗn hợp trong nồi còn đang nóng, vắt Gelatin (dạng lá) cho ráo nước. Bỏ Gelatin vào nồi, quấy đều và nhanh tay cho Gelatin tan hết. Nếu dùng Gelatin dạng bột thì cho cả phần bột Gelatin cùng nước ngâm vào nồi. Để nguội bớt (lưu ý thi thoảng nên quấy để tránh phần trên mặt hỗn hợp bị khô và kéo màng).</p>
+<p>8. Trong khi đợi hỗn hợp kem trứng chocolate nguội, có thể chuẩn bị phần bạt bánh (với điều kiện bạt bánh đã nguội hoàn toàn):</p>
+<p>Đầu tiên xẻ bánh làm 3 bạt tròn.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/16017941731/" title="IMG_7533 by LinhTrang9185, on Flickr"><img alt="IMG_7533" class="aligncenter" height="333" loading="lazy" src="https://farm9.staticflickr.com/8601/16017941731_0d57647991.jpg" width="500"/></a></p>
+<p>Tiếp theo, cắt bỏ bớt riềm ngoài bánh để bạt bánh vừa với khuôn cỡ 18 cm.</p>
+
+
+<p><a href="https://www.flickr.com/photos/55490207@N05/15397636604/" title="IMG_7534 by LinhTrang9185, on Flickr"><img alt="IMG_7534" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7560/15397636604_538f7db094.jpg" width="500"/></a></p>
+<p>9. Chuẩn bị khuôn làm mousse. Lót giấy nến ở đáy khuôn (để khi bánh hoàn thiện có thể lấy ra dễ dàng).</p>
+<p>10. Hòa tan các nguyên liệu trong phần (C), để nguội bớt.</p>
+<p>Khi hỗn hợp kem trứng chocolate ở (6) đã nguội thì chuẩn bị nốt phần kem tươi.</p>
+<p>11. Đánh 200 gram kem tươi với 25 gram đường đến khi kem đạt bông mềm. Nhẹ nhàng đổ phần kem tươi này vào âu đựng hỗn hợp kem trứng chocolate, trộn đều bằng kĩ thuật <em>fold</em> đến khi các nguyên liệu hòa quyện.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/12342264305/" title="IMG_4613 by LinhTrang9185, on Flickr"><img alt="IMG_4613" class="aligncenter" height="333" loading="lazy" src="https://farm3.staticflickr.com/2892/12342264305_7a584278fb.jpg" width="500"/></a></p>
+<p>12. Ráp bánh:</p>
+<p>– Đặt phần bạt thứ nhất vào khuôn. Dùng chổi quét 1/2 lượng syrup cà phê lên mặt bạt bánh. Đổ 1/2 phần mousse vào khuôn.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/16017941021/" title="IMG_7535 by LinhTrang9185, on Flickr"><img alt="IMG_7535" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7503/16017941021_02901e6d8e.jpg" width="500"/></a></p>
+<p>– Nhẹ nhàng đặt phần bạt bánh thứ hai lên trên phần mousse. Quét phần syrup cà phê còn lại lên mặt bánh. Đổ phần mousse còn lại vào khuôn.</p>
+<p>– Đặt phần bạt bánh còn lại vào khuôn. Dùng nilon bọc kín khuôn (để giữ ẩm cho mặt bánh). Để tủ lạnh tối thiểu 6h hoặc tốt nhất là qua đêm.</p>
+<p>13. Sau 6 – 8 tiếng, khi mousse đã đông hoàn toàn thì dùng dao lưỡi mảnh rọc quanh phần thành trong của khuôn. Nhẹ nhàng gỡ khuôn ra, đặt bánh lên đế và để bánh lại vào tủ lạnh thêm 15 – 20 phút.</p>
+<p>14. Chuẩn bị kem phủ bánh: Cho tất cả các nguyên liệu trong phần D vào âu. Đánh đến khi kem bông cứng.</p>
+<p>15. Phủ kem lên bên ngoài bánh:</p>
+<p>– Cắt một vài miếng giấy nến nhỏ, lót ở bên dưới bánh (để tránh cho kem dây vào tấm đế bánh).</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15400267243/" title="IMG_7536 by LinhTrang9185, on Flickr"><img alt="IMG_7536" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7496/15400267243_a1f6a1c5d2.jpg" width="500"/></a></p>
+<p>– Lấy khoảng 1/4 lượng kem, phủ bên ngoài bánh. Đây là bước phủ kem lót, mục đích là để tạo một lớp nền mịn màng để khi phủ lớp kem chính lên sẽ dễ dàng và mịn đẹp hơn. Để bánh vào tủ lạnh khoảng 15 phút cho phần kem này đặc và cứng hơn. (phần kem còn lại cũng để tủ lạnh).</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15832472288/" title="IMG_7537 by LinhTrang9185, on Flickr"><img alt="IMG_7537" class="aligncenter" height="333" loading="lazy" src="https://farm9.staticflickr.com/8617/15832472288_d5e633b46d.jpg" width="500"/></a></p>
+<p>– Sau 15 – 20 phút, lấy bánh ra, phủ phần kem còn lại lên bánh. Vì đặc thù của bánh khúc cây – với mình – là càng xù xì càng tự nhiên, nên phần kem này không cần phải chà láng, chỉ cần phủ đều là được.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15994105576/" title="IMG_7540 by LinhTrang9185, on Flickr"><img alt="IMG_7540" class="aligncenter" height="334" loading="lazy" src="https://farm8.staticflickr.com/7571/15994105576_e95e72e816.jpg" width="500"/></a></p>
+<p>– Dùng dao nhỏ nhẹ nhàng kéo dọc từ dưới lên trên để tạo thành các đường “vân” xung quanh thành bánh.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15994105206/" title="IMG_7542 by LinhTrang9185, on Flickr"><img alt="IMG_7542" class="aligncenter" height="333" loading="lazy" src="https://farm9.staticflickr.com/8635/15994105206_18d54767ab.jpg" width="500"/></a></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15834144917/" title="IMG_7543 by LinhTrang9185, on Flickr"><img alt="IMG_7543" class="aligncenter" height="333" loading="lazy" src="https://farm9.staticflickr.com/8608/15834144917_1e7945ce40.jpg" width="500"/></a></p>
+<p>Với phần mặt bánh, dùng nĩa kéo vòng tròn để tạo các đường vân tròn giống mặt cắt của khúc cây.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/16019203552/" title="IMG_7544 by LinhTrang9185, on Flickr"><img alt="IMG_7544" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7506/16019203552_936bb49aa6.jpg" width="500"/></a></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15832636820/" title="IMG_7545 by LinhTrang9185, on Flickr"><img alt="IMG_7545" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7475/15832636820_4745e2ae8f.jpg" width="500"/></a></p>
+<p>– Nhẹ nhàng rút giấy lót ở dưới bánh ra.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15832636320/" title="IMG_7546 by LinhTrang9185, on Flickr"><img alt="IMG_7546" class="aligncenter" height="334" loading="lazy" src="https://farm9.staticflickr.com/8589/15832636320_c53ab5643c.jpg" width="500"/></a></p>
+<p>Để bánh vào tủ lạnh cho phần kem cứng hơn. Bánh bảo quản trong tủ lạnh, nên dùng trong 1 – 2 ngày.</p>
+<p>17. Trang trí bánh:</p>
+<p>– Mình dùng nấm trắng Meringue (c<a href="/lam-nam-trang-tri-tu-long-trang-trung-meringue-mushrooms/">ông thức đã có tại đây</a>). Đầu tiên là mình gắn nấm lên bánh, sau đó rắc bột cacao, rồi thêm một vài quả dâu và lá bạc hà để có màu xanh đỏ tạo không khí Giáng sinh. Cách làm này không quá phức tạp, mọi thứ lại đều có thể ăn được và an toàn :)</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15994103226/" title="IMG_7548 by LinhTrang9185, on Flickr"><img alt="IMG_7548" class="aligncenter" height="333" loading="lazy" src="https://farm8.staticflickr.com/7473/15994103226_d5c103e6ab.jpg" width="500"/></a></p>
+<p>Nếu các bạn cũng muốn dùng Meringue để trang trí thì chỉ nên gắn Meringue lên ngay trước bữa ăn nhé, tránh việc Meringue để trong tủ lạnh sẽ hút ẩm và trở nên dính, thậm chí có thể mềm, không còn khô và xốp như khi vừa nướng xong nữa.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/15833846889/" title="IMG_9410-1 by LinhTrang9185, on Flickr"><img alt="IMG_9410-1" class="aligncenter" height="640" loading="lazy" src="https://farm8.staticflickr.com/7474/15833846889_94b424a85c_z.jpg" width="500"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

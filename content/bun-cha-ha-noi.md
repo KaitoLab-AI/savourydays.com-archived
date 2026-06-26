@@ -1,0 +1,69 @@
+---
+title: "Bún chả Hà Nội"
+date: "2012-06-02"
+slug: "bun-cha-ha-noi"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/06/BunChaHanoi.jpg"
+description: "bún chả hà nội, cách pha nước chấm, chả nướng, ẩm thực việt nam"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Mùa hè trời nóng, tần suất xuất hiện của các món bún trong bữa ăn hàng ngày bỗng dưng tăng vọt. Trong các món bún của Việt Nam thì có lẽ bún chả là món mình hay làm nhất. Lý do không hẳn chỉ vì nó ngon, nguyên liệu không quá cầu kì, làm nhanh,… mà quan trọng hơn cả có lẽ là vì bún chả luôn tạo cho mình cảm giác rất Việt Nam, rất giống như đang ở nhà.</p>
+<p>Ở nhà mình thì bún chả là món hay xuất hiện vào cuối tuần, đúng hơn là món cuối tuần ưa thích của cả nhà. Hà Nội có nhiều quán bún chả ngon, nhưng với mình thì chẳng có quán nào làm được ngon bằng chả mẹ mình quạt. Mặc dù cũng không có bí quyết gì đặc biệt, nhưng chả mẹ mình làm bao giờ cũng rất mềm, không quá khô, không quá bã, không quá mỡ, và thơm nức (mỗi lần quạt chả là một lần hành hạ dạ dày cả xóm :P) , có lẽ một phần nhờ cách ướp, một phần nhờ nướng trên bếp than, vì mình ở bên này cũng ướp như vậy nhưng nướng lên không bao giờ thấy thơm được bằng. Thích nhất là những buổi trưa hè cuối tuần, cả nhà quây quần quanh mâm cơm với đĩa thịt nướng thơm phức, một bát su hào với cà rốt ngâm dấm, một rổ rau sống to đùng và một rổ bún sợi trắng phau mát rượi nữa, vừa ăn vừa ngồi đoán “Đuổi hình bắt chữ” :D. Bên ngoài nắng mấy thì nắng, trong nhà vẫn thấy mát.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7318927664/" title="IMG_2794-1 by LinhTrang9185, on Flickr"><img alt="IMG_2794-1" class="aligncenter" height="640" loading="lazy" src="http://farm9.staticflickr.com/8022/7318927664_c0861c2dbd_z.jpg" width="419"/></a></p>
+<p>Nói lan man quá, quay về nội dung chính là cách làm bún chả nhé. Cũng như nhiều món ăn khác, bún chả là món không có công thức chuẩn, bởi một lẽ đơn giản là “chuẩn” của mỗi gia đình một khác, có người thích vị ngọt nhiều một chút, có người lại thích dùng xì dầu thay cho nước mắm khi ướp thịt… Cho nên cách mà mình giới thiệu ở đây cũng không dám nhận là cách làm bún chả Hà Nội truyền thống, nhưng cả nhà mình, từ bà cho đến các bác, các dì và mẹ mình đều ướp chả theo cách này, và mình cũng thấy nhiều bạn bè chia sẻ cách làm tương tự như thế này, nên ghi lại đây, để bạn nào vẫn còn đang tìm cách làm bún chả thì có thêm một nguồn tham khảo nhé :)</p>
+<p>* <em>Bún chả Hà Nội không giống với Bún thịt nướng của miền Nam, nếu các bạn muốn làm Bún thịt nướng thì có thể tham khảo cách làm trong <a href="/?p=1961">bài này</a> và cách ướp thịt nướng trong <a href="/tu-lam-thit-xien-nuong-ngon-nhu-ngoai-hang-d/">bài này</a>.</em></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="color: #800000;"><strong>Nguyên liệu (3-4 phần ăn)</strong></span></p>
+<ul>
+<li><em>0.5 kg thịt nạc vai hoặc ba chỉ</em></li>
+<li><em>20 ml (1.5 thìa canh) nước mắm</em></li>
+<li><em>5 gram bột gia vị (không bắt buộc)</em></li>
+<li><em>15 gram (1 thìa canh) đường</em></li>
+<li><em>2-3 thìa canh nước hàng (mình chưng từ 20 gram đường – cách chưng xem tại <a href="/mon-an-sinh-vien-thit-kho-mot-so-cach-uop-thit-khuyen-mai-cach-chung-nuoc-mau/">đây</a>)</em></li>
+<li><em>25 gram hành khô (khoảng 2-3 củ)– bóc vỏ băm nhỏ</em></li>
+<li><em>5 gram tỏi (3-5 tép, tỏi nước ngoài thì 2-3 tép) – bóc vỏ băm nhuyễn</em></li>
+<li><em>1 thìa canh dầu hào</em></li>
+<li><em>Tiêu xay</em></li>
+<li><em>Rau sống (xà lách, rau thơm, mùi, …) </em></li>
+<li><em>Bún</em></li>
+<li><em>1 củ su hào &amp; 1 củ cà rốt nhỏ (hoặc có thể thay bằng dưa chuột) để ngâm dấm</em></li>
+<li><em>Nước mắm, đường, dấm, chanh tươi, tỏi, ớt, tiêu… để pha nước chấm</em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><strong>A. Nướng thịt</strong></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7318927362/" title="IMG_4788-1 by LinhTrang9185, on Flickr"><img alt="IMG_4788-1" class="aligncenter" height="368" loading="lazy" src="http://farm8.staticflickr.com/7212/7318927362_9c6f314384.jpg" width="500"/></a></p>
+<p>1. Thịt rửa sạch, thấm khô, thái miếng vừa ăn. Ở một số cửa hàng mình thấy đôi khi người ta thái lát thịt mỏng nhưng to bản, ướp và nướng nguyên cả miếng, khi ăn mới cắt ra thành các miếng nhỏ. Các bạn làm theo cách nào cũng được nhé.</p>
+<p><span id="more-2090"></span>2. Ướp thịt với nước mắm, bột gia vị (hoặc muối), đường, nước hàng, hành tỏi băm nhỏ, dầu hào &amp; tiêu xay. Để ít nhất 2-3 tiếng cho thịt ngấm, tốt nhất là ướp qua đêm (nếu ăn bữa trưa) hoặc ướp từ sáng (để ăn bữa tối). Trời mùa hè thì nên đậy hoặc bọc kín hộp thịt và để trong tủ lạnh để giữ cho thịt tươi.</p>
+<p><em>Trong lúc đợi thịt thì ngâm bún (nếu là bún khô), nhặt, rửa và ngâm rau sống với nước muối, làm su hào, cà rốt ngâm dấm, và pha nước chấm (cách làm và một số lưu ý ở dưới).</em></p>
+<p>3. Xếp thịt lên vỉ nướng, nướng thịt trên bếp than, hoặc dùng lò nướng (nhiệt độ khoảng 190-200 độ C, thời gian nướng tùy theo độ dày mỏng của miếng thịt). Lưu ý là dù nướng cách nào cũng nên <em>phết một lớp dầu ăn mỏng lên mặt thịt trước khi nướng, và trong quá trình nướng, khi lật mặt thịt cũng nên phết thêm dầu ăn,</em> mục đích là để tránh cho thịt bị khô.</p>
+<p>Bạn nào không có cả lò nướng và bếp than thì có thể nướng bằng chảo (mình lười nên hay làm cách này), thịt kém thơm hơn nướng bằng lò một chút nhưng về mùi vị cơ bản vẫn rất ngon. Làm thì đơn giản lắm, thế này nhé:</p>
+<p>–       Trộn thịt với 1 thìa dầu ăn.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>–       Để lửa to, làm nóng chảo.</p>
+<p>–       Cho thịt vào chảo, dàn đều một lớp mỏng trên mặt chảo (không làm nhiều vì thịt sẽ lâu chín và mất nhiều nước, dễ bị dai)</p>
+<p>–       Để lửa to và “nướng”, khi thịt chín mặt dưới rồi thì lật mặt thịt (thịt sẽ hơi dính vào nhau một chút, cũng khá giống như khi nướng). Thịt có thể sẽ tiết ra chút nước, nhưng không sao. Đến khi thịt chín cả hai mặt rồi thì đảo đều, cho nước cạn, lúc này thịt sẽ chuyển sang màu vàng sậm hơn do đường cháy. “Rang” thêm khoảng 2-3 phút, đến khi thịt vàng và hơi xém cạnh một chút là được. Không nên làm lâu quá, thịt dễ bị khô và cứng.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7318927522/" title="IMG_4776 by LinhTrang9185, on Flickr"><img alt="IMG_4776" class="aligncenter" height="334" loading="lazy" src="http://farm8.staticflickr.com/7087/7318927522_b93fa3d9c4.jpg" width="500"/></a></p>
+<p><strong>B. Các thành phần khác</strong></p>
+<p><em><strong>1. Bún:</strong></em></p>
+<p>– Ở nhà có bún tươi thì đơn giản rồi. Các bạn ở xa dùng bún khô như mình thì trước khi ăn khoảng 2 tiếng ngâm bún vào nước ấm nhé. Cách này sẽ giúp bún mềm ra, khi luộc sẽ rất nhanh, sợi bún không bị ra bột, ăn sẽ dai và ngon hơn.</p>
+<p>– Sau khi ngâm bún đủ mềm rồi thì đun sôi nước, các bạn có thể cho vào nước đun 1 thìa dấm (<em>nhất là nếu quên ngâm trước thì nên cho dấm để khi luộc bún được dai hơn</em>), cho bún vào luộc đến khi bún chín.</p>
+<p>– Đổ bún ra rá, xả nước lạnh trong khoảng 30 – 45 giây. Xóc cho thật ráo nước.</p>
+<p>– Vấn đề của bún khô là sau khi luộc nếu để lâu dễ bị bết và dính. Mình không có mẹo gì cho phần này (chị em ai có cách nào hay thì chia sẻ nha :X), nhưng theo mình nghĩ thì bún bị bết là do còn nhiều nước bên trong, nên cách mà mình hay làm là:</p>
+<p style="padding-left: 30px;">+ Sau khi xả xóc cho thật ráo nước, dùng đũa xới cho tơi bún.</p>
+<p style="padding-left: 30px;">+ Tiếp theo, cứ cách 5-10 phút thì dùng đũa xới hoặc gỡ bún một lần. Làm khoảng 2-3 lần thì sợi bún cũng tơi hơn và không bị dính nữa.</p>
+<p style="padding-left: 30px;">+ Hoặc có thể trộn bún với chút dầu ăn, nhưng mình không thích làm cách này lắm vì nó làm cho bún “không giống kiểu” bún để ăn bún chả.</p>
+<p><em><strong>2. Su hào, cà rốt hoặc dưa chuột ngâm dấm: </strong></em></p>
+<p>Bát bún chả sẽ ngon hơn nếu có thêm vài lát su hào hoặc cà rốt mỏng giòn tan nhỉ :) Cách làm thì đơn giản thôi, cà rốt và su hào thái mỏng, nhưng đừng mỏng quá, ăn mất giòn (có thể tỉa hoa cho đẹp), xóc cà rốt và su hào với chút muối, để khoảng 5 phút rồi xả lại thật sạch bằng nước lạnh. Tiếp theo trộn cà rốt &amp; su hào với chút dấm hoặc chanh, đường và ít nước mắm (hoặc bột gia vị) sao cho mặn ngọt vừa ăn (<em>các bạn có thể pha riêng phần nước trộn này ở ngoài, giống cách pha nước chấm, nhưng lượng ít hơn vì chỉ cần đủ để trộn su hào &amp; cà rốt)</em>. Cuối cùng cho thêm ít tỏi ớt băm và trộn đều.</p>
+
+
+<p><em><strong>3. Pha nước chấm:</strong></em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/7318925850/" title="IMG_4798-1 by LinhTrang9185, on Flickr"><img alt="IMG_4798-1" class="aligncenter" height="640" loading="lazy" src="http://farm8.staticflickr.com/7241/7318925850_c361ca0700_z.jpg" width="424"/></a></p>
+<p>Cách pha nước chấm thì mình có viết rất kĩ ở <a href="/nem-ran-meo-ran-nem-gion-cach-pha-nuoc-cham-bun-cha-nem-cua-minh/">đây</a> và <a href="/bun-tom-thit-nuong/">đây </a>rồi. Với bún chả thì mình cảm giác pha vị ngọt nhiều một chút, tiếp đến vị mặn và chua thì có vẻ ngon hơn. Ngoài ra, pha nước chấm trước khi ăn một vài tiếng đồng hồ, đến khi ăn thì hâm nước chấm lại cho nóng ấm (sẽ làm nước chấm ngon hơn), rồi thả tỏi ớt đã băm nhuyễn vào (phải băm nhuyễn thì tỏi ớt mới nổi đẹp).</p>
+<p>Chúc cả nhà cuối tuần vui vẻ :)</p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

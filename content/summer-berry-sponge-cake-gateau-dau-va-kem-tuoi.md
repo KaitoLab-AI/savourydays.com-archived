@@ -1,0 +1,46 @@
+---
+title: "Summer berry sponge cake – Gateau dâu và kem tươi"
+date: "2013-08-14"
+slug: "summer-berry-sponge-cake-gateau-dau-va-kem-tuoi"
+categories: []
+tags: []
+image: "/wp-content/uploads/2013/08/StrawberryCake.jpg"
+description: "làm bánh ngon, bánh bông lan đơn giản, gateau dâu tây"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết.</span></strong></p>
+<p>——————————————</p>
+<p>Hôm trước có cô bé em hỏi dạo này chị có vẻ chuộng hoa quả, thấy toàn làm bánh hoa quả thôi. Ừ thì ai bảo đi chợ cứ thấy hoa quả chen chúc nhau trên sạp hàng, tươi rói và căng mọng hết cả lên, lại còn rẻ nữa chứ. Cho nên đã bảo là chỉ mua vừa phải thôi, nhưng chẳng cầm lòng được nên lại tặc lưỡi “ăn hoa quả thay cơm :P”. Mà một năm cũng chỉ được vài tháng, không mua rồi đến mùa Thu, mùa Đông, đi cả chợ chỉ thấy toàn là cam với táo lại thấy nhớ, thấy tiếc những ngày mua hè ăn chưa “đủ”, chưa “đã”.</p>
+<p>Món bánh của ngày hôm nay là một món rất ngon, tốt cho sức khỏe (vì nhiều hoa quả và không quá béo), và nhìn chung là đơn giản. Thành phần chỉ có một cốt bánh bông lan, với kem tươi và hoa quả đi kèm. Phần hoa quả thì đúng kiểu là dâu tây, nhưng nếu không phải là mùa dâu thì các bạn có thể thay bằng một loại quả khác theo ý thích, như kiwi, xoài, chuối, ….</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9511013776/" title="24142141 by LinhTrang9185, on Flickr"><img alt="24142141" class="aligncenter" height="640" loading="lazy" src="http://farm6.staticflickr.com/5461/9511013776_f659841e3f_z.jpg" width="427"/></a></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong>A. Cốt bánh</strong></p>
+<ul>
+<li><em>1 công thức <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/">Gateau cơ bản bất bại 3 trứng</a> – khuôn tròn đường kính 15cm</em></li>
+</ul>
+<p><strong>B. Kem phủ bánh</strong></p>
+<ul>
+<li><em>350ml kem tươi có hàm lượng béo tối thiểu 35%</em></li>
+<li><em>50gram đường</em></li>
+<li><em>1/2 thìa cafe vanilla chiết xuất (không bắt buộc)</em></li>
+</ul>
+<p><strong>C. Hoa quả trang trí bánh</strong></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9511013774/" title="52434212 by LinhTrang9185, on Flickr"><img alt="52434212" class="aligncenter" height="425" loading="lazy" src="http://farm3.staticflickr.com/2825/9511013774_d1676a9161_z.jpg" width="640"/></a></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Làm cốt bánh theo hướng dẫn trong bài <a href="/gateau-co-ban-bat-bai-no-fail-sponge-cake/">Gateau cơ bản bất bại</a>.</p>
+<p>2. Trong lúc đợi nướng cốt bánh thì chuẩn bị phần kem tươi:</p>
+<p>– Để kem, âu đánh và que đánh kem vào ngăn đá trong khoảng 10 phút. Việc này sẽ giúp kem bông tốt hơn.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>– Cho kem, đường và vanilla vào âu. Đánh kem đến bông cứng: Kem đặc, chạy máy thấy có vân, nhấc que đánh lên thấy có chóp. Lưu ý, <em>khi bắt đầu thấy có vân hiện lên trên mặt âu kem khi chạy máy thì hạ tốc độ thấp xuống, tránh đánh quá tay, kem sẽ dễ bị tách nước. </em></p>
+<p>– Để kem vào tủ lạnh tối thiểu 30 phút, sẽ giúp kem đặc hơn.</p>
+<p>3. Sau khi bánh nguội thì xẻ bạt bánh làm 3 phần. Trét 1/5 số kem tươi lên miếng bạt thứ nhất. Xếp các lát dâu tây lên, đặt lớp bạt bánh thứ hai lên trên, trét kem, xếp dâu. Đặt lớp bạt bánh cuối cùng rồi phủ kem lên toàn bộ bên ngoài bánh. Như bánh trong ảnh thì kem ở phần thành bánh mình dùng spatula miết nhẹ theo các hướng khác nhau để tạo vân tự nhiên. Cách này rất nhanh, không mất nhiều công như chà láng và giúp bánh đẹp theo kiểu tự nhiên. Xếp hoa quả trang trí lên mặt bánh.</p>
+<p>Bảo quản trong tủ lạnh, đến khi ăn mới lấy ra. Dùng trong 1-2 ngày.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/9511013994/" title="1080088_10200179832240420_1214072764_n by LinhTrang9185, on Flickr"><img alt="1080088_10200179832240420_1214072764_n" class="aligncenter" height="640" loading="lazy" src="http://farm4.staticflickr.com/3669/9511013994_412c368de0_z.jpg" width="427"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

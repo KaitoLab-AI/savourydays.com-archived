@@ -1,0 +1,71 @@
+---
+title: "Cách làm BÁNH PHOMAI SOCOLA NƯỚNG MỀM (Chocolate half-baked cheesecake)"
+date: "2022-05-21"
+slug: "cach-lam-banh-phomai-socola-nuong-mem-chocolate-half-baked-cheesecake"
+categories: []
+tags: []
+image: "/wp-content/uploads/2022/05/IMG_6353-1-scaled.jpg"
+description: "Công thức mới lạ với 1 lớp bạt gato socola xốp ẩm, 1 lớp bánh phomai socola nướng \"non\" ngậy béo tan ngay trong miệng. Món bánh không thể bỏ qua với tín đồ"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="font-weight: 400;">Chiếc bánh không thể bỏ qua với những người thích vị socola đậm đà, vị phomai ngậy béo nhưng không quá ngấy, và đã “chán” các loại bánh gato, bánh phomai bình thường đây ạ 😉</span></p>
+<p><span style="font-weight: 400;">Một nửa dưới là bạt bánh gato socola xốp ẩm, nửa trên là bánh phomai socola nướng “non”, ngậy béo, siêu mềm và tan ngay trong miệng, thêm nhân mứt dâu chua chua ngọt ngọt, ăn được vài cái một lúc mà không sợ ngấy. Nói chung đây là một tổ hợp hương vị kinh điển nhưng lại cực kỳ mới lạ với phiên bản hay ho này nha 😉</span></p>
+<h2><span style="color: #993300;">Cách làm BÁNH PHOMAI SOCOLA NƯỚNG MỀM (Chocolate half-baked cheesecake)</span></h2>
+<p><strong>Nguyên liệu (cho khoảng 12 bánh nhỏ)</strong></p>
+<p><strong>A. Phần kem phomai:</strong></p>
+<ul>
+<li><em><span style="font-weight: 400;">65 gram phomai kem (cream cheese), để mềm ở nhiệt độ phòng</span></em></li>
+<li><em><span style="font-weight: 400;">1 lòng đỏ trứng gà</span></em></li>
+<li><em><span style="font-weight: 400;">1 nhúm muối nhỏ</span></em></li>
+<li><em><span style="font-weight: 400;">5 gram đường xay (để trộn cùng lòng đỏ)</span></em></li>
+<li><em><span style="font-weight: 400;">8 gram bột ngô (bột mì số 8)</span></em></li>
+<li><em><span style="font-weight: 400;">3 gram bột cacao</span></em></li>
+<li><em><span style="font-weight: 400;">60 gram sữa tươi không đường</span></em></li>
+<li><em><span style="font-weight: 400;">25 gram kem tươi (có thể thay bằng sữa tươi nhưng dùng kem tươi sẽ ngon hơn)</span></em></li>
+<li><em><span style="font-weight: 400;">45 gram socola đen nguyên chất (55 – 65% cacao), băm nhỏ</span></em></li>
+<li><em><span style="font-weight: 400;">½ thìa cafe chiết xuất vani</span></em></li>
+<li><em><span style="font-weight: 400;">1 lòng trắng trứng gà</span></em></li>
+<li><em><span style="font-weight: 400;">1 nhúm muối </span></em></li>
+<li><em><span style="font-weight: 400;">⅛ thìa cafe cream of tartar</span></em></li>
+<li><em><span style="font-weight: 400;">20 gram đường xay (để đánh cùng lòng trắng)</span></em></li>
+<li><em><span style="font-weight: 400;">* Sinh tố dâu để cho vào nhân bánh (không bắt buộc nhưng sẽ làm bánh ngon hơn nhiều)</span></em></li>
+</ul>
+<p><span style="font-weight: 400;">Sinh tố dâu mình mua sẵn loại dùng để pha nước uống, các bạn có thể xay dâu tươi rồi sên với đường. Không nên dùng mứt dâu để phết bánh mì vì mứt này rất đặc, nướng lên dễ bị khô.</span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><strong>B. Phần bạt bánh gato</strong></p>
+<p><span style="font-weight: 400;">Các bạn có thể dùng bất kì bạt gato cacao nào (cơ bản bất bại, Hong Kong,..), mình dùng công thức bạt gato không dùng bột mì này, bánh rất ngon và đậm vị socola:</span></p>
+<p><span style="font-weight: 400;">https://www.youtube.com/watch?v=zl5Inel3Uys</span></p>
+<p><strong>C. Khuôn nướng bánh:</strong></p>
+<p><span style="font-weight: 400;">– Mình dùng khuôn nhôm bầu dục kích thước khoảng 5x3cm. Đây là khuôn dùng để nướng bánh dứa Đài Loan, các bạn có thể mua tại shopee hoặc các cửa hàng bán đồ làm bánh. </span></p>
+<p><span style="font-weight: 400;">– Nếu dùng khuôn to hơn, khi nướng bạn sẽ cần hạ bớt nhiệt và kéo dài thời gian nướng hơn nhé.</span></p>
+<p> </p>
+<p><strong>Cách làm</strong></p>
+<p>1. Chuẩn bị nguyên liệu:</p>
+<p><span style="font-weight: 400;">– Bạt bánh sau khi nướng xong, để nguội hoàn toàn ở nhiệt độ phòng, sau đó dùng khuôn cắt thành từng bánh nhỏ.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="font-weight: 400;">– Lót giấy nến chống chính quanh thành khuôn. Nếu bạn dùng khuôn giống mình, đặt khuôn bánh vào trong 1 khay nướng có lót giấy nến.</span></p>
+<p><span style="font-weight: 400;">– Bánh sau đó sẽ cần nướng cách thủy nên cần đảm bảo khay nướng không có lỗ hở, nếu không chắc chắn nên dùng giấy bạc bọc kín bên ngoài khuôn để tránh nước lọt vào.</span></p>
+<p><span style="font-weight: 400;">– Làm nóng lò nướng ở 155 – 160 độ C, hai lửa.</span></p>
+<p><span style="font-weight: 400;">2. Đặt âu đựng cream cheese lên một nồi nước sôi lăn tăn (đáy âu không chạm mặt nước), miết và khuấy đến khi cream cheese tan nhuyễn mịn. Nhấc bát cream cheese khỏi nồi.</span></p>
+<p>3. Đánh tan một lòng đỏ trứng với đường tới khi lòng đỏ bông nhẹ và chuyển màu nhạt hơn. Cho bột ngô và bột cacao vào, trộn tới khi hỗn hợp mịn mượt. Hỗn hợp bột khá đặc nhưng không sao nhé.</p>
+<p><span style="font-weight: 400;">4. Trộn đều sữa tươi và kem tươi, làm ấm hỗn hợp đến khoảng 30 độ C. </span></p>
+<p><span style="font-weight: 400;">5. Lọc hỗn hợp trứng sữa qua rây cho vào nồi. Khuấy ở lửa vừa tới khi thấy có hơi nóng bốc lên từ nồi thì hạ nhỏ lửa, khuấy đến khi thấy kem đặc lại, nếm thử thấy không còn mùi bột sống.</span></p>
+<p><span style="font-weight: 400;">*Lưu ý: Cần khuấy liên tục hỗn hợp trên lửa nhỏ. Nếu trong quá trình nấu thấy kem bị vón cục (do đun lửa cao quá) thì bắc nồi xuống, dùng phới lồng khuấy mạnh tay cho mịn mượt trở lại rồi nấu tiếp.</span></p>
+<p><span style="font-weight: 400;">6. Ngay khi kem còn nóng, cho socola băm nhỏ vào trộn đều cho socola tan hết. Cho vani vào trộn đều.</span></p>
+<p><span style="font-weight: 400;">7. Lọc qua rây sau đó dùng nilon bọc thực phẩm dán sát mặt kem, để kem nguội hoàn toàn ở nhiệt độ phòng. </span></p>
+<p><span style="font-weight: 400;">8. Cho một nhúm muối nhỏ vào âu lòng trắng, đánh ở tốc độ vừa tới khi có nhiều bọt khí to nổi lên thì cho cream of tartar vào. Tiếp tục đánh tới khi bọt khí nhỏ dần như bọt xà phòng thì cho 25 gram đường vào, tăng tốc độ máy lên cao nhất. Đánh tới khi lòng trắng bông gần cứng, kéo que đánh trứng lên thấy có chóp kéo theo nhưng hơi ngoặt xuống thì dừng lại.</span></p>
+<p><span style="font-weight: 400;">9. Lấy ⅓ chỗ lòng trắng đánh bông cho vào hỗn hợp kem trứng phomai (đã nguội), trộn nhẹ nhàng bằng phới lồng đến khi lòng trắng hòa quyện, hỗn hợp kem phomai lỏng ra bớt. </span></p>
+<p><span style="font-weight: 400;">10. Chia chỗ lòng trắng còn lại thành 2 phần, trộn lần lượt vào hỗn hợp bột bằng kĩ thuật fold đến khi vừa hòa quyện thì dừng lại. Đập nhẹ khuôn xuống bàn khoảng 2 – 3 lần cho bọt khí to vỡ bớt.</span></p>
+<p><span style="font-weight: 400;">Cụ thể về các thao tác đánh trứng, trộn bột các bạn có thể xem tại đây: </span><a href="/video-cach-danh-trung-bang-tay-cach-tron-bot-theo-kieu-fold/"><span style="font-weight: 400;">/video-cach-danh-trung-bang-tay-cach-tron-bot-theo-kieu-fold/</span></a><span style="font-weight: 400;"> </span></p>
+<p>11. Cho hỗn hợp vào túi bắt kem, cho mứt dâu lên mặt bánh gato rồi phun kem phomai vào khuôn sao cho kem cao khoảng ⅔ khuôn (không phun quá đầy, bánh dễ nở cao và tràn khỏi khuôn). Đập nhẹ khay nướng vài lần cho bột dàn phẳng và bọt khí to vỡ bớt.</p>
+
+
+<p>12. Cho khay bánh vào khay nướng to hơn, đổ nướng sôi khoảng ⅓ khay, Nướng ở 150 độ C trong khoảng 20 – 25 phút.</p>
+<p><span style="font-weight: 400;">Phần kem phomai rất ít bột nên bánh sau khi nướng xong chắc chắn sẽ xẹp xuống, đây là chuyện rất bình thường, đổi lại phần phomai sẽ mềm tan trong miệng. Nếu muốn bánh cứng cáp hơn, các bạn có thể dùng thêm bột mì để nấu cùng hỗn hợp kem trứng, tuy nhiên khi ăn cũng sẽ thấy ít mềm hơn.</span></p>
+<p><span style="font-weight: 400;">13. Lấy bánh ra khỏi khuôn. Để nguội hoàn toàn ở nhiệt độ phòng, sau đó cho vào tủ lạnh thêm 3 – 4 giờ, bánh sau khi để tủ lạnh ăn sẽ ngon hơn. </span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

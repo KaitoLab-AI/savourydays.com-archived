@@ -1,0 +1,62 @@
+---
+title: "Cách làm PHỞ BÒ SỐT VANG"
+date: "2019-02-28"
+slug: "cach-lam-pho-sot-vang"
+categories: []
+tags: []
+image: "/wp-content/uploads/2019/02/cách-nấu-phở-sốt-vang.jpg"
+description: "Cách làm Phở bò sốt vang: Bò sốt vang là một món ăn mà cả gia đình mình đều rất thích, dù dùng với cơm, bánh mì hay phở đều cực kì ổn. Cách làm dưới đây có"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #000000;"><span style="color: #000000;">Sốt vang là một trong những món “tủ” của mình khi còn học ở châu Âu mỗi khi nhà có khách hoặc cần nấu món gì đó để đóng góp cho các bữa ăn chung với bạn bè và đồng nghiệp. Mình nghĩ mọi người thích nó vì hương vị tuy rất châu Âu nhưng vẫn có điểm xuyết nét đặc trưng của châu Á, trong những thứ gia vị hồi, quế và ngũ vị hương. Nấu món này cho các bạn nước ngoài chỉ có một vấn đề nho nhỏ là mình thường hay dùng bò gân, vì bò gân ninh là ngon nhất, thịt mềm mà không bã. Nhưng người nước ngoài không phải ai cũng ăn được phần gân này do khẩu vị thường chỉ quen với các kiểu thăn bò toàn nạc. Nên thi thoảng nấu vẫn phải chọn thịt khá kĩ. Còn về Việt Nam thì thoải mái, phần nào càng gân, càng bạc nhạc thì càng ngon. </span></span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">Công thức sốt vang mình đã giới thiệu tại SD rồi, nhưng là phiên bản để ăn với bánh  mì. Phiên bản với phở dưới đây có chỉnh sửa đi tí xíu thôi, hương vị cơ bản vẫn thế, với nước dùng sánh nhẹ, thịt bò dẻo dẻo mềm mượt, và mùi thơm hấp dẫn từ hồi, quế, ngũ vị hương, hành tỏi với lá nguyệt quế cùng hương rượu vang nhè nhẹ. Trời Hà Nội vẫn hơi se lạnh, làm món này mình tin là sẽ rất tuyệt đấy!   </span></span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8192" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/phosotvang_final-1024x683.jpg" width="1024"/></p>
+<h2><span style="color: #000000;">CÁCH LÀM PHỞ BÒ SỐT VANG </span></h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu:</strong></span></p>
+<ul>
+<li><em><span style="color: #000000;">500 gr thịt bò</span></em></li>
+<li><em><span style="color: #000000;">600 gr phở tươi</span></em></li>
+<li><em><span style="color: #000000;">250 gr cà chua</span></em></li>
+<li><em><span style="color: #000000;">150 gr hành tây</span></em></li>
+<li><em><span style="color: #000000;">15 gr tỏi</span></em></li>
+<li><em><span style="color: #000000;">30 gr hành lá</span></em></li>
+<li><em><span style="color: #000000;">30 gr rau mùi</span></em></li>
+<li><em><span style="color: #000000;">1 lá nguyệt quế</span></em></li>
+<li><em><span style="color: #000000;">2 hoa hồi</span></em></li>
+<li><em><span style="color: #000000;">2 gr quế</span></em></li>
+<li><em><span style="color: #000000;">15 ml dầu hào</span></em></li>
+<li><em><span style="color: #000000;">5 gr hạt nêm</span></em></li>
+<li><em><span style="color: #000000;">5 gr ngũ vị hương</span></em></li>
+<li><em><span style="color: #000000;">5 gr tiêu xay</span></em></li>
+<li><em><span style="color: #000000;">5 gr đường</span></em></li>
+<li><em><span style="color: #000000;">5 gr hạt điều màu</span></em></li>
+<li><em><span style="color: #000000;">60 ml rượu vang đỏ</span></em></li>
+</ul>
+<p><strong><span style="color: #000000;"><span style="color: #800000;">Cách làm</span>:</span></strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="color: #000000;">1. Ướp thịt:</span></p>
+<p><span style="color: #000000;">– Thịt bò nên chọn phần nhiều gân và xen lẫn mỡ. Rửa sạch, thái miếng vừa ăn, nên thái to một chút để khi nấu thịt “teo” bớt là vừa.</span></p>
+<p><span style="color: #000000;">– Ướp thịt với 1 thìa café (5 gr) hạt nêm/ bột gia vị, ½ thìa café (2 gr) tiêu xay, 1 thìa canh (15 ml) dầu hào, ½ thìa café (3 g) đường, ½ thìa café (2 gr) ngũ vị hương, 2 thìa canh (30 ml) rượu vang trong 20 – 30 phút cho ngấm. Nếu có thời gian, nên để thịt trong hộp kín, để ngăn mát tủ lạnh khoảng 2 – 4 giờ.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8186" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bosotvang1-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">2. Chuẩn bị các nguyên liệu khác:</span></p>
+<p><span style="color: #000000;">– Cà chua rửa sạch, bổ múi cau.</span></p>
+<p><span style="color: #000000;">– Hành tây, tỏi bóc vỏ, băm nhỏ.</span></p>
+<p><span style="color: #000000;">– Hành lá, rau mùi nhặt và rửa sạch, thái nhỏ.</span></p>
+<p><span style="color: #000000;">3. Làm nóng khoảng 1 thìa canh dầu ăn trong nồi, cho hạt điều màu vào rang cho phôi hết màu đỏ rồi vớt ra. Màu điều không bắt buộc, nếu không dùng, bạn có thể thay dầu ăn bằng bơ nhé. Món sốt vang này có thêm một chút bơ sẽ ngon hơn kha khá (kể cả ăn với phở vẫn hợp).</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8187" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bosotvang3-1024x683.jpg" width="1024"/></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #000000;">4. Phi thơm tỏi trong nồi vừa rang hạt điều, cho hành tây vào xào tới khi hơi xém vàng.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8188" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bosotvang4-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">5. Cho cà chua, thịt bò vào nồi, đảo đều tới khi thịt vừa chín tới và săn lại. Đổ khoảng 4 bát to nước sôi vào nồi, đun sôi trở lại, hớt bớt bọt (nếu có). Lưu ý dùng nước nóng để thịt không bị co rút đột ngột và mất nước.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8189" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bosotvang5-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">6. Thả vào nồi lá nguyệt quế, hoa hồi và quế. Nêm nếm gia vị cho vừa miệng. Đậy vung ninh nhỏ lửa tới khi thịt bò mềm.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8190" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/bosotvang6-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">7. Bánh phở tươi trần qua nước sôi trong 1 – 2 phút rồi chia đều ra các bát, rắc hành mùi và chan nước, thịt bò rồi thưởng thức.</span></p>
+<p><span style="color: #000000;">* Yêu cầu thành phẩm: Thịt bò chín mềm, đậm đà. Nước dùng hơi sánh nhẹ, thơm mùi hồi quế.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8194" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/phosotvang7-1024x683.jpg" width="1024"/></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

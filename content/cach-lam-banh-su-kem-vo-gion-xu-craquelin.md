@@ -1,0 +1,121 @@
+---
+title: "Cách làm bánh Su kem vỏ giòn xù – Craquelin"
+date: "2015-10-02"
+slug: "cach-lam-banh-su-kem-vo-gion-xu-craquelin"
+categories: []
+tags: []
+image: "/wp-content/uploads/2015/10/Craqueline.jpg"
+description: "Học Cách làm bánh su kem vỏ giòn xù đơn giản, dễ thành công cùng Savoury Days. Công thức có kèm video minh hoạ chi tiết các bước thực hiện từ A-Z"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Có đôi lúc mình liên tưởng Craquelin như phiên bản mùa lạnh của món Su kem quen thuộc. Bởi vì trời đã lạnh rồi, cho nên bên ngoài lớp vỏ mỏng mềm mong manh của Su cần thêm một tấm áo khoác bông xù nữa. Tấm áo này có thể màu vàng nâu hay vàng sậm, tỏa mùi vanilla, chocolate hay quế, tùy bàn tay “người may vá”. Chỉ hơi khác với áo bông thông thường là tấm áo bông của Su trong Craquelin không mềm mịn mà giòn tan, hòa với lớp vỏ mềm của Su cùng nhân kem hợp và ngon “không thể tả” :)</p>
+<p>Làm Craquelin thật ra chỉ là làm Su và thêm một lớp phủ dạng bánh quy ở trên mặt thôi. Lớp phủ này khá giống với phần phủ của <a href="/papparoti-mexican-buns-coffee-buns-rotiboy/" target="_blank"><strong>bánh mì Papparoti</strong></a>, nhưng có phần tiết kiệm thời gian hơn bởi trong một lần có thể làm nhiều rồi chia thành nhiều phần nhỏ và để đông lạnh. Khi cần có thể lấy thẳng từ tủ đá ra và dùng luôn, không cần rã đông, không mất công chuẩn bị lại.</p>
+<p>Công thức đã đăng trong sách <a href="http://tiki.vn/nhat-ky-hoc-lam-banh-2-p131047.html?ref=c316.c862.c865.&amp;src=search&amp;q=nh%E1%BA%ADt+k%C3%BD+h%E1%BB%8Dc+l%C3%A0m+b%C3%A1nh" target="_blank"><strong>Nhật ký học làm bánh tập 2</strong></a>. Nhân thời gian này có nhiều bạn hỏi nên mình đăng lại tại savourdays chia sẻ với các bạn ở nước ngoài chưa kịp mua sách. Nhân tiện lần nữa là hiện đã có địa chỉ nơi phân phối sách tại Đức, châu Âu và Mỹ, link cập nhật ở cuối trang “<a href="/gioi-thieu-sach/" target="_blank"><strong>Giới thiệu sách</strong></a>“, bạn nào cần thì có thể tham khảo tại đây nhé.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21858417706/" title=" Craquelin by LinhTrang9185, on Flickr"><img alt=" Craquelin " class="aligncenter" height="427" loading="lazy" src=" https://farm1.staticflickr.com/760/21858417706_35a0179225_z.jpg" width="640"/></a></p>
+<h2><strong>CÁCH LÀM BÁNH SU KEM VỎ GIÒN CRAQUELIN </strong></h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><strong><em>A. Phần phủ bánh </em></strong></p>
+<ul>
+<li><em>80 g bơ động vật không muối – rất mềm (ấn vào thấy lún nhưng chưa chảy nước)<br/>
+</em></li>
+<li><em>100 g đường nâu </em></li>
+<li><em>100 g bột mì đa dụng</em></li>
+</ul>
+<p><strong><em>B.Phần vỏ bánh </em></strong></p>
+<ul>
+<li><em>60 g (1/4 C + 1 tsp) bơ động vật không muối </em></li>
+<li><em>120 ml (1/2 cup) nước </em></li>
+<li><em>3 g (1/2 tsp) đường </em></li>
+<li><em>1/8 tsp muối </em></li>
+<li><em>65 g (1/2 cup) bột mì đa dụng </em></li>
+<li><em>2 trứng loại 60 g/ quả cả vỏ </em></li>
+</ul>
+<p><strong><em>C. Nhân bánh (vị sô-cô-la)</em></strong></p>
+<ul>
+<li><em>1 lòng đỏ trứng </em></li>
+<li><em>15 g (1 tbsp) đường </em></li>
+<li><em>10 g bột mì đa dụng </em></li>
+<li><em>100 ml (1/2 C less 1 tbsp) sữa tươi không đường </em></li>
+<li><em>20 g sô-cô-la loại có 50 – 60% ca cao </em></li>
+<li><em>150 ml (1/2 cup &amp; 2 tbsp) kem tươi lạnh, 30-40% béo </em></li>
+<li><em>20 g (1.5 tbsp)</em><em> đường (để đánh bông kem tươi )</em></li>
+</ul>
+<p>(*) <strong>Lưu ý: </strong></p>
+<p><span style="color: #0000ff;">– Tháng 10/2016 mình đã quay video cách làm món Craquelin này và đăng tại kênh YouTube của Savoury Days. Trong video mình làm vỏ xù vị chocolate nên phần nguyên liệu (A) mình dùng 95 g bột mì + 5 g bột ca cao để thay cho 100 g bột mì. Ngoài ra phần nhân bánh có thêm 20 g sô-cô-la.</span></p>
+<p><span style="color: #0000ff;">– Nếu muốn làm vị trà xanh, các bạn chỉ cần thay 5 g bột ca cao bằng 5 g bột trà xanh và phần nhân bánh bỏ 20 g sô-cô-la nhé. Có thể thay 10 g bột mì trong phần (C) bằng 6 g bột mì + 4 g bột trà để nhân kem trứng cũng có vị trà xanh.</span></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>Video hướng dẫn cách làm bánh su kem vỏ giòn xù đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" target="_blank">kênh YouTube của Savoury Days.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo <a href="https://youtu.be/HAUWScbJk2U" target="_blank"><strong>link này</strong></a> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="/demo-flan-creme-caramel-kem-caramel/" target="_blank">cách làm bánh flan này.</a> </strong></p>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/HAUWScbJk2U" width="560"></iframe></div>
+<p> </p>
+<p><strong>TÓM TẮT CÁC BƯỚC (Cách làm bánh Craquelin cơ bản)</strong></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><strong>A. Phần phủ bánh </strong></p>
+<p>– Lấy bơ ra khỏi tủ lạnh, để khoảng 10 đến 15 phút cho bơ bớt lạnh.</p>
+<p>– Cho bơ và đường vào máy xay (<strong><em>food processor</em></strong>), xay khoảng 30 đến 60 giây, đến khi bơ và đường tương đối hòa quyện.<span style="color: #000000; background-color: #ff0000;"><br/>
+</span></p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21263685053/" title=" 2.12.1 by LinhTrang9185, on Flickr"><img alt=" 2.12.1" class="aligncenter" height="500" loading="lazy" src=" https://farm6.staticflickr.com/5691/21263685053_6764b0b862.jpg " width="500"/></a></p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21697885819/" title=" 2.12.2 by LinhTrang9185, on Flickr"><img alt=" 2.12.2" class="aligncenter" height="500" loading="lazy" src=" https://farm6.staticflickr.com/5644/21697885819_dbccb32359.jpg " width="500"/></a></p>
+<p>– Cho bột vào máy xay, bấm máy chạy thêm 30 đến 60 giây nữa, đến khi các nguyên liệu hòa quyện. <span style="background-color: #ff0000;"><br/>
+</span></p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21697859239/" title=" 2.12.4 by LinhTrang9185, on Flickr"><img alt=" 2.12.4" class="aligncenter" height="500" loading="lazy" src=" https://farm6.staticflickr.com/5823/21697859239_1ec442234c.jpg " width="500"/></a></p>
+<p>Lấy ra, dùng tay nhồi hỗn hợp thành một khối dẻo mịn (chỉ nhồi vừa đủ, không nhồi quá nhiều hoặc quá lâu).</p>
+<p>* Nếu không có máy xay, các bạn có thể dùng máy đánh trứng (tốc độ chậm nhất) hoặc tay để trộn các nguyên liệu theo thứ tự như trên (bơ + đường, rồi cho bột). Lưu ý: không được trộn quá nhiều đến mức bơ bông lên như khi đánh bơ để làm các loại bánh butter cake.</p>
+<p>– Cán bột vừa trộn thành miếng mỏng khoảng 1 mm. Có thể đặt miếng bột giữa hai tờ giấy nến rồi cán như trong hình dưới. Để bột vào tủ lạnh khoảng 15 phút cho bột cứng lại.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21261977684/" title=" 2.12.5 by LinhTrang9185, on Flickr"><img alt=" 2.12.5" class="aligncenter" height="500" loading="lazy" src=" https://farm6.staticflickr.com/5801/21261977684_0e6b3b0fa1.jpg " width="500"/></a></p>
+<p>– Chuẩn bị khuôn cắt tròn hoặc vật tròn có cạnh sắc, đường kính 2 cm (nếu làm bánh Su cỡ vừa) hoặc 3 – 3.5 cm (nếu làm bánh Su cỡ to).</p>
+<p>– Khi bột đã lạnh và tương đối cứng, có thể cắt dễ dàng thì dùng khuôn cắt bột thành các miếng tròn nhỏ. Các phần bột thừa có thể nhào lại, cán và cắt tiếp.</p>
+<p style="text-align: center;"><em>Mình dùng nắp vỏ chai nhựa thay cho khuôn cắt :)</em></p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21696853428/" title=" 2.12.7 by LinhTrang9185, on Flickr"><img alt=" 2.12.7" class="aligncenter" height="500" loading="lazy" src=" https://farm6.staticflickr.com/5815/21696853428_a3cee5a49f.jpg " width="500"/></a></p>
+
+
+<p style="text-align: center;"><em>bột bánh này có pha thêm vị cacao và quế nên có màu sậm hơn </em></p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21696844268/" title=" 2.12.8 by LinhTrang9185, on Flickr"><img alt=" 2.12.8" class="aligncenter" height="500" loading="lazy" src=" https://farm6.staticflickr.com/5737/21696844268_1a9a05e691.jpg" width="500"/></a></p>
+<p>– Khi đã cắt xong hết bột. Chuẩn bị một số miếng giấy nến nhỏ. Đặt bột lên một miếng giấy nến rồi đặt một miếng giấy khác lên trên bột.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21697798179/" title=" 2.12.9 by LinhTrang9185, on Flickr"><img alt=" 2.12.9" class="aligncenter" height="500" loading="lazy" src=" https://farm1.staticflickr.com/720/21697798179_49dec1e3c9.jpg " width="500"/></a></p>
+<p>Tiếp tục đặt bột – giấy xen kẽ nhau như vậy, ta sẽ có một chồng nhiều viên bột được ngăn cách bởi các lớp giấy nến.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21696582120/" title=" 2.12.10 by LinhTrang9185, on Flickr"><img alt=" 2.12.10" class="aligncenter" height="500" loading="lazy" src=" https://farm1.staticflickr.com/621/21696582120_3ec409b11a.jpg " width="500"/></a></p>
+<p>Bọc kín cả chồng bột. Để vào ngăn đá tủ lạnh trong khoảng 2 giờ, đến khi bột cứng hoàn toàn.</p>
+<p><strong>* Ghi chú: </strong></p>
+<p>– Các bạn có thể chuẩn bị nhiều bột một lúc rồi trữ đông. Khi làm có thể lấy ra dùng ngay.</p>
+<p>– Có thể thêm các loại hương liệu hoặc bột ca cao, bột trà xanh… để làm các lớp phủ bánh với mùi vị khác nhau. Bánh trong hình gồm ba vị: va-ni, quế và sô-cô-la. Nếu dùng hương liệu dạng lỏng thì cho vào xay cùng bơ và đường. Nếu dùng hương liệu dạng bột thì rây với bột mì, trộn đều rồi xay cùng bơ đường.</p>
+<p><strong> B. Nướng và hoàn thiện bánh </strong></p>
+<p>– Chuẩn bị vỏ bánh theo <a href="/banh-su-kem-choux-a-la-creme-demo-mot-so-luu-y-khi-lam-choux/" target="_blank"><strong><em>bài cách làm bánh Su kem</em></strong>.</a> Trong bài này ngoài video hướng dẫn cách làm phần vỏ và nhân thì có cả một số lưu ý để tránh bánh bị hỏng nữa. Ngoài ra, mình cũng đã viết một <a href="/tai-sao-vo-banh-su-kem-choux-cream-puff-khong-hay-xep-sau-khi-nuong-ct-choux-tra-xanh/" target="_blank"><strong>bài tổng hợp các thất bại thường gặp khi làm Su (bánh không nở, ruột đặc…)</strong></a>, các bạn có thể tham khảo trong link.</p>
+<p>– Làm nóng lò ở nhiệt độ 210 – 220 °C (hai lửa). Chuẩn bị khay nướng có lót giấy nến.</p>
+<p>– Bắt bột lên khay nướng (kiểu khối tròn). Nên bắt bột sao cho đường kính của phần đế viên bột bằng với đường kính của phần phủ bánh.</p>
+<p>– Ngay trước khi đưa bánh vào lò nướng, lấy các miếng phủ bánh ra khỏi ngăn đá, đặt lên trên các viên vỏ bột (các miếng phủ này vẫn còn đang ở dạng đông đá nhé).</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21263557643/" title=" 2.12.11 by LinhTrang9185, on Flickr"><img alt=" 2.12.11" class="aligncenter" height="500" loading="lazy" src=" https://farm6.staticflickr.com/5745/21263557643_9553148a2f.jpg " width="500"/></a></p>
+<p>– Nướng bánh ở nhiệt độ 200 – 220 °C trong khoảng 10 đến 15 phút đầu rồi hạ nhiệt xuống 180 – 190 °C, nướng thêm 10 đến 15 phút, đến khi bánh chín hẳn. Trong quá trình nướng không mở cửa lò<strong><em>. </em></strong></p>
+<p>– Bột phủ bánh sẽ mềm dần và phủ đều lên bánh trong lò trong quá trình nướng như hình dưới.</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21858460656/" title=" 2.12.13 by LinhTrang9185, on Flickr"><img alt=" 2.12.13" class="aligncenter" height="500" loading="lazy" src=" https://farm6.staticflickr.com/5771/21858460656_2cca97b2bf.jpg " width="500"/></a></p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21696779668/" title=" 2.12.14 by LinhTrang9185, on Flickr"><img alt=" 2.12.14" class="aligncenter" height="500" loading="lazy" src=" https://farm1.staticflickr.com/667/21696779668_43524790c3.jpg " width="500"/></a></p>
+<p>– Bánh chín lấy khỏi lò, để nguội hẳn trên <strong><em>rack</em></strong><em>. </em></p>
+<p><strong>C. Nhân bánh:</strong></p>
+<p>– Chuẩn bị phần nhân kem trứng theo công thức trong bài “<a href="/banh-su-kem-choux-a-la-creme-demo-mot-so-luu-y-khi-lam-choux/" target="_blank"><strong>cách làm bánh su kem</strong></a>”. Để nguội.</p>
+<p>– Đánh kem tươi với đường đến gần bông cứng. Nhẹ nhàng trộn đều phần kem tươi này với kem trứng đã nguội. Cho nhân bánh vào túi bắt kem có lồng đui đầu tròn nhỏ.</p>
+<p>(*) <em>Trong video mình làm nhân chocolate và không trộn hai loại nhân custard cùng kem tươi với nhau, về cơ bản, khi ăn bánh mùi vị không khác nhiều (giữa việc có trộn và không trộn 2 loại kem). </em></p>
+<p>Khi vỏ bánh nguội hẳn, chọc một lỗ nhỏ ở đế hoặc cạnh bên của bánh để phun nhân vào bên trong. Dùng bánh trong ngày (để qua đêm phần phủ bánh sẽ không giòn nữa).</p>
+<p><a href=" https://www.flickr.com/photos/savourydays/21697702139/" title="IMG_9828 by LinhTrang9185, on Flickr"><img alt=" IMG_9828" class="aligncenter" height="420" loading="lazy" src=" https://farm1.staticflickr.com/603/21697702139_e4c53a61e6.jpg " width="500"/></a></p>
+<hr/>
+<p>Các bài cùng chủ đề bánh su kem</p>
+<ol>
+<li><a href="/banh-su-kem-choux-a-la-creme-demo-mot-so-luu-y-khi-lam-choux/">Bánh Su kem (Choux à la Crème) – Demo &amp; Một số lưu ý khi làm Choux</a></li>
+<li><a href="/choux-lanh-nhan-kem-chocolate/">Choux lạnh nhân kem chocolate</a></li>
+<li><a href="/tai-sao-vo-banh-su-kem-choux-cream-puff-khong-hay-xep-sau-khi-nuong-ct-choux-tra-xanh/">Tại sao vỏ bánh Su kem (Choux) không nở hoặc xẹp sau khi nướng? – Bonus: Choux trà xanh</a></li>
+<li><a href="/su-kem-nhat-ban/">Thử nghiệm: Su mềm/ Su kem Nhật Bản (Fuji Choux/ Junior Chewy Choux/ Yukisu)</a></li>
+<li><a href="/jumbo-eclair-nhan-mousse-chanh-leo/">(Jumbo) Eclair nhân Mousse chanh leo</a></li>
+<li><a href="/video-cach-lam-banh-su-kem/">[VIDEO] Cách làm bánh su kem – Savoury Days</a></li>
+</ol>
+<section id="breadcrumbs">
+<div class="inner">
+<p> ————–</p>
+<p><strong>* Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </strong></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn sử dụng, vui lòng liên hệ với Linh Trang theo địa chỉ</span> savourydaysvn@gmail.com. <span style="color: #ff0000;">Mọi trường hợp cố tình vi phạm sẽ chịu sự xử lí theo pháp luật.</span></strong></p>
+</div>
+</section>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

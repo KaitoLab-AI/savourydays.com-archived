@@ -1,0 +1,72 @@
+---
+title: "Trà đào trân châu"
+date: "2015-05-19"
+slug: "tra-dao-tran-chau"
+categories: []
+tags: []
+image: "/wp-content/uploads/2015/05/TraDao1.jpg"
+description: "cách làm trân châu, trà hoa quả, đồ uống mùa hè"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Chưa tới chính vụ đào, mơ, nectarine (một loại quả kiểu đào lai mận), nên đào mơ bán ngoài chợ vẫn còn chua và nhạt lắm, ăn không ổn nhưng pha nước uống thì phải nói là tuyệt vời ông mặt giời ^.^</p>
+<p>Mình mê món trà đào này từ hồi uống thử ở Phúc Long trong TP HCM. Rồi về nhà tự làm thấy cũng đơn giản, uống nóng hay lạnh đều được. Thêm nữa là tự làm thì nguyên liệu tươi mới, mà vị đào với vị trà còn đậm đà hơn ngoài hàng nhiều. Tưởng tượng trời hè 35 – 36 độ C, đi ngoài đường về mà có một bình trà thơm kiểu vừa thanh, the mát vừa ngọt ngào, để tủ lạnh mát rười rượi với đào tươi giòn rụm và trân châu dẻo dẻo, không thấy sướng lịm người mới là lạ ý, nhỉ? :)</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/17861973891" title="IMG_2064-1 by Trang Linh, on Flickr"><img alt="IMG_2064-1" class="aligncenter" height="800" loading="lazy" src="https://c2.staticflickr.com/8/7747/17861973891_dcb1ecbec9_c.jpg" width="498"/></a>———–</p>
+<p><strong>CÁCH PHA TRÀ ĐÀO</strong></p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em>300 gram đào (cả quả)</em></li>
+<li><em>400 – 450 ml nước</em></li>
+<li><em>40 – 50 gram đường</em></li>
+<li><em>2 túi trà lọc loại trà xanh hoặc đen tùy khẩu vị<br/>
+</em></li>
+<li><em>một nắm nhỏ lá bạc hà tươi</em></li>
+<li><em>đá viên</em></li>
+</ul>
+<p><a href="https://www.flickr.com/photos/55490207@N05/17241056683" title="IMG_2070-1 by Trang Linh, on Flickr"><img alt="IMG_2070-1" class="aligncenter" height="800" loading="lazy" src="https://c2.staticflickr.com/6/5469/17241056683_68a29486e0_c.jpg" width="558"/></a></p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Rửa sạch đào, bổ làm bốn phần, bỏ hạt. Cho vào nồi cùng nước và khoảng 40 gram đường (nên cho ít đường, sau này có thể pha thêm nếu thấy nhạt).</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/17673699698" title="IMG_8640 by Trang Linh, on Flickr"><img alt="IMG_8640" class="aligncenter" height="436" loading="lazy" src="https://c2.staticflickr.com/6/5339/17673699698_6710f193ff_z.jpg" width="640"/></a></p>
+<p>2. Bắc lên bếp đun sôi. Khi nước sôi thì hạ lửa vừa để nước sôi nhẹ, đun thêm 10 – 15 phút nữa, đến khi đào chín mềm thì lấy thìa/ muôi to hay nĩa dầm nát. Quấy đều, để lửa nhỏ đun thêm khoảng 5 phút.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/17673695518" title="IMG_8642 by Trang Linh, on Flickr"><img alt="IMG_8642" class="aligncenter" height="427" loading="lazy" src="https://c1.staticflickr.com/9/8806/17673695518_88487470a0_z.jpg" width="640"/></a></p>
+<p>3. Bắc nồi ra khỏi bếp, lọc hỗn hợp qua rây. Dùng thìa chà cho phần thịt đào mềm nhuyễn rơi xuống cùng nước. Phần nước thu được là sy-rô hay nước cốt đào sẽ dùng để pha trà.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/17858512482" title="IMG_8658 by Trang Linh, on Flickr"><img alt="IMG_8658" class="aligncenter" height="428" loading="lazy" src="https://c1.staticflickr.com/9/8822/17858512482_90576094b4_z.jpg" width="640"/></a></p>
+<p>Phần xác đào còn lại trong rây có thể giữ lại, xay nhuyễn rồi dùng làm mousse hay kem đào dựa theo công thức <a href="/cong-thuc-lam-kem-co-ban-khong-dung-may-don-gian-nhanh-va-ngoonnnn-bonus-ct-kem-tiramisu-2/">kem không cần máy </a>:)</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/17673614948" title="IMG_8657 by Trang Linh, on Flickr"><img alt="IMG_8657" class="aligncenter" height="427" loading="lazy" src="https://c2.staticflickr.com/6/5336/17673614948_3e8cdb14df_z.jpg" width="640"/></a></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>4. Hãm trà với nước sôi. Nên hãm đặc một chút. Với hai túi trà lọc mình pha khoảng 250 ml trà (đặc gấp đôi bình thường).</p>
+<p>5. Pha nước trà này với sy-rô đào đã chuẩn bị ở trên. Thêm vào một vài miếng đào tươi và bạc hà tươi. Trà có thể uống nóng hay lạnh với đá, đều rất ngon. Thêm đường hoặc mật ong nếu muốn có thêm vị ngọt.</p>
+<p>(*) Lưu ý: Định lượng trong công thức chỉ để tham khảo, các bạn có thể thay đổi tùy theo khẩu vị: ví dụ thích uống đậm vị đào thì tăng đào, giảm lượng trà hoặc ngược lại.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/17673936500" title="IMG_2058-1 by Trang Linh, on Flickr"><img alt="IMG_2058-1" class="aligncenter" height="800" loading="lazy" src="https://c2.staticflickr.com/6/5332/17673936500_feb99a2e4b_c.jpg" width="533"/></a></p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/17835128816" title="IMG_2049-2 by Trang Linh, on Flickr"><img alt="IMG_2049-2" class="aligncenter" height="800" loading="lazy" src="https://c2.staticflickr.com/8/7761/17835128816_b5b887ee9d_c.jpg" width="551"/></a>——–</p>
+<p><strong>CÁCH LÀM TRÂN CHÂU DÙNG KÈM TRÀ</strong></p>
+<p>Chỉ riêng trà không uống đã rất ngon rồi, nhưng nếu các bạn muốn làm thêm trân châu để uống cùng giống kiểu trà sữa trân châu thì có thể chuẩn bị theo cách này nhé.</p>
+<p><strong>Nguyên liệu:</strong></p>
+<ul>
+<li><em>40 gram bột năng (tapioca starch)</em></li>
+<li><em>10 gram bột gạo (rice flour)</em></li>
+<li><em>10 – 15 gram bột năng để chống dính</em></li>
+<li><em>50 – 70 ml nước sôi</em></li>
+</ul>
+<p>(*) Ghi chú:</p>
+<p>– Bột gạo cho thêm vào giúp cho hạt trân châu có độ cứng và giòn hơn, còn nếu chỉ dùng toàn bột năng, trân châu sẽ mềm dẻo. Tùy khẩu vị mà các bạn có thể thay đổi tỉ lệ bột gạo: bột năng.</p>
+<p>– Nếu muốn trân châu có thêm vị, có thể pha đường,  các loại tinh chất tạo hương vị như va-ni, tinh chất hoa quả, hoặc trộn cùng một vài gram bột trà xanh, bột ca-cao (để có vị trà hay vị chocolate).</p>
+<p><span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p>1. Trộn đều các loại bột.</p>
+<p>2. Đổ <span style="text-decoration: underline;"><strong>nước sôi</strong></span> vào, từng chút một. Trộn đều cho bột và nước hòa quyện đều mới cho phần nước tiếp theo. Trộn đến khi hỗn hợp thành một khối mịn dẻo.</p>
+<p>Lượng nước dùng để nhồi bột không cố định, nên cho từng ít một và theo dõi đến khi bột đủ dẻo thì dừng lại. Nếu bạn lỡ tay cho hơi nhiều nước làm bột bị nát thì chỉ cần cho thêm ít bột năng là bột sẽ khô trở lại.</p>
+
+
+<p>Các bạn có thể xem thêm cách trộn bột trong<a href="/lod-chong-singapore-thach-giun-xanh-che-thai/"> video làm Lod Chong ở đây.</a></p>
+<p>3. Khi đã có một khối bột dẻo mịn thì ngắt từng mẩu bột nhỏ, vê tròn. Làm đến khi hết bột. Trong khi làm nên để riêng một ít bột năng khô ở ngoài, xoa lên tay hoặc phủ lên bột để chống dính. Sau khi nặn xong hết, rắc một lớp bột năng mỏng, nhẹ tay trộn cho bột bao đều các viên trân châu để trân châu không dính vào nhau.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/17675155099" title="IMG_8661 by Trang Linh, on Flickr"><img alt="IMG_8661" class="aligncenter" height="427" loading="lazy" src="https://c2.staticflickr.com/6/5466/17675155099_6f58f1c5c5_z.jpg" width="640"/></a></p>
+<p>* Có thể làm nhiều trân châu một lần. Phần chưa dùng đến cho vào túi kín, để đông đá. Khi cần cho vào ngăn mát tủ lạnh để rã đông rồi luộc bình thường.</p>
+<p>4. Đun một nồi nước sôi và chuẩn bị thêm một bát nước đá lạnh để bên cạnh. Khi nước sôi, cho bột vào nồi luộc. Bột nổi lên khoảng 1 – 2 phút thì vớt ra ngoài, thả vào bát nước đá ở bên cạnh. Dùng kèm trà :)</p>
+<p>* Chỉ nên luộc vừa đủ lượng cần dùng vì trân châu để lâu sẽ mất độ giòn dai.</p>
+<p><a href="https://www.flickr.com/photos/55490207@N05/17238893734" title="IMG_8663 by Trang Linh, on Flickr"><img alt="IMG_8663" class="aligncenter" height="428" loading="lazy" src="https://c2.staticflickr.com/8/7666/17238893734_0fb85d8eeb_z.jpg" width="640"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

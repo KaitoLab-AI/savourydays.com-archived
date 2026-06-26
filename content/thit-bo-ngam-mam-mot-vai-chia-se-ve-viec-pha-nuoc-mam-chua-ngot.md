@@ -1,0 +1,63 @@
+---
+title: "Thịt bò ngâm mắm & Một vài chia sẻ về việc pha nước mắm chua ngọt"
+date: "2011-10-04"
+slug: "thit-bo-ngam-mam-mot-vai-chia-se-ve-viec-pha-nuoc-mam-chua-ngot"
+categories: []
+tags: []
+image: "/wp-content/uploads/2011/10/BoNgamMam.jpg"
+description: "Cách làm thịt bò ngâm mắm thơm ngon, chuẩn vị. Chia sẻ bí quyết pha nước ngâm chua ngọt ngon "
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p>Hồi xưa – lúc mà chỉ biết luộc rau với cắm nồi cơm điện ý – thì món này là món mà mình nghĩ chỉ có ra ngoài hàng mới mua được, còn ở nhà tự làm á – đừng mơ :D</p>
+<p><em>Mà nói thật là cái thời đảm đang như cô Cám ấy món gì cũng là phức tạp với mình hết – từ kho thịt trở đi, nhưng các món có chua-mặn-ngọt như thế này thì độ phức tạp chắc được nâng lên gấp ít nhất là 10 lần ý :-|</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6207565498/" title="Bò ngâm mắm by LinhTrang9185, on Flickr"><img alt="Bò ngâm mắm" class="aligncenter dung" height="500" loading="lazy" src="http://farm7.static.flickr.com/6173/6207565498_1c8d2e6c50.jpg" width="358"/></a></p>
+<p>Thật ra pha nước mắm chua mặn ngọt không phải là điều quá khó khăn. Đến đây mọi người có thể sẽ nói là vì mình nấu nhiều &amp; quen rồi nên thấy dễ. Cũng không hẳn là như thế. Mình nghĩ một trong những nguyên nhân dẫn đến thất bại trong việc pha nước chấm nói chung (không chỉ riêng cho món này mà còn cho các món ăn cần nước chấm chua mặn ngọt khác như bún nem, bún chả, bánh gối..) là vì chị em đôi khi hay “tuân thủ luật lệ nghiêm ngặt” quá :P</p>
+<p>Với chuyện pha nước chấm hay  nêm gia vị cho các món ăn nói chung, mình nghĩ là thật ra rất khó để có thể có một công thức hay tỉ lệ hoàn hảo. Lý do thì rất đơn giản, cùng là một loại gia vị nhưng các nhãn hiệu khác nhau sẽ có thể có mùi vị khác nhau, nước mắm Phú Quốc chắc là sẽ rất khác với nước mắm Chinsu. Và có khi Chin su cá hồi cũng khác với Chin su thường. Ngay cả một thứ đơn giản &amp; cơ bản nhất là muối: cả nhà có tin là muối ở bên này (Bỉ) cũng có vị khác với muối ở nhà không? :D Một điểm nữa là khẩu vị của mỗi gia đình cũng khác nhau, nhà ăn mặn, nhà ăn nhạt, nhà thích cho nhiều đường vào đồ ăn, nhà thì không…</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6207050197/" title="Bò ngâm mắm by LinhTrang9185, on Flickr"><img alt="Bò ngâm mắm" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6156/6207050197_ce29cc7ca2.jpg" width="358"/></a></p>
+<p>Ở trong các topic về nấu ăn, mà cụ thể là về việc pha nước chấm hay các món ăn cần nước mắm chua ngọt như thịt bò ngâm mắm, mình thường hay thấy các phản hồi của chị em kiểu như là “tại sao em pha đúng tỉ lệ thế mà nước chấm ra mặn chát hoặc ngọt lừ” (rồi nghi ngờ hay là họ giấu nghề nhỉ :D). Mình nghĩ là chia sẻ trên diễn đàn đa phần đều rất “thật”, lý do tại sao người này làm ngon mà người kia không ngon thì như đã giải thích ở trên, có thể nước mắm mà bạn dùng mặn hoặc nhạt hơn nước mắm người ta dùng, hoặc đơn giản chỉ vì định nghĩa “ngon” ở các gia đình là khác nhau, vậy thôi :D</p>
+<p>Đôi khi trong các công thức trên Savoury Days, mình cũng hay ghi thêm chú thích là định lượng chỉ để tham khảo, còn trong khi nấu các bạn hãy điều chỉnh sao cho phù hợp với khẩu vị của gia đình. Mình nấu ăn cũng chưa được lâu và kinh nghiệm thật ra cũng không nhiều nhưng mình nghĩ với một món ăn thì điều quan trọng nhất là dùng nguyên liệu &amp; loại gia vị nào, đôi khi có thể chú ý đến cả tỉ lệ nữa, còn nêm nếm bao nhiêu muối, bao nhiêu đường thì chắc là nên tự mình làm thì sẽ tốt hơn, nhỉ? :) Mình thấy làm như thế này không những có thể giúp mình bớt lệ thuộc vào các công thức mà còn tạo cho người nấu có có “cảm giác” tốt hơn trong việc sử dụng gia vị, và về sau này cũng dễ sáng tạo hơn trong việc thay đổi các loại gia vị để làm cho món ăn ngon hơn nữa :)</p>
+<p>Quay về chuyện pha nước mắm chua ngọt. Mình nghĩ cái làm cho mọi người hay “vấp” khi pha nước mắm chua ngọt là sau một hồi cho tất cả mắm, đường, chanh vào bát (và nếm đi nếm lại quá nhiều) thì không hiểu là nước mắm thiếu cái gì, thừa cái gì để cho thêm. Và thế là bị loạn, và chả bít phải cứu bát nước chấm thế nào nữa.</p>
+<p><span id="more-834"></span>Mình thì từ khi bắt đầu học nấu ăn đến giờ chỉ pha nước mắm theo một cách duy nhất – là mình học được từ webtretho, không nhớ của chị nào nữa. Nhưng mình thấy pha theo cách này rất ổn, và sau này khi đi tham khảo bài viết của một số chị em siêu nấu ăn khác thì mình thấy cũng khá nhiều người dùng cách này nên càng tin tưởng nó hơn (cách làm này mình có chia sẻ một lần trên Savoury Days rùi, nhưng hôm nay nhân tiện viết lại &amp; viết rõ ràng hơn, để mọi người tiện theo dõi nhé).</p>
+<p>Nước mắm chua ngọt thường có các loại nguyên liệu cơ bản là nước mắm, đường, dấm hoặc chanh, nước lọc (nước trắng đun sôi để nguội), tỏi, ớt, tiêu. Cách của mình là <em><strong>bắt đầu với dấm/ chanh, đường &amp; nước lọc trước</strong>.</em> Pha thế nào để có một hỗn hợp chua ngọt vừa phải. Dấm ở bên này rất rất chán nên mình thường dùng chanh – và cách mô tả dễ hiểu nhất là đầu tiên pha làm sao để có 1 bát nước chanh ngon. Đến đây thì coi như là vị ngọt và chua đã được rồi, bước tiếp theo chỉ cần <strong><em>thêm mặn – cụ thể là cho nước mắm</em></strong> – cho vừa ăn nữa. <strong><em>Cuối cùng là cho tỏi, ớt, tiêu – thường là mình băm tỏi ớt nhuyễn rồi mới cho vào bát nước chấm</em></strong> (với các loại nước chấm chả, nem..) – lý do là băm nhuyễn sẽ giúp tỏi ớt nổi lên mặt bát nước chấm – trông đẹp hơn.</p>
+<p>Theo mình thì pha nước chấm theo cách ở trên có ưu điểm lớn nhất là làm cho các vị chua mặn ngọt không bị lẫn lộn mà được “tách riêng” theo các bước. Sau này quen tay rồi thì mình pha nước mắm đôi khi chỉ nhìn màu cũng biết là nước mắm đã đủ mặn chưa. Khi cho nước mắm vào thì hỗn hợp nước chanh đường trong bát sẽ từ từ chuyển màu vàng. Vàng nhạt quá tức là bát nước chấm sẽ thiếu mặn – kiểu kiểu vậy. Các loại nước chấm trộn nộm cũng có thể pha theo cách này, chỉ cần bớt hoặc bỏ nước lọc đi, và pha đậm hơn bình thường một chút là được. Ngoài ra, một tip nữa từ một người bạn cũng rất siêu nấu ăn của mình là nên pha nước chấm trước khi ăn lâu lâu, vài tiếng đồng hồ chẳng hạn, rồi đến lúc ăn mới cho tỏi, ớt, tiêu vào thì các vị trong nước chấm sẽ “ngấm” hơn.</p>
+<p><em>(Dài quá :D công nhận là mình thiệt là nhiều chuyện, chỉ nói mỗi về nước chấm mà cũng ra thành như thế này :”&gt;)</em></p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6207565348/" title="Bò ngâm mắm by LinhTrang9185, on Flickr"><img alt="Bò ngâm mắm" class="aligncenter" height="500" loading="lazy" src="http://farm7.static.flickr.com/6153/6207565348_69e65676f1.jpg" width="358"/></a></p>
+<p>Thôi quay về chủ đề chính nhé :) Làm thịt bò ngâm mắm cái quan trọng nhất là nước mắm ngâm thì mình đã nói ở trên rồi. Còn 1 vấn đề nữa mà mình thấy có một số chị em gặp phải là nước ngâm thịt bò không được trong và đôi khi bị đông. Mình đoán là do trong thịt bò có nhiều mỡ quá làm đông nước – giống kiểu mình làm thịt đông ấy. Cho nên khi làm món này thì chị em cố gắng <strong><em>lọc cho sạch mỡ thừa bèo nhèo</em></strong> đi nha.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>Món này ngon nhất là bò bắp, đặc biệt là phần có gân xen thịt ấy. Thịt có thể bó tròn lại hoặc nếu là miếng to thì cắt thành một vài miếng nhỏ hơn (độ 200-300gram chẳng hạn). Khi luộc thịt bò nên<strong><em> cho thêm một ít dấm &amp; ít quế, hồi, thảo quả, gừng, tỏi, sả</em></strong>… cho thịt bò thơm. Ngoài thịt bò ra thì cả nhà có thể làm với thịt ba chỉ, thịt chân giò, tai, lưỡi heo, .. cũng rất ngon :)</p>
+<p>Cuối cùng, về các thứ nguyên liệu cho phần nước mắm ngâm. Thứ nhất là <strong><em>không nên dùng tỏi quá non</em></strong> vì sẽ dễ bị xanh khi ngâm (đấy là hóng hớt được thế chứ mình ngâm thì chưa bao giờ tỏi bị chuyển màu xanh cả). Thứ hai là nếu có thể thì nên dùng chanh vàng (lemon) thay cho chanh xanh (lime). Thật ra thì hai cái này cũng gần như nhau thôi, có cái là nếu dùng chanh vàng thì có thể đun nước ngâm mà không sợ chanh bị đắng. Thứ ba là <strong><em>cả thịt &amp; nước đều cần được để nguội rồi mới ngâm và thịt cần được ngập trong nước</em></strong> (nếu không sẽ dễ bị mốc &amp; hỏng).</p>
+<p>Vậy thôi ạ, có bao nhiêu vốn liếng thì bày hết ra rùi. Còn lại phần thực hành là thuộc về chị em. Chúc cả nhà thành công nhé ;)</p>
+<p><strong>Nguyên liệu</strong></p>
+<p><strong><em>Phần thịt bò</em></strong>:</p>
+<ul>
+<li><em>0.5kg thịt bò bắp</em></li>
+<li><em>1.5 thìa canh (22 ml) dấm</em></li>
+<li><em>1 cái hoa hồi + 1 mẩu gừng đập dập + 2 tép tỏi đập dập để luộc thịt bò (có thể cho them ít quế, thảo quả &amp; 1 nhánh sả đập dập nếu thích)</em></li>
+</ul>
+<p><em><strong>Phần nước mắm ngâm:</strong></em></p>
+<ul>
+<li><em>1 bát nước đun sôi để nguội</em></li>
+<li><em>2 quả chanh to</em></li>
+<li><em>Đường, nước mắm</em></li>
+<li><em>1 củ tỏi bóc vỏ – chẻ đôi các tép to</em></li>
+<li><em>3-4 nhánh tiêu xanh</em></li>
+<li><em>2 quả ớt đỏ (hoặc nhiều hơn tùy khẩu vị)</em></li>
+</ul>
+<p><strong>Cách làm</strong></p>
+<ol>
+<li>Thịt bò luộc với các gia vị ở trên đến khi chín mềm. Vớt ra, rửa qua nước lạnh rồi để nguội ở nhiệt độ phòng.</li>
+<li>Pha nước mắm chua ngọt theo thứ tự nước – chanh/ dấm – đường – nước mắm như đã “trình bày” ở trên. Đun ở lửa vừa đến sôi lăn tăn rồi tắt bếp để nguội (nếu dùng chanh xanh thì không nên đun vì sẽ dễ bị đắng). Ngoài ra có thể lọc qua rây cho nước mắm ngâm được trong. Nên pha nhiều một chút vì sau khi ngâm vài giờ nước có thể sẽ rút bớt, nên nếu có sẵn nước để thêm vào thì tiện hơn.</li>
+<li>Đợi thịt &amp; nước mắm nguội thì cho thịt vào hũ, cho tỏi, ớt, tiêu vào. Đổ nước mắm ngập thịt. Đậy kín. Cả nhà có thể bảo quản trong tủ lạnh. Mình để ngoài ở nhiệt độ phòng (tầm 20 độ). Sau khoảng 5-7 ngày ăn thấy ngon lắm rùi (mà cũng không nên để lâu quá vì thịt sẽ bị cứng, mất ngon).</li>
+</ol>
+<p>Đây là hũ thịt của mình sau 3 ngày ;)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6208291083/" title="Bò ngâm mắm by LinhTrang9185, on Flickr"><img alt="Bò ngâm mắm" class="aligncenter dung" height="500" loading="lazy" src="http://farm7.static.flickr.com/6143/6208291083_3173664188.jpg" width="332"/></a></p>
+<p><em><strong>Yêu cầu thành phẩm:</strong></em></p>
+<p>Thịt bò giòn thơm, ngấm nước mắm chua cay mặn ngọt. Nước ngâm trong màu hổ phách, mở lọ ra đã thấy mùi mắm dấm tỏi bay lên thơm phức rùi ;) Enjoy!</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6207050377/" title="Bò ngâm mắm by LinhTrang9185, on Flickr"><img alt="Bò ngâm mắm" class="aligncenter dung" height="500" loading="lazy" src="http://farm7.static.flickr.com/6180/6207050377_f404387a31.jpg" width="358"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

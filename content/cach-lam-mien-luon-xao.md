@@ -1,0 +1,71 @@
+---
+title: "Cách làm MIẾN LƯƠN XÀO"
+date: "2019-02-22"
+slug: "cach-lam-mien-luon-xao"
+categories: []
+tags: []
+image: "/wp-content/uploads/2019/02/cách-làm-miến-lươn-xào-banner.jpg"
+description: "Cách làm miến lươn xào: Một món ăn ngon với lươn xào mềm, lươn chiên giòn rụm quyện với hành răm thơm phức, sợi miến dai dai, giòn giòn và không hề bị bết"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p> </p>
+<p><span style="color: #000000;">Nếu miến lươn nước gây thương nhớ bởi hương vị thanh ngọt, mềm mại thì miến lươn xào lại vô cùng đưa miệng với sợi miến săn và tơi đều, thấm đậm vị lươn thơm ngon, ngọt thịt. Chỉ một chút rau cải, giá đỗ và lươn, nhưng xào làm sao cho khéo để miến không bị vón cục mà không phải dùng quá nhiều dầu lại không phải dễ. Thế nên trong công thức này, chúng mình sẽ hướng dẫn các bạn một bí kíp nho nhỏ để dù xào ít hay nhiều, hay có phải thay thế lươn bằng nguyên liệu khác thì vẫn đảm bảo cho ra món miến xào “bất bại” luôn nhé.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8152" height="685" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/mienluonxao8-1024x685.jpg" width="1024"/></p>
+<h2>CÁCH LÀM MIẾN LƯƠN XÀO</h2>
+<p><span style="color: #800000;"><strong>Nguyên liệu:</strong></span></p>
+<ul>
+<li><em><span style="color: #000000;">200 gr miến dong</span></em></li>
+<li><em><span style="color: #000000;">300 gr xương lợn</span></em></li>
+<li><em><span style="color: #000000;">500 gr lươn</span></em></li>
+<li><em><span style="color: #000000;">50 gr bột năng</span></em></li>
+<li><em><span style="color: #000000;">300 gr rau cải</span></em></li>
+<li><em><span style="color: #000000;">200 gr giá đỗ</span></em></li>
+<li><em><span style="color: #000000;">20 gr nấm hương</span></em></li>
+<li><em><span style="color: #000000;">20 gr rau răm</span></em></li>
+<li><em><span style="color: #000000;">10 gr hành lá</span></em></li>
+<li><em><span style="color: #000000;">20 gr hành khô</span></em></li>
+<li><em><span style="color: #000000;">1 quả trứng</span></em></li>
+<li><em><span style="color: #000000;">15 ml xì dầu</span></em></li>
+<li><em><span style="color: #000000;">15 ml dầu hào</span></em></li>
+<li><em><span style="color: #000000;">10 ml nước mắm</span></em></li>
+<li><em><span style="color: #000000;">10 gr hạt nêm</span></em></li>
+<li><em><span style="color: #000000;">4 gr tiêu xay</span></em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Cách làm:</strong></span></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p><span style="color: #000000;">1. Chuẩn bị lươn:</span></p>
+<p><span style="color: #000000;">– Lươn làm sạch, lọc thịt và xương riêng, để ráo nước. Một nửa lươn thái sợi dài, dày khoảng 1 – 1,5 cm để làm lươn chiên giòn. Một nửa lươn thái khúc ngắn khoảng 6 – 7 cm làm lươn xào mềm.</span></p>
+<p><span style="color: #000000;">Mỗi loại lươn ướp với 2 gr hạt nêm và 2 gr tiêu xay.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8146" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/mienluonxao1-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">2, Chuẩn bị các nguyên liệu khác:</span></p>
+<p><span style="color: #000000;">– Miến ngâm với nước lạnh trong khoảng 15 phút cho nở mềm, vớt ra để ráo. Trộn đều miến với 15 ml xì dầu, 15 ml dầu hào, 1 lòng đỏ trứng (trộn lòng đỏ trứng sẽ giúp miến khi xào không bị vón cục). (15 ml = 1 tablespoon/ thìa nhỡ loại dùng ăn phở)</span></p>
+<p><span style="color: #000000;">– Nấm hương ngâm với nước ấm trong 15 – 20 phút cho nở mềm, cắt bỏ chân, thái nhỏ một nửa.</span></p>
+<p><span style="color: #000000;">– Rau cải nhặt và rửa sạch, cắt khúc ngắn 6 – 7 cm. Giá đỗ rửa sạch vỏ, để ráo.</span></p>
+<p><span style="color: #000000;">– Rau răm hành lá nhặt rễ, rửa sạch. Rau răm thái rối, hành lá cắt lấy phần đầu trắng, chẻ nhỏ.</span></p>
+<p><span style="color: #000000;">– Hành khô bóc vỏ, 10 gr băm nhỏ, 20 gr nướng xém cạnh tới khi thơm, 30 gr còn lại thái mỏng để làm hành phi.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><img alt="" class="aligncenter size-large wp-image-8147" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/mienluonxao2-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">3. Ninh nước dùng: Xương lợn rửa sạch, luộc với nước sôi trong khoảng 2 – 3 phút cho ra hết bọt bẩn. Rửa lại rồi cho xương lợn và xương lươn vào ninh với khoảng 4 bát nước to. Thả vào nồi ninh hành khô đã nướng và khoảng 5 gr muối (1 thìa café). Hớt bọt nếu có.</span></p>
+<p><span style="color: #000000;">Ninh xương trên lửa nhỏ trong khoảng 30 phút.</span></p>
+<p><span style="color: #000000;">Sau 30 phút tiếp tục thả vào nồi ninh chỗ nấm hương chưa thái nhỏ. Đun liu riu thêm khoảng 15 phút. Nêm nước dùng với 10ml nước mắm và hạt nêm tới khi vừa miệng.</span></p>
+<p><span style="color: #000000;">4. Làm lươn chiên giòn:</span></p>
+<p><span style="color: #000000;">– Trộn lươn với 50 gr bột năng (bột ngô hay bột khoai cũng được) tới khi bột phủ đều miếng lươn. Lưu ý lươn phải thật khô ráo để bột không bị vón cục, chỉ phủ một lớp áo bột mỏng bên ngoài nếu không khi ăn miếng lươn sẽ cảm giác còn mùi bột.</span></p>
+<p><span style="color: #000000;">– Làm nóng lượng dầu trong chảo vừa đủ ngập mặt lươn, giũ bớt bột ở miếng lươn rồi thả vào chảo dầu. Chiên lươn trên lửa vừa tới khi lươn vàng giòn thì vớt ra, để ráo dầu.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8148" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/mienluonxao4-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">5. Làm lươn xào mềm:</span></p>
+<p><span style="color: #000000;">– Làm nóng một chút dầu trong chảo, cho 10 gr hành băm nhỏ vào phi thơm, cho tiếp lươn và nấm hương thái nhỏ vào đảo đều.</span></p>
+<p><span style="color: #000000;">– Xào lươn trên lửa lớn trong khoảng 2 phút cho lươn ra nước và săn lại thì hạ lửa vừa, xào tiếp trong 5 – 7 phút tới khi lươn chín mềm, gắp ra đĩa.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8149" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/mienluonxao5-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">6. Tiếp tục cho thêm chút dầu vào chảo đã xào lươn, đảo rau cải trong 2 phút cho rau chín tái thì cho tiếp giá đỗ, xào lửa to thêm khoảng 1 phút rồi đổ rau ra đĩa riêng.</span></p>
+<p><img alt="" class="aligncenter size-large wp-image-8150" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/02/mienluonxao6-1024x683.jpg" width="1024"/></p>
+<p><span style="color: #000000;">7. Làm nóng khoảng 15 ml dầu ăn (1 thìa canh) trên chảo, phi thơm đầu hành lá đã chẻ, cho miến vào xào tới khi sợi miến săn lại thì cho lần lượt lươn mềm, lươn giòn, rau cải, giá đỗ, rau răm. Đảo cho các nguyên liệu đều với nhau, nếu miến bị vón cục có thể cho từng thìa nhỏ nước dùng vào rồi dùng đũa đánh tơi.</span></p>
+
+
+<p><span style="color: #000000;">8. Gắp miến ra đĩa, rắc hành phi. Múc nước dùng ra bát con, rắc chút rau răm, dùng nóng với miến xào.</span></p>
+<p><span style="color: #000000;">*Yêu cầu thành phẩm: Sợi miến săn đều, ngấm gia vị, không vón cục hay ngấm dầu. Lươn xào và lươn giòn đậm đà, thơm ngọt. Các loại rau xào vừa chín tới, không bị nhũn nát.</span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

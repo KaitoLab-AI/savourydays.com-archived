@@ -1,0 +1,34 @@
+---
+title: "[Nhờ giúp đỡ] Thuê bếp/ studio tại Hà Nội"
+date: "2016-12-14"
+slug: "nho-giup-do-thue-bep-studio-tai-ha-noi"
+categories: ["Bếp nhà mình"]
+tags: []
+image: ""
+description: "tìm thuê bếp để nấu ăn tại Hà Nội"
+---
+
+<p>Cả nhà mến,</p>
+<p>Đầu năm tới mình sẽ về Việt Nam, về hẳn luôn chứ không chỉ một vài tuần như những năm trước :) Trong một vài tháng đầu tiên vì nhà cửa chưa kịp thu xếp ổn định nên mình cần tìm một nơi có thể dùng để nấu, nướng và chụp ảnh. Vì mình ở xa đã lâu, không biết nhiều thông tin ở Việt Nam nên nếu các bạn biết địa điểm nào phù hợp thì nhờ các bạn giới thiệu giúp mình nhé.</p>
+<p>1. Địa điểm: tại Hà Nội, nếu nằm trong khu vực quận Hoàn Kiếm hoặc Cầu Giấy thì rất tốt.</p>
+<p>2. Mình không cần gian bếp rất rộng, chỉ cần có đủ chỗ để di chuyển, thao tác khi nấu nướng và có đủ khoảng không để đặt máy quay. Ngoài ra, trong bếp cần có các dụng cụ làm bếp cơ bản gồm bếp, lò nướng, nồi niêu xoong chảo (một vài thứ cơ bản). Riêng đồ làm bánh và bát đĩa mình sẽ tự mang tới.</p>
+<p>3. Nếu bếp có thiết kế xinh xắn, không gian đẹp, có thể quay/ chụp ảnh thì quá ổn :) Nếu không thì mình chỉ cần có cửa sổ rộng, nhiều ánh sáng và có thể kê bàn gần sát cửa sổ để chụp ảnh là được.</p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>4. Mình chỉ cần sử dụng bếp vào một số ngày/ giờ trong tuần, vào ban ngày để có thể lấy được ánh sáng tự nhiên, thời gian trong khoảng quý 1 năm 2017.</p>
+<p>5. Mình cần không gian yên tĩnh để tập trung và hạn chế tối đa các âm thanh bên ngoài khi quay video. Do vậy căn phòng này nên biệt lập với các phòng hoặc khu vực xung quanh và nằm trong khu dân cư yên tĩnh thì rất tốt.</p>
+<p>Sơ qua thông tin là như vậy. Nhờ cả nhà giúp đỡ và giới thiệu địa điểm phù hợp (trong quý tới SD có bài mới hay không đều phụ thuộc ở việc này cả :) ). Các bạn có thể để lại thông tin liên hệ dưới bài này hoặc gửi mail giúp mình tới savourydaysvn@gmail.com nhé. Cảm ơn các bạn nhiều.</p>
+<div class="ac advertise-end">
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Sách học làm bánh của Linh Trang</h3>
+<a href="/gioi-thieu-sach/" onclick="trackOutboundLink('/gioi-thieu-sach/'); return false;"><img src="/wp-content/uploads/2015/07/nhat-ky-hoc-lam-banh-2.jpg"/></a>
+<br/><br/>
+<!-- quang cao google -->
+<!--matched content-->
+<h3 class="title" style="font: 16px/1.2em 'Segoe UI Semibold',sans-serif; text-transform: uppercase;">Những bài có thể bạn quan tâm:</h3>
+
+
+
+
+<br/>
+</div>

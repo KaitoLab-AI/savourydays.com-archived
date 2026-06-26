@@ -1,0 +1,71 @@
+---
+title: "[VIDEO] Cách làm BÁNH KEM DÂU KIỂU PHÁP (Frasier) – Không cần lò"
+date: "2018-03-11"
+slug: "video-cach-lam-banh-kem-dau-kieu-phap-frasier-khong-can-lo"
+categories: []
+tags: []
+image: "/wp-content/uploads/2018/03/cách-làm-bánh-kem-dâu-kiểu-pháp-banner-610x350.jpg"
+description: ""
+---
+
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><span style="color: #000000;">Fraisier cake (bánh kem dâu kiểu Pháp) là món bánh mà mình rất thích không chỉ bởi hương vị mà còn bởi cả hình thức rất đẹp và bắt mắt nữa. Bánh nguyên bản kiểu Pháp thường gồm hai phần bạt ga-tô mỏng, ở giữa là lớp kem trứng dày dặn và mịn, bọc quanh  bởi những lát dâu tươi rói, chỉ cần nhìn đã thấy mát rượi rồi. Phiên bản Fraisier của mình đã được cải tiến đi một chút. Mình thay bạt bánh ga-tô bằng Ladyfingers (Savoiardi hay bánh Săm-ba) – loại bánh quen thuộc vẫn được dùng trong các công thức bánh lạnh không cần lò của mình. Lý do chính là bởi loại bánh quy này được làm theo công thức của bánh ga-tô cơ bản, chỉ khác là sấy cho thành bánh quy giòn thôi. Nên sau khi được nhúng ẩm, bánh mềm hơn thì hương vị sẽ hầu như giống hoàn toàn với bạt bánh ga-tô. Rất tiện lợi và nhanh, và là giải pháp tốt cho các bạn không có lò nướng tại gia nữa. Ngoài phần bánh thì trong phần kem của món Fraisier của mình cũng được thêm rất nhiều dâu tây so với phiên bản gốc của Pháp, dâu với kem trứng và kem tươi ở trên cực kì hợp nhau, tươi mát, thơm ngon mà không hề ngấy tẹo nào. Cách làm, rất dễ thôi, như sau nhé:</span></p>
+<p><span style="color: #000000;"><strong><span style="color: #800000;">Dụng cụ</span>: </strong>Khuôn trái tim hoặc khuôn tròn đế rời đường kính 20 – 22 cm.</span></p>
+<p><span style="color: #000000;"><strong><span style="color: #800000;">Nguyên liệu</span> </strong></span></p>
+<p><span style="color: #000000;"><strong>A. Phần kem trứng custard</strong> </span></p>
+<ul>
+<li><em><span style="color: #000000;">6 gram gelatin (3 lá, không nên dùng gelatin dạng bột)</span></em></li>
+<li><em><span style="color: #000000;">4 lòng đỏ trứng gà (18 – 20 gram/ lòng đỏ) </span></em></li>
+<li><em><span style="color: #000000;">100 gram đường bột </span></em></li>
+<li><em><span style="color: #000000;">35 gram bột ngô </span></em></li>
+<li><em><span style="color: #000000;">400 ml sữa tươi ấm nóng </span></em></li>
+<li><em><span style="color: #000000;">1 tsp (5 ml) vani chiết xuất</span></em></li>
+<li><em><span style="color: #000000;">200 gram kem tươi lạnh – 30 -40% béo </span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">B. Phần bánh và dâu </span></strong></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<ul>
+<li><em><span style="color: #000000;">18 cái bánh lady fingers</span></em></li>
+<li><em><span style="color: #000000;">100 ml sữa tươi  không đường</span></em></li>
+<li><em><span style="color: #000000;">600 – 700 gram dâu tây tươi </span></em></li>
+</ul>
+<p><strong><span style="color: #000000;">C. Phần kem tươi trang trí </span></strong></p>
+<ul>
+<li><em><span style="color: #000000;">4 gram gelatin (2 lá)</span></em></li>
+<li><em><span style="color: #000000;">150 ml (150 gram) kem tươi 30 – 40% béo</span></em></li>
+<li><span style="color: #000000;"><em>20 gram đường bột</em>  </span></li>
+</ul>
+<p><span style="color: #800000;"><strong>Nguyên liệu &amp; Cách làm</strong></span></p>
+<p><span style="color: #000000;">Video cách làm bánh KEM DÂU TÂY KIỂU PHÁP (FRAISIER CAKE) đã được đăng tại <a href="https://www.youtube.com/user/savourydayscom?sub_confirmation=1" rel="noopener noreferrer" style="color: #000000;" target="_blank"><span style="color: #0000ff;">kênh YouTube của Savoury Days</span>.</a> Nếu không xem được tại website thì các bạn có thể xem trực tiếp trên YouTube theo<span style="color: #0000ff;"> <a href="https://youtu.be/0m2WGxWyRDw" rel="noopener noreferrer" style="color: #0000ff;" target="_blank"><strong>link này</strong></a></span> nhé. Video có chế độ HD, hướng dẫn cách bật HD ở cuối bài viết <strong><a href="https://youtu.be/AhsvW5TjQfc" rel="noopener noreferrer" style="color: #000000;" target="_blank"><span style="color: #0000ff;">cách làm bánh flan này</span>.</a> </strong></span></p>
+<p><span style="color: #000000;"><div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/0m2WGxWyRDw" width="560"></iframe></div></span></p>
+<p> </p>
+<p>TÓM TẮT CÁC BƯỚC CHÍNH</p>
+<p><span style="color: #000000;"><strong>1. Phần kem trứng custard </strong></span></p>
+<p><span style="color: #000000;">– Ngâm gelatin trong 40 – 50 ml nước mát khoảng 10 phút để gelatin nở mềm. Nên dùng gelatin dạng lá thay cho dạng bột. </span></p>
+<p><span style="color: #000000;">– Cho lòng đỏ trứng vào âu lớn. Rây đường vào âu, đánh tới khi trứng bông nhẹ, vàng nhạt. R</span><span style="color: #000000;">ây bột ngô, trộn đều cùng trứng đường. </span></p>
+<p><span style="color: #000000;">– Từ từ đổ sữa vào âu, trộn đều. Lọc hỗn hợp qua rây, cho vào nồi.</span></p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p><span style="color: #000000;">– B</span><span style="color: #000000;">ắc nồi lên bếp đun trên lửa vừa, quấy liên tục tới khi hỗn hợp sệt, nếm thử không thấy vị bột nữa thì tắt bếp. Lập tức vắt </span><span style="color: #000000;">ráo lá gelatin cho vào nồi, quấy nhanh tay cho tan hết. Hơi nóng trong nồi sẽ làm gelatin tan chảy, nếu gelatin không tan hết, cần cho thêm vào nồi một ít sữa, nấu trên lửa nhỏ và quấy tới khi gelatin tan hoàn toàn. </span></p>
+<p><span style="color: #000000;">– Cho vani vào trộn đều. T</span><span style="color: #000000;">a có hôn hợp kem sệt, mịn, mượt và thơm, không có mùi bột hay mùi tanh trứng. Để </span><span style="color: #000000;">nguội, cách 3 – 5 phút cần đảo đều một lần, tránh cho kem bị đặc và khô mặt. </span></p>
+<p><span style="color: #000000;">– Đánh 200 gram kem tươi đến khi kem đạt bông mềm, đặc, nhấc que đánh lên thấy có chóp nhưng chóp oặt xuống. </span></p>
+<p><span style="color: #000000;">– Cho từng thìa kem tươi vào âu kem trứng, nhẹ nhàng fold đều. Lưu ý, <strong>kem trứng đã nguội hoàn toàn, nếu không kem tươi sẽ bị chảy. </strong></span></p>
+<p><span style="color: #000000;">– Sau khi trộn xong hết thì cho hỗn hợp vào túi bắt kem để chuẩn bị ráp bánh </span></p>
+<p><span style="color: #000000;"><strong>2. Ráp bánh </strong></span></p>
+<p><span style="color: #000000;">– Chuẩn bị khuôn trái tim hoặc tròn đế rời, đường kính 20 – 22cm. </span></p>
+<p><span style="color: #000000;">– Cạo bớt đường trên bánh quy, nhúng nhanh vào sữa tươi rồi xếp kín đáy khuôn. Nếu dùng bánh Sampa do Việt Nam sản xuất, bánh thường cứng hơn nên sẽ phải nhúng sữa khá lâu. Còn nếu dùng bánh nhập từ nước ngoài thì chỉ cần nhúng nhanh cho hai mặt vừa đủ ẩm là được, nhúng lâu sẽ làm bánh dễ mềm nhũn. </span></p>
+<p><span style="color: #000000;">– Cắt đầu túi đựng kem trứng, phun kem phủ kín các khe hở giữa bánh. </span></p>
+<p><span style="color: #000000;">– Cắt bỏ cuống dâu. B</span><span style="color: #000000;">ổ đôi một vài quả, xếp quanh thành khuôn, áp mặt cắt sát với thành khuôn. P</span><span style="color: #000000;">hần dâu còn lại xếp vào trong khuôn, lên trên bánh. </span></p>
+<p><span style="color: #000000;">– Phun kem vào khuôn giữa các quả dâu, lưu ý các khe giữa những quả dâu áp quanh thành khuôn. Khi đã phun hết kem vào khuôn, dùng thìa dàn cho kem phẳng. Để bánh vào ngăn mát tủ lạnh trong khi đợi làm phần kem tươi trên cùng. </span></p>
+<p><span style="color: #000000;"><strong>3. Phần mousse kem tươi &amp; trang trí </strong></span></p>
+<p><span style="color: #000000;">– Ngâm gelatin trong 30 ml nước mát khoảng 10 phút để gelatin nở mềm rồi quay vi sóng 20 – 30 giây hoặc chưng cách thuỷ, quấy đều tới khi gelatin tan chảy hoàn toàn. </span><span style="color: #000000;">Để gelatin nguội bớt</span></p>
+<p><span style="color: #000000;">– Đánh 150ml kem tươi với 20 g đường rây mịn. Vừa đánh vừa từ từ đổ nước gelatin đã nguội vào. Đánh tới khi kem đạt bông cứng: kem đặc, mịn, mượt, úp ngược tô kem không bị rơi ra ngoài. <em><strong> </strong></em></span></p>
+<p><span style="color: #000000;">–  Phủ kem này lên mặt lớp kem dâu, dàn phẳng mặt. Đ</span><span style="color: #000000;">ể bánh vào tủ lạnh khoảng 2 giờ tới khi kem đông hoàn toàn. </span></p>
+
+
+<p><span style="color: #000000;">– Dùng một con dao lưỡi mỏng chạy quanh thành khuôn, nhẹ nhàng gỡ bánh ra khỏi khuôn. Trang trí bánh bằng các lát dâu cắt mỏng. Dùng trong 1 – 2 ngày. </span></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->

@@ -1,0 +1,101 @@
+---
+title: "Bánh cuộn Raffaello (kem tươi chocolate & dừa)"
+date: "2012-12-18"
+slug: "banh-cuon-rafaello"
+categories: []
+tags: []
+image: "/wp-content/uploads/2012/12/RafaelloRoll1.jpg"
+description: "yule log, khúc cây giáng sinh, bánh cuộn, gateau, kem tươi, raffaello"
+---
+
+<!-- <font color="red"><b>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.<br>-------------------------------</b><br></font> -->
+<p><strong>* <span style="color: #ff0000;">Vui lòng đọc kĩ bài viết và các phản hồi trước khi đặt câu hỏi </span></strong></p>
+<p><strong>* Toàn bộ nội dung bài viết và hình ảnh (trừ những hình ảnh có ghi nguồn trích dẫn) thuộc bản quyền của Savoury Days. Các bạn có thể lưu lại công thức để sử dụng cho mục đích cá nhân. Nhưng <span style="color: #ff0000;">không được sử dụng hoặc đăng tải lại với các mục đích liên quan đến thương mại. Nếu muốn chia sẻ, vui lòng liên hệ với tác giả và ghi đầy đủ đường dẫn nguồn bài viết</span>.</strong></p>
+<p>——————————————</p>
+<p>Thêm một “khúc cây” nữa cho Giáng sinh nhé, nhưng mà khúc cây lần này ngược hẳn với <a href="/banh-khuc-cay-giang-sinh/">khúc củi lần trước</a>, từ trong ra ngoài trắng tinh, rất mềm mịn và thơm phức vị dừa… :)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8287164272/" title="Raffaello Roll Cake by LinhTrang9185, on Flickr"><img alt="Raffaello Roll Cake" class="aligncenter" height="335" loading="lazy" src="http://farm9.staticflickr.com/8341/8287164272_9b0c8f3350.jpg" width="500"/></a></p><div align="center" id="google-ads-body-post-mid">
+
+
+</div>
+<p>Ý tưởng cho khúc cây lần này xuất phát từ Raffaello cake, hay đúng hơn là kẹo dừa Raffaello rất nổi tiếng với lớp vỏ xốp giòn tan bọc lấy nhân hạt bùi thơm và kem chocolate trắng tuyệt hảo. Cốt bánh cuộn thì mình vẫn dùng cốt Gateau Nhật Bản, chỉ thay đổi định lượng nguyên liệu một chút. Vì thời gian vừa rồi mình có thử một vài công thức bánh cuộn theo kiểu Chiffon nhưng thật sự là không có công thức nào đủ “mạnh” để “oánh bật” Gateau Nhật Bản về độ mềm, mịn, xốp, nhẹ và nhất là dễ cuộn của nó. Còn phần kem bánh mình dựa theo công thức của chị <a href="http://giadinhnepteanfa.wordpress.com/2012/05/25/baking-challenge-32-raffaello-cake/">Giadinhnepteanfa</a>, dùng làm đề bài cho Baking challenge, tuy không được 100% như kem trong kẹo Rafaello nhưng chắc cũng phải một 8 một 10 ;)</p>
+<p><span style="color: #800000;"><strong>Nguyên liệu</strong></span></p>
+<p><strong>A. Bạt bánh cuộn </strong></p>
+<ul>
+<li><em>15gram bơ nhạt</em></li>
+<li><em>25gram dầu ăn</em></li>
+<li><em>40gram sữa tươi không đường</em></li>
+<li><em>4 lòng đỏ trứng gà (20 gram/ lòng đỏ)</em></li>
+<li><em>25gram bột mỳ đa dụng</em></li>
+<li><em>25gram bột ngô</em></li>
+<li><em>½ thìa cafe vanilla</em></li>
+</ul>
+<ul>
+<li><em>4 lòng trắng trứng (30-33gram/ lòng trắng) – nhiệt độ phòng, sạch, không dính chất béo </em></li>
+<li><em>1 nhúm nhỏ muối</em></li>
+<li><em>½ thìa cafe cream of tartar</em></li>
+<li><em>60gram đường</em></li>
+</ul>
+<p><strong>B. Phần kem Chocolate</strong></p>
+<ul>
+<li><em>250ml kem tươi có hàm lượng béo từ 35-40%</em></li>
+<li><em>70gram chocolate trắng</em></li>
+<li><em>10gram bơ nhạt </em></li>
+<li><em>3-4 thìa canh dừa sấy hoặc dừa tươi bào sợi </em></li>
+<li><em>Trang trí: chocolate trắng bào vụn, hoa quả tùy thích </em></li>
+</ul>
+<p><span style="color: #800000;"><strong>Dụng cụ</strong></span></p>
+<ul>
+<li><em>Cân &amp; rây </em></li>
+<li><em>2 âu lớn </em></li>
+<li><em>Máy đánh trứng </em></li>
+<li><em>Phới lồng &amp; spatula (phới trộn bột)</em></li>
+<li><strong><em>Khuôn bánh cuộn (có thể dùng khay trong khoảng 20 x 30cm – 25x35cm)</em></strong></li>
+<li><em>Giấy nến hoặc giấy trắng lót đáy khuôn </em></li>
+<li><em>Khăn sạch để cuộn bánh </em></li>
+<li><em>Dao trét kem, túi bắt kem &amp; đui bắt kem </em></li>
+</ul>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8284547458/" title="Raffaello Roll Cake by LinhTrang9185, on Flickr"><img alt="Raffaello Roll Cake" class="aligncenter" height="500" loading="lazy" src="http://farm9.staticflickr.com/8340/8284547458_6f2440d112.jpg" width="395"/></a><br/>
+<span style="color: #800000;"><strong>Cách làm</strong></span></p>
+<p><span id="more-3487"></span><strong>A. Bạt bánh cuộn</strong></p>
+<p><span style="color: #800000;">* <em><strong>Mình copy lại công thức gateau Nhật Bản để các bạn tiện theo dõi, ct gốc là khuôn tròn nên ảnh minh họa có đôi chỗ hơi khác nhé.</strong></em></span></p>
+<p>1. Vặn lò 170 độ C – hai lửa. Lót một miếng giấy nướng bánh hoặc giấy trắng xuống đáy khuôn, <strong>không</strong> chống dính thành khuôn.</p>
+<p>2. Rây bột mỳ và bột ngô vào bát, dùng phới lồng đánh trứng cầm tay trộn đều.</p><div align="center" id="google-ads-body-post-end">
+
+
+</div>
+<p>3. Đun sôi một chút nước trong nồi. Cho bơ, sữa tươi và dầu ăn vào âu. Đợi nước sôi thì đặt âu lên miệng nồi (<strong>lưu ý: đáy âu không chạm nước)</strong>, dùng thìa hoặc phới lồng đánh trứng quấy đều đến khi bơ tan, hỗn hợp hòa quyện và ấm nóng (khoảng 40-45 độ C, <strong>không nóng hơn</strong>) (hình 1-2)</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6890518213/" title="2012-02-155 by LinhTrang9185, on Flickr"><img alt="2012-02-155" class="aligncenter" height="354" loading="lazy" src="http://farm8.staticflickr.com/7197/6890518213_58605c38a6.jpg" width="500"/></a></p>
+<p>4. Bắc nồi ra khỏi bếp, rây bột vào âu, nhanh tay trộn đều. Cho lòng đỏ trứng và vanilla vào, trộn đều để có một hỗn hợp mịn và mượt (hình 3-6). * <strong>Lưu ý quan trọng</strong>: <span style="color: #ff0000;">nếu hỗn hợp bơ sữa quá nóng, các bạn hãy để cho hỗn hợp nguội bớt mới rây bột, hoặc có thể trộn trứng trước rồi mới trộn bột, tránh để bột bị vón cục.</span></p>
+<p>5. Dùng một chiếc âu khác để đánh lòng trắng trứng. Để máy ở tốc độ thấp, đánh lòng trắng khoảng 40-50giây, đến khi các bọt khí lớn bắt đầu xuất hiện. Cho muối và cream of tartar vào, tăng dần tốc độ máy lên mức gần cao nhất. Đánh đến khi các bọt khí nhỏ dần, trông gần giống như bọt xà phòng giặt hay bọt cạo râu thì từ từ cho đường vào (cho từng chút một, sẽ mất khoảng 30-40giây để cho hết chỗ đường, trong lúc cho đường vẫn giữ máy chạy ở tốc độ cao). Lòng trắng sẽ bông và đặc dần, đạt chóp mềm (soft peak như trong hình 8). Tiếp tục đánh lòng trắng trứng đến khi bông cứng (stiff-peak) (hình 9-10).</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/6890517715/" title="2011-11-133 by LinhTrang9185, on Flickr"><img alt="2011-11-133" class="aligncenter" height="354" loading="lazy" src="http://farm8.staticflickr.com/7202/6890517715_017563d828.jpg" width="500"/></a></p>
+<p><strong>Ghi chú:</strong></p>
+<p><em>– Lòng trắng trứng ở <strong>nhiệt độ phòng</strong>, <strong>không dính</strong> tạp chất, đặc biệt là các chất béo như bơ, dầu, mỡ, lòng đỏ.</em></p>
+<p><em>– Âu đánh và que đánh phải <strong>sạch và khô</strong>, không dính chất béo như bơ, dầu mỡ, long đỏ..</em></p>
+<p><em>– Với công thức này nhất định phải đánh lòng trắng trứng đạt đến “stiff-peak” (bông cứng). Khi đạt đến stiff peak thì lòng trắng sẽ rât bông và “cứng”, đánh cảm giác nặng tay (nếu dùng máy đánh trứng cầm tay hoặc đánh bằng phới lồng cầm tay). Nhìn bên ngoài thấy lòng trắng bóng mịn và cảm giác lòng trắng dẻo. Nhấc que lên thấy trứng dính trên đầu que, hoàn toàn không rung rinh hay lay chuyển gì. Lòng trắng đánh đến đây là vừa chuẩn, không nên đánh lâu hơn nữa vì có thể sẽ làm cho lòng trắng bị “khô”, hiện tượng là lòng trắng không còn bóng mịn mà lồng phồng và rời rạc giống bọt xà phòng giặt. </em></p>
+<p>6. Lấy 1/3 chỗ lòng trắng trứng cho vào âu bơ &amp; lòng đỏ ở (4). Quấy đều, thoải mái (hình 13). Mục đích của bước này là làm cho hỗn hợp bơ &amp; lòng đỏ loãng hơn, để về sau trộn với lòng trắng dễ hơn nên các bạn có thể quấy thoải mái, không phải rón rén gì cả.</p>
+<p>7. Chia chỗ lòng trắng còn lại thành 2 phần, lần lượt cho vào âu. Dùng <a href="/?p=910">kỹ thuật fold</a> trộn đều sau mỗi lần thêm lòng trắng, hỗn hợp bột cuối cùng sẽ mịn &amp; mượt (hình 14-15).</p>
+<p><strong>Ghi chú</strong>:</p>
+<p><em>– Khi trộn các hỗn hợp nhẹ &amp; nhiều bọt khí như lòng trắng trứng đánh bông, luôn trộn theo cách đảo &amp; xúc từ dưới lên, để bột từ dưới phủ lên trên lòng trắng, không quấy vì dễ làm xẹp hoặc vỡ quá nhiều bọt khí, bánh sẽ nở kém.</em></p>
+<p><em>– Trộn nhẹ tay, dứt khoát và <strong>theo một chiều</strong> – không đảo xuôi ngược lung tung nhé.</em></p>
+<p>8. Đổ bột vào khuôn.  Dùng spatula dàn phẳng mặt bột. Vỗ nhẹ hoặc gõ nhẹ khuôn xuống bàn cho các bọt khí to vỡ bớt.</p>
+
+
+<p>9. Nướng ở 170 độ C (hai lửa, cả trên &amp; dưới) trong khoảng 25-30 phút hoặc đến khi bánh chín vàng mặt, ấn nhẹ lên mặt bánh thấy lập tức phồng trở lại, cắm que thử vào giữa bánh rút lên thấy que sạch và khô.</p>
+<p>10. Bánh chín lấy ra khỏi lò và lập tức dùng dao mỏng rạch quanh thành trong của khuôn, đặt rack lên mặt khuôn rồi úp ngược để lấy bánh ra. Bóc bỏ lớp giấy lót ở đế bánh.</p>
+<p>11. <strong>Cuộn bánh</strong>: Bánh rất dai, hoàn toàn có thể cuộn nguội nhưng nếu không quen thì nên cuộn khi bánh còn nóng ấm. Mình cuộn cho mặt đáy của bánh ra ngoài và cuộn theo chiều dài của bánh để bánh có nhiều vòng. Cách cuộn kèm theo hình minh họa các bạn xem thêm ở <strong><a href="/banh-cuon-kem-tuoi-dua-tra-xanh/">ĐÂY</a>. </strong>Gateau Nhật Bản là loại bánh mềm và dai nên nhìn chung sẽ không có vấn đề gì khi cuộn. Nhưng từ kinh nghiệm bản thân thì mình thấy khi cuộn <strong>các bạn cuộn càng dứt khoát và nhanh thì bánh càng đẹp.</strong> Do tâm lý của những người mới làm thường hay sợ bánh nứt và gãy, nên hay cuộn rón rén. Và kể cả bánh có nứt một chút cũng không phải là vấn đề lớn lắm, vì có thể phủ kem che được :)</p>
+<p><strong>B. Kem Chocolate</strong></p>
+<p>1. Làm <strong>Chocolate Ganache</strong>:</p>
+<p>– Bẻ chocolate thành miếng nhỏ, cho vào bát cùng bơ.</p>
+<p>– Đun sôi 70ml kem tươi (bằng nồi hoặc lò vi sóng).</p>
+<p>– Đổ kem tươi vào bát đựng chocolate và bơ. Để nguyên khoảng 1-2 phút rồi quấy đều đến khi chocolate tan hết và hỗn hợp hòa quyện (<em>nếu chocolate không tan hết, các bạn có thể cho vào lò vi sóng quay thêm khoảng 10 – 15 giây, nhưng không quay quá lâu đề phòng chocolate bị cháy</em>).</p>
+<p>– Để nguội. Ta sẽ có hỗn hợp Chocolate Ganache hơi sệt.</p>
+<p>2. <strong>Kem tươi đánh bông</strong>: Phần kem tươi còn lại (180ml) để vào ngăn đá khoảng 5 phút. Đánh đến bông mềm. Để cả âu kem vào tủ lạnh khoảng 20-30 phút.</p>
+<p><strong>* Ghi chú:</strong></p>
+<p>– Kem tươi nên chọn loại có hàm lượng béo cao. Tốt nhất là kem 40% béo, nếu không là 35% béo. Không nên dùng loại thấp hơn. Mình không có kem topping để thử nhưng mình nghĩ thay bằng kem topping không có vấn đề gì.</p>
+<p>– Vì kem tươi còn phải trộn với Ganache nên <em>chỉ đánh kem đến bông mềm để tránh kem bị tách nước khi trộn</em>. Cụ thể là khi chạy máy thấy có vân hiện ra trên mặt kem, kem tương đối đặc và đông, nhưng chưa đến mức nghiêng tô không thấy kem dịch chuyển (bông cứng).</p>
+<p>3. Sau khi Ganache nguội hẳn và kem tươi cũng đã lạnh (cả Ganache và kem đều đặc hơn), thì đổ Ganache vào âu kem. Dùng phới lồng trộn nhẹ nhàng theo một chiều đến khi hỗn hợp hòa quyện thành một dạng kem sánh đặc. Tốt nhất là nên trộn theo kiểu fold để tránh kem bị tách nước. <em>Để cả âu kem vào tủ lạnh thêm tối thiểu 30 phút. Nếu có thời gian, nên để khoảng 1.5 – 2h trong tủ lạnh, kem sẽ đặc hơn rất nhiều, trang trí bánh sẽ dễ hơn.</em></p>
+<p><strong>C. Cuộn bánh</strong></p>
+<p>Sau khi bánh nguội, các bạn mở bánh ra, trét phần kem Chocolate lên mặt bánh, rắc dừa sấy hoặc dừa tươi đều lên kem rồi cuộn lại. Trang trí bánh bằng kem tươi và hoa quả tùy thích. Bánh trong hình mình trang trí bằng kem tươi đánh bông (<em>phần kem này <strong>không</strong> có trong công thức</em>), dùng đui 1M Wilton (sò mở 6 cánh). Phần viền bánh cũng dùng đui 1M, cầm túi gần như song song với thân bánh, bắt kem từng chút một, kem sẽ ra viền như trong hình.</p>
+<p>Bánh có thể để tủ lạnh, dùng trong khoảng 2-3 ngày.</p>
+<p><a href="http://www.flickr.com/photos/55490207@N05/8287164028/" title="Raffaello Roll Cake by LinhTrang9185, on Flickr"><img alt="Raffaello Roll Cake" class="aligncenter" height="352" loading="lazy" src="http://farm9.staticflickr.com/8069/8287164028_d5bb81426c.jpg" width="500"/></a></p>
+<!-- <font color="red"><b><br>-------------------------------<br>THÔNG BÁO: Từ ngày 31.08.2016 đến 15.09.2016 mình sẽ không trả lời được câu hỏi trên tất cả các kênh của Savoury Days (blog, facebook, youtube, ...). Mong các bạn thông cảm.</b><br></font> -->
