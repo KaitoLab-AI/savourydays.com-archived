@@ -43,5 +43,12 @@
 <footer style="text-align:center;padding:2rem;color:#aaa;font-size:.85rem;">
   © Savoury Days · Lưu trữ
 </footer>
+<script>
+document.addEventListener('error', function(e) {
+  if (e.target.tagName === 'IMG' && !e.target.classList.contains('thumb')) {
+    e.target.style.display = 'none';
+  }
+}, true);
+</script>
 </body>
 </html>

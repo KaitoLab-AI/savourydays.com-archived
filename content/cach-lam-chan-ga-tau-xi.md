@@ -37,7 +37,7 @@ description: ""
 <p><span style="color: #000000;"> 2. </span><span style="color: #000000;">Vớt chân gà ra để thật ráo nước. Trộn vào 100 gr bột năng, xóc cho đều để bột phủ hết chân gà, lớp bột này sẽ giúp chân gà chiên giòn hơn.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-7872" height="684" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/changatauxi2-1024x684.jpg" width="1024"/></p>
 <p><span style="color: #000000;"> 3. </span><span style="color: #000000;">Làm nóng lượng dầu vừa đủ chiên ngập chân gà. Thả chân gà vào chiên lửa vừa trong 5 – 7 phút tới khi da vừa giòn. Không chiên quá lâu sẽ làm chân gà bị khô cứng. Vớt chân gà ra khỏi chảo, thả ngay vào tô nước đá và để tủ lạnh trong khoảng 30 phút. Việc ngâm chân gà trong nước lạnh sẽ giúp da gà phồng lên sau khi nấu.</span></p>
-<p><img alt="" class="aligncenter size-large wp-image-7868" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/4-1024x683.jpg" width="1024"/></p>
+<p><img alt="" class="aligncenter size-large wp-image-7868" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/4.-mutduasoisquare-1024x1022.jpg" width="1024"/></p>
 <p><span style="color: #000000;">4. </span><span style="color: #000000;">Chân gà sau khi ngâm nước lạnh thì vớt ra trộn đều cùng 15 ml xì dầu, 15 ml dầu hào, 45 ml tương đậu đen, 5 ml dầu vừng, 2 gr bột ngũ vị hương, 2 gr tiêu xay. Để ngấm gia vị trong 5 – 10 phút.</span></p>
 <p><span style="color: #000000;">* 15 ml tương đương 1 tablespoon/ 1 thìa canh (thìa nhỡ để ăn phở)</span></p>
 <p><span style="color: #000000;">* 5 ml tương đương 1 teaspoon/ 1 thìa café (thìa nhỏ ăn sữa chua)</span></p>

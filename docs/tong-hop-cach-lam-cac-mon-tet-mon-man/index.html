@@ -174,5 +174,12 @@ Phần 1: Các bí quyết để làm giò chả ngon, không bị bở: <a href
 <footer style="text-align:center;padding:2rem;color:#aaa;font-size:.85rem;">
   © Savoury Days · Lưu trữ
 </footer>
+<script>
+document.addEventListener('error', function(e) {
+  if (e.target.tagName === 'IMG' && !e.target.classList.contains('thumb')) {
+    e.target.style.display = 'none';
+  }
+}, true);
+</script>
 </body>
 </html>

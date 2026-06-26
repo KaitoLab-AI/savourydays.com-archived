@@ -33,5 +33,5 @@ description: "Cách làm cheesecake nướng cháy cực đơn giản với máy
 <p><span style="font-weight: 400;">– Kiểm tra bánh chín: Bánh nướng càng lâu sẽ càng khô hơn. Nếu bạn muốn ăn ở giữ bánh mềm chảy thì như video thì kiểm tra bằng cách lắc khuôn bánh, nếu viền xung quanh đã khô không di chuyển, còn khoảng giữa bánh vẫn rung rinh là được (phần còn rung rinh này sẽ có đường kính khoảng 5cm chính giữa bánh). Không nên nướng bánh non quá, khi nguội bánh sẽ không định hình được và chảy lỏng.</span></p>
 <p><span style="font-weight: 400;">– Nếu bạn muốn ăn bánh chín hẳn và khô ráo thì nướng khoảng 25 – 28 phút, tới khi lắc thấy bánh không còn rung rinh.</span></p>
 <p><span style="font-weight: 400;">4. Sau khi nướng, để bánh nguội hoàn toàn rồi để lạnh tối thiểu 4 giờ trước khi ăn. Bảo quản bánh trong ngăn mát và dùng trong 3 – 4 ngày.</span></p>
-<p><img alt="" class="alignnone wp-image-9169" height="438" loading="lazy" sizes="(max-width: 654px) 100vw, 654px" src="/wp-content/uploads/2022/06/IMG_8112-300x201.jpg" width="654"/></p>
+<p><img alt="" class="alignnone wp-image-9169" height="438" loading="lazy" sizes="(max-width: 654px) 100vw, 654px" src="/wp-content/uploads/2022/06/IMG_8112-768x515.jpg" width="654"/></p>
 

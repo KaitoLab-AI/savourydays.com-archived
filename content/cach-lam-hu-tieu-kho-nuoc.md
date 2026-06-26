@@ -59,7 +59,7 @@ description: "cách làm hủ tiếu khô và hủ tiếu nước: Một món ă
 <p><span style="color: #000000;">8. Xào thịt băm: Dùng chảo vừa phi tỏi, cho vào 1 thìa canh/ 15 ml dầu tỏi ở bước 7, đun nóng chảo, cho thịt băm vào xào đến khi thịt săn, chín hoàn toàn, trút ra bát, để riêng.</span></p>
 <p><img alt="" class="aligncenter size-large wp-image-8257" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/03/hutieu8-1024x683.jpg" width="1024"/></p>
 <p><span style="color: #000000;">9. Xào tôm, mực: Cho thêm vào chảo 1 thìa canh dầu tỏi, đun chảo thật nóng, cho tôm, mực vào xào nhanh tay 2’ đến khi tôm mực vừa chín, trút ra bát, để riêng.</span></p>
-<p><img alt="" class="aligncenter size-large wp-image-8258" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/03/hutieu9-1024x683.jpg" width="1024"/></p>
+<p><img alt="" class="aligncenter size-large wp-image-8258" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/03/hutieu9-300x200.jpg" width="1024"/></p>
 <p><span style="color: #000000;">10. Đun 1 nồi nước sôi, thả cải cúc vào trần khoảng 2 phút cho cải chín, vớt ra nhúng vào âu nước lạnh để cải giữ màu xanh và không bị chín thêm. Tiếp tục trần sơ giá trong nồi nước sôi khoảng 30 giây, vớt ra để ráo. </span></p>
 <p><span style="color: #000000;">11. Luộc hủ tiếu khô đến khi vừa mềm, đổ ra rổ, xả kỹ dưới vòi nước sạch cho hết bột, xóc ráo nước. Cho vào 2 thìa canh dầu tỏi, đảo đều cho các sợi mỳ không bị dính vào nhau.</span></p>
 

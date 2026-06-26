@@ -9,7 +9,7 @@ description: ""
 ---
 
 <p><span style="color: #000000;">Trong những ngày Tết bận rộn, thực đơn nhà nhà đều giống nhau với các món truyền thống như nem, giò, bánh chưng, canh măng… thì 1 đĩa thịt ba chỉ ngâm mắm thái miếng mỏng, màu nâu vàng cánh gián óng ả với phần bì trong veo, thớ thịt săn chắc, đậm đà, lạ miệng, ngon và chống ngán rất hiệu quả. Món này có thể ăn kèm với bánh chưng rất hợp, hoặc cầu kì hơn là cuốn với các loại rau thơm, cà rốt, chuối xanh, dứa, dưa chuột… thành món gỏi cuốn vô cùng hấp dẫn.</span></p>
-<p><img alt="" class="aligncenter size-large wp-image-7900" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/bachingammamfinal-1024x683.jpg" width="1024"/></p>
+<p><img alt="" class="aligncenter size-large wp-image-7900" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="/wp-content/uploads/2019/01/bachingammamfinal-610x350.jpg" width="1024"/></p>
 <p><span style="color: #800000;"><strong>Nguyên liệu:</strong></span></p>
 <ul>
 <li><em><span style="color: #000000;">1 kg thịt ba chỉ, chọn phần thịt nhiều nạc, mỡ và thịt không bị rời nhau</span></em></li>
